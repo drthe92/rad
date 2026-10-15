@@ -1,4 +1,13 @@
-# 00 — Tổng quan hệ Ngực / Chest overview
+---
+unit_id: "001"
+subspecialty: Chest
+anatomical_location: "ngực (chest)"
+primary_pattern: "tổng quan (overview)"
+tags: [tong-quan]
+certainty: tong-hop-y-van
+---
+
+# 001 — Tổng quan hệ Ngực / Chest overview
 
 **Tags:** `tong-quan`
 **Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — khung khởi tạo.
@@ -6,16 +15,16 @@
 ## Bảng so sánh phân biệt bắt buộc (hệ Ngực)
 | Mẫu hình (pattern) | Vị trí (location) | Gamut chính (DDx) | Phân biệt nhanh | Bài chi tiết |
 |---|---|---|---|---|
-| Nốt (nodule) | Phổi (lung) | U hạt (granuloma), ung thư (cancer), hamartoma | Bờ gai (spiculation), kính mờ (ground-glass) | [02](../02-not-phoi/lesson.md) |
-| Đông đặc (consolidation) | Phổi | Viêm phổi (pneumonia), NMCT, xuất huyết (hemorrhage) | Phế quản hơi (air bronchogram), động | [03](../03-dong-dac-xep-phoi/lesson.md) |
-| Xẹp (atelectasis) | Phổi | Tắc (obstruction), chèn ép (compression) | Di lệch rãnh liên thùy (fissure) | [03](../03-dong-dac-xep-phoi/lesson.md) |
-| Tràn dịch (effusion) | Màng phổi (pleura) | Dịch thấm (transudate), dịch tiết (exudate), máu (hemothorax) | Meniscus, tư thế nằm (decubitus) | [04](../04-tran-dich-mang-phoi/lesson.md) |
+| Nốt (nodule) | Phổi (lung) | U hạt (granuloma), ung thư (cancer), hamartoma | Bờ gai (spiculation), kính mờ (ground-glass) | [020](../020-not-phoi/lesson.md) |
+| Đông đặc (consolidation) | Phổi | Viêm phổi (pneumonia), NMCT, xuất huyết (hemorrhage) | Phế quản hơi (air bronchogram), động | [030](../030-dong-dac-xep-phoi/lesson.md) |
+| Xẹp (atelectasis) | Phổi | Tắc (obstruction), chèn ép (compression) | Di lệch rãnh liên thùy (fissure) | [030](../030-dong-dac-xep-phoi/lesson.md) |
+| Tràn dịch (effusion) | Màng phổi (pleura) | Dịch thấm (transudate), dịch tiết (exudate), máu (hemothorax) | Meniscus, tư thế nằm (decubitus) | [040](../040-tran-dich-mang-phoi/lesson.md) |
 
 ## Bài liên quan chéo
-- [01 – Giải phẫu ngực cắt lớp](../01-giai-phau-nguc-cat-lop/lesson.md)
-- [02 – Nốt phổi](../02-not-phoi/lesson.md)
-- [03 – Đông đặc – xẹp phổi](../03-dong-dac-xep-phoi/lesson.md)
-- [04 – Tràn dịch màng phổi](../04-tran-dich-mang-phoi/lesson.md)
+- [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
+- [020 – Nốt phổi](../020-not-phoi/lesson.md)
+- [030 – Đông đặc – xẹp phổi](../030-dong-dac-xep-phoi/lesson.md)
+- [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md)
 
 ---
 ## 1. Tổng quan bệnh học – cơ chế hình ảnh
@@ -27,7 +36,7 @@
 - Ví dụ: nốt (nodule) phổi → gamut theo vùng: trung tâm / ngoại vi / màng phổi (pleura).
 
 ## 3. Bảng so sánh phân biệt
-| Thực thể (entity) | Hình ảnh điển hình | Điểm khác biệt chính | Gợi ý xác nhận |
+| Thực thể (entity) | Hình ảnh điển hình (US/CT/MRI theo thì) | Chốt vào (rule-in) | Chốt loại (rule-out) | Gợi ý xác nhận |
 |---|---|---|---|
 | ... | ... | ... | ... |
 
@@ -51,7 +60,7 @@
 - [ID – Tên](../NN-slug/lesson.md)
 
 ## Ảnh
-- Ảnh local: `images/ten-anh.jpg` — xem `images/CREDITS.md` để rõ nguồn + giấy phép (license) từng ảnh.
+- Ảnh local: `images/NNN_slug_Modality_SourceID.jpg` — xem `images/CREDITS.md` để rõ nguồn + giấy phép (license) từng ảnh.
 - Không tải được (paywall / cấm): dẫn link gốc ở đây + trong `sources.md`.
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

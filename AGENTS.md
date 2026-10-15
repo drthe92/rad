@@ -22,18 +22,19 @@
 | CataractCoach | Video (video) phẫu thuật (tham khảo can thiệp (intervention)) | Dẫn link |
 
 ## Quy ước bất biến
-- Mỗi chủ đề một folder `NN-slug/` (NN = ID (identifier) ổn định, KHÔNG BAO GIỜ đánh lại số).
-- Mỗi bài: `images/` (tải về, ghi nguồn + giấy phép từng ảnh; không tải được thì dẫn link) + `lesson.md` + `sources.md` (link gốc).
+- Mỗi chủ đề một folder `NNN-slug/` (NNN = ID (identifier) 3 chữ số, ổn định, KHÔNG BAO GIỜ đánh lại số).
+- Mỗi bài: `images/` (tải về, ghi nguồn + giấy phép từng ảnh; không tải được thì dẫn link) + `lesson.md` (mở đầu bằng frontmatter YAML gọn, map từ schema Gamut-First của Argon) + `sources.md` (link gốc).
+- Frontmatter bắt buộc: `unit_id, subspecialty, anatomical_location, primary_pattern, tags[pattern/vung/score/anatomy/protocol/incidentaloma], certainty, sources[]`. `index.html` đọc tags để lọc 4 chiều.
 - `lesson.md` đúng khung 6 mục (xem `templates/lesson-template.md`):
   1. Tổng quan bệnh học (pathology)-cơ chế hình ảnh (imaging mechanism);
   2. Mẫu hình (pattern) + chẩn đoán phân biệt theo vị trí (gamut, theo vị trí (location));
-  3. Bảng so sánh phân biệt;
-  4. Protocol (giao thức) chụp + hệ phân độ/điểm chuẩn hóa (scoring/grading system);
+  3. Bảng so sánh phân biệt (ma trận đối chiếu — bắt buộc 2 cột Chốt vào/Chốt loại theo Argon);
+  4. Protocol (giao thức) chụp + hệ phân độ/điểm chuẩn hóa (scoring/grading system) + sơ đồ Mermaid flowchart khi có RADS (Fleischner, Lung-RADS trước);
   5. Biến thể bình thường (normal variant) và cạm bẫy (pitfall);
   6. Tự lượng giá 3 câu.
 - **Việt hóa 100%**: tiếng Việt lên trước, thuật ngữ Anh giữ trong ngoặc ở lần đầu (để tra y văn (literature)).
 - Nhãn mức chắc chắn (certainty level) mỗi bài, ghi rõ ở đầu bài: `ca nguyên văn (verbatim case)` / `tổng hợp y văn (literature synthesis)` / `suy luận (inference)`.
-- Quy tắc ảnh (image rule): tải về nếu giấy phép cho phép (ghi nguồn + giấy phép từng ảnh trong `images/CREDITS.md`), không tải được thì dẫn link. AuntMinnie: chỉ dẫn link.
+- Quy tắc ảnh (image rule): tải về nếu giấy phép cho phép (ghi nguồn + giấy phép từng ảnh trong `images/CREDITS.md`), không tải được thì dẫn link. AuntMinnie: chỉ dẫn link. Tên file: `NNN_slug_Modality_SourceID.jpg` (vd `020_not-phoi_CT_Radiopaedia-rIDxxxxx.jpg`). Ảnh ghép đối chiếu: `images/composite_*.jpg` tạo bằng `tools/make_composite.py` (Pillow: lưới cùng chuỗi xung + dải đen `[Tên bệnh - chuỗi xung] + attribution`), nhúng vào mục (3).
 - Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn (Disclaimer y tế, ghi ở `lesson.md` + `index.html` footer).
 - Không bao giờ force-push.
 
@@ -56,7 +57,12 @@
 - Số folder là ID ổn định để giao tiếp; nhóm/tag để xếp học, đổi thoải mái.
 - Chỉ tách tag con khi một nhóm quá đông (~15–20 bài).
 - ID quá 1000: không vướng (parse số bằng int, tham chiếu bằng tên chính xác).
-- Dải ID hiện tại: `00` = tổng quan hệ Ngực; `01–04` = hệ Ngực đợt 1. Hệ tiếp theo bắt đầu từ `10` (Bụng), `20` (Thần kinh)... để chừa chỗ chèn.
+- Dải ID hiện tại (3 chữ số, chừa khe chèn): `001` = tổng quan hệ Ngực; `010/020/030/040` = hệ Ngực đợt 1 (khe `011–019` chèn sau). Hệ tiếp theo: `100–199` Bụng, `200–299` Thần kinh, `300–399` Cơ xương...
+- Mục (1) bắt buộc giải thích TẠI SAO (vật lý T1/T2/DWI/HU + mô bệnh), không chỉ liệt kê tín hiệu — theo PROMPT_SYNTHESIZER của Argon + nhãn certainty của ta.
+
+## Phân công (ta vs Argon — ai giỏi việc gì làm việc đó)
+- Ta (OpenChamber/Build): khung repo, ID, hub Pages, script composite, Mermaid, kiểm phép ảnh, commit/push.
+- Argon (Gemini): tổng hợp nội dung học thuật từ nguồn đã tải hợp phép → xuất frontmatter + ma trận đối chiếu + giải thích vật lý + quiz mù. Không giao Argon scrape hàng loạt (vi phạm ToS) hay push trực tiếp.
 
 ## Cấu trúc repo
 ```
@@ -66,10 +72,12 @@ index.html          # hub tra cứu, publish Pages, CNAME rad.matcauvong.com
 templates/
   lesson-template.md
   sources-template.md
-00-tong-quan-he-nguc/   # Tổng quan hệ Ngực (bảng DDx bắt buộc + Bài liên quan)
-01-giai-phau-nguc-cat-lop/
-02-not-phoi/
-03-dong-dac-xep-phoi/
-04-tran-dich-mang-phoi/
-mỗi NN-slug/: lesson.md + sources.md + images/CREDITS.md
+tools/
+  make_composite.py   # Pillow: ghép lưới + dải đen attribution (chạy local)
+001-tong-quan-he-nguc/   # Tổng quan hệ Ngực (bảng DDx bắt buộc + Bài liên quan)
+010-giai-phau-nguc-cat-lop/
+020-not-phoi/
+030-dong-dac-xep-phoi/
+040-tran-dich-mang-phoi/
+mỗi NNN-slug/: lesson.md (frontmatter YAML) + sources.md + images/CREDITS.md
 ```

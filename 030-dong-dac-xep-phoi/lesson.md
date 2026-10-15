@@ -1,4 +1,13 @@
-# 03 — Đông đặc – xẹp phổi / Consolidation – atelectasis
+---
+unit_id: "030"
+subspecialty: Chest
+anatomical_location: "phổi (lung)"
+primary_pattern: "đông đặc-xẹp (consolidation-atelectasis)"
+tags: [pattern:dong-dac, vung:phoi]
+certainty: tong-hop-y-van
+---
+
+# 030 — Đông đặc – xẹp phổi / Consolidation – atelectasis
 
 **Tags:** `pattern:dong-dac` `vung:phoi`
 **Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — khung khởi tạo, chưa có ca nguyên văn.
@@ -14,7 +23,7 @@
 - Ví dụ: nốt (nodule) phổi → gamut theo vùng: trung tâm / ngoại vi / màng phổi (pleura).
 
 ## 3. Bảng so sánh phân biệt
-| Thực thể (entity) | Hình ảnh điển hình | Điểm khác biệt chính | Gợi ý xác nhận |
+| Thực thể (entity) | Hình ảnh điển hình (US/CT/MRI theo thì) | Chốt vào (rule-in) | Chốt loại (rule-out) | Gợi ý xác nhận |
 |---|---|---|---|
 | ... | ... | ... | ... |
 
@@ -38,7 +47,7 @@
 - [ID – Tên](../NN-slug/lesson.md)
 
 ## Ảnh
-- Ảnh local: `images/ten-anh.jpg` — xem `images/CREDITS.md` để rõ nguồn + giấy phép (license) từng ảnh.
+- Ảnh local: `images/NNN_slug_Modality_SourceID.jpg` — xem `images/CREDITS.md` để rõ nguồn + giấy phép (license) từng ảnh.
 - Không tải được (paywall / cấm): dẫn link gốc ở đây + trong `sources.md`.
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
