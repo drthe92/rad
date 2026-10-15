@@ -61,7 +61,7 @@
 - Số folder là ID ổn định để giao tiếp; nhóm/tag để xếp học, đổi thoải mái.
 - Chỉ tách tag con khi một nhóm quá đông (~15–20 bài).
 - ID quá 1000: không vướng (parse số bằng int, tham chiếu bằng tên chính xác).
-- Dải ID (3 chữ số, chừa khe chèn): Ngực `001–080` (xong); **Bụng `100–180`** (bản đồ trong `100-tong-quan-he-bung/lesson.md`, Đợt 1: 110/121/135/150/155/160); Thần kinh `200–299`; Cơ xương `300–399`; **Mắt & thị giác `400–460`** (xong)...
+- Dải ID (3 chữ số, chừa khe chèn): Ngực `001–080` (xong); **Bụng `100–180`** (xong — bản đồ trong `100-tong-quan-he-bung/lesson.md`); **Thần kinh `200–249`** (xong đợt 1: bản đồ + 15 bài trong `200-tong-quan-he-than-kinh/lesson.md`); Cơ xương `300–399` (chưa làm); **Mắt & thị giác `400–460`** (xong)...
 - Mục (1) bắt buộc giải thích TẠI SAO (vật lý T1/T2/DWI/HU + mô bệnh), không chỉ liệt kê tín hiệu — theo PROMPT_SYNTHESIZER của Argon + nhãn certainty của ta.
 - Mọi bài qua 4 cửa trong `PROMPT_SYNTHESIZER.md` (ngưỡng định lượng, học thuyết thể tích, trung thành nguồn + phản biện, cạm bẫy mặt cắt) trước khi commit.
 - Bài mới phải soi với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng) + chạy `python3 tools/selfcheck.py` PASS mới commit.
