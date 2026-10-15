@@ -34,6 +34,11 @@ fetch(base + '/' + file).then(r => {
   md = md.replace(/^---\n[\s\S]*?\n---\n/, '');
   // Chặn mermaid code-block gây rối khi chưa có thư viện: giữ nguyên dạng code
   document.getElementById('content').innerHTML = marked.parse(md);
+  // Ảnh tương đối images/... -> base/images/... (view.html nằm ở root)
+  document.querySelectorAll('#content img').forEach(img => {
+    const s = img.getAttribute('src') || '';
+    if (s && !/^(https?:|data:|blob:|#|\/)/.test(s)) img.src = base + '/' + s;
+  });
   // Sửa link tương đối ../NNN -> view tương ứng
   document.querySelectorAll('#content a').forEach(a => {
     const m = (a.getAttribute('href') || '').match(/\.\.\/(.+)\/lesson\.md/);
