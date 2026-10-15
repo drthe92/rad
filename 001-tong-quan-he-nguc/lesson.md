@@ -24,6 +24,7 @@ certainty: tong-hop-y-van
 | Viêm đa ổ (multifocal) | Phổi | Tụ cầu (staph), gram âm, hít (aspiration), lao | Nốt/đám 2 bên + hang + tree-in-bud | [031](../031-viem-phoi-mau-hinh/lesson.md) |
 | Phù lan tỏa (edema/ARDS) | Phổi | Tim (cardiogenic), ARDS, xuất huyết (DAH), virus | Kerley B + tim to + tan nhanh = phù tim; ngoại vi + tim thường = ARDS | [033](../033-phu-phoi-ards/lesson.md) |
 | Hang (cavity) | Phổi | Lao (TB), K hoại tử (SCC), áp-xe (abscess), nấm (aspergilloma) | Thành ≤ 4 mm lành / > 15 mm ác; liềm khí + di động = nấm | [025](../025-ton-thuong-phoi-tao-hang/lesson.md) |
+| Xơ mô kẽ (fibrosis) | Phổi | UIP/IPF, NSIP, HP mạn | Tổ ong đáy-dưới màng phổi = UIP; chừa màng phổi 1–2 mm = NSIP | [035](../035-xo-mo-ke-UIP-NSIP/lesson.md) |
 
 ## Bài liên quan chéo
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
@@ -31,7 +32,8 @@ certainty: tong-hop-y-van
 - [025 – Hang & nấm phổi](../025-ton-thuong-phoi-tao-hang/lesson.md) *(mới)*
 - [030 – Đông đặc – xẹp phổi](../030-dong-dac-xep-phoi/lesson.md)
 - [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) *(mới)*
-- [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md) *(mới)*
+- [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md)
+- [035 – Xơ mô kẽ UIP vs NSIP](../035-xo-mo-ke-UIP-NSIP/lesson.md) *(mới)*
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md)
 - [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(mới)*
 
@@ -56,7 +58,7 @@ certainty: tong-hop-y-van
 - [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) *(đã có)*
 - 032 – Kính mờ (GGO) & lát đá (Crazy-paving) *(dự kiến)*
 - [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md) *(đã có)*
-- 035 – Xơ mô kẽ UIP vs NSIP & tổ ong (Honeycombing) *(Đợt 2)*
+- 035 – Xơ mô kẽ UIP vs NSIP & tổ ong (Honeycombing) *(đã có — [bài học](../035-xo-mo-ke-UIP-NSIP/lesson.md))*
 
 **04x — Màng phổi, Thành ngực & Cơ hoành**
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md) *(đã có)*

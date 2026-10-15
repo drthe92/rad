@@ -16,6 +16,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 030 | [Đông đặc – xẹp phổi](030-dong-dac-xep-phoi/lesson.md) | `pattern:dong-dac` `vung:phoi` |
 | 031 | [Viêm phổi mẫu hình](031-viem-phoi-mau-hinh/lesson.md) | `pattern:dong-dac` `vung:phoi` |
 | 033 | [Phù phổi & ARDS](033-phu-phoi-ards/lesson.md) | `pattern:mo-ke` `vung:phoi` |
+| 035 | [Xơ mô kẽ UIP vs NSIP](035-xo-mo-ke-UIP-NSIP/lesson.md) | `pattern:mo-ke` `pattern:kinh-mo` `protocol:HRCT` |
 | 040 | [Tràn dịch màng phổi](040-tran-dich-mang-phoi/lesson.md) | `pattern:tran-dich` `vung:mang-phoi` |
 | 041 | [Tràn khí màng phổi](041-tran-khi-mang-phoi/lesson.md) | `pattern:tran-khi` `vung:mang-phoi` |
 
