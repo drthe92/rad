@@ -15,6 +15,8 @@ certainty: tong-hop-y-van
 ## 1. Tổng quan — nốt là gì, vì sao phải theo dõi
 
 - **Nốt phổi (pulmonary nodule):** tổn thương tròn/mờ ≤ **30 mm**; > 30 mm gọi là **khối (mass)**, nguy cơ ác cao hẳn. Phân 3 dạng: **đặc (solid)**, **bán đặc (part-solid)** (nhân đặc + quầng kính mờ (ground-glass)), **kính mờ thuần (pure ground-glass)**.
+- Ngưỡng định lượng nhớ nằm lòng: mỡ trong hamartoma **−40 đến −120 HU** (đo ở cửa sổ trung thất); nhân đặc trong nốt bán đặc **≥ 6 mm** là ngưỡng hành động (Lung-RADS 4A); thời gian nhân đôi thể tích (VDT) ác tính điển hình **20–400 ngày** (< 20 ngày nghĩ viêm; nốt bán đặc lepidic có thể chậm hơn nhiều; hạch trong phổi cũng có VDT trùng ác tính).
+- Số liệu hình thái (Snoeckx 2018): gai (spiculation) giá trị dự báo dương tới **90%**; nhưng **21–33%** nốt ác vẫn bờ nhẵn — bờ đều không loại trừ ung thư; vôi hóa trong SPN ác chỉ **~2%** (ung thư phổi nói chung tới 13%); PET-CT hạn chế khi nốt **< 8 mm**, adenocarcinoma lepidic, carcinoid (bắt thuốc thấp/âm tính giả).
 - TẠI SAO hình thái quyết định: gai (spiculation) = mô u xâm lấn mô kẽ (desmoplasia) kéo co; quầng kính mờ = lan theo vách phế nang (lepidic) của adenocarcinoma; vôi hóa (calcification) dạng bỏng ngô (popcorn) = hamartoma lành; mỡ (fat, HU âm) trong nốt = hamartoma.
 - 2 câu hỏi mọi nốt: **(1) đặc điểm ác tính? (2) bệnh nhân nguy cơ cao?** (hút thuốc (smoking), tuổi, tiền sử ung thư (cancer history), phơi nhiễm).
 
@@ -40,7 +42,7 @@ certainty: tong-hop-y-van
 ## 4. Protocol + Fleischner & Lung-RADS
 
 - **Phát hiện:** CT ngực liều thấp lát mỏng (≤ 1,5 mm), cửa sổ phổi; đo **đường kính trung bình** 2 chiều. So sánh **phim cũ** là bước giá trị nhất.
-- **Fleischner 2017** (nốt tình cờ, BN ≥ 35 tuổi, không ung thư/không suy giảm miễn dịch):
+- **Fleischner 2017** (nốt tình cờ, BN ≥ 35 tuổi, không ung thư/không suy giảm miễn dịch). Nốt đặc: < 6 mm nguy cơ thấp → không theo dõi thường quy; < 6 mm nguy cơ cao → CT 12 tháng (ổn định thì dừng); 6–8 mm → CT 6–12 tháng rồi 18–24 tháng; > 8 mm → CT 3 tháng + PET-CT/sinh thiết. Nốt bán đặc/kính mờ ≥ 6 mm: CT 3–6 tháng rồi hàng năm tới **5 năm** (tiến triển chậm, đánh giá nhân đặc chứ không chỉ kích thước):
 
 ```mermaid
 flowchart TD
@@ -72,7 +74,8 @@ flowchart TD
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
 - Dấu hiệu: nốt đặc 15mm, **bờ gai (spiculation) + notch rõ**, hạch cạnh khí quản (paratracheal) to.
-- Chẩn đoán: **nghi ác cao — ung thư phổi tế bào nhỏ** (mô bệnh xác nhận). Chốt vào = gai + notch + hạch vùng.
+- Chẩn đoán: **nghi ác cao — mô bệnh gốc: ung thư phổi tế bào nhỏ (SCLC)** (Fig. 10, Snoeckx 2018 — giữ nguyên chú thích gốc, đã đối chiếu PMC5825309).
+- ⚠️ Phản biện: SCLC ngoại vi đơn độc 15 mm là **không điển hình** (SCLC ~90% trung tâm, khối lớn + hạch sớm). Gặp nốt gai ngoại vi, xác suất trước kiểm vẫn là NSCLC (adeno/SCC) — mô bệnh mới quyết định, không đoán mô bệnh từ hình thái.
 - Nguồn: Snoeckx et al., Insights into Imaging 2018, CC BY 4.0.
 </details>
 

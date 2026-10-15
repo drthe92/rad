@@ -20,6 +20,7 @@ sources: [Radiopaedia, RadiologyAssistant, Eurorad]
 ## 1. Tổng quan bệnh học – cơ chế hình ảnh
 - Bệnh học (pathology) + sinh lý bệnh (pathophysiology) ngắn gọn.
 - BẮT BUỘC giải thích TẠI SAO (theo Argon): thời gian T1/T2, khuếch tán (diffusion) trên DWI/ADC, Hounsfield trên CT, bản chất mô (mỡ (fat), máu bán cấp (subacute blood)/methemoglobin, mucin, xơ (fibrosis)/collagen, hoại tử (necrosis)) — không chỉ liệt kê tăng/giảm tín hiệu.
+- BẮT BUỘC ngưỡng định lượng (theo `PROMPT_SYNTHESIZER.md`): mọi nhận định kèm số (HU, mm, ngày, phiên bản guideline). Số chưa kiểm chứng ghi "chưa rõ", không bịa.
 
 ## 2. Mẫu hình + chẩn đoán phân biệt theo vị trí (gamut)
 - Liệt kê mẫu hình (pattern) → gamut theo vị trí (location).

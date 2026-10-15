@@ -43,12 +43,19 @@ certainty: tong-hop-y-van
 - **Siêu âm màng phổi (POCUS):** phân biệt dịch tự do/vách hóa, hướng dẫn chọc — làm tại giường.
 - **CT có cản quang:** nghi empyema (split pleura), u màng phổi, dịch khu trú khó chọc.
 
-## 5. Biến thể bình thường và cạm bẫy
+## 5. Biến thể bình thường và cạm bẫy + Dịch màng phổi vs cổ trướng trên CT ngang
 
 - **Mỡ ngoài màng phổi (extrapleural fat):** vệt mờ đối xứng người béo — đừng đọc dịch 2 bên.
 - **Phim AP nằm:** một bên trắng đều do dịch lớp sau — so sánh 2 bên + chụp decubitus xác nhận.
 - **Giả u trong rãnh (pseudotumor):** khối thấu kính trong rãnh liên thùy ở BN suy tim — tan sau lợi tiểu, đừng sinh thiết vội.
 - **Nếp da/tóc dài:** đường thẳng ra ngoài thành ngực — đừng đọc tràn khí kèm.
+- **Định lượng HU dịch:** dịch thấm ~0–15 HU; dịch tiết cao hơn; **máu màng phổi (hemothorax) 35–70 HU** — đo HU trước khi gọi tên dịch.
+
+### Phân biệt dịch màng phổi vs cổ trướng (ascites) trên CT cắt ngang
+Cùng là dịch, vị trí tương đối với cơ hoành mới quyết định tên:
+- **Dấu crus lệch (displaced crus sign):** dịch màng phổi nằm sau-trong, **đẩy trụ cơ hoành (crus) ra trước**, tách khỏi cột sống; cổ trướng ôm gan/lách, crus vẫn áp cột sống.
+- **Dấu bare area:** dịch ở vùng trần của gan phải (bare area — ngoài phúc mạc, cổ trướng không vào được) = **tràn dịch màng phổi**.
+- **Meniscus vs ôm tạng:** dịch màng phổi tạo mặt khum + khu trú trên vòm hoành; cổ trướng lan quanh gan/lách, vào rãnh Morrison, dưới vòm hoành.
 
 ## 6. Tự lượng giá — Blind Quiz
 

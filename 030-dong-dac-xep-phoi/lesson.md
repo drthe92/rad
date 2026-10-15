@@ -14,9 +14,10 @@ certainty: tong-hop-y-van
 
 ## 1. Tổng quan bệnh học – cơ chế hình ảnh
 
-- **Đông đặc (consolidation):** phế nang (alveoli) chứa đầy dịch/mủ/máu/tế bào thay vì khí. Tia X bị suy giảm → **mờ đều (opacity)**, nhưng **phế quản vẫn còn khí → hiện hình nhánh đen trong vùng trắng: phế quản hơi (air bronchogram)**. Đây là chốt phân biệt quan trọng nhất với xẹp phổi.
+- **Đông đặc (consolidation):** phế nang (alveoli) chứa đầy dịch/mủ/máu/tế bào thay vì khí. Tia X bị suy giảm → **mờ đều (opacity)**, nhưng **phế quản vẫn còn khí → hiện hình nhánh đen trong vùng trắng: phế quản hơi (air bronchogram)**. Thể tích giữ nguyên.
 - **Xẹp phổi (atelectasis):** phế nang **mất thể tích (volume loss)** — do tắc (obstruction, vd dị vật/u), chèn ép (compression, vd tràn dịch), co kéo (cicatricial) hoặc thiếu surfactant. Phim mất khí + **kéo lệch cấu trúc lân cận: rãnh liên thùy (fissure) di lệch, trung thất (mediastinum) kéo về bên xẹp, cơ hoành (diaphragm) nâng cao, khoảng liên sườn (intercostal spaces) hẹp lại**.
-- TẠI SAO cùng trắng mà khác nhau: đông đặc = **lấp đầy (filling) không mất thể tích**; xẹp = **mất thể tích (loss)** → mọi dấu hiệu "kéo lệch" đều thuộc về xẹp.
+- ⚠️ CHỐT HỌC THUYẾT: **mất thể tích là tiêu chuẩn duy nhất** phân biệt xẹp vs đông đặc. **Phế quản hơi KHÔNG loại trừ xẹp nói chung** — xẹp thụ động (tràn dịch ép) và xẹp co kéo vẫn có phế quản hơi, thậm chí tụ lại (crowded); nó chỉ biến mất khi **tắc nghẽn trung tâm hoàn toàn** (khí không vào được).
+- **Golden S sign:** xẹp thùy trên (upper lobe) phải + u trung tâm: bờ dưới **lồi** (khối u) + bờ trên **lõm** (rãnh bé kéo lên) ghép thành chữ S — thấy S là nghĩ ngay u gây xẹp, chỉ định soi phế quản.
 
 ![Đông đặc thùy giữa phải và 2 đáy phổi](images/030_dongdac_XR_Wikimedia-Parmar-CCBY20.jpg)
 *X-quang ngực thẳng (PA): đông đặc thùy giữa (middle lobe) phải + đáy 2 bên. Nguồn: Parmar, CC BY 2.0 (xem `images/CREDITS.md`).*
@@ -32,13 +33,13 @@ certainty: tong-hop-y-van
 
 | Thực thể (entity) | Hình ảnh điển hình (X-quang/CT) | Chốt vào (rule-in) | Chốt loại (rule-out) | Gợi ý xác nhận |
 |---|---|---|---|---|
-| Đông đặc viêm phổi (pneumonia) | Mờ đều, giới hạn theo thùy/đoạn, **phế quản hơi (+)** | **Phế quản hơi hiện rõ trong vùng mờ, thể tích giữ nguyên** | Có kéo lệch rãnh liên thùy → nghĩ xẹp kèm theo, không phải đông đặc thuần | Lâm sàng sốt + CRP, CT cửa sổ phổi (lung window) |
-| Xẹp tắc (obstructive atelectasis) | Mờ đặc + **mất thể tích** | **Rãnh liên thùy di lệch về phía mờ, trung thất kéo sang** | Phế quản hơi lan tỏa trong vùng mờ → ủng hộ đông đặc hơn | CT tìm điểm tắc, soi phế quản (bronchoscopy) nếu nghi u |
+| Đông đặc viêm phổi (pneumonia) | Mờ đều, giới hạn theo thùy/đoạn, **phế quản hơi (+), thể tích giữ nguyên** | **Phế quản hơi + không mất thể tích** | Có kéo lệch rãnh liên thùy/trung thất → xẹp kèm, không phải đông đặc thuần | Lâm sàng sốt + CRP, CT cửa sổ phổi (lung window) |
+| Xẹp tắc (obstructive atelectasis) | Mờ đặc + **mất thể tích** (rãnh lệch, trung thất kéo sang) | **Mất thể tích + tắc trung tâm → mất phế quản hơi; Golden S nếu thùy trên + u** | Còn phế quản hơi lan tỏa mà không mất thể tích → đông đặc; xẹp thụ động vẫn có phế quản hơi | CT tìm điểm tắc, soi phế quản (bronchoscopy) nếu nghi u |
 | Phù phổi (edema) | Mờ lan tỏa 2 bên, đối xứng, cánh bướm (bat-wing) | **Phân bố trung tâm + đường Kerley B + tim to (cardiomegaly)** | Mờ khu trú 1 thùy + phế quản hơi → nghĩ viêm hơn | NT-proBNP, đáp ứng lợi tiểu (diuretics) |
 | Ung thư dạng đông đặc | Mờ dai dẳng không đáp ứng kháng sinh (non-resolving) | **Giãn phế quản trong tổn thương, hẹp dần (tapering), hạch (+)** | Tan hoàn toàn sau 6–8 tuần → lành tính | CT lại sau điều trị, sinh thiết (biopsy) nếu còn |
 
-![Đối chiếu đông đặc vs viêm phổi có silhouette](images/composite_dongdac-vs-xep.jpg)
-*Trái: đông đặc thùy giữa phải (Parmar, CC BY 2.0). Phải: viêm phổi Q fever kèm dấu silhouette (CDC, public domain). Ảnh ghép letterbox giữ tỷ lệ.*
+![Đông đặc giữ thể tích vs xẹp tắc mất thể tích](images/composite_dongdac-vs-xep.jpg)
+*Trái: đông đặc thùy giữa phải, đường giữa ngay ngắn (Parmar, CC BY 2.0). Phải: xẹp gần toàn bộ phổi phải do ung thư phế quản — khí quản/trung thất kéo lệch sang phải (mũi tên đỏ) (Hellerhoff, CC BY-SA 3.0). Cùng trắng, khác thể tích. Ảnh ghép letterbox giữ tỷ lệ.*
 
 ## 4. Protocol chụp + hệ phân độ/điểm chuẩn hóa
 
@@ -75,7 +76,23 @@ certainty: tong-hop-y-van
 - Nguồn ảnh: Mikael Häggström, CC0 (xem `images/CREDITS.md`).
 </details>
 
-**Ca 2 — Phân biệt nhanh:** mở ảnh ghép `composite_dongdac-vs-xep.jpg` ở mục 3, tự trả lời: bên nào có phế quản hơi? Bên nào mất thể tích? Rồi đối chiếu bảng mục 3.
+**Ca 2 — Phân biệt bằng thể tích:** mở ảnh ghép `composite_dongdac-vs-xep.jpg` ở mục 3, tự trả lời: bên nào đường giữa ngay ngắn (giữ thể tích)? Bên nào khí quản lệch (mất thể tích)? Rồi đối chiếu bảng mục 3.
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- Trái giữ thể tích → đông đặc. Phải khí quản/trung thất kéo sang phải → **xẹp tắc gần toàn bộ phổi phải do ung thư phế quản** (mũi tên đỏ chỉ khí quản lệch).
+- Nguồn: Hellerhoff, CC BY-SA 3.0 (xem `images/CREDITS.md`).
+</details>
+
+**Ca 3 — Nhìn phim dưới, tìm dấu thể tích trước:**
+
+![Ca 3 — xẹp phổi phải do u trung tâm](images/030_xep-tac_XR_Wikimedia-Hellerhoff-CCBYSA30.jpg)
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- Mờ gần toàn bộ phổi phải + **trung thất kéo sang phải** + không thấy phế quản hơi lan tỏa → **xẹp tắc do ung thư phế quản trung tâm** (cơ chế tắc nghẽn hoàn toàn). Bước tiếp: CT + soi phế quản tìm u.
+- Nguồn: Hellerhoff, CC BY-SA 3.0.
+</details>
 
 ## Bài liên quan chéo
 - [001 – Tổng quan hệ Ngực](../001-tong-quan-he-nguc/lesson.md)
