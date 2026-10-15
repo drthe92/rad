@@ -64,6 +64,7 @@
 - Dải ID (3 chữ số, chừa khe chèn): Ngực `001–080` (bản đồ trong `001-tong-quan-he-nguc/lesson.md`); Bụng `100–199`; Thần kinh `200–299`; Cơ xương `300–399`...
 - Mục (1) bắt buộc giải thích TẠI SAO (vật lý T1/T2/DWI/HU + mô bệnh), không chỉ liệt kê tín hiệu — theo PROMPT_SYNTHESIZER của Argon + nhãn certainty của ta.
 - Mọi bài qua 4 cửa trong `PROMPT_SYNTHESIZER.md` (ngưỡng định lượng, học thuyết thể tích, trung thành nguồn + phản biện, cạm bẫy mặt cắt) trước khi commit.
+- Bài mới phải soi với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng) + chạy `python3 tools/selfcheck.py` PASS mới commit.
 
 ## Phân công (ta vs Argon — ai giỏi việc gì làm việc đó)
 - Ta (OpenChamber/Build): khung repo, ID, hub Pages, script composite, Mermaid, kiểm phép ảnh, commit/push.

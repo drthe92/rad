@@ -23,6 +23,7 @@
 
 ## Quy trình áp cho từng bài
 1. Gom nguồn vào `sources.md` → kiểm phép từng ảnh → tải về đặt tên `NNN_slug_Modality_SourceID`.
-2. Viết `lesson.md` đúng khung 6 mục + frontmatter, số liệu định lượng ở mục (1)/(4), ma trận đối chiếu có 2 cột Chốt vào/Chốt loại.
-3. Quiz `<details>`: ảnh trơn ngoài, findings + chẩn đoán + nguồn trong; ca không điển hình thêm dòng phản biện.
-4. Tự kiểm: bảng cân cột, ảnh tồn tại, link chéo đúng ID 3 số → commit + push (không force-push).
+2. Đọc sâu full-text + bảng guideline (Fleischner/ACR toàn văn, Fig/Table có số) — không viết từ abstract. Đối chiếu từng mục với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng).
+3. Viết `lesson.md` đúng khung 6 mục + frontmatter, số liệu định lượng ở mục (1)/(4), ma trận đối chiếu có 2 cột Chốt vào/Chốt loại.
+4. Quiz `<details>`: ảnh trơn ngoài, findings + chẩn đoán + nguồn trong; ca không điển hình thêm dòng phản biện.
+5. Chạy `python3 tools/selfcheck.py` — PASS mới được commit (không force-push). FAIL thì sửa hết lỗi rồi chạy lại.

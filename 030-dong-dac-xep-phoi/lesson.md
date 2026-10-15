@@ -47,7 +47,7 @@ certainty: tong-hop-y-van
 ## 4. Protocol chụp + hệ phân độ/điểm chuẩn hóa
 
 - **X-quang ngực (chest radiograph):** thẳng (PA) + nghiêng (lateral) là đủ cho đa số. Tư thế nằm (supine/AP) làm giả dày tổ chức — ghi rõ tư thế khi đọc.
-- **CT ngực liều thấp/không cản quang (non-contrast):** khi mờ không tan, nghi u tắc, hoặc cần phân biệt đông đặc/xẹp chồng lấp.
+- **CT ngực lát mỏng 1–1,5 mm** khi mờ không tan, nghi u tắc, hoặc cần phân biệt đông đặc/xẹp chồng lấp.
 - Không có RADS riêng cho đông đặc/xẹp; dùng ngưỡng lâm sàng: mờ không tan sau **6–8 tuần** điều trị → chụp lại + nghĩ ác tính.
 
 ## 5. Biến thể bình thường và cạm bẫy

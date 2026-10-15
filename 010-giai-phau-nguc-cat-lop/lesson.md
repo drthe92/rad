@@ -15,7 +15,7 @@ certainty: tong-hop-y-van
 ## 1. Tổng quan — đọc phim ngực có hệ thống
 
 - Phim ngực là ảnh **chồng hình (superimposition)**: mọi cấu trúc trên đường đi tia X đè lên nhau. Vì vậy phải đọc theo **checklist cố định** (ví dụ ABCDE: Airway-khí đạo, Bones-xương, Cardiac-tim, Diaphragm-cơ hoành, Effusion-tràn dịch, Fields-trường phổi) để không bỏ sót (satisfaction of search).
-- TẠI SAO X-quang phân biệt được tổ chức: khí (air) cản quang kém → **đen**; mô mềm/dịch (soft tissue/fluid) → **xám-trắng**; xương/canxi (bone/calcium) → **trắng**; kim loại → trắng xóa. CT định lượng bằng **Hounsfield (HU)**: khí ≈ −1000, mỡ (fat) ≈ −100, nước ≈ 0, mô mềm ≈ +40, xương > +400.
+- TẠI SAO X-quang phân biệt được tổ chức: khí (air) cản quang kém → **đen**; mô mềm/dịch (soft tissue/fluid) → **xám-trắng**; xương/canxi (bone/calcium) → **trắng**; kim loại → trắng xóa. CT định lượng bằng **Hounsfield (HU)**: khí ≈ −1000 HU, mỡ (fat) ≈ −100 HU, nước ≈ 0 HU, mô mềm ≈ +40 HU, xương > +400 HU.
 
 ![X-quang ngực thẳng bình thường](images/010_binhthuong_XR_Wikimedia-Ptrump-CCBYSA40.jpg)
 *X-quang ngực thẳng đứng (PA erect) bình thường — mốc để đối chiếu mọi bài bệnh lý. Nguồn: Ptrump16, CC BY-SA 4.0.*
