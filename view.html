@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bài học — Thư viện CĐHA</title>
+<style>
+body{font-family:system-ui,-apple-system,sans-serif;max-width:860px;margin:0 auto;padding:16px;line-height:1.65;color:#222}
+a{color:#0b5fff}.top{margin-bottom:12px;font-size:14px}
+img{max-width:100%;height:auto;border-radius:8px;background:#111}
+table{border-collapse:collapse;width:100%;font-size:14px;display:block;overflow-x:auto}
+th,td{border:1px solid #ddd;padding:6px 8px;text-align:left;vertical-align:top}
+th{background:#f4f6f8}details{border:1px solid #ddd;border-radius:8px;padding:8px 12px;margin:12px 0;background:#fafafa}
+summary{cursor:pointer;font-weight:600}code{background:#f1f1f1;padding:1px 5px;border-radius:4px}
+pre{background:#111;color:#eee;padding:12px;border-radius:8px;overflow-x:auto}
+footer{margin:24px 0;font-size:13px;color:#666}
+</style>
+</head>
+<body>
+<div class="top"><a href="index.html">← Hub tra cứu</a> <span id="meta"></span></div>
+<article id="content">Đang tải bài học…</article>
+<footer>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.</footer>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.0/marked.min.js"></script>
+<script>
+const q = new URLSearchParams(location.search);
+const base = q.get('b') || '';
+const file = q.get('f') || 'lesson.md';
+document.getElementById('meta').textContent = '· ' + base + '/' + file;
+fetch(base + '/' + file).then(r => {
+  if (!r.ok) throw new Error('HTTP ' + r.status);
+  return r.text();
+}).then(md => {
+  // Bỏ frontmatter YAML để trang gọn
+  md = md.replace(/^---\n[\s\S]*?\n---\n/, '');
+  // Chặn mermaid code-block gây rối khi chưa có thư viện: giữ nguyên dạng code
+  document.getElementById('content').innerHTML = marked.parse(md);
+  // Sửa link tương đối ../NNN -> view tương ứng
+  document.querySelectorAll('#content a').forEach(a => {
+    const m = (a.getAttribute('href') || '').match(/\.\.\/(.+)\/lesson\.md/);
+    if (m) a.href = 'view.html?b=' + m[1] + '&f=lesson.md';
+  });
+}).catch(e => {
+  document.getElementById('content').innerHTML = '<p>Không tải được bài (' + e.message + '). Mở trực tiếp trên GitHub: <a href="https://github.com/drthe92/rad">drthe92/rad</a>.</p>';
+});
+</script>
+</body>
+</html>
