@@ -47,13 +47,24 @@ flowchart TD
 - Biến thể bình thường (normal variant) dễ nhầm + cách tránh overcall.
 - Cạm bẫy (pitfall): giả ảnh (artifact), thỏa mãn tìm kiếm (satisfaction of search).
 
-## 6. Tự lượng giá 3 câu
-1. ...
-2. ...
-3. ...
-<details><summary>Đáp án (che để đọc mù — blind reading)</summary>
-1. ...
+## 6. Tự lượng giá — Blind Quiz ngay trên trang tĩnh (không cần app)
+> Mẫu copy-paste cho mỗi ca: ảnh + câu hỏi gợi mở ở NGOÀI, dấu hiệu + chẩn đoán giấu trong `<details>`. Mở trên Pages: tự đoán rồi bấm mở đáp án.
+
+**Ca 1 — ...**
+
+![Ca 1 — mô tả ngắn, không lộ đáp án](images/NNN_slug_Modality_SourceID.jpg)
+
+- Gợi ý lâm sàng (clinical context): tuổi/giới/triệu chứng ngắn, không lộ chẩn đoán.
+- Câu hỏi: Mô tả dấu hiệu (finding) chính? Đưa 3 chẩn đoán phân biệt (differential)? Dấu hiệu nào chốt (clincher)?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- Dấu hiệu (findings): ... (mũi tên/mô tả vị trí tổn thương trong ảnh).
+- Chẩn đoán (diagnosis): ... — vì ... (cơ chế vật lý/mô bệnh 1 câu).
+- Nguồn ảnh: ... (attribution đầy đủ).
 </details>
+
+**Ca 2–3:** lặp lại khung trên. Ảnh ghép đối chiếu (`images/composite_*.jpg`) cũng bọc quiz tương tự: hiện lưới ảnh ngoài, giấu nhãn bệnh trong `<details>`.
 
 ## Bài liên quan chéo
 - [NNN – Tên](../NNN-slug/lesson.md)

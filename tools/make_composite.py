@@ -1,47 +1,70 @@
 #!/usr/bin/env python3
-"""Ghép ảnh đối chiếu side-by-side + dải đen attribution (Argon đề xuất, ta chuẩn hóa).
-Chạy local (không cần trên Pages). Yêu cầu: pip install Pillow
-VD: python tools/make_composite.py 020-not-phoi/images/"020_*.jpg" 020-not-phoi/images/composite_nodule.jpg
+"""Ghép ảnh đối chiếu side-by-side, giữ nguyên tỷ lệ giải phẫu (letterbox nền đen).
+Không crop, không kéo giãn (stretch). Mỗi ô: ảnh vừa khít + dải đen đáy ghi [Tên bệnh - chuỗi xung] + attribution.
+Chạy local. Yêu cầu: Pillow
+VD: python tools/make_composite.py "020-not-phoi/images/020_*.jpg" 020-not-phoi/images/composite_nodule.jpg --height 600
 """
-import sys, glob
+import argparse, glob, os
 from PIL import Image, ImageDraw
-
-BAND = 34  # chiều cao dải đen
 
 def load_list(patterns):
     files = []
     for p in patterns:
         files += sorted(glob.glob(p))
-    # loại file composite cũ ra
-    return [f for f in files if "composite_" not in f]
+    return [f for f in files if "composite_" not in os.path.basename(f)]
 
-def label_of(path, captions):
-    return captions.get(path, path.split("/")[-1].replace("_", " ")[:60])
+def parse_labels(s):
+    d = {}
+    if s:
+        for part in s.split(";"):
+            if "=" in part:
+                k, v = part.split("=", 1)
+                d[k.strip()] = v.strip()
+    return d
 
 def main():
-    if len(sys.argv) < 3:
-        print(__doc__); sys.exit(1)
-    *pats, out = sys.argv[1:]
+    ap = argparse.ArgumentParser(description="Composite letterbox giữ aspect ratio")
+    ap.add_argument("inputs", nargs="+", help="Glob ảnh nguồn + file OUT cuối cùng")
+    ap.add_argument("--height", type=int, default=600, help="Chiều cao ô ảnh (px, mặc định 600)")
+    ap.add_argument("--band", type=int, default=44, help="Chiều cao dải đen attribution (px)")
+    ap.add_argument("--labels", default="", help='"file.jpg=[Bệnh - chuỗi xung] + attribution;..."')
+    ap.add_argument("--bg", default="black", help="Màu nền letterbox (mặc định black)")
+    a = ap.parse_args()
+    *pats, out = a.inputs
     files = load_list(pats)
     assert files, "Không tìm thấy ảnh nguồn"
-    # captions: đọc từ CREDITS.md nếu có? đơn giản: tên file
-    ims = [Image.open(f).convert("RGB") for f in files]
-    h = min(i.height for i in ims)
-    ims = [i.resize((int(i.width * h / i.height), h)) for i in ims]
-    W = sum(i.width for i in ims)
-    canvas = Image.new("RGB", (W, h + BAND * len(ims) // len(ims) + BAND), "white")
-    # xếp ngang, mỗi ảnh có dải đen riêng ở đáy
-    x = 0
-    strip_h = h + BAND
-    canvas = Image.new("RGB", (W, strip_h), "white")
+    caps = parse_labels(a.labels)
+    H, BAND = a.height, a.band
+
+    def label_of(path):
+        base = os.path.basename(path)
+        if base in caps:
+            return caps[base]
+        return base.replace("_", " ")[:70]
+
+    cells = []
+    for f in files:
+        im = Image.open(f).convert("RGB")
+        w, h = im.size
+        scale = H / h  # chỉ scale theo chiều cao -> giữ aspect, không stretch
+        nw = max(1, round(w * scale))
+        im = im.resize((nw, H), Image.LANCZOS)
+        cells.append((im, f))
+    cell_w = max(im.width for im, _ in cells)  # ô chuẩn = ảnh rộng nhất
+    strip_w = cell_w
+    strip_h = H + BAND
+    canvas = Image.new("RGB", (strip_w * len(cells), strip_h), "black")
     d = ImageDraw.Draw(canvas)
-    for im, f in zip(ims, files):
-        canvas.paste(im, (x, 0))
-        d.rectangle([x, h, x + im.width, strip_h], fill="black")
-        d.text((x + 6, h + 9), label_of(f, {}), fill="white")
-        x += im.width
+    for i, (im, f) in enumerate(cells):
+        x0 = i * strip_w
+        # letterbox: căn giữa trên nền đen, không crop/kéo giãn
+        canvas.paste(im, (x0 + (strip_w - im.width) // 2, 0))
+        d.rectangle([x0, H, x0 + strip_w, strip_h], fill="black")
+        d.text((x0 + 6, H + 6), label_of(f), fill="white")
+        # viền mỏng phân cách ô
+        d.rectangle([x0, 0, x0 + strip_w - 1, strip_h - 1], outline="#333")
     canvas.save(out)
-    print(f"OK: {out} từ {len(files)} ảnh")
+    print(f"OK: {out} từ {len(files)} ảnh | ô {strip_w}x{strip_h} | nền đen letterbox, giữ aspect")
 
 if __name__ == "__main__":
     main()

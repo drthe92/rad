@@ -43,13 +43,23 @@ flowchart TD
 - Biến thể bình thường (normal variant) dễ nhầm.
 - Cạm bẫy (pitfall) kỹ thuật / giả ảnh (artifact) / thỏa mãn tìm kiếm (satisfaction of search).
 
-## 6. Tự lượng giá 3 câu
-1. ...
-2. ...
-3. ...
-<details><summary>Đáp án</summary>
-1. ...
+## 6. Tự lượng giá — Blind Quiz (đọc mù ngay trên trang tĩnh)
+
+**Ca 1 — Nốt phổi tình cờ (chưa có ảnh thật — Argon điền)**
+
+![Ca 1 — CT ngực, chờ ảnh thật](images/placeholder.jpg)
+
+- Gợi ý: người lớn, nốt tình cờ, không sốt. Không đọc đáp án vội.
+- Hỏi: đặc hay kính mờ (ground-glass)? Bờ đều hay gai (spiculation)? 3 phân biệt + dấu chốt?
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- Dấu hiệu: (Argon điền: vị trí, bờ, vôi hóa (calcification), mỡ (fat)...)
+- Chẩn đoán: ... — vì ...
+- Nguồn ảnh: ... (attribution)
 </details>
+
+**Ca 2 — Đối chiếu:** dùng `images/composite_*.jpg` (letterbox, cùng chuỗi xung) đặt ngoài, giấu nhãn từng ô trong `<details>` tương tự.
 
 ## Bài liên quan chéo
 - [ID – Tên](../NN-slug/lesson.md)
