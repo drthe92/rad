@@ -57,7 +57,7 @@ flowchart TD
 
 - **Chụp < 24 giờ** bỏ sót hoại tử → chụp lại sau 72 giờ khi nặng lên.
 - **WON đọc nhầm nang giả** (bẫy trên) — không đồng nhất + vỏ dày = WON.
-- **Thông ống tụy chính + nang** = IPMN, không phải nang giả (bài 136 dự kiến).
+- **Thông ống tụy chính + nang** = u nhầy nhú nội ống tụy (IPMN), không phải nang giả (bài 136 dự kiến).
 
 ## 6. Tự lượng giá — Blind Quiz
 

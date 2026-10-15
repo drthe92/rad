@@ -40,7 +40,7 @@ certainty: tong-hop-y-van
 |---|---|---|
 | RCC tế bào sáng | Giàu mạch + hoại tử + huyết khối TM thận | Ngấm mạnh không đều + huyết khối TM |
 | RCC nhú | Kém ngấm, đồng nhất | Kém mạch + đa ổ 2 bên |
-| AML | **Mỡ đại thể** trong u | Mỡ = AML (trừ TSC chảy máu/Wunderlich) |
+| AML | **Mỡ đại thể** trong u | Mỡ = u cơ mỡ mạch (AML) (trừ TSC chảy máu/Wunderlich) |
 | Oncocytoma | Sẹo trung tâm + ngấm đều | Không phân biệt chắc với RCC → mổ/sinh thiết |
 
 ## 4. Protocol CT thận
