@@ -29,12 +29,16 @@ certainty: tong-hop-y-van
 | Khối trung thất | ITMIG 3 khoang | Thymoma, tăng sản, u quái, lymphoma, u thần kinh | SII > 20% = tăng sản; mỡ+vôi = u quái; bao mạch không tắc = lymphoma | [060](../060-khoi-trung-that-itmig/lesson.md) |
 | Khuyết thuốc mạch | ĐMP/ĐMC | PE cấp/mạn, sarcoma, bóc tách, IMH, PAU | Góc nhọn = cấp; flap+2 lòng = bóc tách; liềm 50–70 HU = IMH | [070](../070-thuyen-tac-phoi-dmc-cap/lesson.md) |
 | Đa nốt/kính mờ | Phổi | Trung tâm/bạch mạch/ngẫu nhiên; GGO/lát đá | Galaxy = sarcoid; tree-in-bud = lao; lát đá + mạn = PAP/NSIP | [021](../021-da-not-phoi/lesson.md), [032](../032-kinh-mo-lat-da/lesson.md) |
+| Khối/u/dây ICU | Phổi-MP | Khối > 30 + TNM; mesothelioma rind; NKQ 3–5 cm | Hạch ≥ 10 mm; co rút = mesothelioma; khí máu lẫn = lạc chỗ | [022](../022-khoi-phoi-TNM/lesson.md), [042](../042-mang-phoi-u/lesson.md), [015](../015-ong-day-ICU/lesson.md) |
 
 ## Bài liên quan chéo
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
 - [020 – Nốt phổi](../020-not-phoi/lesson.md)
 - [021 – Đa nốt phổi](../021-da-not-phoi/lesson.md) *(mới)*
-- [032 – Kính mờ & lát đá](../032-kinh-mo-lat-da/lesson.md) *(mới)*
+- [032 – Kính mờ & lát đá](../032-kinh-mo-lat-da/lesson.md)
+- [015 – Ống/dây ICU](../015-ong-day-ICU/lesson.md) *(mới)*
+- [022 – Khối phổi & TNM](../022-khoi-phoi-TNM/lesson.md) *(mới)*
+- [042 – U màng phổi](../042-mang-phoi-u/lesson.md) *(mới)*
 - [025 – Hang & nấm phổi](../025-ton-thuong-phoi-tao-hang/lesson.md) *(mới)*
 - [030 – Đông đặc – xẹp phổi](../030-dong-dac-xep-phoi/lesson.md)
 - [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) *(mới)*
@@ -54,12 +58,12 @@ certainty: tong-hop-y-van
 - [010 – Giải phẫu ngực cắt lớp & biến thể](../010-giai-phau-nguc-cat-lop/lesson.md) *(đã có)*
 - 011 – Tiểu thùy phổi thứ cấp trên HRCT (Secondary pulmonary lobule, SPL) *(dự kiến)*
 - 012 – Hạch trung thất IASLC & đường-dải trung thất X-quang (Mediastinal lines/stripes) *(dự kiến)*
-- 015 – Ống/dây ICU (lines/tubes) & giả ảnh ngực (artifacts) *(dự kiến)*
+- 015 – Ống/dây ICU (lines/tubes) & giả ảnh ngực (artifacts) *(đã có — [bài học](../015-ong-day-ICU/lesson.md))*
 
 **02x — Nốt, Khối & Hang**
 - [020 – Nốt phổi đơn độc](../020-not-phoi/lesson.md) *(đã có)*
 - 021 – Đa nốt phổi: trung tâm tiểu thùy / bạch mạch / ngẫu nhiên (Centrilobular, Perilymphatic, Random) *(đã có — [bài học](../021-da-not-phoi/lesson.md))*
-- 022 – Khối phổi (> 30 mm) & TNM ung thư phổi (Lung cancer staging) *(dự kiến)*
+- 022 – Khối phổi (> 30 mm) & TNM ung thư phổi (Lung cancer staging) *(đã có — [bài học](../022-khoi-phoi-TNM/lesson.md))*
 - 025 – Hang & nấm phổi: dấu liềm khí (Cavitary lesions & Air-crescent sign) *(đã có — [bài học](../025-ton-thuong-phoi-tao-hang/lesson.md))*
 
 **03x — Đông đặc, Xẹp & Mô kẽ**
@@ -72,7 +76,7 @@ certainty: tong-hop-y-van
 **04x — Màng phổi, Thành ngực & Cơ hoành**
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md) *(đã có)*
 - [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(đã có)*
-- 042 – Dày/vôi hóa/u màng phổi: trung biểu mô vs di căn (Mesothelioma) *(dự kiến)*
+- 042 – Dày/vôi hóa/u màng phổi: trung biểu mô vs di căn (Mesothelioma) *(đã có — [bài học](../042-mang-phoi-u/lesson.md))*
 - 045 – Thành ngực (dấu ngoài màng phổi) & thoát vị hoành (Extrapleural sign) *(dự kiến)*
 
 **05x — Đường thở & Kén khí**

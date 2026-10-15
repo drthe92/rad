@@ -12,7 +12,9 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 001 | [Tổng quan hệ Ngực](001-tong-quan-he-nguc/lesson.md) | Tổng quan, bảng DDx |
 | 010 | [Giải phẫu ngực cắt lớp & biến thể](010-giai-phau-nguc-cat-lop/lesson.md) | `anatomy:nguc` |
 | 020 | [Nốt phổi](020-not-phoi/lesson.md) | `pattern:not` `vung:phoi` `score:Lung-RADS` `protocol:Fleischner` `incidentaloma:not-phoi` |
+| 015 | [Ống/dây ICU](015-ong-day-ICU/lesson.md) | `pattern:ong-day` `protocol:xq-ICU` |
 | 021 | [Đa nốt phổi](021-da-not-phoi/lesson.md) | `pattern:not-da-o` `vung:phoi` |
+| 022 | [Khối phổi & TNM](022-khoi-phoi-TNM/lesson.md) | `pattern:khoi` `score:TNM` |
 | 025 | [Hang & nấm phổi](025-ton-thuong-phoi-tao-hang/lesson.md) | `pattern:hang` `vung:phoi` |
 | 030 | [Đông đặc – xẹp phổi](030-dong-dac-xep-phoi/lesson.md) | `pattern:dong-dac` `vung:phoi` |
 | 031 | [Viêm phổi mẫu hình](031-viem-phoi-mau-hinh/lesson.md) | `pattern:dong-dac` `vung:phoi` |
@@ -23,6 +25,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 060 | [Khối trung thất ITMIG](060-khoi-trung-that-itmig/lesson.md) | `pattern:khoi` `vung:trung-that` `score:ITMIG` |
 | 070 | [PE & ĐMC cấp](070-thuyen-tac-phoi-dmc-cap/lesson.md) | `pattern:khuyet-thuoc` `vung:mach-nguc` `protocol:CTA-nguc` |
 | 040 | [Tràn dịch màng phổi](040-tran-dich-mang-phoi/lesson.md) | `pattern:tran-dich` `vung:mang-phoi` |
+| 042 | [U màng phổi](042-mang-phoi-u/lesson.md) | `pattern:u-mang-phoi` `vung:mang-phoi` |
 | 041 | [Tràn khí màng phổi](041-tran-khi-mang-phoi/lesson.md) | `pattern:tran-khi` `vung:mang-phoi` |
 
 ## Quy ước
