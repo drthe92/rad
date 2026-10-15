@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" font-family="system-ui,sans-serif">
+<rect width="700" height="300" fill="#ffffff"/>
+<text x="350" y="26" text-anchor="middle" font-size="18" font-weight="bold">CT bụng đa thì (giây sau tiêm)</text>
+<line x1="40" y1="120" x2="660" y2="120" stroke="#333" stroke-width="3"/>
+<g font-size="13" text-anchor="middle">
+<line x1="90" y1="110" x2="90" y2="130" stroke="#333" stroke-width="3"/><text x="90" y="150">Trước tiêm</text><text x="90" y="168" fill="#666">HU nền</text>
+<line x1="230" y1="110" x2="230" y2="130" stroke="#c00" stroke-width="3"/><text x="230" y="150">ĐM muộn 35–40s</text><text x="230" y="168" fill="#c00">HCC, tụy 40–45s</text>
+<line x1="370" y1="110" x2="370" y2="130" stroke="#06c" stroke-width="3"/><text x="370" y="150">Cửa 60–70s</text><text x="370" y="168" fill="#06c">Gan, thận 90–100s</text>
+<line x1="510" y1="110" x2="510" y2="130" stroke="#333" stroke-width="3"/><text x="510" y="150">Muộn 3–5 phút</text><text x="510" y="168" fill="#666">Washout, xơ</text>
+<line x1="630" y1="110" x2="630" y2="130" stroke="#060" stroke-width="3"/><text x="630" y="150">Gan-mật 20p</text><text x="630" y="168" fill="#060">Primovist</text>
+</g>
+<text x="350" y="220" text-anchor="middle" font-size="13">Ngưỡng chẩn đoán: ĐMP ≥ 250 HU (PE) • Ngấm thận ≥ 20 HU (Bosniak) • Thượng thận ≤ 10 HU (adenoma)</text>
+<text x="350" y="250" text-anchor="middle" font-size="13">Thận 90–100s • Tụy 40–45s • Washout thượng thận muộn 15 phút</text>
+<text x="350" y="282" text-anchor="middle" font-size="12" fill="#666">Sơ đồ gốc Thư viện CĐHA (CC0)</text>
+</svg>

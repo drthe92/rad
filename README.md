@@ -68,6 +68,21 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 |---|---|---|
 | 100 | [Tổng quan hệ Bụng](100-tong-quan-he-bung/lesson.md) | Tổng quan, bảng DDx |
 | 110 | [Giải phẫu bụng cắt lớp](110-giai-phau-bung/lesson.md) | `anatomy:bung` |
+| 101 | [Protocol đa thì](101-protocol-bung/lesson.md) | `protocol:CT-MRI-bung` |
+| 115 | [Khí tự do](115-khi-tu-do/lesson.md) | `pattern:khi-tu-do` |
+| 120 | [Khối gan nền](120-khoi-gan-nen/lesson.md) | `pattern:khoi-gan` |
+| 122 | [U lành & áp-xe gan](122-u-lanh-gan/lesson.md) | `pattern:u-lanh-gan` |
+| 125 | [Gan mỡ-xơ](125-gan-mo-xo/lesson.md) | `pattern:gan-lan-toa` |
+| 130 | [Túi mật](130-tui-mat/lesson.md) | `pattern:viem-tui-mat` |
+| 131 | [Tắc mật](131-tac-mat/lesson.md) | `pattern:tac-mat` |
+| 136 | [U/nang tụy](136-u-nang-tuy/lesson.md) | `pattern:u-tuy` |
+| 140 | [Lách & chấn thương](140-lach-tang-dac/lesson.md) | `pattern:chan-thuong-bung` |
+| 141 | [Phúc mạc](141-phuc-mac/lesson.md) | `pattern:phuc-mac` |
+| 152 | [Sỏi niệu](152-soi-nieu/lesson.md) | `pattern:soi-nieu` |
+| 162 | [Tắc ruột](162-tac-ruot/lesson.md) | `pattern:tac-ruot` |
+| 165 | [Dày thành](165-day-thanh-ruot/lesson.md) | `pattern:day-thanh-ruot` |
+| 170 | [Phình ĐMC](170-phinh-DMC-bung/lesson.md) | `pattern:phinh-DMC` |
+| 175 | [Chèn ép mạch](175-chen-ep-mach/lesson.md) | `pattern:chen-ep-mach` |
 | 121 | [LI-RADS & HCC](121-khoi-gan-LIRADS/lesson.md) | `score:LI-RADS` |
 | 135 | [Viêm tụy Atlanta](135-viem-tuy-Atlanta/lesson.md) | `score:Atlanta` |
 | 150 | [Bosniak & u thận](150-nang-than-Bosniak/lesson.md) | `score:Bosniak` |

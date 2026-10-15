@@ -32,38 +32,38 @@ certainty: tong-hop-y-van
 
 **100–119 — Tổng quan, Giải phẫu cắt lớp & Kỹ thuật đa thì**
 - **100** – Tổng quan hệ Bụng / Abdomen overview *(bài này)*
-- 101 – Protocol CT/MRI bụng đa thì & Thuốc đối quang đặc hiệu tế bào gan (Gadoxetate/Primovist) *(dự kiến)*
+- 101 – Protocol đa thì & Primovist *(đã có — [bài học](../101-protocol-bung/lesson.md))*
 - 110 – Giải phẫu cắt lớp bụng *(đã có — [bài học](../110-giai-phau-bung/lesson.md))*
-- 115 – Khí tự do ổ bụng (Pneumoperitoneum): Dấu Rigler, Dây chằng liềm & Giả khí (Chilaiditi) *(dự kiến)*
+- 115 – Khí tự do: Rigler & giả khí *(đã có — [bài học](../115-khi-tu-do/lesson.md))*
 
 **120–129 — Gan: lan tỏa, Khối u & LI-RADS**
-- 120 – Khối gan nền lành vs xơ: Động học 4 thì *(dự kiến)*
+- 120 – Khối gan nền lành vs xơ *(đã có — [bài học](../120-khoi-gan-nen/lesson.md))*
 - 121 – LI-RADS & HCC *(đã có — [bài học](../121-khoi-gan-LIRADS/lesson.md))*
-- 122 – U lành & nhiễm trùng gan: Hemangioma, FNH, Adenoma & Áp-xe (vi khuẩn vs amip) *(dự kiến)*
-- 125 – Gan nhiễm mỡ, Xơ gan & Tăng áp cửa (bàng hệ, huyết khối vs huyết khối u TM cửa) *(dự kiến)*
+- 122 – U lành & áp-xe gan *(đã có — [bài học](../122-u-lanh-gan/lesson.md))*
+- 125 – Gan mỡ-xơ & tăng áp cửa *(đã có — [bài học](../125-gan-mo-xo/lesson.md))*
 
 **130–139 — Đường mật, Túi mật & Tụy**
-- 130 – Túi mật cấp/mạn: Sỏi, Viêm cấp (hoại thư/khí), Adenomyomatosis (đuôi sao chổi) vs K túi mật *(dự kiến)*
-- 131 – Tắc mật: Sỏi OMC (MRCP), Klatskin (Bismuth-Corlette) & Xơ hóa đường mật *(dự kiến)*
+- 130 – Túi mật *(đã có — [bài học](../130-tui-mat/lesson.md))*
+- 131 – Tắc mật *(đã có — [bài học](../131-tac-mat/lesson.md))*
 - 135 – Viêm tụy Atlanta *(đã có — [bài học](../135-viem-tuy-Atlanta/lesson.md))*
-- 136 – U đặc & nang tụy: PDAC (xâm lấn SMA/SMV), pNET, IPMN, MCN, SCN *(dự kiến)*
+- 136 – U/nang tụy *(đã có — [bài học](../136-u-nang-tuy/lesson.md))*
 
 **140–149 — Lách, Phúc mạc & Sau phúc mạc**
-- 140 – Lách & Chấn thương tạng đặc (AAST 2018 Gan–Lách–Thận) *(dự kiến)*
-- 141 – Phúc mạc–mạc treo–mạc nối: Cổ trướng, Carcinomatosis (omental cake) vs Lao *(dự kiến)*
+- 140 – Lách & chấn thương tạng *(đã có — [bài học](../140-lach-tang-dac/lesson.md))*
+- 141 – Phúc mạc *(đã có — [bài học](../141-phuc-mac/lesson.md))*
 
 **150–159 — Tiết niệu & Thượng thận (GU)**
 - 150 – Bosniak & u thận *(đã có — [bài học](../150-nang-than-Bosniak/lesson.md))*
-- 152 – Sỏi niệu, Ứ nước & Nhiễm trùng niệu trên *(dự kiến)*
+- 152 – Sỏi niệu & ứ nước *(đã có — [bài học](../152-soi-nieu/lesson.md))*
 - 155 – Thượng thận tình cờ *(đã có — [bài học](../155-thuong-than-tinh-co/lesson.md))*
 
 **160–169 — Ống tiêu hóa (GI)**
 - 160 – Bụng cấp GI *(đã có — [bài học](../160-bung-cap-GI/lesson.md))*
-- 162 – Tắc ruột non/già, quai kín & Thiếu máu mạc treo *(dự kiến)*
-- 165 – Dày thành ống TH: Crohn vs K đại-trực tràng *(dự kiến)*
+- 162 – Tắc ruột & mạc treo *(đã có — [bài học](../162-tac-ruot/lesson.md))*
+- 165 – Dày thành: Crohn vs K *(đã có — [bài học](../165-day-thanh-ruot/lesson.md))*
 
 **170–180 — Mạch máu ổ bụng, Can thiệp & Dự trữ**
-- 170 – Phình động mạch chủ bụng (AAA): Dấu dọa vỡ (liềm tăng tỷ trọng (hyperdense crescent sign), draped aorta), vỡ sau phúc mạc & Rò chủ-ruột (aortoenteric fistula) *(dự kiến)*
-- 175 – Hội chứng chèn ép mạch bụng (kìm động mạch mạc treo tràng trên (SMA), Nutcracker, MALS) & Can thiệp nút mạch tạng *(dự kiến)*
+- 170 – Phình ĐMC bụng *(đã có — [bài học](../170-phinh-DMC-bung/lesson.md))*
+- 175 – Chèn ép mạch & nút mạch *(đã có — [bài học](../175-chen-ep-mach/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
