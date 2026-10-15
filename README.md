@@ -62,3 +62,14 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 451 | [Hệ thống](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
+
+## Hệ Bụng (dải 100, đang khởi tạo)
+| ID | Bài | Tags 4 chiều |
+|---|---|---|
+| 100 | [Tổng quan hệ Bụng](100-tong-quan-he-bung/lesson.md) | Tổng quan, bảng DDx |
+| 110 | Giải phẫu bụng cắt lớp *(Đợt 1)* | `anatomy:bung` |
+| 121 | LI-RADS & HCC *(Đợt 1)* | `score:LI-RADS` |
+| 135 | Viêm tụy Atlanta *(Đợt 1)* | `score:Atlanta` |
+| 150 | Bosniak & u thận *(Đợt 1)* | `score:Bosniak` |
+| 155 | Thượng thận tình cờ *(Đợt 1)* | `incidentaloma:thuong-than` |
+| 160 | Bụng cấp cứu GI *(Đợt 1)* | `protocol:CT-bung-cap` |
