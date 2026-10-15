@@ -46,7 +46,7 @@ certainty: tong-hop-y-van
 ## 4. Protocol CTA + quá tải thất phải
 
 - Bolus-tracking thân ĐMP (ngưỡng ≥ 250 HU), lát mỏng, MIP/MPR dọc mạch (railway track chỉ hiện khi cắt dọc đúng).
-- Dấu quá tải thất phải (tiên lượng nặng): **RV/LV > 1,0**, vách liên thất dẹt/đẩy sang trái, trào ngược thuốc vào tĩnh mạch chủ dưới.
+- Dấu quá tải thất phải (tiên lượng nặng): **RV/LV > 1,0**, vách liên thất dẹt/đẩy sang trái tạo **thất trái hình chữ D (D-shaped LV) trên lát cắt trục ngắn qua tâm thất**, trào ngược thuốc vào tĩnh mạch chủ dưới.
 - Nghi ĐMC: ECG-gated (khử giả flap do chuyển động gốc), thêm **thì trước tiêm** (IMH liềm 50–70 HU chỉ hiện tiền tiêm).
 
 ```mermaid
