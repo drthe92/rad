@@ -25,6 +25,7 @@ certainty: tong-hop-y-van
 | Phù lan tỏa (edema/ARDS) | Phổi | Tim (cardiogenic), ARDS, xuất huyết (DAH), virus | Kerley B + tim to + tan nhanh = phù tim; ngoại vi + tim thường = ARDS | [033](../033-phu-phoi-ards/lesson.md) |
 | Hang (cavity) | Phổi | Lao (TB), K hoại tử (SCC), áp-xe (abscess), nấm (aspergilloma) | Thành ≤ 4 mm lành / > 15 mm ác; liềm khí + di động = nấm | [025](../025-ton-thuong-phoi-tao-hang/lesson.md) |
 | Xơ mô kẽ (fibrosis) | Phổi | UIP/IPF, NSIP, HP mạn | Tổ ong đáy-dưới màng phổi = UIP; chừa màng phổi 1–2 mm = NSIP | [035](../035-xo-mo-ke-UIP-NSIP/lesson.md) |
+| Giãn PQ/kén khí | Đường thở | Giãn PQ, LCH, LAM, khí phế thũng | Nhẫn ngọc > 1,0; kén ≤ 2 mm; central dot = khí phế thũng | [050](../050-gian-phe-quan-ken-khi/lesson.md) |
 
 ## Bài liên quan chéo
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
@@ -33,7 +34,8 @@ certainty: tong-hop-y-van
 - [030 – Đông đặc – xẹp phổi](../030-dong-dac-xep-phoi/lesson.md)
 - [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) *(mới)*
 - [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md)
-- [035 – Xơ mô kẽ UIP vs NSIP](../035-xo-mo-ke-UIP-NSIP/lesson.md) *(mới)*
+- [035 – Xơ mô kẽ UIP vs NSIP](../035-xo-mo-ke-UIP-NSIP/lesson.md)
+- [050 – Giãn PQ & kén khí](../050-gian-phe-quan-ken-khi/lesson.md) *(mới)*
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md)
 - [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(mới)*
 
@@ -67,7 +69,7 @@ certainty: tong-hop-y-van
 - 045 – Thành ngực (dấu ngoài màng phổi) & thoát vị hoành (Extrapleural sign) *(dự kiến)*
 
 **05x — Đường thở & Kén khí**
-- 050 – Giãn phế quản, tree-in-bud & kén khí (Bronchiectasis & cystic lung) *(Đợt 2)*
+- 050 – Giãn phế quản, tree-in-bud & kén khí (Bronchiectasis & cystic lung) *(đã có — [bài học](../050-gian-phe-quan-ken-khi/lesson.md))*
 - 051 – Tiểu phế quản & khảm tưới máu (Small airways & mosaic) *(dự kiến)*
 - 052 – Khí phế thũng vs đa kén khí: LAM, LCH, LIP, BHD (Emphysema vs cystic) *(dự kiến)*
 
