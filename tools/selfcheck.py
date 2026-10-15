@@ -57,7 +57,7 @@ def check(slug):
         errs.append(f"ảnh thiếu: {missing}")
     if "<details" not in t and not is_overview:
         errs.append("thiếu quiz <details>")
-    if not re.search(r"\d+\s*(mm|HU|ngày|tuần|tháng|năm|%|cm)", t):
+    if not re.search(r"\d+\s*(mm|HU|ngày|tuần|tháng|năm|%|cm|mL|g/dL|mg/dL|U/L|mIU|IU)", t):
         errs.append("thiếu số liệu định lượng (mm/HU/ngày/tuần/tháng/năm/%)")
     if "Chiarenza" in t or "Snoeckx" in t or "Hellerhoff" in t or "Doc James" in t:
         pass  # có attribution trong text
