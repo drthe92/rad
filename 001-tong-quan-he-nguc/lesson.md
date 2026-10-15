@@ -28,10 +28,13 @@ certainty: tong-hop-y-van
 | Giãn PQ/kén khí | Đường thở | Giãn PQ, LCH, LAM, khí phế thũng | Nhẫn ngọc > 1,0; kén ≤ 2 mm; central dot = khí phế thũng | [050](../050-gian-phe-quan-ken-khi/lesson.md) |
 | Khối trung thất | ITMIG 3 khoang | Thymoma, tăng sản, u quái, lymphoma, u thần kinh | SII > 20% = tăng sản; mỡ+vôi = u quái; bao mạch không tắc = lymphoma | [060](../060-khoi-trung-that-itmig/lesson.md) |
 | Khuyết thuốc mạch | ĐMP/ĐMC | PE cấp/mạn, sarcoma, bóc tách, IMH, PAU | Góc nhọn = cấp; flap+2 lòng = bóc tách; liềm 50–70 HU = IMH | [070](../070-thuyen-tac-phoi-dmc-cap/lesson.md) |
+| Đa nốt/kính mờ | Phổi | Trung tâm/bạch mạch/ngẫu nhiên; GGO/lát đá | Galaxy = sarcoid; tree-in-bud = lao; lát đá + mạn = PAP/NSIP | [021](../021-da-not-phoi/lesson.md), [032](../032-kinh-mo-lat-da/lesson.md) |
 
 ## Bài liên quan chéo
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
 - [020 – Nốt phổi](../020-not-phoi/lesson.md)
+- [021 – Đa nốt phổi](../021-da-not-phoi/lesson.md) *(mới)*
+- [032 – Kính mờ & lát đá](../032-kinh-mo-lat-da/lesson.md) *(mới)*
 - [025 – Hang & nấm phổi](../025-ton-thuong-phoi-tao-hang/lesson.md) *(mới)*
 - [030 – Đông đặc – xẹp phổi](../030-dong-dac-xep-phoi/lesson.md)
 - [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) *(mới)*
@@ -55,14 +58,14 @@ certainty: tong-hop-y-van
 
 **02x — Nốt, Khối & Hang**
 - [020 – Nốt phổi đơn độc](../020-not-phoi/lesson.md) *(đã có)*
-- 021 – Đa nốt phổi: trung tâm tiểu thùy / bạch mạch / ngẫu nhiên (Centrilobular, Perilymphatic, Random) *(dự kiến)*
+- 021 – Đa nốt phổi: trung tâm tiểu thùy / bạch mạch / ngẫu nhiên (Centrilobular, Perilymphatic, Random) *(đã có — [bài học](../021-da-not-phoi/lesson.md))*
 - 022 – Khối phổi (> 30 mm) & TNM ung thư phổi (Lung cancer staging) *(dự kiến)*
 - 025 – Hang & nấm phổi: dấu liềm khí (Cavitary lesions & Air-crescent sign) *(đã có — [bài học](../025-ton-thuong-phoi-tao-hang/lesson.md))*
 
 **03x — Đông đặc, Xẹp & Mô kẽ**
 - [030 – Đông đặc – Xẹp phổi](../030-dong-dac-xep-phoi/lesson.md) *(đã có)*
 - [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) *(đã có)*
-- 032 – Kính mờ (GGO) & lát đá (Crazy-paving) *(dự kiến)*
+- 032 – Kính mờ (GGO) & lát đá (Crazy-paving) *(đã có — [bài học](../032-kinh-mo-lat-da/lesson.md))*
 - [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md) *(đã có)*
 - 035 – Xơ mô kẽ UIP vs NSIP & tổ ong (Honeycombing) *(đã có — [bài học](../035-xo-mo-ke-UIP-NSIP/lesson.md))*
 

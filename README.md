@@ -12,9 +12,11 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 001 | [Tổng quan hệ Ngực](001-tong-quan-he-nguc/lesson.md) | Tổng quan, bảng DDx |
 | 010 | [Giải phẫu ngực cắt lớp & biến thể](010-giai-phau-nguc-cat-lop/lesson.md) | `anatomy:nguc` |
 | 020 | [Nốt phổi](020-not-phoi/lesson.md) | `pattern:not` `vung:phoi` `score:Lung-RADS` `protocol:Fleischner` `incidentaloma:not-phoi` |
+| 021 | [Đa nốt phổi](021-da-not-phoi/lesson.md) | `pattern:not-da-o` `vung:phoi` |
 | 025 | [Hang & nấm phổi](025-ton-thuong-phoi-tao-hang/lesson.md) | `pattern:hang` `vung:phoi` |
 | 030 | [Đông đặc – xẹp phổi](030-dong-dac-xep-phoi/lesson.md) | `pattern:dong-dac` `vung:phoi` |
 | 031 | [Viêm phổi mẫu hình](031-viem-phoi-mau-hinh/lesson.md) | `pattern:dong-dac` `vung:phoi` |
+| 032 | [Kính mờ & lát đá](032-kinh-mo-lat-da/lesson.md) | `pattern:kinh-mo` `protocol:HRCT` |
 | 033 | [Phù phổi & ARDS](033-phu-phoi-ards/lesson.md) | `pattern:mo-ke` `vung:phoi` |
 | 035 | [Xơ mô kẽ UIP vs NSIP](035-xo-mo-ke-UIP-NSIP/lesson.md) | `pattern:mo-ke` `pattern:kinh-mo` `protocol:HRCT` |
 | 050 | [Giãn PQ & kén khí](050-gian-phe-quan-ken-khi/lesson.md) | `pattern:gian-phe-quan` `pattern:ken-khi` `vung:duong-tho` |
