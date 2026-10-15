@@ -16,7 +16,7 @@ certainty: tong-hop-y-van
 | Mẫu hình (pattern) | Vị trí (location) | Gamut chính (DDx) | Phân biệt nhanh | Bài chi tiết |
 |---|---|---|---|---|
 | Nốt (nodule) | Phổi (lung) | U hạt (granuloma), ung thư (cancer), hamartoma | Bờ gai (spiculation), kính mờ (ground-glass) | [020](../020-not-phoi/lesson.md) |
-| Đông đặc (consolidation) | Phổi | Viêm phổi (pneumonia), NMCT, xuất huyết (hemorrhage) | Phế quản hơi (air bronchogram), động | [030](../030-dong-dac-xep-phoi/lesson.md) |
+| Đông đặc (consolidation) | Phổi | Viêm phổi (pneumonia), nhồi máu phổi (pulmonary infarction), ung thư lepidic (lepidic adenocarcinoma) | Phế quản hơi (air bronchogram), giữ thể tích | [030](../030-dong-dac-xep-phoi/lesson.md) |
 | Xẹp (atelectasis) | Phổi | Tắc (obstruction), chèn ép (compression) | Di lệch rãnh liên thùy (fissure) | [030](../030-dong-dac-xep-phoi/lesson.md) |
 | Tràn dịch (effusion) | Màng phổi (pleura) | Dịch thấm (transudate), dịch tiết (exudate), máu (hemothorax) | Meniscus, tư thế nằm (decubitus) | [040](../040-tran-dich-mang-phoi/lesson.md) |
 | Tràn khí (pneumothorax) | Màng phổi (pleura) | Tự phát (spontaneous), chấn thương (trauma), áp lực (tension) | Đường màng phổi + vô mạch; nằm ngửa tìm deep sulcus | [041](../041-tran-khi-mang-phoi/lesson.md) |
@@ -33,41 +33,49 @@ certainty: tong-hop-y-van
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md)
 - [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(mới)*
 
----
-## 1. Tổng quan bệnh học – cơ chế hình ảnh
-- Bệnh học (pathology) + sinh lý bệnh (pathophysiology) ngắn gọn.
-- Vì sao lên hình như vậy trên X-quang (radiograph) / CT (computed tomography) / MRI (magnetic resonance imaging) / siêu âm (ultrasound).
+## Quy hoạch toàn diện Hệ Ngực (Master Curriculum 001–080)
+> Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
 
-## 2. Mẫu hình + chẩn đoán phân biệt theo vị trí (gamut)
-- Liệt kê mẫu hình (pattern) → gamut (danh sách phân biệt) theo vị trí (location).
-- Ví dụ: nốt (nodule) phổi → gamut theo vùng: trung tâm / ngoại vi / màng phổi (pleura).
+**00x–01x — Tổng quan, Giải phẫu & Kỹ thuật/ICU**
+- [001 – Tổng quan hệ Ngực](#) *(bài này)*
+- [010 – Giải phẫu ngực cắt lớp & biến thể](../010-giai-phau-nguc-cat-lop/lesson.md) *(đã có)*
+- 011 – Tiểu thùy phổi thứ cấp trên HRCT (Secondary pulmonary lobule, SPL) *(dự kiến)*
+- 012 – Hạch trung thất IASLC & đường-dải trung thất X-quang (Mediastinal lines/stripes) *(dự kiến)*
+- 015 – Ống/dây ICU (lines/tubes) & giả ảnh ngực (artifacts) *(dự kiến)*
 
-## 3. Bảng so sánh phân biệt
-| Thực thể (entity) | Hình ảnh điển hình (US/CT/MRI theo thì) | Chốt vào (rule-in) | Chốt loại (rule-out) | Gợi ý xác nhận |
-|---|---|---|---|
-| ... | ... | ... | ... |
+**02x — Nốt, Khối & Hang**
+- [020 – Nốt phổi đơn độc](../020-not-phoi/lesson.md) *(đã có)*
+- 021 – Đa nốt phổi: trung tâm tiểu thùy / bạch mạch / ngẫu nhiên (Centrilobular, Perilymphatic, Random) *(dự kiến)*
+- 022 – Khối phổi (> 30 mm) & TNM ung thư phổi (Lung cancer staging) *(dự kiến)*
+- 025 – Hang & nấm phổi: dấu liềm khí (Cavitary lesions & Air-crescent sign) *(Đợt 2)*
 
-## 4. Protocol chụp + hệ phân độ/điểm chuẩn hóa
-- Protocol (giao thức) chụp: chỉ định, thông số, thuốc cản quang (contrast).
-- Hệ phân độ (grading/scoring system): ví dụ BI-RADS, Lung-RADS, TI-RADS, LI-RADS, PI-RADS, Fleischner, Bosniak — phiên bản + ngưỡng xử trí.
+**03x — Đông đặc, Xẹp & Mô kẽ**
+- [030 – Đông đặc – Xẹp phổi](../030-dong-dac-xep-phoi/lesson.md) *(đã có)*
+- [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) *(đã có)*
+- 032 – Kính mờ (GGO) & lát đá (Crazy-paving) *(dự kiến)*
+- [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md) *(đã có)*
+- 035 – Xơ mô kẽ UIP vs NSIP & tổ ong (Honeycombing) *(Đợt 2)*
 
-## 5. Biến thể bình thường và cạm bẫy
-- Biến thể bình thường (normal variant) dễ nhầm.
-- Cạm bẫy (pitfall) kỹ thuật / giả ảnh (artifact) / thỏa mãn tìm kiếm (satisfaction of search).
+**04x — Màng phổi, Thành ngực & Cơ hoành**
+- [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md) *(đã có)*
+- [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(đã có)*
+- 042 – Dày/vôi hóa/u màng phổi: trung biểu mô vs di căn (Mesothelioma) *(dự kiến)*
+- 045 – Thành ngực (dấu ngoài màng phổi) & thoát vị hoành (Extrapleural sign) *(dự kiến)*
 
-## 6. Tự lượng giá 3 câu
-1. ...
-2. ...
-3. ...
-<details><summary>Đáp án</summary>
-1. ...
-</details>
+**05x — Đường thở & Kén khí**
+- 050 – Giãn phế quản, tree-in-bud & kén khí (Bronchiectasis & cystic lung) *(Đợt 2)*
+- 051 – Tiểu phế quản & khảm tưới máu (Small airways & mosaic) *(dự kiến)*
+- 052 – Khí phế thũng vs đa kén khí: LAM, LCH, LIP, BHD (Emphysema vs cystic) *(dự kiến)*
 
-## Bài liên quan chéo
-- [ID – Tên](../NN-slug/lesson.md)
+**06x — Trung thất (ITMIG)**
+- 060 – Khối trung thất 3 khoang ITMIG (Prevascular/Visceral/Paravertebral) *(Đợt 2)*
+- 061 – Tràn khí trung thất (Pneumomediastinum) *(dự kiến)*
 
-## Ảnh
-- Ảnh local: `images/NNN_slug_Modality_SourceID.jpg` — xem `images/CREDITS.md` để rõ nguồn + giấy phép (license) từng ảnh.
-- Không tải được (paywall / cấm): dẫn link gốc ở đây + trong `sources.md`.
+**07x — Mạch ngực & Cấp cứu**
+- 070 – Thuyên tắc phổi & hội chứng ĐMC cấp (PE & Acute aortic syndrome) *(Đợt 2)*
+- 075 – Tràn dịch màng tim & chèn ép tim (Tamponade) *(dự kiến)*
+
+**08x — Chấn thương**
+- 080 – Chấn thương ngực kín (Blunt chest trauma) *(dự kiến)*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
