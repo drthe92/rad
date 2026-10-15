@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Thư viện CĐHA — rad.matcauvong.com</title>
+<style>
+body{font-family:system-ui,sans-serif;max-width:1000px;margin:0 auto;padding:16px;line-height:1.5}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+input,select{padding:8px;font-size:15px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.card{border:1px solid #ddd;border-radius:10px;padding:12px}
+.card img{width:100%;height:140px;object-fit:cover;background:#f2f2f2;border-radius:6px}
+.tag{font-size:12px;background:#eef;padding:2px 6px;border-radius:20px;margin-right:4px}
+footer{margin-top:24px;font-size:13px;color:#555}
+</style>
+</head>
+<body>
+<h1>Thư viện Chẩn đoán hình ảnh (mở)</h1>
+<p>Hub tra cứu 4 chiều: (1) Mẫu hình + Vị trí, (2) Phân độ &amp; điểm, (3) Giải phẫu &amp; biến thể, (4) Protocol &amp; tổn thương tình cờ. Việt hóa 100% — thuật ngữ Anh trong ngoặc ở lần đầu.</p>
+<input id="q" placeholder="Tìm: số ID, tên Việt/Anh, tag… (vd: 02, nodule, Lung-RADS)" style="width:100%">
+<div class="filters">
+<select id="fChieu"><option value="">— Lọc chiều —</option><option value="pattern">1. Mẫu hình+Vị trí</option><option value="score">2. Phân độ &amp; điểm</option><option value="anatomy">3. Giải phẫu &amp; biến thể</option><option value="protocol">4. Protocol &amp; tình cờ</option></select>
+<select id="fTag"><option value="">— Tag —</option><option>pattern:not</option><option>pattern:dong-dac</option><option>pattern:tran-dich</option><option>vung:phoi</option><option>vung:mang-phoi</option><option>score:Lung-RADS</option><option>anatomy:nguc</option><option>protocol:Fleischner</option><option>incidentaloma:not-phoi</option></select>
+</div>
+<div class="grid" id="grid">
+<div class="card" data-tags="tong-quan" data-text="00 tổng quan hệ ngực chest overview"><b>00 — Tổng quan hệ Ngực (Chest overview)</b><br><span class="tag">tong-quan</span><p>Bảng DDx bắt buộc + Bài liên quan chéo.</p><a href="00-tong-quan-he-nguc/lesson.md">Bài học</a> · <a href="00-tong-quan-he-nguc/sources.md" target="_blank" rel="noopener">Nguồn</a></div>
+<div class="card" data-tags="pattern:binh-thuong vung:nguc anatomy:nguc" data-text="01 giải phẫu ngực cắt lớp cross-sectional chest anatomy"><b>01 — Giải phẫu ngực cắt lớp (Cross-sectional anatomy)</b><br><span class="tag">anatomy:nguc</span><p>Biến thể bình thường (normal variant) + cạm bẫy (pitfall).</p><a href="01-giai-phau-nguc-cat-lop/lesson.md">Bài học</a> · <a href="01-giai-phau-nguc-cat-lop/sources.md" target="_blank" rel="noopener">Nguồn</a></div>
+<div class="card" data-tags="pattern:not vung:phoi score:Lung-RADS protocol:Fleischner incidentaloma:not-phoi" data-text="02 nốt phổi pulmonary nodule lung-rads fleischner"><b>02 — Nốt phổi (Pulmonary nodule)</b><br><span class="tag">pattern:not</span> <span class="tag">score:Lung-RADS</span> <span class="tag">protocol:Fleischner</span><p>Gamut nốt + Fleischner / Lung-RADS.</p><a href="02-not-phoi/lesson.md">Bài học</a> · <a href="02-not-phoi/sources.md" target="_blank" rel="noopener">Nguồn</a></div>
+<div class="card" data-tags="pattern:dong-dac vung:phoi" data-text="03 đông đặc xẹp phổi consolidation atelectasis"><b>03 — Đông đặc – xẹp phổi (Consolidation – atelectasis)</b><br><span class="tag">pattern:dong-dac</span> <span class="tag">vung:phoi</span><p>Phân biệt đông đặc (consolidation) vs xẹp (atelectasis).</p><a href="03-dong-dac-xep-phoi/lesson.md">Bài học</a> · <a href="03-dong-dac-xep-phoi/sources.md" target="_blank" rel="noopener">Nguồn</a></div>
+<div class="card" data-tags="pattern:tran-dich vung:mang-phoi" data-text="04 tràn dịch màng phổi pleural effusion"><b>04 — Tràn dịch màng phổi (Pleural effusion)</b><br><span class="tag">pattern:tran-dich</span> <span class="tag">vung:mang-phoi</span><p>Dịch tự do (free fluid) vs khu trú (loculated).</p><a href="04-tran-dich-mang-phoi/lesson.md">Bài học</a> · <a href="04-tran-dich-mang-phoi/sources.md" target="_blank" rel="noopener">Nguồn</a></div>
+</div>
+<footer>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn. Ảnh: tải về nếu giấy phép cho phép (ghi nguồn + giấy phép), AuntMinnie chỉ dẫn link.</footer>
+<script>
+const q=document.getElementById('q'),fTag=document.getElementById('fTag'),grid=document.getElementById('grid');
+function filt(){const s=q.value.toLowerCase(),t=fTag.value;[...grid.children].forEach(c=>{const okT=!t||c.dataset.tags.includes(t);const okS=!s||c.dataset.text.toLowerCase().includes(s)||c.dataset.tags.toLowerCase().includes(s);c.style.display=(okT&&okS)?'':'none';});}
+q.oninput=filt;fTag.onchange=filt;
+</script>
+</body>
+</html>

@@ -1,0 +1,75 @@
+# AGENTS.md — Thư viện Chẩn đoán hình ảnh
+
+> Repo học chẩn đoán hình ảnh (CĐHA) từ nguồn mở. Publish GitHub Pages tại `rad.matcauvong.com` (`index.html` làm hub tra cứu). Kế thừa phương pháp từ project Thư viện Phẫu thuật Mắt.
+
+## Mục tiêu
+1. Bác sĩ CĐHA nắm **bản chất vấn đề + chẩn đoán phân biệt (diagnosis, differential diagnosis)**, không học vẹt từng ca (case).
+2. Học liệu lưu lâu dài trong repo, tra cứu trên web theo lộ trình.
+
+## Nguồn (kiểm chứng giấy phép từng nguồn trước khi tải ảnh)
+| Nguồn | Điểm mạnh | Giấy phép ảnh / quy tắc |
+|---|---|---|
+| Radiopaedia.org | Ca (case) theo hệ (system), giàu ảnh X-quang (radiograph)/CT/MRI | Đa số CC BY-NC-SA — tải về được, ghi nguồn, phi thương mại (non-commercial) |
+| The Radiology Assistant (RNL) | Bài tổng quan (review) theo chủ đề, sơ đồ (diagram) đẹp | Giáo dục — dẫn link (link) chính, ảnh xin phép/tải khi cho phép |
+| LearningRadiology.com | Nhận diện mẫu hình (pattern recognition), quiz | Dẫn link; ảnh theo điều khoản trang |
+| Eurorad (ESR) | Ca có bình duyệt (peer-reviewed) | Giáo dục — ghi nguồn đầy đủ |
+| MedPix (NCI) | Ca + câu hỏi | Miễn phí học tập |
+| RSNA Case Collection | Ca chuẩn hội Điện quang Bắc Mỹ (Radiological Society of North America) | Tuân thủ điều khoản RSNA |
+| AuntMinnie (Case of the Day) | Ca mỗi ngày | Nhiều phần paywall — **chỉ dẫn link, không tải** |
+| Stanford Medicine 25 | Khám lâm sàng (physical exam) + hình ảnh | Dẫn link |
+| Wikimedia Commons (Category:Radiology) | Ảnh mở | Kiểm tra giấy phép từng file (CC đủ loại) |
+| Cybersight / EyeRounds | Mắt (siêu âm (ultrasound), CT/MRI hốc mắt (orbit)) | Miễn phí học tập |
+| CataractCoach | Video (video) phẫu thuật (tham khảo can thiệp (intervention)) | Dẫn link |
+
+## Quy ước bất biến
+- Mỗi chủ đề một folder `NN-slug/` (NN = ID (identifier) ổn định, KHÔNG BAO GIỜ đánh lại số).
+- Mỗi bài: `images/` (tải về, ghi nguồn + giấy phép từng ảnh; không tải được thì dẫn link) + `lesson.md` + `sources.md` (link gốc).
+- `lesson.md` đúng khung 6 mục (xem `templates/lesson-template.md`):
+  1. Tổng quan bệnh học (pathology)-cơ chế hình ảnh (imaging mechanism);
+  2. Mẫu hình (pattern) + chẩn đoán phân biệt theo vị trí (gamut, theo vị trí (location));
+  3. Bảng so sánh phân biệt;
+  4. Protocol (giao thức) chụp + hệ phân độ/điểm chuẩn hóa (scoring/grading system);
+  5. Biến thể bình thường (normal variant) và cạm bẫy (pitfall);
+  6. Tự lượng giá 3 câu.
+- **Việt hóa 100%**: tiếng Việt lên trước, thuật ngữ Anh giữ trong ngoặc ở lần đầu (để tra y văn (literature)).
+- Nhãn mức chắc chắn (certainty level) mỗi bài, ghi rõ ở đầu bài: `ca nguyên văn (verbatim case)` / `tổng hợp y văn (literature synthesis)` / `suy luận (inference)`.
+- Quy tắc ảnh (image rule): tải về nếu giấy phép cho phép (ghi nguồn + giấy phép từng ảnh trong `images/CREDITS.md`), không tải được thì dẫn link. AuntMinnie: chỉ dẫn link.
+- Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn (Disclaimer y tế, ghi ở `lesson.md` + `index.html` footer).
+- Không bao giờ force-push.
+
+## Hub tra cứu (index.html, 4 kiểu tra cứu của bác sĩ CĐHA)
+1. **Mẫu hình + Vị trí (Pattern/Gamut)**: lọc theo tags `pattern:*` + `vung:*` (ví dụ: pattern:nốt + vùng:phổi).
+2. **Phân độ & bảng điểm (Scoring)**: từ khóa `score:*` (BI-RADS (Breast Imaging Reporting and Data System), Lung-RADS (Lung Imaging Reporting and Data System), TI-RADS (Thyroid Imaging Reporting and Data System), LI-RADS (Liver Imaging Reporting and Data System), PI-RADS (Prostate Imaging Reporting and Data System), Fleischner, Bosniak...).
+3. **Giải phẫu cắt lớp (cross-sectional anatomy) & biến thể bình thường**: tag `anatomy:*`, file tổng quan riêng từng vùng.
+4. **Protocol & tổn thương tình cờ (incidentaloma)**: tag `protocol:*`, `incidentaloma:*` (Fleischner nốt phổi (pulmonary nodule), Bosniak nang thận (renal cyst)...).
+- Mỗi thẻ (card): số ID + tên Việt/Anh + link Bài học + link nguồn (tab mới) + thumbnail local.
+- Search khớp cả số ID, tên Việt/Anh, tag.
+
+## Quy trình combo (mỗi chủ đề)
+1. Quét TẤT CẢ nguồn trong bảng cho chủ đề → gom video/ca/bài vào `sources.md`.
+2. Viết `lesson.md` đúng khung 6 mục, tải ảnh (ghi giấy phép vào `images/CREDITS.md`), không tải được thì dẫn link.
+3. Viết/cập nhật Tổng quan chủ đề (bảng so sánh chẩn đoán phân biệt (differential diagnosis, DDx) là bắt buộc) + mục Bài liên quan chéo.
+4. Cập nhật index (dòng index + thẻ hub + tags 4 chiều) → commit + push sau MỖI đợt (SSH có sẵn). Không bao giờ force-push.
+5. Rà soát trùng lặp định kỳ mỗi khi xong một hệ cơ quan (organ system).
+
+## Quy tắc số-nhóm
+- Số folder là ID ổn định để giao tiếp; nhóm/tag để xếp học, đổi thoải mái.
+- Chỉ tách tag con khi một nhóm quá đông (~15–20 bài).
+- ID quá 1000: không vướng (parse số bằng int, tham chiếu bằng tên chính xác).
+- Dải ID hiện tại: `00` = tổng quan hệ Ngực; `01–04` = hệ Ngực đợt 1. Hệ tiếp theo bắt đầu từ `10` (Bụng), `20` (Thần kinh)... để chừa chỗ chèn.
+
+## Cấu trúc repo
+```
+AGENTS.md
+README.md
+index.html          # hub tra cứu, publish Pages, CNAME rad.matcauvong.com
+templates/
+  lesson-template.md
+  sources-template.md
+00-tong-quan-he-nguc/   # Tổng quan hệ Ngực (bảng DDx bắt buộc + Bài liên quan)
+01-giai-phau-nguc-cat-lop/
+02-not-phoi/
+03-dong-dac-xep-phoi/
+04-tran-dich-mang-phoi/
+mỗi NN-slug/: lesson.md + sources.md + images/CREDITS.md
+```
