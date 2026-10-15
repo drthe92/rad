@@ -48,4 +48,17 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 411 | [Siêu âm nhãn cầu](411-sieu-am-nhan-cau/lesson.md) | `protocol:sieu-am` |
 | 410 | [Giải phẫu hốc mắt](410-giai-phau-hoc-mat/lesson.md) | `anatomy:hoc-mat` |
 | 420 | [Vỡ sàn & khoang](420-vo-san-hoc-mat/lesson.md) | `pattern:vo-xuong` `vung:hoc-mat` |
+| 412 | [U trong nhãn cầu](412-u-trong-nhan-cau/lesson.md) | `pattern:voi-hoa` |
+| 422 | [Giả u viêm](422-viem-gia-u/lesson.md) | `pattern:viem-hoc-mat` |
+| 423 | [Fistula xoang hang](423-fistula-xoang-hang/lesson.md) | `pattern:mach-xoang-hang` |
+| 424 | [Tuyến lệ](424-tuyen-le/lesson.md) | `pattern:tuyen-le` |
+| 430 | [Đường thị giác](430-duong-thi-giac/lesson.md) | `pattern:viem-TK-thi` |
+| 431 | [U TK thị](431-u-than-kinh-thi/lesson.md) | `pattern:u-TK-thi` |
+| 432 | [Vùng yên](432-vung-yen/lesson.md) | `pattern:khoi-yen` |
+| 401 | [Phương thức CĐHA](401-phuong-thuc-mat/lesson.md) | `pattern:protocol-mat` |
+| 441 | [OCT hoàng điểm](441-OCT-hoang-diem/lesson.md) | `pattern:OCT` |
+| 442 | [Glaucoma](442-glaucoma-OCT/lesson.md) | `pattern:OCT` |
+| 450 | [Mắt nhi](450-mat-nhi/lesson.md) | `pattern:xuat-tiet-nhi` |
+| 451 | [Hệ thống](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` |
+| 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |

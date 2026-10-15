@@ -19,47 +19,65 @@ certainty: tong-hop-y-van
 | Cơ phì đại cả gân | Hốc mắt | Viêm giả u (pseudotumor), cellulitis | Cả gân + đau + đáp ứng steroid | (dự kiến 422) |
 | Vỡ sàn + kẹt cơ | Hốc mắt | Blow-out, trapdoor trẻ em | Giọt lệ (teardrop), nhìn đôi dọc | [420](../420-vo-san-hoc-mat/lesson.md) |
 | Máu sau nhãn cầu | Hốc mắt | Hội chứng khoang (OCS) | Lồi mắt + IOP > 40 mmHg + canthotomy 2 giờ | [420](../420-vo-san-hoc-mat/lesson.md) |
-| Vôi hóa trong nhãn cầu | Nhãn cầu (globe) | Retinoblastoma (trẻ), melanoma (già) | Tuổi + vôi hóa | (dự kiến 411) |
+| Vôi hóa trong nhãn cầu | Nhãn cầu (globe) | Retinoblastoma (trẻ), melanoma (già) | Tuổi + vôi hóa thô | [412](../412-u-trong-nhan-cau/lesson.md) |
+| Cơ cả gân/viêm | Hốc mắt | Giả u, cellulitis, IgG4 | Đau + cả gân + steroid 48h | [422](../422-viem-gia-u/lesson.md) |
+| Mạch xoang hang | Xoang hang | Fistula, huyết khối | Tiếng thổi + SOV giãn | [423](../423-fistula-xoang-hang/lesson.md) |
+| Tuyến lệ to | Trên-ngoài | IgG4, sarcoid, u | Không đau 2 bên + IgG4 | [424](../424-tuyen-le/lesson.md) |
+| TK thị/giao thoa | TK-yên | Viêm, NAION, glioma/ONSM, adenoma | Đau + ngấm = viêm; tram-track = ONSM; bán manh = yên | [430](../430-duong-thi-giac/lesson.md), [431](../431-u-than-kinh-thi/lesson.md), [432](../432-vung-yen/lesson.md) |
+| OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
 | Màng dịch kính | Nhãn cầu (globe) | Bong võng mạc, XH dịch kính, bong hắc mạc | V/Y dính đĩa = võng mạc; aftermovement = máu; T-sign = hắc mạc | [411](../411-sieu-am-nhan-cau/lesson.md) |
 
 ## Bài liên quan chéo
 - [410 – Giải phẫu hốc mắt](../410-giai-phau-hoc-mat/lesson.md)
 - [420 – Vỡ sàn hốc mắt](../420-vo-san-hoc-mat/lesson.md)
 - [421 – Lồi mắt Graves](../421-loi-mat-Graves/lesson.md)
-- [411 – Siêu âm nhãn cầu](../411-sieu-am-nhan-cau/lesson.md) *(mới)*
+- [411 – Siêu âm nhãn cầu](../411-sieu-am-nhan-cau/lesson.md)
+- [401 – Phương thức CĐHA mắt](../401-phuong-thuc-mat/lesson.md) *(mới)*
+- [412 – U trong nhãn cầu](../412-u-trong-nhan-cau/lesson.md) *(mới)*
+- [422 – Giả u viêm](../422-viem-gia-u/lesson.md) *(mới)*
+- [423 – Fistula xoang hang](../423-fistula-xoang-hang/lesson.md) *(mới)*
+- [424 – Tuyến lệ](../424-tuyen-le/lesson.md) *(mới)*
+- [430 – Đường thị giác](../430-duong-thi-giac/lesson.md) *(mới)*
+- [431 – U TK thị](../431-u-than-kinh-thi/lesson.md) *(mới)*
+- [432 – Vùng yên](../432-vung-yen/lesson.md) *(mới)*
+- [441 – OCT hoàng điểm](../441-OCT-hoang-diem/lesson.md) *(mới)*
+- [442 – Glaucoma](../442-glaucoma-OCT/lesson.md) *(mới)*
+- [450 – Mắt nhi](../450-mat-nhi/lesson.md) *(mới)*
+- [451 – Hệ thống](../451-he-thong-mat/lesson.md) *(mới)*
+- [460 – Can thiệp](../460-can-thiep-mat/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
 
 **400–409 — Tổng quan, giải phẫu, kỹ thuật**
 - **400** – Tổng quan *(bài này)*
-- 401 – Phương thức CĐHA mắt: CT/MRI/siêu âm B-scan/OCT (chỉ định + protocol) *(dự kiến)*
+- 401 – Phương thức CĐHA mắt *(đã có — [bài học](../401-phuong-thuc-mat/lesson.md))*
 - **410** – Giải phẫu hốc mắt cắt lớp *(đã có)*
 - 411 – Siêu âm nhãn cầu: bong võng mạc vs xuất huyết dịch kính vs bong hắc mạc *(đã có — [bài học](../411-sieu-am-nhan-cau/lesson.md))*
-- 412 – U trong nhãn cầu: retinoblastoma (vôi hóa, trẻ) vs melanoma (già) *(dự kiến)*
+- 412 – U trong nhãn cầu *(đã có — [bài học](../412-u-trong-nhan-cau/lesson.md))*
 
 **420–429 — Hốc mắt: chấn thương, viêm, mạch**
 - **420** – Vỡ sàn + hội chứng khoang *(đã có)*
 - **421** – Lồi mắt Graves/TED *(đã có)*
-- 422 – Cellulitis vs giả u viêm (cả gân, đau, steroid) *(dự kiến)*
-- 423 – Fistula xoang hang vs huyết khối xoang hang (mắt đỏ + tiếng thổi) *(dự kiến)*
-- 424 – Tuyến lệ: viêm (sarcoid/Sjögren) vs u (pleomorphic, adenoid cystic) *(dự kiến)*
+- 422 – Cellulitis vs giả u viêm *(đã có — [bài học](../422-viem-gia-u/lesson.md))*
+- 423 – Fistula vs huyết khối xoang hang *(đã có — [bài học](../423-fistula-xoang-hang/lesson.md))*
+- 424 – Tuyến lệ: viêm vs u *(đã có — [bài học](../424-tuyen-le/lesson.md))*
 
 **430–439 — Thần kinh thị giác & giao thoa**
-- 430 – Đường thị giác: viêm TK thị (MS/NMO) vs thiếu máu (NAION) vs chèn ép *(dự kiến)*
-- 431 – U TK thị: glioma (trẻ NF1, fusiform) vs meningioma (tram-track, vôi hóa) *(dự kiến)*
-- 432 – Vùng yên-giao thoa: adenoma tuyến yên vs craniopharyngioma (bán manh thái dương) *(dự kiến)*
+- 430 – Đường thị giác *(đã có — [bài học](../430-duong-thi-giac/lesson.md))*
+- 431 – U TK thị *(đã có — [bài học](../431-u-than-kinh-thi/lesson.md))*
+- 432 – Vùng yên-giao thoa *(đã có — [bài học](../432-vung-yen/lesson.md))*
 
 **440–449 — Võng mạc, hoàng điểm & glaucoma (OCT)**
-- 441 – OCT hoàng điểm: phù DME vs AMD (drusen/CNV) *(dự kiến)*
-- 442 – Glaucoma: OCT RNFL/GCC + góc tiền phòng *(dự kiến)*
+- 441 – OCT hoàng điểm *(đã có — [bài học](../441-OCT-hoang-diem/lesson.md))*
+- 442 – Glaucoma OCT *(đã có — [bài học](../442-glaucoma-OCT/lesson.md))*
 
 **450–459 — Nhi & bệnh hệ thống**
-- 450 – Mắt nhi: ROP, Coats (không vôi hóa vs RB), PHPV *(dự kiến)*
-- 451 – Biểu hiện mắt của bệnh hệ thống: sarcoid, GPA, lymphoma hốc mắt *(dự kiến)*
+- 450 – Mắt nhi *(đã có — [bài học](../450-mat-nhi/lesson.md))*
+- 451 – Bệnh hệ thống ở mắt *(đã có — [bài học](../451-he-thong-mat/lesson.md))*
 
 **460–499 — Can thiệp, xạ trị & dự trữ**
-- 460 – Can thiệp mạch mắt + xạ trị u hắc mạc (theo dõi hình ảnh) *(dự kiến)*
+- 460 – Can thiệp + xạ trị *(đã có — [bài học](../460-can-thiep-mat/lesson.md))*
 - 470–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
