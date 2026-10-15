@@ -45,10 +45,10 @@ certainty: tong-hop-y-van
 ```mermaid
 flowchart TD
   A[Nốt đặc tình cờ] --> B{Kích thước + nguy cơ?}
-  B -->|<6mm, nguy cơ thấp| C[Không theo dõi thường quy]
-  B -->|<6mm, nguy cơ cao| D[CT 12 tháng, xem ổn định thì dừng]
-  B -->|6-8mm| E[CT 6-12 tháng rồi 18-24 tháng]
-  B -->|>8mm| F[CT 3 tháng + PET-CT/sinh thiết]
+  B -->|"<6mm, nguy cơ thấp"| C[Không theo dõi thường quy]
+  B -->|"<6mm, nguy cơ cao"| D[CT 12 tháng, xem ổn định thì dừng]
+  B -->|"6-8mm"| E[CT 6-12 tháng rồi 18-24 tháng]
+  B -->|">8mm"| F[CT 3 tháng + PET-CT/sinh thiết]
   G[Nốt bán đặc/kính mờ] --> H[Theo dõi dài 3-5 năm vì tiến triển chậm]
 ```
 
