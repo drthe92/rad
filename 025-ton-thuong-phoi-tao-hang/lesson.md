@@ -69,7 +69,7 @@ certainty: tong-hop-y-van
 
 **Ca 2 — Sốt cao, ho hôi, X-quang có hang mức dịch:**
 
-![Ca 2 — áp-xe phổi](images/025_apxe-tron_XR_Wikimedia-DocJames-CCBYSA40.jpg)
+![Ca 2 — áp-xe phổi](images/025_apxe-tron_XR_Wikimedia-DocJames-CCBYSA40.png)
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
