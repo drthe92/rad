@@ -9,14 +9,14 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 ## Hệ Ngực (đợt 1)
 | ID | Bài | Tags 4 chiều |
 |---|---|---|
-| 00 | [Tổng quan hệ Ngực](001-tong-quan-he-nguc/lesson.md) | Tổng quan, bảng DDx |
-| 01 | [Giải phẫu ngực cắt lớp & biến thể](010-giai-phau-nguc-cat-lop/lesson.md) | `anatomy:nguc` |
-| 02 | [Nốt phổi](020-not-phoi/lesson.md) | `pattern:not` `vung:phoi` `score:Lung-RADS` `protocol:Fleischner` `incidentaloma:not-phoi` |
-| 03 | [Đông đặc – xẹp phổi](030-dong-dac-xep-phoi/lesson.md) | `pattern:dong-dac` `vung:phoi` |
+| 001 | [Tổng quan hệ Ngực](001-tong-quan-he-nguc/lesson.md) | Tổng quan, bảng DDx |
+| 010 | [Giải phẫu ngực cắt lớp & biến thể](010-giai-phau-nguc-cat-lop/lesson.md) | `anatomy:nguc` |
+| 020 | [Nốt phổi](020-not-phoi/lesson.md) | `pattern:not` `vung:phoi` `score:Lung-RADS` `protocol:Fleischner` `incidentaloma:not-phoi` |
+| 030 | [Đông đặc – xẹp phổi](030-dong-dac-xep-phoi/lesson.md) | `pattern:dong-dac` `vung:phoi` |
 | 031 | [Viêm phổi mẫu hình](031-viem-phoi-mau-hinh/lesson.md) | `pattern:dong-dac` `vung:phoi` |
 | 033 | [Phù phổi & ARDS](033-phu-phoi-ards/lesson.md) | `pattern:mo-ke` `vung:phoi` |
-| 040 | [Tràn dịch màng phổi](040-tran-dich-mang-phoi/lesson.md) |
-| 041 | [Tràn khí màng phổi](041-tran-khi-mang-phoi/lesson.md) | `pattern:tran-khi` `vung:mang-phoi` | | `pattern:tran-dich` `vung:mang-phoi` |
+| 040 | [Tràn dịch màng phổi](040-tran-dich-mang-phoi/lesson.md) | `pattern:tran-dich` `vung:mang-phoi` |
+| 041 | [Tràn khí màng phổi](041-tran-khi-mang-phoi/lesson.md) | `pattern:tran-khi` `vung:mang-phoi` |
 
 ## Quy ước
 Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nhãn: ca nguyên văn / tổng hợp y văn / suy luận.

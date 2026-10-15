@@ -20,11 +20,14 @@
 | Wikimedia Commons (Category:Radiology) | Ảnh mở | Kiểm tra giấy phép từng file (CC đủ loại) |
 | Cybersight / EyeRounds | Mắt (siêu âm (ultrasound), CT/MRI hốc mắt (orbit)) | Miễn phí học tập |
 | CataractCoach | Video (video) phẫu thuật (tham khảo can thiệp (intervention)) | Dẫn link |
+| Europe PMC (europepmc.org) | Tìm ảnh trong caption (cú pháp `FIG:"dấu hiệu" AND OPEN_ACCESS:Y`), REST API miễn phí, kèm PMCID/DOI + giấy phép | CC BY/CC0 theo từng bài — ghi đúng license từng ảnh |
+| PubMed Central (PMC, lọc open access) | Bản full-text + ảnh gốc độ phân giải cao; Insights into Imaging 100% CC BY 4.0 | CC BY 4.0 (Insights Imaging) / theo từng bài |
+- Lưu ý: Open-i (NLM) đã ngừng hoạt động — KHÔNG dùng; thay bằng 2 cổng trên (đã kiểm chứng: tìm `FIG:"Golden S sign"` ra 5 bài OA; đối chiếu chú thích Snoeckx 2018 qua PMCID).
 
 ## Quy ước bất biến
 - Mỗi chủ đề một folder `NNN-slug/` (NNN = ID (identifier) 3 chữ số, ổn định, KHÔNG BAO GIỜ đánh lại số).
 - Mỗi bài: `images/` (tải về, ghi nguồn + giấy phép từng ảnh; không tải được thì dẫn link) + `lesson.md` (mở đầu bằng frontmatter YAML gọn, map từ schema Gamut-First của Argon) + `sources.md` (link gốc).
-- Frontmatter bắt buộc: `unit_id, subspecialty, anatomical_location, primary_pattern, tags[pattern/vung/score/anatomy/protocol/incidentaloma], certainty, sources[]`. `index.html` đọc tags để lọc 4 chiều.
+- Frontmatter bắt buộc: `unit_id, subspecialty, anatomical_location, primary_pattern, tags[pattern/vung/score/anatomy/protocol/incidentaloma], certainty`. (Link nguồn KHÔNG nằm trong frontmatter — ở `sources.md` + `images/CREDITS.md`; `index.html` hiện link tay, chưa parse tự động.)
 - `lesson.md` đúng khung 6 mục (xem `templates/lesson-template.md`):
   1. Tổng quan bệnh học (pathology)-cơ chế hình ảnh (imaging mechanism);
   2. Mẫu hình (pattern) + chẩn đoán phân biệt theo vị trí (gamut, theo vị trí (location));

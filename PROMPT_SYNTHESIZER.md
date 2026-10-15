@@ -7,11 +7,10 @@
 - Ví dụ tối thiểu hệ Ngực: mỡ trong hamartoma **−40 đến −120 HU**; máu màng phổi **35–70 HU**; nhân đặc trong nốt bán đặc **≥ 6 mm** là ngưỡng hành động; thời gian nhân đôi thể tích (VDT) ác tính điển hình **20–400 ngày** (nốt bán đặc lepidic có thể chậm hơn nhiều).
 - Ghi rõ phiên bản (Fleischner 2017, Lung-RADS v2022...) + ngưỡng xử trí tương ứng. Số nào chưa kiểm chứng được thì ghi "chưa rõ — cần tra", không bịa.
 
-## 2. Học thuyết thể tích (volume-loss doctrine) — Đông đặc vs Xẹp
-- **Mất thể tích (volume loss) là CHỐT DUY NHẤT** phân biệt xẹp phổi với đông đặc, không phải phế quản hơi.
-- **Phế quản hơi (air bronchogram) KHÔNG loại trừ xẹp nói chung**: xẹp thụ động (tràn dịch ép) và xẹp co kéo vẫn có phế quản hơi, thậm chí tụ lại (crowded). Nó chỉ biến mất khi **tắc nghẽn trung tâm hoàn toàn** (khí không vào được).
-- Mọi bảng DDx đông đặc/xẹp phải có cột dấu thể tích (rãnh liên thùy, trung thất, cơ hoành, khoảng liên sườn).
-- Dấu kinh điển phải dạy kèm ảnh: **Golden S sign** — xẹp thùy trên phải + u trung tâm: bờ dưới lồi (u) + bờ trên lõm (rãnh bé kéo lên).
+## 2. Nguyên lý cốt lõi theo hệ cơ quan (mở rộng từ học thuyết thể tích)
+- **Hệ Ngực (001–099): Học thuyết thể tích (volume-loss doctrine)** — mất thể tích là chốt duy nhất Đông đặc vs Xẹp (phế quản hơi không loại trừ xẹp nói chung, chỉ mất khi tắc trung tâm hoàn toàn) + Golden S sign. Bổ sung khi sang bài mô kẽ: **tiểu thùy thứ cấp (secondary pulmonary lobule)** — trung tâm tiểu thùy vs bạch mạch vs ngẫu nhiên.
+- **Hệ Bụng – Gan mật (100–199, chuẩn bị): Học thuyết động học bắt thuốc (enhancement kinetics)** — gan cấp máu kép (75% tĩnh mạch cửa, 25% động mạch gan) → u ác/HCC bắt thuốc mạnh thì động mạch (arterial hyperenhancement) + thải thuốc (washout) thì cửa/muộn.
+- **Hệ Thần kinh (200–299, chuẩn bị): Hàng rào máu não (BBB) & khuếch tán (DWI/ADC)** + tiến triển hemoglobin theo thời gian trên T1/T2 (tối cấp → cấp → bán cấp sớm/muộn → mạn).
 
 ## 3. Trung thành nguồn + phản biện (fidelity + critique)
 - Ca nguyên văn: giữ đúng mô bệnh/chú thích gốc (kể cả khi không điển hình), ghi rõ Fig/ID nguồn.
