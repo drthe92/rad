@@ -27,6 +27,7 @@ certainty: tong-hop-y-van
 | Xơ mô kẽ (fibrosis) | Phổi | UIP/IPF, NSIP, HP mạn | Tổ ong đáy-dưới màng phổi = UIP; chừa màng phổi 1–2 mm = NSIP | [035](../035-xo-mo-ke-UIP-NSIP/lesson.md) |
 | Giãn PQ/kén khí | Đường thở | Giãn PQ, LCH, LAM, khí phế thũng | Nhẫn ngọc > 1,0; kén ≤ 2 mm; central dot = khí phế thũng | [050](../050-gian-phe-quan-ken-khi/lesson.md) |
 | Khối trung thất | ITMIG 3 khoang | Thymoma, tăng sản, u quái, lymphoma, u thần kinh | SII > 20% = tăng sản; mỡ+vôi = u quái; bao mạch không tắc = lymphoma | [060](../060-khoi-trung-that-itmig/lesson.md) |
+| Khuyết thuốc mạch | ĐMP/ĐMC | PE cấp/mạn, sarcoma, bóc tách, IMH, PAU | Góc nhọn = cấp; flap+2 lòng = bóc tách; liềm 50–70 HU = IMH | [070](../070-thuyen-tac-phoi-dmc-cap/lesson.md) |
 
 ## Bài liên quan chéo
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
@@ -37,7 +38,8 @@ certainty: tong-hop-y-van
 - [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md)
 - [035 – Xơ mô kẽ UIP vs NSIP](../035-xo-mo-ke-UIP-NSIP/lesson.md)
 - [050 – Giãn PQ & kén khí](../050-gian-phe-quan-ken-khi/lesson.md)
-- [060 – Khối trung thất ITMIG](../060-khoi-trung-that-itmig/lesson.md) *(mới)*
+- [060 – Khối trung thất ITMIG](../060-khoi-trung-that-itmig/lesson.md)
+- [070 – PE & ĐMC cấp](../070-thuyen-tac-phoi-dmc-cap/lesson.md) *(mới)*
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md)
 - [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(mới)*
 
@@ -80,7 +82,7 @@ certainty: tong-hop-y-van
 - 061 – Tràn khí trung thất (Pneumomediastinum) *(dự kiến)*
 
 **07x — Mạch ngực & Cấp cứu**
-- 070 – Thuyên tắc phổi & hội chứng ĐMC cấp (PE & Acute aortic syndrome) *(Đợt 2)*
+- 070 – Thuyên tắc phổi & hội chứng ĐMC cấp (PE & Acute aortic syndrome) *(đã có — [bài học](../070-thuyen-tac-phoi-dmc-cap/lesson.md))*
 - 075 – Tràn dịch màng tim & chèn ép tim (Tamponade) *(dự kiến)*
 
 **08x — Chấn thương**
