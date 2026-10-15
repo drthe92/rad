@@ -31,7 +31,7 @@ certainty: tong-hop-y-van
 |---|---|---|---|---|
 | Giả u/myositis | **Cả gân**, 1 cơ/bên, không xoang mờ | **Đau vận nhãn + cả gân + đáp ứng steroid 48h** | Sốt + xoang mờ → cellulitis | Steroid + MRI lại |
 | Cellulitis | Phù lan + xoang mờ + **áp-xe (mức dịch)** | **Sốt + xoang + bạch cầu tăng** | Không sốt + xoang sạch + không đỡ KS → giả u | Kháng sinh TM, dẫn lưu áp-xe |
-| Graves | **Chừa gân**, 2 bên, T2 sáng | **Chừa gân + TRAb** (bài 421) | Cả gân + 1 bên + đau → giả u | (bài 421) |
+| Graves | **Chừa gân**, 2 bên, T2 sáng | **Chừa gân + TRAb** (bài 421) | **Trực ngoài đơn độc (I'M SLOW) hoặc cả gân + đau → giả u/lymphoma** | (bài 421) |
 | IgG4 | Tuyến lệ + cơ + đa cơ quan | **IgG4 máu/mô + đa cơ quan** | Đơn cơ cấp + đáp ứng nhanh → giả u | IgG4, sinh thiết |
 
 ![Viêm cơ thẳng trong cả gân 7,4 vs 3,8 mm](images/422_viem-co-gan_MRI_PMC-Flindris-CCBY40.webp)

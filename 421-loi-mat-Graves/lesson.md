@@ -17,6 +17,7 @@ certainty: tong-hop-y-van
 - TED: tự miễn thụ thể TSH → thâm nhiễm cơ vận nhãn + mỡ. TẠI SAO **thân cơ to mà gân bình thường (tendon-sparing)**: viêm đầu cơ (belly), khác giả u/viêm lan cả gân.
 - **T2 sáng = viêm hoạt tính** (đáp ứng steroid); T2 tối + xơ = mạn (mổ giảm áp/chỉnh lác). CAS ≥ 3/7 = hoạt tính (đau sau nhãn, đỏ mi/kết mạc, sưng mi, sưng caruncle).
 - Ngưỡng: lồi (Hertel) chênh > 2 mm hoặc > 21 mm; TRAb/TSI (+) củng cố; giữ bình giáp (cả cường lẫn suy đều làm nặng mắt).
+- **Thứ tự cơ I'M SLOW:** Graves to cơ theo thứ tự **I**nferior → **M**edial → **S**uperior → **L**ateral → **O**blique-W (chéo). **Cơ trực ngoài (lateral rectus) to ĐƠN ĐỘC → chốt LOẠI TRỪ Graves**, nghĩ giả u viêm/lymphoma/di căn.
 
 ## 2. Gamut lồi mắt + cơ to
 

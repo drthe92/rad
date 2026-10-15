@@ -19,7 +19,7 @@ certainty: tong-hop-y-van
 | Cơ phì đại cả gân | Hốc mắt | Viêm giả u (pseudotumor), cellulitis | Cả gân + đau + đáp ứng steroid | (dự kiến 422) |
 | Vỡ sàn + kẹt cơ | Hốc mắt | Blow-out, trapdoor trẻ em | Giọt lệ (teardrop), nhìn đôi dọc | [420](../420-vo-san-hoc-mat/lesson.md) |
 | Máu sau nhãn cầu | Hốc mắt | Hội chứng khoang (OCS) | Lồi mắt + IOP > 40 mmHg + canthotomy 2 giờ | [420](../420-vo-san-hoc-mat/lesson.md) |
-| Vôi hóa trong nhãn cầu | Nhãn cầu (globe) | Retinoblastoma (trẻ), melanoma (già) | Tuổi + vôi hóa thô | [412](../412-u-trong-nhan-cau/lesson.md) |
+| Vôi hóa trong nhãn cầu | Nhãn cầu (globe) | Retinoblastoma (trẻ), drusen đĩa thị, osteoma hắc mạc, phthisis bulbi (người lớn) | Tuổi + vôi hóa thô (RB) / vôi hóa đĩa (drusen) / xương trong hắc mạc (osteoma) | [412](../412-u-trong-nhan-cau/lesson.md) |
 | Cơ cả gân/viêm | Hốc mắt | Giả u, cellulitis, IgG4 | Đau + cả gân + steroid 48h | [422](../422-viem-gia-u/lesson.md) |
 | Mạch xoang hang | Xoang hang | Fistula, huyết khối | Tiếng thổi + SOV giãn | [423](../423-fistula-xoang-hang/lesson.md) |
 | Tuyến lệ to | Trên-ngoài | IgG4, sarcoid, u | Không đau 2 bên + IgG4 | [424](../424-tuyen-le/lesson.md) |

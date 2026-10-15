@@ -34,7 +34,7 @@ certainty: tong-hop-y-van
 |---|---|---|---|---|
 | Retinoblastoma | **Vôi hóa thô + < 5 tuổi + leukocoria**, lan TK thị | **Vôi hóa + trẻ + 2 bên/gia đình** | Không vôi hóa + xuất huyết → Coats | MRI (tránh CT) + RB1 + khám mắt gây mê |
 | Coats | **Xuất huyết + telangiectasia, KHÔNG vôi hóa**, nam trẻ | **Xuất huyết + không vôi hóa + đơn độc** | Vôi hóa thô → RB | FA + laser/vitrektomy |
-| Melanoma | **Khối nấm + bong xuất tiết**, già, không vôi hóa | **Tuổi già + nấm + di căn gan** | Vôi hóa + trẻ → RB | Siêu âm + MRI + PET gan |
+| Melanoma | **Khối nấm + bong xuất tiết**, T1 tăng/T2 giảm do melanin, già, không vôi hóa | **Tuổi già + nấm + T1 sáng/T2 tối** | Vôi hóa + trẻ → RB | Siêu âm + MRI + PET gan |
 | PHPV | Dây xơ + mắt nhỏ (microphthalmia) | **Mắt nhỏ + dây xơ bẩm sinh** | Mắt thường + vôi hóa → RB | Siêu âm, theo dõi |
 
 ## 4. Protocol
