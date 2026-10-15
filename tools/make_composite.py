@@ -29,6 +29,7 @@ def main():
     ap.add_argument("--band", type=int, default=44, help="Chiều cao dải đen attribution (px)")
     ap.add_argument("--labels", default="", help='"file.jpg=[Bệnh - chuỗi xung] + attribution;..."')
     ap.add_argument("--bg", default="black", help="Màu nền letterbox (mặc định black)")
+    ap.add_argument("--max-upscale", type=float, default=2.0, help="Trần phóng to (mặc định 2.0x — không upscale quá gây mờ)")
     a = ap.parse_args()
     *pats, out = a.inputs
     files = load_list(pats)
@@ -46,7 +47,7 @@ def main():
     for f in files:
         im = Image.open(f).convert("RGB")
         w, h = im.size
-        scale = H / h  # chỉ scale theo chiều cao -> giữ aspect, không stretch
+        scale = min(H / h, a.max_upscale)  # giữ aspect + không upscale quá trần -> tránh mờ
         nw = max(1, round(w * scale))
         im = im.resize((nw, H), Image.LANCZOS)
         cells.append((im, f))
