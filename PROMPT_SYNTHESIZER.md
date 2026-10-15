@@ -27,3 +27,9 @@
 3. Viết `lesson.md` đúng khung 6 mục + frontmatter, số liệu định lượng ở mục (1)/(4), ma trận đối chiếu có 2 cột Chốt vào/Chốt loại.
 4. Quiz `<details>`: ảnh trơn ngoài, findings + chẩn đoán + nguồn trong; ca không điển hình thêm dòng phản biện.
 5. Chạy `python3 tools/selfcheck.py` — PASS mới được commit (không force-push). FAIL thì sửa hết lỗi rồi chạy lại.
+
+## Phụ lục Mắt & thị giác (400–499) — áp nghiêm ngặt mọi bài dải 400
+1. **Giải phẫu cơ vận nhãn:** thân cơ to **chừa gân (tendon-sparing)** = Graves (TED); **cả gân (involving tendons)** = giả u viêm/myositis/cellulitis. Mọi tổn thương hốc mắt phải định vị **trong nón (intraconal) vs ngoài nón (extraconal)**.
+2. **Protocol:** CT lát mỏng **≤ 1 mm** + cản quang (mạch/thành/vỡ xương); MRI hốc mắt bắt buộc **T1 fat-sat sau tiêm + T2 fat-sat** (viêm/u thần kinh thị/cơ mắt).
+3. **Ma trận vôi hóa nhãn cầu nhi:** Retinoblastoma (**vôi hóa thô to**, < 5 tuổi, RB1) vs Coats (**xuất huyết, KHÔNG vôi hóa điển hình**) vs PHPV (dây xơ thể thủy tinh).
+4. **Tuân thủ:** đúng 6 mục; định lượng bằng số (**mm, mmHg, HU, % RNFL**); ma trận 2 cột Chốt vào/Chốt loại; quiz `<details>` như hệ Ngực.
