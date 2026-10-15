@@ -44,10 +44,12 @@ certainty: tong-hop-y-van
 - **CT:** tràn khí ẩn (occult) sau chấn thương, phân biệt kén khí khổng lồ, định vị dẫn lưu khó.
 - **Siêu âm (lung sliding mất + lung point):** xác nhận tại giường cực nhanh.
 
-## 5. Biến thể và cạm bẫy
+## 5. Biến thể và cạm bẫy — trọng tâm phim nằm + kén khí + áp lực
 
+- **Phim nằm ngửa ICU (supine AP):** khí dồn lên vùng **trước-trong và đáy** (nơi thấp nhất), không lên đỉnh — tìm **deep sulcus (góc sườn hoành sâu)**, nửa ngực sáng hơn, bờ tim sắc (sharp), vòm hoành thấy rõ. Đừng chờ đường màng phổi đỉnh.
+- **Kén khí khổng lồ (giant bulla) vs tràn khí:** kén có thành mảng cong theo phổi + còn mạch bên trong vùng nghi ngờ; tràn khí có đường màng phổi + vô mạch hoàn toàn ngoài đường đó. Dấu double-wall (khí 2 bên thành kén) = tràn khí kèm kén. **Nghi ngờ là chụp CT trước — cấm chọc dẫn lưu mù vào kén.**
+- **Tràn khí áp lực (tension):** xẹp phổi lớn + **trung thất đẩy sang đối diện + vòm hoành hạ thấp/dẹt + deep sulcus sâu** + lâm sàng (tụt HA, tĩnh mạch cổ nổi) — chẩn đoán lâm sàng, dẫn lưu ngay.
 - **Nếp da, tóc tết, viền xương bả vai:** 3 giả tràn khí kinh điển — quy tắc "đường ra khỏi lồng ngực + mạch còn nguyên".
-- **Kén khí khổng lồ vs tràn khí:** kén có thành cong lõm vào + mạch phổi bên trong; đặt nhầm dẫn lưu vào kén = thảm họa.
 - **Tràn khí lượng ít đỉnh:** dễ bỏ sót khi đọc vội — phóng đại (zoom) đỉnh 2 bên là thói quen bắt buộc.
 
 ## 6. Tự lượng giá — Blind Quiz

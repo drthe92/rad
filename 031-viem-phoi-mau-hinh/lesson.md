@@ -12,12 +12,19 @@ certainty: tong-hop-y-van
 **Tags:** `pattern:dong-dac` `vung:phoi`
 **Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — nhóm tự biên từ y văn mở, chưa gắn ca nguyên văn đơn lẻ.
 
-## 1. Tổng quan — 3 con đường viêm vào phổi
+## 1. Tổng quan — 3 con đường viêm vào phổi (đơn vị giải phẫu khác nhau)
 
-- **Viêm thùy (lobar):** vi khuẩn lấp đầy phế nang theo đường lỗ Kohn — **mờ đều 1 thùy/đoạn + phế quản hơi**, giới hạn bởi rãnh liên thùy (điển hình phế cầu (pneumococcus)).
-- **Viêm phế quản-phổi (bronchopneumonia):** viêm quanh tiểu phế quản lan ra nang kề — **nốt mờ đa ổ 2 bên + kính mờ loang lổ** (tụ cầu (staph), gram âm (Pseudomonas), hít (aspiration) — thùy trên khi nằm, đáy khi đứng).
-- **Viêm kẽ/vi rút (interstitial/viral):** dày vách + kính mờ lan tỏa — lưới-nốt, không phế quản hơi điển hình.
-- TẠI SAO phân 3 mẫu: gợi tác nhân (lobar→phế cầu; đa ổ hoại tử→tụ cầu/gram âm; kẽ→virus/Pneumocystis) + tiên lượng biến chứng (áp xe (abscess), tràn mủ (empyema) ở bài 040).
+- **Viêm thùy (lobar — đơn vị: phế nang):** vi khuẩn lấp đầy phế nang theo đường lỗ Kohn — **mờ đều 1 thùy/đoạn + phế quản hơi**, giới hạn bởi rãnh liên thùy (điển hình phế cầu (pneumococcus)).
+- **Viêm phế quản-phổi (bronchopneumonia — đơn vị: tiểu phế quản trung tâm tiểu thùy):** viêm quanh tiểu phế quản lan ra nang kề — **nốt trung tâm tiểu thùy (centrilobular) + cây nụ (tree-in-bud)** + kính mờ loang lổ (tụ cầu (staph), gram âm (Pseudomonas), hít (aspiration), lao).
+- **Viêm kẽ (interstitial — đơn vị: vách liên tiểu thùy):** dày vách + kính mờ lan tỏa — lưới-nốt, Kerley, không phế quản hơi điển hình (virus, Pneumocystis, phù — nối bài 033).
+- TẠI SAO phân 3 mẫu: gợi tác nhân (thùy→phế cầu; trung tâm tiểu thùy→lao/vi khuẩn hít; kẽ→virus/Pneumocystis) + tiên lượng biến chứng (áp xe (abscess), tràn mủ (empyema) ở bài 040).
+
+### Halo sign vs reversed halo (atoll) sign
+- **Halo (quầng):** nốt đặc + quầng kính mờ quanh — xuất huyết quanh nốt: **Aspergillus ở BN giảm bạch cầu (neutropenia)** kinh điển; hoặc lan lepidic của adenocarcinoma (tồn tại dai dẳng, không tan).
+- **Reversed halo / atoll (vành ngược):** kính mờ trung tâm + **vành đông đặc ≥ 3/4 chu vi, dày ≥ 2 mm** — đầu tiên nghĩ **viêm phổi tổ chức hóa (COP/BOOP)**; vành nốt sần → lao/sarcoid; vành lưới → nấm xâm lấn (suy giảm miễn dịch) hoặc nhồi máu (miễn dịch thường).
+
+![Atoll: kính mờ trung tâm + vành đông đặc](images/031_atoll_CT_PMC-Chiarenza-CCBY40.jpg)
+*Vành ngược (mũi tên) + hình đảo san hô đối chiếu. Nguồn: Chiarenza et al., Insights into Imaging 2019 Fig. 4, CC BY 4.0.*
 
 ![Thùy vs phế quản-phổi đặt cạnh nhau](images/composite_viem-thuy-phequan.jpg)
 *Trái: viêm phế quản-phổi đa ổ (Franquet, CC BY 4.0). Phải: viêm thùy dưới trái + dịch (Doc James, CC BY 3.0). Ảnh ghép letterbox.*

@@ -17,7 +17,10 @@ certainty: tong-hop-y-van
 - **Đông đặc (consolidation):** phế nang (alveoli) chứa đầy dịch/mủ/máu/tế bào thay vì khí. Tia X bị suy giảm → **mờ đều (opacity)**, nhưng **phế quản vẫn còn khí → hiện hình nhánh đen trong vùng trắng: phế quản hơi (air bronchogram)**. Thể tích giữ nguyên.
 - **Xẹp phổi (atelectasis):** phế nang **mất thể tích (volume loss)** — do tắc (obstruction, vd dị vật/u), chèn ép (compression, vd tràn dịch), co kéo (cicatricial) hoặc thiếu surfactant. Phim mất khí + **kéo lệch cấu trúc lân cận: rãnh liên thùy (fissure) di lệch, trung thất (mediastinum) kéo về bên xẹp, cơ hoành (diaphragm) nâng cao, khoảng liên sườn (intercostal spaces) hẹp lại**.
 - ⚠️ CHỐT HỌC THUYẾT: **mất thể tích là tiêu chuẩn duy nhất** phân biệt xẹp vs đông đặc. **Phế quản hơi KHÔNG loại trừ xẹp nói chung** — xẹp thụ động (tràn dịch ép) và xẹp co kéo vẫn có phế quản hơi, thậm chí tụ lại (crowded); nó chỉ biến mất khi **tắc nghẽn trung tâm hoàn toàn** (khí không vào được).
-- **Golden S sign:** xẹp thùy trên (upper lobe) phải + u trung tâm: bờ dưới **lồi** (khối u) + bờ trên **lõm** (rãnh bé kéo lên) ghép thành chữ S — thấy S là nghĩ ngay u gây xẹp, chỉ định soi phế quản.
+- **Golden S sign:** xẹp thùy trên (upper lobe) phải + u trung tâm: bờ dưới **lồi** (khối u) + bờ trên **lõm** (rãnh bé kéo lên) ghép thành chữ S — thấy S là nghĩ ngay u gây xẹp, chỉ định soi phế quản. Mô tả gốc: Ross và Golden 1925, xẹp thùy trên phải do ung thư phế quản rốn phải (Chiarenza 2019, Fig. 17).
+
+![Golden S: X-quang + CT coronal + hình chữ S đối chiếu](images/030_golden-S_CT_PMC-Chiarenza-CCBY40.jpg)
+*Panel A: X-quang — xẹp thùy trên phải (mũi tên) + u rốn phải (đầu mũi tên). Panel B: CT coronal cùng mặt cắt. Nguồn: Chiarenza et al., Insights into Imaging 2019 Fig. 17, CC BY 4.0 (giữ nguyên toàn figure).*
 
 ![Đông đặc thùy giữa phải và 2 đáy phổi](images/030_dongdac_XR_Wikimedia-Parmar-CCBY20.jpg)
 *X-quang ngực thẳng (PA): đông đặc thùy giữa (middle lobe) phải + đáy 2 bên. Nguồn: Parmar, CC BY 2.0 (xem `images/CREDITS.md`).*
@@ -38,8 +41,8 @@ certainty: tong-hop-y-van
 | Phù phổi (edema) | Mờ lan tỏa 2 bên, đối xứng, cánh bướm (bat-wing) | **Phân bố trung tâm + đường Kerley B + tim to (cardiomegaly)** | Mờ khu trú 1 thùy + phế quản hơi → nghĩ viêm hơn | NT-proBNP, đáp ứng lợi tiểu (diuretics) |
 | Ung thư dạng đông đặc | Mờ dai dẳng không đáp ứng kháng sinh (non-resolving) | **Giãn phế quản trong tổn thương, hẹp dần (tapering), hạch (+)** | Tan hoàn toàn sau 6–8 tuần → lành tính | CT lại sau điều trị, sinh thiết (biopsy) nếu còn |
 
-![Đông đặc giữ thể tích vs xẹp tắc mất thể tích](images/composite_dongdac-vs-xep.jpg)
-*Trái: đông đặc thùy giữa phải, đường giữa ngay ngắn (Parmar, CC BY 2.0). Phải: xẹp gần toàn bộ phổi phải do ung thư phế quản — khí quản/trung thất kéo lệch sang phải (mũi tên đỏ) (Hellerhoff, CC BY-SA 3.0). Cùng trắng, khác thể tích. Ảnh ghép letterbox giữ tỷ lệ.*
+![Đông đặc giữ thể tích vs Golden S mất thể tích](images/composite_dongdac-vs-xep.jpg)
+*Trái: đông đặc thùy giữa phải, đường giữa ngay ngắn (Parmar, CC BY 2.0). Phải: Golden S — xẹp thùy trên phải + u rốn phải, panel A cắt từ Fig. 17 (Chiarenza, CC BY 4.0, có ghi đã cắt). Cùng trắng, khác thể tích. Ảnh ghép letterbox giữ tỷ lệ.*
 
 ## 4. Protocol chụp + hệ phân độ/điểm chuẩn hóa
 
@@ -76,12 +79,12 @@ certainty: tong-hop-y-van
 - Nguồn ảnh: Mikael Häggström, CC0 (xem `images/CREDITS.md`).
 </details>
 
-**Ca 2 — Phân biệt bằng thể tích:** mở ảnh ghép `composite_dongdac-vs-xep.jpg` ở mục 3, tự trả lời: bên nào đường giữa ngay ngắn (giữ thể tích)? Bên nào khí quản lệch (mất thể tích)? Rồi đối chiếu bảng mục 3.
+**Ca 2 — Phân biệt bằng thể tích:** mở ảnh ghép `composite_dongdac-vs-xep.jpg` ở mục 3, tự trả lời: bên nào đường giữa ngay ngắn (giữ thể tích)? Bên nào có chữ S (mất thể tích + u)? Rồi đối chiếu bảng mục 3.
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
-- Trái giữ thể tích → đông đặc. Phải khí quản/trung thất kéo sang phải → **xẹp tắc gần toàn bộ phổi phải do ung thư phế quản** (mũi tên đỏ chỉ khí quản lệch).
-- Nguồn: Hellerhoff, CC BY-SA 3.0 (xem `images/CREDITS.md`).
+- Trái giữ thể tích → đông đặc. Phải: mờ thùy trên phải + khối rốn phải ghép thành chữ S → **Golden S: xẹp tắc thùy trên do u trung tâm**.
+- Nguồn: Chiarenza et al., CC BY 4.0 (xem `images/CREDITS.md`).
 </details>
 
 **Ca 3 — Nhìn phim dưới, tìm dấu thể tích trước:**

@@ -12,8 +12,9 @@ certainty: tong-hop-y-van
 **Tags:** `pattern:mo-ke` `vung:phoi`
 **Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — nhóm tự biên từ y văn mở, chưa gắn ca nguyên văn đơn lẻ.
 
-## 1. Tổng quan — nước vào phổi theo 2 đường
+## 1. Tổng quan — nước vào phổi theo 2 đường + nguyên lý tiểu thùy thứ cấp
 
+- **Tiểu thùy thứ cấp (secondary pulmonary lobule, 1–2,5 cm):** trung tâm là tiểu động mạch + tiểu phế quản; ngoại vi là tĩnh mạch + bạch mạch trong **vách liên tiểu thùy**. Phù tim ứ tĩnh mạch → bạch mạch vách giãn trước → **đường Kerley B: dài 1–2 cm, vuông góc màng phổi, chạm màng phổi ở đáy**.
 - **Phù tim (cardiogenic):** tăng áp tĩnh mạch phổi → dịch thoát kẽ trước (cuffing, Kerley B) rồi tràn nang (cánh bướm (bat-wing) trung tâm, **tái phân bố lên đỉnh (redistribution)**, tim to, dịch màng phổi).
 - **ARDS (không do tim):** tổn thương màng phế nang-mao mạch → phù **ngoại vi, loang lổ, không đối xứng**, tim bình thường, không đáp ứng lợi tiểu nhanh; chẩn đoán theo **Berlin (P/F + thời gian + loại trừ tim)**.
 - TẠI SAO phân biệt được trên phim: phù tim **đối xứng + trung tâm + có dấu tim**; ARDS **ngoại vi + không đều + không dấu tim**. TẠI SAO tan nhanh khi lợi tiểu: dịch kẽ-nang chưa xơ hóa → hồi phục trong ngày (minh chứng bằng cặp phim trước-sau dưới đây).
@@ -32,8 +33,8 @@ certainty: tong-hop-y-van
 
 | Thực thể (entity) | Hình ảnh điển hình | Chốt vào (rule-in) | Chốt loại (rule-out) | Gợi ý xác nhận |
 |---|---|---|---|---|
-| Phù tim (cardiogenic) | Cánh bướm + **Kerley B + tim to + tái phân bố đỉnh** | **Tim to + Kerley B + tan nhanh sau lợi tiểu** | Tim bình thường + ngoại vi không đều → ARDS | NT-proBNP, siêu âm tim |
-| ARDS | Mờ ngoại vi loang lổ 2 bên, **tim bình thường** | **P/F ≤ 300 + khởi phát < 1 tuần + loại trừ tim** | Có Kerley B + tim to → phù tim hơn | Berlin criteria, bảo vệ phổi |
+| Phù tim (cardiogenic) | Cánh bướm + **Kerley B (1–2 cm, vuông góc màng phổi đáy) + tim to + tái phân bố đỉnh** | **Tim to + Kerley B + dịch đáy + tan nhanh sau lợi tiểu** | Tim bình thường + ngoại vi không đều + không Kerley cấp → ARDS | NT-proBNP, siêu âm tim |
+| ARDS | Mờ ngoại vi loang lổ 2 bên, **tim bình thường, không Kerley B giai đoạn cấp** | **P/F ≤ 300 + khởi phát < 1 tuần + loại trừ tim (Berlin)** | Có Kerley B + tim to + dịch nhiều → phù tim hơn | Berlin criteria, bảo vệ phổi |
 | Xuất huyết lan tỏa | Kính mờ/đông đặc lan tỏa + **ho máu + Hb giảm** | **Ho máu + suy thận + ANCA (+)** | Kerley B + dịch màng phổi nhiều → phù tim | Soi phế quản (BAL máu), miễn dịch |
 | Viêm phổi virus | Kính mờ lan tỏa + **sốt + test (+)** | **Dịch tễ + PCR (+)** | Tim to + Kerley → phù tim kèm | PCR, CT HRCT |
 
