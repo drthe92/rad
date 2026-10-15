@@ -20,11 +20,13 @@ certainty: tong-hop-y-van
 | Vỡ sàn + kẹt cơ | Hốc mắt | Blow-out, trapdoor trẻ em | Giọt lệ (teardrop), nhìn đôi dọc | [420](../420-vo-san-hoc-mat/lesson.md) |
 | Máu sau nhãn cầu | Hốc mắt | Hội chứng khoang (OCS) | Lồi mắt + IOP > 40 mmHg + canthotomy 2 giờ | [420](../420-vo-san-hoc-mat/lesson.md) |
 | Vôi hóa trong nhãn cầu | Nhãn cầu (globe) | Retinoblastoma (trẻ), melanoma (già) | Tuổi + vôi hóa | (dự kiến 411) |
+| Màng dịch kính | Nhãn cầu (globe) | Bong võng mạc, XH dịch kính, bong hắc mạc | V/Y dính đĩa = võng mạc; aftermovement = máu; T-sign = hắc mạc | [411](../411-sieu-am-nhan-cau/lesson.md) |
 
 ## Bài liên quan chéo
 - [410 – Giải phẫu hốc mắt](../410-giai-phau-hoc-mat/lesson.md)
 - [420 – Vỡ sàn hốc mắt](../420-vo-san-hoc-mat/lesson.md)
 - [421 – Lồi mắt Graves](../421-loi-mat-Graves/lesson.md)
+- [411 – Siêu âm nhãn cầu](../411-sieu-am-nhan-cau/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -33,7 +35,7 @@ certainty: tong-hop-y-van
 - **400** – Tổng quan *(bài này)*
 - 401 – Phương thức CĐHA mắt: CT/MRI/siêu âm B-scan/OCT (chỉ định + protocol) *(dự kiến)*
 - **410** – Giải phẫu hốc mắt cắt lớp *(đã có)*
-- 411 – Siêu âm nhãn cầu: bong võng mạc vs xuất huyết dịch kính vs bong hắc mạc *(dự kiến)*
+- 411 – Siêu âm nhãn cầu: bong võng mạc vs xuất huyết dịch kính vs bong hắc mạc *(đã có — [bài học](../411-sieu-am-nhan-cau/lesson.md))*
 - 412 – U trong nhãn cầu: retinoblastoma (vôi hóa, trẻ) vs melanoma (già) *(dự kiến)*
 
 **420–429 — Hốc mắt: chấn thương, viêm, mạch**

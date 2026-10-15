@@ -45,6 +45,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | ID | Bài | Tags 4 chiều |
 |---|---|---|
 | 400 | [Tổng quan Mắt](400-tong-quan-mat-thi-giac/lesson.md) | Tổng quan, bảng DDx |
+| 411 | [Siêu âm nhãn cầu](411-sieu-am-nhan-cau/lesson.md) | `protocol:sieu-am` |
 | 410 | [Giải phẫu hốc mắt](410-giai-phau-hoc-mat/lesson.md) | `anatomy:hoc-mat` |
 | 420 | [Vỡ sàn & khoang](420-vo-san-hoc-mat/lesson.md) | `pattern:vo-xuong` `vung:hoc-mat` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
