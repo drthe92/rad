@@ -18,6 +18,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 033 | [Phù phổi & ARDS](033-phu-phoi-ards/lesson.md) | `pattern:mo-ke` `vung:phoi` |
 | 035 | [Xơ mô kẽ UIP vs NSIP](035-xo-mo-ke-UIP-NSIP/lesson.md) | `pattern:mo-ke` `pattern:kinh-mo` `protocol:HRCT` |
 | 050 | [Giãn PQ & kén khí](050-gian-phe-quan-ken-khi/lesson.md) | `pattern:gian-phe-quan` `pattern:ken-khi` `vung:duong-tho` |
+| 060 | [Khối trung thất ITMIG](060-khoi-trung-that-itmig/lesson.md) | `pattern:khoi` `vung:trung-that` `score:ITMIG` |
 | 040 | [Tràn dịch màng phổi](040-tran-dich-mang-phoi/lesson.md) | `pattern:tran-dich` `vung:mang-phoi` |
 | 041 | [Tràn khí màng phổi](041-tran-khi-mang-phoi/lesson.md) | `pattern:tran-khi` `vung:mang-phoi` |
 
