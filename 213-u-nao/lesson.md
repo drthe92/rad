@@ -15,8 +15,8 @@ certainty: tong-hop-y-van
 ## 1. Tổng quan — hàng rào máu-não vỡ → bắt thuốc + tân mạch rCBV cao
 
 - U thần kinh đệm độ cao (glioblastoma — GBM, WHO grade 4) hoại tử trung tâm + tân mạch (neovascularization) → bắt thuốc vòng dày gồ ghề + thể tích máu não tương đối (rCBV) **> 1,75** + xâm lấn qua thể chai (corpus callosum) thành hình bướm (butterfly).
-- TẠI SAO di căn nhiều ổ ở ranh giới xám-trắng: tắc vi thuyên tắc tại nơi mạch thu nhỏ đột ngột + phù mạch (vasogenic edema) lan trắng. Lymphoma tế bào dày đặc → bắt thuốc đồng nhất + ADC rất thấp. Áp-xe mủ đặc → hạn chế khuếch tán trung tâm + vòng mỏng đều.
-- Ngưỡng nằm lòng: GBM đường kính hay gặp **> 40–50 mm** khi phát hiện + phù lan > khối; di căn điển hình **nhiều ổ 5–20 mm**; lymphoma quanh não thất ADC **< 600 × 10⁻⁶ mm²/s**.
+- TẠI SAO di căn nhiều ổ ở ranh giới chất xám-trắng: tắc vi thuyên tắc tại nơi mạch thu nhỏ đột ngột + phù vận mạch (vasogenic edema) hình ngón tay lan trắng rất rộng. U lympho hệ thần kinh trung ương nguyên phát (PCNSL) mật độ tế bào cực đặc → **tăng tỷ trọng tự nhiên trên CT không tiêm (40–50 HU)** và **giảm tín hiệu trên T2W** + hạn chế khuếch tán toàn bộ khối đặc. Áp-xe mủ đặc → hạn chế khuếch tán trung tâm + vòng mỏng đều + viền kép T2.
+- Ngưỡng nằm lòng: GBM đường kính hay gặp **> 40–50 mm** khi phát hiện + phù lan > khối + rCBV > 1,75; di căn điển hình **nhiều ổ 5–20 mm**; lymphoma ADC cực thấp **< 0,6–0,7 × 10⁻³ mm²/s** (tương đương < 600–700 × 10⁻⁶ mm²/s).
 
 ## 2. Mẫu hình + chẩn đoán phân biệt theo vị trí (Gamut)
 
@@ -30,10 +30,10 @@ certainty: tong-hop-y-van
 
 | Thực thể (entity) | Hình ảnh điển hình | Chốt vào (rule-in) | Chốt loại (rule-out) | Gợi ý xác nhận |
 |---|---|---|---|---|
-| GBM bướm | **Qua thể chai 2 bên + vòng dày gồ ghề + hoại tử + rCBV > 1,75** | **Butterfly + hoại tử + xâm lấn trắng** | Nhiều ổ nhỏ xám-trắng → di căn | Sinh thiết + IDH/MGMT, MRI phổ (choline cao) |
-| Di căn | **Nhiều ổ 5–20 mm xám-trắng + phù > khối + vòng đều** | **Nhiều ổ + K nguyên phát đã biết** | Đơn ổ qua thể chai → GBM | Tìm nguyên phát (CT ngực/PET), SRS toàn não |
-| Lymphoma | **Quanh não thất đồng nhất + ADC rất thấp**, ít hoại tử | **Đồng nhất + quanh thất + ADC < 600** | Vòng hoại tử dày → GBM | Sinh thiết TRƯỚC steroid (steroid che mờ) |
-| Áp-xe | **Vòng mỏng đều + DWI trung tâm sáng + sốt** | **Hạn chế trung tâm + viêm toàn thân** | Vòng dày gồ ghề + rCBV cao → u | Dẫn lưu + kháng sinh, phổ lactate |
+| GBM bướm | **Qua thể chai 2 bên + vòng dày gồ ghề + hoại tử + rCBV > 1,75; trung tâm hoại tử KHÔNG hạn chế khuếch tán (DWI tối, ADC sáng)**; phổ MRS đỉnh Choline/NAA rất cao + Lactate/Lipid | **Butterfly + hoại tử + xâm lấn trắng + DWI trung tâm tối** | Trung tâm DWI sáng rực + viền kép → áp-xe | Sinh thiết + IDH/MGMT, MRI phổ (choline cao) |
+| Di căn | **Đa ổ ranh giới chất xám-trắng + phù vận mạch ngón tay rất rộng + vòng đều 5–20 mm** | **Nhiều ổ + K nguyên phát đã biết** | Đơn ổ qua thể chai → GBM | Tìm nguyên phát (CT ngực/PET), SRS toàn não |
+| Lymphoma (PCNSL) | **Quanh não thất/thể chai + tăng tỷ trọng 40–50 HU trên NECT + giảm tín hiệu T2W** + ngấm đồng nhất | **Đồng nhất + quanh thất + ADC < 0,6–0,7 × 10⁻³ + T2 tối** | Vòng hoại tử dày → GBM; chỉ ngấm vòng khi HIV/AIDS | Sinh thiết TRƯỚC steroid (steroid che mờ) |
+| Áp-xe vi khuẩn | **Vòng mỏng nhẵn (mặt hướng não thất mỏng hơn → dễ vỡ vào não thất) + trung tâm mủ DWI sáng rực/ADC tối đen + dấu viền kép (Dual-rim sign) trên T2W** | **Hạn chế trung tâm + viêm toàn thân + viền kép** | Vòng dày gồ ghề + rCBV cao + DWI trung tâm tối → GBM | Dẫn lưu + kháng sinh, phổ lactate |
 
 ![GBM bướm trán 2 bên qua thể chai, hoại tử đa ổ (mũi tên)](images/213_buom-callosal_MRI_PMC-Maity-CCBY40.jpg)
 *Khối trán 2 bên ~65 mm + hoại tử nang + phù lan, xâm lấn thể chai gối. Nguồn: Maity et al., Cureus 2026 Fig. 3, CC BY 4.0 — ca sa sút tiến triển nhanh, cần sinh thiết loại trừ lymphoma.*
@@ -58,6 +58,7 @@ flowchart TD
 - **Giả tiến triển (pseudoprogression) sau xạ-hóa** bắt thuốc tăng giả 12 tuần đầu — đừng mổ lại vội, theo dõi RANO + tưới máu.
 - **Steroid làm lymphoma nhỏ giả** mất dấu sinh thiết — sinh thiết trước steroid.
 - **Nhồi máu bán cấp bắt thuốc vòng** giả u — DWI vùng mạch + bối cảnh mạch máu phân biệt (bài 211).
+- **Mất myelin giả u (Tumefactive demyelination) — CẤM MỔ:** dấu **vòng ngấm thuốc hở (Open-ring sign)** với phần hở hướng về phía chất xám vỏ não/hạch nền — đáp ứng corticoid, sinh thiết/mổ nhầm thành GBM là sai lầm chết người (hội chẩn MS/NMOSD bài 215).
 - **Viêm não herpes thái dương 2 bên** giả u lan — sốt + PCR HSV + không tân mạch rCBV.
 
 ## 6. Tự lượng giá — Blind Quiz

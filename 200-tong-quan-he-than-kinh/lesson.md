@@ -12,35 +12,51 @@ certainty: tong-hop-y-van
 **Tags:** `tong-quan`
 **Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis).
 
-## Bảng so sánh phân biệt bắt buộc (Hệ Thần kinh)
-| Mẫu hình (pattern) | Vị trí (location) | Gamut chính (DDx) | Phân biệt nhanh (Chốt định lượng) | Bài chi tiết |
+## Bảng so sánh phân biệt bắt buộc (Hệ Thần kinh & Cột sống)
+| Mẫu hình (pattern) | Vị trí (location) | Gamut chính (DDx) | Phân biệt nhanh (Chốt định lượng / Tín hiệu) | Bài chi tiết |
 |---|---|---|---|---|
-| Khuếch tán hạn chế (DWI+/ADC−) | Não (brain) | Nhồi máu cấp, áp-xe, lymphoma, Creutzfeldt-Jakob | DWI sáng + ADC tối < 7–10 ngày = nhồi máu cấp | `211` |
-| Máu liềm vs thấu kính | Sọ (skull) | Dưới màng cứng (liềm, qua khớp) vs ngoài màng (thấu kính, không qua khớp) | Liềm qua khớp + chấn thương nhẹ = SDH; thấu kính + lucid = EDH | `212` |
-| Khối bắt thuốc vòng/đặc | Não | GBM (bướm, hoại tử), di căn (nhiều, xám-trắng), lymphoma (đồng nhất, quanh não thất), áp-xe (viền mỏng, DWI+) | Bướm qua thể chai = GBM; nhiều ổ xám-trắng = di căn | `213` |
+| Khuếch tán hạn chế (DWI+/ADC−) | Nhu mô não (brain parenchyma) | Nhồi máu não cấp, Áp-xe mủ, U lympho (lymphoma), Nang thượng bì (epidermoid), Bệnh Creutzfeldt-Jakob | Theo vùng cấp máu động mạch (artery) + ASPECTS = Nhồi máu cấp; Trong lòng nang ngấm viền = Áp-xe; Ngoài trục góc cầu tiểu não = Epidermoid | `211`, `213`, `217` |
+| Máu tụ ngoài trục: Hình liềm vs. Thấu kính vs. Rãnh não | Nội sọ (intracranial) | Dưới màng cứng (SDH), Ngoài màng cứng (EDH), Xuất huyết dưới nhện (SAH) | Hình liềm vượt khớp sọ = SDH; Hình thấu kính không vượt khớp + khoảng tỉnh = EDH; Trong bể nền/rãnh Sylvius dày ≥ 1 mm (Modified Fisher) = SAH | `212` |
+| Khối ngấm thuốc dạng vòng (Ring-enhancing) | Trong trục (intra-axial) | U nguyên bào thần kinh đệm (GBM), Di căn (metastasis), Áp-xe não, Mất myelin giả u (tumefactive demyelination) | Thành dày qua thể chai + trung tâm ADC sáng = GBM; Trung tâm DWI+ sáng rực + viền kép T2 = Áp-xe; Vòng ngấm thuốc hở (open-ring) = Mất myelin (cấm mổ!) | `213`, `214`, `215` |
+| Khối ngoài trục (Extra-axial) & Góc cầu tiểu não (CPA) | Màng não & Nền sọ | U màng não (meningioma), U dây VIII (schwannoma), Nang thượng bì (epidermoid), Nang màng nhện (arachnoid cyst) | Đuôi màng cứng + khe dịch não tủy (DNT) = Meningioma; Rộng ống tai trong = Schwannoma; Giống DNT trên T1/T2 nhưng DWI+ sáng = Epidermoid (DWI tối = Nang màng nhện) | `217` |
+| Chất trắng đa ổ (Multifocal white matter) | Quanh não thất & Tủy | Xơ cứng rải rác (MS), Viêm tủy thị thần kinh (NMOSD), Bệnh mạch máu nhỏ (Fazekas) | Ngón tay Dawson vuông góc não thất + tủy < 2 đốt = MS; Tổn thương tủy dài ≥ 3 đốt (LETM) + giao thoa thị = NMOSD | `215` |
+| Giãn não thất & Đẩy lệch cấu trúc | Hệ thống não thất | Não úng thủy tắc nghẽn, Não úng thủy áp lực bình thường (NPH), Teo não tuổi già, Thoát vị não | Chỉ số Evans > 0,3 + góc thể chai < 90° + DESH = NPH; Giãn cả não thất lẫn rãnh vỏ não tương xứng = Teo não | `218` |
+| Tổn thương ống sống theo 3 khoang | Cột sống – Tủy sống (spine) | Ngoài màng cứng (thoát vị đĩa, di căn), Trong màng cứng-ngoài tủy (schwannoma, meningioma), Nội tủy (ependymoma, viêm tủy) | Đẩy lệch túi màng cứng = Ngoài màng cứng; Mở rộng khoang dưới nhện hình chén (meniscus) = Trong màng cứng-ngoài tủy; Phình rộng tủy = Nội tủy | `220` |
+| Tổn thương thân đốt sống & Đĩa đệm | Cột sống | Viêm đĩa đệm-đốt sống vi khuẩn, Lao cột sống (Pott), Di căn cột sống, Xẹp đốt sống loãng xương | Phá hủy đĩa đệm sớm = Vi khuẩn; Bảo tồn đĩa sớm + áp-xe lạnh vôi hóa = Lao; Chừa đĩa đệm + hủy cuống cung (mất mắt cú) = Di căn | `221`, `222` |
 
 ## Bài liên quan chéo
 - [211 – Đột quỵ não](../211-dot-quy-nao/lesson.md) *(đã có)*
 - [212 – Xuất huyết sọ](../212-xuat-huyet-so-nao/lesson.md) *(đã có)*
 - [213 – U não](../213-u-nao/lesson.md) *(đã có)*
+- [432 – Vùng yên](../432-vung-yen/lesson.md) (nối chéo khối ngoài trục `217` – tuyến yên)
 
-## Quy hoạch Master Curriculum Hệ Thần kinh (200–240)
-> Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
+## Quy hoạch Master Curriculum Hệ Thần kinh (200–249)
+> Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số. Giữ nguyên 100% ID `211, 212, 213` đã tạo.
 
-**200–209 — Tổng quan, giải phẫu, kỹ thuật**
-- **200** – Tổng quan Hệ Thần kinh *(bài này)*
-- 201 – Protocol CT/MRI sọ não: DWI/ADC, tưới máu, CTA/MRA *(dự kiến)*
-- 210 – Giải phẫu não cắt lớp: thùy, hạch nền, hố sau, mạch não *(dự kiến)*
+**200–210 — Tổng quan, Giải phẫu cắt lớp & Kỹ thuật sọ não**
+- **200** – Tổng quan Hệ Thần kinh / Neuro overview *(bài này)*
+- 201 – Protocol CT/MRI sọ não: Cửa sổ đột quỵ, DWI/ADC, Tưới máu (Perfusion), SWI & Chuỗi xung mạch CTA/MRA/MRV *(dự kiến)*
+- 210 – Giải phẫu cắt lớp sọ não: Các thùy não, Hạch nền, Bao trong, Hố sau & Đa giác Willis (vùng cấp máu ACA/MCA/PCA) *(dự kiến)*
 
-**211–219 — Mạch máu não & xuất huyết**
-- 211 – Đột quỵ thiếu máu: DWI/ADC, ASPECTS, tiêu sợi huyết/lấy huyết khối *(đã có)*
-- 212 – Xuất huyết sọ: ICH/SAH/SDH/EDH + diễn tiến hemoglobin *(đã có)*
-- 213 – U não: GBM vs di căn vs lymphoma vs áp-xe *(đã có)*
-- 214 – Viêm não/áp-xe vs u: DWI vòng + phổ *(dự kiến)*
-- 215 – Xơ cứng rải rác & NMOSD sọ não *(dự kiến)*
+**211–212 & 216 — Cấp cứu Mạch máu não & Xuất huyết nội sọ**
+- 211 – Đột quỵ thiếu máu não cấp: Dấu sớm NECT, ASPECTS, DWI/ADC & Tưới máu chọn lọc lấy huyết khối *(đã có — [bài học](../211-dot-quy-nao/lesson.md))*
+- 212 – Xuất huyết nội sọ (EDH, SDH, SAH, ICH) & Bảng diễn tiến 5 giai đoạn Hemoglobin trên MRI *(đã có — [bài học](../212-xuat-huyet-so-nao/lesson.md))*
+- 216 – Dị dạng mạch máu não (Phình mạch, AVM, Cavernoma) & Huyết khối xoang tĩnh mạch não (CVST: dấu empty delta) *(dự kiến)*
 
-**220–229 — Cột sống & tủy**
-- 220 – Thoát vị đĩa đệm vs u tủy vs viêm tủy *(dự kiến)*
-- 221 – Chấn thương cột sống: gãy, tụ máu ngoài màng cứng *(dự kiến)*
+**213–215 & 217–219 — U não, Nhiễm trùng, Mất myelin & Thoát vị não**
+- 213 – U não trong trục & Khối ngấm thuốc vòng: GBM vs. Di căn vs. Lymphoma vs. Áp-xe *(đã có — [bài học](../213-u-nao/lesson.md))*
+- 214 – Nhiễm trùng hệ thần kinh trung ương: Viêm não Herpes (thùy thái dương, chừa hạch nền), Lao màng não, Ký sinh trùng (Ấu trùng sán lợn 4 giai đoạn, Toxoplasma) *(dự kiến)*
+- 215 – Bệnh lý mất myelin: Xơ cứng rải rác (MS — tiêu chuẩn McDonald, ngón tay Dawson), NMOSD & ADEM *(dự kiến)*
+- 217 – Khối ngoài trục (Extra-axial) & Góc cầu tiểu não (CPA): Meningioma, Schwannoma dây VIII, Epidermoid vs. Arachnoid cyst *(dự kiến — nối chéo bài `432` vùng yên)*
+- 218 – Các hội chứng Thoát vị não cấp cứu (dưới liềm, móc thái dương, hạnh nhân) & Não úng thủy (NPH vs. Tắc nghẽn vs. Teo não) *(dự kiến)*
+
+**220–229 — Cột sống & Tủy sống (Spine)**
+- 220 – Tiếp cận tổn thương ống sống theo 3 khoang: Thoát vị đĩa đệm (phân loại MSU/Pfirrmann), U tủy & Viêm tủy cắt ngang *(dự kiến)*
+- 221 – Chấn thương cột sống: Mô hình 3 cột Denis, phân loại AO/TLICS & Phân biệt xẹp đốt sống lành tính (loãng xương) vs. Ác tính trên MRI *(dự kiến)*
+- 222 – Viêm thân đốt sống - đĩa đệm (Lao cột sống Pott vs. Vi khuẩn sinh mủ) vs. Di căn cột sống (dấu mất mắt cú) *(dự kiến)*
+
+**230–249 — Đầu Mặt Cổ & Nền sọ (Head & Neck — Mở rộng)**
+- 230 – Tuyến giáp (Hệ thống phân độ ACR TI-RADS) & Phân nhóm hạch cổ (Level I–VII) *(dự kiến)*
+- 235 – Xương thái dương (Cholesteatoma trên DWI non-EPI) & Xoang cạnh mũi (Viêm xoang nấm tăng tỷ trọng vs. U) *(dự kiến)*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

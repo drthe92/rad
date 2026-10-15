@@ -15,8 +15,8 @@ certainty: tong-hop-y-van
 ## 1. Tổng quan — tắc mạch → phù độc tế bào → DWI sáng/ADC tối
 
 - Tắc động mạch não (thường động mạch não giữa — MCA) → thiếu ATP → bơm Na/K thất bại → nước dồn vào trong tế bào (phù độc tế bào — cytotoxic edema) → khuếch tán (diffusion) nước bị hạn chế.
-- TẠI SAO DWI sáng + bản đồ ADC (apparent diffusion coefficient) tối = nhồi máu cấp: proton nước không dịch chuyển tự do được → tín hiệu DWI (b=1000) tăng, giá trị ADC giảm. Cửa sổ sáng rõ nhất **24 giờ – 7–10 ngày**, sau đó giả bình thường hóa (pseudonormalization).
-- Ngưỡng định lượng nằm lòng: lõi nhồi máu (core) ADC thường **< 620 × 10⁻⁶ mm²/s**; cửa sổ tiêu sợi huyết tĩnh mạch (IV alteplase) **≤ 4,5 giờ**; lấy huyết khối cơ học (thrombectomy) **≤ 6 giờ**, mở rộng tới **24 giờ** nếu còn mô cứu được (DAWN/DEFUSE-3: core < 70 mL, mismatch ≥ 1,8).
+- TẠI SAO DWI sáng + bản đồ ADC (apparent diffusion coefficient) tối = nhồi máu cấp: proton nước không dịch chuyển tự do được → tín hiệu DWI (b=1000) tăng, giá trị ADC giảm. Cửa sổ sáng rõ nhất **24 giờ – 7–10 ngày**; giai đoạn bán cấp (**10–14 ngày**) có hiện tượng **giả bình thường hóa ADC (ADC pseudonormalization)** trong khi DWI vẫn sáng do hiệu ứng **T2 shine-through** — luôn đối chiếu cặp DWI/ADC + FLAIR.
+- Ngưỡng định lượng nằm lòng: lõi nhồi máu (core) ADC thường **< 620 × 10⁻⁶ mm²/s**; cửa sổ tiêu sợi huyết tĩnh mạch (IV alteplase, rtPA) **≤ 4,5 giờ** nếu chưa tổn thương **> 1/3 diện tích MCA**; lấy huyết khối cơ học (thrombectomy) **≤ 6 giờ**, mở rộng tới **24 giờ** nếu còn mô cứu được (DAWN/DEFUSE-3: core < 70 mL, mismatch ≥ 1,8, mismatch ≥ 15 mL).
 
 ## 2. Mẫu hình + chẩn đoán phân biệt theo vùng mạch (Gamut)
 
@@ -38,13 +38,15 @@ certainty: tong-hop-y-van
 ![DWI sáng + ADC tối vùng MCA phải](images/211_nhoi-mau_DWI_Wikimedia-Mirza-CCBY40.png)
 *Trái: DWI b=1000 sáng vùng vỏ phải. Phải: ADC tối tương ứng = hạn chế khuếch tán cấp. Nguồn: Mirza & Gokhale 2016, CC BY 4.0.*
 
-### ASPECTS — thang 10 điểm MCA (đọc chuẩn xác)
-- **ASPECTS (Alberta Stroke Program Early CT Score):** 10 trừ dần mỗi vùng MCA tổn thương sớm (nhân đuôi, bao trong, nhân bèo, đảo + 6 vùng vỏ M1–M6). **≥ 6 = còn cứu được**, < 6 = lõi rộng, nguy cơ chảy máu sau tái thông cao.
+### Dấu sớm NECT & ASPECTS — thang 10 điểm MCA (đọc chuẩn xác)
+- **Dấu tăng tỷ trọng động mạch não giữa (Hyperdense MCA sign): > 45–50 HU** so với bên đối diện — cục huyết khối tươi trong lòng mạch.
+- **Mất phân biệt chất xám-trắng nhân bèo/thùy đảo:** mỗi giờ thiếu máu đậm độ chỉ giảm **~2–3 HU** nên BẮT BUỘC chỉnh **cửa sổ đột quỵ (Stroke window: W: 40, L: 40 hoặc W: 8, L: 32)** mới thấy dấu sớm.
+- **ASPECTS (Alberta Stroke Program Early CT Score):** 10 trừ dần mỗi vùng MCA tổn thương sớm — **7 vùng ngang hạch nền: nhân đuôi (C), nhân bèo (L), bao trong (IC), thùy đảo (I), vỏ M1–M3; 3 vùng trên hạch nền: vỏ M4–M6**. **Ngưỡng hành động:** ASPECTS **≥ 6** là chỉ định chuẩn lấy huyết khối cơ học; < 6 = lõi rộng, nguy cơ chảy máu sau tái thông cao.
 
 ## 4. Protocol chụp + hệ phân độ/điểm chuẩn hóa
 
-- **CT không tiêm đầu tay (< 25 phút cửa-chụp):** loại trừ xuất huyết + ASPECTS + dấu động mạch tăng tỷ trọng (hyperdense MCA, HU ~50–70).
-- **CTA mạch não + tưới máu CT/MR:** tắc nhánh lớn (ICA/M1/basilar) + core/penumbra (mismatch ≥ 1,8, core < 70 mL → thrombectomy tới 24 giờ).
+- **CT không tiêm đầu tay (< 25 phút cửa-chụp) + cửa sổ đột quỵ W: 40, L: 40:** loại trừ xuất huyết + ASPECTS + dấu tăng tỷ trọng MCA > 45–50 HU.
+- **CTA mạch não + tưới máu CT/MR (cửa sổ 6–24 giờ theo DAWN/DEFUSE-3):** tắc nhánh lớn (ICA/M1/basilar) + **lõi nhồi máu (Core): CBF < 30% (hoặc DWI+) < 70 mL** + **vùng tranh tối tranh sáng (Penumbra): Tmax > 6 giây** + **mismatch ratio ≥ 1,8 và thể tích mismatch ≥ 15 mL** → thrombectomy tới 24 giờ.
 - **MRI DWI/ADC + FLAIR:** DWI+/FLAIR− = < 4,5 giờ (chỉ điểm tiêu sợi huyết khi giờ khởi phát không rõ).
 
 ```mermaid
@@ -60,7 +62,7 @@ flowchart TD
 ## 5. Biến thể bình thường và cạm bẫy
 
 - **T2 shine-through** (DWI sáng + ADC sáng) đọc nhầm nhồi máu cấp — luôn đối chiếu ADC.
-- **Giả bình thường hóa ADC (7–10 ngày)** bỏ sót nếu chỉ đọc ADC — cộng DWI + FLAIR.
+- **Giả bình thường hóa ADC (10–14 ngày)** bỏ sót nếu chỉ đọc ADC — cộng DWI + FLAIR (DWI vẫn sáng do T2 shine-through).
 - **Nhồi máu hố sau nhỏ** khuất bóng xương đá trên CT — nghi ngờ thì MRI DWI lát mỏng.
 - **Hài lòng sớm (satisfaction of search):** đã thấy tắc M1 đừng quên tắc tandem cổ + chảy máu chuyển dạng (hemorrhagic transformation).
 

@@ -14,9 +14,9 @@ certainty: tong-hop-y-van
 
 ## 1. Tổng quan — máu đông đặc tăng HU + hemoglobin đổi tín hiệu theo ngày
 
-- Máu cục cấp trên CT không tiêm tăng tỷ trọng (hyperdense) **50–90 HU** do globin đặc; TẠI SAO MRI đổi theo thời gian: oxyhemoglobin (vài giờ) → deoxyhemoglobin (cấp 1–3 ngày: T1 đẳng, T2 tối) → methemoglobin nội bào (bán cấp sớm 3–7 ngày: T1 sáng) → methemoglobin ngoại bào (7–14 ngày: T1+T2 sáng) → hemosiderin mạn (> 14 ngày: viền T2* tối).
-- Ngưỡng mổ nằm lòng: lệch đường giữa (midline shift) **> 5 mm**, thể tích máu tụ (ABC/2) **> 30 mL** nhu mô hoặc dày SDH **> 10 mm** + GCS tụt ≥ 2 điểm → hội chẩn mổ cấp cứu.
-- TẠI SAO vị trí quyết định cơ chế: SDH (tĩnh mạch cầu — bridging veins, chấn thương nhẹ/người già/te nghiện rượu) ôm bờ não; EDH (động mạch màng não giữa — MMA sau vỡ xương thái dương) bóc màng cứng khỏi sọ.
+- Máu cục cấp trên CT không tiêm tăng tỷ trọng (hyperdense) **50–90 HU** do globin đặc. Bảng 5 giai đoạn hemoglobin trên MRI (xem mục 3): tối cấp < 24 giờ (T1 đồng, T2 sáng) → cấp 1–3 ngày (T1 đồng, T2 tối đen) → bán cấp sớm 3–7 ngày (T1 sáng rực, T2 tối đen) → bán cấp muộn 1–4 tuần (T1 sáng rực, T2 sáng rực) → mạn > 4 tuần (T1 tối, T2/SWI tối đen).
+- Ngưỡng mổ nằm lòng: lệch đường giữa (midline shift) **> 5 mm**, thể tích máu tụ công thức **ABC/2 ≥ 30 mL** trên lều hoặc **> 3 cm** dưới lều (tiểu não) + GCS tụt ≥ 2 điểm → hội chẩn mổ cấp cứu. Dấu **xoáy (Swirl sign)** trong máu tụ = máu không đông đang chảy hoạt tính → mổ tối khẩn; dấu **đốm thuốc (Spot sign)** trên CTA = máu tụ lan rộng.
+- TẠI SAO vị trí quyết định cơ chế: SDH (đứt tĩnh mạch bắc cầu — bridging veins, chấn thương nhẹ/người già/te nghiện rượu) ôm bờ não; EDH (đứt động mạch màng não giữa — MMA sau vỡ xương thái dương) bóc màng cứng khỏi sọ.
 
 ## 2. Mẫu hình + chẩn đoán phân biệt theo khoang (Gamut)
 
@@ -29,10 +29,10 @@ certainty: tong-hop-y-van
 
 | Thực thể (entity) | Hình ảnh điển hình | Chốt vào (rule-in) | Chốt loại (rule-out) | Gợi ý xác nhận |
 |---|---|---|---|---|
-| SDH cấp | **Liềm tăng HU 60–80 ôm bờ, qua khớp sọ**, chèn não | **Liềm + chấn thương nhẹ/người già + qua khớp** | Thấu kính không qua khớp → EDH | CT lại sau 6 giờ (máu lan), mổ khi > 10 mm/lệch > 5 mm |
-| EDH cấp | **Thấu kính, không qua khớp**, vỡ xương thái dương | **Thấu kính + lucid + vỡ xương + MMA** | Qua khớp + liềm → SDH | CTA tìm giả phình MMA, mổ khi > 30 mL |
-| SAH vỡ phình | Máu bể đáy + rãnh Sylvius, não úng thủy sớm | **Đau sét đánh + máu bể đáy** | Chỉ máu rãnh liềm đơn độc → chấn thương | CTA/MRA tìm phình, nimodipine + kẹp/coil |
-| ICH tăng huyết áp | Hạch nền/đồi thị/cầu, HU 60–80, phù quanh | **Hạch nền + tăng HA + tuổi** | Vỏ thùy tái phát người già → amyloid | CTA spot sign (chảy đang diễn), kiểm soát HA |
+| SDH cấp | **Liềm tăng HU 60–80 ôm bờ, VƯỢT QUA đường khớp sọ** nhưng **KHÔNG vượt qua liềm đại não/lều tiểu não**, chèn não | **Liềm + chấn thương nhẹ/người già + vượt khớp + không vượt liềm** | Thấu kính không qua khớp → EDH | CT lại sau 6 giờ (máu lan), mổ khi dày > 10 mm/lệch > 5 mm |
+| EDH cấp | **Thấu kính 2 mặt lồi, KHÔNG vượt qua đường khớp sọ** nhưng **vượt qua được liềm đại não**, vỡ xương thái dương, dấu xoáy (Swirl) | **Thấu kính + lucid + vỡ xương + MMA + Swirl = mổ tối khẩn** | Liềm vượt khớp + không vượt liềm → SDH | CTA tìm giả phình MMA, mổ khi > 30 mL |
+| SAH vỡ phình | Máu bể nền + rãnh Sylvius, não úng thủy sớm; **Modified Fisher độ 1–4** | **Đau sét đánh + máu bể nền dày ≥ 1 mm + máu não thất = độ 4 (nguy cơ co thắt mạch cao nhất)** | Chỉ máu rãnh liềm đơn độc → chấn thương | CTA/MRA tìm phình, nimodipine + kẹp/coil |
+| ICH tăng huyết áp | Hạch nền/đồi thị/cầu, HU 60–80, phù quanh; thể tích **ABC/2 ≥ 30 mL** | **Hạch nền + tăng HA + tuổi; Spot sign = lan rộng** | Vỏ thùy tái phát người già + nhiều vi xuất huyết vỏ-dưới vỏ trên SWI → bệnh mạch máu dạng bột (CAA) | CTA spot sign (chảy đang diễn), kiểm soát HA; CAA tránh kháng đông dài hạn |
 
 ![SDH chấn thương: liềm tăng tỷ trọng ôm bờ trái (mũi tên)](images/212_mau-duoi-mang-cung_CT_Wikimedia-PD.jpg)
 *Liềm tăng HU ôm bờ não, qua khớp sọ, đè đẩy nhu mô. Nguồn: Wikimedia Commons, public domain.*
@@ -41,8 +41,17 @@ certainty: tong-hop-y-van
 *Hai liềm đẳng tỷ trọng 2 bên, não bị bó chặt. Nguồn: Doc James (James Heilman), CC BY-SA 4.0.*
 
 ### Liềm vs thấu kính — cặp song sinh dễ nhầm
-- **SDH = liềm (crescent), qua khớp, ôm bờ** — tĩnh mạch cầu rách, chấn thương nhẹ cũng rách ở người già/te não.
-- **EDH = thấu kính (lens), không qua khớp, bóc màng** — động mạch MMA sau vỡ xương, khoảng tỉnh rồi hôn mê nhanh.
+- **SDH = liềm (crescent), VƯỢT khớp sọ, KHÔNG vượt liềm đại não/lều** — đứt tĩnh mạch bắc cầu (bridging veins), chấn thương nhẹ cũng rách ở người già/te não.
+- **EDH = thấu kính (lens), KHÔNG vượt khớp sọ, VƯỢT được liềm** — đứt động mạch màng não giữa (MMA) sau vỡ xương, khoảng tỉnh rồi hôn mê nhanh; **Swirl sign = mổ tối khẩn**.
+
+### Bảng 5 giai đoạn Hemoglobin trên MRI (bắt buộc)
+| Giai đoạn | Thời gian | Dạng Hb | T1 | T2/SWI |
+|---|---|---|---|---|
+| Tối cấp | < 24 giờ | OxyHb nội bào | Đồng (iso) | Sáng (bright) |
+| Cấp | 1–3 ngày | DeoxyHb nội bào | Đồng (iso) | Tối đen (dark) |
+| Bán cấp sớm | 3–7 ngày | MetHb nội bào | Sáng rực | Tối đen |
+| Bán cấp muộn | 1–4 tuần | MetHb ngoại bào | Sáng rực | Sáng rực |
+| Mạn tính | > 4 tuần | Hemosiderin | Tối | Tối đen (SWI) |
 
 ## 4. Protocol chụp + hệ phân độ/điểm chuẩn hóa
 
@@ -60,7 +69,8 @@ flowchart TD
 
 ## 5. Biến thể bình thường và cạm bẫy
 
-- **SDH mạn đẳng tỷ trọng** lẫn não — bỏ sót nếu chỉ tìm máu trắng; tìm liềm đè rãnh + lệch vách trong suốt.
+- **SDH bán cấp đồng tỷ trọng (Isodense SDH, tuần 1–3, 30–40 HU)** rất dễ bỏ sót trên CT không tiêm — phải nhìn dấu đẩy lệch rãnh vỏ não không chạm bản sọ trong + lệch vách trong suốt, so phim cũ.
+- **Thang điểm SAH:** **Modified Fisher độ 1–4** (bề dày máu bể nền ≥ 1 mm + máu não thất = độ 4, nguy cơ co thắt mạch cao nhất); **Fisher/WFNS + GCS + ICH Score (0–6: GCS, tuổi ≥ 80, thể tích ≥ 30 mL, não thất, hố sau)**.
 - **Giả SAH (pseudo-SAH)** khi phù não nặng: rãnh sáng giả do sung huyết — HU thấp hơn máu thật, bối cảnh ngạt/tim ngừng.
 - **Vôi hóa sinh lý (pineal/choroid)** giả máu — đối xứng + HU > 100 + phim cũ không đổi.
 - **Thiếu máu cục bộ sau chấn thương** khuất sau máu — đừng dừng ở máu, tìm thêm phù/DWI.
