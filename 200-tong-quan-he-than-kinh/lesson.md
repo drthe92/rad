@@ -35,28 +35,28 @@ certainty: tong-hop-y-van
 
 **200–210 — Tổng quan, Giải phẫu cắt lớp & Kỹ thuật sọ não**
 - **200** – Tổng quan Hệ Thần kinh / Neuro overview *(bài này)*
-- 201 – Protocol CT/MRI sọ não: Cửa sổ đột quỵ, DWI/ADC, Tưới máu (Perfusion), SWI & Chuỗi xung mạch CTA/MRA/MRV *(dự kiến)*
-- 210 – Giải phẫu cắt lớp sọ não: Các thùy não, Hạch nền, Bao trong, Hố sau & Đa giác Willis (vùng cấp máu ACA/MCA/PCA) *(dự kiến)*
+- 201 – Protocol CT/MRI sọ não: Cửa sổ đột quỵ, DWI/ADC, Tưới máu (Perfusion), SWI & Chuỗi xung mạch CTA/MRA/MRV  *(đã có — [bài học](../201-protocol-so-nao/lesson.md))*
+- 210 – Giải phẫu cắt lớp sọ não: Các thùy não, Hạch nền, Bao trong, Hố sau & Đa giác Willis (vùng cấp máu ACA/MCA/PCA)  *(đã có — [bài học](../210-giai-phau-so-nao/lesson.md))*
 
 **211–212 & 216 — Cấp cứu Mạch máu não & Xuất huyết nội sọ**
 - 211 – Đột quỵ thiếu máu não cấp: Dấu sớm NECT, ASPECTS, DWI/ADC & Tưới máu chọn lọc lấy huyết khối *(đã có — [bài học](../211-dot-quy-nao/lesson.md))*
 - 212 – Xuất huyết nội sọ (EDH, SDH, SAH, ICH) & Bảng diễn tiến 5 giai đoạn Hemoglobin trên MRI *(đã có — [bài học](../212-xuat-huyet-so-nao/lesson.md))*
-- 216 – Dị dạng mạch máu não (Phình mạch, AVM, Cavernoma) & Huyết khối xoang tĩnh mạch não (CVST: dấu empty delta) *(dự kiến)*
+- 216 – Dị dạng mạch máu não (Phình mạch, AVM, Cavernoma) & Huyết khối xoang tĩnh mạch não (CVST: dấu empty delta)  *(đã có — [bài học](../216-di-dang-mach-CVST/lesson.md))*
 
 **213–215 & 217–219 — U não, Nhiễm trùng, Mất myelin & Thoát vị não**
 - 213 – U não trong trục & Khối ngấm thuốc vòng: GBM vs. Di căn vs. Lymphoma vs. Áp-xe *(đã có — [bài học](../213-u-nao/lesson.md))*
-- 214 – Nhiễm trùng hệ thần kinh trung ương: Viêm não Herpes (thùy thái dương, chừa hạch nền), Lao màng não, Ký sinh trùng (Ấu trùng sán lợn 4 giai đoạn, Toxoplasma) *(dự kiến)*
-- 215 – Bệnh lý mất myelin: Xơ cứng rải rác (MS — tiêu chuẩn McDonald, ngón tay Dawson), NMOSD & ADEM *(dự kiến)*
-- 217 – Khối ngoài trục (Extra-axial) & Góc cầu tiểu não (CPA): Meningioma, Schwannoma dây VIII, Epidermoid vs. Arachnoid cyst *(dự kiến — nối chéo bài `432` vùng yên)*
-- 218 – Các hội chứng Thoát vị não cấp cứu (dưới liềm, móc thái dương, hạnh nhân) & Não úng thủy (NPH vs. Tắc nghẽn vs. Teo não) *(dự kiến)*
+- 214 – Nhiễm trùng hệ thần kinh trung ương: Viêm não Herpes (thùy thái dương, chừa hạch nền), Lao màng não, Ký sinh trùng (Ấu trùng sán lợn 4 giai đoạn, Toxoplasma)  *(đã có — [bài học](../214-nhiem-trung-tktw/lesson.md))*
+- 215 – Bệnh lý mất myelin: Xơ cứng rải rác (MS — tiêu chuẩn McDonald, ngón tay Dawson), NMOSD & ADEM  *(đã có — [bài học](../215-mat-myelin/lesson.md))*
+- 217 – Khối ngoài trục (Extra-axial) & Góc cầu tiểu não (CPA): Meningioma, Schwannoma dây VIII, Epidermoid vs. Arachnoid cyst  *(đã có — [bài học](../217-ngoai-truc-CPA/lesson.md))*
+- 218 – Các hội chứng Thoát vị não cấp cứu (dưới liềm, móc thái dương, hạnh nhân) & Não úng thủy (NPH vs. Tắc nghẽn vs. Teo não)  *(đã có — [bài học](../218-thoat-vi-nao-ung-thuy/lesson.md))*
 
 **220–229 — Cột sống & Tủy sống (Spine)**
-- 220 – Tiếp cận tổn thương ống sống theo 3 khoang: Thoát vị đĩa đệm (phân loại MSU/Pfirrmann), U tủy & Viêm tủy cắt ngang *(dự kiến)*
-- 221 – Chấn thương cột sống: Mô hình 3 cột Denis, phân loại AO/TLICS & Phân biệt xẹp đốt sống lành tính (loãng xương) vs. Ác tính trên MRI *(dự kiến)*
-- 222 – Viêm thân đốt sống - đĩa đệm (Lao cột sống Pott vs. Vi khuẩn sinh mủ) vs. Di căn cột sống (dấu mất mắt cú) *(dự kiến)*
+- 220 – Tiếp cận tổn thương ống sống theo 3 khoang: Thoát vị đĩa đệm (phân loại MSU/Pfirrmann), U tủy & Viêm tủy cắt ngang  *(đã có — [bài học](../220-ong-song-tuy/lesson.md))*
+- 221 – Chấn thương cột sống: Mô hình 3 cột Denis, phân loại AO/TLICS & Phân biệt xẹp đốt sống lành tính (loãng xương) vs. Ác tính trên MRI  *(đã có — [bài học](../221-chan-thuong-cot-song/lesson.md))*
+- 222 – Viêm thân đốt sống - đĩa đệm (Lao cột sống Pott vs. Vi khuẩn sinh mủ) vs. Di căn cột sống (dấu mất mắt cú)  *(đã có — [bài học](../222-viem-dot-song/lesson.md))*
 
 **230–249 — Đầu Mặt Cổ & Nền sọ (Head & Neck — Mở rộng)**
-- 230 – Tuyến giáp (Hệ thống phân độ ACR TI-RADS) & Phân nhóm hạch cổ (Level I–VII) *(dự kiến)*
-- 235 – Xương thái dương (Cholesteatoma trên DWI non-EPI) & Xoang cạnh mũi (Viêm xoang nấm tăng tỷ trọng vs. U) *(dự kiến)*
+- 230 – Tuyến giáp (Hệ thống phân độ ACR TI-RADS) & Phân nhóm hạch cổ (Level I–VII)  *(đã có — [bài học](../230-tuyen-giap-hach-co/lesson.md))*
+- 235 – Xương thái dương (Cholesteatoma trên DWI non-EPI) & Xoang cạnh mũi (Viêm xoang nấm tăng tỷ trọng vs. U)  *(đã có — [bài học](../235-xuong-thai-duong-xoang/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

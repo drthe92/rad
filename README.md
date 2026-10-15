@@ -96,3 +96,15 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 211 | [Đột quỵ não](211-dot-quy-nao/lesson.md) | `pattern:nhoi-mau` `score:ASPECTS` |
 | 212 | [Xuất huyết sọ](212-xuat-huyet-so-nao/lesson.md) | `pattern:xuat-huyet-so` |
 | 213 | [U não](213-u-nao/lesson.md) | `pattern:u-nao` |
+| 201 | [Protocol sọ não](201-protocol-so-nao/lesson.md) | `protocol:CT-MRI-so-nao` |
+| 210 | [Giải phẫu sọ não](210-giai-phau-so-nao/lesson.md) | `anatomy:nao` |
+| 214 | [Nhiễm trùng TKTW](214-nhiem-trung-tktw/lesson.md) | `pattern:nhiem-trung-tktw` |
+| 215 | [Mất myelin](215-mat-myelin/lesson.md) | `score:McDonald` |
+| 216 | [Dị dạng mạch & CVST](216-di-dang-mach-CVST/lesson.md) | `pattern:di-dang-mach` |
+| 217 | [Ngoài trục CPA](217-ngoai-truc-CPA/lesson.md) | `pattern:ngoai-truc-CPA` |
+| 218 | [Thoát vị & úng thủy](218-thoat-vi-nao-ung-thuy/lesson.md) | `score:Evans` |
+| 220 | [Ống sống 3 khoang](220-ong-song-tuy/lesson.md) | `pattern:ong-song` |
+| 221 | [Chấn thương cột sống](221-chan-thuong-cot-song/lesson.md) | `score:TLICS` |
+| 222 | [Viêm đốt sống](222-viem-dot-song/lesson.md) | `pattern:viem-dot-song` |
+| 230 | [Giáp & hạch cổ](230-tuyen-giap-hach-co/lesson.md) | `score:TI-RADS` |
+| 235 | [Thái dương & xoang](235-xuong-thai-duong-xoang/lesson.md) | `pattern:xuong-thai-duong-xoang` |

@@ -1,0 +1,1 @@
+# Ảnh — 222-viem-dot-song\n\n| File | Nguồn | Giấy phép (license) | Link gốc |\n|---|---|---|---|\n| `222_Pott-L3_MRI_PMC-Pothare-CCBY40.webp` | Pothare et al., Cureus 2026 Fig. 2 (Pott L2–L3 hủy + trượt + hẹp ống) | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13523787/ |\n\nQuy tắc: chỉ tải khi giấy phép cho phép. AuntMinnie chỉ dẫn link.\n

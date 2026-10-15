@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" font-family="system-ui,sans-serif">
+<rect width="700" height="300" fill="#ffffff"/>
+<text x="350" y="26" text-anchor="middle" font-size="18" font-weight="bold">Cửa sổ đột quỵ (phút sau khởi phát)</text>
+<line x1="40" y1="120" x2="660" y2="120" stroke="#333" stroke-width="3"/>
+<g font-size="13" text-anchor="middle">
+<line x1="90" y1="110" x2="90" y2="130" stroke="#333" stroke-width="3"/><text x="90" y="150">NECT + CTA</text><text x="90" y="168" fill="#666">&lt; 25 phút</text>
+<line x1="260" y1="110" x2="260" y2="130" stroke="#c00" stroke-width="3"/><text x="260" y="150">rtPA IV ≤ 4,5 giờ</text><text x="260" y="168" fill="#c00">ASPECTS ≥ 6</text>
+<line x1="430" y1="110" x2="430" y2="130" stroke="#06c" stroke-width="3"/><text x="430" y="150">Thrombectomy ≤ 6 giờ</text><text x="430" y="168" fill="#06c">LVO + core nhỏ</text>
+<line x1="600" y1="110" x2="600" y2="130" stroke="#060" stroke-width="3"/><text x="600" y="150">Mở rộng ≤ 24 giờ</text><text x="600" y="168" fill="#060">Core &lt; 70 mL</text>
+</g>
+<text x="350" y="220" text-anchor="middle" font-size="13">Stroke window W: 40, L: 40 • Hyperdense MCA &gt; 45–50 HU • CBF &lt; 30% / Tmax &gt; 6s</text>
+<text x="350" y="250" text-anchor="middle" font-size="13">Door-needle &lt; 60 phút • Door-puncture &lt; 90 phút</text>
+<text x="350" y="282" text-anchor="middle" font-size="12" fill="#666">Sơ đồ gốc Thư viện CĐHA (CC0)</text>
+</svg>

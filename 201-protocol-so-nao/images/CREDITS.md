@@ -1,0 +1,1 @@
+# Ảnh — 201-protocol-so-nao\n\n| File | Nguồn | Giấy phép (license) | Link gốc |\n|---|---|---|---|\n| `201_cua-so-dot-quy_so-do_goc-CC0.svg` | Sơ đồ gốc Thư viện CĐHA (cửa sổ đột quỵ) | CC0 (tác phẩm gốc) | (nội bộ) |\n\nQuy tắc: chỉ tải khi giấy phép cho phép. AuntMinnie chỉ dẫn link.\n

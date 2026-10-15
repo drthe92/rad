@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 340" font-family="system-ui,sans-serif">
+<rect width="700" height="340" fill="#ffffff"/>
+<text x="350" y="26" text-anchor="middle" font-size="18" font-weight="bold">Đa giác Willis &amp; vùng cấp máu (nhìn dưới lên)</text>
+<g font-size="13" text-anchor="middle">
+<ellipse cx="350" cy="180" rx="120" ry="90" fill="none" stroke="#333" stroke-width="2"/>
+<text x="350" y="120" font-weight="bold">ACA ×2 (trước)</text>
+<text x="180" y="200" font-weight="bold" fill="#c00">MCA trái</text>
+<text x="520" y="200" font-weight="bold" fill="#c00">MCA phải</text>
+<text x="350" y="270" font-weight="bold" fill="#06c">Basilar → PCA ×2 (sau)</text>
+<text x="350" y="295" fill="#666">Thông trước + thông sau 2 bên = vòng nối</text>
+</g>
+<text x="350" y="322" text-anchor="middle" font-size="12" fill="#666">MCA: đảo + hạch nền + vỏ trán-đỉnh • ACA: mặt trong • PCA: chẩm + đồi thị — Sơ đồ gốc (CC0)</text>
+</svg>

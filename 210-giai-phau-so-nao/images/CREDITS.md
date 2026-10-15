@@ -1,0 +1,1 @@
+# Ảnh — 210-giai-phau-so-nao\n\n| File | Nguồn | Giấy phép (license) | Link gốc |\n|---|---|---|---|\n| `210_willis_so-do_goc-CC0.svg` | Sơ đồ gốc Thư viện CĐHA (Willis + vùng mạch) | CC0 (tác phẩm gốc) | (nội bộ) |\n\nQuy tắc: chỉ tải khi giấy phép cho phép. AuntMinnie chỉ dẫn link.\n

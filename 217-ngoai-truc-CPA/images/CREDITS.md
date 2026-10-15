@@ -1,0 +1,1 @@
+# Ảnh — 217-ngoai-truc-CPA\n\n| File | Nguồn | Giấy phép (license) | Link gốc |\n|---|---|---|---|\n| `217_schwannoma-T4b_T1c_PMC-Bahati-CCBY40.jpg` | Bahati et al., Cureus 2026 Fig. 1 (schwannoma T4b 38,2 mm CPA trái) | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12903044/ |\n\nQuy tắc: chỉ tải khi giấy phép cho phép. AuntMinnie chỉ dẫn link.\n

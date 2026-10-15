@@ -1,0 +1,1 @@
+# Ảnh — 235-xuong-thai-duong-xoang\n\n| File | Nguồn | Giấy phép (license) | Link gốc |\n|---|---|---|---|\n| (chưa có ảnh local đạt chuẩn) | — | — | Dẫn link Radiopaedia theo quy tắc |\n\nQuy tắc: chỉ tải khi giấy phép cho phép. AuntMinnie chỉ dẫn link.\n
