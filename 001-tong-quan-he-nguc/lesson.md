@@ -23,10 +23,12 @@ certainty: tong-hop-y-van
 | Viêm thùy (lobar pneumonia) | Phổi | Phế cầu (pneumococcus), nhồi máu (infarction), xuất huyết | Phế quản hơi + giới hạn rãnh, không mất thể tích | [031](../031-viem-phoi-mau-hinh/lesson.md) |
 | Viêm đa ổ (multifocal) | Phổi | Tụ cầu (staph), gram âm, hít (aspiration), lao | Nốt/đám 2 bên + hang + tree-in-bud | [031](../031-viem-phoi-mau-hinh/lesson.md) |
 | Phù lan tỏa (edema/ARDS) | Phổi | Tim (cardiogenic), ARDS, xuất huyết (DAH), virus | Kerley B + tim to + tan nhanh = phù tim; ngoại vi + tim thường = ARDS | [033](../033-phu-phoi-ards/lesson.md) |
+| Hang (cavity) | Phổi | Lao (TB), K hoại tử (SCC), áp-xe (abscess), nấm (aspergilloma) | Thành ≤ 4 mm lành / > 15 mm ác; liềm khí + di động = nấm | [025](../025-ton-thuong-phoi-tao-hang/lesson.md) |
 
 ## Bài liên quan chéo
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
 - [020 – Nốt phổi](../020-not-phoi/lesson.md)
+- [025 – Hang & nấm phổi](../025-ton-thuong-phoi-tao-hang/lesson.md) *(mới)*
 - [030 – Đông đặc – xẹp phổi](../030-dong-dac-xep-phoi/lesson.md)
 - [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) *(mới)*
 - [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md) *(mới)*
@@ -47,7 +49,7 @@ certainty: tong-hop-y-van
 - [020 – Nốt phổi đơn độc](../020-not-phoi/lesson.md) *(đã có)*
 - 021 – Đa nốt phổi: trung tâm tiểu thùy / bạch mạch / ngẫu nhiên (Centrilobular, Perilymphatic, Random) *(dự kiến)*
 - 022 – Khối phổi (> 30 mm) & TNM ung thư phổi (Lung cancer staging) *(dự kiến)*
-- 025 – Hang & nấm phổi: dấu liềm khí (Cavitary lesions & Air-crescent sign) *(Đợt 2)*
+- 025 – Hang & nấm phổi: dấu liềm khí (Cavitary lesions & Air-crescent sign) *(đã có — [bài học](../025-ton-thuong-phoi-tao-hang/lesson.md))*
 
 **03x — Đông đặc, Xẹp & Mô kẽ**
 - [030 – Đông đặc – Xẹp phổi](../030-dong-dac-xep-phoi/lesson.md) *(đã có)*
