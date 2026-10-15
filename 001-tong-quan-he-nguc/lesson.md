@@ -10,7 +10,7 @@ certainty: tong-hop-y-van
 # 001 — Tổng quan hệ Ngực / Chest overview
 
 **Tags:** `tong-quan`
-**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — khung khởi tạo.
+**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — cập nhật sau đợt 041/031/033 (7 bài ngực).
 
 ## Bảng so sánh phân biệt bắt buộc (hệ Ngực)
 | Mẫu hình (pattern) | Vị trí (location) | Gamut chính (DDx) | Phân biệt nhanh | Bài chi tiết |
@@ -19,12 +19,19 @@ certainty: tong-hop-y-van
 | Đông đặc (consolidation) | Phổi | Viêm phổi (pneumonia), NMCT, xuất huyết (hemorrhage) | Phế quản hơi (air bronchogram), động | [030](../030-dong-dac-xep-phoi/lesson.md) |
 | Xẹp (atelectasis) | Phổi | Tắc (obstruction), chèn ép (compression) | Di lệch rãnh liên thùy (fissure) | [030](../030-dong-dac-xep-phoi/lesson.md) |
 | Tràn dịch (effusion) | Màng phổi (pleura) | Dịch thấm (transudate), dịch tiết (exudate), máu (hemothorax) | Meniscus, tư thế nằm (decubitus) | [040](../040-tran-dich-mang-phoi/lesson.md) |
+| Tràn khí (pneumothorax) | Màng phổi (pleura) | Tự phát (spontaneous), chấn thương (trauma), áp lực (tension) | Đường màng phổi + vô mạch; nằm ngửa tìm deep sulcus | [041](../041-tran-khi-mang-phoi/lesson.md) |
+| Viêm thùy (lobar pneumonia) | Phổi | Phế cầu (pneumococcus), nhồi máu (infarction), xuất huyết | Phế quản hơi + giới hạn rãnh, không mất thể tích | [031](../031-viem-phoi-mau-hinh/lesson.md) |
+| Viêm đa ổ (multifocal) | Phổi | Tụ cầu (staph), gram âm, hít (aspiration), lao | Nốt/đám 2 bên + hang + tree-in-bud | [031](../031-viem-phoi-mau-hinh/lesson.md) |
+| Phù lan tỏa (edema/ARDS) | Phổi | Tim (cardiogenic), ARDS, xuất huyết (DAH), virus | Kerley B + tim to + tan nhanh = phù tim; ngoại vi + tim thường = ARDS | [033](../033-phu-phoi-ards/lesson.md) |
 
 ## Bài liên quan chéo
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
 - [020 – Nốt phổi](../020-not-phoi/lesson.md)
 - [030 – Đông đặc – xẹp phổi](../030-dong-dac-xep-phoi/lesson.md)
+- [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) *(mới)*
+- [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md) *(mới)*
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md)
+- [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(mới)*
 
 ---
 ## 1. Tổng quan bệnh học – cơ chế hình ảnh
