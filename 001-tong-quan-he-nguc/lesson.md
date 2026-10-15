@@ -30,6 +30,7 @@ certainty: tong-hop-y-van
 | Khuyết thuốc mạch | ĐMP/ĐMC | PE cấp/mạn, sarcoma, bóc tách, IMH, PAU | Góc nhọn = cấp; flap+2 lòng = bóc tách; liềm 50–70 HU = IMH | [070](../070-thuyen-tac-phoi-dmc-cap/lesson.md) |
 | Đa nốt/kính mờ | Phổi | Trung tâm/bạch mạch/ngẫu nhiên; GGO/lát đá | Galaxy = sarcoid; tree-in-bud = lao; lát đá + mạn = PAP/NSIP | [021](../021-da-not-phoi/lesson.md), [032](../032-kinh-mo-lat-da/lesson.md) |
 | Khối/u/dây ICU | Phổi-MP | Khối > 30 + TNM; mesothelioma rind; NKQ 3–5 cm | Hạch ≥ 10 mm; co rút = mesothelioma; khí máu lẫn = lạc chỗ | [022](../022-khoi-phoi-TNM/lesson.md), [042](../042-mang-phoi-u/lesson.md), [015](../015-ong-day-ICU/lesson.md) |
+| SPL/khí TT/dịch MT | Toàn ngực | Trung tâm/vách/ngẫu nhiên; Macklin; Beck | Kerley 1–2 cm; thủng = dịch+sốt; RA collapse = tamponade | [011](../011-tieu-thuy-phoi/lesson.md), [061](../061-tran-khi-trung-that/lesson.md), [075](../075-tran-dich-mang-tim/lesson.md) |
 
 ## Bài liên quan chéo
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
@@ -38,7 +39,10 @@ certainty: tong-hop-y-van
 - [032 – Kính mờ & lát đá](../032-kinh-mo-lat-da/lesson.md)
 - [015 – Ống/dây ICU](../015-ong-day-ICU/lesson.md) *(mới)*
 - [022 – Khối phổi & TNM](../022-khoi-phoi-TNM/lesson.md) *(mới)*
-- [042 – U màng phổi](../042-mang-phoi-u/lesson.md) *(mới)*
+- [042 – U màng phổi](../042-mang-phoi-u/lesson.md)
+- [011 – Tiểu thùy thứ cấp](../011-tieu-thuy-phoi/lesson.md) *(mới)*
+- [061 – Tràn khí trung thất](../061-tran-khi-trung-that/lesson.md) *(mới)*
+- [075 – Tràn dịch màng tim](../075-tran-dich-mang-tim/lesson.md) *(mới)*
 - [025 – Hang & nấm phổi](../025-ton-thuong-phoi-tao-hang/lesson.md) *(mới)*
 - [030 – Đông đặc – xẹp phổi](../030-dong-dac-xep-phoi/lesson.md)
 - [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) *(mới)*
@@ -56,7 +60,7 @@ certainty: tong-hop-y-van
 **00x–01x — Tổng quan, Giải phẫu & Kỹ thuật/ICU**
 - [001 – Tổng quan hệ Ngực](#) *(bài này)*
 - [010 – Giải phẫu ngực cắt lớp & biến thể](../010-giai-phau-nguc-cat-lop/lesson.md) *(đã có)*
-- 011 – Tiểu thùy phổi thứ cấp trên HRCT (Secondary pulmonary lobule, SPL) *(dự kiến)*
+- 011 – Tiểu thùy phổi thứ cấp trên HRCT (Secondary pulmonary lobule, SPL) *(đã có — [bài học](../011-tieu-thuy-phoi/lesson.md))*
 - 012 – Hạch trung thất IASLC & đường-dải trung thất X-quang (Mediastinal lines/stripes) *(dự kiến)*
 - 015 – Ống/dây ICU (lines/tubes) & giả ảnh ngực (artifacts) *(đã có — [bài học](../015-ong-day-ICU/lesson.md))*
 
@@ -86,11 +90,11 @@ certainty: tong-hop-y-van
 
 **06x — Trung thất (ITMIG)**
 - 060 – Khối trung thất 3 khoang ITMIG (Prevascular/Visceral/Paravertebral) *(đã có — [bài học](../060-khoi-trung-that-itmig/lesson.md))*
-- 061 – Tràn khí trung thất (Pneumomediastinum) *(dự kiến)*
+- 061 – Tràn khí trung thất (Pneumomediastinum) *(đã có — [bài học](../061-tran-khi-trung-that/lesson.md))*
 
 **07x — Mạch ngực & Cấp cứu**
 - 070 – Thuyên tắc phổi & hội chứng ĐMC cấp (PE & Acute aortic syndrome) *(đã có — [bài học](../070-thuyen-tac-phoi-dmc-cap/lesson.md))*
-- 075 – Tràn dịch màng tim & chèn ép tim (Tamponade) *(dự kiến)*
+- 075 – Tràn dịch màng tim & chèn ép tim (Tamponade) *(đã có — [bài học](../075-tran-dich-mang-tim/lesson.md))*
 
 **08x — Chấn thương**
 - 080 – Chấn thương ngực kín (Blunt chest trauma) *(dự kiến)*
