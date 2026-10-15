@@ -88,3 +88,11 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 150 | [Bosniak & u thận](150-nang-than-Bosniak/lesson.md) | `score:Bosniak` |
 | 155 | [Thượng thận tình cờ](155-thuong-than-tinh-co/lesson.md) | `incidentaloma:thuong-than` |
 | 160 | [Bụng cấp cứu GI](160-bung-cap-GI/lesson.md) | `protocol:CT-bung-cap` |
+
+## Hệ Thần kinh (dải 200, đang khởi tạo)
+| ID | Bài | Tags 4 chiều |
+|---|---|---|
+| 200 | [Tổng quan Thần kinh](200-tong-quan-he-than-kinh/lesson.md) | Tổng quan, bảng DDx |
+| 211 | [Đột quỵ não](211-dot-quy-nao/lesson.md) | `pattern:nhoi-mau` `score:ASPECTS` |
+| 212 | [Xuất huyết sọ](212-xuat-huyet-so-nao/lesson.md) | `pattern:xuat-huyet-so` |
+| 213 | [U não](213-u-nao/lesson.md) | `pattern:u-nao` |
