@@ -42,7 +42,12 @@ certainty: tong-hop-y-van
 - [042 – U màng phổi](../042-mang-phoi-u/lesson.md)
 - [011 – Tiểu thùy thứ cấp](../011-tieu-thuy-phoi/lesson.md) *(mới)*
 - [061 – Tràn khí trung thất](../061-tran-khi-trung-that/lesson.md) *(mới)*
-- [075 – Tràn dịch màng tim](../075-tran-dich-mang-tim/lesson.md) *(mới)*
+- [075 – Tràn dịch màng tim](../075-tran-dich-mang-tim/lesson.md)
+- [012 – Hạch IASLC](../012-hach-trung-that/lesson.md) *(mới)*
+- [045 – Thành ngực & hoành](../045-thanh-nguc-hoanh/lesson.md) *(mới)*
+- [051 – Tiểu PQ & khảm](../051-tieu-phe-quan/lesson.md) *(mới)*
+- [052 – Khí phế thũng vs kén](../052-khi-phe-thung-kem/lesson.md) *(mới)*
+- [080 – Chấn thương ngực](../080-chan-thuong-nguc/lesson.md) *(mới)*
 - [025 – Hang & nấm phổi](../025-ton-thuong-phoi-tao-hang/lesson.md) *(mới)*
 - [030 – Đông đặc – xẹp phổi](../030-dong-dac-xep-phoi/lesson.md)
 - [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) *(mới)*
@@ -61,7 +66,7 @@ certainty: tong-hop-y-van
 - [001 – Tổng quan hệ Ngực](#) *(bài này)*
 - [010 – Giải phẫu ngực cắt lớp & biến thể](../010-giai-phau-nguc-cat-lop/lesson.md) *(đã có)*
 - 011 – Tiểu thùy phổi thứ cấp trên HRCT (Secondary pulmonary lobule, SPL) *(đã có — [bài học](../011-tieu-thuy-phoi/lesson.md))*
-- 012 – Hạch trung thất IASLC & đường-dải trung thất X-quang (Mediastinal lines/stripes) *(dự kiến)*
+- 012 – Hạch trung thất IASLC & đường-dải trung thất X-quang (Mediastinal lines/stripes) *(đã có — [bài học](../012-hach-trung-that/lesson.md))*
 - 015 – Ống/dây ICU (lines/tubes) & giả ảnh ngực (artifacts) *(đã có — [bài học](../015-ong-day-ICU/lesson.md))*
 
 **02x — Nốt, Khối & Hang**
@@ -81,12 +86,12 @@ certainty: tong-hop-y-van
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md) *(đã có)*
 - [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(đã có)*
 - 042 – Dày/vôi hóa/u màng phổi: trung biểu mô vs di căn (Mesothelioma) *(đã có — [bài học](../042-mang-phoi-u/lesson.md))*
-- 045 – Thành ngực (dấu ngoài màng phổi) & thoát vị hoành (Extrapleural sign) *(dự kiến)*
+- 045 – Thành ngực (dấu ngoài màng phổi) & thoát vị hoành (Extrapleural sign) *(đã có — [bài học](../045-thanh-nguc-hoanh/lesson.md))*
 
 **05x — Đường thở & Kén khí**
 - 050 – Giãn phế quản, tree-in-bud & kén khí (Bronchiectasis & cystic lung) *(đã có — [bài học](../050-gian-phe-quan-ken-khi/lesson.md))*
-- 051 – Tiểu phế quản & khảm tưới máu (Small airways & mosaic) *(dự kiến)*
-- 052 – Khí phế thũng vs đa kén khí: LAM, LCH, LIP, BHD (Emphysema vs cystic) *(dự kiến)*
+- 051 – Tiểu phế quản & khảm tưới máu (Small airways & mosaic) *(đã có — [bài học](../051-tieu-phe-quan/lesson.md))*
+- 052 – Khí phế thũng vs đa kén khí: LAM, LCH, LIP, BHD (Emphysema vs cystic) *(đã có — [bài học](../052-khi-phe-thung-kem/lesson.md))*
 
 **06x — Trung thất (ITMIG)**
 - 060 – Khối trung thất 3 khoang ITMIG (Prevascular/Visceral/Paravertebral) *(đã có — [bài học](../060-khoi-trung-that-itmig/lesson.md))*
@@ -97,6 +102,6 @@ certainty: tong-hop-y-van
 - 075 – Tràn dịch màng tim & chèn ép tim (Tamponade) *(đã có — [bài học](../075-tran-dich-mang-tim/lesson.md))*
 
 **08x — Chấn thương**
-- 080 – Chấn thương ngực kín (Blunt chest trauma) *(dự kiến)*
+- 080 – Chấn thương ngực kín (Blunt chest trauma) *(đã có — [bài học](../080-chan-thuong-nguc/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -12,6 +12,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 001 | [Tổng quan hệ Ngực](001-tong-quan-he-nguc/lesson.md) | Tổng quan, bảng DDx |
 | 010 | [Giải phẫu ngực cắt lớp & biến thể](010-giai-phau-nguc-cat-lop/lesson.md) | `anatomy:nguc` |
 | 020 | [Nốt phổi](020-not-phoi/lesson.md) | `pattern:not` `vung:phoi` `score:Lung-RADS` `protocol:Fleischner` `incidentaloma:not-phoi` |
+| 012 | [Hạch IASLC](012-hach-trung-that/lesson.md) | `pattern:hach` `score:IASLC` |
 | 011 | [Tiểu thùy thứ cấp](011-tieu-thuy-phoi/lesson.md) | `anatomy:phoi` |
 | 015 | [Ống/dây ICU](015-ong-day-ICU/lesson.md) | `pattern:ong-day` `protocol:xq-ICU` |
 | 021 | [Đa nốt phổi](021-da-not-phoi/lesson.md) | `pattern:not-da-o` `vung:phoi` |
@@ -22,13 +23,17 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 032 | [Kính mờ & lát đá](032-kinh-mo-lat-da/lesson.md) | `pattern:kinh-mo` `protocol:HRCT` |
 | 033 | [Phù phổi & ARDS](033-phu-phoi-ards/lesson.md) | `pattern:mo-ke` `vung:phoi` |
 | 035 | [Xơ mô kẽ UIP vs NSIP](035-xo-mo-ke-UIP-NSIP/lesson.md) | `pattern:mo-ke` `pattern:kinh-mo` `protocol:HRCT` |
+| 051 | [Tiểu PQ & khảm](051-tieu-phe-quan/lesson.md) | `pattern:tieu-phe-quan` |
+| 052 | [Khí phế thũng](052-khi-phe-thung-kem/lesson.md) | `pattern:qua-sang` |
 | 050 | [Giãn PQ & kén khí](050-gian-phe-quan-ken-khi/lesson.md) | `pattern:gian-phe-quan` `pattern:ken-khi` `vung:duong-tho` |
 | 061 | [Tràn khí trung thất](061-tran-khi-trung-that/lesson.md) | `pattern:khi-trung-that` `vung:trung-that` |
 | 060 | [Khối trung thất ITMIG](060-khoi-trung-that-itmig/lesson.md) | `pattern:khoi` `vung:trung-that` `score:ITMIG` |
+| 080 | [Chấn thương ngực](080-chan-thuong-nguc/lesson.md) | `pattern:chan-thuong` |
 | 075 | [Dịch màng tim](075-tran-dich-mang-tim/lesson.md) | `pattern:tran-dich-mang-tim` |
 | 070 | [PE & ĐMC cấp](070-thuyen-tac-phoi-dmc-cap/lesson.md) | `pattern:khuyet-thuoc` `vung:mach-nguc` `protocol:CTA-nguc` |
 | 040 | [Tràn dịch màng phổi](040-tran-dich-mang-phoi/lesson.md) | `pattern:tran-dich` `vung:mang-phoi` |
 | 042 | [U màng phổi](042-mang-phoi-u/lesson.md) | `pattern:u-mang-phoi` `vung:mang-phoi` |
+| 045 | [Thành ngực & hoành](045-thanh-nguc-hoanh/lesson.md) | `pattern:ngoai-mang-phoi` |
 | 041 | [Tràn khí màng phổi](041-tran-khi-mang-phoi/lesson.md) | `pattern:tran-khi` `vung:mang-phoi` |
 
 ## Quy ước

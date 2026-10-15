@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" font-family="system-ui,sans-serif">
+<rect width="640" height="480" fill="#ffffff"/>
+<text x="320" y="28" text-anchor="middle" font-size="19" font-weight="bold">Trạm hạch trung thất IASLC (lược đồ học tập)</text>
+<!-- trachea -->
+<rect x="300" y="50" width="40" height="120" fill="#dde" stroke="#333" stroke-width="2"/>
+<text x="320" y="115" text-anchor="middle" font-size="12">KQ</text>
+<!-- carina -->
+<polygon points="300,170 340,170 320,195" fill="#dde" stroke="#333" stroke-width="2"/>
+<!-- aortic arch left -->
+<path d="M340,120 C420,110 430,180 400,220" fill="none" stroke="#c00" stroke-width="10"/>
+<text x="440" y="160" font-size="13" fill="#c00">Quai ĐMC</text>
+<!-- stations right -->
+<g font-size="13" font-weight="bold">
+<rect x="200" y="55" width="80" height="30" fill="#ffe" stroke="#333"/><text x="240" y="76" text-anchor="middle">1R</text>
+<rect x="200" y="95" width="80" height="30" fill="#ffe" stroke="#333"/><text x="240" y="116" text-anchor="middle">2R</text>
+<rect x="200" y="135" width="80" height="30" fill="#ffe" stroke="#333"/><text x="240" y="156" text-anchor="middle">4R</text>
+<rect x="200" y="210" width="80" height="30" fill="#dfd" stroke="#333"/><text x="240" y="231" text-anchor="middle">10R</text>
+<!-- stations left -->
+<rect x="360" y="55" width="80" height="30" fill="#ffe" stroke="#333"/><text x="400" y="76" text-anchor="middle">1L</text>
+<rect x="360" y="95" width="80" height="30" fill="#ffe" stroke="#333"/><text x="400" y="116" text-anchor="middle">2L</text>
+<rect x="360" y="135" width="80" height="30" fill="#ffe" stroke="#333"/><text x="400" y="156" text-anchor="middle">4L</text>
+<rect x="360" y="210" width="80" height="30" fill="#dfd" stroke="#333"/><text x="400" y="231" text-anchor="middle">10L</text>
+<!-- midline -->
+<rect x="270" y="260" width="100" height="34" fill="#fdd" stroke="#333"/><text x="320" y="283" text-anchor="middle">7 dưới carina</text>
+<rect x="270" y="304" width="100" height="34" fill="#fdd" stroke="#333"/><text x="320" y="327" text-anchor="middle">8 cạnh TQ</text>
+<!-- AP window + paraaortic -->
+<rect x="360" y="170" width="80" height="30" fill="#ffd" stroke="#333"/><text x="400" y="191" text-anchor="middle">5 cửa sổ</text>
+</g>
+<text x="40" y="400" font-size="13">Vùng trên đòn (1) • Trên (2–4) • Dưới (7–9) • Rốn (10–11)</text>
+<text x="40" y="422" font-size="13">N: cùng bên rốn/TT (N1/N2) — đối bên/trên đòn (N3)</text>
+<text x="40" y="444" font-size="13">Hạch ngắn trục ≥ 10 mm = bệnh lý (cần PET/mô bệnh)</text>
+<text x="320" y="466" text-anchor="middle" font-size="12" fill="#666">Sơ đồ gốc Thư viện CĐHA (CC0) — học vùng trước, trạm sau</text>
+</svg>
