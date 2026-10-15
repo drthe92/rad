@@ -55,6 +55,11 @@ fetch(base + '/' + file).then(r => {
   try {
     if (window.mermaid) { mermaid.initialize({ startOnLoad: false }); mermaid.run(); }
   } catch (e) { console.warn('mermaid skip:', e); }
+  // Neo chuyên mục: id không dấu cho mọi h2/h3 + cuộn tới ?s=...
+  const slug = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\u0111/g, 'd').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  document.querySelectorAll('#content h2, #content h3').forEach(h => { h.id = slug(h.textContent); });
+  const target = q.get('s') || (location.hash || '').slice(1);
+  if (target) { const el = document.getElementById(target); if (el) el.scrollIntoView(); }
   // Ảnh tương đối images/... -> base/images/... (view.html nằm ở root)
   document.querySelectorAll('#content img').forEach(img => {
     const s = img.getAttribute('src') || '';
