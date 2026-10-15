@@ -33,10 +33,21 @@ def check(slug):
     if not rows:
         errs.append("thiếu bảng ma trận")
     else:
-        n = rows[0].count("|")
-        bad = [l[:50] for l in rows if l.count("|") != n]
-        if bad:
-            errs.append(f"bảng lệch cột: {bad[0]}...")
+        # kiểm từng khối bảng liên tục (cho phép nhiều bảng cỡ khác nhau)
+        blocks, cur = [], []
+        for l in t.split("\n"):
+            if l.startswith("|"):
+                cur.append(l)
+            elif cur:
+                blocks.append(cur); cur = []
+        if cur:
+            blocks.append(cur)
+        for b in blocks:
+            n = b[0].count("|")
+            bad = [l[:50] for l in b if l.count("|") != n]
+            if bad:
+                errs.append(f"bảng lệch cột: {bad[0]}...")
+                break
         head = rows[0].lower()
         if "rule-in" not in head and "chốt vào" not in head and not is_overview:
             errs.append("bảng thiếu cột Chốt vào/Chốt loại")
