@@ -2,10 +2,6 @@
 
 > Đợt khởi tạo: chưa quét đủ TẤT CẢ nguồn. Cần bổ sung theo quy trình combo.
 
-# Nguồn gốc — NN-slug
-
-> Một dòng mô tả chủ đề + ngày quét. Kiểm chứng giấy phép trước khi tải ảnh.
-
 | # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
 |---|---|---|---|---|---|
 | 1 | Radiopaedia | ... | https://... | CC BY-NC-SA | `images/...` |
