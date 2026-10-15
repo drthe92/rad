@@ -75,6 +75,6 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [001 – Tổng quan hệ Ngực](../001-tong-quan-he-nguc/lesson.md)
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md) (đừng chọc nhầm)
-- [080 – Chấn thương ngực (dự kiến)](../080-chan-thuong-nguc/lesson.md) (vỡ hoành chấn thương)
+- [080 – Chấn thương ngực (đã có)](../080-chan-thuong-nguc/lesson.md) (vỡ hoành chấn thương)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

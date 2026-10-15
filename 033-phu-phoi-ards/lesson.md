@@ -79,7 +79,7 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [001 – Tổng quan hệ Ngực](../001-tong-quan-he-nguc/lesson.md)
 - [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) (kính mờ nhiễm trùng)
-- [034 – Bệnh phổi kẽ (dự kiến)](../034-benh-phoi-ke/lesson.md) (Kẻo nhầm xơ mạn)
+- [035 – Xơ mô kẽ UIP vs NSIP (đã có)](../035-xo-mo-ke-UIP-NSIP/lesson.md) (phân biệt xơ mạn)
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md) (dịch kèm phù)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

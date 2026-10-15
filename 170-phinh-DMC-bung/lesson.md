@@ -73,6 +73,6 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [100 – Tổng quan hệ Bụng](../100-tong-quan-he-bung/lesson.md)
 - [070 – PE & ĐMC ngực](../070-thuyen-tac-phoi-dmc-cap/lesson.md) (bóc tách)
-- [140 – Chấn thương tạng (dự kiến)](../140-lach-tang-dac/lesson.md) (máu sau phúc mạc)
+- [140 – Chấn thương tạng (đã có)](../140-lach-tang-dac/lesson.md) (máu sau phúc mạc)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

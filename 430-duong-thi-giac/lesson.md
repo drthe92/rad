@@ -76,7 +76,7 @@ certainty: tong-hop-y-van
 
 ## Bài liên quan chéo
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
-- [431 – U TK thị (dự kiến)](../431-u-than-kinh-thi/lesson.md) (chèn ép mạn)
-- [432 – Vùng yên (dự kiến)](../432-vung-yen/lesson.md) (giao thoa)
+- [431 – U TK thị (đã có)](../431-u-than-kinh-thi/lesson.md) (chèn ép mạn)
+- [432 – Vùng yên (đã có)](../432-vung-yen/lesson.md) (giao thoa)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -65,6 +65,6 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
 - [422 – Giả u viêm](../422-viem-gia-u/lesson.md) (loại trừ nhiễm khuẩn)
-- [424 – Tuyến lệ (dự kiến)](../424-tuyen-le/lesson.md) (IgG4)
+- [424 – Tuyến lệ (đã có)](../424-tuyen-le/lesson.md) (IgG4)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

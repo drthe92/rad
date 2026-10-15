@@ -16,7 +16,7 @@ certainty: tong-hop-y-van
 | Mẫu hình (pattern) | Vị trí (location) | Gamut chính (DDx) | Phân biệt nhanh | Bài chi tiết |
 |---|---|---|---|---|
 | Cơ phì đại chừa gân | Hốc mắt (orbit) | Graves (TED) | Thân cơ to, gân bình thường | [421](../421-loi-mat-Graves/lesson.md) |
-| Cơ phì đại cả gân | Hốc mắt | Viêm giả u (pseudotumor), cellulitis | Cả gân + đau + đáp ứng steroid | (dự kiến 422) |
+| Cơ phì đại cả gân | Hốc mắt | Viêm giả u (pseudotumor), cellulitis | Cả gân + đau + đáp ứng steroid | 422 |
 | Vỡ sàn + kẹt cơ | Hốc mắt | Blow-out, trapdoor trẻ em | Giọt lệ (teardrop), nhìn đôi dọc | [420](../420-vo-san-hoc-mat/lesson.md) |
 | Máu sau nhãn cầu | Hốc mắt | Hội chứng khoang (OCS) | Lồi mắt + IOP > 40 mmHg + canthotomy 2 giờ | [420](../420-vo-san-hoc-mat/lesson.md) |
 | Vôi hóa trong nhãn cầu | Nhãn cầu (globe) | Retinoblastoma (trẻ), drusen đĩa thị, osteoma hắc mạc, phthisis bulbi (người lớn) | Tuổi + vôi hóa thô (RB) / vôi hóa đĩa (drusen) / xương trong hắc mạc (osteoma) | [412](../412-u-trong-nhan-cau/lesson.md) |

@@ -73,6 +73,6 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
 - [410 – Giải phẫu hốc mắt](../410-giai-phau-hoc-mat/lesson.md)
-- [412 – U trong nhãn cầu (dự kiến)](../412-u-trong-nhan-cau/lesson.md) (vôi hóa vs xuất huyết)
+- [412 – U trong nhãn cầu (đã có)](../412-u-trong-nhan-cau/lesson.md) (vôi hóa vs xuất huyết)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -66,6 +66,6 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
 - [411 – Siêu âm nhãn cầu](../411-sieu-am-nhan-cau/lesson.md)
-- [441 – OCT hoàng điểm (dự kiến)](../441-OCT-hoang-diem/lesson.md)
+- [441 – OCT hoàng điểm (đã có)](../441-OCT-hoang-diem/lesson.md)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

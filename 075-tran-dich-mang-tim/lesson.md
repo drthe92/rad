@@ -74,6 +74,6 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [001 – Tổng quan hệ Ngực](../001-tong-quan-he-nguc/lesson.md)
 - [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md) (tim to + phù vs chai nước + phổi trong)
-- [080 – Chấn thương ngực (dự kiến)](../080-chan-thuong-nguc/lesson.md) (máu màng tim)
+- [080 – Chấn thương ngực (đã có)](../080-chan-thuong-nguc/lesson.md) (máu màng tim)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -73,7 +73,7 @@ certainty: tong-hop-y-van
 
 ## Bài liên quan chéo
 - [100 – Tổng quan hệ Bụng](../100-tong-quan-he-bung/lesson.md)
-- [131 – Tắc mật (dự kiến)](../131-tac-mat/lesson.md) (sỏi OMC)
-- [136 – U/nang tụy (dự kiến)](../136-u-nang-tuy/lesson.md) (vàng da tắc mật)
+- [131 – Tắc mật (đã có)](../131-tac-mat/lesson.md) (sỏi OMC)
+- [136 – U/nang tụy (đã có)](../136-u-nang-tuy/lesson.md) (vàng da tắc mật)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -82,6 +82,6 @@ certainty: tong-hop-y-van
 - [001 – Tổng quan hệ Ngực](../001-tong-quan-he-nguc/lesson.md)
 - [031 – Viêm phổi mẫu hình](../031-viem-phoi-mau-hinh/lesson.md) (kính mờ cấp)
 - [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md) (Kerley, tiểu thùy)
-- [050 – Giãn PQ & kén khí (dự kiến)](../050-duong-tho-va-ken-khi/lesson.md) (tổ ong vs kén)
+- [050 – Giãn PQ & kén khí (đã có)](../050-gian-phe-quan-ken-khi/lesson.md) (tổ ong vs kén)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

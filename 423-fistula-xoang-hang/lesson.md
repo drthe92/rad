@@ -77,6 +77,6 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
 - [421 – Lồi mắt Graves](../421-loi-mat-Graves/lesson.md) (lồi không mạch)
-- [460 – Can thiệp mạch (dự kiến)](../460-can-thiep-mat/lesson.md) (nút mạch)
+- [460 – Can thiệp mạch (đã có)](../460-can-thiep-mat/lesson.md) (nút mạch)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

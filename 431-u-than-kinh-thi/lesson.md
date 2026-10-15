@@ -73,6 +73,6 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
 - [430 – Đường thị giác](../430-duong-thi-giac/lesson.md) (viêm cấp)
-- [460 – Can thiệp + xạ (dự kiến)](../460-can-thiep-mat/lesson.md) (SRS)
+- [460 – Can thiệp + xạ (đã có)](../460-can-thiep-mat/lesson.md) (SRS)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

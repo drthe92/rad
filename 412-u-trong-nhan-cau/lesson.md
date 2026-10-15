@@ -73,6 +73,6 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
 - [411 – Siêu âm nhãn cầu](../411-sieu-am-nhan-cau/lesson.md) (vôi hóa siêu âm)
-- [450 – Mắt nhi (dự kiến)](../450-mat-nhi/lesson.md) (ROP/Coats/PHPV)
+- [450 – Mắt nhi (đã có)](../450-mat-nhi/lesson.md) (ROP/Coats/PHPV)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

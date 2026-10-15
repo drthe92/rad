@@ -64,7 +64,7 @@ certainty: tong-hop-y-van
 
 ## Bài liên quan chéo
 - [100 – Tổng quan hệ Bụng](../100-tong-quan-he-bung/lesson.md)
-- [140 – Chấn thương tạng (dự kiến)](../140-lach-tang-dac/lesson.md) (nút mạch chảy máu)
+- [140 – Chấn thương tạng (đã có)](../140-lach-tang-dac/lesson.md) (nút mạch chảy máu)
 - [170 – Phình ĐMC bụng](../170-phinh-DMC-bung/lesson.md) (can thiệp mạch)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
