@@ -40,3 +40,11 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nhãn: ca nguyên văn / tổng hợp y văn / suy luận.
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
+
+## Mắt & thị giác (dải 400)
+| ID | Bài | Tags 4 chiều |
+|---|---|---|
+| 400 | [Tổng quan Mắt](400-tong-quan-mat-thi-giac/lesson.md) | Tổng quan, bảng DDx |
+| 410 | [Giải phẫu hốc mắt](410-giai-phau-hoc-mat/lesson.md) | `anatomy:hoc-mat` |
+| 420 | [Vỡ sàn & khoang](420-vo-san-hoc-mat/lesson.md) | `pattern:vo-xuong` `vung:hoc-mat` |
+| 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
