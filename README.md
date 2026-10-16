@@ -175,6 +175,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 625 | [Teo đường mật](625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md) | `pattern:vang-da-so-sinh` |
 | 630 | [U bụng nhi](630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md) | `pattern:khoi-bung-nhi` |
 | 635 | [Dị tật hệ tiết niệu nhi (SFU/VUR/PUV)](635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) | `pattern:than-u-nuoc-nhi` `pattern:trao-nguoc-bang-quang-nieu-quan` `pattern:van-nieu-dao-sau` `vung:than-nieu-nhi` `score:SFU` `score:VUR` |
+| 636 | [Cấp cứu niệu–sinh dục nhi: chấn thương thận AAST & xoắn tinh hoàn/buồng trứng](636-cap-cuu-nieu-sinh-duc-nhi/lesson.md) | `pattern:chan-thuong-than-nhi` `pattern:xoan-tinh-hoan` `pattern:xoan-buong-trung` `vung:than-nieu-nhi` `vung:sinh-duc-nhi` `score:AAST` `protocol:CT-bung-chap-nhanh` `protocol:sieu-am-Doppler` |
 | 640 | [Háng nhi & NAT](640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) | `score:Graf` |
 | 650 | [Thần kinh nhi](650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) | `score:Papile` |
 | 655 | [HIE sơ sinh & dị tật bẩm sinh hệ thần kinh](655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md) | `pattern:hie-dwi` `pattern:di-dang-ho-sau` `pattern:bat-san-the-chai` `vung:nao-nhi` `score:Sarnat` `score:TVA` `protocol:MRI-nao-so-sinh` |
