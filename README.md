@@ -153,3 +153,16 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 630 | [U bụng nhi](630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md) | `pattern:khoi-bung-nhi` |
 | 640 | [Háng nhi & NAT](640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) | `score:Graf` |
 | 650 | [Thần kinh nhi](650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) | `score:Papile` |
+
+## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
+| ID | Bài | Tags 4 chiều |
+|---|---|---|
+| 700 | [Tổng quan Đầu Cổ](700-head-neck-overview/lesson.md) | Tổng quan, bảng DDx |
+| 710 | [Mũi xoang OMC](710-sinonasal-ct-anatomy/lesson.md) | `pattern:mui-xoang` |
+| 730 | [Cổ sâu](730-deep-neck-infections/lesson.md) | `pattern:nhiem-trung-co` |
+| 800 | [Tổng quan Tim mạch](800-cardiovascular-overview/lesson.md) | Tổng quan, bảng DDx |
+| 810 | [Vành CAD-RADS](810-coronary-cta-cadrads/lesson.md) | `score:CAD-RADS` |
+| 820 | [MRI tim LGE](820-cardiac-mri-lge-mapping/lesson.md) | `score:Lake-Louise` |
+| 900 | [Đại cương IR](900-ir-fundamentals-biopsy/lesson.md) | `score:SIR` |
+| 901 | [Tổng quan IR](901-ir-overview/lesson.md) | Tổng quan, bảng DDx |
+| 920 | [Nút mạch](920-vascular-embolization-gi-bleed/lesson.md) | `pattern:nut-mach` |
