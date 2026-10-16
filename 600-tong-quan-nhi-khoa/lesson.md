@@ -22,6 +22,7 @@ certainty: tong-hop-y-van
 | Vàng da ứ mật sơ sinh kéo dài > 2 tuần | Đường mật (biliary tree) | Teo đường mật bẩm sinh (biliary atresia) vs. Viêm gan sơ sinh (neonatal hepatitis) vs. Nang ống mật chủ | Dấu thừng tam giác (triangular cord sign) dày ≥ 4 mm trước chạc ba TM cửa + túi mật teo < 15–19 mm không co bóp sau bú = Teo đường mật (mổ Kasai trước 60 ngày tuổi!) | `625` |
 | Khối u đặc ổ bụng trẻ em (Pediatric abdominal mass) | Khoang sau phúc mạc | U nguyên bào thần kinh (neuroblastoma) vs. U nguyên bào thận (Wilms tumor / nephroblastoma) | Vôi hóa lấm tấm (85%) + bao bọc mạch máu (vessel encasement) + vượt qua đường giữa = Neuroblastoma; Dấu móng vuốt thận (claw sign) + đẩy lệch mạch + huyết khối TM thận/IVC + không vượt đường giữa = Wilms | `630` |
 | Đau khớp háng & Đi khập khiễng theo lứa tuổi | Khớp háng trẻ em (pediatric hip) | Loạn sản khớp háng (DDH), Viêm khớp nhiễm khuẩn, Hoại tử chỏm (Legg-Calvé-Perthes), Trượt chỏm xương đùi (SCFE) | < 6 tháng: góc α Graf < 60° = DDH; 4–8 tuổi: chỏm nhỏ đặc xương/vỡ = Perthes; 10–15 tuổi béo phì: đường Klein không cắt qua cực ngoài chỏm = SCFE | `640` |
+| Ứ nước thận & trào ngược ở trẻ (Hydronephrosis & reflux) | Đường tiết niệu nhi (kidney–ureter–bladder) | Hẹp khúc nối bể-niệu quản (UPJO), Trào ngược bàng quang–niệu quản (VUR), Van niệu đạo sau (PUV) | Giãn bể/đài + niệu quản **rỗng** = UPJO; niệu quản giãn + **VCUG có trào ngược** (độ I–V) = VUR; trẻ **nam** + bàng quang thành dày + **dấu lỗ khóa** (keyhole) = PUV (creatinine đáy > 0,8–1,0 mg/dL = nguy cơ CKD) | `635` |
 | Khối u não trẻ em (Ưu thế Hố sau — 70%) | Hố sau (posterior fossa) | U nguyên bào tủy (medulloblastoma), U sao bào lông (pilocytic astrocytoma), U màng não thất (ependymoma), U cầu não lan tỏa (DIPG) | Đường giữa/nhộng tiểu não + DWI sáng rực (ADC < 0,7 × 10⁻³) = Medulloblastoma; Nang lớn có nốt đặc ngấm thuốc + ADC cao (> 1,4 × 10⁻³) = Sao bào lông; Chui qua lỗ Luschka/Magendie = Ependymoma | `650` |
 
 ## Bài liên quan chéo
@@ -32,6 +33,7 @@ certainty: tong-hop-y-van
 - [630 – U bụng nhi](../630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md) *(đã có)*
 - [640 – Háng nhi & NAT](../640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) *(đã có)*
 - [650 – Thần kinh nhi](../650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) *(đã có)*
+- [635 – Dị tật hệ tiết niệu nhi (SFU/VUR/PUV)](../635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) *(đã có)*
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) (retinoblastoma vs Coats)
 
 ## Quy hoạch Master Curriculum Hệ Nhi khoa (600–670)
@@ -49,7 +51,7 @@ certainty: tong-hop-y-van
 
 **630–639 — Tiết niệu – Sinh dục & Khối u ổ bụng Nhi khoa**
 - 630 – Tiếp cận Khối u ổ bụng trẻ em: U nguyên bào thần kinh (Neuroblastoma) vs. U nguyên bào thận (Wilms tumor) vs. U nguyên bào gan (Hepatoblastoma) *(đã có — [bài học](../630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md))*
-- 635 – Dị tật hệ tiết niệu Nhi khoa: Thận ứ nước tiền sản (SFU Độ 1–4), Trào ngược bàng quang – niệu quản (VUR Độ I–V trên VCUG) & Van niệu đạo sau (PUV — dấu lỗ khóa *keyhole sign*) *(dự kiến)*
+- 635 – Dị tật hệ tiết niệu Nhi khoa: Thận ứ nước tiền sản (SFU Độ 1–4), Trào ngược bàng quang – niệu quản (VUR Độ I–V trên VCUG) & Van niệu đạo sau (PUV — dấu lỗ khóa *keyhole sign*) *(đã có — [bài học](../635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md))*
 
 **640–649 — Cơ – Xương – Khớp Nhi khoa & Chấn thương bạo hành**
 - 640 – Khớp háng Nhi khoa theo tuổi (DDH Graf α/β, Perthes, SCFE) & Gãy xương trẻ em (Salter-Harris I–V, Chấn thương không tình cờ / Bạo hành trẻ em — NAT) *(đã có — [bài học](../640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md))*

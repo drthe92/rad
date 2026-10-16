@@ -58,7 +58,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 433 | [Phù đĩa thị vs drusen](433-phu-dia-thi-drusen/lesson.md) | `pattern:phu-dia-thi` `vung:dia-thi` `score:Frisen` `protocol:OCT-dia-thi` |
 | 401 | [Phương thức CĐHA](401-phuong-thuc-mat/lesson.md) | `pattern:protocol-mat` |
 | 441 | [OCT hoàng điểm](441-OCT-hoang-diem/lesson.md) | `pattern:OCT` |
-| 442 | [Glaucoma](442-glaucoma-OCT/lesson.md) | `pattern:OCT` |
+| 442 | [Glaucoma](442-glaucoma-OCT/lesson.md) | `pattern:OCT` `vung:than-kinh-thi` `protocol:OCT-RNFL` |
 | 443 | [Võng mạc đái tháo đường](443-vong-mac-dai-thao-duong/lesson.md) | `pattern:vong-mac-dai-thao-duong` `vung:vong-mac` `score:ETDRS` `protocol:OCT-OCTA` |
 | 444 | [Tắc mạch võng mạc](444-tac-mach-vong-mac/lesson.md) | `pattern:tac-mach-vong-mac` `vung:vong-mac` `protocol:FFA-OCT` |
 | 445 | [Bong võng mạc](445-bong-vong-mac/lesson.md) | `pattern:bong-vong-mac` `vung:vong-mac` `protocol:sieu-am-B-scan` |
@@ -164,6 +164,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 622 | [Tắc ruột sơ sinh](622-tac-ruot-so-sinh/lesson.md) | `pattern:tac-ruot-so-sinh` `pattern:double-bubble` `pattern:microcolon` `vung:bung-nhi` `score:Neuhauser` `protocol:XR-contrast-enema` |
 | 625 | [Teo đường mật](625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md) | `pattern:vang-da-so-sinh` |
 | 630 | [U bụng nhi](630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md) | `pattern:khoi-bung-nhi` |
+| 635 | [Dị tật hệ tiết niệu nhi (SFU/VUR/PUV)](635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) | `pattern:than-u-nuoc-nhi` `pattern:trao-nguoc-bang-quang-nieu-quan` `pattern:van-nieu-dao-sau` `vung:than-nieu-nhi` `score:SFU` `score:VUR` |
 | 640 | [Háng nhi & NAT](640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) | `score:Graf` |
 | 650 | [Thần kinh nhi](650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) | `score:Papile` |
 
