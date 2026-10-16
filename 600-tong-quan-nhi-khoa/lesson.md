@@ -26,6 +26,8 @@ certainty: tong-hop-y-van
 | Ứ nước thận & trào ngược ở trẻ (Hydronephrosis & reflux) | Đường tiết niệu nhi (kidney–ureter–bladder) | Hẹp khúc nối bể-niệu quản (UPJO), Trào ngược bàng quang–niệu quản (VUR), Van niệu đạo sau (PUV) | Giãn bể/đài + niệu quản **rỗng** = UPJO; niệu quản giãn + **VCUG có trào ngược** (độ I–V) = VUR; trẻ **nam** + bàng quang thành dày + **dấu lỗ khóa** (keyhole) = PUV (creatinine đáy > 0,8–1,0 mg/dL = nguy cơ CKD) | `635` |
 | Cấp cứu niệu – sinh dục nhi (Pediatric GU emergencies) | Thận – tinh hoàn – buồng trứng (kidney–gonad) | Chấn thương thận (AAST I–V), Xoắn tinh hoàn, Xoắn buồng trứng/phần phụ | Thận **mất mạch ở MỌI thì** + rò thuốc thì muộn/máu vượt Gerota = AAST IV–V (khác đụng dập ngấm lại thì muộn); bìu cấp + **dấu xoáy thừng tinh** (Se 92%/Sp 99%) = xoắn tinh hoàn (cứu ~90% nếu < 12 giờ); buồng trứng **> 20 mL** + dấu xoáy/mất mạch = xoắn (còn mạch KHÔNG loại trừ — mạch kép) | `636` |
 | Khối u não trẻ em (Ưu thế Hố sau — 70%) | Hố sau (posterior fossa) | U nguyên bào tủy (medulloblastoma), U sao bào lông (pilocytic astrocytoma), U màng não thất (ependymoma), U cầu não lan tỏa (DIPG) | Đường giữa/nhộng tiểu não + DWI sáng rực (ADC < 0,7 × 10⁻³) = Medulloblastoma; Nang lớn có nốt đặc ngấm thuốc + ADC cao (> 1,4 × 10⁻³) = Sao bào lông; Chui qua lỗ Luschka/Magendie = Ependymoma | `650` |
+| Bệnh não sơ sinh KHÔNG do ngạt (DDx HIE) | Não sơ sinh (neonatal brain) | Hạ đường huyết (vùng chẩm–đỉnh), Vàng nhân/kernicterus (thể vân), Chuyển hóa (MSUD), Nhiễm trùng TKTW (parechovirus), Đột quỵ nhũ nhi | **Vùng sau (chẩm–thái dương) + né PLIC + glucose thấp = hạ đường huyết**; **T1 thể vân sáng + DWI âm + TSB ≥ 20–25 mg/dL = vàng nhân** (khác HIE: DWI sáng nhân xám); **MRS 0,9 ppm = MSUD**; **nhiều ổ chất trắng dưới vỏ trán + bó thể chai = parechovirus**; **một bên theo lãnh thổ ĐM não giữa = đột quỵ nhũ nhi** | `654` |
+| Chấn thương tụy–tá tràng (bụng kín, cơ chế tay lái) | Tụy – tá tràng (pancreas–duodenum) | Đứt ống tụy (AAST III–IV), Đụng dập tụy (I–II), Khối máu tụ thành tá tràng, Thủng tá tràng | **Dịch khoang cạnh thận trước/túi mật–tụy + khe dịch ~10 mm đứt ngang > 50% trục ngắn = đứt ống tụy (MRCP + secretin)**; **dày thành D2–D3 KHÔNG khí ngoài lòng = khối máu tụ tá tràng** (bảo tồn); **khí ngoài lòng/bọt khí = thủng** (mổ) | `623` |
 
 ## Bài liên quan chéo
 - [610 – Suy hô hấp sơ sinh](../610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md) *(đã có)*
@@ -40,6 +42,8 @@ certainty: tong-hop-y-van
 - [655 – HIE sơ sinh & dị tật bẩm sinh hệ thần kinh (Chiari II, Dandy-Walker, bất sản thể chai)](../655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md) *(đã có)*
 - [635 – Dị tật hệ tiết niệu nhi (SFU/VUR/PUV)](../635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) *(đã có)*
 - [636 – Cấp cứu niệu–sinh dục nhi (chấn thương thận AAST & xoắn tinh hoàn/buồng trứng)](../636-cap-cuu-nieu-sinh-duc-nhi/lesson.md) *(đã có)*
+- [623 – Chấn thương tụy–tá tràng ở trẻ (AAST tụy I–V, đứt ống tụy)](../623-chan-thuong-tuy-ta-trang-nhi/lesson.md) *(đã có)*
+- [654 – Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](../654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) *(đã có)*
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) (retinoblastoma vs Coats)
 
 ## Quy hoạch Master Curriculum Hệ Nhi khoa (600–670)
@@ -54,6 +58,7 @@ certainty: tong-hop-y-van
 **620–629 — Ống tiêu hóa & Gan mật Nhi khoa**
 - 620 – Cấp cứu ống tiêu hóa sơ sinh & nhũ nhi: Hẹp phì đại môn vị (HPS), Ruột quay dở dang – Xoắn ruột, Lồng ruột & Viêm ruột hoại tử (NEC) *(đã có — [bài học](../620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md))*
 - 622 – Tắc ruột sơ sinh bẩm sinh trên X-quang & Chụp cản quang: Teo tá tràng (*double-bubble*), Teo hỗng-hồi tràng (*microcolon*), Tắc ruột phân su (*dấu Neuhauser*) & Bệnh Hirschsprung (tỷ số trực tràng/sigma < 1) *(đã có — [bài học](../622-tac-ruot-so-sinh/lesson.md))*
+- 623 – Chấn thương tụy–tá tràng ở trẻ (bụng kín/tay lái): AAST tụy I–V, đứt ống tụy (khe 10 mm), khối máu tụ thành tá tràng vs thủng *(đã có — [bài học](../623-chan-thuong-tuy-ta-trang-nhi/lesson.md))*
 - 625 – Vàng da tắc mật sơ sinh: Phân biệt Teo đường mật bẩm sinh (Biliary atresia — mổ Kasai < 60 ngày) vs. Viêm gan sơ sinh & Nang ống mật chủ (Todani I–V) *(đã có — [bài học](../625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md))*
 
 **630–639 — Tiết niệu – Sinh dục & Khối u ổ bụng Nhi khoa**
@@ -67,5 +72,6 @@ certainty: tong-hop-y-van
 **650–669 — Thần kinh Nhi khoa (Pediatric Neuroimaging)**
 - 650 – Siêu âm thóp Sơ sinh (Xuất huyết vùng mầm Papile Độ I–IV, Nhuyễn chất trắng quanh não thất PVL) & U hố sau trẻ em trên MRI *(đã có — [bài học](../650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md))* *(nối chéo bài `450` Mắt nhi)*
 - 655 – Bệnh não thiếu máu cục bộ thiếu oxy sơ sinh (HIE) & Dị tật bẩm sinh hệ thần kinh (Chiari I–II, Dandy-Walker, Bất sản thể chai) *(đã có — [bài học](../655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md))*
+- 654 – Tổn thương não sơ sinh KHÔNG do ngạt (DDx HIE): Hạ đường huyết (vùng chẩm–đỉnh), Vàng nhân/kernicterus (thể vân, T1 sáng/DWI âm), Chuyển hóa (MSUD), Nhiễm trùng (parechovirus) & Đột quỵ nhũ nhi *(đã có — [bài học](../654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

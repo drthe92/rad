@@ -172,12 +172,14 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 615 | [Viêm phổi nhi: round pneumonia, virus vs vi khuẩn & hít sặc dầu hỏa](615-viem-phoi-nhi-round-pneumonia/lesson.md) | `pattern:viem-phoi-nhi` `pattern:round-pneumonia` `pattern:hit-sac-dau-hoa` `vung:phoi` `score:RACOON` `protocol:X-quang-nguc-nhi` |
 | 620 | [Cấp cứu tiêu hóa nhi](620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md) | `pattern:non-nhu-nhi` |
 | 622 | [Tắc ruột sơ sinh](622-tac-ruot-so-sinh/lesson.md) | `pattern:tac-ruot-so-sinh` `pattern:double-bubble` `pattern:microcolon` `vung:bung-nhi` `score:Neuhauser` `protocol:XR-contrast-enema` |
+| 623 | [Chấn thương tụy–tá tràng ở trẻ (AAST tụy I–V)](623-chan-thuong-tuy-ta-trang-nhi/lesson.md) | `pattern:chan-thuong-bung` `pattern:dut-ong-tuy` `vung:tuy-ta-trang` `score:AAST` `protocol:CT-bung-chant-thuong` |
 | 625 | [Teo đường mật](625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md) | `pattern:vang-da-so-sinh` |
 | 630 | [U bụng nhi](630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md) | `pattern:khoi-bung-nhi` |
 | 635 | [Dị tật hệ tiết niệu nhi (SFU/VUR/PUV)](635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) | `pattern:than-u-nuoc-nhi` `pattern:trao-nguoc-bang-quang-nieu-quan` `pattern:van-nieu-dao-sau` `vung:than-nieu-nhi` `score:SFU` `score:VUR` |
 | 636 | [Cấp cứu niệu–sinh dục nhi: chấn thương thận AAST & xoắn tinh hoàn/buồng trứng](636-cap-cuu-nieu-sinh-duc-nhi/lesson.md) | `pattern:chan-thuong-than-nhi` `pattern:xoan-tinh-hoan` `pattern:xoan-buong-trung` `vung:than-nieu-nhi` `vung:sinh-duc-nhi` `score:AAST` `protocol:CT-bung-chap-nhanh` `protocol:sieu-am-Doppler` |
 | 640 | [Háng nhi & NAT](640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) | `score:Graf` |
 | 650 | [Thần kinh nhi](650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) | `score:Papile` |
+| 654 | [Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) | `pattern:benh-nao-so-sinh` `pattern:han-che-khuech-tan` `vung:nao-nhi` `score:BIND` `protocol:MRI-nao-so-sinh` |
 | 655 | [HIE sơ sinh & dị tật bẩm sinh hệ thần kinh](655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md) | `pattern:hie-dwi` `pattern:di-dang-ho-sau` `pattern:bat-san-the-chai` `vung:nao-nhi` `score:Sarnat` `score:TVA` `protocol:MRI-nao-so-sinh` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
