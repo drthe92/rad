@@ -78,14 +78,15 @@ def curated_copy(index_text):
 
 def main():
     root = Path(".")
+    # Chỉ nhận bài "hoàn chỉnh" (có lesson.md + sources.md theo bất biến repo);
+    # bài đang viết dở (chưa có sources.md) sẽ không lên hub tới khi hoàn tất.
     dirs = sorted(d for d in os.listdir(".")
-                  if re.match(r"^\d{3}-", d) and (root / d / "lesson.md").exists())
+                  if re.match(r"^\d{3}-", d) and (root / d / "lesson.md").exists()
+                  and (root / d / "sources.md").exists())
     old = root.joinpath("index.html").read_text(encoding="utf-8") if root.joinpath("index.html").exists() else ""
     keep = curated_copy(old)
-    m = re.search(r'(<select id="fOverview">.*?</select>)', old, re.S)
-    ov_select = m.group(1) if m else '<select id="fOverview"><option value="">📚 Tổng quan</option></select>'
 
-    recs, card_html = [], []
+    recs, card_html, overviews = [], [], []
     for d in dirs:
         fm = frontmatter(f"{d}/lesson.md")
         tags = [t.strip() for t in fm["tags"].strip("[]").split(",") if t.strip()]
@@ -110,8 +111,22 @@ def main():
             f'<a class="ctitle" href="view.html?b={d}&f=lesson.md">{html.escape(title)}</a><br>'
             f'{spans}<span class="cert">{html.escape(cert)}</span><p>{desc}</p>'
             f'<a href="view.html?b={d}&f=lesson.md">Bài học</a> · '
-            f'<a href="view.html?b={d}&f=sources.md" target="_blank" rel="noopener">Nguồn</a></div>')
+            f'<a href="view.html?b={d}&f=sources.md" target="_blank" rel="noopener">Nguồn</a> '
+            f'<button class="learn" data-learn="{html.escape(uid)}" '
+            f'title="Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)">✓ Đã học</button></div>')
         recs.append((uid, tags))
+        if "tong-quan" in d or "overview" in d:
+            vi = fm["h1"].split(" / ")[0].strip()
+            vi = re.sub(r"^\d{3}\s*[—–-]\s*", "", vi)
+            vi = re.sub(r"^Tổng quan\s+", "", vi, flags=re.I).split(":")[0].strip()
+            vi = vi[:1].upper() + vi[1:]
+            overviews.append((uid, d, f"{uid} · {vi}"))
+
+    ov_options = ['<option value="">📚 Bài tổng quan hệ (' + str(len(overviews)) + ")</option>"]
+    ov_options += [f'<option value="view.html?b={d}&f=lesson.md">{html.escape(label)}</option>'
+                   for _, d, label in sorted(overviews)]
+    ov_select = '<select id="fOverview" title="Nhảy nhanh tới bài tổng quan của từng hệ">' \
+                + "".join(ov_options) + "</select>"
 
     present = sorted({s for _, tags in recs for t in tags
                       for s in ([t.split(":", 1)[1]] if t.startswith("score:") else [])})

@@ -32,6 +32,11 @@ select{padding:8px;font-size:14px;border:1px solid var(--line);border-radius:8px
 .cert{font-size:12px;border:1px dashed var(--line);padding:2px 6px;border-radius:20px;color:var(--muted);white-space:nowrap}
 .card p{font-size:13px;margin:6px 0}
 .card a{color:var(--accent)}
+.learn{border:1px solid var(--line);background:var(--card);color:var(--muted);border-radius:20px;font-size:12px;padding:2px 8px;margin:6px 6px 0 0}
+.learn.on{background:#1b5e20;color:#fff;border-color:#1b5e20}
+.card.learned{border-left:4px solid #1b5e20}
+.tview .learn{margin:0}
+#progress{font-size:13px;color:var(--muted);white-space:nowrap}
 #empty{display:none;text-align:center;padding:32px 12px;color:var(--muted)}
 table.tview{width:100%;border-collapse:collapse;font-size:14px;margin-top:8px}
 .tview th,.tview td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
@@ -56,9 +61,10 @@ footer{margin-top:24px;font-size:13px;color:var(--muted)}
 <div class="chips" id="chips">__CHIPS__</div>
 <div class="row">
 <select id="fChieu"><option value="">— Lọc chiều 1–4 —</option><option value="pattern">1. Mẫu hình+Vị trí</option><option value="score">2. Phân độ &amp; điểm</option><option value="anatomy">3. Giải phẫu &amp; biến thể</option><option value="protocol">4. Protocol &amp; tình cờ</option></select>
+<select id="fLearn" title="Lọc theo tiến độ học — tick ✓ trên mỗi thẻ để đánh dấu"><option value="">🎓 Tiến độ: tất cả</option><option value="no">📖 Chưa học</option><option value="yes">✅ Đã học</option></select>
 __OVSELECT__
 <button class="iconbtn" id="reset">✖ Xóa lọc</button>
-<span id="count"></span>
+<span id="count"></span> <span id="progress"></span>
 </div>
 <div class="grid" id="grid">
 __CARDS__
@@ -70,8 +76,28 @@ __CARDS__
 var norm = function(s){ return (s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/\u0111/g,"d"); };
 var q = document.getElementById("q"), grid = document.getElementById("grid"),
     count = document.getElementById("count"), empty = document.getElementById("empty"),
-    tview = document.getElementById("tview"), cards = Array.prototype.slice.call(grid.children),
-    spec = "", score = "", chieu = "";
+    tview = document.getElementById("tview"), progress = document.getElementById("progress"),
+    cards = Array.prototype.slice.call(grid.children),
+    spec = "", score = "", chieu = "", learnState = "";
+var learned = (function(){ try { return JSON.parse(localStorage.getItem("rad-learned") || "{}") || {}; } catch(e){ return {}; } })();
+function saveLearned(){ try { localStorage.setItem("rad-learned", JSON.stringify(learned)); } catch(e){} }
+function isLearned(id){ return !!learned[id]; }
+function applyLearn(c){
+  var b = c.querySelector(".learn"); if(!b) return;
+  var on = isLearned(c.dataset.id);
+  c.classList.toggle("learned", on);
+  b.classList.toggle("on", on);
+  b.textContent = on ? "✅ Đã học" : "✓ Đã học";
+}
+function updateProgress(){
+  var n = 0; cards.forEach(function(c){ if (isLearned(c.dataset.id)) n++; });
+  progress.textContent = "✅ đã học " + n + "/" + cards.length;
+}
+function toggleLearn(id){
+  if (learned[id]) delete learned[id]; else learned[id] = 1;
+  saveLearned(); cards.forEach(applyLearn); updateProgress();
+  filt(); // đang lọc "chưa học" → bài vừa tick tự ẩn
+}
 function filt(){
   var s = norm(q.value.trim()), n = 0;
   cards.forEach(function(c){
@@ -79,7 +105,8 @@ function filt(){
     var okP = !spec || c.dataset.spec === spec;
     var okR = !score || (" " + c.dataset.scores + " ").indexOf(" " + score + " ") >= 0;
     var okC = !chieu || c.dataset.tags.split(" ").some(function(t){ return t.indexOf(chieu + ":") === 0; });
-    var show = okS && okP && okR && okC;
+    var okL = !learnState || (learnState === "yes") === isLearned(c.dataset.id);
+    var show = okS && okP && okR && okC && okL;
     c.style.display = show ? "" : "none";
     if (show) n++;
   });
@@ -101,21 +128,32 @@ document.getElementById("chips").addEventListener("click", function(e){
   filt();
 });
 document.getElementById("fChieu").addEventListener("change", function(e){ chieu = e.target.value; filt(); });
+document.getElementById("fLearn").addEventListener("change", function(e){ learnState = e.target.value; filt(); });
 document.getElementById("fOverview").addEventListener("change", function(e){ if(e.target.value) location.href = e.target.value; });
+grid.addEventListener("click", function(e){
+  var b = e.target.closest(".learn"); if(!b) return;
+  toggleLearn(b.dataset.learn);
+});
+tview.addEventListener("click", function(e){
+  var b = e.target.closest(".learn"); if(!b) return;
+  toggleLearn(b.dataset.learn);
+});
 document.getElementById("reset").addEventListener("click", function(){
-  q.value = ""; spec = ""; score = ""; chieu = "";
+  q.value = ""; spec = ""; score = ""; chieu = ""; learnState = "";
   document.getElementById("fChieu").value = "";
+  document.getElementById("fLearn").value = "";
   var t = document.getElementById("tabs").children; for (var i=0;i<t.length;i++) t[i].classList.toggle("on", i===0);
   var c = document.getElementById("chips").children; for (var j=0;j<c.length;j++) c[j].classList.toggle("on", j===0);
   filt(); q.focus();
 });
 function buildTable(){
-  var h = '<table class="tview"><tr><th>ID</th><th>Bài học</th><th>Tags</th><th>Chắc chắn</th><th>Link</th></tr>';
+  var h = '<table class="tview"><tr><th>ID</th><th>Bài học</th><th>Tags</th><th>Chắc chắn</th><th>Tiến độ</th><th>Link</th></tr>';
   cards.forEach(function(c){
     if (c.style.display === "none") return;
-    var a = c.querySelector(".ctitle");
+    var a = c.querySelector(".ctitle"), on = isLearned(c.dataset.id);
     h += "<tr><td>" + c.dataset.id + "</td><td>" + a.textContent + "</td><td>" + c.dataset.tags +
          '</td><td><span class="cert">' + c.querySelector(".cert").textContent + "</span></td>" +
+         '<td><button class="learn' + (on ? " on" : "") + '" data-learn="' + c.dataset.id + '">' + (on ? "✅ Đã học" : "✓ Đã học") + "</button></td>" +
          '<td><a href="' + a.getAttribute("href") + '">Bài học</a></td></tr>';
   });
   tview.innerHTML = h + "</table>";
@@ -139,6 +177,8 @@ document.getElementById("theme").addEventListener("click", function(){
   root.setAttribute("data-theme", nxt);
   try { localStorage.setItem("rad-theme", nxt); } catch(e){}
 });
+cards.forEach(applyLearn);
+updateProgress();
 filt();
 </script>
 </body>
