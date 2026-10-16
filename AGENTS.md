@@ -18,7 +18,11 @@
 | AuntMinnie (Case of the Day) | Ca mỗi ngày | Nhiều phần paywall — **chỉ dẫn link, không tải** |
 | Stanford Medicine 25 | Khám lâm sàng (physical exam) + hình ảnh | Dẫn link |
 | Wikimedia Commons (Category:Radiology) | Ảnh mở | Kiểm tra giấy phép từng file (CC đủ loại) |
-| Cybersight / EyeRounds | Mắt (siêu âm (ultrasound), CT/MRI hốc mắt (orbit)) | Miễn phí học tập |
+| Cybersight / EyeRounds (Iowa) | Mắt (siêu âm (ultrasound), CT/MRI hốc mắt (orbit)) | Miễn phí học tập |
+| EyeWiki (AAO, eyewiki.org) | Tổng quan bệnh mắt, nhiều ảnh đáy mắt (fundus)/OCT | Chữ CC BY-NC-SA; **ảnh kiểm tra license từng file**, không tải được thì dẫn link |
+| Tạp chí mắt mở OA qua Europe PMC FIG (TVST, IOVS, Clin Ophthalmol-Dove, BMC Ophthalmol, J Ophthalmol) | Ảnh đáy mắt/OCT độ phân giải cao kèm PMCID + giấy phép | CC BY/CC BY-NC theo từng bài — pipeline FIG + OPEN_ACCESS:Y như mọi hệ |
+| Retina Image Bank (ASRS) | Ảnh võng mạc chuẩn hội | Dùng giáo dục ghi nguồn; **mặc định dẫn link**, chỉ tải khi trang cho phép rõ |
+| Atlas of Ophthalmology / BCSC / sách OCT | Tham khảo mô tả, không lấy ảnh | **Chỉ dẫn link** (bản quyền) — thiếu ảnh thì tự vẽ sơ đồ CC0 |
 | CataractCoach | Video (video) phẫu thuật (tham khảo can thiệp (intervention)) | Dẫn link |
 | Europe PMC (europepmc.org) | Tìm ảnh trong caption (cú pháp `FIG:"dấu hiệu" AND OPEN_ACCESS:Y`), REST API miễn phí, kèm PMCID/DOI + giấy phép | CC BY/CC0 theo từng bài — ghi đúng license từng ảnh |
 | PubMed Central (PMC, lọc open access) | Bản full-text + ảnh gốc độ phân giải cao; Insights into Imaging 100% CC BY 4.0 | CC BY 4.0 (Insights Imaging) / theo từng bài |
