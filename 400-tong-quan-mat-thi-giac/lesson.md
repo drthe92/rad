@@ -25,6 +25,7 @@ certainty: tong-hop-y-van
 | Tuyến lệ to | Trên-ngoài | IgG4, sarcoid, u | Không đau 2 bên + IgG4 | [424](../424-tuyen-le/lesson.md) |
 | TK thị/giao thoa | TK-yên | Viêm, NAION, glioma/ONSM, adenoma | Đau + ngấm = viêm; tram-track = ONSM; bán manh = yên | [430](../430-duong-thi-giac/lesson.md), [431](../431-u-than-kinh-thi/lesson.md), [432](../432-vung-yen/lesson.md) |
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
+| Võng mạc ĐTĐ | Võng mạc (retina) | NPDR/PDR, DME | 4-2-1; CST ≥ 300 µm; PRP 1200–1600 | [443](../443-vong-mac-dai-thao-duong/lesson.md) |
 | Màng dịch kính | Nhãn cầu (globe) | Bong võng mạc, XH dịch kính, bong hắc mạc | V/Y dính đĩa = võng mạc; aftermovement = máu; T-sign = hắc mạc | [411](../411-sieu-am-nhan-cau/lesson.md) |
 
 ## Bài liên quan chéo
@@ -42,6 +43,7 @@ certainty: tong-hop-y-van
 - [432 – Vùng yên](../432-vung-yen/lesson.md) *(mới)*
 - [441 – OCT hoàng điểm](../441-OCT-hoang-diem/lesson.md) *(mới)*
 - [442 – Glaucoma](../442-glaucoma-OCT/lesson.md) *(mới)*
+- [443 – Võng mạc đái tháo đường](../443-vong-mac-dai-thao-duong/lesson.md) *(mới)*
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) *(mới)*
 - [451 – Hệ thống](../451-he-thong-mat/lesson.md) *(mới)*
 - [460 – Can thiệp](../460-can-thiep-mat/lesson.md) *(mới)*
@@ -71,6 +73,7 @@ certainty: tong-hop-y-van
 **440–449 — Võng mạc, hoàng điểm & glaucoma (OCT)**
 - 441 – OCT hoàng điểm *(đã có — [bài học](../441-OCT-hoang-diem/lesson.md))*
 - 442 – Glaucoma OCT *(đã có — [bài học](../442-glaucoma-OCT/lesson.md))*
+- 443 – Võng mạc đái tháo đường ETDRS + DME *(đã có — [bài học](../443-vong-mac-dai-thao-duong/lesson.md))*
 
 **450–459 — Nhi & bệnh hệ thống**
 - 450 – Mắt nhi *(đã có — [bài học](../450-mat-nhi/lesson.md))*

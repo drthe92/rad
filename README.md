@@ -58,6 +58,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 401 | [Phương thức CĐHA](401-phuong-thuc-mat/lesson.md) | `pattern:protocol-mat` |
 | 441 | [OCT hoàng điểm](441-OCT-hoang-diem/lesson.md) | `pattern:OCT` |
 | 442 | [Glaucoma](442-glaucoma-OCT/lesson.md) | `pattern:OCT` |
+| 443 | [Võng mạc đái tháo đường](443-vong-mac-dai-thao-duong/lesson.md) | `pattern:vong-mac-dai-thao-duong` `vung:vong-mac` `score:ETDRS` `protocol:OCT-OCTA` |
 | 450 | [Mắt nhi](450-mat-nhi/lesson.md) | `pattern:xuat-tiet-nhi` |
 | 451 | [Hệ thống](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
