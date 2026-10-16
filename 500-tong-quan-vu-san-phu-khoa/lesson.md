@@ -32,6 +32,7 @@ certainty: tong-hop-y-van
 - [525 – Ung thư nội mạc & cổ tử cung: FIGO trên MRI](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) *(đã có)*
 - [528 – Dị dạng tử cung bẩm sinh: vách ngăn vs hai sừng (ESHRE/ESGE & ASRM)](../528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md) *(đã có)*
 - [530 – Phần phụ O-RADS](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md) *(đã có)*
+- [535 – Ung thư buồng trứng, phúc mạc & u Krukenberg](../535-ung-thu-buong-trung-phuc-mac-krukenberg/lesson.md) *(đã có)*
 - [540 – DIE & PID](../540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) *(đã có)*
 - [550 – Thai sớm & ngoài tử cung](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) *(đã có)*
 - [560 – Nhau cài răng lược](../560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) *(đã có)*
@@ -51,7 +52,7 @@ certainty: tong-hop-y-van
 
 **530–539 — Buồng trứng & Phần phụ (Ovary & Adnexa)**
 - 530 – Khối u phần phụ: Hệ thống phân độ ACR O-RADS (Siêu âm v2022 & MRI) và Cấp cứu Xoắn buồng trứng *(đã có — [bài học](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md))*
-- 535 – Phân tầng ung thư buồng trứng, Di căn phúc mạc & U Krukenberg (di căn buồng trứng 2 bên từ dạ dày/đại tràng có tế bào nhẫn) *(dự kiến)*
+- 535 – Phân tầng ung thư buồng trứng, Di căn phúc mạc & U Krukenberg (di căn buồng trứng 2 bên từ dạ dày/đại tràng có tế bào nhẫn) *(đã có — [bài học](../535-ung-thu-buong-trung-phuc-mac-krukenberg/lesson.md))*
 
 **540–549 — Lạc nội mạc tử cung, Viêm vùng chậu & Sàn chậu**
 - 540 – Lạc nội mạc tử cung sâu (DIE — Phân loại #Enzian trên MRI) & Viêm vùng chậu cấp/Áp-xe vòi-buồng trứng (TOA) *(đã có — [bài học](../540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md))*
