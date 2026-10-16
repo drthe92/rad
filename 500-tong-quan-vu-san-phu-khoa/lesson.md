@@ -25,10 +25,13 @@ certainty: tong-hop-y-van
 | Chảy máu 3 tháng cuối & Bất thường bánh nhau | Bánh nhau (placenta) | Nhau tiền đạo (placenta previa), Nhau cài răng lược (PAS: accreta/increta/percreta), Nhau bong non | Cơ tử cung mỏng < 1 mm + hồ máu (lacunae) + dải tối T2W (> 6 mm) + phình lồi bánh nhau trên vết mổ cũ = Nhau cài răng lược (PAS) | `560` |
 | Dị dạng tử cung bẩm sinh & Sẩy thai tái diễn | Tử cung/âm đạo (uterus/vagina) | Tử cung vách ngăn (septate), hai sừng (bicornuate), đôi (didelphys), một sừng (unicornuate), MRKH, HWWS/OHVIRA | **Lõm ngoài > 1 cm (> 50% thành cơ đáy) = hai sừng (KHÔNG mổ)**; **lõm trong ≥ 1 cm + góc < 90° + contour ngoài lồi = vách ngăn (mổ cắt vách)**; < 1 cm = arcuate (biến thể); tắc nửa âm đạo + bất sản thận cùng bên = HWWS | `528` |
 | Hình thái thai nhi & Doppler sản khoa | Thai nhi (fetus), tuần hoàn bào thai | NT dày/thể nhiễm sắc thể, FGR sớm/muộn, thiếu máu thai, suy tim thai | **NT ≥ 3,5 mm (hoặc > BP95) + mất xương mũi = nghi lệch bội**; **UA PI > BP95 → AEDF → REDF + CPR < BP5 = FGR**; **MCA-PSV > 1,5 MoM = thiếu máu**; **DV mất/đảo sóng a = suy tim, đẻ ngay** | `565` |
+| Ung thư vú: giai đoạn & lan rộng | Tuyến vú (breast) | Đơn ổ (unifocal) vs Đa ổ (MF, cùng phần tư, 2–5 cm) vs Đa trung tâm (MC, khác phần tư/> 5 cm, hay ILC hai bên) vs DCIS/NME | **T theo ổ xâm lấn lớn nhất + hậu tố “(m)”, KHÔNG cộng kích thước**; MRI phát hiện thêm ổ ẩn **10–30%**; **Type III washout + DWI sáng** = ác; vú đặc ACR C/D → MRI/CEM | `514` |
+| Hạch trong ung thư phụ khoa | Hạch chậu & cạnh ĐMC (pelvic/para-aortic) | Hạch di căn vs hạch phản ứng/viêm vs lao hạch | **FDG-PET/CT Se chỉ ~56% (hạch nhỏ/vi di căn âm tính KHÔNG loại trừ)**; **SLN-ICG detection 95,6%, NPV 99,2–100%**; **IIIC1 hạch chậu / IIIC2 cạnh ĐMC**; micromet 0,2–2,0 mm, macro > 2 mm | `572` |
 
 ## Bài liên quan chéo
 - [510 – BI-RADS vú](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) *(đã có)*
 - [512 – Vi vôi hóa, biến dạng cấu trúc & túi ngực](../512-vi-voi-hoa-tui-nguc-bien-dang/lesson.md) *(đã có)*
+- [514 – Ung thư vú: giai đoạn TNM & MRI lan rộng (đa ổ/đa trung tâm)](../514-ung-thu-vu-TNM-MRI-lan-rong/lesson.md) *(đã có)*
 - [520 – Tử cung: xơ/FIGO/adenomyosis](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md) *(đã có)*
 - [525 – Ung thư nội mạc & cổ tử cung: FIGO trên MRI](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) *(đã có)*
 - [528 – Dị dạng tử cung bẩm sinh: vách ngăn vs hai sừng (ESHRE/ESGE & ASRM)](../528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md) *(đã có)*
@@ -38,6 +41,7 @@ certainty: tong-hop-y-van
 - [550 – Thai sớm & ngoài tử cung](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) *(đã có)*
 - [560 – Nhau cài răng lược](../560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) *(đã có)*
 - [565 – Sàng lọc hình thái thai & Doppler sản khoa](../565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) *(đã có)*
+- [572 – Hạch trong ung thư phụ khoa: SLN, hạch chậu–cạnh ĐMC & PET-CT](../572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Vú & Sản Phụ khoa (500–580)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -46,6 +50,7 @@ certainty: tong-hop-y-van
 - **500** – Tổng quan Hệ Vú & Sản Phụ khoa / Breast & OB/GYN overview *(bài này)*
 - 510 – Hệ thống phân độ ACR BI-RADS trên Nhũ ảnh (Mammography), Siêu âm & MRI vú *(đã có — [bài học](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md))*
 - 512 – Tiếp cận Vi vôi hóa vú, Biến dạng cấu trúc (Architectural distortion) & Đánh giá túi ngực (vỡ trong bao — dấu sợi mì *linguine sign* vs. vỡ ngoài bao — *snowstorm*) *(đã có — [bài học](../512-vi-voi-hoa-tui-nguc-bien-dang/lesson.md))*
+- 514 – Ung thư vú: Phân giai đoạn TNM (AJCC/UICC 8th) & MRI/CEM đánh giá lan rộng (đa ổ *multifocal* 2–5 cm vs. đa trung tâm *multicentric* khác phần tư, thể tiểu thùy hai bên) *(đã có — [bài học](../514-ung-thu-vu-TNM-MRI-lan-rong/lesson.md))*
 
 **520–529 — Tử cung & Cổ tử cung (Uterus & Cervix)**
 - 520 – U xơ cơ tử cung (Phân loại FIGO 0–8), Lạc nội mạc trong cơ (Adenomyosis) & Tiếp cận dày nội mạc tử cung *(đã có — [bài học](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md))*
@@ -64,5 +69,8 @@ certainty: tong-hop-y-van
 - 550 – Siêu âm 3 tháng đầu: Tiêu chuẩn SRU chẩn đoán Thai ngừng tiến triển, Thai ngoài tử cung & Bệnh nguyên bào nuôi (Thai trứng) *(đã có — [bài học](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md))*
 - 560 – Phổ bệnh lý Nhau cài răng lược (PAS: Accreta – Increta – Percreta), Nhau tiền đạo & Nhau bong non trên Siêu âm và MRI *(đã có — [bài học](../560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md))*
 - 565 – Sàng lọc hình thái học thai nhi quý I–II & Siêu âm Doppler sản khoa (Động mạch rốn, Động mạch não giữa MCA, Ống tĩnh mạch) *(đã có — [bài học](../565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md))*
+
+**570–579 — Hạch & phân giai đoạn ung thư phụ khoa (Nodal & Advanced Staging)**
+- 572 – Hạch trong ung thư phụ khoa: Hạch gác (SLN: ICG/⁹⁹ᵐTc + siêu phân đoạn), Hạch chậu–cạnh ĐMC trên MRI/CT/PET-CT & phân giai đoạn FIGO IIIC1/IIIC2 *(đã có — [bài học](../572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

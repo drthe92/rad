@@ -151,6 +151,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 500 | [Tổng quan Vú & SPK](500-tong-quan-vu-san-phu-khoa/lesson.md) | Tổng quan, bảng DDx |
 | 510 | [Vú BI-RADS](510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) | `score:BI-RADS` |
 | 512 | [Vôi hóa/biến dạng/túi ngực](512-vi-voi-hoa-tui-nguc-bien-dang/lesson.md) | `pattern:vi-voi-hoa` `pattern:bien-dang-cau-truc` `pattern:tui-nguc` `vung:vu` `protocol:MRI-vu` |
+| 514 | [Ung thư vú: TNM & MRI lan rộng (đa ổ/đa trung tâm)](514-ung-thu-vu-TNM-MRI-lan-rong/lesson.md) | `pattern:khoi-vu` `pattern:da-o-vu` `vung:vu` `score:TNM` `protocol:MRI-vu` |
 | 520 | [Tử cung FIGO](520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md) | `score:FIGO` |
 | 525 | [K nội mạc/cổ tử cung FIGO MRI](525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) | `pattern:u-noi-mac` `pattern:xam-lan-co` `vung:tu-cung` `score:FIGO` `protocol:MRI-tieu-khung` |
 | 528 | [Dị dạng tử cung bẩm sinh](528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md) | `pattern:di-dang-tu-cung` `vung:tu-cung` `score:ESHRE-ESGE` `score:ASRM` `protocol:MRI-tu-cung` `protocol:3D-TVUS` |
@@ -160,6 +161,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 550 | [Thai sớm SRU](550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) | `score:SRU` |
 | 560 | [PAS](560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) | `score:PAS` |
 | 565 | [Sàng lọc hình thái thai & Doppler sản khoa](565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) | `pattern:hinh-thai` `pattern:doppler-san-khoa` `vung:thai-nhi` `score:Delphi-FGR` `protocol:SA-hinh-thai` `protocol:Doppler-san-khoa` |
+| 572 | [Hạch trong ung thư phụ khoa: SLN, hạch chậu–cạnh ĐMC & PET-CT](572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md) | `pattern:hach-di-can` `vung:hach-chau` `vung:hach-canh-dmc` `score:FIGO` `protocol:PET-CT` `protocol:SLN-ICG` |
 
 ## Hệ Nhi khoa (dải 600, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
