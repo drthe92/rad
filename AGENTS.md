@@ -69,7 +69,7 @@
 - Dải ID (3 chữ số, chừa khe chèn): Ngực `001–080` (xong); **Bụng `100–180`** (xong — bản đồ trong `100-tong-quan-he-bung/lesson.md`); **Thần kinh `200–249`** (xong đợt 1: bản đồ + 15 bài trong `200-tong-quan-he-than-kinh/lesson.md`); Cơ xương `300–380` (xong — bản đồ + 18 bài trong `300-tong-quan-he-co-xuong-khop/lesson.md`); Vú & SPK `500–580` (xong đợt 1: bản đồ + 6 bài trong `500-tong-quan-vu-san-phu-khoa/lesson.md`); Nhi khoa `600–670` (xong đợt 1: bản đồ + 6 bài trong `600-tong-quan-nhi-khoa/lesson.md`); Đầu Cổ `700–759` + Tim mạch `800–849` + Can thiệp `900–930` (xong đợt 1: 3 bản đồ + 6 bài 710/730/810/820/900/920); **Mắt & thị giác `400–460`** (xong)...
 - Mục (1) bắt buộc giải thích TẠI SAO (vật lý T1/T2/DWI/HU + mô bệnh), không chỉ liệt kê tín hiệu — theo PROMPT_SYNTHESIZER của Argon + nhãn certainty của ta.
 - Mọi bài qua 4 cửa trong `PROMPT_SYNTHESIZER.md` (ngưỡng định lượng, học thuyết thể tích, trung thành nguồn + phản biện, cạm bẫy mặt cắt) trước khi commit.
-- Bài mới phải soi với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng) + chạy `python3 tools/selfcheck.py` PASS mới commit.
+- Bài mới phải soi với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng) + chạy **`python3 tools/selfcheck.py` + `python3 tools/lint_repo.py` + `python3 tools/check_credits_authors.py`** PASS mới commit. (`check_credits_authors.py` đối chiếu tên tác giả khai báo vs PMCID qua Europe PMC — bỏ qua cảnh báo nếu mạng lỗi.)
 
 ## Phân công (ta vs Argon — ai giỏi việc gì làm việc đó)
 - Ta (OpenChamber/Build): khung repo, ID, hub Pages, script composite, Mermaid, kiểm phép ảnh, commit/push.
