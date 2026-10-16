@@ -155,6 +155,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 540 | [DIE Enzian](540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) | `score:Enzian` |
 | 550 | [Thai sớm SRU](550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) | `score:SRU` |
 | 560 | [PAS](560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) | `score:PAS` |
+| 565 | [Sàng lọc hình thái thai & Doppler sản khoa](565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) | `pattern:hinh-thai` `pattern:doppler-san-khoa` `vung:thai-nhi` `score:Delphi-FGR` `protocol:SA-hinh-thai` `protocol:Doppler-san-khoa` |
 
 ## Hệ Nhi khoa (dải 600, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |

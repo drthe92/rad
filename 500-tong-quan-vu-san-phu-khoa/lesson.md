@@ -24,6 +24,7 @@ certainty: tong-hop-y-van
 | Trễ kinh + β-hCG dương tính + Tử cung trống | Phần phụ (adnexa) | Thai ngoài tử cung (ectopic pregnancy) vs. Nang hoàng thể (corpus luteum) vs. Thai trong tử cung quá sớm | β-hCG vượt ngưỡng phân biệt (≥ 3.500 mIU/mL) + khối cạnh buồng trứng di động tách biệt khỏi buồng trứng (blob/bagel sign) + dịch máu ổ bụng = Thai ngoài tử cung (Vòng lửa Doppler gặp ở cả hoàng thể!) | `550` |
 | Chảy máu 3 tháng cuối & Bất thường bánh nhau | Bánh nhau (placenta) | Nhau tiền đạo (placenta previa), Nhau cài răng lược (PAS: accreta/increta/percreta), Nhau bong non | Cơ tử cung mỏng < 1 mm + hồ máu (lacunae) + dải tối T2W (> 6 mm) + phình lồi bánh nhau trên vết mổ cũ = Nhau cài răng lược (PAS) | `560` |
 | Dị dạng tử cung bẩm sinh & Sẩy thai tái diễn | Tử cung/âm đạo (uterus/vagina) | Tử cung vách ngăn (septate), hai sừng (bicornuate), đôi (didelphys), một sừng (unicornuate), MRKH, HWWS/OHVIRA | **Lõm ngoài > 1 cm (> 50% thành cơ đáy) = hai sừng (KHÔNG mổ)**; **lõm trong ≥ 1 cm + góc < 90° + contour ngoài lồi = vách ngăn (mổ cắt vách)**; < 1 cm = arcuate (biến thể); tắc nửa âm đạo + bất sản thận cùng bên = HWWS | `528` |
+| Hình thái thai nhi & Doppler sản khoa | Thai nhi (fetus), tuần hoàn bào thai | NT dày/thể nhiễm sắc thể, FGR sớm/muộn, thiếu máu thai, suy tim thai | **NT ≥ 3,5 mm (hoặc > BP95) + mất xương mũi = nghi lệch bội**; **UA PI > BP95 → AEDF → REDF + CPR < BP5 = FGR**; **MCA-PSV > 1,5 MoM = thiếu máu**; **DV mất/đảo sóng a = suy tim, đẻ ngay** | `565` |
 
 ## Bài liên quan chéo
 - [510 – BI-RADS vú](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) *(đã có)*
@@ -36,6 +37,7 @@ certainty: tong-hop-y-van
 - [540 – DIE & PID](../540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) *(đã có)*
 - [550 – Thai sớm & ngoài tử cung](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) *(đã có)*
 - [560 – Nhau cài răng lược](../560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) *(đã có)*
+- [565 – Sàng lọc hình thái thai & Doppler sản khoa](../565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Vú & Sản Phụ khoa (500–580)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -61,6 +63,6 @@ certainty: tong-hop-y-van
 **550–569 — Sản khoa & Cấp cứu Thai kỳ (Obstetric Imaging)**
 - 550 – Siêu âm 3 tháng đầu: Tiêu chuẩn SRU chẩn đoán Thai ngừng tiến triển, Thai ngoài tử cung & Bệnh nguyên bào nuôi (Thai trứng) *(đã có — [bài học](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md))*
 - 560 – Phổ bệnh lý Nhau cài răng lược (PAS: Accreta – Increta – Percreta), Nhau tiền đạo & Nhau bong non trên Siêu âm và MRI *(đã có — [bài học](../560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md))*
-- 565 – Sàng lọc hình thái học thai nhi quý I–II & Siêu âm Doppler sản khoa (Động mạch rốn, Động mạch não giữa MCA, Ống tĩnh mạch) *(dự kiến)*
+- 565 – Sàng lọc hình thái học thai nhi quý I–II & Siêu âm Doppler sản khoa (Động mạch rốn, Động mạch não giữa MCA, Ống tĩnh mạch) *(đã có — [bài học](../565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
