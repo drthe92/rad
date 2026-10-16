@@ -54,6 +54,7 @@ flowchart TD
 - **Kháng sinh mù trước cấy** = mất chẩn đoán vi khuẩn — cấy máu/mủ + GenXpert trước thuốc.
 - **Pott liệt tiến triển chờ ATT ngấm** = liệt vĩnh viễn — mổ giải ép + vững khi liệt/mất vững.
 - **Bơm xi măng vào di căn/Pott** không sinh thiết — cuống + áp-xe lạnh phải loại trừ trước.
+- **Thoái hóa Modic 1 (claw sign ôm đĩa)** tưởng viêm thân sống — claw + đĩa đen T2 = thoái hóa (viêm là phá bản tận + đĩa sáng dịch + sốt!).
 
 ## 6. Tự lượng giá — Blind Quiz
 

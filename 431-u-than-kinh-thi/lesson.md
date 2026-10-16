@@ -48,6 +48,8 @@ certainty: tong-hop-y-van
 - **Sinh thiết/mổ ONSM = mù** — chẩn đoán hình ảnh + SRS, không mổ lấy mô thường quy.
 - **Glioma người lớn** hiếm nhưng ác tính hơn trẻ — đừng chủ quan tuổi.
 - **Vôi hóa TK thị** cũng gặp viêm mạn/lao — bối cảnh + tram-track quyết định.
+- **Bánh vòng (doughnut) mặt coronal** mới đủ cặp với tram-track axial — 1 mặt chưa chốt ONSM.
+- **Giả tăng tín hiệu TK ở ống thị giác** do nhiễu khí xoang bướm/sàng trên DWI/T2 fatsat — COR STIR hoặc DIXON mới đọc (đừng gọi viêm!).
 
 ## 6. Tự lượng giá — Blind Quiz
 

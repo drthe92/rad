@@ -17,6 +17,8 @@ certainty: tong-hop-y-van
 - Ống sống 3 khoang: ngoài màng cứng (extradural: đĩa + di căn + tụ máu), trong màng cứng-ngoài tủy (intradural-extramedullary: schwannoma + meningioma), nội tủy (intramedullary: ependymoma + viêm tủy) — TẠI SAO túi màng cứng (thecal sac) quyết định: khối ngoài màng đẩy lệch túi, khối trong màng-ngoài tủy nong rộng khoang dưới nhện hình chén (meniscus/gutter), khối nội tủy phình rộng tủy.
 - Thoát vị đĩa: nhân nhầy (nucleus) chui qua vòng xơ (annulus) — lồi (bulge) → phồng (protrusion: đáy rộng hơn vòm) → thoát (extrusion: vòm rộng hơn đáy) → di trú (migration/sequestration).
 - Phân độ Pfirrmann I–V (tín hiệu + chiều cao đĩa) + MSU (vị trí A/B/C + độ 1–3) quyết định mổ/thủ thuật.
+- Danh pháp NASS v2.0: **lồi (bulge) > 25% chu vi (> 90°)** vs **thoát vị khu trú (protrusion/extrusion) < 25% chu vi** — TẠI SAO: lồi là thoái hóa lan tỏa (bảo tồn), thoát vị khu trú mới là đích mổ.
+- Thoái hóa Modic bản tận: **Type 1 (T1 tối/T2 sáng = viêm-phù)**, Type 2 (T1 sáng = mỡ), Type 3 (T1+T2 tối = xơ) — **dấu móng vuốt (claw sign: viền Modic 1 ôm đĩa thoái hóa = thoái hóa, không phải viêm!**; viêm thật phá bản tận 2 bên + đĩa sáng như dịch).
 
 ## 2. Gamut đau lưng + yếu chân (Gamut)
 
@@ -52,6 +54,7 @@ flowchart TD
 - **Bỏ sót CES vì chỉ đau lưng** — hỏi tiểu + tê yên ngựa mọi thoát vị lớn giữa.
 - **Viêm tủy gọi nhầm u nội tủy** → mổ oan — AQP4/MOG + LETM + corticoid thử trước.
 - **Đĩa mất nước tuổi già** giả thoát vị — Pfirrmann + tương quan rễ lâm sàng mới mổ.
+- **Mảnh đĩa di trú tự do (sequestered) ngấm viền** giả schwannoma/áp-xe ngoài màng — liên tục với đĩa mẹ + claw Modic là thoái hóa (schwannoma có meniscus, áp-xe có sốt!).
 
 ## 6. Tự lượng giá — Blind Quiz
 

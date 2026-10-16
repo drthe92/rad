@@ -14,7 +14,8 @@ certainty: tong-hop-y-van
 
 ## 1. Tổng quan — điểm chuyển tiếp + quai kín + mất ngấm
 
-- Tắc ruột non: quai giãn **> 3 cm** + xẹp hạ lưu + **điểm chuyển tiếp** + dấu phân ruột non. TẠI SAO tìm điểm chuyển: nguyên nhân (dính, bướu, bã thức ăn, thoát vị) quyết định mổ hay không.
+- Tắc ruột non: quai giãn **> 2,5–3,0 cm** (đại tràng > 6 cm, manh tràng > 9 cm là báo động vỡ!) + xẹp hạ lưu + **điểm chuyển tiếp** + dấu phân ruột non (small bowel feces) ngay trước điểm chuyển. TẠI SAO tìm điểm chuyển + Laplace (áp lực thành ∝ áp suất × bán kính): quai càng to càng dễ vỡ, nguyên nhân quyết định mổ hay không.
+- Chuỗi thiếu máu thành ruột: niêm mạc → xuyên thành (transmural) — TẠI SAO mất ngấm + pneumatosis + khí cửa là muộn: niêm mạc chết trước, vỏ gan khí < 2 cm là máu tĩnh mạch chết dội về.
 - **Quai kín:** đoạn ruột tắc 2 đầu (U/C) + **xoắn mạch (whirl)** + 2 mỏ chim — nguy cơ hoại tử cao gấp bội.
 - **Thiếu máu:** **mất ngấm thành** + phù mạc treo + khí thành (pneumatosis) + khí TM cửa (sát vỏ gan < 2 cm) = mổ tối khẩn.
 
@@ -27,12 +28,12 @@ certainty: tong-hop-y-van
 
 ## 3. Bảng mổ-theo dõi
 
-| Thực thể (entity) | Hình ảnh | Chốt | Xử trí |
-|---|---|---|---|
-| SBO dính đơn thuần | **> 3 cm + điểm chuyển + còn ngấm** | Không thiếu máu | Bảo tồn + sonde + theo dõi |
-| Quai kín | **U/C + whirl + 2 mỏ chim** | Xoắn mạch = hoại tử cao | **Mổ ngay** |
-| Thiếu máu mạc treo | **Mất ngấm + pneumatosis + khí TM cửa** | Mất ngấm là chốt | **Mổ tối khẩn** |
-| Tắc ruột già do u | **Apple-core + đại tràng giãn** | Hẹp ác tính | Stent/mổ |
+| Thực thể (entity) | Hình ảnh | Chốt vào (rule-in) | Chốt loại (rule-out) | Gợi ý xác nhận |
+|---|---|---|---|---|
+| SBO dính đơn thuần | **> 2,5 cm + điểm chuyển + phân ruột + còn ngấm** | **Điểm chuyển + ngấm còn** | Mất ngấm/whirl → quai kín | Bảo tồn + sonde + theo dõi |
+| Quai kín | **U/C + whirl + 2 mỏ chim (beak)** | **Xoắn mạch = hoại tử cao** | Còn ngấm + không whirl → đơn thuần | **Mổ ngay** |
+| Thiếu máu mạc treo | **Mất ngấm + pneumatosis + khí TM cửa** | **Mất ngấm là chốt (xuyên thành!)** | Còn ngấm → chưa hoại tử | **Mổ tối khẩn** |
+| Tắc ruột già do u | **Apple-core + đại tràng > 6 cm** | **Hẹp ác tính + manh tràng > 9 cm = vỡ!** | Không điểm chuyển → liệt | Stent/mổ |
 
 ## 4. Protocol CT bụng cấp
 
@@ -44,6 +45,7 @@ certainty: tong-hop-y-van
 - **Thoát vị bịt (obturator)** ở cụ bà gầy — tìm lỗ bịt khi SBO không rõ nguyên nhân.
 - **Khí TM cửa lành tính** sau nội soi/bóng — bối cảnh + mất ngấm mới mổ.
 - **Liệt ruột sau mổ sớm** tưởng tắc cơ học — không điểm chuyển = nội khoa.
+- **Thành ruột tăng tỷ trọng sẵn thì không tiêm giả còn ngấm** — xuất huyết nội thành làm HU nền cao nên thì tĩnh mạch vẫn sáng! Luôn so tăng HU 2 thì (tăng < 20 HU = không ngấm thật = hoại tử!).
 
 ## 6. Tự lượng giá — Blind Quiz
 

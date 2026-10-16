@@ -14,7 +14,7 @@ certainty: tong-hop-y-van
 
 ## 1. Tổng quan — xơ hóa mô kẽ theo 2 kiểu + HRCT đọc thế nào
 
-- **Tiểu thùy thứ cấp** lại xuất hiện: xơ hóa quanh bạch mạch ngoại vi → dày vách + tổ ong dưới màng phổi (UIP); viêm nang lan tỏa → kính mờ đều (NSIP).
+- **Tiểu thùy thứ cấp (SPL)** lại xuất hiện — khung đọc ILD: **quanh bạch mạch (perilymphatic:** vách + dưới màng phổi + quanh phế quản — sarcoid), **trung tâm tiểu thùy (centrilobular:** nốt mờ + tree-in-bud, chừa vách — HP/viêm tiểu PQ), **ngẫu nhiên (random:** nốt đều khắp + rãnh — lao kê/di căn). Xơ hóa quanh bạch mạch ngoại vi → dày vách + tổ ong dưới màng phổi (UIP); viêm nang lan tỏa → kính mờ đều (NSIP).
 - **Tổ ong (honeycombing):** nang khí xếp tầng dưới màng phổi, **chung vách dày 1–3 mm**, đường kính 3–10 mm — sẹo xơ cuối đường, không hồi phục. Có tổ ong điển hình + phân bố đáy-dưới màng phổi = UIP, khỏi sinh thiết trong bối cảnh IPF.
 - **Giãn phế quản do kéo (traction bronchiectasis):** phế quản bị xơ co kéo giãn không hồi phục — dấu xơ hóa (khác giãn phế quản viêm có thể hồi phục một phần).
 - HRCT chuẩn xơ: lát mỏng **1–1,5 mm**, cửa sổ phổi, 3 bình diện (axial + coronal + sagittal) + **thở ra** tìm bẫy khí (air-trapping) loại trừ viêm tiểu phế quản.
@@ -35,7 +35,7 @@ certainty: tong-hop-y-van
 |---|---|---|---|---|
 | UIP / IPF | **Tổ ong bắt buộc** + lưới + giãn PQ do kéo, **đáy + dưới màng phổi**, ít kính mờ | **Tổ ong đáy-dưới màng phổi + tuổi/hút thuốc + ran Velcro** | Kính mờ lan rộng át lưới + chừa màng phổi → NSIP | Hội chẩn đa chuyên khoa (MDD); sinh thiết khi không điển hình |
 | NSIP (xơ) | **Kính mờ đối xứng + lưới**, **chừa sát dưới màng phổi 1–2 mm**, hiếm tổ ong | **Subpleural sparing + bệnh mô liên kết + đáp ứng steroid** | Tổ ong lan rộng đáy → UIP | Kháng thể, PFTs, theo dõi đáp ứng |
-| HP mạn (phân biệt) | Bẫy khí + nốt trung tâm tiểu thùy + **chừa đáy**, xơ giữa-trên | **Bẫy khí thì thở ra + tiền sử kháng nguyên chim/nấm** | Tổ ong đáy thuần → UIP | Hỏi phơi nhiễm, BAL lympho |
+| HP mạn (phân biệt) | Bẫy khí + nốt trung tâm tiểu thùy + **chừa đáy**, xơ giữa-trên; **dấu 3 tỷ trọng (three-density/headcheese:** kính mờ + bẫy khí + bình thường cạnh nhau) | **Bẫy khí thì thở ra + 3 tỷ trọng + tiền sử kháng nguyên chim/nấm** | Tổ ong đáy thuần → UIP | Hỏi phơi nhiễm, BAL lympho |
 | Tổ chức hóa (OP) | Đông đặc ngoại vi + **vành ngược (atoll)**, di chuyển | **Atoll + đáp ứng steroid nhanh** | Tổ ong cố định → xơ mạn | (nối bài 031) |
 
 ![Tổ ong rực rỡ > 50% phổi](images/035_to-ong_CT_PMC-Palmucci-CCBY40.jpg)
@@ -51,7 +51,8 @@ certainty: tong-hop-y-van
 
 - **Xẹp đáy phổi do thở kém** giả kính mờ đáy — hít sâu + lát prone xác nhận (xẹp mất khi sấp, xơ không mất).
 - **Giãn PQ do kéo vs giãn PQ viêm:** do kéo đi kèm tổ ong/lưới xơ cùng vùng; viêm có dày thành + nút nhầy.
-- **Tổ ong vs kén khí/khí phế thũng cạnh vách:** tổ ong xếp tầng chung vách dày dưới màng phổi; kén LAM/LCH rải rác + thành mỏng (nối bài 050).
+- **Tổ ong vs kén khí/khí phế thũng cạnh vách:** tổ ong xếp tầng chung vách dày dưới màng phổi; **cạnh vách (paraseptal)** chỉ 1 lớp nang sát màng phổi không vách xơ dày; kén LAM/LCH rải rác + thành mỏng (nối bài 050).
+- **Giãn PQ do kéo cắt ngang axial giả tổ ong** — dựng coronal/sagittal kiểm tra liên tục cây phế quản (tổ ong là nang kín, giãn PQ là ống thông!).
 - **UIP + ung thư:** xơ là nền sinh ung thư — nốt mới trong vùng xơ phải theo dõi như nốt thường (nối bài 020).
 
 ## 6. Tự lượng giá — Blind Quiz

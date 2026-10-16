@@ -57,6 +57,7 @@ flowchart TD
 - **Thỏa mãn tìm kiếm** (ca trên: thấy ruột thừa bỏ sót xoắn!) — đau hố chậu nữ là xem cả ruột thừa + phần phụ.
 - **Doppler còn loại trừ xoắn** = hoại tử buồng trứng — chuỗi ngọc + whirlpool là mổ.
 - **Fibroma gọi K** mổ rộng oan — đen T2/DWI là xơ lành (kể cả Meigs!).
+- **Nang xuất huyết (hemorrhagic cyst) tưởng endometrioma/to nghi ngờ** — lưới ren (lace-like/reticular) + không dòng máu + tự teo 6–8 tuần = nang xuất huyết (endometrioma là kính mờ + shading + tồn tại!).
 
 ## 6. Tự lượng giá — Blind Quiz
 

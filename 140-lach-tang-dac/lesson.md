@@ -17,6 +17,7 @@ certainty: tong-hop-y-van
 - AAST lách/gan/thận: I (rách bao < 1 cm/tụ máu dưới bao < 10%), II (< 3 cm/10–50%), III (> 3 cm/> 50% hoặc vỡ mạch trong nhu mô), IV (rách mạch thùy/mất mạch > 25%), V (vỡ nát/cuống mạch).
 - TẠI SAO thoát thuốc hoạt tính (active extravasation: vệt cản quang lan thì muộn) khác giả phình (pseudoaneurysm: nốt tròn khu trú): thoát = chảy đang diễn ra (nút/mổ cấp cứu); giả phình = túi khu trú (nút mạch chọn lọc, vỡ muộn).
 - Ngưỡng: huyết động ổn + không thoát thuốc = bảo tồn; thoát thuốc/giả phình + tụt HA = nút mạch/mổ.
+- **Máu cục canh gác (sentinel clot 45–70 HU)** kề tạng vỡ nhất — TẠI SAO: máu đông đặc nhất ở gần nguồn chảy, loãng dần ra xa.
 
 ## 2. Gamut sau chấn thương bụng
 
@@ -43,6 +44,8 @@ certainty: tong-hop-y-van
 - **Thoát thuốc tĩnh mạch** (muộn mới hiện) giả động mạch — 2 thì phân biệt.
 - **Lách phụ (splenule)** giả hạch/u — cuộn + tiền sử cắt lách.
 - **Bảo tồn quá đà khi thoát thuốc + tụt HA** — nút/mổ, đừng chờ.
+- **Khe lách bẩm sinh (cleft)** giả vỡ — bờ nhẵn + vỏ bao lót + không máu quanh (vỡ là bờ sắc + máu!).
+- **Lách da báo thì động mạch sớm (zebra spleen)** giả đụng dập — thì cửa đồng nhất lại là chốt (đụng dập thật vẫn khuyết!).
 
 ## 6. Tự lượng giá — Blind Quiz
 

@@ -17,6 +17,8 @@ certainty: tong-hop-y-van
 - Viêm xương tủy cấp (trẻ, metaphysis): vi khuẩn kẹt quai mạch hành xương — TẠI SAO phù lan >> ổ mủ + T1 tối lan rộng: mủ + xung huyết lan theo tủy trước khi khu trú.
 - Brodie (bán cấp, miễn dịch tốt + vi khuẩn yếu): mủ khu trú có viền xơ — **dấu quầng (penumbra: viền T1 sáng quanh ổ mủ)** nhạy 75% đặc hiệu 99%.
 - Bàn chân đái tháo đường: tắc mạch + mất cảm giác + loét — TẠI SAO khó phân biệt Charcot vs viêm tủy: cả 2 cùng phù + biến dạng; **loét + đường dò (sinus tract) tới xương + khí** = viêm tủy.
+- **Dấu bóng ma (ghost sign):** xương chết (sequestrum) mất viền đặc trong ổ viêm mạn — TẠI SAO: xương chết không còn máu nuôi nên không đặc hóa theo.
+- U phần mềm **> 5 cm + sâu dưới mạc + không đồng nhất** bắt buộc nghi sarcoma — TẠI SAO: kích thước + độ sâu là 2 yếu tố nguy cơ độc lập (bài 375: vách > 2 mm + MDM2).
 - Viêm cân hoại tử: độc tố lan cân sâu — khí dọc cân + phù lan + sốc = mổ tối khẩn (tử vong tăng theo giờ!).
 
 ## 2. Gamut sưng-đau + sốt (Gamut)
@@ -56,6 +58,7 @@ flowchart TD
 - **Brodie gọi nhầm u** sinh thiết rộng oan — penumbra + mạn + không sốt là nạo hạn chế + cấy.
 - **Charcot bó bột mù khi đang viêm tủy** = lan hoại tử — probe-to-bone + MRI trước offloading.
 - **Chờ cấy mới mổ hoại tử cân** = chết — khí + sốc là mổ ngay, cấy sau.
+- **Chỉ đọc T2FS/STIR bỏ qua T1W thường** = nâng phù phản ứng thành viêm tủy — T1W còn mỡ lấm tấm là Charcot/phù (viêm thật đen hoàn toàn!), luôn đọc T1W trước!
 
 ## 6. Tự lượng giá — Blind Quiz
 

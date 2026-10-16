@@ -16,6 +16,7 @@ certainty: tong-hop-y-van
 
 - Xơ cứng rải rác (MS): viêm quanh tĩnh mạch (perivenular) lan theo sợi trắng — TẠI SAO ngón tay Dawson (Dawson fingers) vuông góc não thất: tĩnh mạch tủy (medullary veins) chạy vuông góc thành não thất, viêm lan dọc theo chúng.
 - Viêm tủy thị thần kinh (NMOSD): kháng thể aquaporin-4 (AQP4-IgG) đánh kênh nước chân astrocyte — tổn thương dài + thị thần kinh 2 bên + vùng nôn (area postrema).
+- Bệnh kháng myelin-oligodendrocyte (MOGAD): kháng MOG ở bao myelin ngoài — viêm thị 2 bên + phù đĩa + quanh bao + LETM/tủy ngắn + ADEM-like trẻ em, đáp ứng steroid tốt, tái phát ít di chứng hơn NMOSD.
 - Tiêu chuẩn McDonald 2017: lan tỏa không gian (DIS: ≥ 2/4 vùng — quanh não thất, vỏ-dưới vỏ, hố sau, tủy) + lan tỏa thời gian (DIT: tổn thương mới hoặc dải oligoclonal — OCB).
 
 ## 2. Gamut chất trắng đa ổ (Gamut)
@@ -31,6 +32,7 @@ certainty: tong-hop-y-van
 |---|---|---|---|---|
 | MS (McDonald) | **Dawson vuông góc não thất + juxtacortical + hố sau + tủy < 2 đốt; vòng hở hướng vỏ** | **DIS ≥ 2/4 + DIT (mới/OCB)** | LETM ≥ 3 đốt + AQP4 → NMOSD | OCB DNT + VEP + DMT |
 | NMOSD | **LETM ≥ 3 đốt + thị 2 bên + area postrema** | **AQP4-IgG (+) + LETM** | Tủy ngắn + OCB → MS | AQP4/MOG + rituximab |
+| MOGAD | **Thị 2 bên + phù đĩa + quanh bao + LETM/ngắn + ADEM-like** | **MOG-IgG (+) + phù đĩa + đáp ứng tốt** | Không phù đĩa + AQP4 → NMOSD | Steroid + theo dõi (tiên lượng khá) |
 | ADEM | **Trẻ + đối xứng 2 bên + hạch nền + đơn pha sau nhiễm/chủng** | **Trẻ + đơn pha + đối xứng** | Tái phát nhiều đợt → MS | Corticoid + theo dõi tái phát |
 | Fazekas mạch nhỏ | **Đối xứng quanh não thất + tuổi già + tăng HA** | **Tuổi + mạch + đối xứng** | Dawson + juxtacortical → MS | Kiểm soát HA/lipid |
 
@@ -55,6 +57,7 @@ flowchart TD
 - **Giả u mất myelin (tumefactive) mổ nhầm GBM** — vòng hở hướng vỏ + MRS choline thấp + đáp ứng steroid (bài 213).
 - **Interferon cho NMOSD** làm nặng thêm — kháng thể AQP4/MOG trước DMT.
 - **Marburg ác tính** phù + khối + lệch đường giữa giả u — Dawson + OCB + hội chẩn (ảnh trên là Marburg!).
+- **Khoảng Virchow-Robin giãn / đốm Fazekas** giả mảng MS — MS thật phải **chạm sát não thất + mặt dưới thể chai trên sagittal FLAIR** (Fazekas chừa viền, tròn nhỏ, không Dawson).
 
 ## 6. Tự lượng giá — Blind Quiz
 

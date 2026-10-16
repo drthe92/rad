@@ -45,6 +45,8 @@ certainty: tong-hop-y-van
 
 - **STIR/fatsat + T1 cản quang 3 bình diện** (ngấm đoạn nào, dài bao nhiêu) + MRI não (Dawson/MS) + tủy (LETM) khi nghi NMOSD.
 - Kháng thể: AQP4 + MOG (cell-based) + OCB dịch não tủy.
+- Ngưỡng bao thị thần kinh (ONSD) cách nhãn cầu **3 mm: > 5,5–5,8 mm** = tăng áp lực nội sọ (não úng thủy/u) — đo thêm khi phù đĩa 2 bên.
+- Chiều dài đoạn ngấm: MS ngắn trước/giữa, NMOSD dài tới giao thoa, MOGAD viêm quanh bao (perineuritis) + phù đĩa.
 - Cấp: steroid TM 1 g × 3–5 ngày; NMOSD kháng → thay huyết tương sớm (đừng chờ).
 
 ## 5. Cạm bẫy

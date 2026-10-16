@@ -55,6 +55,7 @@ flowchart TD
 - **Hút thai dưới ngưỡng SRU** = giết thai sống — hẹn lại là luật sống còn.
 - **Vòng lửa = thai ngoài** mù quáng — hoàng thể cũng vòng lửa (vị trí mới chốt!).
 - **Thai vết mổ/vòi kẽ vỡ** tử vong — cơ < 5 mm + line (+) là MTX/mổ sớm, đừng chờ.
+- **Vùng phân biệt β-hCG (1.500–3.000 TVUS, bảo tồn 3.500)** — dưới ngưỡng + tử cung trống là "thai chưa rõ vị trí", hẹn hCG 48h (tăng < 53% = bất thường!), đừng kết luận vội.
 
 ## 6. Tự lượng giá — Blind Quiz
 
