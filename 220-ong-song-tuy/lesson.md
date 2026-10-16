@@ -10,7 +10,7 @@ certainty: tong-hop-y-van
 # 220 — Ống sống 3 khoang: thoát vị đĩa, u tủy & viêm tủy / Spinal compartments
 
 **Tags:** `pattern:ong-song` `vung:cot-song` `score:MSU-Pfirrmann`
-**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — nhóm tự biên từ y văn mở, chưa gắn ca nguyên văn đơn lẻ.
+**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — nhóm tự biên từ y văn mở; **các ca trong quiz là ca nguyên văn (verbatim case)** chép đúng tuổi – lâm sàng – chú thích gốc.
 
 ## 1. Tổng quan — túi màng cứng là ranh giới sống còn
 
@@ -19,6 +19,9 @@ certainty: tong-hop-y-van
 - Phân độ Pfirrmann I–V (tín hiệu + chiều cao đĩa) + MSU (vị trí A/B/C + độ 1–3) quyết định mổ/thủ thuật.
 - Danh pháp NASS v2.0: **lồi (bulge) > 25% chu vi (> 90°)** vs **thoát vị khu trú (protrusion/extrusion) < 25% chu vi** — TẠI SAO: lồi là thoái hóa lan tỏa (bảo tồn), thoát vị khu trú mới là đích mổ.
 - Thoái hóa Modic bản tận: **Type 1 (T1 tối/T2 sáng = viêm-phù)**, Type 2 (T1 sáng = mỡ), Type 3 (T1+T2 tối = xơ) — **dấu móng vuốt (claw sign: viền Modic 1 ôm đĩa thoái hóa = thoái hóa, không phải viêm!**; viêm thật phá bản tận 2 bên + đĩa sáng như dịch).
+
+![Thoát vị đĩa đệm thắt lưng lớn trên T2 sagittal](images/220_ong-song_MRI_PMC12854390-Fig1-sagittal-disc-extrusion-CES-CCBY.jpg)
+*T2 sagittal: **thoát vị đĩa trung tâm lớn L5–S1 di trú theo trục thân sống (mũi tên vàng)**, chèn ép nặng chùm đuôi ngựa + hai rễ S1 — điển hình thoát vị di trú (sequestration). Nguồn: Alshanqity M et al., Cureus 2025 (PMC12854390) Fig 1, CC BY 4.0.*
 
 ## 2. Gamut đau lưng + yếu chân (Gamut)
 
@@ -35,6 +38,14 @@ certainty: tong-hop-y-van
 | Schwannoma/meningioma | **Nong khoang dưới nhện hình chén + ngấm đồng nhất** | **Meniscus + trong màng-ngoài tủy** | Phình tủy → nội tủy | Mổ bóc, giữ tủy |
 | Viêm tủy cắt ngang | **Tăng T2 ≥ 3 đốt + phù tủy + ngấm loang (LETM)** | **LETM + AQP4/MOG** | Khối ngấm đặc + phình khu trú → ependymoma | Corticoid + thay huyết tương |
 | CES (cấp cứu) | **Đĩa lớn giữa + túi bẹt + tê yên ngựa + bí tiểu** | **Yên ngựa + bí tiểu = mổ < 24–48 giờ** | Đau rễ đơn thuần → bảo tồn | MRI tối khẩn + mổ giải ép |
+
+![Thoát vị đĩa lớn: T2 sagittal vs T2 axial](images/composite_disc-extrusion-sagittal-vs-axial.jpg)
+*Trái: T2 sagittal — **thoát vị đĩa trung tâm lớn L5–S1 di trú** (mũi tên), chèn ép chùm đuôi ngựa. Phải: T2 axial — **đĩa lồi ra sau (protrusion) làm hẹp nặng ống sống + hẹp hai ngách bên (recess stenosis)**. Nguồn: Alshanqity M et al., Cureus 2025 (PMC12854390) Fig 1 & 2, CC BY 4.0. Ảnh ghép letterbox, giữ tỉ lệ.*
+
+**Khoang trong màng–ngoài tủy — schwannoma hình quả tạ (dumbbell):**
+
+![Schwannoma hình quả tạ tầng L1 trên MRI](images/220_ong-song_MRI_PMC13138916-Fig1-dumbbell-schwannoma-CCBY.jpg)
+*MRI có cản quang (A sagittal) + PET/CT: **khối lớn ngấm thuốc không đồng nhất ở L1, hình quả tạ qua lỗ liên hợp (dumbbell)** — dấu hiệu kinh điển của schwannoma thần kinh ngoại biên. Nguồn: Jiang C et al., Front Med 2026 (PMC13138916) Fig 1, CC BY 4.0.*
 
 ## 4. Protocol MRI cột sống
 
@@ -58,30 +69,48 @@ flowchart TD
 
 ## 6. Tự lượng giá — Blind Quiz
 
-**Ca 1 — Đau rễ L5 trái + tê mu bàn chân, MRI extrusion cạnh bên L4–L5:** mổ hay bảo tồn? *(Bảng mục 3.)*
+**Ca 1 — Bệnh nhân nữ, đau lưng cấp + đau rễ hai bên chân, tê vùng yên ngựa, bí tiểu. T2 sagittal. Mô tả trước khi mở đáp án.**
+
+![Ca 1 — T2 sagittal thoát vị đĩa lớn L5–S1](images/220_ong-song_MRI_PMC12854390-Fig1-sagittal-disc-extrusion-CES-CCBY.jpg)
+
+- Hỏi: Dấu hiệu ở đĩa L5–S1? Chèn ép gì? Chẩn đoán + giờ mổ?
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
-- **Bảo tồn trước (NSAID + vật lý trị liệu):** extrusion cạnh bên đơn rễ, chưa liệt/CES — mổ khi liệt tiến triển/thất bại 6–8 tuần.
+- **Thoát vị đĩa trung tâm lớn L5–S1, di trú theo trục (sequestration)** (mũi tên vàng) → **chùm đuôi ngựa + hai rễ S1 chèn ép nặng**. Lâm sàng **tê yên ngựa + bí tiểu = hội chứng chùm đuôi ngựa (CES)**.
+- **Xử trí: MRI tối khẩn + mổ giải ép < 24–48 giờ** (không bảo tồn như đau rễ đơn thuần).
+- Nguồn ảnh: Alshanqity M et al., Cureus 2025 (PMC12854390), Fig 1, CC BY 4.0.
 </details>
 
-**Ca 2 — Tê yên ngựa + bí tiểu + đĩa giữa L5–S1 lớn:** chẩn đoán + giờ mổ? *(Bảng mục 3.)*
+**Ca 2 — Cùng bệnh nhân, lát T2 axial qua đĩa L5–S1. Ống sống bị gì?**
+
+![Ca 2 — T2 axial hẹp ống sống do đĩa](images/220_ong-song_MRI_PMC12854390-Fig2-axial-disc-protrusion-CES-CCBY.jpg)
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
-- **Hội chứng chùm đuôi ngựa (CES):** MRI tối khẩn + mổ giải ép < 24–48 giờ.
+- **Đĩa lồi ra sau (posterior disc protrusion)** (mũi tên vàng) làm **hẹp nặng ống sống + hẹp hai ngách bên (recess stenosis)** — giải thích chèn ép hai rễ. Đối chiếu sagittal (Ca 1): thoát vị di trú theo trục.
+- Lưu ý danh pháp NASS: **lồi (bulge) > 25% chu vi** là thoái hóa lan tỏa; **thoát vị khu trú** mới là đích mổ.
+- Nguồn ảnh: Alshanqity M et al., Cureus 2025 (PMC12854390), Fig 2, CC BY 4.0.
 </details>
 
-**Ca 3 — Tăng T2 tủy ngực dài 4 đốt + AQP4 (+):** u hay viêm? Thuốc gì? *(Bảng mục 3.)*
+**Ca 3 — Bệnh nhân nữ lớn tuổi, đau lưng + yếu chân tiến triển. MRI có cản quang tầng L1: khối cạnh đường giữa.**
+
+![Ca 3 — MRI schwannoma hình quả tạ](images/220_ong-song_MRI_PMC13138916-Fig1-dumbbell-schwannoma-CCBY.jpg)
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
-- **Viêm tủy NMOSD (LETM):** corticoid + thay huyết tương + rituximab (không mổ như ependymoma).
+- **Schwannoma hình quả tạ (dumbbell) tầng L1**: khối **trong màng–ngoài tủy**, ngấm thuốc không đồng nhất, **lan qua lỗ liên hợp** (dấu quả tạ). Vị trí trong màng–ngoài tủy → nghĩ **schwannoma/meningioma** (nong khoang dưới nhện hình chén = meniscus) thay vì khối nội tủy (phình tủy).
+- Xử trí: **mổ bóc, giữ tủy**; đối chiếu u nội tủy (ependymoma) và viêm tủy cắt ngang — nối [215].
+- Nguồn ảnh: Jiang C et al., Front Med 2026 (PMC13138916), Fig 1, CC BY 4.0.
 </details>
 
 ## Bài liên quan chéo
 - [200 – Tổng quan Thần kinh](../200-tong-quan-he-than-kinh/lesson.md)
 - [215 – Mất myelin](../215-mat-myelin/lesson.md) (LETM, AQP4)
 - [221 – Chấn thương cột sống](../221-chan-thuong-cot-song/lesson.md) (trục + cột Denis)
+
+## Ảnh
+- Tên file: `NNN_slug_Modality_SourceID.jpg`. Chi tiết nguồn + giấy phép từng ảnh: `images/CREDITS.md` và `sources.md`.
+- Ảnh nguồn **CC BY 4.0** (ghi nguồn đầy đủ); ảnh ghép đối chiếu tạo bằng `tools/make_composite.py` (letterbox, không crop/kéo giãn).
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
