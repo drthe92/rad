@@ -35,6 +35,12 @@ certainty: tong-hop-y-van
 | TZ (T2W) 1–2 | Vỏ bao hoàn toàn/gần hoàn toàn | **DWI ≥ 4 → 3, còn lại 1–2** | Vỏ bao = BPH |
 | TZ T2W 3–5 | Mờ-không vỏ / than chì </≥ 1,5 cm | **3 / 4 / 5 theo DWI + mm** | — |
 
+![PZ trái PI-RADS 4 — bộ chuỗi mpMRI](images/158_PZ-PIRADS4_MRI_PMC13046944-Fig1-CCBY.jpg)
+*PZ (ngoại vi) trái, PI-RADS 4: (a) T2-TSE, (b) DWI b1400 sáng, (c) ADC tối, (d) DCE; (e–h) sau 16 tháng tổn thương nhỏ/giảm độ rõ (PRECISE 2), mô bệnh ISUP 1 + viêm hoạt động. Nguồn: Insights into Imaging 2026 Fig. 1 (PMC13046944), CC BY 4.0.*
+
+![TZ phải PI-RADS 4 — dấu "than chì bị xóa"](images/158_TZ-PIRADS4_MRI_PMC13263862-Fig1-CCBYNCND.jpg)
+*TZ (chuyển tiếp) phải, PI-RADS 4: (A) T2 ovoid giảm tín hiệu trung bình, bờ không rõ, ~1,4 cm; (B) T2 vành; (C) T1 đồng tín hiệu; (D) DWI b1400 sáng; (E) ADC tối; (F) DCE ngấm sớm. T2WI 4 + DWI 4 → PI-RADS 4 bất kể DCE. Nguồn: Transl Androl Urol 2026 Fig. 1 (PMC13263862), CC BY-NC-ND 4.0 (giữ nguyên bản, không cắt/ghép).*
+
 ## 4. Protocol mpMRI + flowchart
 
 - T2 đa mặt 3 mm + DWI b ≥ 1.400 + ADC + DCE ≤ 15s; V = AP×Ngang×Dài×0,52; PSAD = PSA/V.
@@ -77,6 +83,19 @@ flowchart TD
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
 - **Bình thường (CZ):** không sinh thiết — bẫy số 1 PI-RADS!
+</details>
+
+**Ca 4 — PZ trái T2 tối + b-high sáng + ADC tối; có bản đồ hai màu theo ADC:**
+
+![Ca 4 — bản đồ hai màu theo ADC](images/158_PZ-ADC-bicolor_MRI_PMC13257200-Fig1-CCBY.jpg)
+
+- Câu hỏi: Vì sao vùng đỏ (ADC < 600 µm²/s) đáng ngờ ung thư có ý nghĩa lâm sàng (csPCa) hơn vùng vàng (ADC < 1000 µm²/s)? PI-RADS mấy?
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- Dấu hiệu: (A) T2 tối, (B) DWI bậc cao sáng, (C) ADC tối, (D) bản đồ hai màu ở PZ trái — **vàng = ADC < 1000 µm²/s**, **đỏ = ADC < 600 µm²/s**.
+- Chẩn đoán: **PI-RADS 4–5** (DWI/ADC chủ đạo ở PZ) — vì ADC càng thấp thì mật độ tế bào càng cao → càng đáng ngờ csPCa; ngưỡng hành động là **ADC < 600 µm²/s (đỏ)**.
+- Nguồn: Cancers 2026 Fig. 1 (PMC13257200), CC BY 4.0.
 </details>
 
 ## Bài liên quan chéo

@@ -23,12 +23,14 @@ certainty: tong-hop-y-van
 | Túi thai trong lòng tử cung chưa thấy tim thai | Tử cung (thai sớm) | Thai sớm bình thường vs. Thai ngừng tiến triển / Sẩy thai sớm (early pregnancy loss) | Chốt thai lưu 100% (tiêu chuẩn SRU): Chiều dài đầu-mông (CRL) ≥ 7 mm không tim thai, HOẶC đường kính trung bình túi thai (MSD) ≥ 25 mm không phôi (dưới ngưỡng này cấm hút thai, hẹn 7–10 ngày!) | `550` |
 | Trễ kinh + β-hCG dương tính + Tử cung trống | Phần phụ (adnexa) | Thai ngoài tử cung (ectopic pregnancy) vs. Nang hoàng thể (corpus luteum) vs. Thai trong tử cung quá sớm | β-hCG vượt ngưỡng phân biệt (≥ 3.500 mIU/mL) + khối cạnh buồng trứng di động tách biệt khỏi buồng trứng (blob/bagel sign) + dịch máu ổ bụng = Thai ngoài tử cung (Vòng lửa Doppler gặp ở cả hoàng thể!) | `550` |
 | Chảy máu 3 tháng cuối & Bất thường bánh nhau | Bánh nhau (placenta) | Nhau tiền đạo (placenta previa), Nhau cài răng lược (PAS: accreta/increta/percreta), Nhau bong non | Cơ tử cung mỏng < 1 mm + hồ máu (lacunae) + dải tối T2W (> 6 mm) + phình lồi bánh nhau trên vết mổ cũ = Nhau cài răng lược (PAS) | `560` |
+| Dị dạng tử cung bẩm sinh & Sẩy thai tái diễn | Tử cung/âm đạo (uterus/vagina) | Tử cung vách ngăn (septate), hai sừng (bicornuate), đôi (didelphys), một sừng (unicornuate), MRKH, HWWS/OHVIRA | **Lõm ngoài > 1 cm (> 50% thành cơ đáy) = hai sừng (KHÔNG mổ)**; **lõm trong ≥ 1 cm + góc < 90° + contour ngoài lồi = vách ngăn (mổ cắt vách)**; < 1 cm = arcuate (biến thể); tắc nửa âm đạo + bất sản thận cùng bên = HWWS | `528` |
 
 ## Bài liên quan chéo
 - [510 – BI-RADS vú](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) *(đã có)*
 - [512 – Vi vôi hóa, biến dạng cấu trúc & túi ngực](../512-vi-voi-hoa-tui-nguc-bien-dang/lesson.md) *(đã có)*
 - [520 – Tử cung: xơ/FIGO/adenomyosis](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md) *(đã có)*
 - [525 – Ung thư nội mạc & cổ tử cung: FIGO trên MRI](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) *(đã có)*
+- [528 – Dị dạng tử cung bẩm sinh: vách ngăn vs hai sừng (ESHRE/ESGE & ASRM)](../528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md) *(đã có)*
 - [530 – Phần phụ O-RADS](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md) *(đã có)*
 - [540 – DIE & PID](../540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) *(đã có)*
 - [550 – Thai sớm & ngoài tử cung](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) *(đã có)*
@@ -45,7 +47,7 @@ certainty: tong-hop-y-van
 **520–529 — Tử cung & Cổ tử cung (Uterus & Cervix)**
 - 520 – U xơ cơ tử cung (Phân loại FIGO 0–8), Lạc nội mạc trong cơ (Adenomyosis) & Tiếp cận dày nội mạc tử cung *(đã có — [bài học](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md))*
 - 525 – Phân giai đoạn FIGO trên MRI cho Ung thư nội mạc tử cung (xâm lấn < 50% vs. ≥ 50% cơ) & Ung thư cổ tử cung (xâm lấn chu cung *parametrium*) *(đã có — [bài học](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md))*
-- 528 – Dị dạng tử cung bẩm sinh (Phân loại ESHRE/ESGE & ASRM trên MRI/Siêu âm 3D: Tử cung có vách ngăn vs. Tử cung hai sừng — góc đáy ngoài < 1 cm vs. > 1 cm) *(dự kiến)*
+- 528 – Dị dạng tử cung bẩm sinh (Phân loại ESHRE/ESGE & ASRM trên MRI/Siêu âm 3D: Tử cung có vách ngăn vs. Tử cung hai sừng — góc đáy ngoài < 1 cm vs. > 1 cm) *(đã có — [bài học](../528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md))*
 
 **530–539 — Buồng trứng & Phần phụ (Ovary & Adnexa)**
 - 530 – Khối u phần phụ: Hệ thống phân độ ACR O-RADS (Siêu âm v2022 & MRI) và Cấp cứu Xoắn buồng trứng *(đã có — [bài học](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md))*

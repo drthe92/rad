@@ -149,6 +149,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 512 | [Vôi hóa/biến dạng/túi ngực](512-vi-voi-hoa-tui-nguc-bien-dang/lesson.md) | `pattern:vi-voi-hoa` `pattern:bien-dang-cau-truc` `pattern:tui-nguc` `vung:vu` `protocol:MRI-vu` |
 | 520 | [Tử cung FIGO](520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md) | `score:FIGO` |
 | 525 | [K nội mạc/cổ tử cung FIGO MRI](525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) | `pattern:u-noi-mac` `pattern:xam-lan-co` `vung:tu-cung` `score:FIGO` `protocol:MRI-tieu-khung` |
+| 528 | [Dị dạng tử cung bẩm sinh](528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md) | `pattern:di-dang-tu-cung` `vung:tu-cung` `score:ESHRE-ESGE` `score:ASRM` `protocol:MRI-tu-cung` `protocol:3D-TVUS` |
 | 530 | [Phần phụ O-RADS](530-buong-trung-ORADS-sieu-am-MRI/lesson.md) | `score:O-RADS` |
 | 540 | [DIE Enzian](540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) | `score:Enzian` |
 | 550 | [Thai sớm SRU](550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) | `score:SRU` |
