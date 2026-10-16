@@ -15,8 +15,8 @@
 | 4 | 433 | Phù đĩa thị vs drusen đĩa: Frisén + IIH | Tránh chọc dịch oan + bỏ sót u, nối 430 | xong (2026-10-16, 5 ảnh CC BY/BY-NC + composite phù-vs-drusen, RNFL 155–550) |
 | 0 | (27 bài text-only, liệt kê dưới) | Backfill ảnh: ưu tiên Radiopaedia từng case (CC BY-NC-SA) + vẽ CC0, mỗi lượt worker dành ≥1 slot | `chờ viết` (xuyên suốt; 2026-10-16: xong 441 — 3 ảnh CC BY + composite DME-vs-nAMD, còn ~26) |
 | 5 | 612 | Cấp cứu đường thở trẻ em: Croup (steeple) vs viêm nắp thanh quản (thumb) vs dị vật | Cấp cứu nhi tối khẩn, thi cử kinh điển, chưa có bài nào | xong (2026-10-16, 4 ảnh CC BY/BY-NC + composite) |
-| 6 | 525 | K nội mạc/cổ tử cung: FIGO MRI (<50% vs ≥50% cơ, parametrium) | Quyết định mổ/xạ, nối tiếp bài 520 | chờ viết |
-| 7 | 512 | Vú: vi vôi hóa, biến dạng cấu trúc, túi ngực (linguine/snowstorm) | Hoàn thiện cụm BI-RADS sau bài 510 | chờ viết |
+| 6 | 525 | K nội mạc/cổ tử cung: FIGO MRI (<50% vs ≥50% cơ, parametrium) | Quyết định mổ/xạ, nối tiếp bài 520 | xong (2026-10-16, 5 ảnh CC BY Cureus + 2 composite, DWI/DCE 90,3% vs T2W 64,5%, chu cung 88,24%) |
+| 7 | 512 | Vú: vi vôi hóa, biến dạng cấu trúc, túi ngực (linguine/snowstorm) | Hoàn thiện cụm BI-RADS sau bài 510 | xong (2026-10-16, 6 ảnh CC BY Insights/Dx + composite MRI-vs-CT, AD nâng cấp B3 28,6%/ác 14,3%, MRI túi Se 80–90%) |
 | 8 | 622 | Tắc ruột sơ sinh: double-bubble, microcolon, Hirschsprung (<1) | Cấp cứu sơ sinh, nối tiếp bài 620 | chờ viết |
 | 9 | 159 | Bàng quang: VI-RADS + u đường niệu trên | Lỗ hổng GU duy nhất còn lại (đã có 150/152/155/158) | chờ viết |
 | 10 | 635 | Tiết niệu nhi: SFU 1–4, VUR I–V, PUV keyhole | Hay gặp + quyết định mổ, nối tiếp bài 640 | chờ viết |
@@ -34,6 +34,9 @@
 | 22 | 434 | Bệnh TK thị do độc/chuyển hóa + LHON: DDx teo thị 2 bên | Hay bỏ sót (rượu/thuốc lá, B12, ethambutol), nối 430/433 | chờ viết |
 | 23 | 452 | Hoại tử võng mạc cấp (ARN) & CMV retinitis | Cấp cứu mù nhanh ở BN suy giảm miễn dịch; cụm 450–459 còn thiếu | chờ viết |
 | 24 | 453 | Bệnh võng mạc tăng huyết áp & thiếu máu | Hay gặp, phân độ Keith-Wagener; nối 451 (bệnh hệ thống) | chờ viết |
+| 25 | 514 | Ung thư vú: giai đoạn TNM + MRI đánh giá lan rộng (multifocal/đa ổ) | Quyết định bảo tồn vs đoạn nhũ; nối 510/512 | chờ viết |
+| 26 | 572 | Hạch trong ung thư phụ khoa: sentinel node, hạch chậu/cạnh ĐMC, PET-CT | Nâng/giảm giai đoạn, quyết định xạ; nối 525 (MRI hạch chỉ 56,25%) | chờ viết |
+| 27 | 526 | Sarcoma tử cung & carcinosarcoma vs leiomyoma trên MRI | Dễ bỏ sót sau "u xơ"; nối 520/525 | chờ viết |
 
 ## Nhật ký vòng lặp
 - 2026-10-16: khởi tạo file + gắn lịch cron tự động (6 giờ/lần, tối đa 2 bài/lượt).
@@ -43,3 +46,4 @@
 - 2026-10-16: viết 444 (tắc mạch: BRVO CC BY + cherry-red BY-SA + ca CRVO Cureus CC BY, CMT 823→275) + 445 (bong: RRD/B-scan/buckle BY-SA + TRD/TRRD CC BY PMC13326397 + sơ đồ PVD) + 433 (phù đĩa/drusen: fundus CC BY + OCT Pract Neurol BY-NC + ODD EDI-OCT CC BY, RNFL 155–550).
 - 2026-10-16: viết 446 (ca nguyên văn Simaku Cureus CC BY: uveitic CME vs DME, 4 ảnh OCT theo mốc điều trị + ảnh DME đối chiếu + composite, CFT 487/640→243/278); append 447 (white dot syndromes), 449 (chấn thương mắt/IOFB), 448 (u hắc mạc) — khoảng trống cụm mắt.
 - 2026-10-16: sửa lỗi lồng card index.html (432/433/441–446) → 138 card con trực tiếp; viết tiếp 447 (đốm trắng: 4 ảnh BY-NC-SA + composite MEWDS-vs-serpiginous) + 449 (chấn thương mắt/IOFB: 4 ảnh CC BY/BY-NC-ND + composite, OTS I–V, 5 dấu CT) + 448 (u hắc mạc: CC0 US + đa phương thức CC BY + composite, T1 sáng melanin) → 141 bài; append 434 (TK thị độc/chuyển hóa), 452 (ARN/CMV retinitis), 453 (bệnh võng mạc THA).
+- 2026-10-16: viết 525 (K nội mạc/cổ tử cung FIGO MRI: 5 ảnh CC BY Cureus + 2 composite nông-vs-sâu và chu cung; DWI/DCE 90,3% vs T2W 64,5%; chu cung Se 88,24%, hạch 56,25%; bảng FIGO 2023) + 512 (vú: vi vôi hóa/biến dạng cấu trúc/túi ngực: 6 ảnh CC BY Insights+Dx + composite MRI-vs-CT; linguine/snowstorm/railroad-track; AD nâng cấp B3 28,6%/ác 14,3%; MRI túi Se 80–90%/Sp 90–97%) → 143 bài; index 143 card; flip #6/#7; append 514/572/526. Slot backfill #0 dồn lượt sau (2 bài đều giàu ảnh CC BY).

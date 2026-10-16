@@ -26,7 +26,9 @@ certainty: tong-hop-y-van
 
 ## Bài liên quan chéo
 - [510 – BI-RADS vú](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) *(đã có)*
+- [512 – Vi vôi hóa, biến dạng cấu trúc & túi ngực](../512-vi-voi-hoa-tui-nguc-bien-dang/lesson.md) *(đã có)*
 - [520 – Tử cung: xơ/FIGO/adenomyosis](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md) *(đã có)*
+- [525 – Ung thư nội mạc & cổ tử cung: FIGO trên MRI](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) *(đã có)*
 - [530 – Phần phụ O-RADS](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md) *(đã có)*
 - [540 – DIE & PID](../540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) *(đã có)*
 - [550 – Thai sớm & ngoài tử cung](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) *(đã có)*
@@ -38,11 +40,11 @@ certainty: tong-hop-y-van
 **500–519 — Tổng quan & Chẩn đoán hình ảnh Tuyến Vú (Breast Imaging)**
 - **500** – Tổng quan Hệ Vú & Sản Phụ khoa / Breast & OB/GYN overview *(bài này)*
 - 510 – Hệ thống phân độ ACR BI-RADS trên Nhũ ảnh (Mammography), Siêu âm & MRI vú *(đã có — [bài học](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md))*
-- 512 – Tiếp cận Vi vôi hóa vú, Biến dạng cấu trúc (Architectural distortion) & Đánh giá túi ngực (vỡ trong bao — dấu sợi mì *linguine sign* vs. vỡ ngoài bao — *snowstorm*) *(dự kiến)*
+- 512 – Tiếp cận Vi vôi hóa vú, Biến dạng cấu trúc (Architectural distortion) & Đánh giá túi ngực (vỡ trong bao — dấu sợi mì *linguine sign* vs. vỡ ngoài bao — *snowstorm*) *(đã có — [bài học](../512-vi-voi-hoa-tui-nguc-bien-dang/lesson.md))*
 
 **520–529 — Tử cung & Cổ tử cung (Uterus & Cervix)**
 - 520 – U xơ cơ tử cung (Phân loại FIGO 0–8), Lạc nội mạc trong cơ (Adenomyosis) & Tiếp cận dày nội mạc tử cung *(đã có — [bài học](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md))*
-- 525 – Phân giai đoạn FIGO trên MRI cho Ung thư nội mạc tử cung (xâm lấn < 50% vs. ≥ 50% cơ) & Ung thư cổ tử cung (xâm lấn chu cung *parametrium*) *(dự kiến)*
+- 525 – Phân giai đoạn FIGO trên MRI cho Ung thư nội mạc tử cung (xâm lấn < 50% vs. ≥ 50% cơ) & Ung thư cổ tử cung (xâm lấn chu cung *parametrium*) *(đã có — [bài học](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md))*
 - 528 – Dị dạng tử cung bẩm sinh (Phân loại ESHRE/ESGE & ASRM trên MRI/Siêu âm 3D: Tử cung có vách ngăn vs. Tử cung hai sừng — góc đáy ngoài < 1 cm vs. > 1 cm) *(dự kiến)*
 
 **530–539 — Buồng trứng & Phần phụ (Ovary & Adnexa)**
