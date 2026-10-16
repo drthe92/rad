@@ -35,6 +35,7 @@ certainty: tong-hop-y-van
 | Chấn thương mắt | Nhãn cầu–hốc mắt | Vỡ nhãn cầu, IOFB | Mắt xẹp + XH dịch kính; OTS | [449](../449-chan-thuong-mat-dich-vat/lesson.md) |
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
 | Võng mạc ĐTĐ | Võng mạc (retina) | NPDR/PDR, DME | 4-2-1; CST ≥ 300 µm; PRP 1200–1600 | [443](../443-vong-mac-dai-thao-duong/lesson.md) |
+| Tân mạch võng mạc trẻ sinh non | Võng mạc (retina) | ROP (ICROP) | Non tháng ≤ 30 tuần/≤ 1500 g + zone/stage/plus; **AP-ROP = cấp cứu** | [456](../456-benh-vong-mac-tre-sinh-non/lesson.md) |
 | Bệnh võng mạc tăng huyết áp/bệnh máu | Võng mạc (retina) | HTR (KWB), thiếu máu, sickle cell, leukemia | Đốm bông + xuất huyết tia + sao hoàng điểm ← HA cao; Roth spot ← thiếu máu | [453](../453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md) |
 | Màng dịch kính | Nhãn cầu (globe) | Bong võng mạc, XH dịch kính, bong hắc mạc | V/Y dính đĩa = võng mạc; aftermovement = máu; T-sign = hắc mạc | [411](../411-sieu-am-nhan-cau/lesson.md) |
 
@@ -66,6 +67,7 @@ certainty: tong-hop-y-van
 - [451 – Hệ thống](../451-he-thong-mat/lesson.md) *(mới)*
 - [452 – Hoại tử võng mạc cấp (ARN) & CMV retinitis](../452-hoai-tu-vong-mac-ARN-CMV/lesson.md) *(mới)*
 - [453 – Bệnh võng mạc do tăng huyết áp & bệnh máu](../453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md) *(mới)*
+- [456 – Bệnh võng mạc trẻ sinh non (ROP)](../456-benh-vong-mac-tre-sinh-non/lesson.md) *(mới)*
 - [460 – Can thiệp](../460-can-thiep-mat/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
@@ -108,6 +110,7 @@ certainty: tong-hop-y-van
 - 451 – Bệnh hệ thống ở mắt *(đã có — [bài học](../451-he-thong-mat/lesson.md))*
 - 452 – Hoại tử võng mạc cấp (ARN) & viêm võng mạc CMV *(đã có — [bài học](../452-hoai-tu-vong-mac-ARN-CMV/lesson.md))*
 - 453 – Bệnh võng mạc do tăng huyết áp & bệnh máu (KWB/Goldberg) *(đã có — [bài học](../453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md))*
+- 456 – Bệnh võng mạc trẻ sinh non (ROP): ICROP zone–stage–plus & AP-ROP *(đã có — [bài học](../456-benh-vong-mac-tre-sinh-non/lesson.md))*
 
 **460–499 — Can thiệp, xạ trị & dự trữ**
 - 460 – Can thiệp + xạ trị *(đã có — [bài học](../460-can-thiep-mat/lesson.md))*

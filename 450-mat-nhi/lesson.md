@@ -40,7 +40,7 @@ certainty: tong-hop-y-van
 ## 4. Protocol
 
 - **Siêu âm + MRI (tránh CT ở trẻ):** vôi hóa (GRE blooming) + lan TK thị/não.
-- Sàng lọc ROP: sinh non theo tuần tuổi + zone/stage + laser/anti-VEGF.
+- Sàng lọc ROP: sinh non theo tuần tuổi + zone/stage + laser/anti-VEGF (chi tiết [bài 456](../456-benh-vong-mac-tre-sinh-non/lesson.md)).
 - Khám mắt gây mê + gene RB1 khi nghi RB/gia đình.
 
 ## 5. Cạm bẫy
@@ -74,5 +74,6 @@ certainty: tong-hop-y-van
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
 - [411 – Siêu âm nhãn cầu](../411-sieu-am-nhan-cau/lesson.md) (B-scan xuất tiết)
 - [412 – U trong nhãn cầu](../412-u-trong-nhan-cau/lesson.md) (RB vôi hóa)
+- [456 – Bệnh võng mạc trẻ sinh non (ROP)](../456-benh-vong-mac-tre-sinh-non/lesson.md) (sàng lọc + ICROP + điều trị)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -12,7 +12,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 001 | [Tổng quan hệ Ngực](001-tong-quan-he-nguc/lesson.md) | Tổng quan, bảng DDx |
 | 010 | [Giải phẫu ngực cắt lớp & biến thể](010-giai-phau-nguc-cat-lop/lesson.md) | `anatomy:nguc` |
 | 020 | [Nốt phổi](020-not-phoi/lesson.md) | `pattern:not` `vung:phoi` `score:Lung-RADS` `protocol:Fleischner` `incidentaloma:not-phoi` |
-| 012 | [Hạch IASLC](012-hach-trung-that/lesson.md) | `pattern:hach` `score:IASLC` |
+| 012 | [Hạch IASLC](012-hach-trung-that/lesson.md) | `pattern:hach` `vung:trung-that` `score:IASLC` `protocol:PET-CT-nguc` |
 | 011 | [Tiểu thùy thứ cấp](011-tieu-thuy-phoi/lesson.md) | `anatomy:phoi` |
 | 015 | [Ống/dây ICU](015-ong-day-ICU/lesson.md) | `pattern:ong-day` `protocol:xq-ICU` |
 | 021 | [Đa nốt phổi](021-da-not-phoi/lesson.md) | `pattern:not-da-o` `vung:phoi` |
@@ -71,6 +71,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 451 | [Hệ thống](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` |
 | 452 | [Hoại tử võng mạc cấp (ARN) & CMV retinitis](452-hoai-tu-vong-mac-ARN-CMV/lesson.md) | `pattern:hoai-tu-vong-mac` `vung:vong-mac` `protocol:PCR-dich-thuy` `protocol:widefield` |
 | 453 | [Bệnh võng mạc do tăng huyết áp & bệnh máu](453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md) | `pattern:benh-vong-mac-tang-huyet-ap` `vung:vong-mac` `score:Keith-Wagener` `score:Goldberg` `protocol:soi-day-mat` |
+| 456 | [Bệnh võng mạc trẻ sinh non (ROP)](456-benh-vong-mac-tre-sinh-non/lesson.md) | `pattern:rop` `vung:vong-mac` `score:ICROP` `protocol:sang-loc-ROP` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
