@@ -17,6 +17,7 @@ certainty: tong-hop-y-van
 |---|---|---|---|---|
 | Suy hô hấp sơ sinh (Neonatal respiratory distress) | Phổi sơ sinh (neonatal lung) | Bệnh màng trong (RDS), Thở nhanh thoáng qua (TTN), Hít phân su (MAS), Thoát vị hoành bẩm sinh (CDH) | Sinh non + phổi xẹp thể tích thấp + hạt kính mờ = RDS; Đủ tháng mổ đẻ + phổi ứ khí + dịch rãnh liên thùy tan sau 48–72h = TTN; Quai ruột trên ngực trái đẩy trung thất = CDH (cấm bóp bóng qua mask!) | `610` |
 | Tổn thương phổi bẩm sinh dạng nang / khối | Phổi trẻ em | Dị dạng đường thở phổi bẩm sinh (CPAM), Phổi biệt lập (sequestration), Khí phế thũng thùy bẩm sinh (CLE) | Nhiều nang chứa khí/dịch thông cây phế quản = CPAM; Khối đặc đáy phổi trái có nhánh ĐM nuôi tách trực tiếp từ ĐMC = Phổi biệt lập; Thùy trên trái căng khí đè xẹp phổi lành = CLE | `610`, `612` |
+| Viêm phổi ở trẻ em (round pneumonia / virus vs vi khuẩn / hít dầu hỏa) | Phổi (lung) | Viêm phổi tròn (Round pneumonia — *S. pneumoniae*), Viêm phổi virus (RSV...), Viêm phổi hóa chất do hydrocarbon | **< 8 tuổi + sốt/ho + WBC–CRP tăng + đông đặc tròn KHÔNG mức khí–dịch = Round pneumonia** (kháng sinh + X-quang lại sau 3–4 tuần); Mờ hai bên + ứ khí ở nhũ nhi = virus; Mờ hai đáy sau hít dầu hỏa + **CẤM gây nôn** = hydrocarbon | `615` |
 | Nôn ở trẻ sơ sinh & nhũ nhi (Infantile vomiting) | Dạ dày – Tá tràng | Hẹp phì đại môn vị (HPS), Ruột quay dở dang có xoắn ruột (malrotation with volvulus), Teo tá tràng (duodenal atresia) | Nôn vọt không mật + cơ môn vị dày ≥ 3 mm và dài ≥ 15 mm = HPS; Nôn dịch mật xanh + SMV nằm bên trái SMA + dấu xoáy nước (whirlpool) = Xoắn ruột (mổ tối khẩn!); Bóng đôi (double-bubble) không có khí ruột xa = Teo tá tràng | `620` |
 | Cấp cứu ống tiêu hóa trẻ nhỏ & Sơ sinh | Ruột non – Đại tràng | Lồng ruột (intussusception), Viêm ruột hoại tử sơ sinh (NEC) | Khối hình bia bắn (target/donut) đường kính ≥ 2,5 cm ở hạ sườn phải = Lồng ruột hồi-manh tràng; Sinh non + khí trong thành ruột (pneumatosis) + khí tĩnh mạch cửa = NEC | `620`, `622` |
 | Vàng da ứ mật sơ sinh kéo dài > 2 tuần | Đường mật (biliary tree) | Teo đường mật bẩm sinh (biliary atresia) vs. Viêm gan sơ sinh (neonatal hepatitis) vs. Nang ống mật chủ | Dấu thừng tam giác (triangular cord sign) dày ≥ 4 mm trước chạc ba TM cửa + túi mật teo < 15–19 mm không co bóp sau bú = Teo đường mật (mổ Kasai trước 60 ngày tuổi!) | `625` |
@@ -27,6 +28,8 @@ certainty: tong-hop-y-van
 
 ## Bài liên quan chéo
 - [610 – Suy hô hấp sơ sinh](../610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md) *(đã có)*
+- [612 – Cấp cứu đường thở trên trẻ em](../612-cap-cuu-duong-tho-tren-tre-em/lesson.md) *(đã có)*
+- [615 – Viêm phổi nhi: round pneumonia, virus vs vi khuẩn & hít sặc dầu hỏa](../615-viem-phoi-nhi-round-pneumonia/lesson.md) *(đã có)*
 - [620 – Cấp cứu tiêu hóa nhi](../620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md) *(đã có)*
 - [622 – Tắc ruột sơ sinh](../622-tac-ruot-so-sinh/lesson.md) *(đã có)*
 - [625 – Vàng da tắc mật](../625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md) *(đã có)*
@@ -44,6 +47,7 @@ certainty: tong-hop-y-van
 - **600** – Tổng quan Hệ Nhi khoa / Pediatric radiology overview *(bài này)*
 - 610 – Suy hô hấp sơ sinh (RDS, TTN, MAS, Thoát vị hoành CDH) & Dị dạng phổi bẩm sinh (CPAM vs. Phổi biệt lập vs. CLE) *(đã có — [bài học](../610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md))*
 - 612 – Cấp cứu đường thở trên ở trẻ em: Viêm thanh khí phế quản cấp (Croup — dấu tháp chuông *steeple sign*) vs. Viêm nắp thanh quản cấp (dấu ngón tay cái *thumb sign*), Áp-xe thành sau họng & Dị vật đường thở (bẫy khí 1 bên trên phim thở ra/nằm nghiêng) *(đã có — [bài học](../612-cap-cuu-duong-tho-tren-tre-em/lesson.md))*
+- 615 – Viêm phổi ở trẻ em: Viêm phổi tròn (Round pneumonia — *S. pneumoniae*, < 8 tuổi), Viêm phổi virus vs vi khuẩn & Viêm phổi hóa chất do hít sặc dầu hỏa (hydrocarbon) *(đã có — [bài học](../615-viem-phoi-nhi-round-pneumonia/lesson.md))*
 
 **620–629 — Ống tiêu hóa & Gan mật Nhi khoa**
 - 620 – Cấp cứu ống tiêu hóa sơ sinh & nhũ nhi: Hẹp phì đại môn vị (HPS), Ruột quay dở dang – Xoắn ruột, Lồng ruột & Viêm ruột hoại tử (NEC) *(đã có — [bài học](../620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md))*

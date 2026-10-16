@@ -78,7 +78,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 110 | [Giải phẫu bụng cắt lớp](110-giai-phau-bung/lesson.md) | `anatomy:bung` |
 | 101 | [Protocol đa thì](101-protocol-bung/lesson.md) | `protocol:CT-MRI-bung` |
 | 115 | [Khí tự do](115-khi-tu-do/lesson.md) | `pattern:khi-tu-do` |
-| 120 | [Khối gan nền](120-khoi-gan-nen/lesson.md) | `pattern:khoi-gan` |
+| 120 | [Khối gan nền lành vs xơ](120-khoi-gan-nen/lesson.md) | `pattern:khoi-gan` `vung:gan` `protocol:MRI-gan-Primovist` `score:LI-RADS` |
 | 122 | [U lành & áp-xe gan](122-u-lanh-gan/lesson.md) | `pattern:u-lanh-gan` |
 | 125 | [Gan mỡ-xơ](125-gan-mo-xo/lesson.md) | `pattern:gan-lan-toa` |
 | 130 | [Túi mật](130-tui-mat/lesson.md) | `pattern:viem-tui-mat` |
@@ -164,6 +164,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 600 | [Tổng quan Nhi](600-tong-quan-nhi-khoa/lesson.md) | Tổng quan, bảng DDx |
 | 610 | [Suy hô hấp sơ sinh](610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md) | `pattern:suy-ho-hap-so-sinh` |
 | 612 | [Cấp cứu đường thở trên trẻ em](612-cap-cuu-duong-tho-tren-tre-em/lesson.md) | `pattern:duong-tho-tre-em` |
+| 615 | [Viêm phổi nhi: round pneumonia, virus vs vi khuẩn & hít sặc dầu hỏa](615-viem-phoi-nhi-round-pneumonia/lesson.md) | `pattern:viem-phoi-nhi` `pattern:round-pneumonia` `pattern:hit-sac-dau-hoa` `vung:phoi` `score:RACOON` `protocol:X-quang-nguc-nhi` |
 | 620 | [Cấp cứu tiêu hóa nhi](620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md) | `pattern:non-nhu-nhi` |
 | 622 | [Tắc ruột sơ sinh](622-tac-ruot-so-sinh/lesson.md) | `pattern:tac-ruot-so-sinh` `pattern:double-bubble` `pattern:microcolon` `vung:bung-nhi` `score:Neuhauser` `protocol:XR-contrast-enema` |
 | 625 | [Teo đường mật](625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md) | `pattern:vang-da-so-sinh` |
