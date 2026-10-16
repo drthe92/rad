@@ -39,7 +39,7 @@ certainty: tong-hop-y-van
 **600–619 — Tổng quan, Lồng ngực & Đường thở Nhi khoa**
 - **600** – Tổng quan Hệ Nhi khoa / Pediatric radiology overview *(bài này)*
 - 610 – Suy hô hấp sơ sinh (RDS, TTN, MAS, Thoát vị hoành CDH) & Dị dạng phổi bẩm sinh (CPAM vs. Phổi biệt lập vs. CLE) *(đã có — [bài học](../610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md))*
-- 612 – Cấp cứu đường thở trên ở trẻ em: Viêm thanh khí phế quản cấp (Croup — dấu tháp chuông *steeple sign*) vs. Viêm nắp thanh quản cấp (dấu ngón tay cái *thumb sign*), Áp-xe thành sau họng & Dị vật đường thở (bẫy khí 1 bên trên phim thở ra/nằm nghiêng) *(dự kiến)*
+- 612 – Cấp cứu đường thở trên ở trẻ em: Viêm thanh khí phế quản cấp (Croup — dấu tháp chuông *steeple sign*) vs. Viêm nắp thanh quản cấp (dấu ngón tay cái *thumb sign*), Áp-xe thành sau họng & Dị vật đường thở (bẫy khí 1 bên trên phim thở ra/nằm nghiêng) *(đã có — [bài học](../612-cap-cuu-duong-tho-tren-tre-em/lesson.md))*
 
 **620–629 — Ống tiêu hóa & Gan mật Nhi khoa**
 - 620 – Cấp cứu ống tiêu hóa sơ sinh & nhũ nhi: Hẹp phì đại môn vị (HPS), Ruột quay dở dang – Xoắn ruột, Lồng ruột & Viêm ruột hoại tử (NEC) *(đã có — [bài học](../620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md))*

@@ -148,6 +148,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 |---|---|---|
 | 600 | [Tổng quan Nhi](600-tong-quan-nhi-khoa/lesson.md) | Tổng quan, bảng DDx |
 | 610 | [Suy hô hấp sơ sinh](610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md) | `pattern:suy-ho-hap-so-sinh` |
+| 612 | [Cấp cứu đường thở trên trẻ em](612-cap-cuu-duong-tho-tren-tre-em/lesson.md) | `pattern:duong-tho-tre-em` |
 | 620 | [Cấp cứu tiêu hóa nhi](620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md) | `pattern:non-nhu-nhi` |
 | 625 | [Teo đường mật](625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md) | `pattern:vang-da-so-sinh` |
 | 630 | [U bụng nhi](630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md) | `pattern:khoi-bung-nhi` |

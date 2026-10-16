@@ -10,7 +10,7 @@
 | # | ID đề xuất | Chủ đề | Vì sao quan trọng nhất | Trạng thái |
 |---|---|---|---|---|
 | 0 | (27 bài text-only, liệt kê dưới) | Backfill ảnh: ưu tiên Radiopaedia từng case (CC BY-NC-SA) + vẽ CC0, mỗi lượt worker dành ≥1 slot | `chờ viết` (xuyên suốt) |
-| 1 | 612 | Cấp cứu đường thở trẻ em: Croup (steeple) vs viêm nắp thanh quản (thumb) vs dị vật | Cấp cứu nhi tối khẩn, thi cử kinh điển, chưa có bài nào | chờ viết |
+| 1 | 612 | Cấp cứu đường thở trẻ em: Croup (steeple) vs viêm nắp thanh quản (thumb) vs dị vật | Cấp cứu nhi tối khẩn, thi cử kinh điển, chưa có bài nào | xong (2026-10-16, 4 ảnh CC BY/BY-NC + composite) |
 | 2 | 525 | K nội mạc/cổ tử cung: FIGO MRI (<50% vs ≥50% cơ, parametrium) | Quyết định mổ/xạ, nối tiếp bài 520 | chờ viết |
 | 3 | 512 | Vú: vi vôi hóa, biến dạng cấu trúc, túi ngực (linguine/snowstorm) | Hoàn thiện cụm BI-RADS sau bài 510 | chờ viết |
 | 4 | 622 | Tắc ruột sơ sinh: double-bubble, microcolon, Hirschsprung (<1) | Cấp cứu sơ sinh, nối tiếp bài 620 | chờ viết |
@@ -22,6 +22,9 @@
 | 10 | 565 | Hình thái thai + Doppler (rốn/MCA/ống TM) | Sản khoa còn thiếu sau bài 550/560 | chờ viết |
 | 11 | 151 | U thận đặc: RCC vs oncocytoma vs AML (mỡ −10 HU) | Bosniak (150) chỉ phủ nang, thiếu u đặc | chờ viết |
 | 12 | 545 | Sàn chậu MR defecography (PCL/HMO) | Ít gặp hơn, ưu tiên thấp | chờ viết |
+| 13 | 615 | Viêm phổi nhi: round pneumonia, virus vs vi khuẩn, hít sặc dầu hỏa | Hay gặp + dễ kháng sinh mù; nối tiếp 610/612 (phổi nhi còn thiếu mảng nhiễm trùng) | chờ viết |
 
 ## Nhật ký vòng lặp
 - 2026-10-16: khởi tạo file + gắn lịch cron tự động (6 giờ/lần, tối đa 2 bài/lượt).
+- 2026-10-16: lịch chuyển 1 giờ/lần + luật ảnh Radiopaedia-từng-case/CC0 + mục #0 backfill 27 bài text-only.
+- 2026-10-16: viết 612 (cấp cứu đường thở nhi, 4 ảnh CC BY/BY-NC + composite dịch-vs-áp-xe, link chéo 730); append 615 (viêm phổi nhi — khoảng trống mới). Slot backfill #0 dồn lượt sau.
