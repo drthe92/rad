@@ -17,8 +17,8 @@
 | 5 | 612 | Cấp cứu đường thở trẻ em: Croup (steeple) vs viêm nắp thanh quản (thumb) vs dị vật | Cấp cứu nhi tối khẩn, thi cử kinh điển, chưa có bài nào | xong (2026-10-16, 4 ảnh CC BY/BY-NC + composite) |
 | 6 | 525 | K nội mạc/cổ tử cung: FIGO MRI (<50% vs ≥50% cơ, parametrium) | Quyết định mổ/xạ, nối tiếp bài 520 | xong (2026-10-16, 5 ảnh CC BY Cureus + 2 composite, DWI/DCE 90,3% vs T2W 64,5%, chu cung 88,24%) |
 | 7 | 512 | Vú: vi vôi hóa, biến dạng cấu trúc, túi ngực (linguine/snowstorm) | Hoàn thiện cụm BI-RADS sau bài 510 | xong (2026-10-16, 6 ảnh CC BY Insights/Dx + composite MRI-vs-CT, AD nâng cấp B3 28,6%/ác 14,3%, MRI túi Se 80–90%) |
-| 8 | 622 | Tắc ruột sơ sinh: double-bubble, microcolon, Hirschsprung (<1) | Cấp cứu sơ sinh, nối tiếp bài 620 | chờ viết |
-| 9 | 159 | Bàng quang: VI-RADS + u đường niệu trên | Lỗ hổng GU duy nhất còn lại (đã có 150/152/155/158) | chờ viết |
+| 8 | 622 | Tắc ruột sơ sinh: double-bubble, microcolon, Hirschsprung (<1) | Cấp cứu sơ sinh, nối tiếp bài 620 | xong (2026-10-16, 8 ảnh Wikimedia/PMC CC BY/BY-SA/BY-NC + 2 composite; double-bubble/microcolon < 1 cm/Neuhauser/rectosigmoid < 1) |
+| 9 | 159 | Bàng quang: VI-RADS + u đường niệu trên | Lỗ hổng GU duy nhất còn lại (đã có 150/152/155/158) | xong (2026-10-16, 6 ảnh CC BY/BY-NC + 2 composite; VI-RADS 1–5, dải cơ T2W, stipple sign UTUC; job bị stop giữa chừng → hoàn thiện thủ công) |
 | 10 | 635 | Tiết niệu nhi: SFU 1–4, VUR I–V, PUV keyhole | Hay gặp + quyết định mổ, nối tiếp bài 640 | chờ viết |
 | 11 | 655 | HIE sơ sinh + Chiari/Dandy-Walker/bất sản thể chai | Não nhi bẩm sinh chưa phủ (đã có 650 u/mầm) | chờ viết |
 | 12 | 528 | Dị dạng tử cung ESHRE/ESGE (vách ngăn vs hai sừng) | Hay nhầm, quyết định mổ nội soi | chờ viết |
@@ -39,6 +39,7 @@
 | 27 | 526 | Sarcoma tử cung & carcinosarcoma vs leiomyoma trên MRI | Dễ bỏ sót sau "u xơ"; nối 520/525 | chờ viết |
 
 ## Nhật ký vòng lặp
+- 2026-10-16 (sự cố chồng lượt): cron 15 phút gây 2 session (22:30 + 22:45) chạy đè. Đã: tắt lịch → dựng lại **cron 30 phút + bước 0 KHÓA `/tmp/opencode/rad-worker.lock`** (worker khác đang chạy thì thoát, xong xóa khóa). Dọn công việc dở: hoàn thiện **159** (job 22:45 bị dừng sau khi tải 8 ảnh, chưa có lesson → tự viết lesson.md + sources + CREDITS), commit **622** + backfill **162** (Ảnh Wikimedia CC BY-SA) + index. Bài học: cron phải dài hơn thời lượng lượt nặng nhất (~52 phút), và luôn cần khóa mutual-exclusion.
 - 2026-10-16: khởi tạo file + gắn lịch cron tự động (6 giờ/lần, tối đa 2 bài/lượt).
 - 2026-10-16: lịch chuyển 1 giờ/lần + luật ảnh Radiopaedia-từng-case/CC0 + mục #0 backfill 27 bài text-only.
 - 2026-10-16: viết 612 (cấp cứu đường thở nhi, 4 ảnh CC BY/BY-NC + composite dịch-vs-áp-xe, link chéo 730); append 615 (viêm phổi nhi — khoảng trống mới). Slot backfill #0 dồn lượt sau.

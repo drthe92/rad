@@ -27,6 +27,7 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [610 – Suy hô hấp sơ sinh](../610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md) *(đã có)*
 - [620 – Cấp cứu tiêu hóa nhi](../620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md) *(đã có)*
+- [622 – Tắc ruột sơ sinh](../622-tac-ruot-so-sinh/lesson.md) *(đã có)*
 - [625 – Vàng da tắc mật](../625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md) *(đã có)*
 - [630 – U bụng nhi](../630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md) *(đã có)*
 - [640 – Háng nhi & NAT](../640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) *(đã có)*
@@ -43,7 +44,7 @@ certainty: tong-hop-y-van
 
 **620–629 — Ống tiêu hóa & Gan mật Nhi khoa**
 - 620 – Cấp cứu ống tiêu hóa sơ sinh & nhũ nhi: Hẹp phì đại môn vị (HPS), Ruột quay dở dang – Xoắn ruột, Lồng ruột & Viêm ruột hoại tử (NEC) *(đã có — [bài học](../620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md))*
-- 622 – Tắc ruột sơ sinh bẩm sinh trên X-quang & Chụp cản quang: Teo thực quản – Rò khí thực quản, Teo tá tràng (*double-bubble*), Teo hỗng-hồi tràng, Tắc ruột phân su (*microcolon*) & Bệnh Hirschsprung (tỷ số trực tràng/sigma < 1) *(dự kiến)*
+- 622 – Tắc ruột sơ sinh bẩm sinh trên X-quang & Chụp cản quang: Teo tá tràng (*double-bubble*), Teo hỗng-hồi tràng (*microcolon*), Tắc ruột phân su (*dấu Neuhauser*) & Bệnh Hirschsprung (tỷ số trực tràng/sigma < 1) *(đã có — [bài học](../622-tac-ruot-so-sinh/lesson.md))*
 - 625 – Vàng da tắc mật sơ sinh: Phân biệt Teo đường mật bẩm sinh (Biliary atresia — mổ Kasai < 60 ngày) vs. Viêm gan sơ sinh & Nang ống mật chủ (Todani I–V) *(đã có — [bài học](../625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md))*
 
 **630–639 — Tiết niệu – Sinh dục & Khối u ổ bụng Nhi khoa**
