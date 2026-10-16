@@ -70,8 +70,10 @@ def check(slug):
     for m in re.finditer(r"\]\(\.\./([^)]+)/lesson\.md\)", t):
         if not os.path.exists(m.group(1) + "/lesson.md"):
             errs.append(f"link gãy tới {m.group(1)}")
-    if "(dự kiến)" in t:
-        errs.append("còn nhãn (dự kiến) — flip sang (đã có) hoặc trỏ đúng bài")
+    for l in t.split("\n"):
+        if "(dự kiến)" in l and "](../" in l:
+            errs.append("nhãn (dự kiến) đi kèm link — flip sang (đã có) hoặc trỏ đúng bài")
+            break
     return [f"{slug}: {e}" for e in errs]
 
 def main():

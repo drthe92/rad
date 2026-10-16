@@ -11,6 +11,7 @@
 - **Hệ Ngực (001–099): Học thuyết thể tích (volume-loss doctrine)** — mất thể tích là chốt duy nhất Đông đặc vs Xẹp (phế quản hơi không loại trừ xẹp nói chung, chỉ mất khi tắc trung tâm hoàn toàn) + Golden S sign. Bổ sung khi sang bài mô kẽ: **tiểu thùy thứ cấp (secondary pulmonary lobule)** — trung tâm tiểu thùy vs bạch mạch vs ngẫu nhiên.
 - **Hệ Bụng – Gan mật (100–199, chuẩn bị): Học thuyết động học bắt thuốc (enhancement kinetics)** — gan cấp máu kép (75% tĩnh mạch cửa, 25% động mạch gan) → u ác/HCC bắt thuốc mạnh thì động mạch (arterial hyperenhancement) + thải thuốc (washout) thì cửa/muộn.
 - **Hệ Thần kinh (200–299, chuẩn bị): Hàng rào máu não (BBB) & khuếch tán (DWI/ADC)** + tiến triển hemoglobin theo thời gian trên T1/T2 (tối cấp → cấp → bán cấp sớm/muộn → mạn).
+- **Hệ Cơ – Xương – Khớp (300–399): Học thuyết tốc độ phát triển (Lodwick & Zone of transition) + Vật lý tủy xương T1W** — mọi tiêu xương đánh giá bằng vùng chuyển tiếp (hẹp = chậm/lành IA-IB, rộng = nhanh/ác II-III; ngoại lệ > 40 tuổi: myeloma/di căn). Tủy vàng trưởng thành (80% mỡ) T1W luôn sáng hơn cơ/đĩa đệm: **thay thế tủy thật (T1W tối hơn cơ/đĩa + SII ≤ 20%)** vs phù/tủy đỏ (T1W ≥ cơ + SII > 20%).
 
 ## 3. Trung thành nguồn + phản biện (fidelity + critique)
 - Ca nguyên văn: giữ đúng mô bệnh/chú thích gốc (kể cả khi không điển hình), ghi rõ Fig/ID nguồn.

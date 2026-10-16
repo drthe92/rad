@@ -108,3 +108,14 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 222 | [Viêm đốt sống](222-viem-dot-song/lesson.md) | `pattern:viem-dot-song` |
 | 230 | [Giáp & hạch cổ](230-tuyen-giap-hach-co/lesson.md) | `score:TI-RADS` |
 | 235 | [Thái dương & xoang](235-xuong-thai-duong-xoang/lesson.md) | `pattern:xuong-thai-duong-xoang` |
+
+## Hệ Cơ – Xương – Khớp (dải 300, đang khởi tạo)
+| ID | Bài | Tags 4 chiều |
+|---|---|---|
+| 300 | [Tổng quan MSK](300-tong-quan-he-co-xuong-khop/lesson.md) | Tổng quan, bảng DDx |
+| 310 | [Xương phụ](310-giai-phau-xuong-khop-va-bien-the/lesson.md) | `anatomy:co-xuong-khop` |
+| 320 | [Gãy & trật khớp](320-gay-xuong-trat-khop-cap-cuu/lesson.md) | `pattern:gay-xuong` |
+| 330 | [U xương Lodwick](330-tiep-can-u-xuong-va-dont-touch/lesson.md) | `score:Lodwick` |
+| 340 | [Khớp OA/RA/Gout](340-viem-khop-va-thoai-hoa-khop/lesson.md) | `pattern:hep-khe-khop` |
+| 350 | [Vai chóp xoay](350-mri-sieu-am-khop-vai-chop-xoay/lesson.md) | `score:Goutallier` |
+| 360 | [Gối ACL/sụn chêm](360-mri-khop-goi-day-chang-sun-chem/lesson.md) | `pattern:dut-ACL` |
