@@ -70,6 +70,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 450 | [Mắt nhi](450-mat-nhi/lesson.md) | `pattern:xuat-tiet-nhi` |
 | 451 | [Hệ thống](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` |
 | 452 | [Hoại tử võng mạc cấp (ARN) & CMV retinitis](452-hoai-tu-vong-mac-ARN-CMV/lesson.md) | `pattern:hoai-tu-vong-mac` `vung:vong-mac` `protocol:PCR-dich-thuy` `protocol:widefield` |
+| 453 | [Bệnh võng mạc do tăng huyết áp & bệnh máu](453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md) | `pattern:benh-vong-mac-tang-huyet-ap` `vung:vong-mac` `score:Keith-Wagener` `score:Goldberg` `protocol:soi-day-mat` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
@@ -82,7 +83,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 115 | [Khí tự do](115-khi-tu-do/lesson.md) | `pattern:khi-tu-do` |
 | 120 | [Khối gan nền lành vs xơ](120-khoi-gan-nen/lesson.md) | `pattern:khoi-gan` `vung:gan` `protocol:MRI-gan-Primovist` `score:LI-RADS` |
 | 122 | [U lành & áp-xe gan](122-u-lanh-gan/lesson.md) | `pattern:u-lanh-gan` |
-| 125 | [Gan mỡ-xơ](125-gan-mo-xo/lesson.md) | `pattern:gan-lan-toa` |
+| 125 | [Gan mỡ-xơ](125-gan-mo-xo/lesson.md) | `pattern:gan-lan-toa` `vung:gan` `score:PDFF` `protocol:CT-MRI-gan` `protocol:Fibroscan` |
 | 130 | [Túi mật](130-tui-mat/lesson.md) | `pattern:viem-tui-mat` |
 | 131 | [Tắc mật](131-tac-mat/lesson.md) | `pattern:tac-mat` |
 | 136 | [U/nang tụy](136-u-nang-tuy/lesson.md) | `pattern:u-tuy` |
