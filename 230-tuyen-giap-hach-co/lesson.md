@@ -1,83 +1,107 @@
 ---
 unit_id: "230"
-subspecialty: Neuro
-anatomical_location: "đầu-mặt-cổ (head-neck)"
-primary_pattern: "tuyến giáp-hạch cổ (thyroid-nodes)"
-tags: [pattern:tuyen-giap-hach-co, vung:dau-mat-co, score:TI-RADS]
+subspecialty: Head_Neck
+anatomical_location: "tuyến giáp (thyroid)"
+primary_pattern: "nhân giáp (thyroid nodule)"
+tags: [pattern:nhan-giap, vung:tuyen-giap, score:TI-RADS, incidentaloma:nhan-giap]
 certainty: tong-hop-y-van
 ---
 
-# 230 — Tuyến giáp TI-RADS & hạch cổ I–VII / Thyroid & Neck nodes
+# 230 — Tuyến giáp ACR TI-RADS & hạch cổ / Thyroid TI-RADS
 
-**Tags:** `pattern:tuyen-giap-hach-co` `vung:dau-mat-co` `score:TI-RADS`
+**Tags:** `pattern:nhan-giap` `vung:tuyen-giap` `score:TI-RADS` `incidentaloma:nhan-giap`
 **Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — nhóm tự biên từ y văn mở, chưa gắn ca nguyên văn đơn lẻ.
 
-## 1. Tổng quan — điểm cộng dồn + ngưỡng chọc hút theo mm
+## 1. Tổng quan — xơ xuyên mặt phẳng + thể cát vs keo + đen hơn cơ
 
-- ACR TI-RADS 2017 chấm 5 nhóm (thành phần, âm, hình dạng, viền, echo sáng): TR1 (0 điểm, lành) → TR5 (≥ 7 điểm, nghi cao) — TẠI SAO taller-than-wide (cao > rộng) nặng 3 điểm: u ác phát triển xuyên mặt phẳng mô, khác nang lành dẹt theo mô.
-- Ngưỡng chọc hút tế bào (FNA): TR3 ≥ 25 mm, TR4 ≥ 15 mm, TR5 ≥ 10 mm; theo dõi: TR3 ≥ 15 mm, TR4 ≥ 10 mm, TR5 ≥ 5 mm (hàng năm tới 5 năm).
-- Hạch cổ: I (dưới cằm/hàm), II–IV (cảnh trên-giữa-dưới), V (gai sau), VI (trung tâm quanh giáp), VII (trung thất trên) — di căn giáp nhú hay vào VI + II–IV.
+- **Cao hơn rộng (taller-than-wide, Trước-Sau/Ngang > 1):** nhân lành (keo, nang) dẹt theo mặt phẳng mô + xẹp khi ấn đầu dò; **ung thư nhú (PTC)** xơ hóa mô đệm (desmoplasia) xâm lấn xuyên mặt phẳng theo trục trước-sau — TẠI SAO 3 điểm.
+- **Chấm tăng âm ≤ 1 mm (punctate, 3đ) = thể cát (psammoma)** từ hoại tử nhú ung thư, nhỏ hơn bước sóng nên không bóng lưng; **đuôi sao chổi > 1 mm (0đ) = đa âm keo cô đặc** lành tính.
+- **Rất giảm âm (3đ) = đen hơn cả cơ trước giáp (strap: ức-giáp, ức-móng)** — đặc hiệu > 90%; giảm âm thường (2đ) chỉ đen hơn nhu mô giáp.
 
-## 2. Gamut nhân giáp + hạch cổ (Gamut)
+## 2. Mẫu hình + gamut nhân giáp & hạch cổ (Gamut)
 
-- **Nang đơn thuần + bọt biển (spongiform):** TR1–TR2 — bỏ qua/khám định kỳ.
-- **Đặc giảm âm + cao > rộng + vi vôi + bờ đa vòng:** TR5 — FNA khi ≥ 10 mm.
-- **Hạch tròn + mất rốn mỡ + vi vôi + nang hóa:** di căn giáp — FNA + thyroglobulin dịch rửa.
-- **Hạch hoại tử + lao/HIV:** viêm — cấy + GenXpert, đừng mổ hạch vội.
+- **Bọt biển/nang/toàn keo + đuôi sao chổi:** TR1 — bỏ qua.
+- **Đặc + đồng âm + bờ nhẵn + không vôi:** TR2–3 — theo dõi/FNA theo mm.
+- **Đặc + giảm âm + cao-rộng + đa cung + vi vôi:** TR5 — FNA + mổ.
+- **Nhân nhỏ + hạch mất rốn/vi vôi:** di căn — FNA hạch + Tg rửa (bỏ ngưỡng mm!).
 
-## 3. Bảng so sánh phân biệt (ma trận đối chiếu)
+## 3. Bảng cộng điểm 5 nhóm + ma trận 4 thực thể
 
-| Thực thể (entity) | Hình ảnh điển hình | Chốt vào (rule-in) | Chốt loại (rule-out) | Gợi ý xác nhận |
+| Nhóm (4 nhóm đầu chọn 1, vôi cộng dồn) | Mức điểm |
+|---|---|
+| Thành phần: nang 0 / **bọt biển 0 (DỪNG, không cộng thêm!)** / hỗn hợp 1 / đặc 2 | 0–2 |
+| Hồi âm: trống 0 / tăng-đồng 1 / giảm 2 / **rất giảm 3** | 0–3 |
+| Hình: rộng-cao 0 / **cao-rộng 3** | 0 / 3 |
+| Bờ: nhẵn/không rõ 0 / đa cung-không đều 2 / **xâm lấn 3** | 0–3 |
+| Vôi (CỘNG DỒN tất cả): đuôi sao > 1 mm 0 / thô 1 / viền 2 / **chấm ≤ 1 mm 3** | 0–6 |
+
+| Thực thể (entity) | Hình ảnh | Chốt vào (rule-in) | Chốt loại (rule-out) | Gợi ý xác nhận |
 |---|---|---|---|---|
-| TR5 ác tính | **Đặc + giảm âm + cao > rộng + vi vôi + bờ xâm lấn (≥ 7 điểm)** | **Vi vôi + cao > rộng + hạch kèm** | Nang/bọt biển → TR1–2 | FNA ≥ 10 mm + Bethesda |
-| TR3–TR4 | **Đồng/kém âm + nang lẫn đặc, 3–6 điểm** | **Điểm cộng dồn + ngưỡng mm** | TR5 khi đủ điểm | FNA ≥ 25/15 mm; theo dõi |
-| Hạch di căn giáp | **Tròn + mất rốn + vi vôi/nang hóa + tăng sinh mạch** | **Vi vôi + Tg rửa cao** | Rốn mỡ còn + bầu dục → phản ứng | FNA + Tg dịch rửa |
-| Hạch viêm/lao | **Hoại tử + viền ngấm + lao phổi** | **Hoại tử + GenXpert (+)** | Vi vôi + Tg cao → di căn | Kháng lao, không mổ |
+| PTC (TR5) | **Đặc + rất giảm + cao-rộng + đa cung/xâm lấn + vi vôi (≥ 7đ)** | **≥ 7đ + mô bệnh (~35% ác)** | Bọt biển → TR1 | FNA ≥ 10 mm + mổ |
+| Nang thể (TR3) | **Đặc + đồng âm + nhẵn + viền dày, 3đ** | **3đ + FNA ≥ 25 mm** | Vi vôi → TR5 | FNA theo mm |
+| Keo lành (TR1) | **Bọt biển/nang + đuôi sao > 1 mm** | **Spongiform = DỪNG** | Cao-rộng → TR5 | Bỏ qua |
+| Giả nhân Hashimoto | **Tăng âm bờ đều + da báo + không khối (White Knight)** | **Không hiệu ứng khối** | Có khối → nhân thật | **Cấm FNA** |
+| Hạch di căn PTC | **Tròn (D/N < 2) + mất rốn + vi vôi/nang + mạch vỏ** | **Tg rửa cao + VI/III–IV** | Rốn mỡ + bầu dục → phản ứng | FNA hạch + Tg (bỏ ngưỡng mm!) |
 
-## 4. Protocol siêu âm + flowchart
+![TR5 mô bệnh xác nhận (A) + ác tính (B)](images/230_TR5_US_PMC-Abougazia-CCBY40.webp)
+*Giảm âm + bờ không đều + chấm tăng âm. Nguồn: Abougazia et al., Cureus 2026 Fig. 4, CC BY 4.0.*
 
-- **Siêu âm tuyến giáp + hạch cổ + FNA dưới siêu âm:** đo 3 chiều + điểm TR + Bethesda I–VI (II lành, V–VI mổ).
+![Nhân ác tính mô bệnh (A/B)](images/230_TR5-map-mo_PMC-Abougazia-CCBY40.webp)
+*Rất giảm âm + vi vôi, PTC xác nhận. Nguồn: Abougazia et al., Fig. 6, CC BY 4.0.*
+
+## 4. Protocol + ngưỡng FNA/theo dõi + flowchart
+
+- TR1–2: không FNA/theo dõi. TR3: FNA ≥ 25 mm, theo dõi ≥ 15 mm (1-3-5 năm). TR4: FNA ≥ 15 mm, theo dõi ≥ 10 mm (1-2-3-5 năm). TR5: FNA ≥ 10 mm, theo dõi ≥ 5 mm (hàng năm 5 năm). Tối đa 2 nhân FNA.
 
 ```mermaid
 flowchart TD
-  A[Nhân giáp tình cờ] --> B{TIRADS mấy?}
-  B -->|TR1-2| C[Không FNA]
-  B -->|TR3 ≥25mm / TR4 ≥15mm / TR5 ≥10mm| D[FNA + Bethesda]
-  B -->|Hạch mất rốn + vi vôi| E[FNA hạch + Tg rửa]
+  A[Nhân giáp tình cờ] --> B{Cộng 5 nhóm}
+  B -->|0-2đ| C[TR1-2: bỏ qua]
+  B -->|3đ| D[TR3: FNA≥25mm]
+  B -->|4-6đ| E[TR4: FNA≥15mm]
+  B -->|≥7đ| F[TR5: FNA≥10mm]
+  F --> G{Hạch mất rốn? FNA hạch + Tg}
 ```
 
 ## 5. Cạm bẫy
 
-- **Nhân nóng (hot) xạ hình** ít ác nhưng vẫn FNA khi TR cao — xạ không thay siêu âm.
-- **Mổ hạch lao** tưởng di căn — GenXpert + cấy trước mổ.
+- **Hạch di căn + nhân 5–8 mm** chờ đủ 10 mm = trễ — FNA cả hạch (Tg rửa) + nhân ngay.
+- **TR5 < 10 mm sát rãnh khí-thực quản** (dây quặt ngược) — không theo dõi chủ động, FNA/mổ sớm.
+- **Thực quản cổ trái giả nhân vôi** — nuốt nước bọt thấy nhu động là thực quản!
 - **Bỏ sót hạch VI trung tâm** sau mổ giáp — siêu âm VI + Tg máu theo dõi tái phát.
 
 ## 6. Tự lượng giá — Blind Quiz
 
-**Ca 1 — Nhân đặc 12 mm giảm âm + cao > rộng + vi vôi:** TR mấy? FNA không? *(Bảng mục 3.)*
+**Ca 1 — Nhân giáp giảm âm bờ không đều + chấm sáng. Chấm điểm.**
+
+![Ca 1 — Siêu âm giáp](images/230_TR5_US_PMC-Abougazia-CCBY40.webp)
+
+- Hỏi: cộng mấy điểm? TR mấy? Bước tiếp?
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
-- **TR5 (≥ 7 điểm) + ≥ 10 mm:** FNA + Bethesda (không theo dõi đơn thuần).
+- Dấu hiệu (findings): đặc (2) + giảm âm (2) + bờ không đều (2) + chấm ≤ 1 mm (3) = **9đ → TR5**.
+- Chẩn đoán (diagnosis): **nghi PTC cao (~35% ác)** — FNA + mổ (mô bệnh xác nhận).
+- Nguồn: Abougazia et al., Fig. 4, CC BY 4.0.
 </details>
 
-**Ca 2 — Hạch cổ II mất rốn + vi vôi + nhân giáp TR5:** di căn hay viêm? Xét nghiệm nào chốt? *(Bảng mục 3.)*
+**Ca 2 — Nhân 7 mm TR5 + hạch VI mất rốn + vi vôi:** chờ 10 mm không? *(Bảng mục 3 + mục 5.)*
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
-- **Di căn giáp nhú:** FNA hạch + thyroglobulin dịch rửa cao.
+- **Không chờ:** FNA hạch + Tg rửa + FNA nhân ngay (bỏ ngưỡng mm khi hạch di căn!).
 </details>
 
-**Ca 3 — Nang giáp bọt biển 30 mm, không hạch:** TR mấy? Chọc không? *(Bảng mục 3.)*
+**Ca 3 — Da báo + tăng âm bờ đều + không khối, TPO (+):** nhân thật hay giả nhân? Chọc không? *(Bảng mục 3.)*
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
-- **TR2:** không FNA thường quy (trừ chèn ép/to nhanh thì hút giảm áp).
+- **Giả nhân Hashimoto (White Knight):** cấm FNA — theo dõi giáp.
 </details>
 
 ## Bài liên quan chéo
 - [200 – Tổng quan Thần kinh](../200-tong-quan-he-than-kinh/lesson.md)
-- [217 – Ngoài trục CPA](../217-ngoai-truc-CPA/lesson.md) (khối nền sọ-cổ)
-- [150 – Bosniak & u thận](../150-nang-than-Bosniak/lesson.md) (logic RADS tương tự)
+- [235 – Thái dương & xoang](../235-xuong-thai-duong-xoang/lesson.md) (đầu-mặt-cổ)
+- [231 – Hạch cổ (dự kiến viết sau)]
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

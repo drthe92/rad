@@ -1,1 +1,9 @@
-# Nguồn gốc — 230-tuyen-giap-hach-co (Giáp & hạch cổ)\n\n| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? |\n|---|---|---|---|---|---|\n| 1 | Y văn mở | TI-RADS + Level I–VII (quy tắc số) | — | — | text + dẫn link |\n| 9 | AuntMinnie | (chưa quét — đợt sau) | https://www.auntminnie.com | paywall — chỉ dẫn link | không tải |\n\n## Ghi chú giấy phép\n- Ghi rõ giấy phép từng ảnh vào `images/CREDITS.md`.\n
+# Nguồn gốc — 230-tuyen-giap-hach-co (TI-RADS / Thyroid)
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / PMC13634164 | TR5 Fig. 4+6 — Abougazia et al., Cureus 2026 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13634164/ | CC BY 4.0 | `images/230_TR5-*.webp` |
+| 9 | AuntMinnie | (chưa quét — đợt sau) | https://www.auntminnie.com | paywall — chỉ dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Ghi rõ giấy phép từng ảnh vào `images/CREDITS.md`.

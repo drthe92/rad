@@ -87,6 +87,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 135 | [Viêm tụy Atlanta](135-viem-tuy-Atlanta/lesson.md) | `score:Atlanta` |
 | 150 | [Bosniak & u thận](150-nang-than-Bosniak/lesson.md) | `score:Bosniak` |
 | 155 | [Thượng thận tình cờ](155-thuong-than-tinh-co/lesson.md) | `incidentaloma:thuong-than` |
+| 158 | [Tiền liệt tuyến PI-RADS](158-tien-liet-tuyen-PIRADS/lesson.md) | `score:PI-RADS` |
 | 160 | [Bụng cấp cứu GI](160-bung-cap-GI/lesson.md) | `protocol:CT-bung-cap` |
 
 ## Hệ Thần kinh (dải 200, đang khởi tạo)

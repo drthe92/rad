@@ -23,6 +23,7 @@ certainty: tong-hop-y-van
 | Giãn não thất & Đẩy lệch cấu trúc | Hệ thống não thất | Não úng thủy tắc nghẽn, Não úng thủy áp lực bình thường (NPH), Teo não tuổi già, Thoát vị não | Chỉ số Evans > 0,3 + góc thể chai < 90° + DESH = NPH; Giãn cả não thất lẫn rãnh vỏ não tương xứng = Teo não | `218` |
 | Tổn thương ống sống theo 3 khoang | Cột sống – Tủy sống (spine) | Ngoài màng cứng (thoát vị đĩa, di căn), Trong màng cứng-ngoài tủy (schwannoma, meningioma), Nội tủy (ependymoma, viêm tủy) | Đẩy lệch túi màng cứng = Ngoài màng cứng; Mở rộng khoang dưới nhện hình chén (meniscus) = Trong màng cứng-ngoài tủy; Phình rộng tủy = Nội tủy | `220` |
 | Tổn thương thân đốt sống & Đĩa đệm | Cột sống | Viêm đĩa đệm-đốt sống vi khuẩn, Lao cột sống (Pott), Di căn cột sống, Xẹp đốt sống loãng xương | Phá hủy đĩa đệm sớm = Vi khuẩn; Bảo tồn đĩa sớm + áp-xe lạnh vôi hóa = Lao; Chừa đĩa đệm + hủy cuống cung (mất mắt cú) = Di căn | `221`, `222` |
+| Nhân tuyến giáp & Hạch cổ (ACR TI-RADS) | Tuyến giáp & Cổ (thyroid-neck) | Ung thư nhú (PTC), nang thể, keo lành, giả nhân Hashimoto, hạch di căn | Đặc + rất giảm + cao-rộng + đa cung + vi vôi ≤ 1 mm (≥ 7đ) = TR5; bọt biển = TR1 (DỪNG); hạch mất rốn + Tg rửa = di căn (bỏ ngưỡng mm!) | `230` |
 
 ## Bài liên quan chéo
 - [211 – Đột quỵ não](../211-dot-quy-nao/lesson.md) *(đã có)*
@@ -56,7 +57,7 @@ certainty: tong-hop-y-van
 - 222 – Viêm thân đốt sống - đĩa đệm (Lao cột sống Pott vs. Vi khuẩn sinh mủ) vs. Di căn cột sống (dấu mất mắt cú)  *(đã có — [bài học](../222-viem-dot-song/lesson.md))*
 
 **230–249 — Đầu Mặt Cổ & Nền sọ (Head & Neck — Mở rộng)**
-- 230 – Tuyến giáp (Hệ thống phân độ ACR TI-RADS) & Phân nhóm hạch cổ (Level I–VII)  *(đã có — [bài học](../230-tuyen-giap-hach-co/lesson.md))*
+- 230 – Tuyến giáp ACR TI-RADS & Hạch cổ *(đã có — [bài học](../230-tuyen-giap-hach-co/lesson.md))*
 - 235 – Xương thái dương (Cholesteatoma trên DWI non-EPI) & Xoang cạnh mũi (Viêm xoang nấm tăng tỷ trọng vs. U)  *(đã có — [bài học](../235-xuong-thai-duong-xoang/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

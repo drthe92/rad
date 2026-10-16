@@ -21,6 +21,7 @@ certainty: tong-hop-y-van
 | Nang & Ổ dịch quanh tụy | Tụy (pancreas) | Tụ dịch cấp quanh tụy (APFC), tụ dịch hoại tử cấp (ANC), nang giả tụy, hoại tử có vỏ (WON), u nhầy nhú nội ống tụy (IPMN), u nang thanh dịch (SCN), u nang nhầy (MCN) | < 4 tuần vs ≥ 4 tuần + có hoại tử hay không (Atlanta 2012); Thông ống tụy chính = IPMN | `135`, `136` |
 | Nang thận phức tạp | Thận (kidney) | Bosniak I, II, IIF, III, IV | Ngấm thuốc thật = tăng ≥ 20 HU; Vách dày ≥ 4 mm = Bosniak III; Nốt đặc ngấm thuốc = Bosniak IV | `150` |
 | Khối tuyến thượng thận tình cờ | Thượng thận (adrenal) | Adenoma giàu/nghèo mỡ, u tủy thượng thận (pheochromocytoma), di căn, ung thư vỏ thượng thận (ACC) | Không tiêm ≤ 10 HU = Adenoma giàu mỡ; > 10 HU nhưng thải thuốc APW ≥ 60% / RPW ≥ 40% ở 15 phút = Adenoma nghèo mỡ | `155` |
+| Tổn thương khu trú tiền liệt tuyến (PI-RADS v2.1) | Tiền liệt tuyến (prostate) | Ung thư có ý nghĩa lâm sàng (csPCa), viêm, BPH, vùng trung tâm (CZ) | PZ đọc DWI/ADC (b ≥ 1.400), TZ đọc T2W (vỏ bao); 1,5 cm tách 4/5; DCE chỉ nâng 3→4 ở PZ; PI-RADS 3 + PSAD ≥ 0,15 = sinh thiết; ria mép CZ đối xứng = bình thường | `158` |
 | Giãn quai ruột / Thâm nhiễm mỡ khu trú | Ống tiêu hóa (GI) | Viêm ruột thừa, Viêm túi thừa, Tắc ruột non (SBO), Tắc quai kín | Ruột thừa > 6 mm; Ruột non > 3 cm; Xoắn mạch (whirl) + chữ C + mất ngấm thành = Tắc quai kín thiếu máu (mổ tối khẩn) | `160`, `162` |
 | Dịch tự do ổ bụng vs Đáy ngực | Phúc mạc (peritoneum) | Cổ trướng (Ascites) vs Tràn dịch màng phổi | Dịch màng phổi đẩy chân cơ hoành ra trước (displaced crus) và len vào vùng trần của gan (bare area); Ascites thì không | `110`, `141` |
 
@@ -56,6 +57,7 @@ certainty: tong-hop-y-van
 - 150 – Bosniak & u thận *(đã có — [bài học](../150-nang-than-Bosniak/lesson.md))*
 - 152 – Sỏi niệu & ứ nước *(đã có — [bài học](../152-soi-nieu/lesson.md))*
 - 155 – Thượng thận tình cờ *(đã có — [bài học](../155-thuong-than-tinh-co/lesson.md))*
+- 158 – Tiền liệt tuyến & PI-RADS v2.1 *(đã có — [bài học](../158-tien-liet-tuyen-PIRADS/lesson.md))*
 
 **160–169 — Ống tiêu hóa (GI)**
 - 160 – Bụng cấp GI *(đã có — [bài học](../160-bung-cap-GI/lesson.md))*
