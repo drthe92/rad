@@ -123,7 +123,7 @@ flowchart TD
 
 - **Trái (a–c) = thể nhân xám trung tâm (BGT):** DWI sáng **đối xứng hai đồi thị** (mũi tên), lan xuống PLIC/thân não; khớp bối cảnh **ngạt cấp, gần như toàn bộ** (sa dây rốn). **Tiên lượng nặng nhất** (nhân xám sâu + bó vỏ-tủy).
 - **Phải (a–c) = thể vùng phân thủy (watershed):** DWI sáng **vỏ–dưới vỏ vùng kẽ mạch đỉnh-chẩm**, **né nhân xám sâu**; khớp ngạt **từng phần kéo dài**.
-- Nguồn ảnh: Bass et al., Cureus 2025 (PMC12240218), Fig 4 & Fig 5, CC BY 4.0.
+- Nguồn ảnh: Silva et al., Cureus 2025 (PMC12240218), Fig 4 & Fig 5, CC BY 4.0.
 </details>
 
 **Ca 2 — Bé trai 2 tháng, chu vi đầu tăng nhanh. MRI T2 (giữa + ngang): mô tả hố sau.**
@@ -178,7 +178,7 @@ flowchart TD
 
 - **Bình thường:** trẻ đủ tháng có **T1 sáng ở thân não sau, PLIC, đồi thị bên, chất trắng tâm bán cầu và vùng quanh rãnh trung tâm** (mũi tên) — đây là myelin hóa bình thường theo tuổi, KHÔNG phải tổn thương.
 - Cạm bẫy: ngược lại, **mất PLIC T1 sáng** ở trẻ có ngạt = dấu hiệu tổn thương sâu sắc. Vì vậy luôn **đọc T1W PLIC trước** khi kết luận tổn thương trên DWI.
-- Nguồn ảnh: Bass et al., Cureus 2025 (PMC12240218), Fig 3, CC BY 4.0.
+- Nguồn ảnh: Silva et al., Cureus 2025 (PMC12240218), Fig 3, CC BY 4.0.
 </details>
 
 ## Bài liên quan chéo

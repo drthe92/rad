@@ -10,7 +10,7 @@ certainty: tong-hop-y-van
 # 120 — Khối gan nền lành vs xơ: động học bắt thuốc & u lành hay gặp / Focal liver lesions
 
 **Tags:** `pattern:khoi-gan` `vung:gan` `protocol:MRI-gan-Primovist` `score:LI-RADS`
-**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — tự biên từ y văn mở (Balci 2012 CC BY; Kaltenbach 2016 CC BY), chưa gắn ca nguyên văn đơn lẻ.
+**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — tự biên từ y văn mở (Albiin 2012 CC BY; Kaltenbach 2016 CC BY), chưa gắn ca nguyên văn đơn lẻ.
 
 ## 1. Tổng quan — nền gan quyết định "xác suất trước kiểm", động học quyết định tên gọi
 
@@ -42,7 +42,7 @@ certainty: tong-hop-y-van
 | THAD/THID (shunt) | **Tăng đậm độ/tín hiệu thì ĐM hình thùy**, **mất thì cửa/muộn** | **Biến mất khi chụp thì muộn** | Tồn tại + thải thuốc → u thật | Nhìn thì muộn là chốt — đừng gọi HCC |
 
 ![Hemangioma (trái) vs FNH (phải) trên MRI](images/composite_hemangioma-vs-FNH.jpg)
-*Trái: hemangioma — T2 sáng rực, ngấm nốt ngoại vi rồi đầy dần hướng tâm, giữ thuốc thì muộn. Phải: FNH — ngấm mạnh thì động mạch + sẹo trung tâm giữ thuốc gan–mật. Nguồn: Balci et al., Magn Reson Insights 2012, Fig. 3 & 4, CC BY. Ảnh ghép letterbox.*
+*Trái: hemangioma — T2 sáng rực, ngấm nốt ngoại vi rồi đầy dần hướng tâm, giữ thuốc thì muộn. Phải: FNH — ngấm mạnh thì động mạch + sẹo trung tâm giữ thuốc gan–mật. Nguồn: Albiin N, Curr Med Imaging Rev 2012, Fig. 3 & 4, CC BY. Ảnh ghép letterbox.*
 
 ### Bốn cặp "đọc chốt" trong đầu
 - **Sáng rực T2 + ngấm hướng tâm** = hemangioma (không phải HCC).
@@ -51,7 +51,7 @@ certainty: tong-hop-y-van
 - **APHE + washout trên nền xơ** = HCC (LR-5).
 
 ![FNH và adenoma cùng tồn tại ở thùy trái — ai giữ thuốc gan–mật?](images/120_FNH-vs-adenoma_MRI_PMC3462338-CCBY.jpg)
-*FNH (đầu mũi tên) và adenoma (mũi tên) đều ngấm thì động mạch (D). Thì gan–mật (F, MultiHance 2 giờ sau tiêm): **FNH TĂNG tín hiệu, adenoma GIẢM tín hiệu** so với gan — chốt phân biệt. Nguồn: Balci et al., Magn Reson Insights 2012, Fig. 5, CC BY.*
+*FNH (đầu mũi tên) và adenoma (mũi tên) đều ngấm thì động mạch (D). Thì gan–mật (F, MultiHance 2 giờ sau tiêm): **FNH TĂNG tín hiệu, adenoma GIẢM tín hiệu** so với gan — chốt phân biệt. Nguồn: Albiin N, Curr Med Imaging Rev 2012, Fig. 5, CC BY.*
 
 ## 4. Protocol chụp + hệ điểm chuẩn hóa
 
@@ -102,7 +102,7 @@ flowchart TD
 - Dấu hiệu (findings): **T2 sáng rực (A)**, **T1 tối (B)**; thì động–cửa: **ngấm nốt ngoại vi (C)** rồi **đầy dần vào giữa (D, 5 phút)**.
 - Chẩn đoán (diagnosis): **hemangioma** — vì ngấm **nốt ngoại vi hướng tâm, đầy dần và giữ thuốc thì muộn** (giống "bể máu" trong lòng mạch giãn), T2 rất sáng do nhiều nước.
 - Xử trí: theo dõi; chỉ can thiệp khi khổng lồ > 5 cm có triệu chứng.
-- Nguồn ảnh: Balci et al., Magn Reson Insights 2012, Fig. 3, CC BY.
+- Nguồn ảnh: Albiin N, Curr Med Imaging Rev 2012, Fig. 3, CC BY.
 </details>
 
 **Ca 2 — Khối trong gan cùng lúc hai nốt (FNH + adenoma). Nốt nào GIỮ thuốc gan–mật, nốt nào KHÔNG?**
@@ -116,7 +116,7 @@ flowchart TD
 - Dấu hiệu (findings): hai nốt đều **ngấm thì động mạch (D)**; thì gan–mật (F, MultiHance 2 giờ) — **nốt đầu mũi tên (FNH) TĂNG tín hiệu**, **nốt mũi tên (adenoma) GIẢM tín hiệu** so với gan.
 - Chẩn đoán (diagnosis): **FNH giữ thuốc gan–mật** (tế bào gan lành còn chức năng bài tiết) vs **adenoma không giữ** (mất chức năng).
 - Ý nghĩa: FNH **không mổ**; adenoma có **nguy cơ vỡ/chảy máu** → ngừng thuốc tránh thai, mổ khi ≥ 5 cm.
-- Nguồn ảnh: Balci et al., Magn Reson Insights 2012, Fig. 5, CC BY.
+- Nguồn ảnh: Albiin N, Curr Med Imaging Rev 2012, Fig. 5, CC BY.
 </details>
 
 **Ca 3 — Bệnh nhân nền gan xơ (viêm gan B), nốt 15 mm: thì ĐM sáng, thì cửa/muộn tối đi. Nghĩ gì, xử trí?**
@@ -130,7 +130,7 @@ flowchart TD
 - Dấu hiệu (findings): nốt **tăng tín hiệu thì động mạch (A)** rồi **giảm tín hiệu = thải thuốc (washout) thì cửa (B)**; T2 hơi sáng (C), **DWI sáng (D)**.
 - Chẩn đoán (diagnosis): **HCC** — **APHE + washout** trên nền xơ.
 - Xử trí: áp dụng **LI-RADS** (bài 121); nốt 10–19 mm + APHE + washout = **LR-5** → **đủ để điều trị, không cần sinh thiết**.
-- Nguồn ảnh: Balci et al., Magn Reson Insights 2012, Fig. 6, CC BY.
+- Nguồn ảnh: Albiin N, Curr Med Imaging Rev 2012, Fig. 6, CC BY.
 </details>
 
 ## Bài liên quan chéo
@@ -141,7 +141,7 @@ flowchart TD
 - [125 – Gan mỡ – xơ](../125-gan-mo-xo/lesson.md) (mỡ chừa khu trú phân biệt u giảm âm)
 
 ## Ảnh
-- `120_hemangioma_MRI_PMC3462338-CCBY.jpg` (Fig. 3), `120_FNH_MRI_PMC3462338-CCBY.jpg` (Fig. 4), `120_FNH-vs-adenoma_MRI_PMC3462338-CCBY.jpg` (Fig. 5), `120_HCC-washout_MRI_PMC3462338-CCBY.jpg` (Fig. 6), `120_di-can-va-nang_DWI-MRI_PMC3462338-CCBY.jpg` (Fig. 2) — CC BY, Balci et al., Magn Reson Insights 2012 (PMC3462338).
+- `120_hemangioma_MRI_PMC3462338-CCBY.jpg` (Fig. 3), `120_FNH_MRI_PMC3462338-CCBY.jpg` (Fig. 4), `120_FNH-vs-adenoma_MRI_PMC3462338-CCBY.jpg` (Fig. 5), `120_HCC-washout_MRI_PMC3462338-CCBY.jpg` (Fig. 6), `120_di-can-va-nang_DWI-MRI_PMC3462338-CCBY.jpg` (Fig. 2) — CC BY, Albiin N, Curr Med Imaging Rev 2012 (PMC3462338).
 - `composite_hemangioma-vs-FNH.jpg` — ghép từ Fig. 3 & 4 (letterbox, giữ aspect), CC BY.
 - Chi tiết giấy phép từng ảnh trong `images/CREDITS.md`.
 

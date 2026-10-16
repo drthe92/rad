@@ -42,6 +42,7 @@
 - **Việt hóa 100%**: tiếng Việt lên trước, thuật ngữ Anh giữ trong ngoặc ở lần đầu (để tra y văn (literature)).
 - Nhãn mức chắc chắn (certainty level) mỗi bài, ghi rõ ở đầu bài: `ca nguyên văn (verbatim case)` / `tổng hợp y văn (literature synthesis)` / `suy luận (inference)`.
 - Quy tắc ảnh (image rule): tải về nếu giấy phép cho phép (ghi nguồn + giấy phép từng ảnh trong `images/CREDITS.md`), không tải được thì dẫn link. AuntMinnie: chỉ dẫn link. Tên file: `NNN_slug_Modality_SourceID.jpg` (vd `020_not-phoi_CT_Radiopaedia-rIDxxxxx.jpg`). Ảnh ghép đối chiếu: `images/composite_*.jpg` tạo bằng `tools/make_composite.py` (Pillow letterbox nền đen — KHÔNG crop/kéo giãn, giữ aspect gốc — + dải đen `[Tên bệnh - chuỗi xung] + attribution`), nhúng vào mục (3).
+- **Trung thực nguồn ảnh (bắt buộc):** CẤM bịa tên tác giả/niên đại. Chỉ ghi tên tác giả đầu tiên khi đọc trực tiếp từ bài gốc (đối chiếu PMID/PMCID); nếu không chắc thì ghi `Tạp chí Năm (PMCID)` **không kèm tên tác giả**. Ghi sai tác giả = lỗi trung thực nguồn (đã gặp: 120/434/525/655 — Balci/Bass/Solanki/Saxena/Martinello đều sai so với PMCID).
 - Blind Quiz ngay trên trang tĩnh: mỗi ca đặt ảnh + câu hỏi gợi mở ở NGOÀI, giấu findings + chẩn đoán trong `<details><summary>` (xem template mục 6). Không cần app/Streamlit phase này.
 - Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn (Disclaimer y tế, ghi ở `lesson.md` + `index.html` footer).
 - Không bao giờ force-push.

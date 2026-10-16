@@ -113,7 +113,7 @@ flowchart TD
 - Dấu hiệu (findings): **đĩa thị sung huyết (hyperemia)** 2 bên; **thị trường mất trung tâm 2 bên (central scotoma)** trên Humphrey.
 - Chẩn đoán (diagnosis): **ngộ độc thị thần kinh do ethambutol** — vì tiền sử thuốc + tổn thương 2 bên đối xứng bó nhúi; giai đoạn sớm đĩa **sung huyết**, về sau **nhợt thái dương**.
 - Xử trí: **ngưng ethambutol ngay** (thay bằng phác đồ an toàn), xét B12/folate; theo dõi OCT RNFL/GCL — hồi phục thường trong vài tuần–vài tháng.
-- Nguồn ảnh: Front Neurol 2025 (PMC12460111) Fig. 1 & 3, CC BY 4.0 (Fig. do Zhang et al./Kho et al.).
+- Nguồn ảnh: Front Neurol 2025 (PMC12460111) Fig. 1 & 3, CC BY 4.0 (Fig. do Sudhakar P et al.).
 </details>
 
 **Ca 3 — Hai bệnh nhân teo thị 2 bên tuần tự: (B) đĩa nhợt thái dương + (A) RNFL thái dương mỏng. Chẩn đoán?**
