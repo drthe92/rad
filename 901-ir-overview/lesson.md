@@ -31,8 +31,8 @@ certainty: tong-hop-y-van
 
 **900–939 — Đại cương, Dẫn lưu, Nút mạch & Gan**
 - 900 – Đại cương IR: Kim, Dây dẫn, Đông máu & Cửa sổ Sinh thiết *(đã có — [bài học](../900-ir-fundamentals-biopsy/lesson.md))*
-- 910 – Dẫn lưu Ổ áp-xe, Đường mật (PTBD) & Thận qua da (PCN) *(dự kiến)*
+- 910 – Dẫn lưu Ổ áp-xe, Đường mật (PTBD) & Thận qua da (PCN) * *(đã có — [bài học](../910-abscess-biliary-nephrostomy/lesson.md))**
 - 920 – Nút mạch Cầm máu: Tiêu hóa, Ho máu & Chấn thương Tạng *(đã có — [bài học](../920-vascular-embolization-gi-bleed/lesson.md))*
-- 930 – Can thiệp Ung thư Gan: TACE, RFA/MWA & LI-RADS TRA *(dự kiến)*
+- 930 – Can thiệp Ung thư Gan: TACE, RFA/MWA & LI-RADS TRA * *(đã có — [bài học](../930-hepatic-oncology-tace-rfa/lesson.md))**
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

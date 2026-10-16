@@ -33,10 +33,10 @@ certainty: tong-hop-y-van
 **700–759 — Tổng quan, Mũi xoang, Tai & Cổ sâu**
 - **700** – Tổng quan Đầu Mặt Cổ & Bản đồ Mạc cổ sâu *(bài này)*
 - 710 – Giải phẫu CT Mũi Xoang & Phức hợp Lỗ ngách (OMC) *(đã có — [bài học](../710-sinonasal-ct-anatomy/lesson.md))*
-- 715 – Viêm mũi xoang & Nấm xoang (xâm lấn vs không xâm lấn) *(dự kiến)*
-- 720 – Xương đá, Viêm tai & Cholesteatoma *(dự kiến)*
+- 715 – Viêm mũi xoang & Nấm xoang (xâm lấn vs không xâm lấn) * *(đã có — [bài học](../715-rhinosinusitis-fungal/lesson.md))**
+- 720 – Xương đá, Viêm tai & Cholesteatoma * *(đã có — [bài học](../720-temporal-bone-cholesteatoma/lesson.md))**
 - 730 – Khoang cổ sâu & Nhiễm trùng cấp cứu (Áp-xe vs Viêm mô tế bào) *(đã có — [bài học](../730-deep-neck-infections/lesson.md))*
-- 740 – Tuyến nước bọt: U hỗn hợp, Warthin & Ác tính *(dự kiến)*
-- 750 – Bản đồ Hạch cổ (I–VII) & ACR NI-RADS *(dự kiến)*
+- 740 – Tuyến nước bọt: U hỗn hợp, Warthin & Ác tính * *(đã có — [bài học](../740-salivary-gland-tumors/lesson.md))**
+- 750 – Bản đồ Hạch cổ (I–VII) & ACR NI-RADS * *(đã có — [bài học](../750-cervical-lymph-nodes-nirads/lesson.md))**
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

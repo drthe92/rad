@@ -166,3 +166,11 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 900 | [Đại cương IR](900-ir-fundamentals-biopsy/lesson.md) | `score:SIR` |
 | 901 | [Tổng quan IR](901-ir-overview/lesson.md) | Tổng quan, bảng DDx |
 | 920 | [Nút mạch](920-vascular-embolization-gi-bleed/lesson.md) | `pattern:nut-mach` |
+| 715 | [Nấm xoang](715-rhinosinusitis-fungal/lesson.md) | `pattern:viem-nam-xoang` |
+| 720 | [Cholesteatoma](720-temporal-bone-cholesteatoma/lesson.md) | `pattern:cholesteatoma` |
+| 740 | [Tuyến mang tai](740-salivary-gland-tumors/lesson.md) | `pattern:u-tuyen-bot` |
+| 750 | [Hạch cổ ENE](750-cervical-lymph-nodes-nirads/lesson.md) | `score:NI-RADS` |
+| 830 | [TAVI](830-tavi-structural-heart/lesson.md) | `pattern:TAVI` |
+| 840 | [Endoleak](840-aorta-endoleak-pad/lesson.md) | `pattern:endoleak` |
+| 910 | [Dẫn lưu](910-abscess-biliary-nephrostomy/lesson.md) | `pattern:dan-luu` |
+| 930 | [TACE/LR-TR](930-hepatic-oncology-tace-rfa/lesson.md) | `score:LR-TR` |
