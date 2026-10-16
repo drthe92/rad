@@ -37,34 +37,34 @@ certainty: tong-hop-y-van
 
 **300–319 — Tổng quan, Giải phẫu cắt lớp/MRI & Biến thể xương phụ**
 - **300** – Tổng quan Hệ Cơ – Xương – Khớp / MSK overview *(bài này)*
-- 301 – Protocol chụp X-quang tư thế đặc biệt, CT hai mức năng lượng (DECT), MRI khớp (PD fat-sat/T1W) & Siêu âm cơ xương khớp *(dự kiến)*
+- 301 – Protocol chụp X-quang tư thế đặc biệt, CT hai mức năng lượng (DECT), MRI khớp (PD fat-sat/T1W) & Siêu âm cơ xương khớp * *(đã có — [bài học](../301-protocol-msk/lesson.md))**
 - 310 – Giải phẫu X-quang/MRI các khớp lớn & Bản đồ các xương phụ (Accessory ossicles) dễ nhầm với mảnh gãy *(đã có — [bài học](../310-giai-phau-xuong-khop-va-bien-the/lesson.md))*
 
 **320–329 — Chấn thương Xương & Khớp cấp cứu (Trauma)**
 - 320 – Gãy xương & Trật khớp cấp cứu: Dấu hiệu gián tiếp (Bờm mỡ khuỷu, Mức mỡ-máu Lipohemarthrosis), Gãy cổ tay – cổ chân & Trật khớp vai – háng *(đã có — [bài học](../320-gay-xuong-trat-khop-cap-cuu/lesson.md))*
-- 321 – Gãy xương trẻ em (Phân loại Salter-Harris I–V, gãy cành tươi, gãy phình vỏ torus) & Chấn thương không tình cờ (Bạo hành trẻ em) *(dự kiến)*
-- 325 – Gãy xương kín đáo (Occult fracture) & Gãy xương mỏi (Stress fracture: Fatigue vs. Insufficiency) trên MRI *(dự kiến)*
+- 321 – Gãy xương trẻ em (Phân loại Salter-Harris I–V, gãy cành tươi, gãy phình vỏ torus) & Chấn thương không tình cờ (Bạo hành trẻ em) * *(đã có — [bài học](../321-gay-tre-em/lesson.md))**
+- 325 – Gãy xương kín đáo (Occult fracture) & Gãy xương mỏi (Stress fracture: Fatigue vs. Insufficiency) trên MRI * *(đã có — [bài học](../325-gay-kin-mo/lesson.md))**
 
 **330–339 — U xương & Tổn thương giống u (Bone Tumors)**
 - 330 – Tiếp cận U xương theo Lodwick, Tuổi, Vị trí & Các tổn thương "Đừng chạm vào" (Don't touch lesions) *(đã có — [bài học](../330-tiep-can-u-xuong-va-dont-touch/lesson.md))*
-- 331 – U xương ác tính ở người lớn: Di căn xương (huỷ xương vs. đặc xương), Đa u tủy xương (Multiple myeloma) & Lymphoma xương *(dự kiến)*
-- 332 – U xương nguyên phát: Osteosarcoma, Ewing sarcoma, Chondrosarcoma (biến đổi ác tính từ u xương sụn khi mũ sụn > 1,5–2 cm) & GCT *(dự kiến)*
+- 331 – U xương ác tính ở người lớn: Di căn xương (huỷ xương vs. đặc xương), Đa u tủy xương (Multiple myeloma) & Lymphoma xương * *(đã có — [bài học](../331-u-ac-nguoi-lon/lesson.md))**
+- 332 – U xương nguyên phát: Osteosarcoma, Ewing sarcoma, Chondrosarcoma (biến đổi ác tính từ u xương sụn khi mũ sụn > 1,5–2 cm) & GCT * *(đã có — [bài học](../332-u-nguyen-phat/lesson.md))**
 
 **340–349 — Bệnh lý Khớp (Arthritis & Arthropathies)**
 - 340 – Tiếp cận bệnh lý khớp: Thoái hóa khớp (OA) vs. Viêm khớp dạng thấp (RA) vs. Viêm khớp tinh thể (Gout & Giả Gout CPPD) *(đã có — [bài học](../340-viem-khop-va-thoai-hoa-khop/lesson.md))*
-- 341 – Viêm khớp cột sống huyết thanh âm tính: Viêm khớp cùng chậu (Sacroiliitis trên MRI theo ASAS), Viêm cột sống dính khớp (cầu xương syndesmophyte) & Viêm khớp vảy nến *(dự kiến)*
+- 341 – Viêm khớp cột sống huyết thanh âm tính: Viêm khớp cùng chậu (Sacroiliitis trên MRI theo ASAS), Viêm cột sống dính khớp (cầu xương syndesmophyte) & Viêm khớp vảy nến * *(đã có — [bài học](../341-khop-cot-song/lesson.md))**
 
 **350–359 — MRI & Siêu âm Khớp Chi trên (Upper Extremity)**
 - 350 – Khớp vai trên MRI & Siêu âm: Đứt chóp xoay (Phân độ Goutallier), Chẹn dưới mỏm cùng & Mất vững sụn viền (Bankart vs. SLAP) *(đã có — [bài học](../350-mri-sieu-am-khop-vai-chop-xoay/lesson.md))*
-- 355 – Khớp khuỷu & Cổ tay: Viêm mỏm trên lồi cầu, Phức hợp sụn sợi tam giác (TFCC), Hoại tử xương nguyệt (Kienböck) & Gãy xương thuyền *(dự kiến)*
+- 355 – Khớp khuỷu & Cổ tay: Viêm mỏm trên lồi cầu, Phức hợp sụn sợi tam giác (TFCC), Hoại tử xương nguyệt (Kienböck) & Gãy xương thuyền * *(đã có — [bài học](../355-khuyu-co-tay/lesson.md))**
 
 **360–369 — MRI Khớp Chi dưới (Lower Extremity)**
 - 360 – MRI Khớp gối: Đứt dây chằng chéo (ACL/PCL), Rách sụn chêm (quy tắc chạm 2 lát cắt, rách quai xô, rách gốc) & Tổn thương sụn khớp *(đã có — [bài học](../360-mri-khop-goi-day-chang-sun-chem/lesson.md))*
-- 361 – MRI Khớp háng: Hoại tử vô mạch chỏm xương đùi (AVN — phân độ ARCO/Ficat), Hội chứng chẹn khớp háng (FAI: Cam vs. Pincer) & Rách sụn viền *(dự kiến)*
-- 365 – MRI & Siêu âm Cổ chân – Bàn chân: Đứt gân gót (Achilles), Dây chằng sên-mác trước (ATFL) & Viêm cân gan chân *(dự kiến)*
+- 361 – MRI Khớp háng: Hoại tử vô mạch chỏm xương đùi (AVN — phân độ ARCO/Ficat), Hội chứng chẹn khớp háng (FAI: Cam vs. Pincer) & Rách sụn viền * *(đã có — [bài học](../361-khop-hang/lesson.md))**
+- 365 – MRI & Siêu âm Cổ chân – Bàn chân: Đứt gân gót (Achilles), Dây chằng sên-mác trước (ATFL) & Viêm cân gan chân * *(đã có — [bài học](../365-co-chan-ban-chan/lesson.md))**
 
 **370–380 — Nhiễm trùng Cơ Xương Khớp & Khối u phần mềm**
-- 370 – Nhiễm trùng Cơ Xương Khớp: Viêm xương tủy cấp/mạn, Áp-xe Brodie, Bàn chân đái tháo đường (Viêm xương tủy vs. Charcot) & Viêm cân hoại tử *(dự kiến)*
-- 375 – Tiếp cận Khối u phần mềm trên Siêu âm & MRI: U mỡ lành tính (Lipoma) vs. Sarcoma mỡ biệt hóa tốt (vách dày > 2 mm, nốt đặc), U bao hoạt dịch & Giả u máu tụ *(dự kiến)*
+- 370 – Nhiễm trùng Cơ Xương Khớp: Viêm xương tủy cấp/mạn, Áp-xe Brodie, Bàn chân đái tháo đường (Viêm xương tủy vs. Charcot) & Viêm cân hoại tử * *(đã có — [bài học](../370-nhiem-trung-msk/lesson.md))**
+- 375 – Tiếp cận Khối u phần mềm trên Siêu âm & MRI: U mỡ lành tính (Lipoma) vs. Sarcoma mỡ biệt hóa tốt (vách dày > 2 mm, nốt đặc), U bao hoạt dịch & Giả u máu tụ * *(đã có — [bài học](../375-u-phan-mem/lesson.md))**
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

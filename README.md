@@ -119,3 +119,14 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 340 | [Khớp OA/RA/Gout](340-viem-khop-va-thoai-hoa-khop/lesson.md) | `pattern:hep-khe-khop` |
 | 350 | [Vai chóp xoay](350-mri-sieu-am-khop-vai-chop-xoay/lesson.md) | `score:Goutallier` |
 | 360 | [Gối ACL/sụn chêm](360-mri-khop-goi-day-chang-sun-chem/lesson.md) | `pattern:dut-ACL` |
+| 301 | [Protocol MSK](301-protocol-msk/lesson.md) | `protocol:XR-CT-MRI-US` |
+| 321 | [Gãy trẻ em](321-gay-tre-em/lesson.md) | `score:Salter-Harris` |
+| 325 | [Gãy kín/mỏi](325-gay-kin-mo/lesson.md) | `pattern:gay-kin-moi` |
+| 331 | [Myeloma/di căn](331-u-ac-nguoi-lon/lesson.md) | `pattern:u-ac-nguoi-lon` |
+| 332 | [Sarcoma](332-u-nguyen-phat/lesson.md) | `pattern:sarcoma-nguyen-phat` |
+| 341 | [SpA trục](341-khop-cot-song/lesson.md) | `score:ASAS` |
+| 355 | [Khuỷu/cổ tay](355-khuyu-co-tay/lesson.md) | `pattern:co-tay` |
+| 361 | [Háng AVN/FAI](361-khop-hang/lesson.md) | `score:ARCO` |
+| 365 | [Cổ chân](365-co-chan-ban-chan/lesson.md) | `pattern:co-chan` |
+| 370 | [Nhiễm trùng MSK](370-nhiem-trung-msk/lesson.md) | `pattern:nhiem-trung-msk` |
+| 375 | [U phần mềm](375-u-phan-mem/lesson.md) | `pattern:u-phan-mem` |

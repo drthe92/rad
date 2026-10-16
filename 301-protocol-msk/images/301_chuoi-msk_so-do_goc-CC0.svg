@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" font-family="system-ui,sans-serif">
+<rect width="700" height="300" fill="#ffffff"/>
+<text x="350" y="26" text-anchor="middle" font-size="18" font-weight="bold">MSK: X-quang → CT → MRI → Siêu âm</text>
+<line x1="40" y1="120" x2="660" y2="120" stroke="#333" stroke-width="3"/>
+<g font-size="13" text-anchor="middle">
+<line x1="100" y1="110" x2="100" y2="130" stroke="#333" stroke-width="3"/><text x="100" y="150">X-quang 2 mặt</text><text x="100" y="168" fill="#666">Đầu tay + so sánh</text>
+<line x1="260" y1="110" x2="260" y2="130" stroke="#c00" stroke-width="3"/><text x="260" y="150">CT + DECT</text><text x="260" y="168" fill="#c00">Gãy kín + urat/HU</text>
+<line x1="430" y1="110" x2="430" y2="130" stroke="#06c" stroke-width="3"/><text x="430" y="150">MRI PD/T1W</text><text x="430" y="168" fill="#06c">Tủy + gân + sụn</text>
+<line x1="600" y1="110" x2="600" y2="130" stroke="#060" stroke-width="3"/><text x="600" y="150">Siêu âm MSK</text><text x="600" y="168" fill="#060">Gân + dẫn đường</text>
+</g>
+<text x="350" y="220" text-anchor="middle" font-size="13">T1W tủy vàng sáng hơn cơ/đĩa • Thay thế thật T1 tối hơn cơ + SII ≤ 20%</text>
+<text x="350" y="250" text-anchor="middle" font-size="13">DECT urat xanh lá • Gout tophi 160–170 HU</text>
+<text x="350" y="282" text-anchor="middle" font-size="12" fill="#666">Sơ đồ gốc Thư viện CĐHA (CC0)</text>
+</svg>
