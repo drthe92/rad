@@ -28,6 +28,9 @@ certainty: tong-hop-y-van
 | Tắc mạch võng mạc | Võng mạc (retina) | CRVO/BRVO, CRAO | Cherry-red + giờ vàng < 4–6 giờ | [444](../444-tac-mach-vong-mac/lesson.md) |
 | Bong võng mạc | Võng mạc (retina) | Rách, co kéo, tiết dịch, PVR | Macula-on 24 giờ; V/Y dính đĩa | [445](../445-bong-vong-mac/lesson.md) |
 | Phù hoàng điểm viêm | Hoàng điểm (macula) | Uveitic CME vs DME | Anti-VEGF thất bại 3 mũi → steroid | [446](../446-phu-hoang-diem-viem/lesson.md) |
+| Đốm trắng võng mạc | Võng mạc–hắc mạc | MEWDS, AZOOR, PIC, serpiginous | FAF đốm sáng tự khỏi vs bờ lan | [447](../447-dom-trang-vong-mac/lesson.md) |
+| U hắc mạc | Hắc mạc (choroid) | Melanoma, nevus, di căn | Dày ≥ 2 mm + T1 sáng = melanoma | [448](../448-u-hac-mac/lesson.md) |
+| Chấn thương mắt | Nhãn cầu–hốc mắt | Vỡ nhãn cầu, IOFB | Mắt xẹp + XH dịch kính; OTS | [449](../449-chan-thuong-mat-dich-vat/lesson.md) |
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
 | Võng mạc ĐTĐ | Võng mạc (retina) | NPDR/PDR, DME | 4-2-1; CST ≥ 300 µm; PRP 1200–1600 | [443](../443-vong-mac-dai-thao-duong/lesson.md) |
 | Màng dịch kính | Nhãn cầu (globe) | Bong võng mạc, XH dịch kính, bong hắc mạc | V/Y dính đĩa = võng mạc; aftermovement = máu; T-sign = hắc mạc | [411](../411-sieu-am-nhan-cau/lesson.md) |
@@ -49,6 +52,12 @@ certainty: tong-hop-y-van
 - [441 – OCT hoàng điểm](../441-OCT-hoang-diem/lesson.md) *(mới)*
 - [442 – Glaucoma](../442-glaucoma-OCT/lesson.md) *(mới)*
 - [443 – Võng mạc đái tháo đường](../443-vong-mac-dai-thao-duong/lesson.md) *(mới)*
+- [444 – Tắc mạch võng mạc](../444-tac-mach-vong-mac/lesson.md) *(mới)*
+- [445 – Bong võng mạc](../445-bong-vong-mac/lesson.md) *(mới)*
+- [446 – Phù hoàng điểm viêm vs DME](../446-phu-hoang-diem-viem/lesson.md) *(mới)*
+- [447 – Hội chứng đốm trắng](../447-dom-trang-vong-mac/lesson.md) *(mới)*
+- [448 – U hắc mạc](../448-u-hac-mac/lesson.md) *(mới)*
+- [449 – Chấn thương mắt & IOFB](../449-chan-thuong-mat-dich-vat/lesson.md) *(mới)*
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) *(mới)*
 - [451 – Hệ thống](../451-he-thong-mat/lesson.md) *(mới)*
 - [460 – Can thiệp](../460-can-thiep-mat/lesson.md) *(mới)*
@@ -83,6 +92,9 @@ certainty: tong-hop-y-van
 - 444 – Tắc mạch võng mạc CRVO/BRVO vs CRAO *(đã có — [bài học](../444-tac-mach-vong-mac/lesson.md))*
 - 445 – Bong võng mạc rách/co kéo/tiết dịch *(đã có — [bài học](../445-bong-vong-mac/lesson.md))*
 - 446 – Phù hoàng điểm viêm vs DME *(đã có — [bài học](../446-phu-hoang-diem-viem/lesson.md))*
+- 447 – Hội chứng đốm trắng *(đã có — [bài học](../447-dom-trang-vong-mac/lesson.md))*
+- 448 – U hắc mạc: melanoma vs nevus vs di căn *(đã có — [bài học](../448-u-hac-mac/lesson.md))*
+- 449 – Chấn thương mắt & dị vật nội nhãn *(đã có — [bài học](../449-chan-thuong-mat-dich-vat/lesson.md))*
 
 **450–459 — Nhi & bệnh hệ thống**
 - 450 – Mắt nhi *(đã có — [bài học](../450-mat-nhi/lesson.md))*

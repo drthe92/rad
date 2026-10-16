@@ -63,6 +63,9 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 444 | [Tắc mạch võng mạc](444-tac-mach-vong-mac/lesson.md) | `pattern:tac-mach-vong-mac` `vung:vong-mac` `protocol:FFA-OCT` |
 | 445 | [Bong võng mạc](445-bong-vong-mac/lesson.md) | `pattern:bong-vong-mac` `vung:vong-mac` `protocol:sieu-am-B-scan` |
 | 446 | [Phù hoàng điểm viêm](446-phu-hoang-diem-viem/lesson.md) | `pattern:phu-hoang-diem-viem` `vung:hoang-diem` `protocol:OCT-hoang-diem` |
+| 447 | [Hội chứng đốm trắng](447-dom-trang-vong-mac/lesson.md) | `pattern:dom-trang-vong-mac` `vung:vong-mac-hac-mac` `protocol:FAF-OCT` |
+| 448 | [U hắc mạc](448-u-hac-mac/lesson.md) | `pattern:u-hac-mac` `vung:hac-mac` `protocol:US-MRI-hac-mac` |
+| 449 | [Chấn thương mắt & IOFB](449-chan-thuong-mat-dich-vat/lesson.md) | `pattern:chan-thuong-mat` `vung:nhan-cau-hoc-mat` `protocol:CT-1mm` |
 | 450 | [Mắt nhi](450-mat-nhi/lesson.md) | `pattern:xuat-tiet-nhi` |
 | 451 | [Hệ thống](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
