@@ -24,6 +24,9 @@ certainty: tong-hop-y-van
 | Mạch xoang hang | Xoang hang | Fistula, huyết khối | Tiếng thổi + SOV giãn | [423](../423-fistula-xoang-hang/lesson.md) |
 | Tuyến lệ to | Trên-ngoài | IgG4, sarcoid, u | Không đau 2 bên + IgG4 | [424](../424-tuyen-le/lesson.md) |
 | TK thị/giao thoa | TK-yên | Viêm, NAION, glioma/ONSM, adenoma | Đau + ngấm = viêm; tram-track = ONSM; bán manh = yên | [430](../430-duong-thi-giac/lesson.md), [431](../431-u-than-kinh-thi/lesson.md), [432](../432-vung-yen/lesson.md) |
+| Đĩa thị | Đĩa thị (disc) | Phù đĩa, drusen, IIH | Frisén 0–5; lõi tối = drusen | [433](../433-phu-dia-thi-drusen/lesson.md) |
+| Tắc mạch võng mạc | Võng mạc (retina) | CRVO/BRVO, CRAO | Cherry-red + giờ vàng < 4–6 giờ | [444](../444-tac-mach-vong-mac/lesson.md) |
+| Bong võng mạc | Võng mạc (retina) | Rách, co kéo, tiết dịch, PVR | Macula-on 24 giờ; V/Y dính đĩa | [445](../445-bong-vong-mac/lesson.md) |
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
 | Võng mạc ĐTĐ | Võng mạc (retina) | NPDR/PDR, DME | 4-2-1; CST ≥ 300 µm; PRP 1200–1600 | [443](../443-vong-mac-dai-thao-duong/lesson.md) |
 | Màng dịch kính | Nhãn cầu (globe) | Bong võng mạc, XH dịch kính, bong hắc mạc | V/Y dính đĩa = võng mạc; aftermovement = máu; T-sign = hắc mạc | [411](../411-sieu-am-nhan-cau/lesson.md) |
@@ -41,6 +44,7 @@ certainty: tong-hop-y-van
 - [430 – Đường thị giác](../430-duong-thi-giac/lesson.md) *(mới)*
 - [431 – U TK thị](../431-u-than-kinh-thi/lesson.md) *(mới)*
 - [432 – Vùng yên](../432-vung-yen/lesson.md) *(mới)*
+- [433 – Phù đĩa thị vs drusen](../433-phu-dia-thi-drusen/lesson.md) *(mới)*
 - [441 – OCT hoàng điểm](../441-OCT-hoang-diem/lesson.md) *(mới)*
 - [442 – Glaucoma](../442-glaucoma-OCT/lesson.md) *(mới)*
 - [443 – Võng mạc đái tháo đường](../443-vong-mac-dai-thao-duong/lesson.md) *(mới)*
@@ -69,11 +73,14 @@ certainty: tong-hop-y-van
 - 430 – Đường thị giác *(đã có — [bài học](../430-duong-thi-giac/lesson.md))*
 - 431 – U TK thị *(đã có — [bài học](../431-u-than-kinh-thi/lesson.md))*
 - 432 – Vùng yên-giao thoa *(đã có — [bài học](../432-vung-yen/lesson.md))*
+- 433 – Phù đĩa thị vs drusen đĩa *(đã có — [bài học](../433-phu-dia-thi-drusen/lesson.md))*
 
 **440–449 — Võng mạc, hoàng điểm & glaucoma (OCT)**
 - 441 – OCT hoàng điểm *(đã có — [bài học](../441-OCT-hoang-diem/lesson.md))*
 - 442 – Glaucoma OCT *(đã có — [bài học](../442-glaucoma-OCT/lesson.md))*
 - 443 – Võng mạc đái tháo đường ETDRS + DME *(đã có — [bài học](../443-vong-mac-dai-thao-duong/lesson.md))*
+- 444 – Tắc mạch võng mạc CRVO/BRVO vs CRAO *(đã có — [bài học](../444-tac-mach-vong-mac/lesson.md))*
+- 445 – Bong võng mạc rách/co kéo/tiết dịch *(đã có — [bài học](../445-bong-vong-mac/lesson.md))*
 
 **450–459 — Nhi & bệnh hệ thống**
 - 450 – Mắt nhi *(đã có — [bài học](../450-mat-nhi/lesson.md))*

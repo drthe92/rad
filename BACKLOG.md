@@ -10,9 +10,9 @@
 | # | ID đề xuất | Chủ đề | Vì sao quan trọng nhất | Trạng thái |
 |---|---|---|---|---|
 | 1 | 443 | Võng mạc đái tháo đường: phân độ ETDRS/DRSS + phù hoàng điểm DME + OCTA | Hay gặp nhất võng mạc, quyết định laser/anti-VEGF, nối 441 | xong (2026-10-16, 6 ảnh PD/CC BY + composite DME trước-sau) |
-| 2 | 444 | Tắc mạch võng mạc: CRVO/BRVO vs CRAO (cherry-red, giờ vàng) | Cấp cứu (CRAO tính bằng giờ), thi cử kinh điển | chờ viết |
-| 3 | 445 | Bong võng mạc: rhegmatogenous vs co kéo vs tiết dịch + PVR | Quyết định mổ (khí/nút/scleral buckle), nối 411 siêu âm | chờ viết |
-| 4 | 433 | Phù đĩa thị vs drusen đĩa: Frisén + IIH | Tránh chọc dịch oan + bỏ sót u, nối 430 | chờ viết |
+| 2 | 444 | Tắc mạch võng mạc: CRVO/BRVO vs CRAO (cherry-red, giờ vàng) | Cấp cứu (CRAO tính bằng giờ), thi cử kinh điển | xong (2026-10-16, 3 ảnh CC BY/BY-SA + composite BRVO-vs-CRVO, ca CRVO CMT 823→275) |
+| 3 | 445 | Bong võng mạc: rhegmatogenous vs co kéo vs tiết dịch + PVR | Quyết định mổ (khí/nút/scleral buckle), nối 411 siêu âm | xong (2026-10-16, 6 ảnh CC BY/BY-SA + composite TRD-vs-TRRD + sơ đồ buckle) |
+| 4 | 433 | Phù đĩa thị vs drusen đĩa: Frisén + IIH | Tránh chọc dịch oan + bỏ sót u, nối 430 | xong (2026-10-16, 5 ảnh CC BY/BY-NC + composite phù-vs-drusen, RNFL 155–550) |
 | 0 | (27 bài text-only, liệt kê dưới) | Backfill ảnh: ưu tiên Radiopaedia từng case (CC BY-NC-SA) + vẽ CC0, mỗi lượt worker dành ≥1 slot | `chờ viết` (xuyên suốt; 2026-10-16: xong 441 — 3 ảnh CC BY + composite DME-vs-nAMD, còn ~26) |
 | 5 | 612 | Cấp cứu đường thở trẻ em: Croup (steeple) vs viêm nắp thanh quản (thumb) vs dị vật | Cấp cứu nhi tối khẩn, thi cử kinh điển, chưa có bài nào | xong (2026-10-16, 4 ảnh CC BY/BY-NC + composite) |
 | 6 | 525 | K nội mạc/cổ tử cung: FIGO MRI (<50% vs ≥50% cơ, parametrium) | Quyết định mổ/xạ, nối tiếp bài 520 | chờ viết |
@@ -34,3 +34,4 @@
 - 2026-10-16: lịch chuyển 1 giờ/lần + luật ảnh Radiopaedia-từng-case/CC0 + mục #0 backfill 27 bài text-only.
 - 2026-10-16: viết 612 (cấp cứu đường thở nhi, 4 ảnh CC BY/BY-NC + composite dịch-vs-áp-xe, link chéo 730); append 615 (viêm phổi nhi — khoảng trống mới). Slot backfill #0 dồn lượt sau.
 - 2026-10-16: viết 443 (võng mạc ĐTĐ: 4 ảnh đáy mắt NEI public domain + cặp OCT DME CC BY PMC13182033 + composite trước-sau; link chéo 441/411/451); backfill ảnh 441 (3 ảnh OCT CC BY + composite DME-vs-nAMD, quiz ảnh hóa toàn bộ); append 446 (uveitic CME vs DME — khoảng trống mới từ ca Simaku 2026).
+- 2026-10-16: viết 444 (tắc mạch: BRVO CC BY + cherry-red BY-SA + ca CRVO Cureus CC BY, CMT 823→275) + 445 (bong: RRD/B-scan/buckle BY-SA + TRD/TRRD CC BY PMC13326397 + sơ đồ PVD) + 433 (phù đĩa/drusen: fundus CC BY + OCT Pract Neurol BY-NC + ODD EDI-OCT CC BY, RNFL 155–550).

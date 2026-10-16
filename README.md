@@ -55,10 +55,13 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 430 | [Đường thị giác](430-duong-thi-giac/lesson.md) | `pattern:viem-TK-thi` |
 | 431 | [U TK thị](431-u-than-kinh-thi/lesson.md) | `pattern:u-TK-thi` |
 | 432 | [Vùng yên](432-vung-yen/lesson.md) | `pattern:khoi-yen` |
+| 433 | [Phù đĩa thị vs drusen](433-phu-dia-thi-drusen/lesson.md) | `pattern:phu-dia-thi` `vung:dia-thi` `score:Frisen` `protocol:OCT-dia-thi` |
 | 401 | [Phương thức CĐHA](401-phuong-thuc-mat/lesson.md) | `pattern:protocol-mat` |
 | 441 | [OCT hoàng điểm](441-OCT-hoang-diem/lesson.md) | `pattern:OCT` |
 | 442 | [Glaucoma](442-glaucoma-OCT/lesson.md) | `pattern:OCT` |
 | 443 | [Võng mạc đái tháo đường](443-vong-mac-dai-thao-duong/lesson.md) | `pattern:vong-mac-dai-thao-duong` `vung:vong-mac` `score:ETDRS` `protocol:OCT-OCTA` |
+| 444 | [Tắc mạch võng mạc](444-tac-mach-vong-mac/lesson.md) | `pattern:tac-mach-vong-mac` `vung:vong-mac` `protocol:FFA-OCT` |
+| 445 | [Bong võng mạc](445-bong-vong-mac/lesson.md) | `pattern:bong-vong-mac` `vung:vong-mac` `protocol:sieu-am-B-scan` |
 | 450 | [Mắt nhi](450-mat-nhi/lesson.md) | `pattern:xuat-tiet-nhi` |
 | 451 | [Hệ thống](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
