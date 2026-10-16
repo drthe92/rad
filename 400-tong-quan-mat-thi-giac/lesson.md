@@ -25,10 +25,12 @@ certainty: tong-hop-y-van
 | Tuyến lệ to | Trên-ngoài | IgG4, sarcoid, u | Không đau 2 bên + IgG4 | [424](../424-tuyen-le/lesson.md) |
 | TK thị/giao thoa | TK-yên | Viêm, NAION, glioma/ONSM, adenoma | Đau + ngấm = viêm; tram-track = ONSM; bán manh = yên | [430](../430-duong-thi-giac/lesson.md), [431](../431-u-than-kinh-thi/lesson.md), [432](../432-vung-yen/lesson.md) |
 | Đĩa thị | Đĩa thị (disc) | Phù đĩa, drusen, IIH | Frisén 0–5; lõi tối = drusen | [433](../433-phu-dia-thi-drusen/lesson.md) |
+| Teo thị 2 bên | Thần kinh thị (optic nerve) | LHON, độc–chuyển hóa, viêm, chèn ép | GCL mất sớm = LHON; RNFL thái dương mỏng = độc chất | [434](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) |
 | Tắc mạch võng mạc | Võng mạc (retina) | CRVO/BRVO, CRAO | Cherry-red + giờ vàng < 4–6 giờ | [444](../444-tac-mach-vong-mac/lesson.md) |
 | Bong võng mạc | Võng mạc (retina) | Rách, co kéo, tiết dịch, PVR | Macula-on 24 giờ; V/Y dính đĩa | [445](../445-bong-vong-mac/lesson.md) |
 | Phù hoàng điểm viêm | Hoàng điểm (macula) | Uveitic CME vs DME | Anti-VEGF thất bại 3 mũi → steroid | [446](../446-phu-hoang-diem-viem/lesson.md) |
 | Đốm trắng võng mạc | Võng mạc–hắc mạc | MEWDS, AZOOR, PIC, serpiginous | FAF đốm sáng tự khỏi vs bờ lan | [447](../447-dom-trang-vong-mac/lesson.md) |
+| Viêm hoại tử võng mạc | Võng mạc (retina) | ARN, CMV retinitis, PORN | Vitritis ↔ mức miễn dịch; PCR dịch nội nhãn | [452](../452-hoai-tu-vong-mac-ARN-CMV/lesson.md) |
 | U hắc mạc | Hắc mạc (choroid) | Melanoma, nevus, di căn | Dày ≥ 2 mm + T1 sáng = melanoma | [448](../448-u-hac-mac/lesson.md) |
 | Chấn thương mắt | Nhãn cầu–hốc mắt | Vỡ nhãn cầu, IOFB | Mắt xẹp + XH dịch kính; OTS | [449](../449-chan-thuong-mat-dich-vat/lesson.md) |
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
@@ -49,6 +51,7 @@ certainty: tong-hop-y-van
 - [431 – U TK thị](../431-u-than-kinh-thi/lesson.md) *(mới)*
 - [432 – Vùng yên](../432-vung-yen/lesson.md) *(mới)*
 - [433 – Phù đĩa thị vs drusen](../433-phu-dia-thi-drusen/lesson.md) *(mới)*
+- [434 – Bệnh TK thị do độc–chuyển hóa & LHON](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) *(mới)*
 - [441 – OCT hoàng điểm](../441-OCT-hoang-diem/lesson.md) *(mới)*
 - [442 – Glaucoma](../442-glaucoma-OCT/lesson.md) *(mới)*
 - [443 – Võng mạc đái tháo đường](../443-vong-mac-dai-thao-duong/lesson.md) *(mới)*
@@ -60,6 +63,7 @@ certainty: tong-hop-y-van
 - [449 – Chấn thương mắt & IOFB](../449-chan-thuong-mat-dich-vat/lesson.md) *(mới)*
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) *(mới)*
 - [451 – Hệ thống](../451-he-thong-mat/lesson.md) *(mới)*
+- [452 – Hoại tử võng mạc cấp (ARN) & CMV retinitis](../452-hoai-tu-vong-mac-ARN-CMV/lesson.md) *(mới)*
 - [460 – Can thiệp](../460-can-thiep-mat/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
@@ -84,6 +88,7 @@ certainty: tong-hop-y-van
 - 431 – U TK thị *(đã có — [bài học](../431-u-than-kinh-thi/lesson.md))*
 - 432 – Vùng yên-giao thoa *(đã có — [bài học](../432-vung-yen/lesson.md))*
 - 433 – Phù đĩa thị vs drusen đĩa *(đã có — [bài học](../433-phu-dia-thi-drusen/lesson.md))*
+- 434 – Bệnh thần kinh thị do độc–chuyển hóa & LHON: tiếp cận teo thị 2 bên *(đã có — [bài học](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md))*
 
 **440–449 — Võng mạc, hoàng điểm & glaucoma (OCT)**
 - 441 – OCT hoàng điểm *(đã có — [bài học](../441-OCT-hoang-diem/lesson.md))*
@@ -99,6 +104,7 @@ certainty: tong-hop-y-van
 **450–459 — Nhi & bệnh hệ thống**
 - 450 – Mắt nhi *(đã có — [bài học](../450-mat-nhi/lesson.md))*
 - 451 – Bệnh hệ thống ở mắt *(đã có — [bài học](../451-he-thong-mat/lesson.md))*
+- 452 – Hoại tử võng mạc cấp (ARN) & viêm võng mạc CMV *(đã có — [bài học](../452-hoai-tu-vong-mac-ARN-CMV/lesson.md))*
 
 **460–499 — Can thiệp, xạ trị & dự trữ**
 - 460 – Can thiệp + xạ trị *(đã có — [bài học](../460-can-thiep-mat/lesson.md))*

@@ -56,6 +56,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 431 | [U TK thị](431-u-than-kinh-thi/lesson.md) | `pattern:u-TK-thi` |
 | 432 | [Vùng yên](432-vung-yen/lesson.md) | `pattern:khoi-yen` |
 | 433 | [Phù đĩa thị vs drusen](433-phu-dia-thi-drusen/lesson.md) | `pattern:phu-dia-thi` `vung:dia-thi` `score:Frisen` `protocol:OCT-dia-thi` |
+| 434 | [Bệnh TK thị do độc–chuyển hóa & LHON](434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) | `pattern:teo-thi` `vung:than-kinh-thi` `score:GCL` `protocol:OCT-thi-truong` |
 | 401 | [Phương thức CĐHA](401-phuong-thuc-mat/lesson.md) | `pattern:protocol-mat` |
 | 441 | [OCT hoàng điểm](441-OCT-hoang-diem/lesson.md) | `pattern:OCT` |
 | 442 | [Glaucoma](442-glaucoma-OCT/lesson.md) | `pattern:OCT` `vung:than-kinh-thi` `protocol:OCT-RNFL` |
@@ -68,6 +69,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 449 | [Chấn thương mắt & IOFB](449-chan-thuong-mat-dich-vat/lesson.md) | `pattern:chan-thuong-mat` `vung:nhan-cau-hoc-mat` `protocol:CT-1mm` |
 | 450 | [Mắt nhi](450-mat-nhi/lesson.md) | `pattern:xuat-tiet-nhi` |
 | 451 | [Hệ thống](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` |
+| 452 | [Hoại tử võng mạc cấp (ARN) & CMV retinitis](452-hoai-tu-vong-mac-ARN-CMV/lesson.md) | `pattern:hoai-tu-vong-mac` `vung:vong-mac` `protocol:PCR-dich-thuy` `protocol:widefield` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
