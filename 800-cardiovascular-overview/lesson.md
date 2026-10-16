@@ -33,7 +33,7 @@ certainty: tong-hop-y-van
 - **800** – Tổng quan Tim mạch: ECG-Gating & Mặt phẳng chuẩn *(bài này)*
 - 810 – CT Động mạch vành & CAD-RADS 2.0 *(đã có — [bài học](../810-coronary-cta-cadrads/lesson.md))*
 - 820 – MRI Tim: LGE & T1/T2 Mapping *(đã có — [bài học](../820-cardiac-mri-lge-mapping/lesson.md))*
-- 830 – CT Quy hoạch TAVI & Van tim cấu trúc * *(đã có — [bài học](../830-tavi-structural-heart/lesson.md))**
-- 840 – ĐMC bụng (AAA), EVAR Endoleak I–V & PAD * *(đã có — [bài học](../840-aorta-endoleak-pad/lesson.md))**
+- 830 – CT Quy hoạch TAVI & Van tim cấu trúc *(đã có — [bài học](../830-tavi-structural-heart/lesson.md))*
+- 840 – ĐMC bụng (AAA), EVAR Endoleak I–V & PAD *(đã có — [bài học](../840-aorta-endoleak-pad/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -46,7 +46,7 @@ certainty: tong-hop-y-van
 
 ## 6. Tự lượng giá — Blind Quiz
 
-**Ca 1 — Chấn thương + rách lách + nốt ngấm khu trú thì ĐM còn thì muộn: thoát thuốc hay giả phình? Xử trí? *(Bảng mục 3 + mục 1.)*
+**Ca 1 — Chấn thương + rách lách + nốt ngấm khu trú thì ĐM còn thì muộn: thoát thuốc hay giả phình? Xử trí?** *(Bảng mục 3 + mục 1.)*
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
