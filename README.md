@@ -167,6 +167,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 635 | [Dị tật hệ tiết niệu nhi (SFU/VUR/PUV)](635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) | `pattern:than-u-nuoc-nhi` `pattern:trao-nguoc-bang-quang-nieu-quan` `pattern:van-nieu-dao-sau` `vung:than-nieu-nhi` `score:SFU` `score:VUR` |
 | 640 | [Háng nhi & NAT](640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) | `score:Graf` |
 | 650 | [Thần kinh nhi](650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) | `score:Papile` |
+| 655 | [HIE sơ sinh & dị tật bẩm sinh hệ thần kinh](655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md) | `pattern:hie-dwi` `pattern:di-dang-ho-sau` `pattern:bat-san-the-chai` `vung:nao-nhi` `score:Sarnat` `score:TVA` `protocol:MRI-nao-so-sinh` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
 | ID | Bài | Tags 4 chiều |

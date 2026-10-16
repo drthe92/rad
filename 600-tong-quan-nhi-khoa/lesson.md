@@ -33,6 +33,7 @@ certainty: tong-hop-y-van
 - [630 – U bụng nhi](../630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md) *(đã có)*
 - [640 – Háng nhi & NAT](../640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) *(đã có)*
 - [650 – Thần kinh nhi](../650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) *(đã có)*
+- [655 – HIE sơ sinh & dị tật bẩm sinh hệ thần kinh (Chiari II, Dandy-Walker, bất sản thể chai)](../655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md) *(đã có)*
 - [635 – Dị tật hệ tiết niệu nhi (SFU/VUR/PUV)](../635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) *(đã có)*
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) (retinoblastoma vs Coats)
 
@@ -58,6 +59,6 @@ certainty: tong-hop-y-van
 
 **650–669 — Thần kinh Nhi khoa (Pediatric Neuroimaging)**
 - 650 – Siêu âm thóp Sơ sinh (Xuất huyết vùng mầm Papile Độ I–IV, Nhuyễn chất trắng quanh não thất PVL) & U hố sau trẻ em trên MRI *(đã có — [bài học](../650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md))* *(nối chéo bài `450` Mắt nhi)*
-- 655 – Bệnh não thiếu máu cục bộ thiếu oxy sơ sinh (HIE) & Dị tật bẩm sinh hệ thần kinh (Chiari I–II, Dandy-Walker, Bất sản thể chai) *(dự kiến)*
+- 655 – Bệnh não thiếu máu cục bộ thiếu oxy sơ sinh (HIE) & Dị tật bẩm sinh hệ thần kinh (Chiari I–II, Dandy-Walker, Bất sản thể chai) *(đã có — [bài học](../655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
