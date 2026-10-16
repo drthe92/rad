@@ -130,3 +130,14 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 365 | [Cổ chân](365-co-chan-ban-chan/lesson.md) | `pattern:co-chan` |
 | 370 | [Nhiễm trùng MSK](370-nhiem-trung-msk/lesson.md) | `pattern:nhiem-trung-msk` |
 | 375 | [U phần mềm](375-u-phan-mem/lesson.md) | `pattern:u-phan-mem` |
+
+## Hệ Vú & Sản Phụ khoa (dải 500, đang khởi tạo)
+| ID | Bài | Tags 4 chiều |
+|---|---|---|
+| 500 | [Tổng quan Vú & SPK](500-tong-quan-vu-san-phu-khoa/lesson.md) | Tổng quan, bảng DDx |
+| 510 | [Vú BI-RADS](510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) | `score:BI-RADS` |
+| 520 | [Tử cung FIGO](520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md) | `score:FIGO` |
+| 530 | [Phần phụ O-RADS](530-buong-trung-ORADS-sieu-am-MRI/lesson.md) | `score:O-RADS` |
+| 540 | [DIE Enzian](540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) | `score:Enzian` |
+| 550 | [Thai sớm SRU](550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) | `score:SRU` |
+| 560 | [PAS](560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) | `score:PAS` |
