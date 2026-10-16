@@ -9,6 +9,7 @@
 
 | # | ID đề xuất | Chủ đề | Vì sao quan trọng nhất | Trạng thái |
 |---|---|---|---|---|
+| 0 | (27 bài text-only, liệt kê dưới) | Backfill ảnh: ưu tiên Radiopaedia từng case (CC BY-NC-SA) + vẽ CC0, mỗi lượt worker dành ≥1 slot | `chờ viết` (xuyên suốt) |
 | 1 | 612 | Cấp cứu đường thở trẻ em: Croup (steeple) vs viêm nắp thanh quản (thumb) vs dị vật | Cấp cứu nhi tối khẩn, thi cử kinh điển, chưa có bài nào | chờ viết |
 | 2 | 525 | K nội mạc/cổ tử cung: FIGO MRI (<50% vs ≥50% cơ, parametrium) | Quyết định mổ/xạ, nối tiếp bài 520 | chờ viết |
 | 3 | 512 | Vú: vi vôi hóa, biến dạng cấu trúc, túi ngực (linguine/snowstorm) | Hoàn thiện cụm BI-RADS sau bài 510 | chờ viết |
