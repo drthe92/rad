@@ -62,6 +62,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 443 | [Võng mạc đái tháo đường](443-vong-mac-dai-thao-duong/lesson.md) | `pattern:vong-mac-dai-thao-duong` `vung:vong-mac` `score:ETDRS` `protocol:OCT-OCTA` |
 | 444 | [Tắc mạch võng mạc](444-tac-mach-vong-mac/lesson.md) | `pattern:tac-mach-vong-mac` `vung:vong-mac` `protocol:FFA-OCT` |
 | 445 | [Bong võng mạc](445-bong-vong-mac/lesson.md) | `pattern:bong-vong-mac` `vung:vong-mac` `protocol:sieu-am-B-scan` |
+| 446 | [Phù hoàng điểm viêm](446-phu-hoang-diem-viem/lesson.md) | `pattern:phu-hoang-diem-viem` `vung:hoang-diem` `protocol:OCT-hoang-diem` |
 | 450 | [Mắt nhi](450-mat-nhi/lesson.md) | `pattern:xuat-tiet-nhi` |
 | 451 | [Hệ thống](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |

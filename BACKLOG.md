@@ -27,7 +27,10 @@
 | 15 | 151 | U thận đặc: RCC vs oncocytoma vs AML (mỡ −10 HU) | Bosniak (150) chỉ phủ nang, thiếu u đặc | chờ viết |
 | 16 | 545 | Sàn chậu MR defecography (PCL/HMO) | Ít gặp hơn, ưu tiên thấp | chờ viết |
 | 17 | 615 | Viêm phổi nhi: round pneumonia, virus vs vi khuẩn, hít sặc dầu hỏa | Hay gặp + dễ kháng sinh mù; nối tiếp 610/612 (phổi nhi còn thiếu mảng nhiễm trùng) | chờ viết |
-| 18 | 446 | Phù hoàng điểm viêm (uveitic CME) vs DME: đáp ứng steroid sau anti-VEGF thất bại | DDx DME quan trọng (quyết định steroid vs anti-VEGF); có sẵn ca Cureus 2026 CC BY (Simaku) + OCT ETDRS maps | chờ viết |
+| 18 | 446 | Phù hoàng điểm viêm (uveitic CME) vs DME: đáp ứng steroid sau anti-VEGF thất bại | DDx DME quan trọng (quyết định steroid vs anti-VEGF); có sẵn ca Cureus 2026 CC BY (Simaku) + OCT ETDRS maps | xong (2026-10-16, ca nguyên văn: 4 ảnh OCT CC BY + ảnh DME đối chiếu + composite, CFT 487→243) |
+| 19 | 447 | Hội chứng đốm trắng (APMPPE, MEWDS, AZOOR, PIC) | Hay nhầm viêm màng mạch/uveitis, quyết định steroid vs theo dõi; chưa phủ cụm viêm võng mạc–hắc mạc | chờ viết |
+| 20 | 449 | Chấn thương mắt & dị vật nội nhãn (IOFB): CT 1 mm, giờ vàng | Cấp cứu, dễ sót dị vật kim loại; nối 420 (chấn thương hốc mắt) | chờ viết |
+| 21 | 448 | U hắc mạc (melanoma) vs nevus vs di căn: siêu âm A/B + MRI | Phân biệt lành/ác nhãn cầu, quyết định xạ/mổ; 412 mới phủ u vôi hóa (RB) | chờ viết |
 
 ## Nhật ký vòng lặp
 - 2026-10-16: khởi tạo file + gắn lịch cron tự động (6 giờ/lần, tối đa 2 bài/lượt).
@@ -35,3 +38,4 @@
 - 2026-10-16: viết 612 (cấp cứu đường thở nhi, 4 ảnh CC BY/BY-NC + composite dịch-vs-áp-xe, link chéo 730); append 615 (viêm phổi nhi — khoảng trống mới). Slot backfill #0 dồn lượt sau.
 - 2026-10-16: viết 443 (võng mạc ĐTĐ: 4 ảnh đáy mắt NEI public domain + cặp OCT DME CC BY PMC13182033 + composite trước-sau; link chéo 441/411/451); backfill ảnh 441 (3 ảnh OCT CC BY + composite DME-vs-nAMD, quiz ảnh hóa toàn bộ); append 446 (uveitic CME vs DME — khoảng trống mới từ ca Simaku 2026).
 - 2026-10-16: viết 444 (tắc mạch: BRVO CC BY + cherry-red BY-SA + ca CRVO Cureus CC BY, CMT 823→275) + 445 (bong: RRD/B-scan/buckle BY-SA + TRD/TRRD CC BY PMC13326397 + sơ đồ PVD) + 433 (phù đĩa/drusen: fundus CC BY + OCT Pract Neurol BY-NC + ODD EDI-OCT CC BY, RNFL 155–550).
+- 2026-10-16: viết 446 (ca nguyên văn Simaku Cureus CC BY: uveitic CME vs DME, 4 ảnh OCT theo mốc điều trị + ảnh DME đối chiếu + composite, CFT 487/640→243/278); append 447 (white dot syndromes), 449 (chấn thương mắt/IOFB), 448 (u hắc mạc) — khoảng trống cụm mắt.
