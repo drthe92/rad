@@ -15,8 +15,9 @@ certainty: tong-hop-y-van
 ## 1. Tổng quan — có vỏ hay không + JZ bao nhiêu mm + nội mạc bao nhiêu mm
 
 - U xơ (leiomyoma): u cơ đơn dòng có **vỏ giả (pseudocapsule)** + mạch bao quanh (bridging vessel) — TẠI SAO bờ rõ + đẩy lệch JZ: u đẩy mô lành ra ngoài tạo vỏ.
-- Adenomyosis: tuyến nội mạc lạc vào cơ + cơ phì đại — TẠI SAO **JZ ≥ 12 mm + nang T2 2–5 mm + mạch xuyên**: tuyến lạc + cơ phản ứng lan tỏa, không vỏ (≤ 8 mm bình thường, 8–12 mm vùng xám).
+- Adenomyosis: tuyến nội mạc lạc vào cơ + cơ phì đại — TẠI SAO **JZ ≥ 12 mm + nang T2 2–5 mm + mạch xuyên**: tuyến lạc + cơ phản ứng lan tỏa, không vỏ (≤ 8 mm bình thường, 8–12 mm vùng xám). Phân biệt **nội (internal — JZ dày ≥ 12 mm và tỷ lệ JZ/cơ cùng bên > 40%)** vs **ngoại (external — ổ ngoài JZ)**.
 - Nội mạc mãn kinh chảy máu: **≤ 4 mm loại trừ K (> 99%)**, ≥ 5 mm sinh thiết — TẠI SAO: nội mạc teo không thể giấu K dày.
+- **Phân loại FIGO 0–8 u xơ (quyết định ngả đường mổ):** **0** có cuống trong buồng; **1** trong cơ < 50% thể tích nằm trong buồng; **2** trong cơ ≥ 50% trong buồng (**0–2 = soi buồng, độ 2 đôi khi hai thì**); **3** tiếp giáp nội mạc nhưng 100% trong cơ; **4** trong cơ hoàn toàn; **5** dưới thanh mạc **≥ 50%** trong cơ; **6** dưới thanh mạc **< 50%** trong cơ (**3–6 = nội soi ổ bụng/cắt u**); **7** dưới thanh mạc có cuống; **8** ở nơi khác (cổ tử cung, ký sinh, dây chằng rộng — **7–8 = nội soi ổ bụng**). **Loại 2–5 dùng chung ký hiệu ghép** (vd 2-5).
 
 ## 2. Gamut khối/dày tử cung (Gamut)
 
@@ -36,6 +37,15 @@ certainty: tong-hop-y-van
 
 ![Xơ vs adenomyosis: TVUS + MRI + key features (A/B/C)](images/520_xo-vs-adeno_so-do_Diagnostics-Pecorella-CCBY40.webp)
 *(A) xơ bờ rõ + vỏ giả; (B) adeno JZ dày + nang; (C) đồng tồn tại 30–50%. Nguồn: Pecorella et al., Diagnostics 2026 Fig. 1, CC BY 4.0.*
+
+![So sánh trực tiếp TVUS + MRI: xơ trong cơ vs adenomyosis lan tỏa vs đồng tồn tại](images/520_xo-vs-adeno_US-MRI_PMC13605732.jpg)
+*Cột A — **xơ trong cơ (intramural fibroid):** TVUS khối giảm âm bờ rõ + bóng bờ + mạch ngoại vi; MRI **khối bờ rõ + T2 tối + vỏ giả + ngấm mạch ngoại vi, JZ thường còn**. Cột B — **adenomyosis lan tỏa:** TVUS cơ dày không đối xứng + nang cơ + bóng hình quạt; MRI **JZ > 12 mm + nang cơ (T2/T1 sáng) + cơ đồng nhất kém, bờ không rõ**. Cột C — **đồng tồn tại cả hai (30–50%).** Nguồn: Diagnostics 2026 (PMC13605732), CC BY 4.0.*
+
+![Adenomyosis nội vs ngoại trên MRI T2](images/520_adenomyosis-noi-ngoai_MRI_PMC13313630.jpg)
+*(A) **Adenomyosis nội (internal):** JZ dày ≥ 12 mm và **tỷ lệ JZ/cơ cùng bên > 40%** (mũi tên đỏ). (B) **Adenomyosis ngoại (external):** ổ lạc nội mạc ngoài JZ. Nguồn: Medicine 2026 (PMC13313630), CC BY 4.0.*
+
+![Xơ khổng lồ (CT) vs adenomyosis (MRI T2)](images/composite_xo-vs-adeno_CT-MRI.jpg)
+*Trái: **xơ dưới thanh mạc khổng lồ 27,6 × 22,3 cm** (CT dọc có cản quang — khối bờ rõ, đẩy lệch tạng). Phải: **adenomyosis** (MRI T2 dọc — JZ dày lan tỏa, không có vỏ/khối khu trú). Nguồn: Cureus 2026 (PMC13263843) + Br J Radiol 2026 (PMC13070643), CC BY 4.0. Ảnh ghép letterbox.*
 
 ## 4. Protocol tử cung
 
@@ -57,24 +67,52 @@ flowchart TD
 
 ## 6. Tự lượng giá — Blind Quiz
 
-**Ca 1 — Rong kinh + tử cung to. Đọc bảng so sánh TVUS/MRI.**
+**Ca 1 — Rong kinh + tử cung to. Đọc bảng so sánh TVUS/MRI: cột nào là xơ, cột nào là adeno, dấu chốt mỗi bên?**
 
-![Ca 1 — So sánh xơ/adeno/đồng tồn tại](images/520_xo-vs-adeno_so-do_Diagnostics-Pecorella-CCBY40.webp)
+![Ca 1 — So sánh xơ / adeno / đồng tồn tại (TVUS + MRI)](images/520_xo-vs-adeno_US-MRI_PMC13605732.jpg)
 
-- Hỏi: cột nào là xơ? Cột nào là adeno? Dấu MRI chốt mỗi bên?
+- Gợi ý lâm sàng: nữ 40 tuổi, rong kinh + đau bụng kinh, tử cung to.
+- Câu hỏi: Ba cột A/B/C là gì? Dấu MRI nào chốt mỗi cột?
 
-<details><summary><b>Bấm để hiện đáp án</b></summary>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
 
-- Dấu hiệu (findings): (A) khối bờ rõ + vỏ giả + T2 tối = xơ; (B) JZ > 12 mm + nang + không vỏ = adeno; (C) cả 2 cùng lúc.
-- Chẩn đoán (diagnosis): **phân biệt xơ vs adenomyosis bằng vỏ giả + JZ mm** (đồng tồn tại 30–50% — đừng bỏ sót bên còn lại).
-- Nguồn: Pecorella et al., Fig. 1, CC BY 4.0.
+- Dấu hiệu (findings): (A) khối bờ rõ + vỏ giả + T2 tối + ngấm mạch ngoại vi, JZ còn = **xơ trong cơ**; (B) JZ > 12 mm + nang cơ + bờ không rõ = **adenomyosis lan tỏa**; (C) cả hai cùng lúc = **đồng tồn tại (30–50%)**.
+- Chẩn đoán (diagnosis): **phân biệt xơ vs adenomyosis bằng vỏ giả + JZ mm** — đồng tồn tại cao nên đừng bỏ sót bên còn lại.
+- Nguồn ảnh: Diagnostics 2026 (PMC13605732), CC BY 4.0.
 </details>
 
-**Ca 2 — Mãn kinh + ra máu + nội mạc 8 mm:** theo dõi hay sinh thiết? *(Bảng mục 3.)*
+**Ca 2 — MRI T2 dọc: JZ dày đến đâu thì gọi adenomyosis nội?**
 
-<details><summary><b>Bấm để hiện đáp án</b></summary>
+![Ca 2 — Adenomyosis nội (A) vs ngoại (B) trên MRI T2](images/520_adenomyosis-noi-ngoai_MRI_PMC13313630.jpg)
 
-- **Sinh thiết bắt buộc:** ≥ 5 mm + chảy máu (≤ 4 mm mới loại trừ > 99%).
+- Câu hỏi: Đo JZ bằng ngưỡng nào? Tỷ lệ JZ/cơ cùng bên bao nhiêu thì dương?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- Dấu hiệu: (A) **adenomyosis nội** — JZ dày tối đa **≥ 12 mm** và **tỷ lệ JZ/cơ cùng bên > 40%** (mũi tên đỏ); (B) **adenomyosis ngoại** — ổ lạc ngoài JZ.
+- Chẩn đoán: ngưỡng **JZ ≥ 12 mm** (≤ 8 mm bình thường; 8–12 mm vùng xám) **+ nang cơ T2/T1 sáng + không vỏ**.
+- Nguồn ảnh: Medicine 2026 (PMC13313630), CC BY 4.0.
+</details>
+
+**Ca 3 — Khối bụng khổng lồ ở nữ, CT dọc có cản quang.**
+
+![Ca 3 — Khối xơ dưới thanh mạc khổng lồ](images/520_xo-khong-lo_CT_PMC13263843.jpg)
+
+- Câu hỏi: Bờ khối ra sao (so với adenomyosis)? Đo kích thước? Thuộc nhóm FIGO nào?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- Dấu hiệu: **khối bờ RÕ, đồng nhất, có vỏ** phát từ thân tử cung, đo **27,6 × 22,3 cm** (mũi tên xanh = bàng quang, cam = tử cung) — **xơ dưới thanh mạc khổng lồ**.
+- Chẩn đoán: khác adenomyosis ở **bờ rõ + có vỏ + không lan tỏa JZ**; FIGO 6/7 (dưới thanh mạc) → **nội soi ổ bụng/cắt u** (không bào nhỏ nếu nghi sarcoma).
+- Đối chiếu composite: ![Xơ (CT) vs adenomyosis (MRI)](images/composite_xo-vs-adeno_CT-MRI.jpg) — trái: khối **bờ rõ có vỏ** (xơ); phải: **JZ dày lan tỏa không vỏ** (adenomyosis).
+- Nguồn ảnh: Cureus 2026 (PMC13263843) + Br J Radiol 2026 (PMC13070643), CC BY 4.0.
+</details>
+
+**Ca 4 — Mãn kinh + ra máu + nội mạc 8 mm: theo dõi hay sinh thiết?** *(Bảng mục 3.)*
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- **Sinh thiết bắt buộc:** ≥ 5 mm + chảy máu (≤ 4 mm mới loại trừ > 99%); soi buồng + nạo sinh thiết.
 </details>
 
 ## Bài liên quan chéo

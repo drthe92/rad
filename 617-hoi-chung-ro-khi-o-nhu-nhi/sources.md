@@ -1,0 +1,21 @@
+# Nguồn gốc — 617 Hội chứng rò khí ở nhũ nhi (air-leak syndrome)
+
+> Quét 2026-10-17: Europe PMC (`TITLE:"pneumothorax" OR TITLE:"pneumomediastinum" OR TITLE:"air leak"` + `neonate/neonatal/infant` + `OPEN_ACCESS:Y`, 209 kết quả) → chọn ca nguyên văn + nghiên cứu đo lường. Tất cả ảnh dùng đều **CC BY 4.0** (kiểm từng bài), riêng ảnh siêu âm phổi là **CC BY-NC-ND 4.0** (giữ nguyên bản).
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / *Cureus* | **Al Dhouyani B, Al-Naimi AR.** — "Spontaneous Pneumothorax in a Term Neonate" (**ca nguyên văn**, 2024): đủ tháng → PTX trái ngày 1 → tràn khí trung thất ngày 6 → tự khỏi không can thiệp | https://pmc.ncbi.nlm.nih.gov/articles/PMC11301117/ | CC BY 4.0 | `images/617_tre-du-thang_tran-khi-mang-phoi_XR_PMC11301117.jpg`, `617_tre-du-thang_tran-khi-trung-that_XR_PMC11301117.jpg` |
+| 2 | Europe PMC / *Radiology Case Reports* | **Miguel CF et al.** — "Spontaneous neonatal pneumomediastinum with spinnaker-sail sign: A case report" (2026) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13562374/ | CC BY 4.0 | `images/617_spinnaker-sail_XR_PMC13562374.jpg` |
+| 3 | Europe PMC / *BMC Pediatrics* | **Zamlout A, Jamahiri B, Jabbour E.** — "Spinnaker-sail sign in full-term neonates with spontaneous pneumomediastinum: a case study and review" (2025): 2 ca + bảng 6 dấu hiệu X-quang + cơ chế mạc Quattromani + rửa nitơ | https://pmc.ncbi.nlm.nih.gov/articles/PMC11995531/ | CC BY 4.0 | `images/617_spm_CT_PMC11995531.jpg`, `617_spm-tien-trien_XR_PMC11995531.jpg` |
+| 4 | Europe PMC / *Children* (MDPI) | **Baillie KN et al.** — "Can We Use Simple Radiographic Measurements to Predict Need for Intervention in Neonatal Pneumothorax?" (2025, n = 62): **APr ngưỡng 0,184, AUC 0,902, Se 86%/Sp 88%; < 0,102 → 0%; > 0,187 → 100%** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12839672/ | CC BY 4.0 | `images/617_ptx-do-luong_XR_PMC12839672.jpg`, `617_ptx-ROC_XR_PMC12839672.jpg` |
+| 5 | Europe PMC / *Cureus* | **Hiremath A et al.** — "Barotrauma-Related Pneumoperitoneum in a Ventilated Child: Distinguishing Air Leak From Bowel Perforation" (2025): bẫy mổ bụng oan | https://pmc.ncbi.nlm.nih.gov/articles/PMC11955197/ | CC BY 4.0 | `images/617_barotrauma_tran-khi-phuc-mac_XR_PMC11955197.jpg` |
+| 6 | Europe PMC / *American Journal of Perinatology Reports* | **Sagaser AE et al.** — "Distinction between Pneumothorax and Pneumomediastinum Using Point of Care Ultrasound (POCUS)" (2024): A-line, mất trượt, dấu mã vạch, điểm phổi | https://pmc.ncbi.nlm.nih.gov/articles/PMC11461096/ | **CC BY-NC-ND 4.0** | `images/617_sieu-am-phoi_POCUS_PMC11461096.jpg` (**giữ nguyên bản, không cắt/ghép**) |
+| 7 | Europe PMC / *Frontiers in Pediatrics* | **Janowicz T, Szostawicki M.** — "Congenital bronchopleural fistula in a newborn: a rare cause of persistent neonatal air leak" (2026): rò khí dai dẳng = BPF | https://pmc.ncbi.nlm.nih.gov/articles/PMC13534012/ | CC BY 4.0 | `images/617_ro-phe-quan-mang-phoi_CT_PMC13534012.jpg` |
+| 8 | Europe PMC / *Journal of Perinatology* | **Farghaly MAA et al.** — "Pneumothorax in newborns: a cohort study from three NICUs" (2026, n = 58.706): **0,53% tổng; 0,39/4,0/4,6% theo tuổi thai ≥35/29–34/≤28 tuần**; 76% trong 24 giờ đầu; yếu tố nguy cơ (DR-CPAP aOR 2,38; SGA aOR 3,81; DR-intubation aOR 4,78; PIP 20,6 vs 14,3 cmH₂O) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13121010/ | CC BY 4.0 (bài); không lấy ảnh | số liệu dịch tễ/yếu tố nguy cơ |
+| 9 | Radiopaedia | Pneumomediastinum (neonate) — dấu cánh buồm, cơ hoành liên tục, V Naclerio (tham khảo mô tả) | https://radiopaedia.org/articles/pneumomediastinum | dẫn link | không tải |
+| 10 | Radiopaedia | Pneumothorax (neonatal) — dấu rãnh sâu, cách đọc phim nằm ngửa (tham khảo mô tả) | https://radiopaedia.org/articles/neonatal-pneumothorax | dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Ảnh tải về: **CC BY 4.0**, trừ `617_sieu-am-phoi_POCUS_PMC11461096.jpg` là **CC BY-NC-ND 4.0 — giữ nguyên bản, KHÔNG crop/ghép**. Chi tiết từng ảnh + attribution trong `images/CREDITS.md`.
+- Tác giả ghi theo **tên tác giả đầu tiên** đọc trực tiếp từ bản ghi Europe PMC (đối chiếu PMCID/DOI); không suy đoán.
+- AuntMinnie: không có ca tải được (paywall) — không dùng.
