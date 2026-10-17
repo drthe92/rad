@@ -75,6 +75,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 453 | [Bệnh võng mạc do tăng huyết áp & bệnh máu](453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md) | `pattern:benh-vong-mac-tang-huyet-ap` `vung:vong-mac` `score:Keith-Wagener` `score:Goldberg` `protocol:soi-day-mat` |
 | 454 | [Viêm võng mạc–màng mạch ở người suy giảm miễn dịch KHÔNG HIV](454-viem-vong-mac-suy-giam-mien-dich/lesson.md) | `pattern:hoai-tu-vong-mac` `vung:vong-mac` `protocol:UWF` `protocol:PCR-dich-tien-phong` `incidentaloma:CMV-sau-ghep` |
 | 456 | [Bệnh võng mạc trẻ sinh non (ROP)](456-benh-vong-mac-tre-sinh-non/lesson.md) | `pattern:rop` `vung:vong-mac` `score:ICROP` `protocol:sang-loc-ROP` |
+| 457 | [Bệnh "giả ROP" ở trẻ đủ tháng (FEVR, Norrie, IP, Coats)](457-benh-gia-rop-tre-du-thang/lesson.md) | `pattern:gia-rop` `pattern:tan-mach-vong-mac` `pattern:bong-vong-mac` `vung:vong-mac` `vung:tre-du-thang` `score:Shields` `protocol:WFFA` `protocol:sieu-am-B-scan` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
