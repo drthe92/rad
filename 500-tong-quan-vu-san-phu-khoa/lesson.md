@@ -28,6 +28,7 @@ certainty: tong-hop-y-van
 | Ung thư vú: giai đoạn & lan rộng | Tuyến vú (breast) | Đơn ổ (unifocal) vs Đa ổ (MF, cùng phần tư, 2–5 cm) vs Đa trung tâm (MC, khác phần tư/> 5 cm, hay ILC hai bên) vs DCIS/NME | **T theo ổ xâm lấn lớn nhất + hậu tố “(m)”, KHÔNG cộng kích thước**; MRI phát hiện thêm ổ ẩn **10–30%**; **Type III washout + DWI sáng** = ác; vú đặc ACR C/D → MRI/CEM | `514` |
 | Hạch trong ung thư phụ khoa | Hạch chậu & cạnh ĐMC (pelvic/para-aortic) | Hạch di căn vs hạch phản ứng/viêm vs lao hạch | **FDG-PET/CT Se chỉ ~56% (hạch nhỏ/vi di căn âm tính KHÔNG loại trừ)**; **SLN-ICG detection 95,6%, NPV 99,2–100%**; **IIIC1 hạch chậu / IIIC2 cạnh ĐMC**; micromet 0,2–2,0 mm, macro > 2 mm | `572` |
 | Khối cơ tử cung: lành hay sarcoma | Tử cung (uterus) | Leiomyoma & biến thể (cellular/FHD/myxoid) vs STUMP vs LMS vs ESS vs carcinosarcoma | **ADC ≤ 0,9 ×10⁻³ mm²/s (vùng u còn sống) = nghi sarcoma**; **T2 tối + DWI tối + ADC > 1,23 = loại sarcoma (NPV ~100%)**; **bờ là yếu tố chốt** (trơn = lành kể cả biến thể ADC thấp; thâm nhiễm = nghi ác); cạm bẫy **myxoid LMS T2 rất sáng + ADC cao + "vân cẩm thạch"** | `520`, `525`, `526` |
+| Sa sàn chậu & táo bón tống phân khó | Sàn chậu (pelvic floor) | Cystocele · sa tử cung/đỉnh âm đạo · rectocele · enterocele · lồng trực tràng · **anismus** | **PCL là mốc: hạ < 3 cm / 3–6 cm / > 6 cm = độ 1/2/3**; **H line ≤ 6 cm, M line ≤ 2 cm**; **góc hậu môn-trực tràng nghỉ 90–130°, phải MỞ khi tống phân** (không mở/nghịch lý = anismus, không mổ sa); **rectocele > 2 cm**; sa chỉ lộ khi **tống phân** | `545` |
 
 ## Bài liên quan chéo
 - [510 – BI-RADS vú](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) *(đã có)*
@@ -40,6 +41,7 @@ certainty: tong-hop-y-van
 - [530 – Phần phụ O-RADS](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md) *(đã có)*
 - [535 – Ung thư buồng trứng, phúc mạc & u Krukenberg](../535-ung-thu-buong-trung-phuc-mac-krukenberg/lesson.md) *(đã có)*
 - [540 – DIE & PID](../540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) *(đã có)*
+- [545 – MR động học sàn chậu (sa theo khoang, PCL/H/M)](../545-sa-san-chau-MR-defecography/lesson.md) *(đã có)*
 - [550 – Thai sớm & ngoài tử cung](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) *(đã có)*
 - [560 – Nhau cài răng lược](../560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) *(đã có)*
 - [565 – Sàng lọc hình thái thai & Doppler sản khoa](../565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) *(đã có)*
@@ -66,7 +68,7 @@ certainty: tong-hop-y-van
 
 **540–549 — Lạc nội mạc tử cung, Viêm vùng chậu & Sàn chậu**
 - 540 – Lạc nội mạc tử cung sâu (DIE — Phân loại #Enzian trên MRI) & Viêm vùng chậu cấp/Áp-xe vòi-buồng trứng (TOA) *(đã có — [bài học](../540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md))*
-- 545 – MRI Động học sàn chậu (MR Defecography): Sa các khoang chậu theo đường tham chiếu PCL & HMO *(dự kiến)*
+- 545 – MRI Động học sàn chậu (MR Defecography): Sa các khoang chậu theo đường tham chiếu PCL & HMO *(đã có — [bài học](../545-sa-san-chau-MR-defecography/lesson.md))*
 
 **550–569 — Sản khoa & Cấp cứu Thai kỳ (Obstetric Imaging)**
 - 550 – Siêu âm 3 tháng đầu: Tiêu chuẩn SRU chẩn đoán Thai ngừng tiến triển, Thai ngoài tử cung & Bệnh nguyên bào nuôi (Thai trứng) *(đã có — [bài học](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md))*
