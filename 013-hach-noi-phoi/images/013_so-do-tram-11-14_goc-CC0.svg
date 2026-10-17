@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" font-family="system-ui,sans-serif">
+<rect width="720" height="520" fill="#ffffff"/>
+<text x="360" y="30" text-anchor="middle" font-size="19" font-weight="bold">Trạm hạch NỘI PHỔI (11–14) trên lược đồ cây phế quản</text>
+<text x="360" y="52" text-anchor="middle" font-size="13" fill="#555">Trạm 10 = rốn phổi · 11 = liên thùy · 12 = thùy · 13 = phân thùy · 14 = dưới phân thùy — TẤT CẢ là N1 (IASLC 8)</text>
+
+<!-- lung outline (right lung, lateral-like) -->
+<path d="M470,70 C620,90 680,190 660,320 C640,450 520,490 430,470 C360,452 330,380 350,300 C300,260 320,150 470,70 Z"
+      fill="#eef4fb" stroke="#9bb7d4" stroke-width="2"/>
+<text x="560" y="300" text-anchor="middle" font-size="14" fill="#6688aa">Nhu mô phổi</text>
+
+<!-- fissure (oblique) dashed -->
+<path d="M350,300 C430,300 520,285 655,318" fill="none" stroke="#889" stroke-width="2" stroke-dasharray="7 6"/>
+<text x="600" y="345" text-anchor="middle" font-size="12" fill="#667">Rãnh chéo (fissure)</text>
+
+<!-- trachea -->
+<rect x="100" y="70" width="34" height="120" rx="6" fill="#dde6f0" stroke="#334" stroke-width="2"/>
+<text x="117" y="60" text-anchor="middle" font-size="12">Khí quản</text>
+<!-- main bronchus to hilum -->
+<path d="M134,185 C160,220 190,238 222,250" fill="none" stroke="#334" stroke-width="9" stroke-linecap="round"/>
+<!-- hilum node 10 -->
+<circle cx="222" cy="250" r="17" fill="#cfe8cf" stroke="#2a7" stroke-width="2.5"/>
+<text x="222" y="255" text-anchor="middle" font-size="13" font-weight="bold">10</text>
+<text x="150" y="242" font-size="12" fill="#2a7">rốn phổi</text>
+
+<!-- interlobar bronchus -->
+<path d="M239,250 C300,278 360,300 430,318" fill="none" stroke="#334" stroke-width="7" stroke-linecap="round"/>
+<circle cx="300" cy="278" r="15" fill="#dbe9ff" stroke="#248" stroke-width="2.5"/>
+<text x="300" y="283" text-anchor="middle" font-size="12" font-weight="bold">11</text>
+<text x="300" y="315" text-anchor="middle" font-size="11" fill="#248">liên thùy</text>
+
+<!-- lobar branch -->
+<path d="M330,290 C360,250 400,225 450,205" fill="none" stroke="#334" stroke-width="6" stroke-linecap="round"/>
+<circle cx="392" cy="240" r="14" fill="#dbe9ff" stroke="#248" stroke-width="2.5"/>
+<text x="392" y="245" text-anchor="middle" font-size="12" font-weight="bold">12</text>
+<text x="392" y="218" text-anchor="middle" font-size="11" fill="#248">thùy</text>
+
+<!-- segmental branch -->
+<path d="M450,205 C490,190 520,182 550,178" fill="none" stroke="#334" stroke-width="5" stroke-linecap="round"/>
+<circle cx="500" cy="186" r="13" fill="#dbe9ff" stroke="#248" stroke-width="2.5"/>
+<text x="500" y="191" text-anchor="middle" font-size="12" font-weight="bold">13</text>
+<text x="500" y="164" text-anchor="middle" font-size="11" fill="#248">phân thùy</text>
+
+<!-- subsegmental branch -->
+<path d="M550,178 C580,172 605,170 628,170" fill="none" stroke="#334" stroke-width="4" stroke-linecap="round"/>
+<circle cx="600" cy="170" r="12" fill="#dbe9ff" stroke="#248" stroke-width="2.5"/>
+<text x="600" y="175" text-anchor="middle" font-size="11" font-weight="bold">14</text>
+<text x="600" y="150" text-anchor="middle" font-size="11" fill="#248">dưới phân thùy</text>
+
+<!-- legend -->
+<rect x="40" y="392" width="640" height="110" rx="10" fill="#f7f9fc" stroke="#ccd" />
+<text x="56" y="418" font-size="14" font-weight="bold">Chốt thực hành:</text>
+<text x="56" y="442" font-size="13">• Trạm 10–14 nằm TRONG nhu mô/rốn phổi, cùng bên u → N1 (còn mổ được, vét hạch hệ thống).</text>
+<text x="56" y="464" font-size="13">• Hạch nội phổi (IPLN) hay gặp ở màng phổi/dưới màng phổi &amp; cạnh rãnh: hình tam giác/oval, bờ rõ, dính rãnh.</text>
+<text x="56" y="486" font-size="13">• Trạm 11 (liên thùy) quan trọng: bỏ sót hạch 11 = đánh giá N sai → ảnh hưởng chỉ định mổ.</text>
+
+<text x="360" y="512" text-anchor="middle" font-size="11" fill="#888">Sơ đồ gốc Thư viện CĐHA (CC0) — vẽ mới, không sao chép hình có bản quyền</text>
+</svg>

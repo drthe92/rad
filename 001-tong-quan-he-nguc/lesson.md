@@ -16,6 +16,7 @@ certainty: tong-hop-y-van
 | Mẫu hình (pattern) | Vị trí (location) | Gamut chính (DDx) | Phân biệt nhanh | Bài chi tiết |
 |---|---|---|---|---|
 | Nốt (nodule) | Phổi (lung) | U hạt (granuloma), ung thư (cancer), hamartoma | Bờ gai (spiculation), kính mờ (ground-glass) | [020](../020-not-phoi/lesson.md) |
+| Nốt/hạch nội phổi (cạnh rãnh) | Rốn & nội phổi | Hạch nội phổi (IPLN/PFN), K phổi, di căn cạnh rãnh | **Tam giác + dính rãnh = lành**; bờ gai + khấc + to lên = ác | [013](../013-hach-noi-phoi/lesson.md) |
 | Đông đặc (consolidation) | Phổi | Viêm phổi (pneumonia), nhồi máu phổi (pulmonary infarction), ung thư lepidic (lepidic adenocarcinoma) | Phế quản hơi (air bronchogram), giữ thể tích | [030](../030-dong-dac-xep-phoi/lesson.md) |
 | Xẹp (atelectasis) | Phổi | Tắc (obstruction), chèn ép (compression) | Di lệch rãnh liên thùy (fissure) | [030](../030-dong-dac-xep-phoi/lesson.md) |
 | Tràn dịch (effusion) | Màng phổi (pleura) | Dịch thấm (transudate), dịch tiết (exudate), máu (hemothorax) | Meniscus, tư thế nằm (decubitus) | [040](../040-tran-dich-mang-phoi/lesson.md) |
@@ -43,7 +44,8 @@ certainty: tong-hop-y-van
 - [011 – Tiểu thùy thứ cấp](../011-tieu-thuy-phoi/lesson.md) *(mới)*
 - [061 – Tràn khí trung thất](../061-tran-khi-trung-that/lesson.md) *(mới)*
 - [075 – Tràn dịch màng tim](../075-tran-dich-mang-tim/lesson.md)
-- [012 – Hạch IASLC](../012-hach-trung-that/lesson.md) *(mới)*
+- [012 – Hạch IASLC](../012-hach-trung-that/lesson.md) *(mới: trạm 1–10)*
+- [013 – Hạch nội phổi trạm 11–14](../013-hach-noi-phoi/lesson.md) *(mới: nốt cạnh rãnh / IPLN)*
 - [045 – Thành ngực & hoành](../045-thanh-nguc-hoanh/lesson.md) *(mới)*
 - [051 – Tiểu PQ & khảm](../051-tieu-phe-quan/lesson.md) *(mới)*
 - [052 – Khí phế thũng vs kén](../052-khi-phe-thung-kem/lesson.md) *(mới)*
@@ -67,6 +69,7 @@ certainty: tong-hop-y-van
 - [010 – Giải phẫu ngực cắt lớp & biến thể](../010-giai-phau-nguc-cat-lop/lesson.md) *(đã có)*
 - 011 – Tiểu thùy phổi thứ cấp trên HRCT (Secondary pulmonary lobule, SPL) *(đã có — [bài học](../011-tieu-thuy-phoi/lesson.md))*
 - 012 – Hạch trung thất IASLC & đường-dải trung thất X-quang (Mediastinal lines/stripes) *(đã có — [bài học](../012-hach-trung-that/lesson.md))*
+- 013 – Hạch nội phổi (trạm 11–14) & nốt cạnh rãnh (Intrapulmonary lymph nodes / perifissural nodule) *(đã có — [bài học](../013-hach-noi-phoi/lesson.md))*
 - 015 – Ống/dây ICU (lines/tubes) & giả ảnh ngực (artifacts) *(đã có — [bài học](../015-ong-day-ICU/lesson.md))*
 
 **02x — Nốt, Khối & Hang**

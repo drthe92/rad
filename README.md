@@ -13,6 +13,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 010 | [Giải phẫu ngực cắt lớp & biến thể](010-giai-phau-nguc-cat-lop/lesson.md) | `anatomy:nguc` |
 | 020 | [Nốt phổi](020-not-phoi/lesson.md) | `pattern:not` `vung:phoi` `score:Lung-RADS` `protocol:Fleischner` `incidentaloma:not-phoi` |
 | 012 | [Hạch IASLC](012-hach-trung-that/lesson.md) | `pattern:hach` `vung:trung-that` `score:IASLC` `protocol:PET-CT-nguc` |
+| 013 | [Hạch nội phổi (trạm 11–14) & nốt cạnh rãnh](013-hach-noi-phoi/lesson.md) | `pattern:hach` `pattern:not` `vung:phoi` `vung:ron-phoi` `score:IASLC` `score:Lung-RADS` `protocol:CT-nguc-lat-mong` `incidentaloma:not-canh-ranh` |
 | 011 | [Tiểu thùy thứ cấp](011-tieu-thuy-phoi/lesson.md) | `pattern:vi-cau-truc` `vung:phoi` `anatomy:phoi` |
 | 015 | [Ống/dây ICU](015-ong-day-ICU/lesson.md) | `pattern:ong-day` `protocol:xq-ICU` |
 | 021 | [Đa nốt phổi](021-da-not-phoi/lesson.md) | `pattern:not-da-o` `vung:phoi` |
