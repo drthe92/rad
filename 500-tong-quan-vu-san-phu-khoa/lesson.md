@@ -24,6 +24,8 @@ certainty: tong-hop-y-van
 | Trễ kinh + β-hCG dương tính + Tử cung trống | Phần phụ (adnexa) | Thai ngoài tử cung (ectopic pregnancy) vs. Nang hoàng thể (corpus luteum) vs. Thai trong tử cung quá sớm | β-hCG vượt ngưỡng phân biệt (≥ 3.500 mIU/mL) + khối cạnh buồng trứng di động tách biệt khỏi buồng trứng (blob/bagel sign) + dịch máu ổ bụng = Thai ngoài tử cung (Vòng lửa Doppler gặp ở cả hoàng thể!) | `550` |
 | Chảy máu 3 tháng cuối & Bất thường bánh nhau | Bánh nhau (placenta) | Nhau tiền đạo (placenta previa), Nhau cài răng lược (PAS: accreta/increta/percreta), Nhau bong non | Cơ tử cung mỏng < 1 mm + hồ máu (lacunae) + dải tối T2W (> 6 mm) + phình lồi bánh nhau trên vết mổ cũ = Nhau cài răng lược (PAS) | `560` |
 | Dị dạng tử cung bẩm sinh & Sẩy thai tái diễn | Tử cung/âm đạo (uterus/vagina) | Tử cung vách ngăn (septate), hai sừng (bicornuate), đôi (didelphys), một sừng (unicornuate), MRKH, HWWS/OHVIRA | **Lõm ngoài > 1 cm (> 50% thành cơ đáy) = hai sừng (KHÔNG mổ)**; **lõm trong ≥ 1 cm + góc < 90° + contour ngoài lồi = vách ngăn (mổ cắt vách)**; < 1 cm = arcuate (biến thể); tắc nửa âm đạo + bất sản thận cùng bên = HWWS | `528` |
+| Dị dạng cổ tử cung & âm đạo bẩm sinh (ứ máu âm đạo / hematocolpos) | Cổ tử cung/âm đạo (cervix/vagina) | Màng trinh kín (V3), vách ngang âm đạo (V3), bất sản âm đạo xa (V4), bất sản cổ (C4/C3), OHVIRA (V2), vách dọc (V1) | **Ứ máu xuống SÁT lỗ âm đạo + màng phồng xanh/tím = màng trinh kín**; **vách ngang = vách TRÊN màng trinh bình thường**; tắc một nửa + bất sản thận cùng bên = OHVIRA; màng trinh kín 1/1000–1/2000, vách ngang 1/30.000–1/84.000 | `529` |
+| Sẩy thai tái diễn (yếu tố tử cung) | Buồng tử cung & vùng chuyển tiếp | Vách ngăn, dính buồng (Asherman/IUA), polyp, u xơ dưới niêm mạc (FIGO 0–2), adenomyosis, hở cổ tử cung | **Mất dải T2 cao của nội mạc + tắc lòng + tiền sử nạo = Asherman**; **khối T2 tối bờ rõ vỏ giả = u xơ dưới niêm mạc** vs **T2 trung gian cuống mảnh = polyp**; **JZ ≥ 12 mm = adenomyosis**; **cổ tử cung < 25 mm = cổ ngắn**; MDA 13,3–24,5% ở RPL | `571` |
 | Hình thái thai nhi & Doppler sản khoa | Thai nhi (fetus), tuần hoàn bào thai | NT dày/thể nhiễm sắc thể, FGR sớm/muộn, thiếu máu thai, suy tim thai | **NT ≥ 3,5 mm (hoặc > BP95) + mất xương mũi = nghi lệch bội**; **UA PI > BP95 → AEDF → REDF + CPR < BP5 = FGR**; **MCA-PSV > 1,5 MoM = thiếu máu**; **DV mất/đảo sóng a = suy tim, đẻ ngay** | `565` |
 | Ung thư vú: giai đoạn & lan rộng | Tuyến vú (breast) | Đơn ổ (unifocal) vs Đa ổ (MF, cùng phần tư, 2–5 cm) vs Đa trung tâm (MC, khác phần tư/> 5 cm, hay ILC hai bên) vs DCIS/NME | **T theo ổ xâm lấn lớn nhất + hậu tố “(m)”, KHÔNG cộng kích thước**; MRI phát hiện thêm ổ ẩn **10–30%**; **Type III washout + DWI sáng** = ác; vú đặc ACR C/D → MRI/CEM | `514` |
 | Hạch trong ung thư phụ khoa | Hạch chậu & cạnh ĐMC (pelvic/para-aortic) | Hạch di căn vs hạch phản ứng/viêm vs lao hạch | **FDG-PET/CT Se chỉ ~56% (hạch nhỏ/vi di căn âm tính KHÔNG loại trừ)**; **SLN-ICG detection 95,6%, NPV 99,2–100%**; **IIIC1 hạch chậu / IIIC2 cạnh ĐMC**; micromet 0,2–2,0 mm, macro > 2 mm | `572` |
@@ -38,6 +40,7 @@ certainty: tong-hop-y-van
 - [525 – Ung thư nội mạc & cổ tử cung: FIGO trên MRI](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) *(đã có)*
 - [526 – Sarcoma tử cung & carcinosarcoma vs u xơ](../526-sarcoma-tu-cung-vs-u-xo/lesson.md) *(đã có)*
 - [528 – Dị dạng tử cung bẩm sinh: vách ngăn vs hai sừng (ESHRE/ESGE & ASRM)](../528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md) *(đã có)*
+- [529 – Cổ tử cung & âm đạo bẩm sinh: dị dạng tắc nghẽn (C0–C4/V0–V4)](../529-co-tu-cung-am-dao-bam-sinh-tac-nghen/lesson.md) *(đã có)*
 - [530 – Phần phụ O-RADS](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md) *(đã có)*
 - [535 – Ung thư buồng trứng, phúc mạc & u Krukenberg](../535-ung-thu-buong-trung-phuc-mac-krukenberg/lesson.md) *(đã có)*
 - [540 – DIE & PID](../540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) *(đã có)*
@@ -45,6 +48,7 @@ certainty: tong-hop-y-van
 - [550 – Thai sớm & ngoài tử cung](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) *(đã có)*
 - [560 – Nhau cài răng lược](../560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) *(đã có)*
 - [565 – Sàng lọc hình thái thai & Doppler sản khoa](../565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) *(đã có)*
+- [571 – Sẩy thai tái diễn: tiếp cận hình ảnh tử cung](../571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md) *(đã có)*
 - [572 – Hạch trong ung thư phụ khoa: SLN, hạch chậu–cạnh ĐMC & PET-CT](../572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Vú & Sản Phụ khoa (500–580)
@@ -59,7 +63,8 @@ certainty: tong-hop-y-van
 **520–529 — Tử cung & Cổ tử cung (Uterus & Cervix)**
 - 520 – U xơ cơ tử cung (Phân loại FIGO 0–8), Lạc nội mạc trong cơ (Adenomyosis) & Tiếp cận dày nội mạc tử cung *(đã có — [bài học](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md))*
 - 525 – Phân giai đoạn FIGO trên MRI cho Ung thư nội mạc tử cung (xâm lấn < 50% vs. ≥ 50% cơ) & Ung thư cổ tử cung (xâm lấn chu cung *parametrium*) *(đã có — [bài học](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md))*
-- 528 – Dị dạng tử cung bẩm sinh (Phân loại ESHRE/ESGE & ASRM trên MRI/Siêu âm 3D: Tử cung có vách ngăn vs. Tử cung hai sừng — góc đáy ngoài < 1 cm vs. > 1 cm) *(đã có — [bài học](../528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md))*
+- [528 – Dị dạng tử cung bẩm sinh (Phân loại ESHRE/ESGE & ASRM trên MRI/Siêu âm 3D: Tử cung có vách ngăn vs. Tử cung hai sừng — góc đáy ngoài < 1 cm vs. > 1 cm) *(đã có — [bài học](../528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md))*
+- 529 – Dị dạng bẩm sinh **cổ tử cung & âm đạo** gây tắc nghẽn/ứ máu (ESHRE/ESGE C0–C4 / V0–V4: màng trinh kín, vách ngang âm đạo, bất sản âm đạo xa, bất sản cổ, OHVIRA) — kỹ thuật MRI bơm jelly định vị vách ngang *(đã có — [bài học](../529-co-tu-cung-am-dao-bam-sinh-tac-nghen/lesson.md))*
 - 526 – Sarcoma tử cung (LMS/ESS) & Carcinosarcoma vs U xơ cơ tử cung: ngưỡng ADC ≤ 0,9 ×10⁻³ mm²/s, bờ khối, cạm bẫy myxoid LMS *(đã có — [bài học](../526-sarcoma-tu-cung-vs-u-xo/lesson.md))*
 
 **530–539 — Buồng trứng & Phần phụ (Ovary & Adnexa)**
@@ -76,6 +81,7 @@ certainty: tong-hop-y-van
 - 565 – Sàng lọc hình thái học thai nhi quý I–II & Siêu âm Doppler sản khoa (Động mạch rốn, Động mạch não giữa MCA, Ống tĩnh mạch) *(đã có — [bài học](../565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md))*
 
 **570–579 — Hạch & phân giai đoạn ung thư phụ khoa (Nodal & Advanced Staging)**
+- 571 – Sẩy thai tái diễn (RPL): tiếp cận hình ảnh tử cung — vách ngăn vs hai sừng, dính buồng (Asherman/IUA), polyp, u xơ dưới niêm mạc, adenomyosis, hở cổ tử cung; SIS/3D-TVUS/MRI + soi buồng *(đã có — [bài học](../571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md))*
 - 572 – Hạch trong ung thư phụ khoa: Hạch gác (SLN: ICG/⁹⁹ᵐTc + siêu phân đoạn), Hạch chậu–cạnh ĐMC trên MRI/CT/PET-CT & phân giai đoạn FIGO IIIC1/IIIC2 *(đã có — [bài học](../572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
