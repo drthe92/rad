@@ -150,6 +150,7 @@ flowchart TD
 - [612 – Cấp cứu đường thở trên trẻ em](../612-cap-cuu-duong-tho-tren-tre-em/lesson.md) (dị vật đường thở; viêm phổi kèm viêm khí quản vi khuẩn)
 - [030 – Đông đặc – xẹp phổi](../030-dong-dac-xep-phoi/lesson.md) · [031 – Viêm phổi theo mẫu hình](../031-viem-phoi-mau-hinh/lesson.md)
 - [025 – Hang & nấm phổi](../025-ton-thuong-phoi-tao-hang/lesson.md) (áp-xe vs mủ màng phổi, aspergilloma)
+- [616 – Biến chứng viêm phổi nhi: viêm mủ màng phổi (empyema) & hoại tử phổi](../616-bien-chung-viem-phoi-nhi-empyema-hoai-tu/lesson.md) (biến chứng: mủ màng phổi, hoại tử)
 - [620 – Cấp cứu tiêu hóa nhi](../620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md) (dầu hỏa/dị vật tiêu hóa — cấm gây nôn)
 
 ## Ảnh
