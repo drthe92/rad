@@ -201,7 +201,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 622 | [Tắc ruột sơ sinh](622-tac-ruot-so-sinh/lesson.md) | `pattern:tac-ruot-so-sinh` `pattern:double-bubble` `pattern:microcolon` `vung:bung-nhi` `score:Neuhauser` `protocol:XR-contrast-enema` |
 | 623 | [Chấn thương tụy–tá tràng ở trẻ (AAST tụy I–V)](623-chan-thuong-tuy-ta-trang-nhi/lesson.md) | `pattern:chan-thuong-bung` `pattern:dut-ong-tuy` `vung:tuy-ta-trang` `score:AAST` `protocol:CT-bung-chant-thuong` |
 | 624 | [Chấn thương gan & đường mật ở trẻ (AAST gan I–V, biloma)](624-chan-thuong-gan-duong-mat-nhi/lesson.md) | `pattern:chan-thuong-gan-nhi` `pattern:biloma` `pattern:tui-mat-gia` `vung:gan` `vung:duong-mat` `score:AAST` `protocol:CT-bung-can-quang` `protocol:MRCP` |
-| 625 | [Teo đường mật](625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md) | `pattern:vang-da-so-sinh` |
+| 625 | [Vàng da tắc mật: teo đường mật vs viêm gan (nang ống mật chủ)](625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md) | `pattern:vang-da-so-sinh` `vung:gan-mat-nhi` `protocol:sieu-am-gan-mat-nhi` |
+| 626 | [Viêm tụy cấp ở trẻ (Atlanta nhi, nang ống mật chủ, tụy divisum)](626-viem-tuy-cap-nhi/lesson.md) | `pattern:viem-tuy` `pattern:nang-gia-tuy` `vung:tuy` `score:Atlanta` `protocol:MRCP` `protocol:sieu-am-bung` |
 | 630 | [U bụng nhi](630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md) | `pattern:khoi-bung-nhi` |
 | 635 | [Dị tật hệ tiết niệu nhi (SFU/VUR/PUV)](635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) | `pattern:than-u-nuoc-nhi` `pattern:trao-nguoc-bang-quang-nieu-quan` `pattern:van-nieu-dao-sau` `vung:than-nieu-nhi` `score:SFU` `score:VUR` |
 | 636 | [Cấp cứu niệu–sinh dục nhi: chấn thương thận AAST & xoắn tinh hoàn/buồng trứng](636-cap-cuu-nieu-sinh-duc-nhi/lesson.md) | `pattern:chan-thuong-than-nhi` `pattern:xoan-tinh-hoan` `pattern:xoan-buong-trung` `vung:than-nieu-nhi` `vung:sinh-duc-nhi` `score:AAST` `protocol:CT-bung-chap-nhanh` `protocol:sieu-am-Doppler` |
