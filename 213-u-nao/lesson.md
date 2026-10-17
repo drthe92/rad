@@ -38,6 +38,15 @@ certainty: tong-hop-y-van
 ![GBM bướm trán 2 bên qua thể chai, hoại tử đa ổ (mũi tên)](images/213_buom-callosal_MRI_PMC-Maity-CCBY40.jpg)
 *Khối trán 2 bên ~65 mm + hoại tử nang + phù lan, xâm lấn thể chai gối. Nguồn: Maity et al., Cureus 2026 Fig. 3, CC BY 4.0 — ca sa sút tiến triển nhanh, cần sinh thiết loại trừ lymphoma.*
 
+![Đa chuỗi xung: GBM (hàng trên) vs lymphoma tế bào B nguyên phát (hàng dưới)](images/213_u-nao_MRI_PMC13104201-Fig4-GBM-vs-PCNSL-CCBY.jpg)
+*Mỗi hàng là T2, T1, ADC, FLAIR, T1 sau cản quang, NECT. **(A) GBM:** hoại tử trung tâm + ngấm vòng dày gồ ghề, **ADC trung tâm hoại tử SÁNG** (hoại tử không hạn chế khuếch tán). **(B) Lymphoma (PCNSL):** khối **đặc, đồng nhất**, **ADC TỐI** (mật độ tế bào cực cao — nước nội bào giảm) + phù FLAIR. Chốt phân biệt là **đồng nhất + ADC tối** vs **hoại tử + ADC sáng**. Nguồn: Yu F et al., Cancer Imaging 2026 (PMC13104201), CC BY 4.0.*
+
+![Đối chiếu vòng ngấm thuốc: u não (GBM/lymphoma) vs áp‑xe](images/composite_213_GBM-vs-apxe.jpg)
+*Trái: u não — GBM (hoại tử, ADC sáng) vs lymphoma (đặc, ADC tối). Phải: **áp‑xe** giả u — ngấm vòng (A–C) + **DWI trung tâm sáng rực** (D) và T2 (E): ổ mủ đặc hạn chế khuếch tán. **Cùng "vòng ngấm thuốc" nhưng DWI trung tâm là chốt loại trừ u.** Nguồn: PMC13104201 + PMC13354021 (Rath TM et al., Cureus 2026), CC BY 4.0.*
+
+![Di căn não (từ ung thư dạ dày) — nốt ngấm thuốc ở ranh giới chất xám–trắng](images/213_u-nao_MRI_PMC13582613-Fig3-di-can-nao-CCBY.webp)
+*Di căn não đơn độc: nốt ngấm thuốc mạnh ở **ranh giới chất xám–chất trắng**, đáp ứng xạ phẫu lập thể (SRS). Nhiều ổ + phù vận mạch rộng + K nguyên phát đã biết = di căn. Nguồn: Liu X et al., Front Immunol 2026 (PMC13582613), CC BY 4.0.*
+
 ## 4. Protocol chụp + hệ phân độ/điểm chuẩn hóa
 
 - **MRI sọ não + gadolinium 3 mặt phẳng + DWI/ADC + tưới máu (rCBV) + phổ (MRS):** vòng/đồng nhất, hoại tử, choline/NAA, lactate/lipid.
@@ -77,20 +86,40 @@ flowchart TD
 - Nguồn ảnh: Maity et al., Cureus 2026 Fig. 3, CC BY 4.0 (ca giả sa sút, cần sinh thiết + IDH/MGMT).
 </details>
 
-**Ca 2 — Nhiều nốt 8–15 mm ranh giới xám-trắng + phù lớn + K phổi đã biết:** GBM hay di căn? Xử trí? *(Bảng mục 3.)*
+**Ca 2 — Nhiều nốt 8–15 mm ranh giới xám-trắng + phù lớn + K phổi đã biết. Nhìn ảnh:**
+
+![Ca 2 — MRI nốt ngấm thuốc ranh giới xám-trắng](images/213_u-nao_MRI_PMC13582613-Fig3-di-can-nao-CCBY.webp)
+
+- Câu hỏi: GBM hay di căn? Xử trí?
 
 <details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
 
-- Dấu hiệu (findings): nhiều ổ + phù > khối + vòng đều + nguyên phát đã biết.
-- Chẩn đoán (diagnosis): **di căn não** — xạ phẫu lập thể (SRS)/toàn não + điều trị nguyên phát (khác GBM đơn ổ bướm).
+- Dấu hiệu (findings): nốt **ngấm thuốc mạnh ở ranh giới chất xám–trắng**, phù vận mạch quanh; bối cảnh K nguyên phát đã biết.
+- Chẩn đoán (diagnosis): **di căn não** — xạ phẫu lập thể (SRS)/toàn não + điều trị nguyên phát (khác GBM đơn ổ bướm). Nguồn: Liu X et al., Front Immunol 2026 (PMC13582613), CC BY 4.0.
 </details>
 
-**Ca 3 — Khối quanh não thất bắt đồng nhất + ADC 520, chưa dùng steroid:** lymphoma hay GBM? Bước tiếp cấm kỵ gì? *(Bảng mục 3.)*
+**Ca 3 — Khối quanh não thất bắt đồng nhất + ADC 520, chưa dùng steroid. Nhìn 2 hàng ảnh (A: trên, B: dưới):**
+
+![Ca 3 — Đa chuỗi xung GBM vs lymphoma](images/213_u-nao_MRI_PMC13104201-Fig4-GBM-vs-PCNSL-CCBY.jpg)
+
+- Câu hỏi: Hàng nào là lymphoma? Dấu hiệu nào chốt? Bước tiếp cấm kỵ gì?
 
 <details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
 
-- Dấu hiệu (findings): đồng nhất + quanh thất + ADC rất thấp, ít hoại tử.
-- Chẩn đoán (diagnosis): **lymphoma nguyên phát — sinh thiết TRƯỚC steroid** (steroid làm khối teo giả, mất chẩn đoán).
+- Dấu hiệu (findings): hàng dưới (B) **đặc, đồng nhất, ADC TỐI**; hàng trên (A) có **hoại tử trung tâm + ADC sáng**.
+- Chẩn đoán (diagnosis): **lymphoma nguyên phát (B) — sinh thiết TRƯỚC steroid** (steroid làm khối teo giả, mất chẩn đoán). Nguồn: Yu F et al., Cancer Imaging 2026 (PMC13104201), CC BY 4.0.
+</details>
+
+**Ca 4 — Sốt + ổ ngấm vòng, đang điều trị nhiễm khuẩn. Nhìn vòng ngấm (A–C) và DWI (D):**
+
+![Ca 4 — vòng ngấm + DWI](images/213_u-nao_MRI_PMC13354021-Fig2-apxe-vong-ngam-DWI-CCBY.jpg)
+
+- Câu hỏi: Đây là u hay áp‑xe? Dấu hiệu nào phân biệt với GBM? Xử trí?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- Dấu hiệu (findings): ổ **ngấm vòng** (A–C) nhưng **DWI trung tâm SÁNG rực/ADC tối** (D) = mủ đặc hạn chế khuếch tán, khác hoại tử trung tâm ADC sáng của GBM.
+- Chẩn đoán (diagnosis): **áp‑xe não** (giả u độ cao) — dẫn lưu + kháng sinh, không xạ trị/sinh thiết mù. Nguồn: Rath TM et al., Cureus 2026 (PMC13354021), CC BY 4.0.
 </details>
 
 ## Bài liên quan chéo

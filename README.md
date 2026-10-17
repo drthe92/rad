@@ -121,6 +121,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 220 | [Ống sống 3 khoang](220-ong-song-tuy/lesson.md) | `pattern:ong-song` |
 | 221 | [Chấn thương cột sống](221-chan-thuong-cot-song/lesson.md) | `score:TLICS` |
 | 222 | [Viêm đốt sống](222-viem-dot-song/lesson.md) | `pattern:viem-dot-song` |
+| 223 | [Chấn thương tủy sống: ASIA & SCIWORA](223-chan-thuong-tuy-so/lesson.md) | `pattern:chan-thuong-tuy` `score:ASIA` |
 | 230 | [Giáp & hạch cổ](230-tuyen-giap-hach-co/lesson.md) | `score:TI-RADS` |
 | 235 | [Thái dương & xoang: cholesteatoma DWI + nấm vs u](235-xuong-thai-duong-xoang/lesson.md) | `pattern:xuong-thai-duong-xoang` `vung:dau-mat-co` `protocol:MRI-non-EPI` |
 | 657 | [Dị tật hố sau: Joubert & rhombencephalosynapsis](657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) | `pattern:di-dang-ho-sau` `pattern:rang-ham` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
