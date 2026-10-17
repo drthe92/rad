@@ -220,5 +220,5 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 750 | [Hạch cổ ENE](750-cervical-lymph-nodes-nirads/lesson.md) | `score:NI-RADS` |
 | 830 | [TAVI](830-tavi-structural-heart/lesson.md) | `pattern:TAVI` |
 | 840 | [Endoleak](840-aorta-endoleak-pad/lesson.md) | `pattern:endoleak` |
-| 910 | [Dẫn lưu](910-abscess-biliary-nephrostomy/lesson.md) | `pattern:dan-luu` |
+| 910 | [Dẫn lưu (áp-xe, PTBD & thận qua da)](910-abscess-biliary-nephrostomy/lesson.md) | `pattern:dan-luu` `pattern:ap-xe` `vung:bung-tiet-nieu` `protocol:PTBD` `protocol:PCN` `protocol:Seldinger` |
 | 930 | [TACE/LR-TR](930-hepatic-oncology-tace-rfa/lesson.md) | `score:LR-TR` |
