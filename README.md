@@ -123,7 +123,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 210 | [Giải phẫu sọ não](210-giai-phau-so-nao/lesson.md) | `anatomy:nao` |
 | 214 | [Nhiễm trùng TKTW](214-nhiem-trung-tktw/lesson.md) | `pattern:nhiem-trung-tktw` |
 | 215 | [Mất myelin](215-mat-myelin/lesson.md) | `score:McDonald` |
-| 216 | [Dị dạng mạch & CVST](216-di-dang-mach-CVST/lesson.md) | `pattern:di-dang-mach` |
+| 216 | [Dị dạng mạch & CVST](216-di-dang-mach-CVST/lesson.md) | `pattern:di-dang-mach` `pattern:khuyet-thuoc-xoang` `vung:mach-nao` `protocol:CTA-MRV` `score:Spetzler-Martin` |
 | 217 | [Ngoài trục CPA](217-ngoai-truc-CPA/lesson.md) | `pattern:ngoai-truc-CPA` |
 | 218 | [Thoát vị & úng thủy](218-thoat-vi-nao-ung-thuy/lesson.md) | `score:Evans` |
 | 219 | [PRES & RCVS: phù não sau & co mạch não có hồi phục](219-pres-rcvs/lesson.md) | `pattern:phu-nao-sau` `pattern:co-mach-nao` `vung:nao` `score:RCVS2` `protocol:MRA-CE-FLAIR` |
@@ -210,6 +210,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 640 | [Háng nhi & NAT](640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) | `score:Graf` |
 | 650 | [Thần kinh nhi](650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) | `score:Papile` |
 | 654 | [Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) | `pattern:benh-nao-so-sinh` `pattern:han-che-khuech-tan` `vung:nao-nhi` `score:BIND` `protocol:MRI-nao-so-sinh` |
+| 652 | [Đột quỵ & bệnh mạch máu não ở trẻ (moyamoya, FCA, viêm mạch, CVST)](652-dot-quy-mach-mau-nao-nhi-moyamoya-viem-mach/lesson.md) | `pattern:hep-tac-mach` `pattern:nhoi-mau-nao` `vung:nao-nhi` `score:Suzuki` `score:FCASS` `protocol:MRA-ASL` |
 | 655 | [HIE sơ sinh & dị tật bẩm sinh hệ thần kinh](655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md) | `pattern:hie-dwi` `pattern:di-dang-ho-sau` `pattern:bat-san-the-chai` `vung:nao-nhi` `score:Sarnat` `score:TVA` `protocol:MRI-nao-so-sinh` |
 | 665 | [Khối u gan ở trẻ em (hepatoblastoma, hemangioma, hamartoma, HCC)](665-khoi-u-gan-nhi/lesson.md) | `pattern:khoi-gan-nhi` `vung:gan` `score:PRETEXT` `protocol:US-CT-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |
 | 656 | [Bất thường tủy–cột sống kín ở trẻ (dị tật đôi tủy, tủy căng, u mỡ, đường rò da)](656-bat-thuong-tuy-cot-song-nhi/lesson.md) | `pattern:di-dang-tuy-cot-song` `vung:tuy-cot-song-nhi` `score:Orphanet-SBoD` `protocol:MRI-cot-song-toan-bo` `incidentaloma:u-mo-tuy` |
