@@ -166,6 +166,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 512 | [Vôi hóa/biến dạng/túi ngực](512-vi-voi-hoa-tui-nguc-bien-dang/lesson.md) | `pattern:vi-voi-hoa` `pattern:bien-dang-cau-truc` `pattern:tui-nguc` `vung:vu` `protocol:MRI-vu` |
 | 514 | [Ung thư vú: TNM & MRI lan rộng (đa ổ/đa trung tâm)](514-ung-thu-vu-TNM-MRI-lan-rong/lesson.md) | `pattern:khoi-vu` `pattern:da-o-vu` `vung:vu` `score:TNM` `protocol:MRI-vu` |
 | 516 | [Hình ảnh vú sau điều trị: tái tạo, hoại tử mỡ, sẹo vs tái phát & BIA-ALCL](516-hinh-anh-vu-sau-dieu-tri/lesson.md) | `pattern:vu-sau-dieu-tri` `pattern:hoai-tu-mo` `pattern:u-tai-phat` `vung:vu` `score:BI-RADS` `protocol:MRI-vu` `incidentaloma:BIA-ALCL` |
+| 517 | [Sinh thiết định vị vú & quản lý clip/kẹp](517-sinh-thiet-dinh-vi-vu-va-quan-ly-clip/lesson.md) | `pattern:ton-thuong-khong-so-thay` `pattern:vi-voi-hoa` `vung:vu` `score:BI-RADS` `protocol:din-vi-vu` `protocol:sinh-thiet-vu` `incidentaloma:clip-di-lech` |
 | 520 | [Tử cung FIGO](520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md) | `score:FIGO` |
 | 525 | [K nội mạc/cổ tử cung FIGO MRI](525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) | `pattern:u-noi-mac` `pattern:xam-lan-co` `vung:tu-cung` `score:FIGO` `protocol:MRI-tieu-khung` |
 | 526 | [Sarcoma tử cung & carcinosarcoma vs u xơ](526-sarcoma-tu-cung-vs-u-xo/lesson.md) | `pattern:khoi-co-tu-cung` `pattern:xam-lan-co` `vung:tu-cung` `score:ADC` `protocol:MRI-tieu-khung` |
@@ -185,6 +186,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 567 | [Sàng lọc lệch bội: NIPT & dấu hiệu mềm](567-sang-loc-lech-boi-NIPT-dau-hieu-mem/lesson.md) | `pattern:lech-boi` `vung:thai-nhi` `score:LR-dau-hieu-mem` `protocol:NIPT` `protocol:SA-hinh-thai` |
 | 571 | [Sẩy thai tái diễn: tiếp cận hình ảnh tử cung](571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md) | `pattern:say-thai-tai-dien` `vung:tu-cung` `score:ESHRE-ESGE` `score:ASRM` `protocol:sonohysterography` `protocol:MRI-tu-cung` |
 | 572 | [Hạch trong ung thư phụ khoa: SLN, hạch chậu–cạnh ĐMC & PET-CT](572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md) | `pattern:hach-di-can` `vung:hach-chau` `vung:hach-canh-dmc` `score:FIGO` `protocol:PET-CT` `protocol:SLN-ICG` |
+| 574 | [Ung thư âm hộ & âm đạo: FIGO 2021 + hạch bẹn–đùi & SLN](574-ung-thu-am-ho-am-dao-FIGO-hach-ben/lesson.md) | `pattern:u-am-ho` `pattern:u-am-dao` `pattern:hach-ben-di-can` `vung:am-ho` `vung:am-dao` `score:FIGO-2021` `protocol:MRI-chau` `protocol:PET-CT` `protocol:SLN` |
 
 ## Hệ Nhi khoa (dải 600, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
