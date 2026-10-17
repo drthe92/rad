@@ -16,6 +16,7 @@ certainty: tong-hop-y-van
 | Mẫu hình (pattern) | Vị trí (location) | Gamut chính (DDx) | Phân biệt nhanh (Chốt định lượng/động học) | Bài chi tiết |
 |---|---|---|---|---|
 | Khối ngấm thuốc mạnh thì ĐM (Hypervascular) | Gan (liver) | HCC, FNH, Adenoma, Hemangioma | Thải thuốc (washout) + vỏ = HCC; Sẹo T2 sáng ngấm muộn + giữ thuốc Primovist = FNH; Ngấm nốt ngoại vi hướng tâm = Hemangioma | `120`, `121`, `122` |
+| Nang gan (một/nhiều) | Gan (nang) | Nang gan đơn thuần, PLD (ADPKD/ADPLD), bệnh Caroli, u mô đệm đường mật (von Meyenburg), di căn nang, nang sán | Dịch thuần nhất + 0–15 HU + không ngấm = nang đơn thuần; **≥ 10 nang gan + nang thận = PLD**; **nốt < 1,5 cm T2 "trời sao" + không thông mật = von Meyenburg**; **giãn đường mật thông cây mật + central dot = Caroli** | `123` |
 | Khối giảm đậm độ / Ngấm thuốc viền (Hypovascular / Rim) | Gan | Di căn (đại-trực tràng, dạ dày), CCC đường mật, Áp-xe gan | Ngấm viền + thải ngoại vi + co kéo bao gan = CCC (LR-M); Dấu bia bắn đôi (double target) + sốt = Áp-xe | `120`, `121` |
 | Giãn đường mật / Dấu ống đôi (Double-duct) | Mật – Tụy | U đầu tụy (PDAC), U bóng Vater, U Klatskin, Sỏi OMC | Cắt cụt đột ngột ống mật + ống tụy (double-duct) = U đầu tụy; Giãn chỉ trong gan hợp lưu = Klatskin | `130`, `131`, `136` |
 | Hẹp đường mật KHÔNG xác định (lành vs ác) | Mật (rốn/xa/lan tỏa) | Klatskin/CCA, PDAC, PSC, IgG4-SC, cholangiopathy sau mổ/ghép, eosinophilic cholangitis, AIP | Coi là ÁC (~70%) tới khi chứng minh ngược; thành ≥ 3 mm + ngấm mạnh + hạch > 1 cm + hẹp dài/bất đối xứng = ác; hẹp nhẵn liên tục + IgG4 ≥ 135 mg/dL + tổn thương nhiều tạng = IgG4-SC; nhiều đoạn bỏ nhảy + IBD = PSC | `132`, `131`, `136` |
@@ -31,7 +32,7 @@ certainty: tong-hop-y-van
 | Dịch tự do ổ bụng vs Đáy ngực | Phúc mạc (peritoneum) | Cổ trướng (Ascites) vs Tràn dịch màng phổi | Dịch màng phổi đẩy chân cơ hoành ra trước (displaced crus) và len vào vùng trần của gan (bare area); Ascites thì không | `110`, `141` |
 
 ## Bài liên quan chéo
-- [110 – Giải phẫu bụng](../110-giai-phau-bung/lesson.md) · [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) · [131 – Tắc mật](../131-tac-mat/lesson.md) · [132 – Hẹp đường mật không xác định](../132-hop-duong-mat-khong-xac-dinh/lesson.md) · [135 – Viêm tụy](../135-viem-tuy-Atlanta/lesson.md) · [150 – Bosniak](../150-nang-than-Bosniak/lesson.md) · [151 – U thận đặc](../151-u-than-dac/lesson.md) · [153 – ACKD](../153-benh-than-nang-mac-phai-loc-mau/lesson.md) · [156 – Hội chứng di truyền u thận](../156-hoi-chung-di-truyen-u-than/lesson.md) · [155 – Thượng thận](../155-thuong-than-tinh-co/lesson.md) · [160 – Bụng cấp GI](../160-bung-cap-GI/lesson.md)
+- [110 – Giải phẫu bụng](../110-giai-phau-bung/lesson.md) · [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) · [123 – Nang gan & bệnh gan đa nang](../123-nang-gan-va-benh-gan-da-nang/lesson.md) · [131 – Tắc mật](../131-tac-mat/lesson.md) · [132 – Hẹp đường mật không xác định](../132-hop-duong-mat-khong-xac-dinh/lesson.md) · [135 – Viêm tụy](../135-viem-tuy-Atlanta/lesson.md) · [150 – Bosniak](../150-nang-than-Bosniak/lesson.md) · [151 – U thận đặc](../151-u-than-dac/lesson.md) · [153 – ACKD](../153-benh-than-nang-mac-phai-loc-mau/lesson.md) · [156 – Hội chứng di truyền u thận](../156-hoi-chung-di-truyen-u-than/lesson.md) · [155 – Thượng thận](../155-thuong-than-tinh-co/lesson.md) · [160 – Bụng cấp GI](../160-bung-cap-GI/lesson.md)
 
 ## Quy hoạch Master Curriculum Hệ Bụng (100–180)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -46,6 +47,7 @@ certainty: tong-hop-y-van
 - 120 – Khối gan nền lành vs xơ *(đã có — [bài học](../120-khoi-gan-nen/lesson.md))*
 - 121 – LI-RADS & HCC *(đã có — [bài học](../121-khoi-gan-LIRADS/lesson.md))*
 - 122 – U lành & áp-xe gan *(đã có — [bài học](../122-u-lanh-gan/lesson.md))*
+- 123 – Nang gan & bệnh gan đa nang (PLD/Caroli/von Meyenburg) *(đã có — [bài học](../123-nang-gan-va-benh-gan-da-nang/lesson.md))*
 - 125 – Gan mỡ-xơ & tăng áp cửa *(đã có — [bài học](../125-gan-mo-xo/lesson.md))*
 
 **130–139 — Đường mật, Túi mật & Tụy**

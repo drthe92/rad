@@ -84,6 +84,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 115 | [Khí tự do](115-khi-tu-do/lesson.md) | `pattern:khi-tu-do` |
 | 120 | [Khối gan nền lành vs xơ](120-khoi-gan-nen/lesson.md) | `pattern:khoi-gan` `vung:gan` `protocol:MRI-gan-Primovist` `score:LI-RADS` |
 | 122 | [U lành & áp-xe gan](122-u-lanh-gan/lesson.md) | `pattern:u-lanh-gan` |
+| 123 | [Nang gan & bệnh gan đa nang (PLD/Caroli/von Meyenburg)](123-nang-gan-va-benh-gan-da-nang/lesson.md) | `pattern:nang-gan` `vung:gan` `score:Gigot` `protocol:MRCP` `incidentaloma:nang-gan` |
 | 125 | [Gan mỡ-xơ](125-gan-mo-xo/lesson.md) | `pattern:gan-lan-toa` `vung:gan` `score:PDFF` `protocol:CT-MRI-gan` `protocol:Fibroscan` |
 | 130 | [Túi mật](130-tui-mat/lesson.md) | `pattern:viem-tui-mat` |
 | 131 | [Tắc mật](131-tac-mat/lesson.md) | `pattern:tac-mat` |
