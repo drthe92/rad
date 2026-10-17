@@ -59,7 +59,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 434 | [Bệnh TK thị do độc–chuyển hóa & LHON](434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) | `pattern:teo-thi` `vung:than-kinh-thi` `score:GCL` `protocol:OCT-thi-truong` |
 | 435 | [GCA & AAION vs NAION (cấp cứu mù > 50 tuổi)](435-gca-va-naion-aion/lesson.md) | `pattern:thieu-mau-dia-thi` `vung:than-kinh-thi` `score:ACR-EULAR-2022` `protocol:US-dong-mach-thai-duong` `protocol:TAB` |
 | 439 | [Teo thị di truyền: DOA/OPA1 & Wolfram](439-teo-thi-di-truyen/lesson.md) | `pattern:teo-thi` `vung:than-kinh-thi` `score:GCL` `protocol:OCT-thi-truong` `protocol:MRI-hoc-mat` |
-| 401 | [Phương thức CĐHA](401-phuong-thuc-mat/lesson.md) | `pattern:protocol-mat` |
+| 401 | [Phương thức CĐHA mắt (CT/MRI/siêu âm/OCT)](401-phuong-thuc-mat/lesson.md) | `pattern:protocol-mat` `vung:mat` `protocol:CT-1mm` `protocol:MRI-hoc-mat` `protocol:sieu-am-B-scan` `protocol:OCT` |
 | 441 | [OCT hoàng điểm](441-OCT-hoang-diem/lesson.md) | `pattern:OCT` |
 | 442 | [Glaucoma](442-glaucoma-OCT/lesson.md) | `pattern:OCT` `vung:than-kinh-thi` `protocol:OCT-RNFL` |
 | 443 | [Võng mạc đái tháo đường](443-vong-mac-dai-thao-duong/lesson.md) | `pattern:vong-mac-dai-thao-duong` `vung:vong-mac` `score:ETDRS` `protocol:OCT-OCTA` |
@@ -89,6 +89,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 122 | [U lành & áp-xe gan](122-u-lanh-gan/lesson.md) | `pattern:u-lanh-gan` |
 | 123 | [Nang gan & bệnh gan đa nang (PLD/Caroli/von Meyenburg)](123-nang-gan-va-benh-gan-da-nang/lesson.md) | `pattern:nang-gan` `vung:gan` `score:Gigot` `protocol:MRCP` `incidentaloma:nang-gan` |
 | 125 | [Gan mỡ-xơ](125-gan-mo-xo/lesson.md) | `pattern:gan-lan-toa` `vung:gan` `score:PDFF` `protocol:CT-MRI-gan` `protocol:Fibroscan` |
+| 124 | [Bệnh mạch máu gan: Budd-Chiari, SOS/VOD & huyết khối tĩnh mạch cửa](124-benh-mach-mau-gan/lesson.md) | `pattern:tac-mach-gan` `vung:gan` `vung:mach-cua` `score:Rotterdam` `score:Vp` `protocol:CT-MRI-da-thi` `incidentaloma:huyet-khoi-tm-cua` |
 | 130 | [Túi mật](130-tui-mat/lesson.md) | `pattern:viem-tui-mat` |
 | 131 | [Tắc mật](131-tac-mat/lesson.md) | `pattern:tac-mat` |
 | 132 | [Hẹp đường mật không xác định & cholangioscopy](132-hop-duong-mat-khong-xac-dinh/lesson.md) | `pattern:hep-duong-mat` `vung:duong-mat` `protocol:MRCP` `protocol:cholangioscopy` `protocol:EUS-FNA` `score:IgG4` |

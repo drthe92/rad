@@ -22,6 +22,7 @@ certainty: tong-hop-y-van
 | Hẹp đường mật KHÔNG xác định (lành vs ác) | Mật (rốn/xa/lan tỏa) | Klatskin/CCA, PDAC, PSC, IgG4-SC, cholangiopathy sau mổ/ghép, eosinophilic cholangitis, AIP | Coi là ÁC (~70%) tới khi chứng minh ngược; thành ≥ 3 mm + ngấm mạnh + hạch > 1 cm + hẹp dài/bất đối xứng = ác; hẹp nhẵn liên tục + IgG4 ≥ 135 mg/dL + tổn thương nhiều tạng = IgG4-SC; nhiều đoạn bỏ nhảy + IBD = PSC | `132`, `131`, `136` |
 | Giãn quai ruột / Thâm nhiễm mỡ khu trú | Ống tiêu hóa (GI) | Viêm ruột thừa, Viêm túi thừa, Tắc ruột non (SBO), Tắc quai kín | Ruột thừa > 6 mm; Ruột non > 3 cm; Xoắn mạch (whirl) + chữ C + mất ngấm thành = Tắc quai kín thiếu máu (mổ tối khẩn) | `160`, `162` |
 | Nang & Ổ dịch quanh tụy | Tụy (pancreas) | Tụ dịch cấp quanh tụy (APFC), tụ dịch hoại tử cấp (ANC), nang giả tụy, hoại tử có vỏ (WON), u nhầy nhú nội ống tụy (IPMN), u nang thanh dịch (SCN), u nang nhầy (MCN) | < 4 tuần vs ≥ 4 tuần + có hoại tử hay không (Atlanta 2012); Thông ống tụy chính = IPMN | `135`, `136` |
+| Gan ứ trệ mạch máu (vào–xoang–ra) | Gan & mạch cửa | Budd-Chiari (tắc dòng RA), SOS/VOD (tắc XOANG), huyết khối tĩnh mạch cửa/PVTT/khi TM cửa (tắc dòng VÀO) | **Thùy đuôi to giữ ngấm + không thấy TM gan = Budd-Chiari**; **sau ghép < 21 ngày + tăng cân > 5% + không giãn đường mật = SOS**; **ngấm mạch + phì đại mạch + mật độ iod ≥ 0,9–1,14 mg/mL = PVTT** | `124`, `121` |
 | Nang thận phức tạp | Thận (kidney) | Bosniak I, II, IIF, III, IV | Ngấm thuốc thật = tăng ≥ 20 HU; Vách dày ≥ 4 mm = Bosniak III; Nốt đặc ngấm thuốc = Bosniak IV | `150` |
 | U thận đặc | Thận | ccRCC, pRCC, chRCC, oncocytoma, AML | Mỡ đại thể −10 đến −100 HU = AML; T2W sáng + mỡ vi thể + ngấm mạnh rồi thải = ccRCC (ccLS ≥ 4); T2W tối đồng nhất + ngấm kém = pRCC; sẹo trung tâm KHÔNG đặc hiệu | `151` |
 | Nang thận trên thận teo (bệnh nhân lọc máu) | Thận | ACKD, ACD-RCC, nang phức tạp (Bosniak) | ≥3 nang/thận + thận nhỏ (~81–85 mm) + đang lọc máu = ACKD; **nốt đặc ngấm trong nền nang** = ACD-RCC (nguy cơ RCC ×100); thận khổng lồ + nang gan = ADPKD | `153` |
@@ -32,7 +33,7 @@ certainty: tong-hop-y-van
 | Dịch tự do ổ bụng vs Đáy ngực | Phúc mạc (peritoneum) | Cổ trướng (Ascites) vs Tràn dịch màng phổi | Dịch màng phổi đẩy chân cơ hoành ra trước (displaced crus) và len vào vùng trần của gan (bare area); Ascites thì không | `110`, `141` |
 
 ## Bài liên quan chéo
-- [110 – Giải phẫu bụng](../110-giai-phau-bung/lesson.md) · [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) · [123 – Nang gan & bệnh gan đa nang](../123-nang-gan-va-benh-gan-da-nang/lesson.md) · [131 – Tắc mật](../131-tac-mat/lesson.md) · [132 – Hẹp đường mật không xác định](../132-hop-duong-mat-khong-xac-dinh/lesson.md) · [135 – Viêm tụy](../135-viem-tuy-Atlanta/lesson.md) · [150 – Bosniak](../150-nang-than-Bosniak/lesson.md) · [151 – U thận đặc](../151-u-than-dac/lesson.md) · [153 – ACKD](../153-benh-than-nang-mac-phai-loc-mau/lesson.md) · [156 – Hội chứng di truyền u thận](../156-hoi-chung-di-truyen-u-than/lesson.md) · [155 – Thượng thận](../155-thuong-than-tinh-co/lesson.md) · [160 – Bụng cấp GI](../160-bung-cap-GI/lesson.md)
+- [110 – Giải phẫu bụng](../110-giai-phau-bung/lesson.md) · [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) · [123 – Nang gan & bệnh gan đa nang](../123-nang-gan-va-benh-gan-da-nang/lesson.md) · [124 – Bệnh mạch máu gan](../124-benh-mach-mau-gan/lesson.md) · [131 – Tắc mật](../131-tac-mat/lesson.md) · [132 – Hẹp đường mật không xác định](../132-hop-duong-mat-khong-xac-dinh/lesson.md) · [135 – Viêm tụy](../135-viem-tuy-Atlanta/lesson.md) · [150 – Bosniak](../150-nang-than-Bosniak/lesson.md) · [151 – U thận đặc](../151-u-than-dac/lesson.md) · [153 – ACKD](../153-benh-than-nang-mac-phai-loc-mau/lesson.md) · [156 – Hội chứng di truyền u thận](../156-hoi-chung-di-truyen-u-than/lesson.md) · [155 – Thượng thận](../155-thuong-than-tinh-co/lesson.md) · [160 – Bụng cấp GI](../160-bung-cap-GI/lesson.md)
 
 ## Quy hoạch Master Curriculum Hệ Bụng (100–180)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -48,6 +49,7 @@ certainty: tong-hop-y-van
 - 121 – LI-RADS & HCC *(đã có — [bài học](../121-khoi-gan-LIRADS/lesson.md))*
 - 122 – U lành & áp-xe gan *(đã có — [bài học](../122-u-lanh-gan/lesson.md))*
 - 123 – Nang gan & bệnh gan đa nang (PLD/Caroli/von Meyenburg) *(đã có — [bài học](../123-nang-gan-va-benh-gan-da-nang/lesson.md))*
+- 124 – Bệnh mạch máu gan: Budd-Chiari, SOS/VOD & huyết khối tĩnh mạch cửa *(đã có — [bài học](../124-benh-mach-mau-gan/lesson.md))*
 - 125 – Gan mỡ-xơ & tăng áp cửa *(đã có — [bài học](../125-gan-mo-xo/lesson.md))*
 
 **130–139 — Đường mật, Túi mật & Tụy**
