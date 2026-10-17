@@ -125,6 +125,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 216 | [Dị dạng mạch & CVST](216-di-dang-mach-CVST/lesson.md) | `pattern:di-dang-mach` |
 | 217 | [Ngoài trục CPA](217-ngoai-truc-CPA/lesson.md) | `pattern:ngoai-truc-CPA` |
 | 218 | [Thoát vị & úng thủy](218-thoat-vi-nao-ung-thuy/lesson.md) | `score:Evans` |
+| 219 | [PRES & RCVS: phù não sau & co mạch não có hồi phục](219-pres-rcvs/lesson.md) | `pattern:phu-nao-sau` `pattern:co-mach-nao` `vung:nao` `score:RCVS2` `protocol:MRA-CE-FLAIR` |
 | 220 | [Ống sống 3 khoang](220-ong-song-tuy/lesson.md) | `pattern:ong-song` |
 | 221 | [Chấn thương cột sống](221-chan-thuong-cot-song/lesson.md) | `score:TLICS` |
 | 222 | [Viêm đốt sống](222-viem-dot-song/lesson.md) | `pattern:viem-dot-song` |

@@ -25,6 +25,7 @@ certainty: tong-hop-y-van
 | Tổn thương thân đốt sống & Đĩa đệm | Cột sống | Viêm đĩa đệm-đốt sống vi khuẩn, Lao cột sống (Pott), Di căn cột sống, Xẹp đốt sống loãng xương | Phá hủy đĩa đệm sớm = Vi khuẩn; Bảo tồn đĩa sớm + áp-xe lạnh vôi hóa = Lao; Chừa đĩa đệm + hủy cuống cung (mất mắt cú) = Di căn | `221`, `222` |
 | Tín hiệu tủy sau chấn thương (cord signal) | Tủy sống | Phù tủy, Xuất huyết tủy, Đứt tủy, SCIWORA (CT bình thường) | T2/STIR sáng đơn thuần = phù (tiên lượng khá); T2 tối + "blooming" GRE/SWI = xuất huyết (xấu); CT bình thường + dấu tủy = SCIWORA — chấm AIS A–E (chốt sacral sparing S4–5) | `223` |
 | Nhân tuyến giáp & Hạch cổ (ACR TI-RADS) | Tuyến giáp & Cổ (thyroid-neck) | Ung thư nhú (PTC), nang thể, keo lành, giả nhân Hashimoto, hạch di căn | Đặc + rất giảm + cao-rộng + đa cung + vi vôi ≤ 1 mm (≥ 7đ) = TR5; bọt biển = TR1 (DỪNG); hạch mất rốn + Tg rửa = di căn (bỏ ngưỡng mm!) | `230` |
+| Phù não sau **có hồi phục** vs **co mạch não có hồi phục** | Nhu mô não (vỏ–dưới vỏ) & mạch não | PRES (THA cấp/thuốc độc), RCVS (đau đầu sét đánh tái diễn), nhồi máu, viêm não HSV | Phù **đối xứng dưới vỏ chẩm-đỉnh + ADC TĂNG** = PRES (CT chỉ nhạy 46%/MRI 98%); **ADC TỐI theo lãnh thổ** = nhồi máu; **"chuỗi hạt" co mạch đa ổ, hồi phục < 3 tháng** = RCVS (RCVS2 ≥ 5; MRA có thể âm tuần đầu) | `219` |
 
 ## Bài liên quan chéo
 - [211 – Đột quỵ não](../211-dot-quy-nao/lesson.md) *(đã có)*
@@ -51,6 +52,7 @@ certainty: tong-hop-y-van
 - 215 – Bệnh lý mất myelin: Xơ cứng rải rác (MS — tiêu chuẩn McDonald, ngón tay Dawson), NMOSD & ADEM  *(đã có — [bài học](../215-mat-myelin/lesson.md))*
 - 217 – Khối ngoài trục (Extra-axial) & Góc cầu tiểu não (CPA): Meningioma, Schwannoma dây VIII, Epidermoid vs. Arachnoid cyst  *(đã có — [bài học](../217-ngoai-truc-CPA/lesson.md))*
 - 218 – Các hội chứng Thoát vị não cấp cứu (dưới liềm, móc thái dương, hạnh nhân) & Não úng thủy (NPH vs. Tắc nghẽn vs. Teo não)  *(đã có — [bài học](../218-thoat-vi-nao-ung-thuy/lesson.md))*
+- 219 – PRES & RCVS: phù não sau có hồi phục (4 kiểu Bartynski, biến thể trung tâm 13%) & co mạch não có hồi phục trên MRA ("chuỗi hạt", RCVS2/RCVS-TCH)  *(đã có — [bài học](../219-pres-rcvs/lesson.md))*
 
 **220–229 — Cột sống & Tủy sống (Spine)**
 - 220 – Tiếp cận tổn thương ống sống theo 3 khoang: Thoát vị đĩa đệm (phân loại MSU/Pfirrmann), U tủy & Viêm tủy cắt ngang  *(đã có — [bài học](../220-ong-song-tuy/lesson.md))*
