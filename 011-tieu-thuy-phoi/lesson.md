@@ -28,6 +28,9 @@ certainty: tong-hop-y-van
 - **Ngẫu nhiên (random):** lao kê 1–3 mm, di căn máu, thuyên tắc NK — **chạm màng phổi**.
 - **Nang/kén:** theo vách (LCH trên) vs ngẫu nhiên (LAM) — bài 050.
 
+![Ba phân bố trên HRCT thật: trung tâm (tree-in-bud) · bạch mạch (sarcoid) · ngẫu nhiên (kê)](images/composite_011_3-phan-bo.jpg)
+*Đối chiếu cùng mặt phẳng HRCT: **trái — tree-in-bud** nốt trung tâm nối thành chùm quanh ĐM–PQ (chừa màng phổi); **giữa — bạch mạch** nốt dọc vách liên tiểu thùy + dưới màng phổi + quanh rốn (sarcoid); **phải — ngẫu nhiên** nốt 1–3 mm rải rác chạm màng phổi (kê). Nguồn: Takahashi H et al., Respirology Case Reports 2026 (PMC13381721) + Baratella E et al., Medicina 2025 (PMC12734719) + Kamali M et al., BMC Pediatrics 2024 (PMC10983680), CC BY. Ảnh ghép letterbox.*
+
 ## 3. Bảng tra cứu nhanh
 
 | Vị trí trong SPL | Dấu HRCT | Bệnh điển hình | Chốt phân biệt |
@@ -50,22 +53,77 @@ certainty: tong-hop-y-van
 
 ## 6. Tự lượng giá — Blind Quiz
 
-**Ca 1 — Nhìn sơ đồ, chỉ vị trí 4 tổn thương.**
+**Ca 1 — HRCT: nốt nhỏ nối thành chùm quanh ĐM–PQ, chừa màng phổi vài mm (bệnh nhân ho mạn + giãn phế quản).**
 
-![Ca 1 — sơ đồ SPL](images/011_SPL_so-do_goc-CC0.svg)
+![Ca 1 — HRCT tree-in-bud](images/011_tree-in-bud_CT_PMC13381721.jpg)
+
+- Hỏi: phân bố trong tiểu thùy? Dấu hiệu tên gọi? Ba nguyên nhân thường gặp?
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- **Phân bố trung tâm (centrilobular):** nốt nhỏ nối thành **chùm dạng cành cây ra lá (tree-in-bud)** quanh ĐM–PQ ở trung tâm tiểu thùy, **chừa màng phổi vài mm**.
+- **Nguyên nhân:** lao, MAC/NTM, hít sặc/viêm phổi hít; ca này là **Nocardia** trên nền giãn phế quản.
+- Nguồn: Takahashi H et al., Respirology Case Reports 2026, Fig. 1, PMC13381721, CC BY 4.0.
+</details>
+
+**Ca 2 — HRCT: nốt mờ rải rác, tập trung DỌC VÁCH liên tiểu thùy + DƯỚI màng phổi + quanh rốn phổi (bệnh nhân trẻ, hạch rốn hai bên).**
+
+![Ca 2 — HRCT sarcoid: phân bố bạch mạch](images/011_bach-mach-sarcoid_CT_PMC12734719.jpg)
+
+- Hỏi: phân bố trong tiểu thùy? Chẩn đoán? Dấu hiệu chốt kèm theo?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- **Findings:** **vi nốt phân bố BẠCH MẠCH** — men theo **vách liên tiểu thùy, dưới màng phổi và quanh bó mạch–phế quản (quanh rốn)** (a); hình (b) chồng sơ đồ: nốt (chấm vàng) nằm dọc **phế quản (đường xanh), vách liên tiểu thùy (đường đỏ)**.
+- **Chẩn đoán:** **sarcoidosis phổi** — chốt bởi **hạch rốn phổi hai bên đối xứng** + phân bố bạch mạch; phân biệt lymphangitis K (một bên, dày vách + nốt), bụi phổi.
+- Nguồn: Baratella E et al., Medicina 2025, Fig. 3, PMC12734719, CC BY 4.0.
+</details>
+
+**Ca 3 — HRCT (a) bệnh nhân sarcoid và (b) bệnh nhân lao: cùng một dấu hiệu ở vùng nốt trung tâm.**
+
+![Ca 3 — Dấu galaxy sign](images/011_galaxy-sign_CT_PMC12734719.jpg)
+
+- Hỏi: mô tả dấu hiệu (nốt lớn + các nốt vệ tinh)? Tên gọi? Vì sao quan trọng khi tầm soát K phổi?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- **Findings:** **nốt lớn trung tâm + chùm nốt vệ tinh nhỏ hợp lại** → dấu **"galaxy sign"** (nhìn như thiên hà). Gặp ở **sarcoid (a)** và **lao (b)**.
+- **Vì sao quan trọng:** trong **tầm soát K phổi**, nốt đặc vùng trên + vệ tinh dễ bị đọc là **u ác**; galaxy sign là **bắt chước lành tính (benign mimic)** → tránh sinh thiết/mổ oan, đối chiếu hạch rốn + bối cảnh.
+- Nguồn: Baratella E et al., Medicina 2025, Fig. 8, PMC12734719, CC BY 4.0.
+</details>
+
+**Ca 4 — Trẻ 12 tuổi, HRCT: vô số nốt nhỏ đều hai phổi + đám đông đặc vá víu (bệnh nhân lao kê).**
+
+![Ca 4 — HRCT nốt ngẫu nhiên (kê)](images/011_ke-ngau-nhien-CT_PMC10983680.jpg)
+
+- Hỏi: nốt có phân bố gì (trung tâm/vách/ngẫu nhiên)? Chẩn đoán? Phân biệt với sarcoid ở điểm nào?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- **Findings:** các **vi nốt phân bố NGẪU NHIÊN** rải khắp hai phổi (**chạm màng phổi**) + đám **đông đặc vá víu** (a,b) = **lao kê (miliary TB)**.
+- **Chốt:** **ngẫu nhiên = chạm màng phổi, đều hai phổi, không ưu thế vách** — khác **sarcoid (dọc vách + dưới màng + quanh rốn)**; kê gợi ý lao kê/di căn máu.
+- Nguồn: Kamali M et al., BMC Pediatrics 2024, Fig. 3, PMC10983680, CC BY 4.0.
+</details>
+
+**Ca 5 — Ghép đối chiếu: bên nào là trung tâm, bên nào là bạch mạch, bên nào là ngẫu nhiên?**
+
+![Ca 5 — Ba phân bố HRCT](images/composite_011_3-phan-bo.jpg)
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- **Trái — tree-in-bud:** nốt trung tâm nối thành chùm (chừa màng). **Giữa — bạch mạch:** nốt dọc vách + dưới màng + quanh rốn (sarcoid). **Phải — ngẫu nhiên:** nốt đều rải rác chạm màng (kê).
+- **Chốt:** xác định **vị trí trong tiểu thùy** là bước quyết định tên bệnh; luôn kèm phân bố trục trên–dưới và bối cảnh. Nguồn: Takahashi 2026 (PMC13381721) + Baratella 2025 (PMC12734719) + Kamali 2024 (PMC10983680), CC BY 4.0.
+</details>
+
+**Ca 6 — Nhìn sơ đồ gốc, chỉ vị trí 4 tổn thương.**
+
+![Ca 6 — sơ đồ SPL](images/011_SPL_so-do_goc-CC0.svg)
 
 - Hỏi: tree-in-bud nằm đâu? Kerley B chạm đâu? Nốt bạch mạch dọc đâu? Kê ngẫu nhiên chạm gì?
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
 - Tree-in-bud: trung tâm (quanh ĐM-PQ). Kerley B: vách, chạm màng phổi. Bạch mạch: dọc vách + dưới màng. Kê: ngẫu nhiên, chạm màng.
-</details>
-
-**Ca 2 — HRCT: nốt dọc vách + dưới màng + hạch rốn 2 bên:** phân bố + chẩn đoán? *(Nối bài 021.)*
-
-<details><summary><b>Bấm để hiện đáp án</b></summary>
-
-- **Bạch mạch — sarcoid:** galaxy + hạch đối xứng (bài 021).
 </details>
 
 ## Bài liên quan chéo
