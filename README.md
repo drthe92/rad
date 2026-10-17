@@ -200,11 +200,13 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 620 | [Cấp cứu tiêu hóa nhi](620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md) | `pattern:non-nhu-nhi` |
 | 622 | [Tắc ruột sơ sinh](622-tac-ruot-so-sinh/lesson.md) | `pattern:tac-ruot-so-sinh` `pattern:double-bubble` `pattern:microcolon` `vung:bung-nhi` `score:Neuhauser` `protocol:XR-contrast-enema` |
 | 623 | [Chấn thương tụy–tá tràng ở trẻ (AAST tụy I–V)](623-chan-thuong-tuy-ta-trang-nhi/lesson.md) | `pattern:chan-thuong-bung` `pattern:dut-ong-tuy` `vung:tuy-ta-trang` `score:AAST` `protocol:CT-bung-chant-thuong` |
+| 624 | [Chấn thương gan & đường mật ở trẻ (AAST gan I–V, biloma)](624-chan-thuong-gan-duong-mat-nhi/lesson.md) | `pattern:chan-thuong-gan-nhi` `pattern:biloma` `pattern:tui-mat-gia` `vung:gan` `vung:duong-mat` `score:AAST` `protocol:CT-bung-can-quang` `protocol:MRCP` |
 | 625 | [Teo đường mật](625-vang-da-tac-mat-so-sinh-teo-duong-mat/lesson.md) | `pattern:vang-da-so-sinh` |
 | 630 | [U bụng nhi](630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md) | `pattern:khoi-bung-nhi` |
 | 635 | [Dị tật hệ tiết niệu nhi (SFU/VUR/PUV)](635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) | `pattern:than-u-nuoc-nhi` `pattern:trao-nguoc-bang-quang-nieu-quan` `pattern:van-nieu-dao-sau` `vung:than-nieu-nhi` `score:SFU` `score:VUR` |
 | 636 | [Cấp cứu niệu–sinh dục nhi: chấn thương thận AAST & xoắn tinh hoàn/buồng trứng](636-cap-cuu-nieu-sinh-duc-nhi/lesson.md) | `pattern:chan-thuong-than-nhi` `pattern:xoan-tinh-hoan` `pattern:xoan-buong-trung` `vung:than-nieu-nhi` `vung:sinh-duc-nhi` `score:AAST` `protocol:CT-bung-chap-nhanh` `protocol:sieu-am-Doppler` |
 | 637 | [Chấn thương bàng quang & niệu đạo nhi (AAST, vỡ ngoài/trong phúc mạc, đứt niệu đạo sau)](637-chan-thuong-bang-quang-nieu-dao-nhi/lesson.md) | `pattern:chan-thuong-bang-quang` `pattern:dut-nieu-dao-sau` `pattern:vo-khung-chau` `vung:bang-quang-nieu-dao-nhi` `vung:khung-chau-nhi` `score:AAST` `protocol:CT-cystography` `protocol:RUG` |
+| 638 | [Khối bìu–tinh hoàn ở trẻ (u tế bào mầm, nang biểu bì, varicocele)](638-khoi-biu-tinh-hoan-nhi/lesson.md) | `pattern:khoi-tinh-hoan-nhi` `pattern:u-te-bao-mam` `pattern:nang-bieu-bi` `pattern:gian-tinh-mach-tinh` `vung:biu-tinh-hoan-nhi` `score:WHO-2022` `protocol:sieu-am-Doppler-biu` |
 | 640 | [Háng nhi & NAT](640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) | `score:Graf` |
 | 650 | [Thần kinh nhi](650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) | `score:Papile` |
 | 654 | [Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) | `pattern:benh-nao-so-sinh` `pattern:han-che-khuech-tan` `vung:nao-nhi` `score:BIND` `protocol:MRI-nao-so-sinh` |
