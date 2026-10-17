@@ -82,6 +82,12 @@ certainty: tong-hop-y-van
   - **RCVS-TCH score** (dựa đau đầu sét đánh): **thunderclap tái diễn + 2 · nữ + 3 · tăng huyết áp đột ngột + 4 · yếu tố khởi phát (nhiều + 3 / một + 2)**. **Ngưỡng ≥ 7: Se 80%/Sp 97%** (PMC12036309; de Sousa ÍA et al., Headache 2026, PMC13142216).
 - **Xử trí:** PRES — loại bỏ yếu tố khởi phát + **hạ huyết áp từ từ (MAP 105–125 mmHg; tăng huyết áp ác tính DBP 100–105 mmHg trong vài giờ)**, co giật dùng thuốc kháng động kinh. RCVS — **ngừng thuốc/yếu tố co mạch**, **nimodipine** (khởi đầu < 7 ngày có thể giảm co mạch; chủ yếu giảm đau đầu), tránh glucocorticoid.
 
+![RCVS: tính động học — hẹp ổ khu trú hồi phục sau 2 ngày + giãn khu trú mới](images/219_rcvs_MRA_PMC12036309-Fig8-tai-thong-CCBY.jpg)
+*MRA lặp sau **2 ngày** (ca đau đầu sét đánh): (A) hẹp ổ khu trú ĐM não sau trái (vòng chấm) → (B) **hồi phục**; (C→D) giãn khu trú **mới xuất hiện** ở ĐM não giữa trái (vòng tròn). **Đường kính mạch thay đổi theo thời gian** nên không chốt từ một lần chụp — chìa khóa phân biệt với xơ vữa (không hồi phục). Nguồn: Kim SA et al., J Headache Pain 2025 (PMC12036309), CC BY 4.0.*
+
+![RCVS: hở hàng rào máu-não trên CE-FLAIR](images/219_rcvs_CE-FLAIR_PMC12036309-Fig16-BBB-CCBY.jpg)
+*CE-FLAIR: hở **hàng rào máu-não (BBB)** = tăng tín hiệu **dịch não tủy/dưới nhện** (B, E) so với FLAIR không cản quang (A, D); MRA (C, F) co mạch đa ổ. **Hở BBB xuất hiện trước co mạch, đỉnh 1–2 tuần** (69% RCVS rõ/25% RCVS nghi ngờ) → tăng chẩn đoán ở ca angiogram âm. Cạm bẫy: tăng tín hiệu dịch cũng gặp ở SAH/viêm màng não/nhồi máu. Nguồn: Kim SA et al., J Headache Pain 2025 (PMC12036309), CC BY 4.0.*
+
 ```mermaid
 flowchart TD
   A[Đau đầu SÉT ĐÁNH tái diễn / thần kinh khu trú thoáng qua] --> B[CT sọ: loại trừ xuất huyết]
@@ -169,6 +175,8 @@ flowchart TD
 **Ca 4 — Eclampsia khởi phát sớm, hôn mê; nhìn DWI/ADC và SWI:**
 
 ![Ca 4 — DWI/ADC cầu não](images/219_pres_DWI-ADC_PMC13396603-Fig3-CCBYNCND.jpg)
+
+![Ca 4 — SWI (cùng ca)](images/219_pres_SWI_PMC13396603-Fig4-CCBYNCND.jpg)
 
 - Câu hỏi: DWI/ADC và SWI cho thấy gì? Ý nghĩa tiên lượng?
 
