@@ -34,6 +34,8 @@ certainty: tong-hop-y-van
 | Dịch nhầy phúc mạc & đóng bánh mạc nối (pseudomyxoma peritonei — PMP) | Phúc mạc (peritoneum) | PMP (LAMN/HAMN/ung thư biểu mô nhầy ruột thừa) vs carcinomatosis thanh dịch vs lao phúc mạc vs báng tự do vs u trung biểu mô đa nang | **"Khía" (scalloping) mặt gan–lách + cấy không xâm lấn + dịch nhầy khu trú + ruột dồn trung tâm = PMP**; **nốt đặc XÂM LẤN + CA-125 rất cao = carcinomatosis**; mặt tạng NHẴN = báng tự do; dịch nhầy ~10–20 HU; **CRS + HIPEC sống 10 năm 63%** (Chua n = 2298) vs giảm khối 5 năm 15,3–67% | `535`, `539` |
 | Khối cơ tử cung: lành hay sarcoma | Tử cung (uterus) | Leiomyoma & biến thể (cellular/FHD/myxoid) vs STUMP vs LMS vs ESS vs carcinosarcoma | **ADC ≤ 0,9 ×10⁻³ mm²/s (vùng u còn sống) = nghi sarcoma**; **T2 tối + DWI tối + ADC > 1,23 = loại sarcoma (NPV ~100%)**; **bờ là yếu tố chốt** (trơn = lành kể cả biến thể ADC thấp; thâm nhiễm = nghi ác); cạm bẫy **myxoid LMS T2 rất sáng + ADC cao + "vân cẩm thạch"** | `520`, `525`, `526` |
 | Sa sàn chậu & táo bón tống phân khó | Sàn chậu (pelvic floor) | Cystocele · sa tử cung/đỉnh âm đạo · rectocele · enterocele · lồng trực tràng · **anismus** | **PCL là mốc: hạ < 3 cm / 3–6 cm / > 6 cm = độ 1/2/3**; **H line ≤ 6 cm, M line ≤ 2 cm**; **góc hậu môn-trực tràng nghỉ 90–130°, phải MỞ khi tống phân** (không mở/nghịch lý = anismus, không mổ sa); **rectocele > 2 cm**; sa chỉ lộ khi **tống phân** | `545` |
+| Song thai & bệnh lý màng đệm–màng ối | Thai nhi & bánh nhau (fetus/placenta) | DC/DA · MC/DA · MC/MA · TTTS · TAPS · sIUGR · TRAP | **Lambda đầy đủ = DC; T sign = MC; không vách = MA**; **DVP ≤ 2 cm + ≥ 8 cm (< 20 tuần)/≥ 10 cm + bàng quang lệch = TTTS (Quintero I–V)**; **MCA-PSV > 1,5 MoM / < 1,0 MoM = TAPS**; **EFW < BP10 + lệch > 25% = sIUGR** | `566` |
+| Sàng lọc lệch bội & dấu hiệu mềm | Thai nhi (đầu–mặt–tim–thận–xương) | cFTS · NIPT · quadruple test · dấu hiệu mềm quý II · CVS/chọc ối + CMA | **NT ≥ 3,5 mm → chẩn đoán xâm lấn + CMA**; **nếp gáy ≥ 6 mm, giãn não thất ≥ 10 mm, mất xương mũi, ARSA = LR đơn độc 3,8–6,6**; **ICEF đơn độc LR 0,94 → không đổi xử trí**; NIPT âm tính không loại trừ CNV/dị tật | `567` |
 
 ## Bài liên quan chéo
 - [510 – BI-RADS vú](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) *(đã có)*
@@ -54,6 +56,8 @@ certainty: tong-hop-y-van
 - [550 – Thai sớm & ngoài tử cung](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) *(đã có)*
 - [560 – Nhau cài răng lược](../560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) *(đã có)*
 - [565 – Sàng lọc hình thái thai & Doppler sản khoa](../565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) *(đã có)*
+- [566 – Song thai: chorionicity, TTTS & TAPS](../566-song-thai-chorionicity-TTTS-TAPS/lesson.md) *(đã có)*
+- [567 – Sàng lọc lệch bội: NIPT & dấu hiệu mềm](../567-sang-loc-lech-boi-NIPT-dau-hieu-mem/lesson.md) *(đã có)*
 - [571 – Sẩy thai tái diễn: tiếp cận hình ảnh tử cung](../571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md) *(đã có)*
 - [572 – Hạch trong ung thư phụ khoa: SLN, hạch chậu–cạnh ĐMC & PET-CT](../572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md) *(đã có)*
 
@@ -88,6 +92,8 @@ certainty: tong-hop-y-van
 - 550 – Siêu âm 3 tháng đầu: Tiêu chuẩn SRU chẩn đoán Thai ngừng tiến triển, Thai ngoài tử cung & Bệnh nguyên bào nuôi (Thai trứng) *(đã có — [bài học](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md))*
 - 560 – Phổ bệnh lý Nhau cài răng lược (PAS: Accreta – Increta – Percreta), Nhau tiền đạo & Nhau bong non trên Siêu âm và MRI *(đã có — [bài học](../560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md))*
 - 565 – Sàng lọc hình thái học thai nhi quý I–II & Siêu âm Doppler sản khoa (Động mạch rốn, Động mạch não giữa MCA, Ống tĩnh mạch) *(đã có — [bài học](../565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md))*
+- 566 – Song thai: xác định màng đệm–màng ối (chorionicity/amnionicity) & hội chứng truyền máu TTTS/TAPS (Quintero I–V, TAPS 1–5, sIUGR type I–III) *(đã có — [bài học](../566-song-thai-chorionicity-TTTS-TAPS/lesson.md))*
+- 567 – Sàng lọc lệch bội: NIPT vs xét nghiệm phối hợp quý I & dấu hiệu mềm quý II (nếp gáy ≥ 6 mm, giãn não thất ≥ 10 mm, mất xương mũi, ARSA; likelihood ratio) *(đã có — [bài học](../567-sang-loc-lech-boi-NIPT-dau-hieu-mem/lesson.md))*
 
 **570–579 — Hạch & phân giai đoạn ung thư phụ khoa (Nodal & Advanced Staging)**
 - 571 – Sẩy thai tái diễn (RPL): tiếp cận hình ảnh tử cung — vách ngăn vs hai sừng, dính buồng (Asherman/IUA), polyp, u xơ dưới niêm mạc, adenomyosis, hở cổ tử cung; SIS/3D-TVUS/MRI + soi buồng *(đã có — [bài học](../571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md))*

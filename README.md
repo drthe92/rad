@@ -170,6 +170,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 550 | [Thai sớm SRU](550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) | `score:SRU` |
 | 560 | [PAS](560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) | `score:PAS` |
 | 565 | [Sàng lọc hình thái thai & Doppler sản khoa](565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) | `pattern:hinh-thai` `pattern:doppler-san-khoa` `vung:thai-nhi` `score:Delphi-FGR` `protocol:SA-hinh-thai` `protocol:Doppler-san-khoa` |
+| 566 | [Song thai: chorionicity, TTTS & TAPS](566-song-thai-chorionicity-TTTS-TAPS/lesson.md) | `pattern:song-thai` `vung:thai-nhi` `vung:banh-nhau` `score:Quintero` `score:TAPS` `protocol:SA-thai` `protocol:Doppler-MCA` |
+| 567 | [Sàng lọc lệch bội: NIPT & dấu hiệu mềm](567-sang-loc-lech-boi-NIPT-dau-hieu-mem/lesson.md) | `pattern:lech-boi` `vung:thai-nhi` `score:LR-dau-hieu-mem` `protocol:NIPT` `protocol:SA-hinh-thai` |
 | 571 | [Sẩy thai tái diễn: tiếp cận hình ảnh tử cung](571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md) | `pattern:say-thai-tai-dien` `vung:tu-cung` `score:ESHRE-ESGE` `score:ASRM` `protocol:sonohysterography` `protocol:MRI-tu-cung` |
 | 572 | [Hạch trong ung thư phụ khoa: SLN, hạch chậu–cạnh ĐMC & PET-CT](572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md) | `pattern:hach-di-can` `vung:hach-chau` `vung:hach-canh-dmc` `score:FIGO` `protocol:PET-CT` `protocol:SLN-ICG` |
 
