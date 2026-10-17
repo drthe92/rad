@@ -36,6 +36,7 @@ certainty: tong-hop-y-van
 | Sa sàn chậu & táo bón tống phân khó | Sàn chậu (pelvic floor) | Cystocele · sa tử cung/đỉnh âm đạo · rectocele · enterocele · lồng trực tràng · **anismus** | **PCL là mốc: hạ < 3 cm / 3–6 cm / > 6 cm = độ 1/2/3**; **H line ≤ 6 cm, M line ≤ 2 cm**; **góc hậu môn-trực tràng nghỉ 90–130°, phải MỞ khi tống phân** (không mở/nghịch lý = anismus, không mổ sa); **rectocele > 2 cm**; sa chỉ lộ khi **tống phân** | `545` |
 | Song thai & bệnh lý màng đệm–màng ối | Thai nhi & bánh nhau (fetus/placenta) | DC/DA · MC/DA · MC/MA · TTTS · TAPS · sIUGR · TRAP | **Lambda đầy đủ = DC; T sign = MC; không vách = MA**; **DVP ≤ 2 cm + ≥ 8 cm (< 20 tuần)/≥ 10 cm + bàng quang lệch = TTTS (Quintero I–V)**; **MCA-PSV > 1,5 MoM / < 1,0 MoM = TAPS**; **EFW < BP10 + lệch > 25% = sIUGR** | `566` |
 | Sàng lọc lệch bội & dấu hiệu mềm | Thai nhi (đầu–mặt–tim–thận–xương) | cFTS · NIPT · quadruple test · dấu hiệu mềm quý II · CVS/chọc ối + CMA | **NT ≥ 3,5 mm → chẩn đoán xâm lấn + CMA**; **nếp gáy ≥ 6 mm, giãn não thất ≥ 10 mm, mất xương mũi, ARSA = LR đơn độc 3,8–6,6**; **ICEF đơn độc LR 0,94 → không đổi xử trí**; NIPT âm tính không loại trừ CNV/dị tật | `567` |
+| Vú sau điều trị: tái tạo, hoại tử mỡ & tái phát | Vú đã mổ/xạ/tái tạo & túi ngực (treated breast) | Sẹo xơ · hoại tử mỡ (nang dầu/vôi vỏ) · huyết thanh tụ · tái phát tại vú · BIA-ALCL (dịch quanh túi muộn) | **"Thành phần mỡ + lõi KHÔNG ngấm" = hoại tử mỡ (lành)**; **tái phát = MỚI/ngấm/DWI sáng, mọc lên sau giai đoạn ổn định**; **dịch quanh túi MUỘN > 1 năm + dày bao không đều = chọc tế bào (CD30+/ALK−) → BIA-ALCL**; sinh thiết lành mà khối vẫn **TO LÊN → sinh thiết LẠI** | `516` |
 
 ## Bài liên quan chéo
 - [510 – BI-RADS vú](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) *(đã có)*
@@ -60,6 +61,7 @@ certainty: tong-hop-y-van
 - [567 – Sàng lọc lệch bội: NIPT & dấu hiệu mềm](../567-sang-loc-lech-boi-NIPT-dau-hieu-mem/lesson.md) *(đã có)*
 - [571 – Sẩy thai tái diễn: tiếp cận hình ảnh tử cung](../571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md) *(đã có)*
 - [572 – Hạch trong ung thư phụ khoa: SLN, hạch chậu–cạnh ĐMC & PET-CT](../572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md) *(đã có)*
+- [516 – Hình ảnh vú sau điều trị: tái tạo, hoại tử mỡ, sẹo vs tái phát & BIA-ALCL](../516-hinh-anh-vu-sau-dieu-tri/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Vú & Sản Phụ khoa (500–580)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -69,6 +71,7 @@ certainty: tong-hop-y-van
 - 510 – Hệ thống phân độ ACR BI-RADS trên Nhũ ảnh (Mammography), Siêu âm & MRI vú *(đã có — [bài học](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md))*
 - 512 – Tiếp cận Vi vôi hóa vú, Biến dạng cấu trúc (Architectural distortion) & Đánh giá túi ngực (vỡ trong bao — dấu sợi mì *linguine sign* vs. vỡ ngoài bao — *snowstorm*) *(đã có — [bài học](../512-vi-voi-hoa-tui-nguc-bien-dang/lesson.md))*
 - 514 – Ung thư vú: Phân giai đoạn TNM (AJCC/UICC 8th) & MRI/CEM đánh giá lan rộng (đa ổ *multifocal* 2–5 cm vs. đa trung tâm *multicentric* khác phần tư, thể tiểu thùy hai bên) *(đã có — [bài học](../514-ung-thu-vu-TNM-MRI-lan-rong/lesson.md))*
+- 516 – Hình ảnh vú sau điều trị: tái tạo (vạt/ghép mỡ), hoại tử mỡ (nang dầu/vôi hóa vỏ), sẹo vs tái phát, biến đổi sau xạ & BIA-ALCL (huyết thanh tụ quanh túi muộn) *(đã có — [bài học](../516-hinh-anh-vu-sau-dieu-tri/lesson.md))*
 
 **520–529 — Tử cung & Cổ tử cung (Uterus & Cervix)**
 - 520 – U xơ cơ tử cung (Phân loại FIGO 0–8), Lạc nội mạc trong cơ (Adenomyosis) & Tiếp cận dày nội mạc tử cung *(đã có — [bài học](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md))*

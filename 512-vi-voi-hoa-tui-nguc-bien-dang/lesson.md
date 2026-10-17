@@ -133,6 +133,7 @@ flowchart TD
 ## Bài liên quan chéo
 - [500 – Tổng quan Vú & Sản Phụ khoa](../500-tong-quan-vu-san-phu-khoa/lesson.md)
 - [510 – Vú & BI-RADS: nhũ ảnh, siêu âm & MRI](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) (khối vú, động học DCE, xếp loại BI-RADS)
+- [516 – Hình ảnh vú sau điều trị: hoại tử mỡ, sẹo vs tái phát & BIA-ALCL](../516-hinh-anh-vu-sau-dieu-tri/lesson.md) (đọc vú đã mổ/xạ/tái tạo/túi ngực)
 - [530 – Phần phụ O-RADS](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md) (hệ thống RADS phụ khoa)
 - [448 – U hắc mạc](../448-u-hac-mac/lesson.md) (nguyên lý MRI theo bản chất mô — melanin/silicone)
 

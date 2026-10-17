@@ -165,6 +165,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 510 | [Vú BI-RADS](510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) | `score:BI-RADS` |
 | 512 | [Vôi hóa/biến dạng/túi ngực](512-vi-voi-hoa-tui-nguc-bien-dang/lesson.md) | `pattern:vi-voi-hoa` `pattern:bien-dang-cau-truc` `pattern:tui-nguc` `vung:vu` `protocol:MRI-vu` |
 | 514 | [Ung thư vú: TNM & MRI lan rộng (đa ổ/đa trung tâm)](514-ung-thu-vu-TNM-MRI-lan-rong/lesson.md) | `pattern:khoi-vu` `pattern:da-o-vu` `vung:vu` `score:TNM` `protocol:MRI-vu` |
+| 516 | [Hình ảnh vú sau điều trị: tái tạo, hoại tử mỡ, sẹo vs tái phát & BIA-ALCL](516-hinh-anh-vu-sau-dieu-tri/lesson.md) | `pattern:vu-sau-dieu-tri` `pattern:hoai-tu-mo` `pattern:u-tai-phat` `vung:vu` `score:BI-RADS` `protocol:MRI-vu` `incidentaloma:BIA-ALCL` |
 | 520 | [Tử cung FIGO](520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md) | `score:FIGO` |
 | 525 | [K nội mạc/cổ tử cung FIGO MRI](525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) | `pattern:u-noi-mac` `pattern:xam-lan-co` `vung:tu-cung` `score:FIGO` `protocol:MRI-tieu-khung` |
 | 526 | [Sarcoma tử cung & carcinosarcoma vs u xơ](526-sarcoma-tu-cung-vs-u-xo/lesson.md) | `pattern:khoi-co-tu-cung` `pattern:xam-lan-co` `vung:tu-cung` `score:ADC` `protocol:MRI-tieu-khung` |

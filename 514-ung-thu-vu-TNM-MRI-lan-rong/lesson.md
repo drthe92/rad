@@ -170,6 +170,7 @@ flowchart TD
 - [500 – Tổng quan Vú & Sản phụ khoa](../500-tong-quan-vu-san-phu-khoa/lesson.md)
 - [510 – Vú & BI-RADS: nhũ ảnh, siêu âm & MRI](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md)
 - [512 – Vi vôi hóa, biến dạng cấu trúc & túi ngực](../512-vi-voi-hoa-tui-nguc-bien-dang/lesson.md)
+- [516 – Hình ảnh vú sau điều trị: sẹo vs tái phát, hoại tử mỡ & BIA-ALCL](../516-hinh-anh-vu-sau-dieu-tri/lesson.md)
 - [525 – Ung thư nội mạc & cổ tử cung: FIGO trên MRI](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md)
 - [535 – Ung thư buồng trứng, phúc mạc & u Krukenberg](../535-ung-thu-buong-trung-phuc-mac-krukenberg/lesson.md) (di căn hai bên phân biệt vú thể tiểu thùy)
 - [022 – Khối phổi & TNM](../022-khoi-phoi-TNM/lesson.md) (so sánh hệ TNM)
