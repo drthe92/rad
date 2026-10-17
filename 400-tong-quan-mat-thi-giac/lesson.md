@@ -26,6 +26,7 @@ certainty: tong-hop-y-van
 | TK thị/giao thoa | TK-yên | Viêm, NAION, glioma/ONSM, adenoma | Đau + ngấm = viêm; tram-track = ONSM; bán manh = yên | [430](../430-duong-thi-giac/lesson.md), [431](../431-u-than-kinh-thi/lesson.md), [432](../432-vung-yen/lesson.md) |
 | Đĩa thị | Đĩa thị (disc) | Phù đĩa, drusen, IIH | Frisén 0–5; lõi tối = drusen | [433](../433-phu-dia-thi-drusen/lesson.md) |
 | Teo thị 2 bên | Thần kinh thị (optic nerve) | LHON, độc–chuyển hóa, viêm, chèn ép | GCL mất sớm = LHON; RNFL thái dương mỏng = độc chất | [434](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) |
+| Phù đĩa thị thiếu máu cấp (> 50 tuổi) | Thần kinh thị (optic nerve) | **AAION (GCA) vs NAION** vs viêm thị, PION, CRAO | Đĩa **nhợt trắng phấn + đốm bông + 2 bên + đau hàm → GCA (cấp cứu steroid)**; đĩa **sung huyết + disc-at-risk mắt lành → NAION (không steroid)** | [435](../435-gca-va-naion-aion/lesson.md) |
 | Tắc mạch võng mạc | Võng mạc (retina) | CRVO/BRVO, CRAO | Cherry-red + giờ vàng < 4–6 giờ | [444](../444-tac-mach-vong-mac/lesson.md) |
 | Bong võng mạc | Võng mạc (retina) | Rách, co kéo, tiết dịch, PVR | Macula-on 24 giờ; V/Y dính đĩa | [445](../445-bong-vong-mac/lesson.md) |
 | Phù hoàng điểm viêm | Hoàng điểm (macula) | Uveitic CME vs DME | Anti-VEGF thất bại 3 mũi → steroid | [446](../446-phu-hoang-diem-viem/lesson.md) |
@@ -54,6 +55,7 @@ certainty: tong-hop-y-van
 - [432 – Vùng yên](../432-vung-yen/lesson.md) *(mới)*
 - [433 – Phù đĩa thị vs drusen](../433-phu-dia-thi-drusen/lesson.md) *(mới)*
 - [434 – Bệnh TK thị do độc–chuyển hóa & LHON](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) *(mới)*
+- [435 – GCA & AAION vs NAION](../435-gca-va-naion-aion/lesson.md) *(mới)*
 - [441 – OCT hoàng điểm](../441-OCT-hoang-diem/lesson.md) *(mới)*
 - [442 – Glaucoma](../442-glaucoma-OCT/lesson.md) *(mới)*
 - [443 – Võng mạc đái tháo đường](../443-vong-mac-dai-thao-duong/lesson.md) *(mới)*
@@ -93,6 +95,8 @@ certainty: tong-hop-y-van
 - 432 – Vùng yên-giao thoa *(đã có — [bài học](../432-vung-yen/lesson.md))*
 - 433 – Phù đĩa thị vs drusen đĩa *(đã có — [bài học](../433-phu-dia-thi-drusen/lesson.md))*
 - 434 – Bệnh thần kinh thị do độc–chuyển hóa & LHON: tiếp cận teo thị 2 bên *(đã có — [bài học](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md))*
+- 435 – Viêm động mạch tế bào khổng lồ (GCA) & AAION vs NAION: cấp cứu mù ở người > 50 tuổi *(đã có — [bài học](../435-gca-va-naion-aion/lesson.md))*
+- 439 – Teo thị di truyền khác (DOA/OPA1, Wolfram) *(dự kiến)*
 
 **440–449 — Võng mạc, hoàng điểm & glaucoma (OCT)**
 - 441 – OCT hoàng điểm *(đã có — [bài học](../441-OCT-hoang-diem/lesson.md))*

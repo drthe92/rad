@@ -57,6 +57,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 432 | [Vùng yên](432-vung-yen/lesson.md) | `pattern:khoi-yen` |
 | 433 | [Phù đĩa thị vs drusen](433-phu-dia-thi-drusen/lesson.md) | `pattern:phu-dia-thi` `vung:dia-thi` `score:Frisen` `protocol:OCT-dia-thi` |
 | 434 | [Bệnh TK thị do độc–chuyển hóa & LHON](434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) | `pattern:teo-thi` `vung:than-kinh-thi` `score:GCL` `protocol:OCT-thi-truong` |
+| 435 | [GCA & AAION vs NAION (cấp cứu mù > 50 tuổi)](435-gca-va-naion-aion/lesson.md) | `pattern:thieu-mau-dia-thi` `vung:than-kinh-thi` `score:ACR-EULAR-2022` `protocol:US-dong-mach-thai-duong` `protocol:TAB` |
 | 401 | [Phương thức CĐHA](401-phuong-thuc-mat/lesson.md) | `pattern:protocol-mat` |
 | 441 | [OCT hoàng điểm](441-OCT-hoang-diem/lesson.md) | `pattern:OCT` |
 | 442 | [Glaucoma](442-glaucoma-OCT/lesson.md) | `pattern:OCT` `vung:than-kinh-thi` `protocol:OCT-RNFL` |
@@ -68,7 +69,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 448 | [U hắc mạc](448-u-hac-mac/lesson.md) | `pattern:u-hac-mac` `vung:hac-mac` `protocol:US-MRI-hac-mac` |
 | 449 | [Chấn thương mắt & IOFB](449-chan-thuong-mat-dich-vat/lesson.md) | `pattern:chan-thuong-mat` `vung:nhan-cau-hoc-mat` `protocol:CT-1mm` |
 | 450 | [Mắt nhi](450-mat-nhi/lesson.md) | `pattern:xuat-tiet-nhi` |
-| 451 | [Hệ thống](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` |
+| 451 | [Biểu hiện mắt của bệnh hệ thống (sarcoid/GPA/IgG4/lymphoma)](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` `vung:hoc-mat` `score:IgG4` `protocol:CT-MRI-hoc-mat` `protocol:sinh-thiet` |
 | 452 | [Hoại tử võng mạc cấp (ARN) & CMV retinitis](452-hoai-tu-vong-mac-ARN-CMV/lesson.md) | `pattern:hoai-tu-vong-mac` `vung:vong-mac` `protocol:PCR-dich-thuy` `protocol:widefield` |
 | 453 | [Bệnh võng mạc do tăng huyết áp & bệnh máu](453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md) | `pattern:benh-vong-mac-tang-huyet-ap` `vung:vong-mac` `score:Keith-Wagener` `score:Goldberg` `protocol:soi-day-mat` |
 | 456 | [Bệnh võng mạc trẻ sinh non (ROP)](456-benh-vong-mac-tre-sinh-non/lesson.md) | `pattern:rop` `vung:vong-mac` `score:ICROP` `protocol:sang-loc-ROP` |
