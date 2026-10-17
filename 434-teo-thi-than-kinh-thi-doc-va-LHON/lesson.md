@@ -148,6 +148,7 @@ flowchart TD
 - [431 – U TK thị](../431-u-than-kinh-thi/lesson.md) (chèn ép thần kinh thị)
 - [432 – Vùng yên](../432-vung-yen/lesson.md) (bán manh 2 thái dương — u tuyến yên)
 - [433 – Phù đĩa thị vs drusen](../433-phu-dia-thi-drusen/lesson.md) (phù thật vs giả phù; IIH)
+- [439 – Teo thị di truyền (DOA/OPA1 & Wolfram)](../439-teo-thi-di-truyen/lesson.md) (teo thị 2 bên do gene nhân: DOA/Wolfram)
 - [442 – Glaucoma OCT](../442-glaucoma-OCT/lesson.md) (RNFL/GCL mỏng — so cơ chế)
 - [451 – Bệnh hệ thống ở mắt](../451-he-thong-mat/lesson.md) (thiếu B12, rượu–thuốc lá)
 
