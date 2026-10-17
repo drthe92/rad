@@ -155,6 +155,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 514 | [Ung thư vú: TNM & MRI lan rộng (đa ổ/đa trung tâm)](514-ung-thu-vu-TNM-MRI-lan-rong/lesson.md) | `pattern:khoi-vu` `pattern:da-o-vu` `vung:vu` `score:TNM` `protocol:MRI-vu` |
 | 520 | [Tử cung FIGO](520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md) | `score:FIGO` |
 | 525 | [K nội mạc/cổ tử cung FIGO MRI](525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) | `pattern:u-noi-mac` `pattern:xam-lan-co` `vung:tu-cung` `score:FIGO` `protocol:MRI-tieu-khung` |
+| 526 | [Sarcoma tử cung & carcinosarcoma vs u xơ](526-sarcoma-tu-cung-vs-u-xo/lesson.md) | `pattern:khoi-co-tu-cung` `pattern:xam-lan-co` `vung:tu-cung` `score:ADC` `protocol:MRI-tieu-khung` |
 | 528 | [Dị dạng tử cung bẩm sinh](528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md) | `pattern:di-dang-tu-cung` `vung:tu-cung` `score:ESHRE-ESGE` `score:ASRM` `protocol:MRI-tu-cung` `protocol:3D-TVUS` |
 | 530 | [Phần phụ O-RADS](530-buong-trung-ORADS-sieu-am-MRI/lesson.md) | `score:O-RADS` |
 | 535 | [Ung thư buồng trứng, phúc mạc & u Krukenberg](535-ung-thu-buong-trung-phuc-mac-krukenberg/lesson.md) | `pattern:k-u-buong-trung` `vung:phuc-mac` `score:FIGO` `score:PCI` |

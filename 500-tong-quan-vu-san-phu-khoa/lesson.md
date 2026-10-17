@@ -27,6 +27,7 @@ certainty: tong-hop-y-van
 | Hình thái thai nhi & Doppler sản khoa | Thai nhi (fetus), tuần hoàn bào thai | NT dày/thể nhiễm sắc thể, FGR sớm/muộn, thiếu máu thai, suy tim thai | **NT ≥ 3,5 mm (hoặc > BP95) + mất xương mũi = nghi lệch bội**; **UA PI > BP95 → AEDF → REDF + CPR < BP5 = FGR**; **MCA-PSV > 1,5 MoM = thiếu máu**; **DV mất/đảo sóng a = suy tim, đẻ ngay** | `565` |
 | Ung thư vú: giai đoạn & lan rộng | Tuyến vú (breast) | Đơn ổ (unifocal) vs Đa ổ (MF, cùng phần tư, 2–5 cm) vs Đa trung tâm (MC, khác phần tư/> 5 cm, hay ILC hai bên) vs DCIS/NME | **T theo ổ xâm lấn lớn nhất + hậu tố “(m)”, KHÔNG cộng kích thước**; MRI phát hiện thêm ổ ẩn **10–30%**; **Type III washout + DWI sáng** = ác; vú đặc ACR C/D → MRI/CEM | `514` |
 | Hạch trong ung thư phụ khoa | Hạch chậu & cạnh ĐMC (pelvic/para-aortic) | Hạch di căn vs hạch phản ứng/viêm vs lao hạch | **FDG-PET/CT Se chỉ ~56% (hạch nhỏ/vi di căn âm tính KHÔNG loại trừ)**; **SLN-ICG detection 95,6%, NPV 99,2–100%**; **IIIC1 hạch chậu / IIIC2 cạnh ĐMC**; micromet 0,2–2,0 mm, macro > 2 mm | `572` |
+| Khối cơ tử cung: lành hay sarcoma | Tử cung (uterus) | Leiomyoma & biến thể (cellular/FHD/myxoid) vs STUMP vs LMS vs ESS vs carcinosarcoma | **ADC ≤ 0,9 ×10⁻³ mm²/s (vùng u còn sống) = nghi sarcoma**; **T2 tối + DWI tối + ADC > 1,23 = loại sarcoma (NPV ~100%)**; **bờ là yếu tố chốt** (trơn = lành kể cả biến thể ADC thấp; thâm nhiễm = nghi ác); cạm bẫy **myxoid LMS T2 rất sáng + ADC cao + "vân cẩm thạch"** | `520`, `525`, `526` |
 
 ## Bài liên quan chéo
 - [510 – BI-RADS vú](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) *(đã có)*
@@ -34,6 +35,7 @@ certainty: tong-hop-y-van
 - [514 – Ung thư vú: giai đoạn TNM & MRI lan rộng (đa ổ/đa trung tâm)](../514-ung-thu-vu-TNM-MRI-lan-rong/lesson.md) *(đã có)*
 - [520 – Tử cung: xơ/FIGO/adenomyosis](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md) *(đã có)*
 - [525 – Ung thư nội mạc & cổ tử cung: FIGO trên MRI](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) *(đã có)*
+- [526 – Sarcoma tử cung & carcinosarcoma vs u xơ](../526-sarcoma-tu-cung-vs-u-xo/lesson.md) *(đã có)*
 - [528 – Dị dạng tử cung bẩm sinh: vách ngăn vs hai sừng (ESHRE/ESGE & ASRM)](../528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md) *(đã có)*
 - [530 – Phần phụ O-RADS](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md) *(đã có)*
 - [535 – Ung thư buồng trứng, phúc mạc & u Krukenberg](../535-ung-thu-buong-trung-phuc-mac-krukenberg/lesson.md) *(đã có)*
@@ -56,6 +58,7 @@ certainty: tong-hop-y-van
 - 520 – U xơ cơ tử cung (Phân loại FIGO 0–8), Lạc nội mạc trong cơ (Adenomyosis) & Tiếp cận dày nội mạc tử cung *(đã có — [bài học](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md))*
 - 525 – Phân giai đoạn FIGO trên MRI cho Ung thư nội mạc tử cung (xâm lấn < 50% vs. ≥ 50% cơ) & Ung thư cổ tử cung (xâm lấn chu cung *parametrium*) *(đã có — [bài học](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md))*
 - 528 – Dị dạng tử cung bẩm sinh (Phân loại ESHRE/ESGE & ASRM trên MRI/Siêu âm 3D: Tử cung có vách ngăn vs. Tử cung hai sừng — góc đáy ngoài < 1 cm vs. > 1 cm) *(đã có — [bài học](../528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md))*
+- 526 – Sarcoma tử cung (LMS/ESS) & Carcinosarcoma vs U xơ cơ tử cung: ngưỡng ADC ≤ 0,9 ×10⁻³ mm²/s, bờ khối, cạm bẫy myxoid LMS *(đã có — [bài học](../526-sarcoma-tu-cung-vs-u-xo/lesson.md))*
 
 **530–539 — Buồng trứng & Phần phụ (Ovary & Adnexa)**
 - 530 – Khối u phần phụ: Hệ thống phân độ ACR O-RADS (Siêu âm v2022 & MRI) và Cấp cứu Xoắn buồng trứng *(đã có — [bài học](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md))*
