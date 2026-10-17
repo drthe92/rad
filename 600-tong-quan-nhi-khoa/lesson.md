@@ -29,6 +29,8 @@ certainty: tong-hop-y-van
 | Khối u não trẻ em (Ưu thế Hố sau — 70%) | Hố sau (posterior fossa) | U nguyên bào tủy (medulloblastoma), U sao bào lông (pilocytic astrocytoma), U màng não thất (ependymoma), U cầu não lan tỏa (DIPG) | Đường giữa/nhộng tiểu não + DWI sáng rực (ADC < 0,7 × 10⁻³) = Medulloblastoma; Nang lớn có nốt đặc ngấm thuốc + ADC cao (> 1,4 × 10⁻³) = Sao bào lông; Chui qua lỗ Luschka/Magendie = Ependymoma | `650` |
 | Bệnh não sơ sinh KHÔNG do ngạt (DDx HIE) | Não sơ sinh (neonatal brain) | Hạ đường huyết (vùng chẩm–đỉnh), Vàng nhân/kernicterus (thể vân), Chuyển hóa (MSUD), Nhiễm trùng TKTW (parechovirus), Đột quỵ nhũ nhi | **Vùng sau (chẩm–thái dương) + né PLIC + glucose thấp = hạ đường huyết**; **T1 thể vân sáng + DWI âm + TSB ≥ 20–25 mg/dL = vàng nhân** (khác HIE: DWI sáng nhân xám); **MRS 0,9 ppm = MSUD**; **nhiều ổ chất trắng dưới vỏ trán + bó thể chai = parechovirus**; **một bên theo lãnh thổ ĐM não giữa = đột quỵ nhũ nhi** | `654` |
 | Chấn thương tụy–tá tràng (bụng kín, cơ chế tay lái) | Tụy – tá tràng (pancreas–duodenum) | Đứt ống tụy (AAST III–IV), Đụng dập tụy (I–II), Khối máu tụ thành tá tràng, Thủng tá tràng | **Dịch khoang cạnh thận trước/túi mật–tụy + khe dịch ~10 mm đứt ngang > 50% trục ngắn = đứt ống tụy (MRCP + secretin)**; **dày thành D2–D3 KHÔNG khí ngoài lòng = khối máu tụ tá tràng** (bảo tồn); **khí ngoài lòng/bọt khí = thủng** (mổ) | `623` |
+| Khối gan ở trẻ em (Pediatric liver mass) | Gan (liver) | U nguyên bào gan (hepatoblastoma), U mạch máu (hemangioma/u nội mô mạch máu), U mô đệm lành (mesenchymal hamartoma), Ung thư gan (HCC), FNH/adenoma | **6 tháng–5 tuổi + AFP > 10.000 ng/mL + vôi hóa thô 40–50% + > 5 cm = hepatoblastoma**; **< 6 tháng + ngấm viền nốt rồi đầy dần trung tâm + AFP < 100 ng/mL = hemangioma**; **nhũ nhi < 18 tháng + nhiều nang vách + AFP thường = u mô đệm lành**; **> 6 tuổi + ngấm động mạch rồi thải thuốc + nền xơ gan = HCC** | `665` |
+| Bất thường tủy–cột sống kín (Closed spinal dysraphism) | Tủy sống – cột sống (spinal cord) | Dị tật đôi tủy (SCM I/II), Tủy căng (tethered cord/tight–fatty filum), U mỡ tủy (lipoma/lipomyelocele), Đường rò da (dermal sinus), Ống tủy rỗng (syringomyelia) | **Chóp tủy dưới L2 + dây tận cùng > 2 mm/T1 sáng = tủy căng**; **T1 sáng như mỡ từ da vào ống sống = u mỡ**; **hai bao màng cứng + gai xương = SCM type I**, **một bao + vách xơ = type II**; **đường hầm da → ống sống = đường rò da (viêm màng não tái diễn, cắt sớm)** | `656` |
 
 ## Bài liên quan chéo
 - [610 – Suy hô hấp sơ sinh](../610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md) *(đã có)*
@@ -46,6 +48,8 @@ certainty: tong-hop-y-van
 - [636 – Cấp cứu niệu–sinh dục nhi (chấn thương thận AAST & xoắn tinh hoàn/buồng trứng)](../636-cap-cuu-nieu-sinh-duc-nhi/lesson.md) *(đã có)*
 - [623 – Chấn thương tụy–tá tràng ở trẻ (AAST tụy I–V, đứt ống tụy)](../623-chan-thuong-tuy-ta-trang-nhi/lesson.md) *(đã có)*
 - [654 – Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](../654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) *(đã có)*
+- [665 – Khối u gan ở trẻ em (hepatoblastoma, hemangioma, hamartoma, HCC)](../665-khoi-u-gan-nhi/lesson.md) *(đã có)*
+- [656 – Bất thường tủy–cột sống kín ở trẻ (dị tật đôi tủy, tủy căng, u mỡ, đường rò da)](../656-bat-thuong-tuy-cot-song-nhi/lesson.md) *(đã có)*
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) (retinoblastoma vs Coats)
 
 ## Quy hoạch Master Curriculum Hệ Nhi khoa (600–670)
@@ -68,6 +72,7 @@ certainty: tong-hop-y-van
 - 630 – Tiếp cận Khối u ổ bụng trẻ em: U nguyên bào thần kinh (Neuroblastoma) vs. U nguyên bào thận (Wilms tumor) vs. U nguyên bào gan (Hepatoblastoma) *(đã có — [bài học](../630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md))*
 - 635 – Dị tật hệ tiết niệu Nhi khoa: Thận ứ nước tiền sản (SFU Độ 1–4), Trào ngược bàng quang – niệu quản (VUR Độ I–V trên VCUG) & Van niệu đạo sau (PUV — dấu lỗ khóa *keyhole sign*) *(đã có — [bài học](../635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md))*
 - 636 – Cấp cứu niệu – sinh dục Nhi khoa: Chấn thương thận (AAST-OIS 2018 Độ I–V: rò nước tiểu, mất mạch, cuống) & Xoắn tinh hoàn (**dấu xoáy** *whirlpool*, cửa sổ vàng) / Xoắn buồng trứng *(đã có — [bài học](../636-cap-cuu-nieu-sinh-duc-nhi/lesson.md))*
+- 665 – Khối u gan ở trẻ em theo tuổi: U nguyên bào gan (hepatoblastoma — AFP > 10.000 ng/mL, PRETEXT, vôi hóa thô) vs U mạch máu (hemangioma — ngấm viền nốt rồi đầy dần) vs U mô đệm lành (nhiều nang vách) vs Ung thư gan (HCC — ngấm động mạch rồi thải thuốc) *(đã có — [bài học](../665-khoi-u-gan-nhi/lesson.md))*
 
 **640–649 — Cơ – Xương – Khớp Nhi khoa & Chấn thương bạo hành**
 - 640 – Khớp háng Nhi khoa theo tuổi (DDH Graf α/β, Perthes, SCFE) & Gãy xương trẻ em (Salter-Harris I–V, Chấn thương không tình cờ / Bạo hành trẻ em — NAT) *(đã có — [bài học](../640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md))*
@@ -76,5 +81,6 @@ certainty: tong-hop-y-van
 - 650 – Siêu âm thóp Sơ sinh (Xuất huyết vùng mầm Papile Độ I–IV, Nhuyễn chất trắng quanh não thất PVL) & U hố sau trẻ em trên MRI *(đã có — [bài học](../650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md))* *(nối chéo bài `450` Mắt nhi)*
 - 655 – Bệnh não thiếu máu cục bộ thiếu oxy sơ sinh (HIE) & Dị tật bẩm sinh hệ thần kinh (Chiari I–II, Dandy-Walker, Bất sản thể chai) *(đã có — [bài học](../655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md))*
 - 654 – Tổn thương não sơ sinh KHÔNG do ngạt (DDx HIE): Hạ đường huyết (vùng chẩm–đỉnh), Vàng nhân/kernicterus (thể vân, T1 sáng/DWI âm), Chuyển hóa (MSUD), Nhiễm trùng (parechovirus) & Đột quỵ nhũ nhi *(đã có — [bài học](../654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md))*
+- 656 – Bất thường tủy – cột sống kín ở trẻ: Dị tật đôi tủy (SCM type I gai xương / type II vách xơ), Tủy căng (chóp tủy dưới L2, dây tận cùng > 2 mm/mỡ), U mỡ tủy (lipomyelocele), Đường rò da (dermal sinus) & Ống tủy rỗng *(đã có — [bài học](../656-bat-thuong-tuy-cot-song-nhi/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

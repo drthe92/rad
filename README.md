@@ -89,7 +89,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 131 | [Tắc mật](131-tac-mat/lesson.md) | `pattern:tac-mat` |
 | 136 | [U/nang tụy](136-u-nang-tuy/lesson.md) | `pattern:u-tuy` |
 | 140 | [Lách & chấn thương](140-lach-tang-dac/lesson.md) | `pattern:chan-thuong-bung` |
-| 141 | [Phúc mạc](141-phuc-mac/lesson.md) | `pattern:phuc-mac` |
+| 141 | [Phúc mạc](141-phuc-mac/lesson.md) | `pattern:phuc-mac` `vung:phuc-mac` `protocol:CT-bung-tiem` `incidentaloma:dich-o-bung` |
 | 152 | [Sỏi niệu](152-soi-nieu/lesson.md) | `pattern:soi-nieu` |
 | 162 | [Tắc ruột](162-tac-ruot/lesson.md) | `pattern:tac-ruot` |
 | 165 | [Dày thành ruột: Crohn vs K đại-trực tràng](165-day-thanh-ruot/lesson.md) | `pattern:day-thanh-ruot` `vung:ruot` `protocol:CT-MR-enterography` |
@@ -184,6 +184,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 650 | [Thần kinh nhi](650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) | `score:Papile` |
 | 654 | [Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) | `pattern:benh-nao-so-sinh` `pattern:han-che-khuech-tan` `vung:nao-nhi` `score:BIND` `protocol:MRI-nao-so-sinh` |
 | 655 | [HIE sơ sinh & dị tật bẩm sinh hệ thần kinh](655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md) | `pattern:hie-dwi` `pattern:di-dang-ho-sau` `pattern:bat-san-the-chai` `vung:nao-nhi` `score:Sarnat` `score:TVA` `protocol:MRI-nao-so-sinh` |
+| 665 | [Khối u gan ở trẻ em (hepatoblastoma, hemangioma, hamartoma, HCC)](665-khoi-u-gan-nhi/lesson.md) | `pattern:khoi-gan-nhi` `vung:gan` `score:PRETEXT` `protocol:US-CT-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |
+| 656 | [Bất thường tủy–cột sống kín ở trẻ (dị tật đôi tủy, tủy căng, u mỡ, đường rò da)](656-bat-thuong-tuy-cot-song-nhi/lesson.md) | `pattern:di-dang-tuy-cot-song` `vung:tuy-cot-song-nhi` `score:Orphanet-SBoD` `protocol:MRI-cot-song-toan-bo` `incidentaloma:u-mo-tuy` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
 | ID | Bài | Tags 4 chiều |
