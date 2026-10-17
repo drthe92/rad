@@ -20,6 +20,9 @@ certainty: tong-hop-y-van
 ![Willis & vùng cấp máu (tác phẩm gốc)](images/210_willis_so-do_goc-CC0.svg)
 *Sơ đồ gốc Thư viện CĐHA, CC0.*
 
+![Hai mức cắt lớp: hạch nền/đồi thị vs não thất bên](images/composite_210_hach-nen-vs-nao-that.jpg)
+*CT không cản quang 2 mức (mỗi panel kèm ảnh sagittal định vị mức cắt — đường vàng): **trái = mức hạch nền + đồi thị** (nhân đuôi, nhân bèo, đồi thị, bao trong ở giữa; chú ý các chấm tăng đậm độ **đối xứng hai bên** vùng hạch nền — thường là **vôi hóa sinh lý**, phân biệt với máu bằng tính đối xứng); **phải = mức thân não thất bên** (thể chai, vách trong suốt, liềm não, rãnh vỏ). Wikimedia Commons: Mikael Häggström, M.D., CC0. Ảnh ghép letterbox, giữ tỉ lệ.*
+
 ## 2. Gamut định khu theo vùng (Gamut)
 
 - **MCA (động mạch não giữa):** đảo + hạch nền + vỏ trán-đỉnh bên — thất ngôn (trái) / lơ là (phải) + liệt mặt-tay > chân.
@@ -76,6 +79,20 @@ flowchart TD
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
 - **Nghi NPH:** Evans > 0,3 + tam chứng (đi-tiểu-trí) — đo góc thể chai + DESH + tap test (bài 218).
+</details>
+
+**Ca 4 — CT không cản quang 2 mức. Ở mức hạch nền có các chấm tăng đậm độ hai bên. Máu hay không?**
+
+![Ca 4 — hai mức cắt: hạch nền vs não thất bên](images/composite_210_hach-nen-vs-nao-that.jpg)
+
+- Câu hỏi: Gọi tên mức cắt hai panel? Các chấm tăng đậm độ đối xứng vùng hạch nền là gì, và vì sao không nghĩ xuất huyết?
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- **Trái = mức hạch nền + đồi thị**; **phải = mức thân não thất bên** (thể chai, vách trong suốt, liềm não).
+- Các **chấm tăng đậm độ ĐỐI XỨNG hai bên, nằm đúng vị trí nhân bèo** = **vôi hóa sinh lý** (đối chiếu phim cũ nếu nghi). **Xuất huyết** thường **một bên, không đối xứng, kèm phù giảm đậm độ quanh** và bệnh cảnh cấp — khác hẳn.
+- Ảnh sagittal định vị (đường vàng) giúp tự kiểm tra mức cắt đang đọc.
+- Nguồn ảnh: Wikimedia Commons, Mikael Häggström M.D., CC0. Ảnh ghép letterbox.
 </details>
 
 ## Bài liên quan chéo

@@ -21,6 +21,9 @@ certainty: tong-hop-y-van
 ![Sơ đồ hốc mắt coronal (tác phẩm gốc)](images/410_hoc-mat-corang_so-do_goc-CC0.svg)
 *Sơ đồ gốc Thư viện CĐHA, CC0.*
 
+![CT lát ngang qua nhãn cầu (mức nhãn cầu)](images/410_hoc-mat-cat-lop_CT_Wikimedia-Haggstrom-CC0.png)
+*CT sọ–hốc mắt không cản quang, lát ngang **mức nhãn cầu** (kèm ảnh sagittal định vị mức cắt — đường vàng): nhãn cầu hai bên, **thần kinh thị** đi từ cực sau nhãn cầu về đỉnh, xoang sàng/hàm kề, thùy thái dương hai bên. Wikimedia Commons: Mikael Häggström, M.D., CC0.*
+
 ## 2. Mốc phải thuộc (gamut vị trí)
 
 - **Sàn (maxilla):** cơ thẳng dưới + mỡ sa — vỡ blow-out, kẹt cơ (bài 420).
@@ -64,6 +67,19 @@ certainty: tong-hop-y-van
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
 - **Cơ thẳng dưới** kẹt; trẻ trapdoor: xương đàn hồi sập lại kẹp cơ → thiếu máu cơ nhanh, mổ sớm.
+</details>
+
+**Ca 3 — CT lát ngang mức nhãn cầu: kể tên các mốc chính và tường nào kề xoang sàng.**
+
+![Ca 3 — CT mức nhãn cầu](images/410_hoc-mat-cat-lop_CT_Wikimedia-Haggstrom-CC0.png)
+
+- Câu hỏi: Nhãn cầu, thần kinh thị và các xoang kề tường nào của hốc mắt? Vì sao tường trong–sàn dễ vỡ?
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- **Nhãn cầu** (thấu kính/hậu phòng) hai bên; **thần kinh thị** chạy từ cực sau nhãn cầu về **đỉnh hốc mắt**; **xoang sàng** kề **tường trong (lamina papyracea — mảnh giấy)**, **xoang hàm** kề **sàn (maxilla)**.
+- Tường **trong** và **sàn** mỏng nhất + tựa vào xoang kề → áp lực thoát qua đây → **vỡ blow-out kinh điển**; nhớ đối chiếu 2 bên (thể tích riêng phần giả dày cơ).
+- Nguồn ảnh: Wikimedia Commons, Mikael Häggström M.D., CC0.
 </details>
 
 ## Bài liên quan chéo

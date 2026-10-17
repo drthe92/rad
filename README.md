@@ -204,6 +204,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 630 | [U bụng nhi](630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md) | `pattern:khoi-bung-nhi` |
 | 635 | [Dị tật hệ tiết niệu nhi (SFU/VUR/PUV)](635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) | `pattern:than-u-nuoc-nhi` `pattern:trao-nguoc-bang-quang-nieu-quan` `pattern:van-nieu-dao-sau` `vung:than-nieu-nhi` `score:SFU` `score:VUR` |
 | 636 | [Cấp cứu niệu–sinh dục nhi: chấn thương thận AAST & xoắn tinh hoàn/buồng trứng](636-cap-cuu-nieu-sinh-duc-nhi/lesson.md) | `pattern:chan-thuong-than-nhi` `pattern:xoan-tinh-hoan` `pattern:xoan-buong-trung` `vung:than-nieu-nhi` `vung:sinh-duc-nhi` `score:AAST` `protocol:CT-bung-chap-nhanh` `protocol:sieu-am-Doppler` |
+| 637 | [Chấn thương bàng quang & niệu đạo nhi (AAST, vỡ ngoài/trong phúc mạc, đứt niệu đạo sau)](637-chan-thuong-bang-quang-nieu-dao-nhi/lesson.md) | `pattern:chan-thuong-bang-quang` `pattern:dut-nieu-dao-sau` `pattern:vo-khung-chau` `vung:bang-quang-nieu-dao-nhi` `vung:khung-chau-nhi` `score:AAST` `protocol:CT-cystography` `protocol:RUG` |
 | 640 | [Háng nhi & NAT](640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) | `score:Graf` |
 | 650 | [Thần kinh nhi](650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) | `score:Papile` |
 | 654 | [Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) | `pattern:benh-nao-so-sinh` `pattern:han-che-khuech-tan` `vung:nao-nhi` `score:BIND` `protocol:MRI-nao-so-sinh` |
