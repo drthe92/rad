@@ -26,6 +26,7 @@ certainty: tong-hop-y-van
 | Tín hiệu tủy sau chấn thương (cord signal) | Tủy sống | Phù tủy, Xuất huyết tủy, Đứt tủy, SCIWORA (CT bình thường) | T2/STIR sáng đơn thuần = phù (tiên lượng khá); T2 tối + "blooming" GRE/SWI = xuất huyết (xấu); CT bình thường + dấu tủy = SCIWORA — chấm AIS A–E (chốt sacral sparing S4–5) | `223` |
 | Nhân tuyến giáp & Hạch cổ (ACR TI-RADS) | Tuyến giáp & Cổ (thyroid-neck) | Ung thư nhú (PTC), nang thể, keo lành, giả nhân Hashimoto, hạch di căn | Đặc + rất giảm + cao-rộng + đa cung + vi vôi ≤ 1 mm (≥ 7đ) = TR5; bọt biển = TR1 (DỪNG); hạch mất rốn + Tg rửa = di căn (bỏ ngưỡng mm!) | `230` |
 | Phù não sau **có hồi phục** vs **co mạch não có hồi phục** | Nhu mô não (vỏ–dưới vỏ) & mạch não | PRES (THA cấp/thuốc độc), RCVS (đau đầu sét đánh tái diễn), nhồi máu, viêm não HSV | Phù **đối xứng dưới vỏ chẩm-đỉnh + ADC TĂNG** = PRES (CT chỉ nhạy 46%/MRI 98%); **ADC TỐI theo lãnh thổ** = nhồi máu; **"chuỗi hạt" co mạch đa ổ, hồi phục < 3 tháng** = RCVS (RCVS2 ≥ 5; MRA có thể âm tuần đầu) | `219` |
+| Chấn thương đầu ở trẻ: máu tụ ngoài trục & DAI | Nội sọ (intracranial, trẻ) | EDH (thấu kính) vs SDH (liềm) vs tSAH vs đụng dập vs DAI vs phù lan tỏa; AHT/NAT | **Thấu kính + dừng ở đường khớp sọ = EDH**; **liềm + vượt khớp = SDH**; **vi xuất huyết thể chai/cuống não trên SWI = DAI** (CT thường âm tính); **SDH nhiều tầng + xuất huyết võng mạc ở < 2 tuổi = AHT/NAT** | `224` |
 
 ## Bài liên quan chéo
 - [211 – Đột quỵ não](../211-dot-quy-nao/lesson.md) *(đã có)*
@@ -59,6 +60,7 @@ certainty: tong-hop-y-van
 - 221 – Chấn thương cột sống: Mô hình 3 cột Denis, phân loại AO/TLICS & Phân biệt xẹp đốt sống lành tính (loãng xương) vs. Ác tính trên MRI  *(đã có — [bài học](../221-chan-thuong-cot-song/lesson.md))*
 - 222 – Viêm thân đốt sống - đĩa đệm (Lao cột sống Pott vs. Vi khuẩn sinh mủ) vs. Di căn cột sống (dấu mất mắt cú)  *(đã có — [bài học](../222-viem-dot-song/lesson.md))*
 - 223 – Chấn thương tủy sống: thang ASIA (AIS A–E, sacral sparing) & SCIWORA (CT bình thường — phù vs xuất huyết tủy trên MRI)  *(đã có — [bài học](../223-chan-thuong-tuy-so/lesson.md))*
+- 224 – Chấn thương sọ não ở trẻ (TBI nhi): phân độ **Marshall (I–VI)** & **Rotterdam (1–6)**, khoang dưới nhện (bể nền/tSAH), đụng dập vs DAI (SWI), EDH vs SDH, quy tắc **PECARN** & AHT/NAT  *(đã có — [bài học](../224-chan-thuong-so-nao-nhi/lesson.md))*
 
 **230–249 — Đầu Mặt Cổ & Nền sọ (Head & Neck — Mở rộng)**
 - 230 – Tuyến giáp ACR TI-RADS & Hạch cổ *(đã có — [bài học](../230-tuyen-giap-hach-co/lesson.md))*

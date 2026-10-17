@@ -20,12 +20,18 @@ certainty: tong-hop-y-van
 ![Cửa sổ đột quỵ (tác phẩm gốc)](images/201_cua-so-dot-quy_so-do_goc-CC0.svg)
 *Sơ đồ gốc Thư viện CĐHA, CC0.*
 
+![Ca đột quỵ siêu cấp: DWI/ADC + tưới máu + SWI/FLAIR/MRA](images/201_protocol-so-nao_MRI_PMC12986106-Fig5-DWI-ADC-CCBY.jpg)
+*Một ca "đa phương thức" minh họa cả gói protocol: (a) **DWI tăng tín hiệu** + (b) **ADC giảm** (hạn chế khuếch tán) vùng ĐM não giữa phải — nhồi máu cấp; (c) bản đồ tưới máu; (d) SWI; (e) FLAIR; (f) MRA. Nguồn: Aracki-Trenkic A et al., J Clin Med 2026 (PMC12986106), **CC BY 4.0**.*
+
 ## 2. Gamut chỉ định theo chuỗi xung (Gamut)
 
 - **NECT + CTA đầu-cổ:** mọi đột quỵ cấp + chấn thương — loại trừ máu + tìm tắc nhánh lớn (LVO) + ASPECTS.
 - **Tưới máu CT/MR (Perfusion):** cửa sổ 6–24 giờ không rõ giờ khởi phát — core/penumbra chọn lọc lấy huyết khối.
 - **DWI/ADC + FLAIR + SWI:** DWI+/FLAIR− = < 4,5 giờ; SWI tìm huyết khối tĩnh mạch + vi xuất huyết amyloid.
 - **MRA/MRV:** phình/AVM + huyết khối xoang tĩnh mạch (CVST) khi đau đầu + phù gai.
+
+![SWI: vi xuất huyết não (cerebral microbleeds)](images/201_protocol-so-nao_MRI_PMC12986106-Fig2-SWI-microbleed-CCBY.jpg)
+*Chuỗi **SWI/SWAN** — "mất tín hiệu tròn nhỏ" (a) hơn mười vi xuất huyết hai bên dưới vỏ và (b) vi xuất huyết dạng thùy; TẠI SAO SWI nhạy nhất: sản phẩm máu (hemosiderin) gây **mất tín hiệu + "blooming"**; cạm bẫy là **vôi hóa** cũng mất tín hiệu (phân biệt bằng pha/CT). Nguồn: Aracki-Trenkic A et al., J Clin Med 2026 (PMC12986106), **CC BY 4.0**.*
 
 ## 3. Bảng chuỗi xung-chỉ định
 
@@ -58,11 +64,16 @@ flowchart TD
 
 ## 6. Tự lượng giá — Blind Quiz
 
-**Ca 1 — Liệt nửa người 2 giờ, NECT cửa sổ thường bình thường:** chỉnh gì? Tìm dấu nào? *(Bảng mục 3.)*
+**Ca 1 — Liệt nửa người 2 giờ, nhìn gói ảnh: (a) DWI, (b) ADC — đọc gì?**
+
+![Ca 1 — DWI (a) và ADC (b) nhồi máu siêu cấp](images/201_protocol-so-nao_MRI_PMC12986106-Fig5-DWI-ADC-CCBY.jpg)
+
+- Câu hỏi: chuỗi DWI/ADC nói gì? So với FLAIR? Có hạn chế khuếch tán thật không, hay "shine-through"?
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
-- **Chỉnh W: 40, L: 40** tìm hyperdense MCA > 45–50 HU + mất ranh giới nhân bèo/đảo + ASPECTS.
+- **DWI (a) TĂNG tín hiệu + ADC (b) GIẢM** ở vùng ĐM não giữa phải = **hạn chế khuếch tán thật** (nhồi máu cấp). Nếu **ADC không giảm** mà DWI sáng → **"shine-through" T2** (giả), không phải nhồi máu mới.
+- Nguồn ảnh: Aracki-Trenkic A et al., J Clin Med 2026 (PMC12986106), CC BY 4.0.
 </details>
 
 **Ca 2 — Không rõ giờ khởi phát, DWI+/FLAIR−:** còn rtPA được không? Vì sao? *(Bảng mục 3.)*
@@ -79,9 +90,22 @@ flowchart TD
 - **Thrombectomy:** core < 70 mL + mismatch ≥ 1,8 (≥ 15 mL) trong cửa sổ 24 giờ DAWN/DEFUSE-3.
 </details>
 
+**Ca 4 — Ảnh SWI (a): vô số điểm mất tín hiệu tròn nhỏ dưới vỏ. Là gì, và phân biệt với cái gì?**
+
+![Ca 4 — SWI/SWAN vi xuất huyết não](images/201_protocol-so-nao_MRI_PMC12986106-Fig2-SWI-microbleed-CCBY.jpg)
+
+- Câu hỏi: dấu hiệu trên SWI? Chẩn đoán? Cạm bẫy hình ảnh giống?
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- **Vi xuất huyết não (cerebral microbleeds — CMB)**: điểm **mất tín hiệu tròn nhỏ < 10 mm** trên SWI/SWAN, thường dưới vỏ/thùy (bệnh mạch máu nhỏ, amyloid). **Cạm bẫy:** **vôi hóa** và **huyết khối tĩnh mạch** cũng mất tín hiệu — phân biệt bằng **ảnh pha/CT** và phân bố.
+- Nguồn ảnh: Aracki-Trenkic A et al., J Clin Med 2026 (PMC12986106), CC BY 4.0.
+</details>
+
 ## Bài liên quan chéo
 - [200 – Tổng quan Thần kinh](../200-tong-quan-he-than-kinh/lesson.md)
 - [211 – Đột quỵ não](../211-dot-quy-nao/lesson.md) (DWI/ASPECTS)
 - [210 – Giải phẫu sọ não](../210-giai-phau-so-nao/lesson.md) (vùng mạch)
+- [224 – Chấn thương sọ não ở trẻ](../224-chan-thuong-so-nao-nhi/lesson.md) (protocol chấn thương, SWI cho DAI)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

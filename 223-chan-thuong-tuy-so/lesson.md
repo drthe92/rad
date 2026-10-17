@@ -126,6 +126,7 @@ flowchart TD
 - [220 – Ống sống 3 khoang](../220-ong-song-tuy/lesson.md) (ngoài màng cứng vs nội tủy)
 - [221 – Chấn thương cột sống](../221-chan-thuong-cot-song/lesson.md) (3 cột Denis, TLICS, xẹp lành-ác)
 - [222 – Viêm đốt sống](../222-viem-dot-song/lesson.md) (Pott vs vi khuẩn vs di căn)
+- [224 – Chấn thương sọ não ở trẻ (TBI nhi)](../224-chan-thuong-so-nao-nhi/lesson.md) (EDH/SDH/DAI, Marshall, AHT)
 
 ## Ảnh
 - `images/223_chan-thuong-tuy_MRI_PMC13467916-pho-ton-thuong-CCBY.jpg` — sơ đồ phổ tổn thương tủy + ASIA (CC BY 4.0).
