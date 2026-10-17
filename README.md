@@ -24,7 +24,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 033 | [Phù phổi & ARDS](033-phu-phoi-ards/lesson.md) | `pattern:mo-ke` `vung:phoi` |
 | 035 | [Xơ mô kẽ UIP vs NSIP](035-xo-mo-ke-UIP-NSIP/lesson.md) | `pattern:mo-ke` `pattern:kinh-mo` `protocol:HRCT` |
 | 051 | [Tiểu PQ & khảm](051-tieu-phe-quan/lesson.md) | `pattern:tieu-phe-quan` |
-| 052 | [Khí phế thũng](052-khi-phe-thung-kem/lesson.md) | `pattern:qua-sang` |
+| 052 | [Khí phế thũng vs kén (CLE/paraseptal/panlobular)](052-khi-phe-thung-kem/lesson.md) | `pattern:qua-sang` `vung:phoi` `protocol:HRCT-hit-tho-ra` `score:Fleischner-CLE` |
 | 050 | [Giãn PQ & kén khí](050-gian-phe-quan-ken-khi/lesson.md) | `pattern:gian-phe-quan` `pattern:ken-khi` `vung:duong-tho` |
 | 061 | [Tràn khí trung thất](061-tran-khi-trung-that/lesson.md) | `pattern:khi-trung-that` `vung:trung-that` |
 | 060 | [Khối trung thất ITMIG](060-khoi-trung-that-itmig/lesson.md) | `pattern:khoi` `vung:trung-that` `score:ITMIG` |
@@ -162,6 +162,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 529 | [Cổ tử cung & âm đạo bẩm sinh: dị dạng tắc nghẽn (C0–C4/V0–V4)](529-co-tu-cung-am-dao-bam-sinh-tac-nghen/lesson.md) | `pattern:di-dang-co-tu-cung-am-dao` `vung:am-dao` `score:ESHRE-ESGE` `protocol:MRI-tieu-khung` `protocol:sieu-am-tieu-khung` |
 | 530 | [Phần phụ O-RADS](530-buong-trung-ORADS-sieu-am-MRI/lesson.md) | `score:O-RADS` |
 | 535 | [Ung thư buồng trứng, phúc mạc & u Krukenberg](535-ung-thu-buong-trung-phuc-mac-krukenberg/lesson.md) | `pattern:k-u-buong-trung` `vung:phuc-mac` `score:FIGO` `score:PCI` |
+| 536 | [U mầm & u mô đệm–dây sinh dục buồng trứng](536-u-mam-u-mo-dem-buong-trung/lesson.md) | `pattern:u-buong-trung` `vung:buong-trung` `score:FIGO` `protocol:MRI-chau` `protocol:CT-chau` |
 | 540 | [DIE Enzian](540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) | `score:Enzian` |
 | 545 | [MR động học sàn chậu (sa theo khoang, đường PCL/H/M)](545-sa-san-chau-MR-defecography/lesson.md) | `pattern:sa-san-chau` `vung:tieu-khung` `score:PCL` `protocol:MR-defecography` |
 | 550 | [Thai sớm SRU](550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) | `score:SRU` |

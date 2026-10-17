@@ -29,6 +29,7 @@ certainty: tong-hop-y-van
 | Hình thái thai nhi & Doppler sản khoa | Thai nhi (fetus), tuần hoàn bào thai | NT dày/thể nhiễm sắc thể, FGR sớm/muộn, thiếu máu thai, suy tim thai | **NT ≥ 3,5 mm (hoặc > BP95) + mất xương mũi = nghi lệch bội**; **UA PI > BP95 → AEDF → REDF + CPR < BP5 = FGR**; **MCA-PSV > 1,5 MoM = thiếu máu**; **DV mất/đảo sóng a = suy tim, đẻ ngay** | `565` |
 | Ung thư vú: giai đoạn & lan rộng | Tuyến vú (breast) | Đơn ổ (unifocal) vs Đa ổ (MF, cùng phần tư, 2–5 cm) vs Đa trung tâm (MC, khác phần tư/> 5 cm, hay ILC hai bên) vs DCIS/NME | **T theo ổ xâm lấn lớn nhất + hậu tố “(m)”, KHÔNG cộng kích thước**; MRI phát hiện thêm ổ ẩn **10–30%**; **Type III washout + DWI sáng** = ác; vú đặc ACR C/D → MRI/CEM | `514` |
 | Hạch trong ung thư phụ khoa | Hạch chậu & cạnh ĐMC (pelvic/para-aortic) | Hạch di căn vs hạch phản ứng/viêm vs lao hạch | **FDG-PET/CT Se chỉ ~56% (hạch nhỏ/vi di căn âm tính KHÔNG loại trừ)**; **SLN-ICG detection 95,6%, NPV 99,2–100%**; **IIIC1 hạch chậu / IIIC2 cạnh ĐMC**; micromet 0,2–2,0 mm, macro > 2 mm | `572` |
+| Khối phần phụ đặc–hỗn hợp ở người trẻ | Buồng trứng (ovary) | U mầm (dysgerminoma, yolk sac, immature teratoma) vs u mô đệm–dây sinh dục (granulosa, Sertoli–Leydig) vs fibroma vs u quái trưởng thành | **Mỡ ± vôi hóa trong khối = u quái** (AFP); **đặc–đồng nhất + vách ngấm = dysgerminoma** (LDH, 2 bên 10–15%); **AFP rất cao + đặc–nang xuất huyết nhiều vách = yolk sac**; **xuất huyết + nang nhỏ + tử cung to = granulosa** (inhibin B); **T2 tối đều + rất ít ngấm = fibroma (nút lành)** | `536` |
 | Khối cơ tử cung: lành hay sarcoma | Tử cung (uterus) | Leiomyoma & biến thể (cellular/FHD/myxoid) vs STUMP vs LMS vs ESS vs carcinosarcoma | **ADC ≤ 0,9 ×10⁻³ mm²/s (vùng u còn sống) = nghi sarcoma**; **T2 tối + DWI tối + ADC > 1,23 = loại sarcoma (NPV ~100%)**; **bờ là yếu tố chốt** (trơn = lành kể cả biến thể ADC thấp; thâm nhiễm = nghi ác); cạm bẫy **myxoid LMS T2 rất sáng + ADC cao + "vân cẩm thạch"** | `520`, `525`, `526` |
 | Sa sàn chậu & táo bón tống phân khó | Sàn chậu (pelvic floor) | Cystocele · sa tử cung/đỉnh âm đạo · rectocele · enterocele · lồng trực tràng · **anismus** | **PCL là mốc: hạ < 3 cm / 3–6 cm / > 6 cm = độ 1/2/3**; **H line ≤ 6 cm, M line ≤ 2 cm**; **góc hậu môn-trực tràng nghỉ 90–130°, phải MỞ khi tống phân** (không mở/nghịch lý = anismus, không mổ sa); **rectocele > 2 cm**; sa chỉ lộ khi **tống phân** | `545` |
 
@@ -43,6 +44,7 @@ certainty: tong-hop-y-van
 - [529 – Cổ tử cung & âm đạo bẩm sinh: dị dạng tắc nghẽn (C0–C4/V0–V4)](../529-co-tu-cung-am-dao-bam-sinh-tac-nghen/lesson.md) *(đã có)*
 - [530 – Phần phụ O-RADS](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md) *(đã có)*
 - [535 – Ung thư buồng trứng, phúc mạc & u Krukenberg](../535-ung-thu-buong-trung-phuc-mac-krukenberg/lesson.md) *(đã có)*
+- [536 – U mầm & u mô đệm–dây sinh dục buồng trứng](../536-u-mam-u-mo-dem-buong-trung/lesson.md) *(đã có)*
 - [540 – DIE & PID](../540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) *(đã có)*
 - [545 – MR động học sàn chậu (sa theo khoang, PCL/H/M)](../545-sa-san-chau-MR-defecography/lesson.md) *(đã có)*
 - [550 – Thai sớm & ngoài tử cung](../550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) *(đã có)*
@@ -70,6 +72,7 @@ certainty: tong-hop-y-van
 **530–539 — Buồng trứng & Phần phụ (Ovary & Adnexa)**
 - 530 – Khối u phần phụ: Hệ thống phân độ ACR O-RADS (Siêu âm v2022 & MRI) và Cấp cứu Xoắn buồng trứng *(đã có — [bài học](../530-buong-trung-ORADS-sieu-am-MRI/lesson.md))*
 - 535 – Phân tầng ung thư buồng trứng, Di căn phúc mạc & U Krukenberg (di căn buồng trứng 2 bên từ dạ dày/đại tràng có tế bào nhẫn) *(đã có — [bài học](../535-ung-thu-buong-trung-phuc-mac-krukenberg/lesson.md))*
+- 536 – U mầm (dysgerminoma, yolk sac, immature teratoma) & u mô đệm–dây sinh dục (granulosa, Sertoli–Leydig, fibroma) buồng trứng ở người trẻ — AFP/β-hCG/LDH/inhibin B, bảo tồn sinh sản *(đã có — [bài học](../536-u-mam-u-mo-dem-buong-trung/lesson.md))*
 
 **540–549 — Lạc nội mạc tử cung, Viêm vùng chậu & Sàn chậu**
 - 540 – Lạc nội mạc tử cung sâu (DIE — Phân loại #Enzian trên MRI) & Viêm vùng chậu cấp/Áp-xe vòi-buồng trứng (TOA) *(đã có — [bài học](../540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md))*
