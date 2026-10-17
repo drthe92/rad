@@ -99,6 +99,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 135 | [Viêm tụy Atlanta](135-viem-tuy-Atlanta/lesson.md) | `score:Atlanta` |
 | 150 | [Bosniak & u thận](150-nang-than-Bosniak/lesson.md) | `score:Bosniak` |
 | 151 | [U thận đặc: RCC/oncocytoma/AML](151-u-than-dac/lesson.md) | `pattern:u-than-dac` `vung:than` `score:ccLS` `protocol:CT-da-thi-than` `incidentaloma:u-than-tinh-co` |
+| 153 | [Thận nang mắc phải trên lọc máu & ACD-RCC](153-benh-than-nang-mac-phai-loc-mau/lesson.md) | `pattern:than-nang-mac-phai` `pattern:u-than-dac` `vung:than` `protocol:sang-loc-than-loc-mau` `score:Bosniak` `incidentaloma:u-than-tinh-co` |
 | 155 | [Thượng thận tình cờ](155-thuong-than-tinh-co/lesson.md) | `incidentaloma:thuong-than` |
 | 158 | [Tiền liệt tuyến PI-RADS](158-tien-liet-tuyen-PIRADS/lesson.md) | `score:PI-RADS` |
 | 159 | [Bàng quang VI-RADS & UTUC](159-bang-quang-virads-u-duong-nieu-tren/lesson.md) | `score:VI-RADS` |

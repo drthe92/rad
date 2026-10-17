@@ -21,6 +21,7 @@ certainty: tong-hop-y-van
 | Nang & Ổ dịch quanh tụy | Tụy (pancreas) | Tụ dịch cấp quanh tụy (APFC), tụ dịch hoại tử cấp (ANC), nang giả tụy, hoại tử có vỏ (WON), u nhầy nhú nội ống tụy (IPMN), u nang thanh dịch (SCN), u nang nhầy (MCN) | < 4 tuần vs ≥ 4 tuần + có hoại tử hay không (Atlanta 2012); Thông ống tụy chính = IPMN | `135`, `136` |
 | Nang thận phức tạp | Thận (kidney) | Bosniak I, II, IIF, III, IV | Ngấm thuốc thật = tăng ≥ 20 HU; Vách dày ≥ 4 mm = Bosniak III; Nốt đặc ngấm thuốc = Bosniak IV | `150` |
 | U thận đặc | Thận | ccRCC, pRCC, chRCC, oncocytoma, AML | Mỡ đại thể −10 đến −100 HU = AML; T2W sáng + mỡ vi thể + ngấm mạnh rồi thải = ccRCC (ccLS ≥ 4); T2W tối đồng nhất + ngấm kém = pRCC; sẹo trung tâm KHÔNG đặc hiệu | `151` |
+| Nang thận trên thận teo (bệnh nhân lọc máu) | Thận | ACKD, ACD-RCC, nang phức tạp (Bosniak) | ≥3 nang/thận + thận nhỏ (~81–85 mm) + đang lọc máu = ACKD; **nốt đặc ngấm trong nền nang** = ACD-RCC (nguy cơ RCC ×100); thận khổng lồ + nang gan = ADPKD | `153` |
 | Khối tuyến thượng thận tình cờ | Thượng thận (adrenal) | Adenoma giàu/nghèo mỡ, u tủy thượng thận (pheochromocytoma), di căn, ung thư vỏ thượng thận (ACC) | Không tiêm ≤ 10 HU = Adenoma giàu mỡ; > 10 HU nhưng thải thuốc APW ≥ 60% / RPW ≥ 40% ở 15 phút = Adenoma nghèo mỡ | `155` |
 | Tổn thương khu trú tiền liệt tuyến (PI-RADS v2.1) | Tiền liệt tuyến (prostate) | Ung thư có ý nghĩa lâm sàng (csPCa), viêm, BPH, vùng trung tâm (CZ) | PZ đọc DWI/ADC (b ≥ 1.400), TZ đọc T2W (vỏ bao); 1,5 cm tách 4/5; DCE chỉ nâng 3→4 ở PZ; PI-RADS 3 + PSAD ≥ 0,15 = sinh thiết; ria mép CZ đối xứng = bình thường | `158` |
 | Giãn quai ruột / Thâm nhiễm mỡ khu trú | Ống tiêu hóa (GI) | Viêm ruột thừa, Viêm túi thừa, Tắc ruột non (SBO), Tắc quai kín | Ruột thừa > 6 mm; Ruột non > 3 cm; Xoắn mạch (whirl) + chữ C + mất ngấm thành = Tắc quai kín thiếu máu (mổ tối khẩn) | `160`, `162` |
@@ -58,6 +59,7 @@ certainty: tong-hop-y-van
 - 150 – Bosniak & u thận *(đã có — [bài học](../150-nang-than-Bosniak/lesson.md))*
 - 151 – U thận đặc: RCC vs oncocytoma vs AML *(đã có — [bài học](../151-u-than-dac/lesson.md))*
 - 152 – Sỏi niệu & ứ nước *(đã có — [bài học](../152-soi-nieu/lesson.md))*
+- 153 – Thận nang mắc phải trên lọc máu & ACD-RCC *(đã có — [bài học](../153-benh-than-nang-mac-phai-loc-mau/lesson.md))*
 - 155 – Thượng thận tình cờ *(đã có — [bài học](../155-thuong-than-tinh-co/lesson.md))*
 - 158 – Tiền liệt tuyến & PI-RADS v2.1 *(đã có — [bài học](../158-tien-liet-tuyen-PIRADS/lesson.md))*
 
