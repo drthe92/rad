@@ -15,7 +15,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 012 | [Hạch IASLC](012-hach-trung-that/lesson.md) | `pattern:hach` `vung:trung-that` `score:IASLC` `protocol:PET-CT-nguc` |
 | 013 | [Hạch nội phổi (trạm 11–14) & nốt cạnh rãnh](013-hach-noi-phoi/lesson.md) | `pattern:hach` `pattern:not` `vung:phoi` `vung:ron-phoi` `score:IASLC` `score:Lung-RADS` `protocol:CT-nguc-lat-mong` `incidentaloma:not-canh-ranh` |
 | 011 | [Tiểu thùy thứ cấp](011-tieu-thuy-phoi/lesson.md) | `pattern:vi-cau-truc` `vung:phoi` `anatomy:phoi` |
-| 015 | [Ống/dây ICU](015-ong-day-ICU/lesson.md) | `pattern:ong-day` `protocol:xq-ICU` |
+| 015 | [Ống/dây ICU](015-ong-day-ICU/lesson.md) | `pattern:ong-day` `vung:nguc` `protocol:xq-ICU` `protocol:CT-nguc` |
 | 021 | [Đa nốt phổi](021-da-not-phoi/lesson.md) | `pattern:not-da-o` `vung:phoi` |
 | 022 | [Khối phổi & TNM](022-khoi-phoi-TNM/lesson.md) | `pattern:khoi` `score:TNM` |
 | 025 | [Hang & nấm phổi](025-ton-thuong-phoi-tao-hang/lesson.md) | `pattern:hang` `vung:phoi` |
@@ -200,6 +200,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 615 | [Viêm phổi nhi: round pneumonia, virus vs vi khuẩn & hít sặc dầu hỏa](615-viem-phoi-nhi-round-pneumonia/lesson.md) | `pattern:viem-phoi-nhi` `pattern:round-pneumonia` `pattern:hit-sac-dau-hoa` `vung:phoi` `score:RACOON` `protocol:X-quang-nguc-nhi` |
 | 616 | [Biến chứng viêm phổi nhi: viêm mủ màng phổi (empyema) & hoại tử phổi](616-bien-chung-viem-phoi-nhi-empyema-hoai-tu/lesson.md) | `pattern:hoai-tu-phoi` `pattern:viem-mu-mang-phoi` `pattern:split-pleura` `vung:phoi` `vung:mang-phoi` `score:Light-criteria` `protocol:CT-nguc-can-quang` `protocol:sieu-am-phoi` |
 | 613 | [Viêm tiểu phế quản ở nhũ nhi (RSV)](613-viem-tieu-phe-quan-nhi/lesson.md) | `pattern:viem-tieu-phe-quan` `vung:phe-quan` `vung:phoi-nhi` `protocol:X-quang-nguc-nhi` `protocol:HRCT` |
+| 614 | [Bệnh tiểu phế quản tắc nghẽn (BO) & Swyer–James](614-benh-tieu-phe-quan-tac-nghen-BO-Swyer-James/lesson.md) | `pattern:u-khi` `pattern:viem-tieu-phe-quan` `pattern:phoi-mot-ben-sang` `vung:phoi` `vung:phe-quan` `protocol:HRCT` `protocol:HRCT-thi-tho-ra` |
 | 620 | [Cấp cứu tiêu hóa nhi](620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md) | `pattern:non-nhu-nhi` |
 | 622 | [Tắc ruột sơ sinh](622-tac-ruot-so-sinh/lesson.md) | `pattern:tac-ruot-so-sinh` `pattern:double-bubble` `pattern:microcolon` `vung:bung-nhi` `score:Neuhauser` `protocol:XR-contrast-enema` |
 | 623 | [Chấn thương tụy–tá tràng ở trẻ (AAST tụy I–V)](623-chan-thuong-tuy-ta-trang-nhi/lesson.md) | `pattern:chan-thuong-bung` `pattern:dut-ong-tuy` `vung:tuy-ta-trang` `score:AAST` `protocol:CT-bung-chant-thuong` |
