@@ -92,7 +92,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 141 | [Phúc mạc](141-phuc-mac/lesson.md) | `pattern:phuc-mac` |
 | 152 | [Sỏi niệu](152-soi-nieu/lesson.md) | `pattern:soi-nieu` |
 | 162 | [Tắc ruột](162-tac-ruot/lesson.md) | `pattern:tac-ruot` |
-| 165 | [Dày thành](165-day-thanh-ruot/lesson.md) | `pattern:day-thanh-ruot` |
+| 165 | [Dày thành ruột: Crohn vs K đại-trực tràng](165-day-thanh-ruot/lesson.md) | `pattern:day-thanh-ruot` `vung:ruot` `protocol:CT-MR-enterography` |
 | 170 | [Phình ĐMC](170-phinh-DMC-bung/lesson.md) | `pattern:phinh-DMC` |
 | 175 | [Chèn ép mạch](175-chen-ep-mach/lesson.md) | `pattern:chen-ep-mach` |
 | 121 | [LI-RADS & HCC](121-khoi-gan-LIRADS/lesson.md) | `score:LI-RADS` |
