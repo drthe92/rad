@@ -171,6 +171,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 610 | [Suy hô hấp sơ sinh](610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md) | `pattern:suy-ho-hap-so-sinh` |
 | 612 | [Cấp cứu đường thở trên trẻ em](612-cap-cuu-duong-tho-tren-tre-em/lesson.md) | `pattern:duong-tho-tre-em` |
 | 615 | [Viêm phổi nhi: round pneumonia, virus vs vi khuẩn & hít sặc dầu hỏa](615-viem-phoi-nhi-round-pneumonia/lesson.md) | `pattern:viem-phoi-nhi` `pattern:round-pneumonia` `pattern:hit-sac-dau-hoa` `vung:phoi` `score:RACOON` `protocol:X-quang-nguc-nhi` |
+| 613 | [Viêm tiểu phế quản ở nhũ nhi (RSV)](613-viem-tieu-phe-quan-nhi/lesson.md) | `pattern:viem-tieu-phe-quan` `vung:phe-quan` `vung:phoi-nhi` `protocol:X-quang-nguc-nhi` `protocol:HRCT` |
 | 620 | [Cấp cứu tiêu hóa nhi](620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md) | `pattern:non-nhu-nhi` |
 | 622 | [Tắc ruột sơ sinh](622-tac-ruot-so-sinh/lesson.md) | `pattern:tac-ruot-so-sinh` `pattern:double-bubble` `pattern:microcolon` `vung:bung-nhi` `score:Neuhauser` `protocol:XR-contrast-enema` |
 | 623 | [Chấn thương tụy–tá tràng ở trẻ (AAST tụy I–V)](623-chan-thuong-tuy-ta-trang-nhi/lesson.md) | `pattern:chan-thuong-bung` `pattern:dut-ong-tuy` `vung:tuy-ta-trang` `score:AAST` `protocol:CT-bung-chant-thuong` |
