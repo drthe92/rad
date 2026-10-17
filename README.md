@@ -123,6 +123,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 222 | [Viêm đốt sống](222-viem-dot-song/lesson.md) | `pattern:viem-dot-song` |
 | 230 | [Giáp & hạch cổ](230-tuyen-giap-hach-co/lesson.md) | `score:TI-RADS` |
 | 235 | [Thái dương & xoang](235-xuong-thai-duong-xoang/lesson.md) | `pattern:xuong-thai-duong-xoang` |
+| 657 | [Dị tật hố sau: Joubert & rhombencephalosynapsis](657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) | `pattern:di-dang-ho-sau` `pattern:rang-ham` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
 
 ## Hệ Cơ – Xương – Khớp (dải 300, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
@@ -145,6 +146,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 365 | [Cổ chân](365-co-chan-ban-chan/lesson.md) | `pattern:co-chan` |
 | 370 | [Nhiễm trùng MSK](370-nhiem-trung-msk/lesson.md) | `pattern:nhiem-trung-msk` |
 | 375 | [U phần mềm](375-u-phan-mem/lesson.md) | `pattern:u-phan-mem` |
+| 376 | [U phần mềm KHÔNG mỡ: schwannoma vs sarcoma myxoid / u bao hoạt dịch](376-u-phan-mem-khong-mo/lesson.md) | `pattern:u-phan-mem` `pattern:u-than-kinh-ngoai-vi` `vung:mo-mem` `score:ADC` `protocol:MRI-mo-mem` |
 
 ## Hệ Vú & Sản Phụ khoa (dải 500, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |

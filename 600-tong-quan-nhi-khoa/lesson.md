@@ -31,6 +31,7 @@ certainty: tong-hop-y-van
 | Chấn thương tụy–tá tràng (bụng kín, cơ chế tay lái) | Tụy – tá tràng (pancreas–duodenum) | Đứt ống tụy (AAST III–IV), Đụng dập tụy (I–II), Khối máu tụ thành tá tràng, Thủng tá tràng | **Dịch khoang cạnh thận trước/túi mật–tụy + khe dịch ~10 mm đứt ngang > 50% trục ngắn = đứt ống tụy (MRCP + secretin)**; **dày thành D2–D3 KHÔNG khí ngoài lòng = khối máu tụ tá tràng** (bảo tồn); **khí ngoài lòng/bọt khí = thủng** (mổ) | `623` |
 | Khối gan ở trẻ em (Pediatric liver mass) | Gan (liver) | U nguyên bào gan (hepatoblastoma), U mạch máu (hemangioma/u nội mô mạch máu), U mô đệm lành (mesenchymal hamartoma), Ung thư gan (HCC), FNH/adenoma | **6 tháng–5 tuổi + AFP > 10.000 ng/mL + vôi hóa thô 40–50% + > 5 cm = hepatoblastoma**; **< 6 tháng + ngấm viền nốt rồi đầy dần trung tâm + AFP < 100 ng/mL = hemangioma**; **nhũ nhi < 18 tháng + nhiều nang vách + AFP thường = u mô đệm lành**; **> 6 tuổi + ngấm động mạch rồi thải thuốc + nền xơ gan = HCC** | `665` |
 | Bất thường tủy–cột sống kín (Closed spinal dysraphism) | Tủy sống – cột sống (spinal cord) | Dị tật đôi tủy (SCM I/II), Tủy căng (tethered cord/tight–fatty filum), U mỡ tủy (lipoma/lipomyelocele), Đường rò da (dermal sinus), Ống tủy rỗng (syringomyelia) | **Chóp tủy dưới L2 + dây tận cùng > 2 mm/T1 sáng = tủy căng**; **T1 sáng như mỡ từ da vào ống sống = u mỡ**; **hai bao màng cứng + gai xương = SCM type I**, **một bao + vách xơ = type II**; **đường hầm da → ống sống = đường rò da (viêm màng não tái diễn, cắt sớm)** | `656` |
+| Dị tật hố sau khác (Joubert & rhombencephalosynapsis) | Hố sau – tiểu não (posterior fossa) | Joubert syndrome (ciliopathy), Rhombencephalosynapsis, Dandy-Walker, Thiểu sản sâu tiểu não, Bể lớn sau khổng lồ, Poretti-Boltshauser (LAMA1) | **Axial T2 ngã ba đồi–cầu: cuống tiểu não trên dày nằm NGANG + hố liên cuống sâu + thiểu sản sâu = dấu răng hàm (Joubert)**; **folia tiểu não liên tục qua đường giữa + mất sâu não = rhombencephalosynapsis**; bể lớn sau to + não thất IV dạng nang + lều nâng cao = Dandy-Walker; **không kết luận thiểu sản sâu trước tuần 18**; Joubert ~80% liệt vận nhãn, ~20–30% loạn dưỡng võng mạc | `657` |
 
 ## Bài liên quan chéo
 - [610 – Suy hô hấp sơ sinh](../610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md) *(đã có)*
@@ -50,6 +51,7 @@ certainty: tong-hop-y-van
 - [654 – Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](../654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) *(đã có)*
 - [665 – Khối u gan ở trẻ em (hepatoblastoma, hemangioma, hamartoma, HCC)](../665-khoi-u-gan-nhi/lesson.md) *(đã có)*
 - [656 – Bất thường tủy–cột sống kín ở trẻ (dị tật đôi tủy, tủy căng, u mỡ, đường rò da)](../656-bat-thuong-tuy-cot-song-nhi/lesson.md) *(đã có)*
+- [657 – Dị tật hố sau: Joubert (dấu răng hàm) & rhombencephalosynapsis](../657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) *(đã có)*
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) (retinoblastoma vs Coats)
 
 ## Quy hoạch Master Curriculum Hệ Nhi khoa (600–670)
@@ -82,5 +84,6 @@ certainty: tong-hop-y-van
 - 655 – Bệnh não thiếu máu cục bộ thiếu oxy sơ sinh (HIE) & Dị tật bẩm sinh hệ thần kinh (Chiari I–II, Dandy-Walker, Bất sản thể chai) *(đã có — [bài học](../655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md))*
 - 654 – Tổn thương não sơ sinh KHÔNG do ngạt (DDx HIE): Hạ đường huyết (vùng chẩm–đỉnh), Vàng nhân/kernicterus (thể vân, T1 sáng/DWI âm), Chuyển hóa (MSUD), Nhiễm trùng (parechovirus) & Đột quỵ nhũ nhi *(đã có — [bài học](../654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md))*
 - 656 – Bất thường tủy – cột sống kín ở trẻ: Dị tật đôi tủy (SCM type I gai xương / type II vách xơ), Tủy căng (chóp tủy dưới L2, dây tận cùng > 2 mm/mỡ), U mỡ tủy (lipomyelocele), Đường rò da (dermal sinus) & Ống tủy rỗng *(đã có — [bài học](../656-bat-thuong-tuy-cot-song-nhi/lesson.md))*
+- 657 – Dị tật hố sau khác: Joubert (dấu răng hàm *molar tooth sign*) & Rhombencephalosynapsis (folia tiểu não hợp nhất đường giữa), kèm nhóm kèm biểu hiện mắt–cột sống (Gomez-López-Hernández, VACTERL) *(đã có — [bài học](../657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
