@@ -163,6 +163,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 226 | [Tủy mềm KHÔNG chấn thương: nhồi máu tủy, SDAVF, viêm tủy/NMOSD, tủy mềm do xạ](226-tuy-mem-khong-chan-thuong-nhoi-mau-sdavf-nmo-xa/lesson.md) | `pattern:tuy-mem` `pattern:nhoi-mau-tuy` `pattern:di-dong-tinh-mach-mang-cung` `pattern:viem-tuy` `pattern:tuy-mem-do-xa` `vung:tuy-song` `protocol:DSA-tuy` |
 | 227 | [Đau đầu sét đánh: SAH / RCVS / CVST / bóc tách / pituitary apoplexy](227-dau-dau-set-danh-thunderclap/lesson.md) | `pattern:dau-dau-set-danh` `pattern:xuat-huyet-duoi-nhen` `pattern:co-mach-nao` `vung:nao` `score:RCVS2` `score:RCVS-TCH` `protocol:CT-CTA-MRV` `protocol:choc-dong` |
 | 228 | [Thoát vị đĩa đệm thắt lưng & phân độ Pfirrmann/Modic](228-thoat-vi-dia-dem-that-lung-pfirrmann-modic/lesson.md) | `pattern:thoat-vi-dia-dem` `pattern:hep-ong-song` `pattern:modic` `pattern:pfirrmann` `vung:cot-song-that-lung` `score:Pfirrmann` `score:Modic` `score:Schizas` `protocol:MRI-cot-song` |
+| 229 | [Viêm mạch TKTW nguyên phát (PACNS) vs co mạch não có hồi phục (RCVS)](229-pacns-vs-rcvs/lesson.md) | `pattern:co-mach-nao` `pattern:viem-mach-nao` `vung:nao` `vung:mach-nao` `score:RCVS2` `protocol:HR-vwMRI` `protocol:sinh-thiet-nao` |
 | 657 | [Dị tật hố sau: Joubert & rhombencephalosynapsis](657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) | `pattern:di-dang-ho-sau` `pattern:rang-ham` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
 
 ## Hệ Cơ – Xương – Khớp (dải 300, đang khởi tạo)
@@ -265,6 +266,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 650 | [Thần kinh nhi](650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) | `score:Papile` |
 | 654 | [Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) | `pattern:benh-nao-so-sinh` `pattern:han-che-khuech-tan` `vung:nao-nhi` `score:BIND` `protocol:MRI-nao-so-sinh` |
 | 652 | [Đột quỵ & bệnh mạch máu não ở trẻ (moyamoya, FCA, viêm mạch, CVST)](652-dot-quy-mach-mau-nao-nhi-moyamoya-viem-mach/lesson.md) | `pattern:hep-tac-mach` `pattern:nhoi-mau-nao` `vung:nao-nhi` `score:Suzuki` `score:FCASS` `protocol:MRA-ASL` |
+| 653 | [PRES & RCVS ở trẻ em: biến thể không điển hình & ngưỡng tự điều hòa thấp](653-pres-rcvs-tre-em/lesson.md) | `pattern:phu-nao-sau` `pattern:co-mach-nao` `vung:nao-nhi` `vung:nao` `score:RCVS2` `protocol:MRI-nao-nhi` |
 | 655 | [HIE sơ sinh & dị tật bẩm sinh hệ thần kinh](655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md) | `pattern:hie-dwi` `pattern:di-dang-ho-sau` `pattern:bat-san-the-chai` `vung:nao-nhi` `score:Sarnat` `score:TVA` `protocol:MRI-nao-so-sinh` |
 | 665 | [Khối u gan ở trẻ em (hepatoblastoma, hemangioma, hamartoma, HCC)](665-khoi-u-gan-nhi/lesson.md) | `pattern:khoi-gan-nhi` `vung:gan` `score:PRETEXT` `protocol:US-CT-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |
 | 667 | [U mạch máu gan ở trẻ & điều trị nội khoa (suy tim cung lượng cao, propranolol, rò shunt)](667-u-mach-mau-gan-o-tre-va-dieu-tri/lesson.md) | `pattern:khoi-gan-nhi` `vung:gan` `score:ISSVA` `protocol:US-Doppler-CEUS-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |

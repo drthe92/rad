@@ -234,6 +234,8 @@ flowchart TD
 - [214 – Nhiễm trùng TKTW](../214-nhiem-trung-tktw/lesson.md) (viêm não HSV — DDx quan trọng của PRES)
 - [216 – Dị dạng mạch & CVST](../216-di-dang-mach-CVST/lesson.md) (huyết khối xoang, co mạch)
 - [218 – Thoát vị não & úng thủy](../218-thoat-vi-nao-ung-thuy/lesson.md) (phù não, biến chứng thần kinh)
+- [229 – Viêm mạch TKTW nguyên phát (PACNS) vs co mạch não có hồi phục (RCVS): điều trị ngược nhau](../229-pacns-vs-rcvs/lesson.md)
+- [653 – PRES & RCVS ở trẻ em: biến thể không điển hình & ngưỡng tự điều hòa thấp](../653-pres-rcvs-tre-em/lesson.md)
 
 ## Ảnh
 - `images/219_pres_CT_PMC10821201-Fig2-CCBY.jpg` — CT giảm đậm độ dưới vỏ chẩm-đỉnh (CC BY 4.0).
