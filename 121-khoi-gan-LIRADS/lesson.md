@@ -28,6 +28,12 @@ certainty: tong-hop-y-van
 ![HCC 4 thì: ĐM ngấm → cửa/muộn thải](images/121_HCC-3-thi_CT_Wikimedia-Pan-CCBY40.jpg)
 *Không tiêm (A) + ĐM (B) + cửa (C) + muộn (D). Nguồn: Pan et al., BMC Cancer 2014, CC BY 4.0.*
 
+![Xơ gan + HCC: thì ĐM ngấm, thì cửa nhu mô sáng hơn u](images/121_HCC-DM-TM_CT_Wikimedia-Guite-CCBY30.jpg)
+*Trái (A): thì động mạch — HCC ngấm mạnh hơn nhu mô xơ. Phải (B): thì cửa — nhu mô sáng lên, u tương đối tối (washout). Nguồn: Guite et al., IntechOpen 2013, CC BY 3.0.*
+
+![Ung thư đường mật trong gan (LR-M): ngấm viền (rim APHE) + thải ngoại vi](images/121_CCA-LR-M_CT-MRI_PMC13062603-Fig1.jpg)
+*Ung thư đường mật trong gan typ ống nhỏ (nam 68 tuổi): (A–D) CT đa thì (không tiêm, ĐM, cửa, muộn) — **ngấm viền + thải ngoại vi**, ngấm trung tâm thì muộn; (E–K) MRI Gadoxetic; (L–N) mô bệnh. Đây là **LR-M**, KHÔNG áp LR-5 cho HCC. Nguồn: Shin J et al., J Liver Cancer 2026 (PMC13062603), Fig. 1, CC BY-NC 4.0.*
+
 ## 3. Bảng chốt LR-5 vs LR-M
 
 | Thực thể (entity) | Hình ảnh | Chốt vào (rule-in) | Chốt loại (rule-out) | Gợi ý xác nhận |
@@ -37,6 +43,9 @@ certainty: tong-hop-y-van
 | Hemangioma | **Ngấm nốt ngoại vi hướng tâm**, T2 sáng rực | **Hướng tâm + T2 sáng** | Washout → không phải hemangioma | MRI Primovist |
 | FNH | **Sẹo trung tâm T2 sáng + ngấm muộn**, giữ Primovist | **Giữ thuốc thì gan-mật** | Thải thuốc → HCC/adenoma | MRI Gadoxetate |
 | Adenoma | Chảy máu + mỡ vi thể, nữ + thuốc tránh thai | **Chảy máu + mỡ + nữ trẻ** | Washout + vỏ ở gan xơ → HCC | Ngừng thuốc + theo dõi (vỡ!) |
+
+![Đối chiếu HCC (LR-5) vs ung thư đường mật trong gan (LR-M)](images/composite_HCC-vs-CCA.jpg)
+*Trái: **HCC** — non-rim APHE (B) rồi washout (C–D), đủ LR-5 ở gan xơ. Phải: **ung thư đường mật trong gan (LR-M)** — **ngấm viền (rim) + thải ngoại vi + ngấm trung tâm muộn**, co kéo bao. Chốt: **non-rim APHE → HCC; rim APHE → LR-M (sinh thiết)**. Nguồn: ảnh HCC — Wikimedia Commons, CC BY 4.0; ảnh CCA — Shin J et al., J Liver Cancer 2026 (PMC13062603), CC BY-NC 4.0. Ảnh ghép letterbox, giữ nguyên tỷ lệ.*
 
 ## 4. Protocol CT/MRI gan + flowchart
 
@@ -79,6 +88,26 @@ flowchart TD
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
 - **LR-4** (chưa LR-5) — theo dõi sát/sinh thiết, không mổ như HCC chắc chắn.
+</details>
+
+**Ca 3 — Nốt gan ở bệnh nhân nguy cơ, ngấm thuốc "lạ". Nhìn ảnh ghép, mô tả trước.**
+
+![Ca 3 — đối chiếu HCC vs CCA](images/composite_HCC-vs-CCA.jpg)
+
+- Hỏi: khối bên nào là HCC, bên nào là LR-M? Dấu hiệu nào chốt (non-rim vs rim APHE)?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- Trái: **HCC (LR-5)** — **non-rim APHE** rồi **washout**, ≥ 20 mm → đủ LR-5, không cần sinh thiết.
+- Phải: **ung thư đường mật trong gan (LR-M)** — **rim APHE + thải ngoại vi + ngấm trung tâm muộn + co kéo bao** → **KHÔNG áp LR-5**, phải **sinh thiết**.
+- Nguồn: ảnh HCC — Wikimedia Commons (CC BY 4.0); ảnh CCA — Shin J et al., J Liver Cancer 2026 (PMC13062603), CC BY-NC 4.0.
+</details>
+
+**Ca 4 — Xơ gan + khối ngấm mạnh thì ĐM nhưng KHÔNG washout, biến mất thì cửa/muộn:** chẩn đoán? *(Mục 5.)*
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- **Giả u tưới máu (THAD/THID)** — hình chêm ngoại vi, mạch xuyên bình thường, **biến mất hoàn toàn thì cửa/muộn**; không phải HCC.
 </details>
 
 ## Bài liên quan chéo

@@ -1,0 +1,21 @@
+# Nguồn gốc — 519-adenosarcoma-tu-cung-va-polyp-noi-mac
+
+> Chủ đề: adenosarcoma tử cung ("khối polypoid trong lòng tử cung" giả polyp) vs polyp nội mạc & polypoid adenomyoma lành; vai trò DWI/ADC, sarcoma phát triển vượt (SO > 25%), tiên lượng và di căn phổi. Quét 2026-10-18. Kiểm chứng giấy phép từng ảnh trước khi tải.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / Cureus (2026) | Unexpected Diagnosis of Uterine Adenosarcoma With Sarcomatous Overgrowth After Hysteroscopic Polypectomy for a Presumed Endometrial Polyp — Suzuki N et al. | https://pmc.ncbi.nlm.nih.gov/articles/PMC13577044/ | CC BY 4.0 | `images/519_adenosarcoma_polypoid_MRI_PMC13577044-Fig1.jpg` (ca 47 tuổi: khối polypoid 5,5 cm + khối trong cơ; PET/CT FDG dương; FIGO IC; doxorubicin + ifosfamide) |
+| 2 | Europe PMC / BMC Women's Health (2021) | Imaging findings of uterine adenosarcoma with sarcomatous overgrowth: two case reports, emphasizing restricted diffusion on diffusion weighted imaging — Nakai G et al. | https://pmc.ncbi.nlm.nih.gov/articles/PMC8680034/ | CC BY 4.0 | `images/519_adenosarcoma_DWI-han-che_MRI_PMC8680034-Fig1.jpg` (ca 1: 76 tuổi, khối 241×114×88 mm, ADC 1,26 ×10⁻³ mm²/s; ca 2: 57 tuổi, ADC 0,88; polyp trung bình 1,4–2,5 cm vs adenosarcoma ~6,5 cm) |
+| 3 | Europe PMC / Cureus (2025) | A Rare Case of Endometrial Adenosarcoma and Its Management: A Case Report and Literature Review — Rafiq S et al. | https://pmc.ncbi.nlm.nih.gov/articles/PMC11964285/ | CC BY 4.0 | `images/519_adenosarcoma_noi-mac_MRI_PMC11964285-Fig1.jpg` (ca 52 tuổi: sinh thiết ban đầu "polyp lành"; khối 6 cm hoại tử/xuất huyết; ER/PR dương mô đệm) |
+| 4 | Europe PMC / Frontiers in Oncology (2026) | A case report of uterine adenosarcoma with sarcomatous overgrowth and pulmonary metastasis — Qi X et al. | https://pmc.ncbi.nlm.nih.gov/articles/PMC13441759/ | CC BY 4.0 | `images/519_adenosarcoma-sarcoma-vuot_CT-phoi_PMC13441759-Fig1.jpg` (ca 56 tuổi: khối đặc–nang phần phụ 65×46 mm + di căn phổi sau 8 tháng; 5–10% sarcoma tử cung; DSS 5 năm 48–79%; 75% tái phát xa ở phổi — Tate n=110) |
+| 5 | Europe PMC / BJR Case Reports (2026) | Multimodal imaging in the diagnosis of uterine polypoid adenomyoma: a case report — Davis AJ, Gomez E | https://pmc.ncbi.nlm.nih.gov/articles/PMC13395283/ | CC BY 4.0 | `images/519_polyp-adenomyoma_MRI_PMC13395283-Fig2.jpg` (ca 53 tuổi: Hb 3,9 g/dL; khối trong buồng có nang nhỏ T2 sáng + tín hiệu giống junctional zone; nền adenomyosis) |
+| 6 | Europe PMC / Frontiers in Medicine (2026) | Giant endometrial polyp in postmenopausal women without hormonal exposure: a case report and literature review — Wang D et al. | https://pmc.ncbi.nlm.nih.gov/articles/PMC13136127/ | CC BY | `images/519_polyp-noi-mac-khong-lo_US_PMC13136127-Fig1.jpg` (15 ca polyp khổng lồ 4,0–12,0 cm, tuổi 55–70; 11/15 lành có giãn nang; TVUS + nội soi) |
+| 7 | Europe PMC / Frontiers in Oncology (2024) | Prognostic factors in uterine adenosarcoma: subanalysis of the SARCUT study — Mancari R et al. | https://pmc.ncbi.nlm.nih.gov/articles/PMC11148341/ | CC BY | dẫn link (số liệu: DFS 5 năm 85,3%, OS 5 năm 89,5%; tuổi HR 1,09; giai đoạn II–III HR 17,75; tái phát sớm < 12 tháng gắn u > 30 mm) — không tải ảnh |
+| 8 | Europe PMC / Diagnostics (Basel) (2026) | Prevalence and Risk Factors of Endometrial Carcinoma Associated with Endometrial Polyps (n = 2588) — Kiestrzyn ZM et al. | https://pmc.ncbi.nlm.nih.gov/articles/PMC13564567/ | CC BY | dẫn link (số liệu: ung thư nội mạc 0,62%, tăng sinh có atypia 1,35%, không atypia 13,91%, polyp lành 84,12%) — không tải ảnh |
+| 9 | Bài nội bộ | Sarcoma tử cung & carcinosarcoma vs u xơ (ngưỡng ADC ≤ 0,9) | ../526-sarcoma-tu-cung-vs-u-xo/lesson.md | — | tham chiếu ngưỡng ADC và bối cảnh cấm morcellation |
+| 10 | Bài nội bộ | U mô đệm nội mạc tử cung (ESN/LG-ESS/HG-ESS/UUS) | ../527-u-mo-dem-noi-mac-tu-cung/lesson.md | — | tham chiếu DWI hạn chế thật vs T2 shine-through |
+
+## Ghi chú giấy phép
+- Ghi rõ giấy phép từng ảnh vào `images/CREDITS.md`.
+- Các bài #1–#5 đều là **CC BY 4.0**, bài #6 là **CC BY** → được phép tải và ghép (giữ nguyên tỷ lệ, có attribution).
+- Tên tác giả ghi theo Europe PMC (`authorList`) / PMC, không suy đoán.

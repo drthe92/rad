@@ -176,6 +176,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 526 | [Sarcoma tử cung & carcinosarcoma vs u xơ](526-sarcoma-tu-cung-vs-u-xo/lesson.md) | `pattern:khoi-co-tu-cung` `pattern:xam-lan-co` `vung:tu-cung` `score:ADC` `protocol:MRI-tieu-khung` |
 | 527 | [U mô đệm nội mạc tử cung: ESN/LG-ESS/HG-ESS/UUS](527-u-mo-dem-noi-mac-tu-cung/lesson.md) | `pattern:khoi-co-tu-cung` `pattern:xam-lan-co` `vung:tu-cung` `score:ADC` `protocol:MRI-tieu-khung` |
 | 518 | [Morcellation & leiomyomatosis peritonealis disseminata (LPD)](518-morcellation-LPD/lesson.md) | `pattern:gieo-rac-phuc-mac` `pattern:khoi-co-tu-cung` `vung:phuc-mac` `protocol:morcellation` `incidentaloma:not-phuc-mac` |
+| 519 | [Adenosarcoma tử cung & polyp nội mạc: khối trong buồng tử cung giả polyp](519-adenosarcoma-tu-cung-va-polyp-noi-mac/lesson.md) | `pattern:khoi-long-tu-cung` `pattern:u-gia-polyp` `vung:tu-cung` `score:ADC` `protocol:MRI-tieu-khung` `protocol:sieu-am-dau-do` |
 | 528 | [Dị dạng tử cung bẩm sinh](528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md) | `pattern:di-dang-tu-cung` `vung:tu-cung` `score:ESHRE-ESGE` `score:ASRM` `protocol:MRI-tu-cung` `protocol:3D-TVUS` |
 | 529 | [Cổ tử cung & âm đạo bẩm sinh: dị dạng tắc nghẽn (C0–C4/V0–V4)](529-co-tu-cung-am-dao-bam-sinh-tac-nghen/lesson.md) | `pattern:di-dang-co-tu-cung-am-dao` `vung:am-dao` `score:ESHRE-ESGE` `protocol:MRI-tieu-khung` `protocol:sieu-am-tieu-khung` |
 | 530 | [Phần phụ O-RADS](530-buong-trung-ORADS-sieu-am-MRI/lesson.md) | `score:O-RADS` |
