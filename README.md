@@ -97,6 +97,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 131 | [Tắc mật](131-tac-mat/lesson.md) | `pattern:tac-mat` |
 | 132 | [Hẹp đường mật không xác định & cholangioscopy](132-hop-duong-mat-khong-xac-dinh/lesson.md) | `pattern:hep-duong-mat` `vung:duong-mat` `protocol:MRCP` `protocol:cholangioscopy` `protocol:EUS-FNA` `score:IgG4` |
 | 134 | [U nhầy ruột thừa chưa vỡ (LAMN/HAMN) & gốc u nhầy bằng IHC](134-u-nhay-ruot-thua-chua-vo/lesson.md) | `pattern:gian-ruot-thua` `vung:ruot-thua` `pattern:u-nhay` `score:WHO-AMN` `protocol:CT-bung-co-can-quang` `protocol:MRI-chau` `incidentaloma:u-nhay-ruot-thua` |
+| 133 | [Hẹp miệng nối đường mật & cholangiopathy thiếu máu sau ghép gan](133-hep-mieng-noi-duong-mat-sau-ghep/lesson.md) | `pattern:hep-duong-mat` `pattern:hep-mieng-noi` `vung:duong-mat` `protocol:MRCP` `protocol:MRI-gadoxetic-HBP` `incidentaloma:hep-sau-ghep` |
+| 138 | [Sỏi trong gan & viêm đường mật mủ tái phát (hepatolithiasis/RPC)](138-soi-trong-gan-viem-duong-mat-mu/lesson.md) | `pattern:soi-trong-gan` `pattern:hep-duong-mat` `vung:duong-mat-trong-gan` `protocol:MRCP` `protocol:CT-bung-co-can-quang` `incidentaloma:soi-trong-gan` |
 | 136 | [U/nang tụy](136-u-nang-tuy/lesson.md) | `pattern:u-tuy` |
 | 140 | [Lách & chấn thương](140-lach-tang-dac/lesson.md) | `pattern:chan-thuong-bung` |
 | 141 | [Phúc mạc](141-phuc-mac/lesson.md) | `pattern:phuc-mac` `vung:phuc-mac` `protocol:CT-bung-tiem` `incidentaloma:dich-o-bung` |
