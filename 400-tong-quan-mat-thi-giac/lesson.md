@@ -24,6 +24,7 @@ certainty: tong-hop-y-van
 | Mạch xoang hang | Xoang hang | Fistula, huyết khối | Tiếng thổi + SOV giãn | [423](../423-fistula-xoang-hang/lesson.md) |
 | Tuyến lệ to | Trên-ngoài | IgG4, sarcoid, u | Không đau 2 bên + IgG4 | [424](../424-tuyen-le/lesson.md) |
 | TK thị/giao thoa | TK-yên | Viêm, NAION, glioma/ONSM, adenoma | Đau + ngấm = viêm; tram-track = ONSM; bán manh = yên | [430](../430-duong-thi-giac/lesson.md), [431](../431-u-than-kinh-thi/lesson.md), [432](../432-vung-yen/lesson.md) |
+| **ON tái phát/phụ thuộc steroid** | Thần kinh thị (optic nerve) | **CRION · MOG-ON · AQP4-ON · MS-ON · double-negative ON** · NAION · độc–chuyển hóa | **Ngấm dài ≥ 1/2 TK thị + AQP4 âm + tái phát khi giảm steroid = CRION**; **MOG-IgG (+) + đĩa phù + perineural = MOG-ON**; **AQP4 (+) + dài/chiasm + area postrema = NMOSD**; **ổ ngắn + OCB (+) + tổn thương não = MS** | [464](../464-viem-than-kinh-thi-tai-phat-CRION/lesson.md), [430](../430-duong-thi-giac/lesson.md), [434](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) |
 | Đĩa thị | Đĩa thị (disc) | Phù đĩa, drusen, IIH | Frisén 0–5; lõi tối = drusen | [433](../433-phu-dia-thi-drusen/lesson.md) |
 | Teo thị 2 bên | Thần kinh thị (optic nerve) | LHON, độc–chuyển hóa, viêm, **di truyền (DOA/Wolfram)**, chèn ép | **GCL mất sớm = LHON**; RNFL thái dương mỏng = độc chất/DOA; **teo thị + DM/điếc/ĐTĐ nhạt = Wolfram** | [434](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md), [439](../439-teo-thi-di-truyen/lesson.md) |
 | Teo thị 2 bên + **ĐIẾC** (DOA+/WFS1 trội) | Thần kinh thị (optic nerve) + võng mạc + tai trong | **OPA1/DOA+** vs **WFS1 trội (Wolfram-like)** vs WS1 lặn (DIDMOAD) vs LHON vs độc chất vs glaucoma | **Điếc xuất hiện TRƯỚC teo thị (WFS1: 2 vs 10 tuổi) = WFS1**; **ANSD (ABR mất sóng + CM còn) + missense GTPase = OPA1**; **OPL lamination trên OCT = WFS1 trội** | [437](../437-teo-thi-kem-diec/lesson.md) |
@@ -148,6 +149,7 @@ certainty: tong-hop-y-van
 - 460 – Can thiệp + xạ trị *(đã có — [bài học](../460-can-thiep-mat/lesson.md))*
 - 462 – U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh: IL-10/MYD88 + PET-CT *(đã có — [bài học](../462-u-lympho-noi-nhan-PVRL/lesson.md))*
 - 463 – Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball"/"chuỗi ngọc trai" & phác đồ kháng nấm *(đã có — [bài học](../463-viem-noi-nhan-noi-sinh-nam/lesson.md))*
+- 464 – Viêm thần kinh thị tái phát (CRION) & thể "âm tính kép": phụ thuộc steroid, MOG 92%, OCT pRNFL 39,3 µm, loại trừ AQP4/MOG *(đã có — [bài học](../464-viem-than-kinh-thi-tai-phat-CRION/lesson.md))*
 - 470–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

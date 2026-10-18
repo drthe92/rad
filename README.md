@@ -87,6 +87,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
 | 462 | [U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh](462-u-lympho-noi-nhan-PVRL/lesson.md) | `pattern:u-lympho-noi-nhan` `pattern:lang-dong-duoi-RPE` `pattern:viet-dich-kinh` `vung:vong-mac` `vung:than-kinh-trung-uong` `score:IL-10-IL-6` `protocol:sinh-thiet-dich-kinh` `protocol:OCT` `protocol:FAF` `protocol:MRI-nao-PET-CT` |
 | 463 | [Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball" & "chuỗi ngọc trai"](463-viem-noi-nhan-noi-sinh-nam/lesson.md) | `pattern:viem-noi-nhan` `pattern:fluff-ball` `pattern:viet-dich-kinh-noi-sinh` `vung:vong-mac` `vung:dich-kinh` `protocol:soi-day-mat` `protocol:PCR-dich-kinh` `protocol:khang-nam-toan-than` `incidentaloma:viem-noi-nhan-nam` |
+| 464 | [Viêm thần kinh thị tái phát (CRION) & thể "âm tính kép"](464-viem-than-kinh-thi-tai-phat-CRION/lesson.md) | `pattern:viem-TK-thi` `pattern:tai-phat` `pattern:phu-dia-thi` `vung:than-kinh-thi` `score:OCT-GCL` `protocol:MRI-hoc-mat` `protocol:OCT-thi-truong` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
 ## Hệ Bụng (dải 100, đang khởi tạo)
@@ -160,6 +161,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 236 | [Viêm tai xương chũm & biến chứng nội sọ: huyết khối xoang, áp-xe não](236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md) | `pattern:viem-xuong-chum` `pattern:bien-chung-noi-so` `pattern:huyet-khoi-xoang-tinh-mach` `pattern:apxe-nao` `vung:xuong-thai-duong` `score:CAM` `protocol:CT-xuong-thai-duong` `protocol:MRI-MRV` |
 | 225 | [Hội chứng tủy không hoàn toàn: tủy trung tâm, tủy trước, Brown-Séquard, tủy sau](225-hoi-chung-tuy-khong-hoan-toan/lesson.md) | `pattern:hoi-chung-tuy` `pattern:tuy-khong-hoan-toan` `vung:tuy-song` `score:ASIA` `protocol:MRI-cot-song` `protocol:CT-cot-song` |
 | 226 | [Tủy mềm KHÔNG chấn thương: nhồi máu tủy, SDAVF, viêm tủy/NMOSD, tủy mềm do xạ](226-tuy-mem-khong-chan-thuong-nhoi-mau-sdavf-nmo-xa/lesson.md) | `pattern:tuy-mem` `pattern:nhoi-mau-tuy` `pattern:di-dong-tinh-mach-mang-cung` `pattern:viem-tuy` `pattern:tuy-mem-do-xa` `vung:tuy-song` `protocol:DSA-tuy` |
+| 227 | [Đau đầu sét đánh: SAH / RCVS / CVST / bóc tách / pituitary apoplexy](227-dau-dau-set-danh-thunderclap/lesson.md) | `pattern:dau-dau-set-danh` `pattern:xuat-huyet-duoi-nhen` `pattern:co-mach-nao` `vung:nao` `score:RCVS2` `score:RCVS-TCH` `protocol:CT-CTA-MRV` `protocol:choc-dong` |
 | 228 | [Thoát vị đĩa đệm thắt lưng & phân độ Pfirrmann/Modic](228-thoat-vi-dia-dem-that-lung-pfirrmann-modic/lesson.md) | `pattern:thoat-vi-dia-dem` `pattern:hep-ong-song` `pattern:modic` `pattern:pfirrmann` `vung:cot-song-that-lung` `score:Pfirrmann` `score:Modic` `score:Schizas` `protocol:MRI-cot-song` |
 | 657 | [Dị tật hố sau: Joubert & rhombencephalosynapsis](657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) | `pattern:di-dang-ho-sau` `pattern:rang-ham` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
 
