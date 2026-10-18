@@ -138,6 +138,8 @@ certainty: tong-hop-y-van
 - 565 – Sàng lọc hình thái học thai nhi quý I–II & Siêu âm Doppler sản khoa (Động mạch rốn, Động mạch não giữa MCA, Ống tĩnh mạch) *(đã có — [bài học](../565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md))*
 - 566 – Song thai: xác định màng đệm–màng ối (chorionicity/amnionicity) & hội chứng truyền máu TTTS/TAPS (Quintero I–V, TAPS 1–5, sIUGR type I–III) *(đã có — [bài học](../566-song-thai-chorionicity-TTTS-TAPS/lesson.md))*
 - 567 – Sàng lọc lệch bội: NIPT vs xét nghiệm phối hợp quý I & dấu hiệu mềm quý II (nếp gáy ≥ 6 mm, giãn não thất ≥ 10 mm, mất xương mũi, ARSA; likelihood ratio) *(đã có — [bài học](../567-sang-loc-lech-boi-NIPT-dau-hieu-mem/lesson.md))*
+- 568 – TRAP (song thai đảo ngược tưới máu động mạch) & thai acardiac: Doppler dòng NGƯỢC trong động mạch rốn khối, 4 thể acardiac (acephalus/anceps/amorphus/acormus), tỷ lệ cân nặng APTW > 0,7, theo dõi & can thiệp RFA/intrafetal laser *(đã có — [bài học](../568-trap-song-thai-acardiac/lesson.md))*
+- 569 – Sinh non ở song thai: sàng lọc cổ tử cung qua TVUS (ngưỡng CL ≤ 25 mm ở 18–24 tuần), progesterone âm đạo, bán khâu (chỉ lợi ở cổ mở), vòng nang không hiệu quả, corticosteroid *(đã có — [bài học](../569-sinh-non-song-thai/lesson.md))*
 
 **570–579 — Hạch & phân giai đoạn ung thư phụ khoa (Nodal & Advanced Staging)**
 - 571 – Sẩy thai tái diễn (RPL): tiếp cận hình ảnh tử cung — vách ngăn vs hai sừng, dính buồng (Asherman/IUA), polyp, u xơ dưới niêm mạc, adenomyosis, hở cổ tử cung; SIS/3D-TVUS/MRI + soi buồng *(đã có — [bài học](../571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md))*
