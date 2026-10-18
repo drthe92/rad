@@ -23,6 +23,7 @@ certainty: tong-hop-y-van
 | Giãn não thất & Đẩy lệch cấu trúc | Hệ thống não thất | Não úng thủy tắc nghẽn, Não úng thủy áp lực bình thường (NPH), Teo não tuổi già, Thoát vị não | Chỉ số Evans > 0,3 + góc thể chai < 90° + DESH = NPH; Giãn cả não thất lẫn rãnh vỏ não tương xứng = Teo não | `218` |
 | Tổn thương ống sống theo 3 khoang | Cột sống – Tủy sống (spine) | Ngoài màng cứng (thoát vị đĩa, di căn), Trong màng cứng-ngoài tủy (schwannoma, meningioma), Nội tủy (ependymoma, viêm tủy) | Đẩy lệch túi màng cứng = Ngoài màng cứng; Mở rộng khoang dưới nhện hình chén (meniscus) = Trong màng cứng-ngoài tủy; Phình rộng tủy = Nội tủy | `220` |
 | Tổn thương thân đốt sống & Đĩa đệm | Cột sống | Viêm đĩa đệm-đốt sống vi khuẩn, Lao cột sống (Pott), Di căn cột sống, Xẹp đốt sống loãng xương | Phá hủy đĩa đệm sớm = Vi khuẩn; Bảo tồn đĩa sớm + áp-xe lạnh vôi hóa = Lao; Chừa đĩa đệm + hủy cuống cung (mất mắt cú) = Di căn | `221`, `222` |
+| Thoát vị đĩa đệm thắt lưng & thoái hóa đĩa–sụn tận cùng | Cột sống thắt lưng (lumbar) | Hình thái: phình (bulge) · lồi (protrusion) · thoát ra (extrusion) · mảnh rời (sequestration); Phân độ **Pfirrmann I–V**; **Modic 1/2/3**; Hẹp ống sống (**Schizas A–D**) | **Đáy < chiều cao = extrusion; mảnh mất liên tục = sequestration**; **nhân T2 xám–đen + mất ranh giới = Pfirrmann IV–V**; **Modic 1 = T1 tối/T2 sáng (hoạt tính, tái phát OR 2,97)** vs **Modic 2 = T1 sáng**; **mất rễ + mất mỡ ngoài màng cứng = Schizas D**; vị trí → rễ bị chèn (trung tâm→đuôi ngựa; dưới khớp→rễ đi ngang; lỗ/ngoài lỗ→rễ đi ra) | `228`, `220`, `222` |
 | Tín hiệu tủy sau chấn thương (cord signal) | Tủy sống | Phù tủy, Xuất huyết tủy, Đứt tủy, SCIWORA (CT bình thường) | T2/STIR sáng đơn thuần = phù (tiên lượng khá); T2 tối + "blooming" GRE/SWI = xuất huyết (xấu); CT bình thường + dấu tủy = SCIWORA — chấm AIS A–E (chốt sacral sparing S4–5) | `223` |
 | Hội chứng tủy **KHÔNG hoàn toàn** (theo mặt cắt ngang) | Tủy sống (myelopathy) | Tủy trung tâm (CCS) · tủy trước (ASA) · Brown-Séquard (hemisection) · tủy sau · nón tủy/đuôi ngựa | **Yếu TAY > chân + chênh UEMS–LEMS ≥ 10 điểm = tủy trung tâm** (hồi phục ~90%/3 năm); **liệt + mất đau–nhiệt hai bên mà CÒN cảm giác sâu = tủy trước**; **mất sâu CÙNG bên + mất đau–nhiệt ĐỐI bên = Brown-Séquard**; **mất sâu hai bên, còn vận động = tủy sau (< 1%, dễ bỏ sót)** | `225`, `223`, `220` |
 | Nhân tuyến giáp & Hạch cổ (ACR TI-RADS) | Tuyến giáp & Cổ (thyroid-neck) | Ung thư nhú (PTC), nang thể, keo lành, giả nhân Hashimoto, hạch di căn | Đặc + rất giảm + cao-rộng + đa cung + vi vôi ≤ 1 mm (≥ 7đ) = TR5; bọt biển = TR1 (DỪNG); hạch mất rốn + Tg rửa = di căn (bỏ ngưỡng mm!) | `230` |
@@ -38,6 +39,7 @@ certainty: tong-hop-y-van
 - [213 – U não](../213-u-nao/lesson.md) *(đã có)*
 - [432 – Vùng yên](../432-vung-yen/lesson.md) (nối chéo khối ngoài trục `217` – tuyến yên)
 - [236 – Viêm tai xương chũm & biến chứng nội sọ](../236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md) *(đã có)*
+- [228 – Thoát vị đĩa đệm thắt lưng & phân độ Pfirrmann/Modic](../228-thoat-vi-dia-dem-that-lung-pfirrmann-modic/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Thần kinh (200–249)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số. Giữ nguyên 100% ID `211, 212, 213` đã tạo.
@@ -69,6 +71,7 @@ certainty: tong-hop-y-van
 - 224 – Chấn thương sọ não ở trẻ (TBI nhi): phân độ **Marshall (I–VI)** & **Rotterdam (1–6)**, khoang dưới nhện (bể nền/tSAH), đụng dập vs DAI (SWI), EDH vs SDH, quy tắc **PECARN** & AHT/NAT  *(đã có — [bài học](../224-chan-thuong-so-nao-nhi/lesson.md))*
 - 225 – Hội chứng tủy KHÔNG hoàn toàn: tủy trung tâm (CCS), tủy trước (ASA), Brown-Séquard, tủy sau  *(đã có — [bài học](../225-hoi-chung-tuy-khong-hoan-toan/lesson.md))*
 - 226 – Tủy mềm KHÔNG chấn thương: nhồi máu tủy, dò động–tĩnh mạch màng cứng (SDAVF), viêm tủy cấp/NMOSD, tủy mềm do xạ  *(đã có — [bài học](../226-tuy-mem-khong-chan-thuong-nhoi-mau-sdavf-nmo-xa/lesson.md))*
+- 228 – Thoát vị đĩa đệm thắt lưng & thoái hóa đĩa–sụn tận cùng: hình thái **bulge/protrusion/extrusion/sequestration** (Fardon/ASNR), phân độ **Pfirrmann I–V**, **Modic 1/2/3**, hẹp ống sống **Schizas A–D**; **Modic type 1 = yếu tố nguy cơ tái phát (OR 2,97)**; mảnh rời có thể **tiêu vi tự nhiên** *(đã có — [bài học](../228-thoat-vi-dia-dem-that-lung-pfirrmann-modic/lesson.md))*
 
 **230–249 — Đầu Mặt Cổ & Nền sọ (Head & Neck — Mở rộng)**
 - 230 – Tuyến giáp ACR TI-RADS & Hạch cổ *(đã có — [bài học](../230-tuyen-giap-hach-co/lesson.md))*

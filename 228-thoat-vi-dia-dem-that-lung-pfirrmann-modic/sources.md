@@ -1,0 +1,22 @@
+# Nguồn gốc — 228-thoat-vi-dia-dem-that-lung-pfirrmann-modic
+
+> Thoát vị đĩa đệm thắt lưng: hình thái (bulge/protrusion/extrusion/sequestration), định khu + hẹp ống sống (Schizas), phân độ Pfirrmann & Modic. Ngày quét: 2026-10-18. Kiểm chứng giấy phép từng ảnh trước khi tải.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / Cureus | Alshanqity M, Sabbagh AY, Abdulmuttalib JA. Massive Lumbar Disc Extrusion and Cauda Equina Syndrome in a Female Athlete Following Deadlift Training. Cureus 2025;17(11):e100428 (PMC12854390) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12854390/ | CC BY 4.0 | `images/228_extrusion-di-tru_MRI_PMC12854390-Fig1-CCBY.jpg`, `images/228_axial-hep-ong-song_MRI_PMC12854390-Fig2-CCBY.jpg` |
+| 2 | Europe PMC / Front Pain Res (Frontiers) | Zhang Z, Yang Z, Zhao Y, Guo Y, Wu G. Serial MRI documentation of sequestrated lumbar disc resorption during conservative management: a case report. Front Pain Res 2026 (PMC13581762; DOI 10.3389/fpain.2026.1853632) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13581762/ | CC BY 4.0 | `images/228_extrusion-truoc_MRI_PMC13581762-Fig1-CCBY.webp`, `images/228_tieu-vi-sau_MRI_PMC13581762-Fig3-CCBY.webp` + số liệu (chiếm 40,6% ống sống; tiêu vi 3–4 tháng) |
+| 3 | Europe PMC / Eur J Radiol Open (Elsevier) | Korhonen T, Järvinen J, Pesälä J, Haapea M, Kinnunen P, Niinimäki J. Association of preoperative co-occurring intervertebral disc-related degenerative features with one-year lumbar discectomy outcome. Eur J Radiol Open 2026 (PMC12855554) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12855554/ | CC BY 4.0 | `images/228_pfirrmann-modic_MRI_PMC12855554-Fig1-CCBY.jpg` (Pfirrmann độ 4 + Modic type 2) |
+| 4 | Europe PMC / Diagnostics (MDPI) | Romano DG, Liguori L, Pacella G, Natella R, Bruno F, Arrigoni F, Bruno M, Piemonte S, Fischetti M, Brunese M, Zappia M. Vertebrogenic Low Back Pain and Basivertebral Nerve Ablation. Diagnostics 2026;16(19):1943 (PMC13297703) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13297703/ | CC BY 4.0 | `images/228_modic-1_MRI_PMC13297703-Fig3-CCBY.jpg`, `images/228_modic-2_MRI_PMC13297703-Fig4-CCBY.jpg` + định nghĩa Modic 1/2/3 |
+| 5 | Europe PMC / Neurospine | Soliman MAR, Francois H, Aguirre AO, et al. Preoperative Clinical and Radiographic Risk Factors for Recurrent Lumbar Disc Herniation: Systematic Review and Meta-analysis. Neurospine 2026 (PMC12890318) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12890318/ | CC BY-NC 4.0 | Số liệu **không lấy ảnh**: Modic changes OR 2,97 (2,20–4,01); tái phát 12,7%/11,4%/15,3% |
+| 6 | Europe PMC / J Clin Med (MDPI) | Honjoh K, Kubota A, Watanabe S, Kamitani M, Watanabe Y, Nakajima H. Neurological Phenotype and MRI Severity as Predictors of Duloxetine Response in Lumbar Spinal Stenosis. J Clin Med 2026 (PMC13207235) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13207235/ | CC BY 4.0 | Số liệu **không lấy ảnh**: định nghĩa phân độ Schizas A–D |
+| 7 | Europe PMC / Diagnostics (MDPI) | Haidar AI, Emam M, et al. Transparent, Reproducible Text-Based Phenotyping of Lumbar Intervertebral Disc Degeneration. Diagnostics 2026 (PMC13605291) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13605291/ | CC BY 4.0 | Số liệu **không lấy ảnh**: Pfirrmann dựa tín hiệu T2 + ranh giới nhân–vòng + chiều cao; biến thể 8 độ |
+| 8 | Europe PMC / Front Med (Frontiers) | Guo D, Wang Y, Yang C, et al. Automated radiomics pipeline integrating TotalSpineSeg for Pfirrmann grading. Front Med 2026 (PMC13658075) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13658075/ | CC BY 4.0 | Bối cảnh (không lấy ảnh): Pfirrmann I–V phân độ tự động |
+| 9 | Radiopaedia | Lumbar disc herniation / Modic type endplate changes — index | https://radiopaedia.org/articles/lumbar-disc-herniation | CC BY-NC-SA (từng ca) | dẫn link — không scrape hàng loạt |
+| 10 | AuntMinnie | Lumbar degenerative disc disease — Case of the Day | https://www.auntminnie.com/ | paywall | không tải, chỉ dẫn link |
+
+## Ghi chú giấy phép
+- **CC BY 4.0** (PMC12854390, PMC13581762, PMC12855554, PMC13297703, PMC13207235, PMC13605291, PMC13658075): dùng/ghép được khi ghi nguồn.
+- **CC BY-NC 4.0** (PMC12890318): chỉ dùng số liệu (không lấy ảnh).
+- Ảnh ghép `composite_228_modic-1-vs-2.jpg` và `composite_228_extrusion-truoc-sau.jpg` chỉ ghép **ảnh CC BY** (PMC13297703; PMC13581762), letterbox giữ tỷ lệ, không crop/kéo giãn.
+- Tên tác giả ghi theo `authorString` đối chiếu trực tiếp PMCID qua Europe PMC (không bịa tên/niên đại).
