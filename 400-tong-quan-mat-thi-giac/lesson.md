@@ -37,6 +37,7 @@ certainty: tong-hop-y-van
 | Viêm mạch võng mạc (bệnh hệ thống) | Võng mạc (retina) | **Behçet vs lupus (SLE)**, sarcoid, ARN/CMV, lymphoma masquerade | **Vitritis + thoát thuốc "dương xỉ" trên FFA = Behçet**; **đốm bông + SLEDAI cao, ít vitritis = lupus** | [455](../455-behcet-lupus-mat/lesson.md) |
 | Viêm võng mạc–màng mạch suy giảm miễn dịch KHÔNG HIV | Võng mạc (retina) | CMV sau ghép/ung thư máu/thuốc ức chế miễn dịch | **Viêm nhiều hơn HIV** (dễ nhầm ARN); **PCR máu có thể âm** → PCR dịch tiền phòng; tái phát → tìm u lympho ẩn | [454](../454-viem-vong-mac-suy-giam-mien-dich/lesson.md) |
 | Theo dõi & tái hoạt CMV retinitis sau ghép | Võng mạc (retina) | Tái hoạt muộn, IRU, bong võng mạc; **ngừng kháng virus** | **Tái hoạt = tiến triển so ảnh UWF nền tảng** (không phải sẹo cũ); HIV ngừng khi **≥ 3 tháng điều trị + lành + CD4 ≥ 100 ≥ 3 tháng trên ART**; **không HIV không có ngưỡng CD4 phổ quát** | [459](../459-theo-doi-dai-han-cmv-retinitis/lesson.md) |
+| Viêm dịch kính mạn ở người lớn tuổi (giả uveitis) | Võng mạc–dịch kính (retina–vitreous) ± CNS | **U lympho nội nhãn (PVRL)** vs viêm màng bồ đào (trung gian, giang mai, lao, MFC), nấm, amyloidosis | **Ổ vàng–kem dưới RPE + đục dịch kính ít viêm + hai mắt ở tuổi > 60, đáp ứng corticoid một phần rồi tái phát** → sinh thiết dịch kính; chốt **IL-10 dịch kính > 400 pg/mL**, **IL-10:IL-6 > 1**, **MYD88 L265P** | [462](../462-u-lympho-noi-nhan-PVRL/lesson.md) |
 | U hắc mạc | Hắc mạc (choroid) | Melanoma, nevus, di căn | Dày ≥ 2 mm + T1 sáng = melanoma | [448](../448-u-hac-mac/lesson.md) |
 | Chấn thương mắt | Nhãn cầu–hốc mắt | Vỡ nhãn cầu, IOFB | Mắt xẹp + XH dịch kính; OTS | [449](../449-chan-thuong-mat-dich-vat/lesson.md) |
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
@@ -86,6 +87,7 @@ certainty: tong-hop-y-van
 - [458 – Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị](../458-di-chung-theo-doi-dai-han-sau-rop/lesson.md) *(mới)*
 - [459 – Theo dõi dài hạn & tái hoạt CMV retinitis sau ghép (UWF, ngưỡng CD4, khi nào ngừng kháng virus)](../459-theo-doi-dai-han-cmv-retinitis/lesson.md) *(mới)*
 - [460 – Can thiệp](../460-can-thiep-mat/lesson.md) *(mới)*
+- [462 – U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh: IL-10/MYD88 + PET-CT](../462-u-lympho-noi-nhan-PVRL/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -139,6 +141,7 @@ certainty: tong-hop-y-van
 
 **460–499 — Can thiệp, xạ trị & dự trữ**
 - 460 – Can thiệp + xạ trị *(đã có — [bài học](../460-can-thiep-mat/lesson.md))*
+- 462 – U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh: IL-10/MYD88 + PET-CT *(đã có — [bài học](../462-u-lympho-noi-nhan-PVRL/lesson.md))*
 - 470–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

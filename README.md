@@ -83,6 +83,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 458 | [Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị](458-di-chung-theo-doi-dai-han-sau-rop/lesson.md) | `pattern:di-chung-rop` `pattern:tai-hoat-rop` `vung:vong-mac` `score:ICROP` `protocol:theo-doi-sau-rop` |
 | 459 | [Theo dõi dài hạn & tái hoạt CMV retinitis sau ghép (UWF, ngưỡng CD4/viremia, khi nào ngừng kháng virus)](459-theo-doi-dai-han-cmv-retinitis/lesson.md) | `pattern:hoai-tu-vong-mac` `vung:vong-mac` `protocol:UWF` `protocol:PCR-dich-tien-phong` `protocol:theo-doi-sau-ghep` `incidentaloma:CMV-sau-ghep` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
+| 462 | [U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh](462-u-lympho-noi-nhan-PVRL/lesson.md) | `pattern:u-lympho-noi-nhan` `pattern:lang-dong-duoi-RPE` `pattern:viet-dich-kinh` `vung:vong-mac` `vung:than-kinh-trung-uong` `score:IL-10-IL-6` `protocol:sinh-thiet-dich-kinh` `protocol:OCT` `protocol:FAF` `protocol:MRI-nao-PET-CT` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
 ## Hệ Bụng (dải 100, đang khởi tạo)
