@@ -92,6 +92,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 122 | [U lành & áp-xe gan](122-u-lanh-gan/lesson.md) | `pattern:u-lanh-gan` |
 | 123 | [Nang gan & bệnh gan đa nang (PLD/Caroli/von Meyenburg)](123-nang-gan-va-benh-gan-da-nang/lesson.md) | `pattern:nang-gan` `vung:gan` `score:Gigot` `protocol:MRCP` `incidentaloma:nang-gan` |
 | 125 | [Gan mỡ-xơ](125-gan-mo-xo/lesson.md) | `pattern:gan-lan-toa` `vung:gan` `score:PDFF` `protocol:CT-MRI-gan` `protocol:Fibroscan` |
+| 126 | [Đo thể tích gan & điều trị nội khoa PLD (Schnelldorfer, somatostatin, ghép gan)](126-the-tich-gan-dieu-tri-noi-khoa-PLD/lesson.md) | `pattern:gan-da-nang` `vung:gan` `score:Schnelldorfer` `score:Gigot` `protocol:do-the-tich-gan-MRI-CT` `incidentaloma:nang-gan` |
 | 124 | [Bệnh mạch máu gan: Budd-Chiari, SOS/VOD & huyết khối tĩnh mạch cửa](124-benh-mach-mau-gan/lesson.md) | `pattern:tac-mach-gan` `vung:gan` `vung:mach-cua` `score:Rotterdam` `score:Vp` `protocol:CT-MRI-da-thi` `incidentaloma:huyet-khoi-tm-cua` |
 | 130 | [Túi mật](130-tui-mat/lesson.md) | `pattern:viem-tui-mat` |
 | 131 | [Tắc mật](131-tac-mat/lesson.md) | `pattern:tac-mat` |
@@ -121,6 +122,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 158 | [Tiền liệt tuyến PI-RADS](158-tien-liet-tuyen-PIRADS/lesson.md) | `score:PI-RADS` |
 | 159 | [Bàng quang VI-RADS & UTUC](159-bang-quang-virads-u-duong-nieu-tren/lesson.md) | `score:VI-RADS` |
 | 160 | [Bụng cấp cứu GI](160-bung-cap-GI/lesson.md) | `protocol:CT-bung-cap` |
+| 199 | [Quy trình xét nghiệm gen & tầm soát người thân (WB-MRI, ONCO-RADS, cascade)](199-quy-trinh-xet-nghiem-gen-tam-soat-gia-dinh/lesson.md) | `pattern:tam-soat-ung-thu-di-truyen` `vung:toan-than` `score:ONCO-RADS` `protocol:WB-MRI` `incidentaloma:ton-thuong-toan-than` |
 
 ## Hệ Thần kinh (dải 200, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
