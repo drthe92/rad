@@ -103,6 +103,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 125 | [Gan mỡ-xơ](125-gan-mo-xo/lesson.md) | `pattern:gan-lan-toa` `vung:gan` `score:PDFF` `protocol:CT-MRI-gan` `protocol:Fibroscan` |
 | 126 | [Đo thể tích gan & điều trị nội khoa PLD (Schnelldorfer, somatostatin, ghép gan)](126-the-tich-gan-dieu-tri-noi-khoa-PLD/lesson.md) | `pattern:gan-da-nang` `vung:gan` `score:Schnelldorfer` `score:Gigot` `protocol:do-the-tich-gan-MRI-CT` `incidentaloma:nang-gan` |
 | 124 | [Bệnh mạch máu gan: Budd-Chiari, SOS/VOD & huyết khối tĩnh mạch cửa](124-benh-mach-mau-gan/lesson.md) | `pattern:tac-mach-gan` `vung:gan` `vung:mach-cua` `score:Rotterdam` `score:Vp` `protocol:CT-MRI-da-thi` `incidentaloma:huyet-khoi-tm-cua` |
+| 127 | [Gan tim (cardiac hepatopathy) & tăng áp cửa do tắc nghẽn dòng ra](127-gan-tim-suy-tim-phai/lesson.md) | `pattern:gan-u-mau` `vung:gan` `vung:mach-cua` `score:VExUS` `score:MELD-XI` `protocol:Doppler-TM-gan` `incidentaloma:gan-to` |
 | 130 | [Túi mật](130-tui-mat/lesson.md) | `pattern:viem-tui-mat` |
 | 131 | [Tắc mật](131-tac-mat/lesson.md) | `pattern:tac-mat` |
 | 132 | [Hẹp đường mật không xác định & cholangioscopy](132-hop-duong-mat-khong-xac-dinh/lesson.md) | `pattern:hep-duong-mat` `vung:duong-mat` `protocol:MRCP` `protocol:cholangioscopy` `protocol:EUS-FNA` `score:IgG4` |
@@ -117,6 +118,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 141 | [Phúc mạc](141-phuc-mac/lesson.md) | `pattern:phuc-mac` `vung:phuc-mac` `protocol:CT-bung-tiem` `incidentaloma:dich-o-bung` |
 | 152 | [Sỏi niệu](152-soi-nieu/lesson.md) | `pattern:soi-nieu` |
 | 162 | [Tắc ruột](162-tac-ruot/lesson.md) | `pattern:tac-ruot` |
+| 163 | [Pylephlebitis & huyết khối tĩnh mạch mạc treo (MVT)](163-pylephlebitis-huyet-khoi-tm-mac-treo/lesson.md) | `pattern:huyet-khoi-mach` `vung:gan` `vung:mach-cua` `vung:ruot` `protocol:CT-bung-da-thi` |
 | 165 | [Dày thành ruột: Crohn vs K đại-trực tràng](165-day-thanh-ruot/lesson.md) | `pattern:day-thanh-ruot` `vung:ruot` `protocol:CT-MR-enterography` |
 | 170 | [Phình ĐMC](170-phinh-DMC-bung/lesson.md) | `pattern:phinh-DMC` |
 | 175 | [Chèn ép mạch](175-chen-ep-mach/lesson.md) | `pattern:chen-ep-mach` |
