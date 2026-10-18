@@ -99,6 +99,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 134 | [U nhầy ruột thừa chưa vỡ (LAMN/HAMN) & gốc u nhầy bằng IHC](134-u-nhay-ruot-thua-chua-vo/lesson.md) | `pattern:gian-ruot-thua` `vung:ruot-thua` `pattern:u-nhay` `score:WHO-AMN` `protocol:CT-bung-co-can-quang` `protocol:MRI-chau` `incidentaloma:u-nhay-ruot-thua` |
 | 133 | [Hẹp miệng nối đường mật & cholangiopathy thiếu máu sau ghép gan](133-hep-mieng-noi-duong-mat-sau-ghep/lesson.md) | `pattern:hep-duong-mat` `pattern:hep-mieng-noi` `vung:duong-mat` `protocol:MRCP` `protocol:MRI-gadoxetic-HBP` `incidentaloma:hep-sau-ghep` |
 | 138 | [Sỏi trong gan & viêm đường mật mủ tái phát (hepatolithiasis/RPC)](138-soi-trong-gan-viem-duong-mat-mu/lesson.md) | `pattern:soi-trong-gan` `pattern:hep-duong-mat` `vung:duong-mat-trong-gan` `protocol:MRCP` `protocol:CT-bung-co-can-quang` `incidentaloma:soi-trong-gan` |
+| 137 | [Theo dõi sau stent/dẫn lưu đường mật: tắc, di trú & viêm đường mật tái phát](137-theo-doi-stent-dan-luu-duong-mat-di-tru-tac-nhiem-trung/lesson.md) | `pattern:tac-mat` `pattern:bien-chung-stent` `pattern:di-tru-stent` `vung:duong-mat` `protocol:ERCP` `protocol:MRCP` `protocol:PTBD` `incidentaloma:stent-di-tru` |
 | 136 | [U/nang tụy](136-u-nang-tuy/lesson.md) | `pattern:u-tuy` |
 | 140 | [Lách & chấn thương](140-lach-tang-dac/lesson.md) | `pattern:chan-thuong-bung` |
 | 141 | [Phúc mạc](141-phuc-mac/lesson.md) | `pattern:phuc-mac` `vung:phuc-mac` `protocol:CT-bung-tiem` `incidentaloma:dich-o-bung` |
@@ -231,6 +232,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 613 | [Viêm tiểu phế quản ở nhũ nhi (RSV)](613-viem-tieu-phe-quan-nhi/lesson.md) | `pattern:viem-tieu-phe-quan` `vung:phe-quan` `vung:phoi-nhi` `protocol:X-quang-nguc-nhi` `protocol:HRCT` |
 | 614 | [Bệnh tiểu phế quản tắc nghẽn (BO) & Swyer–James](614-benh-tieu-phe-quan-tac-nghen-BO-Swyer-James/lesson.md) | `pattern:u-khi` `pattern:viem-tieu-phe-quan` `pattern:phoi-mot-ben-sang` `vung:phoi` `vung:phe-quan` `protocol:HRCT` `protocol:HRCT-thi-tho-ra` |
 | 617 | [Hội chứng rò khí ở nhũ nhi: tràn khí màng phổi & tràn khí trung thất](617-hoi-chung-ro-khi-o-nhu-nhi/lesson.md) | `pattern:ro-khi` `pattern:tran-khi-mang-phoi` `pattern:tran-khi-trung-that` `vung:phoi` `vung:mang-phoi` `score:AP-ratio` `protocol:X-quang-nguc-nhi` `protocol:sieu-am-phoi` |
+| 618 | [Rò phế quản–màng phổi & rò khí dai dẳng ở trẻ (van một chiều, pleurodesis, khi nào mổ)](618-ro-phe-quan-mang-phoi-va-ro-khi-dai-dang-o-tre/lesson.md) | `pattern:ro-khi` `pattern:ro-phe-quan-mang-phoi` `pattern:ro-khi-dai-dang` `vung:phoi` `vung:mang-phoi` `protocol:CT-nguc` `protocol:EBV` |
 | 620 | [Cấp cứu tiêu hóa nhi](620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/lesson.md) | `pattern:non-nhu-nhi` |
 | 622 | [Tắc ruột sơ sinh](622-tac-ruot-so-sinh/lesson.md) | `pattern:tac-ruot-so-sinh` `pattern:double-bubble` `pattern:microcolon` `vung:bung-nhi` `score:Neuhauser` `protocol:XR-contrast-enema` |
 | 623 | [Chấn thương tụy–tá tràng ở trẻ (AAST tụy I–V)](623-chan-thuong-tuy-ta-trang-nhi/lesson.md) | `pattern:chan-thuong-bung` `pattern:dut-ong-tuy` `vung:tuy-ta-trang` `score:AAST` `protocol:CT-bung-chant-thuong` |
