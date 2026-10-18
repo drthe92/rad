@@ -1,0 +1,21 @@
+# Nguồn gốc — 522 (Theo dõi sau điều trị ung thư vú)
+
+> Tổng hợp từ y văn mở (Europe PMC / PMC: Diagnostics, Cancers, Journal of Imaging, Insights into Imaging, J Cancer Res Clin Oncol, Ann Surg Oncol, Asian Pac J Cancer Prev) + hình ảnh có giấy phép. Ngày quét: 2026-10-19.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / PMC9497711 | The Usefulness of MRI for the Detection of Local Recurrence after Nipple-Sparing/Skin-Sparing Mastectomy with Immediate Reconstruction — Lee J, Kang BJ, Park GE, Kim SH, Diagnostics 2022 (286 thủ thuật; MRI Se 95,2% vs siêu âm 38,1%; tái phát không triệu chứng trung vị 21,7 tháng; sơ đồ lịch theo dõi) | https://pmc.ncbi.nlm.nih.gov/articles/PMC9497711/ | CC BY 4.0 (cho phép ghép) | `images/522_tai-phat-co-trieu-chung_US_PMC9497711.jpg`, `images/522_tai-phat-khong-trieu-chung_US_PMC9497711.jpg`, `images/522_lich-theo-doi-so-do_PMC9497711.jpg`, `images/composite_tai-phat-co-vs-khong-trieu-chung.jpg` |
+| 2 | Europe PMC / PMC12734039 | Contrast-Enhanced Mammography in Breast Cancer Follow-Up: Diagnostic Value in Suspected Recurrence — Ventura C et al., Journal of Imaging 2025 (62 tổn thương; CEM Se 90,9%/Sp 86,2%/Acc 88,7%; 88,2% ngấm là ác) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12734039/ | CC BY 4.0 | `images/522_tai-phat-DCIS-CEM_PMC12734039.jpg`, `images/522_tai-phat-tai-seo_US_PMC12734039.jpg` |
+| 3 | Europe PMC / PMC13114410 | Optimizing Abbreviated Breast MRI for Surveillance in Women with Personal History of Breast Cancer — Mun HS, Kim SH, Kang BJ, Park GE, Diagnostics 2026 (1002 người; ABMR "FAST" Se 81%/Sp 88,1–90,5%) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13114410/ | CC BY 4.0 | `images/522_tai-phat-MRI-ABMR_PMC13114410.jpg` |
+| 4 | Europe PMC / PMC12985115 | The Rationale for Postoperative MRI Surveillance in Lobular Breast Cancer — Grbanović L, Kovačević L, Smolić A, Prutki M, Cancers 2026 (u mới hay gặp hơn ở ILC; MRI phát hiện nhiều hơn nhũ ảnh) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12985115/ | CC BY 4.0 | `images/522_u-moi-MRI-MG_PMC12985115.jpg` |
+| 5 | Europe PMC / PMC12784814 | Ten-Year Follow-Up of Mammography and Ultrasonography for Detection of Locoregional Breast Cancer Recurrence in Asian Female Patients — Moon JS et al., Cancers 2025 (961 bệnh nhân; 5,8% tái phát; 6 tháng nhũ ảnh phát hiện 0 ca; 60% tái phát trong vú ở bên đối diện) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12784814/ | CC BY 4.0 | `images/522_phat-hien-theo-phuong-tien_PMC12784814.jpg` |
+| 6 | Europe PMC / PMC11021243 | Imaging for local recurrence of breast cancer — J Cancer Res Clin Oncol 2024 (1499 bệnh nhân, 11,7% tái phát; MRI Se 97,9% vs nhũ ảnh 66,3% vs siêu âm 67,8%) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11021243/ | CC BY 4.0 (chỉ trích số) | không tải (chỉ trích số) |
+| 7 | Europe PMC / PMC13499620 | Radiology Surveillance for Breast Cancer Survivors: A Systematic Review and Meta-Analysis — Icanervilia AV et al., Asian Pac J Cancer Prev 2026 (nhũ ảnh gộp Se 81%/Sp 71%/Acc 76%; giảm tử vong OR 0,50; MRI Se 91%/Sp 82%) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13499620/ | CC BY-NC | không tải (chỉ trích số) |
+| 8 | Europe PMC / PMC11413078 | Surveillance for Distant Metastasis in Breast Cancer Patients Who Underwent Contemporary Management — Cheun JH et al., Ann Surg Oncol 2024 (4130 bệnh nhân; chụp dày phát hiện sớm hơn nhưng KHÔNG cải thiện sống còn đặc hiệu) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11413078/ | CC BY 4.0 (chỉ trích số) | không tải (chỉ trích số) |
+| 9 | Europe PMC / PMC13391461 | Temporal changes in breast cancer lifetime risk and implications for personalised surveillance — Keupers M et al., Insights into Imaging 2026 (IBIS BC-LTR 23%→19%; 44% đổi nhóm nguy cơ) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13391461/ | CC BY 4.0 (chỉ trích số) | không tải (chỉ trích số) |
+| 10 | AuntMinnie | (chưa quét — đợt sau) | https://www.auntminnie.com | paywall — chỉ dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Tất cả ảnh dùng trong bài đều **CC BY 4.0** → được phép tạo tác phẩm phái sinh (composite letterbox).
+- Tên tác giả đối chiếu trực tiếp Europe PMC theo PMCID (authorString).
+- Nguồn ảnh đều qua Europe PMC (CC BY); không scrape hàng loạt Radiopaedia/Eurorad.

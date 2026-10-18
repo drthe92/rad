@@ -52,6 +52,8 @@ certainty: tong-hop-y-van
 | Vú sau điều trị: tái tạo, hoại tử mỡ & tái phát | Vú đã mổ/xạ/tái tạo & túi ngực (treated breast) | Sẹo xơ · hoại tử mỡ (nang dầu/vôi vỏ) · huyết thanh tụ · tái phát tại vú · BIA-ALCL (dịch quanh túi muộn) | **"Thành phần mỡ + lõi KHÔNG ngấm" = hoại tử mỡ (lành)**; **tái phát = MỚI/ngấm/DWI sáng, mọc lên sau giai đoạn ổn định**; **dịch quanh túi MUỘN > 1 năm + dày bao không đều = chọc tế bào (CD30+/ALK−) → BIA-ALCL**; sinh thiết lành mà khối vẫn **TO LÊN → sinh thiết LẠI** | `516` |
 | Tổn thương vú không sờ thấy: định vị & quản lý clip/kẹp | Tuyến vú (breast) — khâu nối hình ảnh với dao mổ | Wire · I-125 seed · magnetic seed · clip sau sinh thiết · bracketing · tattoo da; clip trong nạp/giường u sau NAC; hạch nách có clip | **Clip lệch ≥ 5 mm = di trú có ý nghĩa → định vị lại** (153 ca: 11,76%; **VAB 24% vs core 5,8%**); **dislocation theo loại clip 14/20/9/38%** (hydrogel cao nhất); **magnetic seed gây artifact lớn trên MRI → dùng I-125** (tương thích MRI); **I-125 4,5 mm, bán rã 59,5 ngày, di trú < 1%**, tránh nang/xuất huyết; **wire 3D thấy 91,1%**; X-quang bệnh phẩm bắt buộc | `517`, `510`, `516` |
 | Theo dõi & phát hiện TÁI PHÁT ung thư phụ khoa (Surveillance & recurrence) | Tiểu khung – phúc mạc – hạch (pelvis/peritoneum/nodes) | Tái phát tại chỗ (vòm âm đạo/chu cung) vs xơ hậu xạ · hạch di căn · carcinomatosis phúc mạc · di căn xa (gan/phổi/xương/não) · oligometastasis | **Xơ sau xạ giả u tới 6 tháng → phân biệt bằng DWI (u sống: sáng ở b cao + ADC thấp; xơ: ADC cao)**; **RECIST 1.1: PD = tăng ≥ 20% VÀ ≥ +5 mm so nadir**; **PET/CT sau điều trị Se 94,4%/Sp 97,3% nhưng PPV chỉ 76,0% (NPV 99,5%, Acc 97,0%)**; **CA-125 bình thường KHÔNG loại trừ tái phát (8/11 vẫn PET dương)**; **SCC-Ag ≥ 1,5 ng/mL** | `577`, `572`, `525` |
+| Theo dõi sau điều trị ung thư vú (Surveillance after breast cancer) | Vú (breast) | Tái phát trong vú/thành ngực · u MỚI đối bên · sẹo/hoại tử mỡ · sarcoma mạch do xạ · di căn xa | **MRI Se 97,9% > nhũ ảnh 66,3% ≈ siêu âm 67,8%; CEM Se 90,9%/Sp 86,2%**; **nhũ ảnh mốc 6 tháng phát hiện 0 ca (95% CI 0–0,38%) → bắt đầu ở 12 tháng**; **vú tái tạo: MRI Se 95,2% vs siêu âm 38,1%**; **60% tái phát trong vú ở bên ĐỐI DIỆN**; **KHÔNG chụp tầm soát di căn xa ở người không triệu chứng (không cải thiện sống còn)** | `522`, `516`, `577` |
+| Sarcoma mạch do xạ ở vú (radiation-associated angiosarcoma) | Vú/thành ngực đã xạ (irradiated breast) | RAAS vs viêm da xạ · tụ máu/huyết thanh tụ · tái phát carcinoma da · AVL lành · hoại tử mỡ | **Da tím–bầm KHÔNG tan trong trường xạ + độ trễ ≥ 3 năm (trung vị ~7 năm)**; **MYC (+) = chốt phân biệt (âm ở AVL lành)**; **nhũ ảnh bình thường tới 33%; tổn thương nhu mô chỉ 25% → đọc kỹ DA trên MRI**; **cắt rộng 5 năm OS 86% vs 46%**; tái phát tại chỗ 40–90%, trung vị 6–7 tháng | `523`, `516` |
 
 ## Bài liên quan chéo
 - [510 – BI-RADS vú](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) *(đã có)*
@@ -93,6 +95,8 @@ certainty: tong-hop-y-van
 - [548 – Nang/khối lành vùng âm hộ – âm đạo: Bartholin, Gartner & ống Nuck](../548-nang-lanh-am-ho-am-dao/lesson.md) *(đã có)*
 - [573 – Hở cổ tử cung & bán khâu: theo dõi siêu âm cổ tử cung](../573-ho-co-tu-cung-ban-khau/lesson.md) *(đã có)*
 - [577 – Theo dõi & phát hiện tái phát ung thư phụ khoa: RECIST, CA-125, PET/CT](../577-theo-doi-tai-phat-ung-thu-phu-khoa/lesson.md) *(đã có)*
+- [522 – Theo dõi sau điều trị ung thư vú: nhũ ảnh/DBT, siêu âm, MRI & CEM](../522-theo-doi-sau-dieu-tri-ung-thu-vu/lesson.md) *(đã có)*
+- [523 – Sarcoma mạch do xạ ở vú (radiation-associated angiosarcoma)](../523-sarcoma-mach-do-xa-vu/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Vú & Sản Phụ khoa (500–580)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -104,6 +108,9 @@ certainty: tong-hop-y-van
 - 514 – Ung thư vú: Phân giai đoạn TNM (AJCC/UICC 8th) & MRI/CEM đánh giá lan rộng (đa ổ *multifocal* 2–5 cm vs. đa trung tâm *multicentric* khác phần tư, thể tiểu thùy hai bên) *(đã có — [bài học](../514-ung-thu-vu-TNM-MRI-lan-rong/lesson.md))*
 - 516 – Hình ảnh vú sau điều trị: tái tạo (vạt/ghép mỡ), hoại tử mỡ (nang dầu/vôi hóa vỏ), sẹo vs tái phát, biến đổi sau xạ & BIA-ALCL (huyết thanh tụ quanh túi muộn) *(đã có — [bài học](../516-hinh-anh-vu-sau-dieu-tri/lesson.md))*
 - 517 – Sinh thiết định vị vú & quản lý clip/kẹp: wire/seed (I-125, magnetic seed, RFID), bracketing, di trú clip ≥ 5 mm, clip sau NAC & hạch nách có clip, X-quang bệnh phẩm *(đã có — [bài học](../517-sinh-thiet-dinh-vi-vu-va-quan-ly-clip/lesson.md))*
+- 522 – Theo dõi sau điều trị ung thư vú: nhũ ảnh 2D/DBT hằng năm (bắt đầu 12 tháng), siêu âm, MRI/ABMR (vú tái tạo, ILC, nguy cơ cao), CEM; ngưỡng nghi tái phát; KHÔNG tầm soát di căn xa thường quy ở người không triệu chứng *(đã có — [bài học](../522-theo-doi-sau-dieu-tri-ung-thu-vu/lesson.md))*
+- 523 – Sarcoma mạch do xạ ở vú (RAAS): vết tím–bầm không tan trong vùng xạ, độ trễ ≥ 3 năm, MYC IHC/FISH, mapping + cắt rộng, taxane tân bổ trợ; phân biệt viêm da xạ/AVL/tái phát carcinoma *(đã có — [bài học](../523-sarcoma-mach-do-xa-vu/lesson.md))*
+- 524 – Sàng lọc & quản lý nguy cơ cao ung thư vú (BRCA1/2, PALB2, TP53, xạ ngực tuổi trẻ): MRI tầm soát, giảm nguy cơ *(dự kiến — BACKLOG #128)*
 
 **520–529 — Tử cung & Cổ tử cung (Uterus & Cervix)**
 - 520 – U xơ cơ tử cung (Phân loại FIGO 0–8), Lạc nội mạc trong cơ (Adenomyosis) & Tiếp cận dày nội mạc tử cung *(đã có — [bài học](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md))*
