@@ -191,6 +191,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 538 | [Hội chứng u quái "mọc" & gliomatosis peritonei](538-hoi-chung-u-quai-moc-gliomatosis-peritonei/lesson.md) | `pattern:u-quai` `pattern:gieo-rac-phuc-mac` `vung:buong-trung` `vung:phuc-mac` `score:FIGO` `protocol:CT-bung-chau` `protocol:AFP-bHCG-LDH` |
 | 539 | [Pseudomyxoma peritonei & u nhầy ruột thừa](539-pseudomyxoma-peritonei/lesson.md) | `pattern:phuc-mac` `pattern:tien-ung-thu-nhay` `pattern:scalloping` `vung:phuc-mac` `score:PCI` `protocol:CT-bung-co-can-quang` |
 | 540 | [DIE Enzian](540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) | `score:Enzian` |
+| 543 | [Nang lạc nội mạc buồng trứng: T1 sáng + T2 shading & nguy cơ chuyển dạng](543-nang-lac-noi-mac-buong-trung/lesson.md) | `pattern:nang-t1-sang` `pattern:lac-noi-mac` `vung:buong-trung` `score:O-RADS` `protocol:MRI-chau` `incidentaloma:nang-buong-trung` |
 | 545 | [MR động học sàn chậu (sa theo khoang, đường PCL/H/M)](545-sa-san-chau-MR-defecography/lesson.md) | `pattern:sa-san-chau` `vung:tieu-khung` `score:PCL` `protocol:MR-defecography` |
 | 546 | [Loạn vận động tống phân (anismus / dyssynergic defecation)](546-loan-van-dong-tong-phan-anismus/lesson.md) | `pattern:loan-van-dong-tong-phan` `vung:tieu-khung` `vung:truc-trang-hau-mon` `score:Rao-type` `protocol:MR-defecography` `protocol:manometry` |
 | 547 | [Sa tạng chậu nữ: phân độ POP-Q & lưới nâng (mesh)](547-sa-tang-chau-nu-POP-Q-luoi-nang/lesson.md) | `pattern:sa-tang-chau` `vung:tieu-khung` `score:POP-Q` `protocol:MRI-san-chau` `protocol:luoi-nang` |
