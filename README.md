@@ -242,6 +242,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 523 | [Sarcoma mạch do xạ ở vú (radiation-associated angiosarcoma)](523-sarcoma-mach-do-xa-vu/lesson.md) | `pattern:sarcoma-mach` `pattern:vu-sau-dieu-tri` `pattern:u-tai-phat` `pattern:dam-da-sau-xa` `vung:vu` `score:BI-RADS` `protocol:MRI-vu` `protocol:PET-CT` `incidentaloma:sarcoma-do-xa` |
 | 524 | [Sàng lọc & quản lý nguy cơ cao ung thư vú (BRCA1/2, PALB2, TP53, xạ ngực tuổi trẻ)](524-sang-loc-va-quan-ly-nguy-co-cao-ung-thu-vu/lesson.md) | `pattern:khoi-vu` `vung:vu` `score:BI-RADS` `protocol:MRI-vu` `protocol:nhu-anh-DBT` `protocol:tam-soat-nguy-co-cao` `incidentaloma:ton-thuong-tam-soat` |
 | 589 | [Sinh thiết hạch gác nách & TAD sau hóa trị tân bổ trợ: clip hạch, dual tracer, OSNA](589-sinh-thiet-hach-gac-nach-targeted-axillary-dissection/lesson.md) | `pattern:hach-nach` `pattern:clip-hach` `vung:hach-nach` `vung:vu` `score:ACOSOG-Z0011` `score:AMAROS` `protocol:SLNB` `protocol:US-hach-nach` `incidentaloma:clip-di-tru` |
+| 515 | [Đánh giá đáp ứng vú sau hóa trị tân bổ trợ: MRI/CEM/siêu âm, pCR & rCR/rPR](515-dap-ung-vu-sau-hoa-tri-tan-bo-tro/lesson.md) | `pattern:vu-sau-hoa-tri` `pattern:dap-ung-pCR` `vung:vu` `score:RECIST` `protocol:MRI-vu` `protocol:CEM` `protocol:US-vu` |
 
 ## Hệ Nhi khoa (dải 600, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
