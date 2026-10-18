@@ -160,6 +160,7 @@ flowchart TD
 - [654 – Tổn thương não sơ sinh KHÔNG do ngạt (DDx HIE)](../654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md)
 - [655 – HIE sơ sinh & dị tật bẩm sinh TKTW (DWM, Chiari II, bất sản thể chai)](../655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md)
 - [656 – Bất thường tủy–cột sống kín ở trẻ](../656-bat-thuong-tuy-cot-song-nhi/lesson.md)
+- [658 – Phổ mắt–tai–cột sống (OAVS/Goldenhar) & dị tật cung mang I–II](../658-pho-oavs-goldenhar-va-cung-mang/lesson.md) (nhóm kèm biểu hiện mắt–cột sống, VACTERL)
 - [218 – Thoát vị não & úng thủy](../218-thoat-vi-nao-ung-thuy/lesson.md)
 
 ## Ảnh

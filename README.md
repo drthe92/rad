@@ -227,6 +227,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 663 | [Sarcoma phôi gan chưa biệt hóa (UESL) & u gan hiếm ở trẻ (khối giả nang)](663-sarcoma-phoi-gan-chua-biet-hoa/lesson.md) | `pattern:khoi-gan-gia-nang` `vung:gan` `score:PRETEXT` `protocol:US-CT-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |
 | 656 | [Bất thường tủy–cột sống kín ở trẻ (dị tật đôi tủy, tủy căng, u mỡ, đường rò da)](656-bat-thuong-tuy-cot-song-nhi/lesson.md) | `pattern:di-dang-tuy-cot-song` `vung:tuy-cot-song-nhi` `score:Orphanet-SBoD` `protocol:MRI-cot-song-toan-bo` `incidentaloma:u-mo-tuy` |
 | 668 | [Theo dõi dài hạn sau tháo căng tủy & bàng quang thần kinh (tái căng, urodynamics)](668-theo-doi-sau-thao-cang-tuy-bang-quang-than-kinh/lesson.md) | `pattern:bang-quang-than-kinh` `vung:tiet-nieu-nhi` `vung:tuy-cot-song-nhi` `score:VUR-ISRSC` `protocol:VUD-urodynamics` `protocol:MRI-cot-song` |
+| 658 | [Phổ mắt–tai–cột sống (OAVS/Goldenhar) & dị tật cung mang I–II](658-pho-oavs-goldenhar-va-cung-mang/lesson.md) | `pattern:di-dang-bam-sinh` `pattern:khoi-co-bam-sinh` `vung:dau-mat-co` `vung:cot-song-co` `score:OMENS` `score:Jahrsdoerfer` `protocol:CT-thai-duong` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
 | ID | Bài | Tags 4 chiều |
