@@ -187,6 +187,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 539 | [Pseudomyxoma peritonei & u nhầy ruột thừa](539-pseudomyxoma-peritonei/lesson.md) | `pattern:phuc-mac` `pattern:tien-ung-thu-nhay` `pattern:scalloping` `vung:phuc-mac` `score:PCI` `protocol:CT-bung-co-can-quang` |
 | 540 | [DIE Enzian](540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) | `score:Enzian` |
 | 545 | [MR động học sàn chậu (sa theo khoang, đường PCL/H/M)](545-sa-san-chau-MR-defecography/lesson.md) | `pattern:sa-san-chau` `vung:tieu-khung` `score:PCL` `protocol:MR-defecography` |
+| 546 | [Loạn vận động tống phân (anismus / dyssynergic defecation)](546-loan-van-dong-tong-phan-anismus/lesson.md) | `pattern:loan-van-dong-tong-phan` `vung:tieu-khung` `vung:truc-trang-hau-mon` `score:Rao-type` `protocol:MR-defecography` `protocol:manometry` |
+| 547 | [Sa tạng chậu nữ: phân độ POP-Q & lưới nâng (mesh)](547-sa-tang-chau-nu-POP-Q-luoi-nang/lesson.md) | `pattern:sa-tang-chau` `vung:tieu-khung` `score:POP-Q` `protocol:MRI-san-chau` `protocol:luoi-nang` |
 | 550 | [Thai sớm SRU](550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) | `score:SRU` |
 | 560 | [PAS](560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) | `score:PAS` |
 | 565 | [Sàng lọc hình thái thai & Doppler sản khoa](565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) | `pattern:hinh-thai` `pattern:doppler-san-khoa` `vung:thai-nhi` `score:Delphi-FGR` `protocol:SA-hinh-thai` `protocol:Doppler-san-khoa` |

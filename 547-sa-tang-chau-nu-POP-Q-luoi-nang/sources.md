@@ -1,0 +1,22 @@
+# Nguồn gốc — 547 (Sa tạng chậu nữ: POP‑Q & lưới nâng / Pelvic organ prolapse & mesh)
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / PMC10560544 (Cureus 2023, DOI 10.7759/cureus.44915) | Jha P et al., *Static and Dynamic Magnetic Resonance Imaging in Female Pelvic Floor Dysfunction: Correlation With Clinical Examination* | https://pmc.ncbi.nlm.nih.gov/articles/PMC10560544/ | **CC BY 4.0** | Fig. 1 (bản đồ POP‑Q trên MRI), Fig. 2 (PCL), Fig. 3 (cystocele), Fig. 4 (peritoneocele + lồng trực tràng) → `images/547_*PMC10560544*` + composite |
+| 2 | Europe PMC / PMC12778300 (IJU Case Rep 2026, DOI 10.1002/iju5.70135) | Tsunoda Y et al., *Vaginal Mesh Exposure Following Pessary Use After Transvaginal Mesh Surgery: A Case Report* | https://pmc.ncbi.nlm.nih.gov/articles/PMC12778300/ | **CC BY 4.0** | Fig. 1 (lộ lưới 8×10 mm + cặn) → `images/547_mesh-xoi-mon_NoiSoi_PMC12778300-Fig1.jpg` |
+| 3 | Europe PMC / PMC13360618 (J Clin Med 2026) | Yaman M, Arkan K, *Does Round‑Ligament‑Based Non‑Mesh Pectopexy Provide Durable and Effective Apical Support After Total Laparoscopic Hysterectomy?* | https://pmc.ncbi.nlm.nih.gov/articles/PMC13360618/ | **CC BY 4.0** | Fig. 1 (đường treo pectopexy) → `images/547_pectopexy-khong-luoi_Mo_PMC13360618-Fig1.jpg` |
+| 4 | Europe PMC / PMC12996193 (Case Rep Womens Health 2026) | Papastamatiou M et al., *Urethral diverticulum complicated by multiple calculi secondary to urethral mesh erosion* | https://pmc.ncbi.nlm.nih.gov/articles/PMC12996193/ | **CC BY‑NC‑ND 4.0** | Fig. 2 (sỏi quanh lưới — ảnh nguyên bản, không ghép) → `images/547_mesh-nieu-dao_Anh_PMC12996193-Fig2.jpg` |
+| 5 | Europe PMC / PMC3056425 (J Med Life 2011) | Persu C et al., *Pelvic Organ Prolapse Quantification System (POP‑Q) — a new era in pelvic prolapse staging* — định nghĩa 6 điểm + phân độ | https://pmc.ncbi.nlm.nih.gov/articles/PMC3056425/ | CC BY 2.0 | chỉ tham khảo nội dung, không tải ảnh |
+| 6 | Europe PMC / PMC10889587 (J Clin Med 2024) | Degirmenci Y et al., *Trends in Urogynecology — Transvaginal Mesh Surgery in Germany* — mốc FDA 2002/2008/2011/2016/2019 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10889587/ | CC BY | chỉ tham khảo nội dung, không tải ảnh |
+| 7 | Europe PMC / PMC13314773 (Front Surg 2026) | He J et al., *Comparison of efficacy and safety between native tissue repair and transvaginal mesh for uterine prolapse* — biến chứng TVM 30,61% vs NTR 10,81% | https://pmc.ncbi.nlm.nih.gov/articles/PMC13314773/ | CC BY 4.0 | chỉ tham khảo nội dung, không tải ảnh |
+| 8 | Europe PMC / PMC13486068 (Int Urogynecol J 2026) | Yin R et al., *Mesh Exposure After Laparoscopic Sacrocolpopexy with Concomitant Total Hysterectomy or Uterine Preservation* — 16,0% vs 3,4% | https://pmc.ncbi.nlm.nih.gov/articles/PMC13486068/ | CC BY‑NC‑ND | chỉ tham khảo nội dung, không tải ảnh |
+| 9 | Europe PMC / PMC12933507 (Cureus 2026) | Kayondo M et al., *Magnitude, Presentation, and Management of Pelvic Organ Prolapse at a Tertiary Referral Hospital* — dịch tễ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12933507/ | CC BY 4.0 | chỉ tham khảo nội dung, không tải ảnh |
+| 10 | Europe PMC / PMC13103591 (Eur Urol Open Sci 2026) | *Trifecta Outcomes after Robotic Sacrocolpopexy with Dual Mesh* — sacrocolpopexy | https://pmc.ncbi.nlm.nih.gov/articles/PMC13103591/ | CC BY‑NC‑ND | chỉ tham khảo nội dung, không tải ảnh |
+| 11 | The Radiology Assistant (RNL) | Pelvic floor — tham khảo cách đọc | https://radiologyassistant.nl/ | giáo dục — dẫn link | không tải |
+| 12 | AuntMinnie (Case of the Day) | Pelvic organ prolapse imaging | https://www.auntminnie.com | paywall — **chỉ dẫn link** | không tải |
+| 13 | Radiopaedia | rID case lẻ về cystocele / sacrocolpopexy | https://radiopaedia.org/ | CC BY‑NC‑SA (từng case) | chưa tải (ưu tiên CC BY ở trên) |
+
+## Ghi chú giấy phép
+- Ảnh dùng trong `lesson.md`: **PMC10560544 CC BY 4.0**, **PMC12778300 CC BY 4.0**, **PMC13360618 CC BY 4.0** — cho phép phối lại (ảnh ghép letterbox, không crop/kéo giãn).
+- **Ảnh CC BY‑NC‑ND (giữ nguyên, không ghép, không crop):** `547_mesh-nieu-dao_Anh_PMC12996193-Fig2.jpg` (PMC12996193).
+- Tên tác giả ghi theo bài gốc đã đối chiếu PMCID qua Europe PMC (Jha P, Tsunoda Y, Yaman M, Papastamatiou M, Persu C, Degirmenci Y, He J, Yin R, Kayondo M); không bịa tên. Bài chỉ tham khảo số liệu ghi `Tạp chí Năm (PMCID)` khi không trích tên.
