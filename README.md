@@ -96,6 +96,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 130 | [Túi mật](130-tui-mat/lesson.md) | `pattern:viem-tui-mat` |
 | 131 | [Tắc mật](131-tac-mat/lesson.md) | `pattern:tac-mat` |
 | 132 | [Hẹp đường mật không xác định & cholangioscopy](132-hop-duong-mat-khong-xac-dinh/lesson.md) | `pattern:hep-duong-mat` `vung:duong-mat` `protocol:MRCP` `protocol:cholangioscopy` `protocol:EUS-FNA` `score:IgG4` |
+| 134 | [U nhầy ruột thừa chưa vỡ (LAMN/HAMN) & gốc u nhầy bằng IHC](134-u-nhay-ruot-thua-chua-vo/lesson.md) | `pattern:gian-ruot-thua` `vung:ruot-thua` `pattern:u-nhay` `score:WHO-AMN` `protocol:CT-bung-co-can-quang` `protocol:MRI-chau` `incidentaloma:u-nhay-ruot-thua` |
 | 136 | [U/nang tụy](136-u-nang-tuy/lesson.md) | `pattern:u-tuy` |
 | 140 | [Lách & chấn thương](140-lach-tang-dac/lesson.md) | `pattern:chan-thuong-bung` |
 | 141 | [Phúc mạc](141-phuc-mac/lesson.md) | `pattern:phuc-mac` `vung:phuc-mac` `protocol:CT-bung-tiem` `incidentaloma:dich-o-bung` |
@@ -205,6 +206,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 574 | [Ung thư âm hộ & âm đạo: FIGO 2021 + hạch bẹn–đùi & SLN](574-ung-thu-am-ho-am-dao-FIGO-hach-ben/lesson.md) | `pattern:u-am-ho` `pattern:u-am-dao` `pattern:hach-ben-di-can` `vung:am-ho` `vung:am-dao` `score:FIGO-2021` `protocol:MRI-chau` `protocol:PET-CT` `protocol:SLN` |
 | 548 | [Nang/khối lành vùng âm hộ – âm đạo: Bartholin, Gartner & ống Nuck](548-nang-lanh-am-ho-am-dao/lesson.md) | `pattern:nang-am-ho` `pattern:nang-am-dao` `pattern:nang-ben` `vung:am-ho` `vung:am-dao` `vung:ben` `protocol:US-am-ho` `protocol:MRI-chau` |
 | 573 | [Hở cổ tử cung & bán khâu: theo dõi siêu âm cổ tử cung](573-ho-co-tu-cung-ban-khau/lesson.md) | `pattern:ho-co-tu-cung` `pattern:co-tu-cung-ngan` `vung:co-tu-cung` `score:CL-25mm` `protocol:TVUS-co-tu-cung` `protocol:cerclage` |
+| 577 | [Theo dõi & phát hiện tái phát ung thư phụ khoa: RECIST, CA-125, PET/CT](577-theo-doi-tai-phat-ung-thu-phu-khoa/lesson.md) | `pattern:tai-phat` `vung:tieu-khung` `vung:phuc-mac` `score:RECIST` `score:FIGO` `protocol:CT-bung-chau` `protocol:PET-CT` `protocol:MRI-tieu-khung` `incidentaloma:tai-phat-sau-dieu-tri` |
 
 ## Hệ Nhi khoa (dải 600, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |

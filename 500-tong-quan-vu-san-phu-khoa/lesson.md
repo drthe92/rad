@@ -50,6 +50,7 @@ certainty: tong-hop-y-van
 | Sàng lọc lệch bội & dấu hiệu mềm | Thai nhi (đầu–mặt–tim–thận–xương) | cFTS · NIPT · quadruple test · dấu hiệu mềm quý II · CVS/chọc ối + CMA | **NT ≥ 3,5 mm → chẩn đoán xâm lấn + CMA**; **nếp gáy ≥ 6 mm, giãn não thất ≥ 10 mm, mất xương mũi, ARSA = LR đơn độc 3,8–6,6**; **ICEF đơn độc LR 0,94 → không đổi xử trí**; NIPT âm tính không loại trừ CNV/dị tật | `567` |
 | Vú sau điều trị: tái tạo, hoại tử mỡ & tái phát | Vú đã mổ/xạ/tái tạo & túi ngực (treated breast) | Sẹo xơ · hoại tử mỡ (nang dầu/vôi vỏ) · huyết thanh tụ · tái phát tại vú · BIA-ALCL (dịch quanh túi muộn) | **"Thành phần mỡ + lõi KHÔNG ngấm" = hoại tử mỡ (lành)**; **tái phát = MỚI/ngấm/DWI sáng, mọc lên sau giai đoạn ổn định**; **dịch quanh túi MUỘN > 1 năm + dày bao không đều = chọc tế bào (CD30+/ALK−) → BIA-ALCL**; sinh thiết lành mà khối vẫn **TO LÊN → sinh thiết LẠI** | `516` |
 | Tổn thương vú không sờ thấy: định vị & quản lý clip/kẹp | Tuyến vú (breast) — khâu nối hình ảnh với dao mổ | Wire · I-125 seed · magnetic seed · clip sau sinh thiết · bracketing · tattoo da; clip trong nạp/giường u sau NAC; hạch nách có clip | **Clip lệch ≥ 5 mm = di trú có ý nghĩa → định vị lại** (153 ca: 11,76%; **VAB 24% vs core 5,8%**); **dislocation theo loại clip 14/20/9/38%** (hydrogel cao nhất); **magnetic seed gây artifact lớn trên MRI → dùng I-125** (tương thích MRI); **I-125 4,5 mm, bán rã 59,5 ngày, di trú < 1%**, tránh nang/xuất huyết; **wire 3D thấy 91,1%**; X-quang bệnh phẩm bắt buộc | `517`, `510`, `516` |
+| Theo dõi & phát hiện TÁI PHÁT ung thư phụ khoa (Surveillance & recurrence) | Tiểu khung – phúc mạc – hạch (pelvis/peritoneum/nodes) | Tái phát tại chỗ (vòm âm đạo/chu cung) vs xơ hậu xạ · hạch di căn · carcinomatosis phúc mạc · di căn xa (gan/phổi/xương/não) · oligometastasis | **Xơ sau xạ giả u tới 6 tháng → phân biệt bằng DWI (u sống: sáng ở b cao + ADC thấp; xơ: ADC cao)**; **RECIST 1.1: PD = tăng ≥ 20% VÀ ≥ +5 mm so nadir**; **PET/CT sau điều trị Se 94,4%/Sp 97,3% nhưng PPV chỉ 76,0% (NPV 99,5%, Acc 97,0%)**; **CA-125 bình thường KHÔNG loại trừ tái phát (8/11 vẫn PET dương)**; **SCC-Ag ≥ 1,5 ng/mL** | `577`, `572`, `525` |
 
 ## Bài liên quan chéo
 - [510 – BI-RADS vú](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) *(đã có)*
@@ -89,6 +90,7 @@ certainty: tong-hop-y-van
 - [574 – Ung thư âm hộ & âm đạo: FIGO 2021 + hạch bẹn–đùi & SLN](../574-ung-thu-am-ho-am-dao-FIGO-hach-ben/lesson.md) *(đã có)*
 - [548 – Nang/khối lành vùng âm hộ – âm đạo: Bartholin, Gartner & ống Nuck](../548-nang-lanh-am-ho-am-dao/lesson.md) *(đã có)*
 - [573 – Hở cổ tử cung & bán khâu: theo dõi siêu âm cổ tử cung](../573-ho-co-tu-cung-ban-khau/lesson.md) *(đã có)*
+- [577 – Theo dõi & phát hiện tái phát ung thư phụ khoa: RECIST, CA-125, PET/CT](../577-theo-doi-tai-phat-ung-thu-phu-khoa/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Vú & Sản Phụ khoa (500–580)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -142,5 +144,6 @@ certainty: tong-hop-y-van
 - 572 – Hạch trong ung thư phụ khoa: Hạch gác (SLN: ICG/⁹⁹ᵐTc + siêu phân đoạn), Hạch chậu–cạnh ĐMC trên MRI/CT/PET-CT & phân giai đoạn FIGO IIIC1/IIIC2 *(đã có — [bài học](../572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md))*
 - 574 – Ung thư âm hộ & âm đạo: FIGO 2021 (hạch ≤ 5 mm / > 5 mm / xâm lấn vỏ), MRI T2FS + DWI + DCE, hạch bẹn–đùi & sinh thiết hạch gác (GROINSS-V), PET/CT và cạm bẫy PET âm giả; âm vật bình thường giả tái phát *(đã có — [bài học](../574-ung-thu-am-ho-am-dao-FIGO-hach-ben/lesson.md))*
 - 573 – Hở cổ tử cung (cervical insufficiency) & bán khâu: ngưỡng siêu âm cổ tử cung (CL ≤ 25 mm; ≤ 20 mm progesterone; ≤ 15 mm nguy cơ cao), funnelling/trajectory, chỉ định bán khâu theo tiền sử/siêu âm/cấp cứu, số đo sau bán khâu (khoảng cách lỗ ngoài–mũi khâu), chọc ối loại trừ nhiễm trùng; song thai không lợi ích (RR 2,15) *(đã có — [bài học](../573-ho-co-tu-cung-ban-khau/lesson.md))*
+- 577 – Theo dõi & phát hiện TÁI PHÁT ung thư phụ khoa: RECIST 1.1 (PD = +20% và +5 mm), CA-125 (GCIG) & SCC-Ag ≥ 1,5 ng/mL, CT/MRI/PET-CT (Se 94,4%/PPV 76%), phân biệt xơ hậu xạ vs u sống bằng DWI, lịch theo dõi & tái phát muộn *(đã có — [bài học](../577-theo-doi-tai-phat-ung-thu-phu-khoa/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

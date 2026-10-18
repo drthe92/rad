@@ -1,0 +1,20 @@
+# Nguồn gốc — 134 (U nhầy ruột thừa chưa vỡ: LAMN/HAMN & phân biệt gốc bằng IHC)
+
+> Tổng hợp từ y văn mở (Europe PMC / PMC: BMC Gastroenterol, Jpn J Radiol, Discover Oncology, Diagnostics, Cureus, Pathol Oncol Res, Contemp Oncol). Ngày quét: 2026-10-18.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / PMC11776275 | CT features with histopathological correlation in inflammatory versus benign & malignant neoplastic appendiceal mucoceles — **Khandwala K et al.**, BMC Gastroenterol 2025 (n = 31; cắt ≤ 2,3 cm Se 71%/Sp 90%; vôi hóa thành 38,7%/92% nhóm lành; mô mềm thành → ác p = 0,01) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11776275/ | CC BY-NC-ND 4.0 (nguyên bản, không ghép) | `images/134_mucocele-ngam-thuoc_CT_PMC11776275.jpg`, `images/134_mucocele-lanh-voi-hoa_CT_PMC11776275.jpg` |
+| 2 | Europe PMC / PMC13400669 | MRI features of ovarian metastases from appendiceal tumors and primary ovarian mucinous carcinoma: a comparative study — **Kawaguchi M et al.**, Jpn J Radiol 2026 (OMAT 129 vs POMC 182 mm; vách mờ 94% vs 31%; "ô kính màu" 25% vs 72%) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13400669/ | CC BY 4.0 (cho phép ghép) | `images/134_di-can-tu-ruot-thua_MRI_PMC13400669.jpg`, `images/134_u-nhay-buong-trung-nguyen-phat_MRI_PMC13400669.jpg` |
+| 3 | Europe PMC / PMC13066059 | The clinical and pathological features of low-grade appendiceal mucinous neoplasm (LAMN) — **Hamdy O et al.**, Discover Oncology 2026 (median tuổi 55,8; 80,9% nữ; KP 7,5 cm; PMP 58,8% lúc chẩn đoán; IHC CK20/CDX2) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13066059/ | CC BY 4.0 | `images/134_IHC-CK20-CDX2_PMC13066059.jpg` |
+| 4 | Europe PMC / PMC12840484 | Beyond the Inflamed Appendix: Low-Grade Appendiceal Mucinous Neoplasm — Emphasis on Macroscopic Findings — **Csonka B et al.**, Diagnostics 2026 (siêu âm giãn nang + vôi hóa trong thành 5 cm) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12840484/ | CC BY 4.0 | `images/134_sieu-am-voi-hoa_PMC12840484.jpg` |
+| 5 | Europe PMC / PMC13300836 | Low-Grade Appendiceal Mucinous Neoplasm Presenting as an Appendiceal Mucocele: A Case Report — **Silva García M et al.**, Cureus 2026 (CT trục/vành ruột thừa giãn chứa dịch) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13300836/ | CC BY 4.0 | `images/134_mucocele-CT-truc_PMC13300836.jpg` |
+| 6 | Europe PMC / PMC12138789 | How to differentiate primary mucinous ovarian tumors from ovarian metastases originating from primary appendiceal mucinous neoplasms: a review — **Kawecka W et al.**, Pathol Oncol Res 2025 (IHC CK7/CK20/CDX2/PAX8/SATB2; ~50% nữ AMN di căn buồng trứng; PMP ~22/1.000.000/năm) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12138789/ | CC BY 4.0 (chỉ trích số) | không tải (chỉ trích số) |
+| 7 | Europe PMC / PMC13551317 | Low-grade appendiceal mucinous neoplasm vs. high-grade appendiceal mucinous neoplasm: similarities, differences, and current management challenges — **Lesiak P et al.**, Contemp Oncol 2026 (LAMN vs HAMN; vỡ = điểm ngoặt; CRS + HIPEC) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13551317/ | CC BY-NC-SA 4.0 (chỉ trích số) | không tải (chỉ trích số) |
+| 8 | Europe PMC / PMC13570431 | Synchronous Low-Grade Appendiceal Mucinous Neoplasm and Neuroendocrine Tumor Presenting as Pseudomyxoma Peritonei — **Stevens T et al.**, Cureus 2026 (ca LAMN + WDNET) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13570431/ | CC BY 4.0 (chỉ trích ca) | không tải (chỉ trích ca) |
+| 9 | AuntMinnie | (Case of the Day — chủ đề u nhầy ruột thừa/phúc mạc) | https://www.auntminnie.com | paywall — chỉ dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Ảnh **CC BY-NC-ND 4.0** (bài #1) giữ nguyên bản, **không ghép**; chỉ ảnh **CC BY 4.0** (bài #2) dùng để tạo composite.
+- **Quy tắc trung thực nguồn:** tên tác giả đối chiếu trực tiếp Europe PMC (authorString) theo PMCID. Ghi rõ giấy phép từng ảnh vào `images/CREDITS.md`.
+- **CẤM chọc hút/dẫn lưu mucocele ruột thừa** (nguy cơ gieo rắc mucin → PMP) — nguyên tắc xử trí, không phải chỉ dẫn hình ảnh.

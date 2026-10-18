@@ -32,8 +32,63 @@ certainty: tong-hop-y-van
 | Giãn quai ruột / Thâm nhiễm mỡ khu trú | Ống tiêu hóa (GI) | Viêm ruột thừa, Viêm túi thừa, Tắc ruột non (SBO), Tắc quai kín | Ruột thừa > 6 mm; Ruột non > 3 cm; Xoắn mạch (whirl) + chữ C + mất ngấm thành = Tắc quai kín thiếu máu (mổ tối khẩn) | `160`, `162` |
 | Dịch tự do ổ bụng vs Đáy ngực | Phúc mạc (peritoneum) | Cổ trướng (Ascites) vs Tràn dịch màng phổi | Dịch màng phổi đẩy chân cơ hoành ra trước (displaced crus) và len vào vùng trần của gan (bare area); Ascites thì không | `110`, `141` |
 
+## Ảnh minh họa & Blind Quiz (đọc nhanh 4 mẫu hình chủ chốt)
+> Ảnh trơn ở ngoài, dấu hiệu + chẩn đoán giấu trong thẻ bấm-mở. Mở trên Pages: tự đoán trước rồi bấm mở đáp án.
+
+**Ca 1 — BN vàng da tắc mật, MRI/MRCP:**
+
+![Ca 1 — MRI/MRCP: ống mật chủ và ống tụy giãn (dấu ống đôi)](images/100_double-duct_MRCP_PMC6532322.jpg)
+
+- Câu hỏi: Hai ống nào giãn? Đường kính? Nghĩ nhóm bệnh nào? Bước tiếp theo?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- **Dấu hiệu:** giãn đường mật trong gan + **ống mật chủ 1,5 cm** + **ống tụy đầu tụy 0,6 cm** cắt cụt cùng chỗ → **dấu ống đôi (double-duct sign)**; không thấy khối lấp lòng.
+- **Chẩn đoán (ca gốc):** u thần kinh nội tiết bóng Vater (somatostatinoma) — nhưng **dấu ống đôi là mẫu hình, không phải chẩn đoán**: gamut gồm **u đầu tụy, u bóng Vater, sỏi OMC, viêm tụy, u thần kinh nội tiết, Lemmel (túi thừa cạnh bóng)**. Bước tiếp theo: **EUS + sinh thiết/f NA**, MRCP; nếu không thấy u vẫn phải theo dõi.
+- Nguồn: **Zakaria A et al.**, Case Rep Gastrointest Med 2019 (PMC6532322), CC BY 4.0.
+</details>
+
+**Ca 2 — BN xơ gan, CT 4 thì (không cản quang → ĐM → TM cửa → muộn):**
+
+![Ca 2 — CT 4 thì gan](images/100_HCC-dong-hoc_CT_PMC5018225.jpg)
+
+- Câu hỏi: Tổn thương ở phân thùy nào? Động học bắt thuốc? Chẩn đoán theo LI-RADS?
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- **Dấu hiệu:** khối **ngấm mạnh KHÔNG đồng nhất thì ĐM** (B) rồi **thải thuốc (washout) thì TM cửa (C) và thì muộn (D)** — điển hình **HCC**.
+- **Chẩn đoán:** **ung thư biểu mô tế bào gan (HCC)** — nền xơ gan → ngấm-ĐM + thải = **LI-RADS 5**. Chi tiết: [121 – LI-RADS & HCC](../121-khoi-gan-LIRADS/lesson.md).
+- Nguồn: **Aumpansub P et al.**, ACG Case Rep J 2016 (PMC5018225), CC BY-NC-ND 4.0 (nguyên bản).
+</details>
+
+**Ca 3 — Cùng BN, thì ĐM có ổ tăng đậm độ + ổ giảm đậm độ (cạm bẫy):**
+
+![Ca 3 — CT động học: HCC không điển hình giả u mạch máu](images/100_HCC-gia-hemangioma_CT_PMC5018225.jpg)
+
+- Câu hỏi: Vì sao khối này dễ bị đọc nhầm là u mạch máu (hemangioma) lành? Dấu hiệu nào giữ đúng chẩn đoán?
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- **Dấu hiệu:** **ổ tăng đậm độ khu trú thì ĐM (canxi hóa) + ổ giảm đậm độ (mỡ)**, vùng **không ngấm (hoại tử)** và **ổ ngấm kiểu peliosis**, **vùng xơ ngấm thì MUỘN** — bắt chước u mạch máu.
+- **Chẩn đoán:** **HCC không điển hình**. Mấu chốt: **tổn thương ở BN xơ gan + có THÀNH PHẦN HOẠI TỬ/PELIOSIS + mô bệnh xác nhận**; u mạch máu thật ngấm **hướng tâm từng nốt ngoại vi** rồi đầy dần. Kết luận: **"ngấm muộn" một mình không loại trừ HCC** — cần bối cảnh + LI-RADS.
+- Nguồn: **Aumpansub P et al.**, ACG Case Rep J 2016 (PMC5018225), CC BY-NC-ND 4.0 (nguyên bản).
+</details>
+
+**Ca 4 — BN đau bụng; X-quang bụng đứng có quầng sáng dưới hoành phải:**
+
+![Ca 4 — X-quang bụng đứng (trái) vs CT (phải)](images/composite_chilaiditi-XQ-vs-CT.jpg)
+
+- Câu hỏi: "Khí tự do" này có thật là tràn khí màng phổi/màng bụng không? Dấu hiệu phân biệt?
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- **Dấu hiệu:** **quai đại tràng giãn chèn GIỮA gan và cơ hoành phải**, trong quầng sáng có **các dải haustra (ngấn đại tràng)** → **dấu Chilaiditi** (giả tràn khí màng phổi/màng bụng). CT xác nhận quai đại tràng nằm trên gan + **dấu xoáy (whirl sign)** do **xoắn đại tràng sigma** — nguyên nhân thực sự.
+- **Chốt phân biệt:** **có ngấn đại tràng trong quầng sáng = ruột, KHÔNG phải khí tự do**; tràn khí tự do thật **không có ngấn** và đẩy gan xuống. Không mổ vì "tràn khí" — nhưng phải xử trí **xoắn sigma**.
+- Nguồn: **Oljira AM et al.**, Radiol Case Rep 2026 (PMC13181245), CC BY 4.0. Ảnh ghép letterbox.
+</details>
+
 ## Bài liên quan chéo
-- [110 – Giải phẫu bụng](../110-giai-phau-bung/lesson.md) · [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) · [123 – Nang gan & bệnh gan đa nang](../123-nang-gan-va-benh-gan-da-nang/lesson.md) · [124 – Bệnh mạch máu gan](../124-benh-mach-mau-gan/lesson.md) · [131 – Tắc mật](../131-tac-mat/lesson.md) · [132 – Hẹp đường mật không xác định](../132-hop-duong-mat-khong-xac-dinh/lesson.md) · [135 – Viêm tụy](../135-viem-tuy-Atlanta/lesson.md) · [150 – Bosniak](../150-nang-than-Bosniak/lesson.md) · [151 – U thận đặc](../151-u-than-dac/lesson.md) · [153 – ACKD](../153-benh-than-nang-mac-phai-loc-mau/lesson.md) · [156 – Hội chứng di truyền u thận](../156-hoi-chung-di-truyen-u-than/lesson.md) · [155 – Thượng thận](../155-thuong-than-tinh-co/lesson.md) · [160 – Bụng cấp GI](../160-bung-cap-GI/lesson.md)
+- [110 – Giải phẫu bụng](../110-giai-phau-bung/lesson.md) · [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) · [123 – Nang gan & bệnh gan đa nang](../123-nang-gan-va-benh-gan-da-nang/lesson.md) · [124 – Bệnh mạch máu gan](../124-benh-mach-mau-gan/lesson.md) · [131 – Tắc mật](../131-tac-mat/lesson.md) · [132 – Hẹp đường mật không xác định](../132-hop-duong-mat-khong-xac-dinh/lesson.md) · [134 – U nhầy ruột thừa chưa vỡ (LAMN/HAMN) & gốc u nhầy bằng IHC](../134-u-nhay-ruot-thua-chua-vo/lesson.md) · [135 – Viêm tụy](../135-viem-tuy-Atlanta/lesson.md) · [150 – Bosniak](../150-nang-than-Bosniak/lesson.md) · [151 – U thận đặc](../151-u-than-dac/lesson.md) · [153 – ACKD](../153-benh-than-nang-mac-phai-loc-mau/lesson.md) · [156 – Hội chứng di truyền u thận](../156-hoi-chung-di-truyen-u-than/lesson.md) · [155 – Thượng thận](../155-thuong-than-tinh-co/lesson.md) · [160 – Bụng cấp GI](../160-bung-cap-GI/lesson.md)
 
 ## Quy hoạch Master Curriculum Hệ Bụng (100–180)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -56,6 +111,7 @@ certainty: tong-hop-y-van
 - 130 – Túi mật *(đã có — [bài học](../130-tui-mat/lesson.md))*
 - 131 – Tắc mật *(đã có — [bài học](../131-tac-mat/lesson.md))*
 - 132 – Hẹp đường mật không xác định & cholangioscopy *(đã có — [bài học](../132-hop-duong-mat-khong-xac-dinh/lesson.md))*
+- 134 – U nhầy ruột thừa CHƯA vỡ (LAMN/HAMN) & phân biệt gốc u nhầy ruột thừa vs buồng trứng bằng IHC *(đã có — [bài học](../134-u-nhay-ruot-thua-chua-vo/lesson.md))*
 - 135 – Viêm tụy Atlanta *(đã có — [bài học](../135-viem-tuy-Atlanta/lesson.md))*
 - 136 – U/nang tụy *(đã có — [bài học](../136-u-nang-tuy/lesson.md))*
 
