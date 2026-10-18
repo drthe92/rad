@@ -59,6 +59,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 433 | [Phù đĩa thị vs drusen](433-phu-dia-thi-drusen/lesson.md) | `pattern:phu-dia-thi` `vung:dia-thi` `score:Frisen` `protocol:OCT-dia-thi` |
 | 434 | [Bệnh TK thị do độc–chuyển hóa & LHON](434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) | `pattern:teo-thi` `vung:than-kinh-thi` `score:GCL` `protocol:OCT-thi-truong` |
 | 435 | [GCA & AAION vs NAION (cấp cứu mù > 50 tuổi)](435-gca-va-naion-aion/lesson.md) | `pattern:thieu-mau-dia-thi` `vung:than-kinh-thi` `score:ACR-EULAR-2022` `protocol:US-dong-mach-thai-duong` `protocol:TAB` |
+| 436 | [Takayasu vs GCA (viêm mạch lớn)](436-takayasu-vs-gca/lesson.md) | `pattern:day-thanh-mach` `vung:thanh-mach-lon` `score:ACR-EULAR-2022` `score:Numano` `protocol:CTA-MRA` `protocol:FDG-PET-CT` |
 | 439 | [Teo thị di truyền: DOA/OPA1 & Wolfram](439-teo-thi-di-truyen/lesson.md) | `pattern:teo-thi` `vung:than-kinh-thi` `score:GCL` `protocol:OCT-thi-truong` `protocol:MRI-hoc-mat` |
 | 401 | [Phương thức CĐHA mắt (CT/MRI/siêu âm/OCT)](401-phuong-thuc-mat/lesson.md) | `pattern:protocol-mat` `vung:mat` `protocol:CT-1mm` `protocol:MRI-hoc-mat` `protocol:sieu-am-B-scan` `protocol:OCT` |
 | 441 | [OCT hoàng điểm](441-OCT-hoang-diem/lesson.md) | `pattern:OCT` |
@@ -75,6 +76,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 452 | [Hoại tử võng mạc cấp (ARN) & CMV retinitis](452-hoai-tu-vong-mac-ARN-CMV/lesson.md) | `pattern:hoai-tu-vong-mac` `vung:vong-mac` `protocol:PCR-dich-thuy` `protocol:widefield` |
 | 453 | [Bệnh võng mạc do tăng huyết áp & bệnh máu](453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md) | `pattern:benh-vong-mac-tang-huyet-ap` `vung:vong-mac` `score:Keith-Wagener` `score:Goldberg` `protocol:soi-day-mat` |
 | 454 | [Viêm võng mạc–màng mạch ở người suy giảm miễn dịch KHÔNG HIV](454-viem-vong-mac-suy-giam-mien-dich/lesson.md) | `pattern:hoai-tu-vong-mac` `vung:vong-mac` `protocol:UWF` `protocol:PCR-dich-tien-phong` `incidentaloma:CMV-sau-ghep` |
+| 455 | [Viêm mạch hệ thống khác ở mắt: Behçet & lupus](455-behcet-lupus-mat/lesson.md) | `pattern:viem-mach-vong-mac` `vung:vong-mac` `protocol:FFA` `protocol:OCT` `protocol:OCTA` |
 | 456 | [Bệnh võng mạc trẻ sinh non (ROP)](456-benh-vong-mac-tre-sinh-non/lesson.md) | `pattern:rop` `vung:vong-mac` `score:ICROP` `protocol:sang-loc-ROP` |
 | 457 | [Bệnh "giả ROP" ở trẻ đủ tháng (FEVR, Norrie, IP, Coats)](457-benh-gia-rop-tre-du-thang/lesson.md) | `pattern:gia-rop` `pattern:tan-mach-vong-mac` `pattern:bong-vong-mac` `vung:vong-mac` `vung:tre-du-thang` `score:Shields` `protocol:WFFA` `protocol:sieu-am-B-scan` |
 | 458 | [Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị](458-di-chung-theo-doi-dai-han-sau-rop/lesson.md) | `pattern:di-chung-rop` `pattern:tai-hoat-rop` `vung:vong-mac` `score:ICROP` `protocol:theo-doi-sau-rop` |

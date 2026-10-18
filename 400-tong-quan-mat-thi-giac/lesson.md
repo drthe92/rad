@@ -27,11 +27,13 @@ certainty: tong-hop-y-van
 | Đĩa thị | Đĩa thị (disc) | Phù đĩa, drusen, IIH | Frisén 0–5; lõi tối = drusen | [433](../433-phu-dia-thi-drusen/lesson.md) |
 | Teo thị 2 bên | Thần kinh thị (optic nerve) | LHON, độc–chuyển hóa, viêm, **di truyền (DOA/Wolfram)**, chèn ép | **GCL mất sớm = LHON**; RNFL thái dương mỏng = độc chất/DOA; **teo thị + DM/điếc/ĐTĐ nhạt = Wolfram** | [434](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md), [439](../439-teo-thi-di-truyen/lesson.md) |
 | Phù đĩa thị thiếu máu cấp (> 50 tuổi) | Thần kinh thị (optic nerve) | **AAION (GCA) vs NAION** vs viêm thị, PION, CRAO | Đĩa **nhợt trắng phấn + đốm bông + 2 bên + đau hàm → GCA (cấp cứu steroid)**; đĩa **sung huyết + disc-at-risk mắt lành → NAION (không steroid)** | [435](../435-gca-va-naion-aion/lesson.md) |
+| Thành mạch lớn dày / hẹp | ĐMC & nhánh (aorta/branches) | **TAK (< 40/≤ 60) vs GCA (≥ 50)** (C-GCA/LV-GCA), aortitis nhiễm khuẩn, xơ vữa, loạn sản cơ–xơ | **"Macaroni" tăng âm = TAK** vs **"halo" giảm hồi âm = GCA**; tuổi là chốt; PET = hoạt tính viêm | [436](../436-takayasu-vs-gca/lesson.md) |
 | Tắc mạch võng mạc | Võng mạc (retina) | CRVO/BRVO, CRAO | Cherry-red + giờ vàng < 4–6 giờ | [444](../444-tac-mach-vong-mac/lesson.md) |
 | Bong võng mạc | Võng mạc (retina) | Rách, co kéo, tiết dịch, PVR | Macula-on 24 giờ; V/Y dính đĩa | [445](../445-bong-vong-mac/lesson.md) |
 | Phù hoàng điểm viêm | Hoàng điểm (macula) | Uveitic CME vs DME | Anti-VEGF thất bại 3 mũi → steroid | [446](../446-phu-hoang-diem-viem/lesson.md) |
 | Đốm trắng võng mạc | Võng mạc–hắc mạc | MEWDS, AZOOR, PIC, serpiginous | FAF đốm sáng tự khỏi vs bờ lan | [447](../447-dom-trang-vong-mac/lesson.md) |
 | Viêm hoại tử võng mạc | Võng mạc (retina) | ARN, CMV retinitis, PORN | Vitritis ↔ mức miễn dịch; PCR dịch nội nhãn | [452](../452-hoai-tu-vong-mac-ARN-CMV/lesson.md) |
+| Viêm mạch võng mạc (bệnh hệ thống) | Võng mạc (retina) | **Behçet vs lupus (SLE)**, sarcoid, ARN/CMV, lymphoma masquerade | **Vitritis + thoát thuốc "dương xỉ" trên FFA = Behçet**; **đốm bông + SLEDAI cao, ít vitritis = lupus** | [455](../455-behcet-lupus-mat/lesson.md) |
 | Viêm võng mạc–màng mạch suy giảm miễn dịch KHÔNG HIV | Võng mạc (retina) | CMV sau ghép/ung thư máu/thuốc ức chế miễn dịch | **Viêm nhiều hơn HIV** (dễ nhầm ARN); **PCR máu có thể âm** → PCR dịch tiền phòng; tái phát → tìm u lympho ẩn | [454](../454-viem-vong-mac-suy-giam-mien-dich/lesson.md) |
 | U hắc mạc | Hắc mạc (choroid) | Melanoma, nevus, di căn | Dày ≥ 2 mm + T1 sáng = melanoma | [448](../448-u-hac-mac/lesson.md) |
 | Chấn thương mắt | Nhãn cầu–hốc mắt | Vỡ nhãn cầu, IOFB | Mắt xẹp + XH dịch kính; OTS | [449](../449-chan-thuong-mat-dich-vat/lesson.md) |
@@ -59,6 +61,7 @@ certainty: tong-hop-y-van
 - [433 – Phù đĩa thị vs drusen](../433-phu-dia-thi-drusen/lesson.md) *(mới)*
 - [434 – Bệnh TK thị do độc–chuyển hóa & LHON](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) *(mới)*
 - [435 – GCA & AAION vs NAION](../435-gca-va-naion-aion/lesson.md) *(mới)*
+- [436 – Takayasu vs GCA (viêm mạch lớn)](../436-takayasu-vs-gca/lesson.md) *(mới)*
 - [439 – Teo thị di truyền: DOA/OPA1 & Wolfram](../439-teo-thi-di-truyen/lesson.md) *(mới)*
 - [441 – OCT hoàng điểm](../441-OCT-hoang-diem/lesson.md) *(mới)*
 - [442 – Glaucoma](../442-glaucoma-OCT/lesson.md) *(mới)*
@@ -74,6 +77,7 @@ certainty: tong-hop-y-van
 - [452 – Hoại tử võng mạc cấp (ARN) & CMV retinitis](../452-hoai-tu-vong-mac-ARN-CMV/lesson.md) *(mới)*
 - [453 – Bệnh võng mạc do tăng huyết áp & bệnh máu](../453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md) *(mới)*
 - [454 – Viêm võng mạc–màng mạch ở người suy giảm miễn dịch KHÔNG HIV](../454-viem-vong-mac-suy-giam-mien-dich/lesson.md) *(mới)*
+- [455 – Viêm mạch hệ thống khác ở mắt: Behçet & lupus](../455-behcet-lupus-mat/lesson.md) *(mới)*
 - [456 – Bệnh võng mạc trẻ sinh non (ROP)](../456-benh-vong-mac-tre-sinh-non/lesson.md) *(mới)*
 - [457 – Bệnh "giả ROP" ở trẻ đủ tháng: FEVR, Norrie, IP, Coats](../457-benh-gia-rop-tre-du-thang/lesson.md) *(mới)*
 - [458 – Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị](../458-di-chung-theo-doi-dai-han-sau-rop/lesson.md) *(mới)*
