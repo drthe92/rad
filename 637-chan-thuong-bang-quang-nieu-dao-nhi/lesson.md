@@ -36,7 +36,7 @@ certainty: tong-hop-y-van
 - **Chấn thương niệu đạo liên quan vỡ khung chậu (PFUI) ở trẻ** gặp **0,47–4,2%** (đa trung tâm Trung Quốc ~**2,3%**); trong loạt 68 bé trai, PFUI chiếm **69,4%** tổng số vỡ niệu đạo.
 - **Máu ở lỗ sáo (blood at meatus)** gặp **37–93%** ca chấn thương niệu đạo; kèm **không tiểu được**, **bầm máu hình cánh bướm (butterfly hematoma)** vùng đáy chậu.
 - **Chụp bàng quang cản quang ngược dòng (retrograde cystography / CT cystography)** phải bơm **tối thiểu 250 mL, đủ liều 300–400 mL** thuốc pha loãng; **thì bài tiết thụ động (excretory phase) không đủ để loại trừ vỡ**.
-- **Hệ quả dài hạn niệu đạo:** hẹp niệu đạo gần như **luôn** có sau đứt hoàn toàn nếu chỉ dẫn lưu bằng **mở dẫn lưu trên xương mu (suprapubic cystostomy, SCDU)** — **93,1%** so với **56,4%** ở nhóm **nối lại niệu đạo tiên phát (primary realignment, PR)** (p < 0,001, loạt trẻ); **90%** hẹp xuất hiện **trong vòng 1 năm** đầu.
+- **Hệ quả dài hạn niệu đạo:** hẹp niệu đạo sau đứt niệu đạo ở trẻ gặp **44,1%** (30/68). Khi chỉ dẫn lưu bằng **mở dẫn lưu trên xương mu (suprapubic cystostomy, SCDU)** so với **nối lại niệu đạo tiên phát (primary realignment, PR)**: **hẹp 51,7% vs 38,5%** (p = 0,276 — *không* khác biệt có ý nghĩa), còn **nhiễm trùng niệu sau mổ 93,1% vs 56,4%** (p < 0,001 — đây mới là khác biệt rõ, KHÔNG phải hẹp) (Cui K et al., BMC Pediatr 2025, PMC11969931). **90%** hẹp xuất hiện **trong vòng 1 năm** đầu.
 
 ## 2. Mẫu hình + chẩn đoán phân biệt theo vị trí (gamut)
 
