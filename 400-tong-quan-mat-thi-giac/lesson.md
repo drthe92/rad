@@ -120,6 +120,7 @@ certainty: tong-hop-y-van
 - 436 – Takayasu vs GCA (viêm mạch lớn): phân biệt tuổi + thành mạch, Numano *(đã có — [bài học](../436-takayasu-vs-gca/lesson.md))*
 - 438 – Theo dõi dài hạn GCA & biến chứng mạch lớn: aortitis, phình/tách thành ĐMC, corticoid *(đã có — [bài học](../438-theo-doi-dai-han-gca-bien-chung-mach-lon/lesson.md))*
 - 439 – Teo thị di truyền: DOA/OPA1 & Wolfram *(đã có — [bài học](../439-teo-thi-di-truyen/lesson.md))*
+- 440 – Theo dõi & điều trị teo thị di truyền: idebenone, gene therapy & phục hồi chức năng *(đã có — [bài học](../440-theo-doi-dieu-tri-teo-thi-di-truyen/lesson.md))*
 
 **440–449 — Võng mạc, hoàng điểm & glaucoma (OCT)**
 - 441 – OCT hoàng điểm *(đã có — [bài học](../441-OCT-hoang-diem/lesson.md))*
