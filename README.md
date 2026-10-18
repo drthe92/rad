@@ -122,6 +122,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 165 | [Dày thành ruột: Crohn vs K đại-trực tràng](165-day-thanh-ruot/lesson.md) | `pattern:day-thanh-ruot` `vung:ruot` `protocol:CT-MR-enterography` |
 | 170 | [Phình ĐMC](170-phinh-DMC-bung/lesson.md) | `pattern:phinh-DMC` |
 | 175 | [Chèn ép mạch](175-chen-ep-mach/lesson.md) | `pattern:chen-ep-mach` |
+| 176 | [TIPS/DIPS: chỉ định, kỹ thuật & theo dõi shunt](176-tips-dips-theo-doi-shunt/lesson.md) | `pattern:shunt-cua-chu` `vung:gan` `vung:mach-cua` `score:PPG` `protocol:Doppler-sieu-am` `protocol:DSA-do-ap-luc` |
 | 121 | [LI-RADS & HCC](121-khoi-gan-LIRADS/lesson.md) | `score:LI-RADS` |
 | 135 | [Viêm tụy Atlanta](135-viem-tuy-Atlanta/lesson.md) | `score:Atlanta` |
 | 150 | [Bosniak & u thận](150-nang-than-Bosniak/lesson.md) | `score:Bosniak` |
