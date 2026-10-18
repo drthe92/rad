@@ -182,11 +182,13 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 519 | [Adenosarcoma tử cung & polyp nội mạc: khối trong buồng tử cung giả polyp](519-adenosarcoma-tu-cung-va-polyp-noi-mac/lesson.md) | `pattern:khoi-long-tu-cung` `pattern:u-gia-polyp` `vung:tu-cung` `score:ADC` `protocol:MRI-tieu-khung` `protocol:sieu-am-dau-do` |
 | 528 | [Dị dạng tử cung bẩm sinh](528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md) | `pattern:di-dang-tu-cung` `vung:tu-cung` `score:ESHRE-ESGE` `score:ASRM` `protocol:MRI-tu-cung` `protocol:3D-TVUS` |
 | 529 | [Cổ tử cung & âm đạo bẩm sinh: dị dạng tắc nghẽn (C0–C4/V0–V4)](529-co-tu-cung-am-dao-bam-sinh-tac-nghen/lesson.md) | `pattern:di-dang-co-tu-cung-am-dao` `vung:am-dao` `score:ESHRE-ESGE` `protocol:MRI-tieu-khung` `protocol:sieu-am-tieu-khung` |
-| 530 | [Phần phụ O-RADS](530-buong-trung-ORADS-sieu-am-MRI/lesson.md) | `score:O-RADS` |
+| 530 | [Phần phụ O-RADS (US/MRI), dermoid, endometrioma, fibroma & xoắn](530-buong-trung-ORADS-sieu-am-MRI/lesson.md) | `pattern:khoi-buong-trung` `vung:buong-trung` `score:O-RADS` `protocol:MRI-chau` |
+| 533 | [Theo dõi dài hạn & bảo tồn sinh sản sau u tế bào mầm buồng trứng](533-theo-doi-va-bao-ton-sinh-san-sau-u-buong-trung/lesson.md) | `pattern:u-buong-trung` `pattern:u-mam` `vung:buong-trung` `score:FIGO` `protocol:CT-bung-chau` `protocol:AFP-bHCG-LDH` `protocol:bao-ton-sinh-san` |
 | 535 | [Ung thư buồng trứng, phúc mạc & u Krukenberg](535-ung-thu-buong-trung-phuc-mac-krukenberg/lesson.md) | `pattern:k-u-buong-trung` `vung:phuc-mac` `score:FIGO` `score:PCI` |
 | 536 | [U mầm & u mô đệm–dây sinh dục buồng trứng](536-u-mam-u-mo-dem-buong-trung/lesson.md) | `pattern:u-buong-trung` `vung:buong-trung` `score:FIGO` `protocol:MRI-chau` `protocol:CT-chau` |
 | 534 | [Rối loạn phát triển giới 46,XY (Swyer) & gonadoblastoma–dysgerminoma](534-roi-loan-phat-trien-gioi-gonadoblastoma/lesson.md) | `pattern:u-buong-trung` `vung:buong-trung` `score:FIGO` `protocol:MRI-chau` `anatomy:gonad` |
 | 537 | [U buồng trứng giáp biên (borderline)](537-u-buong-trung-giap-bien/lesson.md) | `pattern:u-buong-trung` `pattern:u-giap-bien` `vung:buong-trung` `score:O-RADS` `protocol:MRI-chau` |
+| 538 | [Hội chứng u quái "mọc" & gliomatosis peritonei](538-hoi-chung-u-quai-moc-gliomatosis-peritonei/lesson.md) | `pattern:u-quai` `pattern:gieo-rac-phuc-mac` `vung:buong-trung` `vung:phuc-mac` `score:FIGO` `protocol:CT-bung-chau` `protocol:AFP-bHCG-LDH` |
 | 539 | [Pseudomyxoma peritonei & u nhầy ruột thừa](539-pseudomyxoma-peritonei/lesson.md) | `pattern:phuc-mac` `pattern:tien-ung-thu-nhay` `pattern:scalloping` `vung:phuc-mac` `score:PCI` `protocol:CT-bung-co-can-quang` |
 | 540 | [DIE Enzian](540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md) | `score:Enzian` |
 | 545 | [MR động học sàn chậu (sa theo khoang, đường PCL/H/M)](545-sa-san-chau-MR-defecography/lesson.md) | `pattern:sa-san-chau` `vung:tieu-khung` `score:PCL` `protocol:MR-defecography` |
