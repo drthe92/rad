@@ -41,6 +41,7 @@ certainty: tong-hop-y-van
 | U mạch máu gan ở trẻ & điều trị nội khoa (IHH/CHH) | Gan (liver) | U mạch máu nhũ nhi (IHH — GLUT-1 dương, đáp ứng propranolol), U mạch máu bẩm sinh (CHH: RICH/NICH — GLUT-1 âm, thường kháng propranolol), Hepatoblastoma, U mô đệm lành, Di căn gan | **Đã có đủ lúc sinh + không tăng = CHH; xuất hiện/tăng sau sinh + GLUT-1 dương + ngấm viền nốt → đầy dần = IHH**; thể **lan tỏa** phải soát **suy tim cung lượng cao (shunt) + suy giáp tiêu thụ (D3) + thiếu máu/khoang bụng**; **propranolol đầu tay (± prednisone), thêm sirolimus/nút mạch/ghép gan khi kháng trị** | `667`, `665` |
 | Bất thường tủy–cột sống kín (Closed spinal dysraphism) | Tủy sống – cột sống (spinal cord) | Dị tật đôi tủy (SCM I/II), Tủy căng (tethered cord/tight–fatty filum), U mỡ tủy (lipoma/lipomyelocele), Đường rò da (dermal sinus), Ống tủy rỗng (syringomyelia) | **Chóp tủy dưới L2 + dây tận cùng > 2 mm/T1 sáng = tủy căng**; **T1 sáng như mỡ từ da vào ống sống = u mỡ**; **hai bao màng cứng + gai xương = SCM type I**, **một bao + vách xơ = type II**; **đường hầm da → ống sống = đường rò da (viêm màng não tái diễn, cắt sớm)** | `656` |
 | Dị tật hố sau khác (Joubert & rhombencephalosynapsis) | Hố sau – tiểu não (posterior fossa) | Joubert syndrome (ciliopathy), Rhombencephalosynapsis, Dandy-Walker, Thiểu sản sâu tiểu não, Bể lớn sau khổng lồ, Poretti-Boltshauser (LAMA1) | **Axial T2 ngã ba đồi–cầu: cuống tiểu não trên dày nằm NGANG + hố liên cuống sâu + thiểu sản sâu = dấu răng hàm (Joubert)**; **folia tiểu não liên tục qua đường giữa + mất sâu não = rhombencephalosynapsis**; bể lớn sau to + não thất IV dạng nang + lều nâng cao = Dandy-Walker; **không kết luận thiểu sản sâu trước tuần 18**; Joubert ~80% liệt vận nhãn, ~20–30% loạn dưỡng võng mạc | `657` |
+| Theo dõi dài hạn sau tháo căng tủy & bàng quang thần kinh (retethering & neurogenic bladder) | Tủy sống – bàng quang – đường tiết niệu trên | Tái căng tủy (retethering), Bàng quang thần kinh áp lực cao (NB/NLUTD), VUR, Ứ nước thận – mỏng nhu mô, Sẹo thận | **Áp lực bàng quang > 40 cm H₂O khi chứa/rò = bàng quang đe dọa đường trên**; tái căng **tăng ~3,2%/năm, tới 57% ở 18 năm** (cần so phim nền + UDS); **VUR có ở tới 1/3 trẻ NB**; siêu âm động: **bể thận ≥ 5 mm / niệu quản xa ≥ 6,5 mm** gợi ý VUR độ cao; mỏng nhu mô Sp 94,4% nhưng Se chỉ 40,9% | `668` |
 
 ## Bài liên quan chéo
 - [610 – Suy hô hấp sơ sinh](../610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md) *(đã có)*
@@ -70,6 +71,7 @@ certainty: tong-hop-y-van
 - [667 – U mạch máu gan ở trẻ & điều trị nội khoa (suy tim cung lượng cao, propranolol)](../667-u-mach-mau-gan-o-tre-va-dieu-tri/lesson.md) *(đã có)*
 - [656 – Bất thường tủy–cột sống kín ở trẻ (dị tật đôi tủy, tủy căng, u mỡ, đường rò da)](../656-bat-thuong-tuy-cot-song-nhi/lesson.md) *(đã có)*
 - [657 – Dị tật hố sau: Joubert (dấu răng hàm) & rhombencephalosynapsis](../657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) *(đã có)*
+- [668 – Theo dõi dài hạn sau tháo căng tủy & bàng quang thần kinh (tái căng, urodynamics, bảo tồn chức năng thận)](../668-theo-doi-sau-thao-cang-tuy-bang-quang-than-kinh/lesson.md) *(đã có)*
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) (retinoblastoma vs Coats)
 
 ## Quy hoạch Master Curriculum Hệ Nhi khoa (600–670)
@@ -112,5 +114,8 @@ certainty: tong-hop-y-van
 - 656 – Bất thường tủy – cột sống kín ở trẻ: Dị tật đôi tủy (SCM type I gai xương / type II vách xơ), Tủy căng (chóp tủy dưới L2, dây tận cùng > 2 mm/mỡ), U mỡ tủy (lipomyelocele), Đường rò da (dermal sinus) & Ống tủy rỗng *(đã có — [bài học](../656-bat-thuong-tuy-cot-song-nhi/lesson.md))*
 - 657 – Dị tật hố sau khác: Joubert (dấu răng hàm *molar tooth sign*) & Rhombencephalosynapsis (folia tiểu não hợp nhất đường giữa), kèm nhóm kèm biểu hiện mắt–cột sống (Gomez-López-Hernández, VACTERL) *(đã có — [bài học](../657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md))*
 - 652 – Đột quỵ động mạch & bệnh mạch máu não ở trẻ: Moyamoya (Suzuki I–VI, ivy sign, ASL/CVR), FCA (FCASS), viêm mạch, bóc tách, CVST & đột quỵ chu sinh — **MRI DWI/ADC + MRA/MRV là bắt buộc** *(đã có — [bài học](../652-dot-quy-mach-mau-nao-nhi-moyamoya-viem-mach/lesson.md))*
+
+**650–669 (tiếp) — Cột sống – Tiết niệu Nhi (theo dõi dài hạn)**
+- 668 – Theo dõi dài hạn sau tháo căng tủy & bàng quang thần kinh: tái căng (retethering — so phim nền, ~3,2%/năm tới 57% ở 18 năm), urodynamics/video-urodynamics (áp lực > 40 cm H₂O = bàng quang đe dọa), VUR (ISRSC I–V) & bảo tồn chức năng thận (siêu âm động RPD ≥ 5 mm, DMSA sẹo thận) *(đã có — [bài học](../668-theo-doi-sau-thao-cang-tuy-bang-quang-than-kinh/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

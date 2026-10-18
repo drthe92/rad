@@ -1,0 +1,24 @@
+# Nguồn gốc — 668-theo-doi-sau-thao-cang-tuy-bang-quang-than-kinh
+
+> Theo dõi dài hạn sau tháo căng tủy & bàng quang thần kinh ở trẻ: tái căng (MRI), urodynamics, bảo tồn chức năng thận (siêu âm/VCUG/DMSA). Ngày quét: 2026-10-18. Kiểm chứng giấy phép từng ảnh trước khi tải.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / Diseases (MDPI) | Sič A, Stojanović B, Đorđević M. Neurogenic Bladder in Children with Myelomeningocele. Diseases 2025;13(4):117 (PMC12025530) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12025530/ | CC BY 4.0 | Số liệu áp lực (normal < 10–15, > 40 cm H₂O; VUD vàng) — không dùng ảnh |
+| 2 | Europe PMC / J Korean Neurosurg Soc | Lee JY, Kim KH, Park K, Wang KC. Retethering: A Neurosurgical Viewpoint. 2020;63(2):205-214 (PMC7218204) | https://pmc.ncbi.nlm.nih.gov/articles/PMC7218204/ | CC BY-NC 4.0 | Số liệu tái căng (15%/30%/57%, 3,2%/năm, 7,4% sau 15 tuổi) — không dùng ảnh |
+| 3 | Europe PMC / Int Braz J Urol | da Silva CMP et al. Dynamic and static ultrasound features predictive of VUR and renal damage in children and adolescents with neurogenic bladder. 2023;49(6):700-714 (PMC10947619) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10947619/ | CC BY 4.0 | Số liệu siêu âm động–tĩnh (RPD 5 mm, niệu quản xa 6,5 mm, Se 92,9%/NPV 94,8%, mỏng nhu mô Se 40,9%/Sp 94,4%) — không dùng ảnh |
+| 4 | Europe PMC / Sci Rep | Wang J et al. Multi-modal ultrasound for evaluating structure and function of neurogenic bladder in pediatrics. 2026 (PMC12890931) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12890931/ | CC BY-NC-ND 4.0 | `images/668_bang-quang-than-kinh_US_PMC12890931-F4-binh-thuong-CCBYNCND.jpg`, `...F5-NB-...jpg` (nguyên bản) |
+| 5 | Europe PMC / Brain Sci | Lee CO, Lee KS, Yang SH. Microsurgical Untethering of Pediatric Lipomyelomeningocele: A Stepwise, Photo-Illustrated Technical Note. 2026 (PMC13406741) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13406741/ | CC BY 4.0 | `images/668_bang-quang-than-kinh_MRI_PMC13406741-F1-tethered-CCBY.jpg`, `...F17-postop-...jpg` |
+| 6 | Europe PMC / J Med Case Rep | Yuri P et al. A renal aplasia case mimicking radiologically as unilateral renal agenesis in a child with spina bifida, atresia ani... 2024 (PMC10811896) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10811896/ | CC BY 4.0 | `images/668_bang-quang-than-kinh_VCUG_PMC10811896-F1-VUR5-CCBY.jpg` |
+| 7 | Europe PMC / Case Rep Urol | Alkeraithe F et al. Urofacial Syndrome, an Expressive and Unmasking Sign of Voiding Dysfunction: Case Report and Review. 2025 (PMC12431806) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12431806/ | CC BY 4.0 | `images/668_bang-quang-than-kinh_US_PMC12431806-F2-trabeculation-CCBY.jpg`, `...F4-hydronephrosis-...jpg` |
+| 8 | Europe PMC / Tzu Chi Med J | Jiang YH, Chen SF, Kuo HC. Role of videourodynamic study in precision diagnosis and treatment for lower urinary tract dysfunction. 2020;32(2):121-130 (PMC7137365) | https://pmc.ncbi.nlm.nih.gov/articles/PMC7137365/ | CC BY-NC-SA 4.0 | `images/668_bang-quang-than-kinh_VUDS_PMC7137365-F5-MMC-CCBYNCSA.jpg` (nguyên bản) |
+| 9 | Europe PMC / Saudi Med J | Al-Hazmi HH et al. Uronephrological outcomes of patients with neural tube defects. Does a spina bifida clinic make a difference? 2014;35(Suppl 1):S64-S70 (PMC4362106) | https://pmc.ncbi.nlm.nih.gov/articles/PMC4362106/ | CC BY-NC-SA 4.0 | `images/668_bang-quang-than-kinh_Schema_PMC4362106-F1-theo-doi-CCBYNCSA.jpg` (nguyên bản) |
+| 10 | Europe PMC / Int Neurourol J | Zhong P et al. Risk Assessment for Upper Urinary Tract Deterioration in Patients With Neurogenic Bladder: A Retrospective Study Using Machine Learning. 2026 (PMC13643472) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13643472/ | CC BY-NC 4.0 | Số liệu yếu tố nguy cơ UUTD (quản lý bàng quang + DSDS; AUC 0,868–0,878) — không dùng ảnh |
+| 11 | Europe PMC / Adv Ther | Izumi N, Kitta T, Mitsui T. Importance of Regular Examination and Follow-up in Pediatric Patients with Neurogenic Bladder: 24-Month Follow-up Study. 2023 (PMC10611833) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10611833/ | CC BY-NC 4.0 | Bối cảnh theo dõi (siêu âm/urodynamics được làm ít hơn khuyến cáo) — không dùng ảnh |
+| 12 | Radiopaedia | Bàng quang thần kinh / tủy căng (index) | https://radiopaedia.org/search?q=neurogenic+bladder | CC BY-NC-SA (từng ca) | dẫn link — không scrape |
+| 13 | AuntMinnie | Neurogenic bladder — Case of the Day | https://www.auntminnie.com/ | paywall | không tải, chỉ dẫn link |
+
+## Ghi chú giấy phép
+- **CC BY 4.0** (PMC12025530, PMC10947619, PMC13406741, PMC10811896, PMC12431806): dùng/ghép được khi ghi nguồn.
+- **CC BY-NC-ND 4.0** (PMC12890931) và **CC BY-NC-SA 4.0** (PMC7137365, PMC4362106): **giữ nguyên bản, không crop/ghép**; chỉ ghép ảnh CC BY.
+- Ghi rõ từng ảnh vào `images/CREDITS.md`. Tác giả ghi theo `authorString` đối chiếu trực tiếp PMCID qua Europe PMC.

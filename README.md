@@ -225,6 +225,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 665 | [Khối u gan ở trẻ em (hepatoblastoma, hemangioma, hamartoma, HCC)](665-khoi-u-gan-nhi/lesson.md) | `pattern:khoi-gan-nhi` `vung:gan` `score:PRETEXT` `protocol:US-CT-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |
 | 667 | [U mạch máu gan ở trẻ & điều trị nội khoa (suy tim cung lượng cao, propranolol, rò shunt)](667-u-mach-mau-gan-o-tre-va-dieu-tri/lesson.md) | `pattern:khoi-gan-nhi` `vung:gan` `score:ISSVA` `protocol:US-Doppler-CEUS-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |
 | 656 | [Bất thường tủy–cột sống kín ở trẻ (dị tật đôi tủy, tủy căng, u mỡ, đường rò da)](656-bat-thuong-tuy-cot-song-nhi/lesson.md) | `pattern:di-dang-tuy-cot-song` `vung:tuy-cot-song-nhi` `score:Orphanet-SBoD` `protocol:MRI-cot-song-toan-bo` `incidentaloma:u-mo-tuy` |
+| 668 | [Theo dõi dài hạn sau tháo căng tủy & bàng quang thần kinh (tái căng, urodynamics)](668-theo-doi-sau-thao-cang-tuy-bang-quang-than-kinh/lesson.md) | `pattern:bang-quang-than-kinh` `vung:tiet-nieu-nhi` `vung:tuy-cot-song-nhi` `score:VUR-ISRSC` `protocol:VUD-urodynamics` `protocol:MRI-cot-song` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
 | ID | Bài | Tags 4 chiều |
