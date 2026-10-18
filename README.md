@@ -223,6 +223,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 652 | [Đột quỵ & bệnh mạch máu não ở trẻ (moyamoya, FCA, viêm mạch, CVST)](652-dot-quy-mach-mau-nao-nhi-moyamoya-viem-mach/lesson.md) | `pattern:hep-tac-mach` `pattern:nhoi-mau-nao` `vung:nao-nhi` `score:Suzuki` `score:FCASS` `protocol:MRA-ASL` |
 | 655 | [HIE sơ sinh & dị tật bẩm sinh hệ thần kinh](655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md) | `pattern:hie-dwi` `pattern:di-dang-ho-sau` `pattern:bat-san-the-chai` `vung:nao-nhi` `score:Sarnat` `score:TVA` `protocol:MRI-nao-so-sinh` |
 | 665 | [Khối u gan ở trẻ em (hepatoblastoma, hemangioma, hamartoma, HCC)](665-khoi-u-gan-nhi/lesson.md) | `pattern:khoi-gan-nhi` `vung:gan` `score:PRETEXT` `protocol:US-CT-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |
+| 667 | [U mạch máu gan ở trẻ & điều trị nội khoa (suy tim cung lượng cao, propranolol, rò shunt)](667-u-mach-mau-gan-o-tre-va-dieu-tri/lesson.md) | `pattern:khoi-gan-nhi` `vung:gan` `score:ISSVA` `protocol:US-Doppler-CEUS-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |
 | 656 | [Bất thường tủy–cột sống kín ở trẻ (dị tật đôi tủy, tủy căng, u mỡ, đường rò da)](656-bat-thuong-tuy-cot-song-nhi/lesson.md) | `pattern:di-dang-tuy-cot-song` `vung:tuy-cot-song-nhi` `score:Orphanet-SBoD` `protocol:MRI-cot-song-toan-bo` `incidentaloma:u-mo-tuy` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
