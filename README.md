@@ -285,6 +285,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 668 | [Theo dõi dài hạn sau tháo căng tủy & bàng quang thần kinh (tái căng, urodynamics)](668-theo-doi-sau-thao-cang-tuy-bang-quang-than-kinh/lesson.md) | `pattern:bang-quang-than-kinh` `vung:tiet-nieu-nhi` `vung:tuy-cot-song-nhi` `score:VUR-ISRSC` `protocol:VUD-urodynamics` `protocol:MRI-cot-song` |
 | 658 | [Phổ mắt–tai–cột sống (OAVS/Goldenhar) & dị tật cung mang I–II](658-pho-oavs-goldenhar-va-cung-mang/lesson.md) | `pattern:di-dang-bam-sinh` `pattern:khoi-co-bam-sinh` `vung:dau-mat-co` `vung:cot-song-co` `score:OMENS` `score:Jahrsdoerfer` `protocol:CT-thai-duong` |
 | 659 | [Thiểu sản cầu–tiểu não (PCH/PHSD) & loạn dưỡng chất trắng giảm myelin POLR3B](659-thieu-san-cau-tieu-nao-pch-polr3b/lesson.md) | `pattern:thieu-san-cau-tieu-nao` `pattern:giam-myelin` `pattern:dragonfly` `pattern:figure-of-8` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
+| 645 | [Vỡ khung chậu ở trẻ (Tile/AO, Young–Burgess, WSES, kiểm soát chảy máu)](645-vo-khung-chau-o-tre/lesson.md) | `pattern:vo-khung-chau` `pattern:chan-thuong-bung` `vung:khung-chau-nhi` `score:Tile-AO` `score:Young-Burgess` `score:WSES` `protocol:CT-bung-chau-can-quang` `protocol:pelvic-binder` `protocol:nut-mach` |
+| 643 | [Chấn thương đáy chậu – sinh dục ngoài ở trẻ (máu tụ âm hộ, rách âm đạo, vỡ khung chậu mở)](643-chan-thuong-day-chau-sinh-duc-nhi/lesson.md) | `pattern:chan-thuong-day-chau` `pattern:mau-tu-am-ho` `pattern:rach-am-dao` `pattern:khung-chau-mo` `vung:day-chau-nhi` `vung:sinh-duc-nhi` `score:WSES-open-pelvic` `protocol:CT-bung-chau-can-quang` `protocol:CTA-nut-mach` `protocol:US-day-chau` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
 | ID | Bài | Tags 4 chiều |
