@@ -161,6 +161,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 370 | [Nhiễm trùng MSK](370-nhiem-trung-msk/lesson.md) | `pattern:nhiem-trung-msk` |
 | 375 | [U phần mềm](375-u-phan-mem/lesson.md) | `pattern:u-phan-mem` |
 | 376 | [U phần mềm KHÔNG mỡ: schwannoma vs sarcoma myxoid / u bao hoạt dịch](376-u-phan-mem-khong-mo/lesson.md) | `pattern:u-phan-mem` `pattern:u-than-kinh-ngoai-vi` `vung:mo-mem` `score:ADC` `protocol:MRI-mo-mem` |
+| 377 | [U dây thần kinh dạng đám rối & chuyển dạng MPNST ở NF1](377-u-than-kinh-dang-dam-roi-va-mpnst-nf1/lesson.md) | `pattern:u-than-kinh-ngoai-vi` `pattern:u-phan-mem` `pattern:dam-roi-than-kinh` `vung:mo-mem` `score:ADC` `score:SUVmax` `protocol:WB-MRI` `protocol:PET-CT` |
 
 ## Hệ Vú & Sản Phụ khoa (dải 500, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
@@ -228,6 +229,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 656 | [Bất thường tủy–cột sống kín ở trẻ (dị tật đôi tủy, tủy căng, u mỡ, đường rò da)](656-bat-thuong-tuy-cot-song-nhi/lesson.md) | `pattern:di-dang-tuy-cot-song` `vung:tuy-cot-song-nhi` `score:Orphanet-SBoD` `protocol:MRI-cot-song-toan-bo` `incidentaloma:u-mo-tuy` |
 | 668 | [Theo dõi dài hạn sau tháo căng tủy & bàng quang thần kinh (tái căng, urodynamics)](668-theo-doi-sau-thao-cang-tuy-bang-quang-than-kinh/lesson.md) | `pattern:bang-quang-than-kinh` `vung:tiet-nieu-nhi` `vung:tuy-cot-song-nhi` `score:VUR-ISRSC` `protocol:VUD-urodynamics` `protocol:MRI-cot-song` |
 | 658 | [Phổ mắt–tai–cột sống (OAVS/Goldenhar) & dị tật cung mang I–II](658-pho-oavs-goldenhar-va-cung-mang/lesson.md) | `pattern:di-dang-bam-sinh` `pattern:khoi-co-bam-sinh` `vung:dau-mat-co` `vung:cot-song-co` `score:OMENS` `score:Jahrsdoerfer` `protocol:CT-thai-duong` |
+| 659 | [Thiểu sản cầu–tiểu não (PCH/PHSD) & loạn dưỡng chất trắng giảm myelin POLR3B](659-thieu-san-cau-tieu-nao-pch-polr3b/lesson.md) | `pattern:thieu-san-cau-tieu-nao` `pattern:giam-myelin` `pattern:dragonfly` `pattern:figure-of-8` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
 | ID | Bài | Tags 4 chiều |
