@@ -28,6 +28,7 @@ certainty: tong-hop-y-van
 | Teo thị 2 bên | Thần kinh thị (optic nerve) | LHON, độc–chuyển hóa, viêm, **di truyền (DOA/Wolfram)**, chèn ép | **GCL mất sớm = LHON**; RNFL thái dương mỏng = độc chất/DOA; **teo thị + DM/điếc/ĐTĐ nhạt = Wolfram** | [434](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md), [439](../439-teo-thi-di-truyen/lesson.md) |
 | Phù đĩa thị thiếu máu cấp (> 50 tuổi) | Thần kinh thị (optic nerve) | **AAION (GCA) vs NAION** vs viêm thị, PION, CRAO | Đĩa **nhợt trắng phấn + đốm bông + 2 bên + đau hàm → GCA (cấp cứu steroid)**; đĩa **sung huyết + disc-at-risk mắt lành → NAION (không steroid)** | [435](../435-gca-va-naion-aion/lesson.md) |
 | Thành mạch lớn dày / hẹp | ĐMC & nhánh (aorta/branches) | **TAK (< 40/≤ 60) vs GCA (≥ 50)** (C-GCA/LV-GCA), aortitis nhiễm khuẩn, xơ vữa, loạn sản cơ–xơ | **"Macaroni" tăng âm = TAK** vs **"halo" giảm hồi âm = GCA**; tuổi là chốt; PET = hoạt tính viêm | [436](../436-takayasu-vs-gca/lesson.md) |
+| Biến chứng mạch lớn GCA / aortitis | ĐMC & nhánh (aorta/branches) | **Theo dõi dài hạn**: phình/tách thành ĐMC ngực, hẹp mạch, aortitis nhiễm khuẩn (loại trừ), hở van ĐMC | **Hoạt tính (FDG-PET, đảo ngược) tách rời tổn hại cấu trúc (CTA/MRA, tiến triển)**; **hết viêm KHÔNG hết nguy cơ**; ĐMC ngực HR 13,46; GC tích lũy = độc tính | [438](../438-theo-doi-dai-han-gca-bien-chung-mach-lon/lesson.md) |
 | Tắc mạch võng mạc | Võng mạc (retina) | CRVO/BRVO, CRAO | Cherry-red + giờ vàng < 4–6 giờ | [444](../444-tac-mach-vong-mac/lesson.md) |
 | Bong võng mạc | Võng mạc (retina) | Rách, co kéo, tiết dịch, PVR | Macula-on 24 giờ; V/Y dính đĩa | [445](../445-bong-vong-mac/lesson.md) |
 | Phù hoàng điểm viêm | Hoàng điểm (macula) | Uveitic CME vs DME | Anti-VEGF thất bại 3 mũi → steroid | [446](../446-phu-hoang-diem-viem/lesson.md) |
@@ -35,6 +36,7 @@ certainty: tong-hop-y-van
 | Viêm hoại tử võng mạc | Võng mạc (retina) | ARN, CMV retinitis, PORN | Vitritis ↔ mức miễn dịch; PCR dịch nội nhãn | [452](../452-hoai-tu-vong-mac-ARN-CMV/lesson.md) |
 | Viêm mạch võng mạc (bệnh hệ thống) | Võng mạc (retina) | **Behçet vs lupus (SLE)**, sarcoid, ARN/CMV, lymphoma masquerade | **Vitritis + thoát thuốc "dương xỉ" trên FFA = Behçet**; **đốm bông + SLEDAI cao, ít vitritis = lupus** | [455](../455-behcet-lupus-mat/lesson.md) |
 | Viêm võng mạc–màng mạch suy giảm miễn dịch KHÔNG HIV | Võng mạc (retina) | CMV sau ghép/ung thư máu/thuốc ức chế miễn dịch | **Viêm nhiều hơn HIV** (dễ nhầm ARN); **PCR máu có thể âm** → PCR dịch tiền phòng; tái phát → tìm u lympho ẩn | [454](../454-viem-vong-mac-suy-giam-mien-dich/lesson.md) |
+| Theo dõi & tái hoạt CMV retinitis sau ghép | Võng mạc (retina) | Tái hoạt muộn, IRU, bong võng mạc; **ngừng kháng virus** | **Tái hoạt = tiến triển so ảnh UWF nền tảng** (không phải sẹo cũ); HIV ngừng khi **≥ 3 tháng điều trị + lành + CD4 ≥ 100 ≥ 3 tháng trên ART**; **không HIV không có ngưỡng CD4 phổ quát** | [459](../459-theo-doi-dai-han-cmv-retinitis/lesson.md) |
 | U hắc mạc | Hắc mạc (choroid) | Melanoma, nevus, di căn | Dày ≥ 2 mm + T1 sáng = melanoma | [448](../448-u-hac-mac/lesson.md) |
 | Chấn thương mắt | Nhãn cầu–hốc mắt | Vỡ nhãn cầu, IOFB | Mắt xẹp + XH dịch kính; OTS | [449](../449-chan-thuong-mat-dich-vat/lesson.md) |
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
@@ -62,6 +64,7 @@ certainty: tong-hop-y-van
 - [434 – Bệnh TK thị do độc–chuyển hóa & LHON](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) *(mới)*
 - [435 – GCA & AAION vs NAION](../435-gca-va-naion-aion/lesson.md) *(mới)*
 - [436 – Takayasu vs GCA (viêm mạch lớn)](../436-takayasu-vs-gca/lesson.md) *(mới)*
+- [438 – Theo dõi dài hạn GCA & biến chứng mạch lớn (aortitis/phình–tách thành ĐMC)](../438-theo-doi-dai-han-gca-bien-chung-mach-lon/lesson.md) *(mới)*
 - [439 – Teo thị di truyền: DOA/OPA1 & Wolfram](../439-teo-thi-di-truyen/lesson.md) *(mới)*
 - [441 – OCT hoàng điểm](../441-OCT-hoang-diem/lesson.md) *(mới)*
 - [442 – Glaucoma](../442-glaucoma-OCT/lesson.md) *(mới)*
@@ -81,6 +84,7 @@ certainty: tong-hop-y-van
 - [456 – Bệnh võng mạc trẻ sinh non (ROP)](../456-benh-vong-mac-tre-sinh-non/lesson.md) *(mới)*
 - [457 – Bệnh "giả ROP" ở trẻ đủ tháng: FEVR, Norrie, IP, Coats](../457-benh-gia-rop-tre-du-thang/lesson.md) *(mới)*
 - [458 – Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị](../458-di-chung-theo-doi-dai-han-sau-rop/lesson.md) *(mới)*
+- [459 – Theo dõi dài hạn & tái hoạt CMV retinitis sau ghép (UWF, ngưỡng CD4, khi nào ngừng kháng virus)](../459-theo-doi-dai-han-cmv-retinitis/lesson.md) *(mới)*
 - [460 – Can thiệp](../460-can-thiep-mat/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
@@ -107,6 +111,8 @@ certainty: tong-hop-y-van
 - 433 – Phù đĩa thị vs drusen đĩa *(đã có — [bài học](../433-phu-dia-thi-drusen/lesson.md))*
 - 434 – Bệnh thần kinh thị do độc–chuyển hóa & LHON: tiếp cận teo thị 2 bên *(đã có — [bài học](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md))*
 - 435 – Viêm động mạch tế bào khổng lồ (GCA) & AAION vs NAION: cấp cứu mù ở người > 50 tuổi *(đã có — [bài học](../435-gca-va-naion-aion/lesson.md))*
+- 436 – Takayasu vs GCA (viêm mạch lớn): phân biệt tuổi + thành mạch, Numano *(đã có — [bài học](../436-takayasu-vs-gca/lesson.md))*
+- 438 – Theo dõi dài hạn GCA & biến chứng mạch lớn: aortitis, phình/tách thành ĐMC, corticoid *(đã có — [bài học](../438-theo-doi-dai-han-gca-bien-chung-mach-lon/lesson.md))*
 - 439 – Teo thị di truyền: DOA/OPA1 & Wolfram *(đã có — [bài học](../439-teo-thi-di-truyen/lesson.md))*
 
 **440–449 — Võng mạc, hoàng điểm & glaucoma (OCT)**
@@ -129,6 +135,7 @@ certainty: tong-hop-y-van
 - 456 – Bệnh võng mạc trẻ sinh non (ROP): ICROP zone–stage–plus & AP-ROP *(đã có — [bài học](../456-benh-vong-mac-tre-sinh-non/lesson.md))*
 - 457 – Bệnh "giả ROP" ở trẻ đủ tháng: FEVR, Norrie, incontinentia pigmenti & Coats *(đã có — [bài học](../457-benh-gia-rop-tre-du-thang/lesson.md))*
 - 458 – Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị & khúc xạ *(đã có — [bài học](../458-di-chung-theo-doi-dai-han-sau-rop/lesson.md))*
+- 459 – Theo dõi dài hạn & tái hoạt CMV retinitis sau ghép: UWF, ngưỡng CD4/viremia, khi nào ngừng kháng virus *(đã có — [bài học](../459-theo-doi-dai-han-cmv-retinitis/lesson.md))*
 
 **460–499 — Can thiệp, xạ trị & dự trữ**
 - 460 – Can thiệp + xạ trị *(đã có — [bài học](../460-can-thiep-mat/lesson.md))*

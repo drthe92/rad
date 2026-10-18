@@ -60,6 +60,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 434 | [Bệnh TK thị do độc–chuyển hóa & LHON](434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) | `pattern:teo-thi` `vung:than-kinh-thi` `score:GCL` `protocol:OCT-thi-truong` |
 | 435 | [GCA & AAION vs NAION (cấp cứu mù > 50 tuổi)](435-gca-va-naion-aion/lesson.md) | `pattern:thieu-mau-dia-thi` `vung:than-kinh-thi` `score:ACR-EULAR-2022` `protocol:US-dong-mach-thai-duong` `protocol:TAB` |
 | 436 | [Takayasu vs GCA (viêm mạch lớn)](436-takayasu-vs-gca/lesson.md) | `pattern:day-thanh-mach` `vung:thanh-mach-lon` `score:ACR-EULAR-2022` `score:Numano` `protocol:CTA-MRA` `protocol:FDG-PET-CT` |
+| 438 | [Theo dõi dài hạn GCA & biến chứng mạch lớn (aortitis, phình/tách thành ĐMC, corticoid)](438-theo-doi-dai-han-gca-bien-chung-mach-lon/lesson.md) | `pattern:day-thanh-mach` `vung:thanh-mach-lon` `score:ACR-EULAR-2022` `protocol:CTA-MRA` `protocol:FDG-PET-CT` `protocol:theo-doi-GCA` |
 | 439 | [Teo thị di truyền: DOA/OPA1 & Wolfram](439-teo-thi-di-truyen/lesson.md) | `pattern:teo-thi` `vung:than-kinh-thi` `score:GCL` `protocol:OCT-thi-truong` `protocol:MRI-hoc-mat` |
 | 401 | [Phương thức CĐHA mắt (CT/MRI/siêu âm/OCT)](401-phuong-thuc-mat/lesson.md) | `pattern:protocol-mat` `vung:mat` `protocol:CT-1mm` `protocol:MRI-hoc-mat` `protocol:sieu-am-B-scan` `protocol:OCT` |
 | 441 | [OCT hoàng điểm](441-OCT-hoang-diem/lesson.md) | `pattern:OCT` |
@@ -80,6 +81,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 456 | [Bệnh võng mạc trẻ sinh non (ROP)](456-benh-vong-mac-tre-sinh-non/lesson.md) | `pattern:rop` `vung:vong-mac` `score:ICROP` `protocol:sang-loc-ROP` |
 | 457 | [Bệnh "giả ROP" ở trẻ đủ tháng (FEVR, Norrie, IP, Coats)](457-benh-gia-rop-tre-du-thang/lesson.md) | `pattern:gia-rop` `pattern:tan-mach-vong-mac` `pattern:bong-vong-mac` `vung:vong-mac` `vung:tre-du-thang` `score:Shields` `protocol:WFFA` `protocol:sieu-am-B-scan` |
 | 458 | [Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị](458-di-chung-theo-doi-dai-han-sau-rop/lesson.md) | `pattern:di-chung-rop` `pattern:tai-hoat-rop` `vung:vong-mac` `score:ICROP` `protocol:theo-doi-sau-rop` |
+| 459 | [Theo dõi dài hạn & tái hoạt CMV retinitis sau ghép (UWF, ngưỡng CD4/viremia, khi nào ngừng kháng virus)](459-theo-doi-dai-han-cmv-retinitis/lesson.md) | `pattern:hoai-tu-vong-mac` `vung:vong-mac` `protocol:UWF` `protocol:PCR-dich-tien-phong` `protocol:theo-doi-sau-ghep` `incidentaloma:CMV-sau-ghep` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 

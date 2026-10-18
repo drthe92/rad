@@ -1,0 +1,31 @@
+# Nguồn — 438 Theo dõi dài hạn GCA & biến chứng mạch lớn (aortitis, phình/tách thành ĐMC, corticoid)
+
+## Bài tổng quan & nghiên cứu mở (CC BY / CC BY-NC) — dùng cho nội dung + ảnh
+- **Aortitis như một hội chứng mạch máu nguy cơ cao (khung chẩn đoán–theo dõi):** Georghiou GP, Socratous K, Kyriakou S, et al. *Aortitis as a High-Risk Vascular Syndrome: Integrating Phenotype-Driven Diagnosis, Multidisciplinary Assessment, and Personalised Management.* J Pers Med. 2026;16:430. PMCID: PMC13514586, CC BY 4.0. (Phân loại theo nguyên nhân: nhiễm khuẩn/viêm mạch lớn/aortitis đơn độc lâm sàng; **Fig. 3 lưu đồ chẩn đoán**, **Fig. 4 lưu đồ xử trí–theo dõi dài hạn**; nguyên tắc "phân loại theo nguyên nhân trước khi tăng ức chế miễn dịch", "theo dõi tiếp tục kể cả khi triệu chứng/xét nghiệm cải thiện".)
+- **Hoạt tính viêm thành ĐMC trên FDG PET/CT (GCA + Takayasu + IgG4):** Abdelnabi M, Chaisrimaneepan N, Puchongmart C, et al. *Inflammatory Aortopathies in Rheumatic Diseases: A State-of-the-Art Review.* Diagnostics (Basel). 2026;16:2709. PMCID: PMC13565428, CC BY 4.0. (Fig. 7 whole-body FDG PET/CT trong GCA; **Fig. 8 ngấm mạnh ĐMC lên/cung + nhánh trên vai (mũi tên/đầu mũi tên)**; Fig. 3/5 PET trước–sau điều trị; cơ chế viêm u hạt lớp áo giữa.)
+- **Tắt ngấm chuyển hóa trên PET/CT dự báo nguy cơ phình ĐMC:** Dumont A, Espitia O, Samson M, et al. *Complete PET/CT extinction and subsequent risk of aortic dilation in patients with giant cell arteritis-related large vessel vasculitis treated with tocilizumab.* RMD Open. 2026;12:e005840. PMCID: PMC13034310, CC BY-NC 4.0. (91 ca LV-GCA điều trị tocilizumab; **đáp ứng chuyển hóa hoàn toàn 69/91 = 76%**; **phình ĐMC 1% (tắt ngấm hoàn toàn) vs 18% (không tắt ngấm), log-rank p = 0,006**; Fig. 1 lưu đồ đáp ứng theo thời điểm bắt đầu TCZ; Fig. 2 đường cong phình ĐMC.)
+- **Aortitis làm tăng tốc độ giãn túi phình ĐMC ngực:** Benichou A, De Gaulmyn M, Guimbretiere G, et al. *Aortitis accelerates the growth rate of thoracic aortic aneurysms.* RMD Open. 2026;12:e005983. PMCID: PMC13264951, CC BY-NC 4.0. (23 ca aortitis mô học — 13 GCA + 9 CIA — so 42 chứng thoái hóa, ghép theo tuổi/giới/năm mổ/loại mổ: **0,177 ± 0,01 mm/tháng (2,12 mm/năm) vs 0,039 ± 0,02 (0,47 mm/năm) = 4,5 lần**; **CIA gấp đôi GCA**; Fig. 1 đồ thị tốc độ giãn.)
+- **Mối liên hệ phình ĐMC ngực & GCA (review + cohort):** Strachan S, Zafar MA, Perincheri S, et al. *Thoracic Aortic Aneurysm and Giant Cell Arteritis: Clarifying the Link.* Aorta (Stamford). 2025;13. PMCID: PMC13300745, CC BY 4.0. (GCA ↑ nguy cơ & tốc độ lớn túi phình ĐMC do viêm phá hủy elastin/collagen; **Fig. 2 dựng hình 3D phình ĐMC lên 54,5 mm**; **Fig. 3 mô bệnh viêm toàn thành + tế bào khổng lồ**; biến chứng hở van ĐMC.)
+- **Tái phát & ngừng corticoid theo kiểu hình:** Gorlen TF, Møller Døhn U, Heymonet MC, et al. *Glucocorticoid discontinuation and clinical phenotypes in patients with giant cell arteritis.* Ther Adv Musculoskelet Dis. 2026;18. PMCID: PMC13487055, CC BY-NC 4.0. (**Fig. 3 Kaplan–Meier thời gian đến tái phát đầu tiên** theo cụm triệu chứng & theo xét nghiệm viêm; phân tầng không khác biệt ý nghĩa p = 0,6 / 0,18.)
+- **Gánh nặng tích lũy corticoid & biến cố bất lợi:** Beydon M, Lacaille D, Fautrel B, et al. *Glucocorticoid in giant cell arteritis: real-world treatment patterns over time and associated burden.* RMD Open. 2026;12. PMCID: PMC13343051, CC BY-NC 4.0. (18.301 ca GCA Pháp 2010–2022; **liều tích lũy 2 năm tới 7,6 g (2022)**; **HR/gram: tử vong 1,024 · nhiễm trùng nặng 1,050 · MACE 1,015 · gãy xương loãng 1,013**; ≤ 5 mg/ngày/năm → nhiễm trùng HR 1,13, MACE HR 1,04.)
+
+## Bài tổng quan — số liệu dịch tễ & điều trị
+- **Biến chứng mạch lớn trong GCA (cohort 70 năm, Olmsted County):** Elfishawi MM, Kaymakci MS, J Achenbach S, et al. *Reappraisal of large artery involvement in giant cell arteritis: a population-based cohort over 70 years.* RMD Open. 2024;10:e003540. PMCID: PMC10860079, CC BY-NC 4.0. (289 ca GCA; **biến chứng mạch lớn tích lũy 15 năm 14,8% → 30,2% → 49,2%** theo thời kỳ; **HR 3,22 vs không GCA**; **phình ĐMC ngực HR 13,46**, ĐMC bụng không tăng HR 1,08; hẹp mạch lớn ~7% tại 15 năm.)
+- **Hiệu quả & an toàn thuốc sinh học trong GCA (meta-analysis):** Haseeb A, Athar F, Abbas H, et al. *Efficacy and Safety of Biological Agents in Giant Cell Arteritis: An Updated Meta-Analysis.* Avicenna J Med. 2025;15. PMCID: PMC12178671, CC BY 4.0. (11 nghiên cứu, n = 924; **lui bệnh OR 2,58; tocilizumab OR 4,30**; tái phát OR 0,52 (không ý nghĩa); **ức chế TNF-α tăng nhiễm trùng OR 2,41**.)
+
+## Tiêu chuẩn & ngưỡng guideline
+- **ACR/EULAR 2022 — GCA:** bắt buộc tuổi ≥ 50; **≥ 6 điểm** (mất thị lực đột ngột +3; ESR ≥ 50 mm/h hoặc CRP ≥ 10 mg/L +3; sinh thiết (+) hoặc dấu quầng +5; cứng khớp vai/cổ +2; đau hàm/lưỡi +2; đau đầu thái dương mới +2; đau da đầu +2; khám ĐM thái dương bất thường +2; tổn thương ĐM nách hai bên +2; FDG-PET ngấm lan ĐMC +2). Nguồn: bài 435/436; Ponte C, et al. Ann Rheum Dis 2022.
+- **Theo dõi mạch lớn:** chụp ĐMC + nhánh lúc chẩn đoán làm nền tảng; lặp lại khi hoạt động/nghi biến chứng; **theo dõi tiếp tục dù ESR/CRP và triệu chứng bình thường** (PMC13514586, PMC13565428).
+- **Ngưỡng cấu trúc (kinh điển, mốc tham khảo chuyên khoa):** ĐMC lên **≥ 50–55 mm** hoặc giãn nhanh → hội chẩn phẫu thuật tim–mạch (số tuyệt đối theo ACC/AHA cần đối chiếu bản gốc — chưa trích trực tiếp trong các bài nguồn này).
+- **Thang thị giác 0–3** đọc ngấm thành mạch so với gan trên FDG-PET/CT (PMC13034310).
+
+## Nguồn khác (quét, chỉ dẫn link khi không tải được)
+- Radiopaedia — *Giant cell arteritis* / *large vessel vasculitis*: https://radiopaedia.org (chỉ dẫn link; nội dung CC BY-NC-SA khi viết, không tải ảnh hàng loạt).
+- The Radiology Assistant (RadiologyAssistant.nl) — viêm mạch lớn/ĐMC.
+- Eurorad (ESR) — https://www.eurorad.org (ca bình duyệt; dẫn link).
+- RSNA Case Collection — https://cases.rsna.org (theo điều khoản RSNA).
+- AuntMinnie Case of the Day — https://www.auntminnie.com — **paywall, CHỈ dẫn link, KHÔNG tải**.
+- Wikimedia Commons — Category:Vasculitis (kiểm tra giấy phép từng file).
+
+## Tham khảo chéo trong repo
+- Bài 400 (tổng quan Mắt), 435 (GCA/AAION), 436 (Takayasu vs GCA), 444 (tắc mạch võng mạc), 451 (bệnh hệ thống ở mắt).
