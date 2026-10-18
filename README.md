@@ -84,6 +84,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 459 | [Theo dõi dài hạn & tái hoạt CMV retinitis sau ghép (UWF, ngưỡng CD4/viremia, khi nào ngừng kháng virus)](459-theo-doi-dai-han-cmv-retinitis/lesson.md) | `pattern:hoai-tu-vong-mac` `vung:vong-mac` `protocol:UWF` `protocol:PCR-dich-tien-phong` `protocol:theo-doi-sau-ghep` `incidentaloma:CMV-sau-ghep` |
 | 460 | [Can thiệp](460-can-thiep-mat/lesson.md) | `pattern:can-thiep-mat` |
 | 462 | [U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh](462-u-lympho-noi-nhan-PVRL/lesson.md) | `pattern:u-lympho-noi-nhan` `pattern:lang-dong-duoi-RPE` `pattern:viet-dich-kinh` `vung:vong-mac` `vung:than-kinh-trung-uong` `score:IL-10-IL-6` `protocol:sinh-thiet-dich-kinh` `protocol:OCT` `protocol:FAF` `protocol:MRI-nao-PET-CT` |
+| 463 | [Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball" & "chuỗi ngọc trai"](463-viem-noi-nhan-noi-sinh-nam/lesson.md) | `pattern:viem-noi-nhan` `pattern:fluff-ball` `pattern:viet-dich-kinh-noi-sinh` `vung:vong-mac` `vung:dich-kinh` `protocol:soi-day-mat` `protocol:PCR-dich-kinh` `protocol:khang-nam-toan-than` `incidentaloma:viem-noi-nhan-nam` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
 ## Hệ Bụng (dải 100, đang khởi tạo)

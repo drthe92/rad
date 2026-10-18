@@ -1,0 +1,33 @@
+# Nguồn — 463 Viêm nội nhãn nội sinh do nấm (EFE, Candida/Aspergillus)
+
+## Đồng thuận & tổng quan (CC BY / CC BY-NC) — dùng cho nội dung + ảnh
+- **Đồng thuận quốc tế chẩn đoán–điều trị viêm nội nhãn do nấm (khung chính):** Das T et al. *International consensuses and guidelines on diagnosing and managing fungal endophthalmitis by the APVRS/AAPPO/APSOII.* Eye Vis (Lond). 2025. PMCID: PMC12516872, **CC BY 4.0**. (20 khuyến cáo đồng thuận; viêm nội nhãn do nấm **~15–19%** tổng số viêm nội nhãn toàn cầu, Ấn Độ **nội sinh 18%**; **Candida ưu thế nội sinh, Aspergillus ưu thế ngoại sinh**; bảng liều kháng nấm **amphotericin B 5 µg/0,1 mL, voriconazole 100 µg/0,1 mL**; **nguyên tắc đa đường (4.2, 85%)**; **cắt dịch kính sớm–trọn vẹn tốt hơn (4.1, 90%)**; **corticoid: KHÔNG khuyến cáo (4.4, 25%)**; **kháng nấm toàn thân 4–6 tuần (4.5, 85%)**; loạt Ấn Độ **730 ca cấy dương: tất cả cần cắt dịch kính + trung bình 2 lần tiêm kháng nấm**; **Fig. 5** dùng làm ảnh.)
+- **Loạt 730 ca viêm nội nhãn do nấm cấy dương (Ấn Độ):** Das T et al. (dẫn trong đồng thuận PMC12516872) — tất cả cần cắt dịch kính, trung bình 2 kháng nấm nội nhãn.
+- **Nấm men vs nấm mốc — số liệu nền định lượng:** Sridhar J et al. *Endogenous fungal endophthalmitis: risk factors, clinical features, and treatment outcomes in mold and yeast infections.* J Ophthalmic Inflamm Infect. 2013. PMCID: PMC3848556, **CC BY 4.0**. (67 mắt/53 ca; **triệu chứng 3,8 ngày (mốc) vs 21,0 ngày (men)** p=0,002; **hypopyon 37,5% vs 6,0%** p=0,001; **thị lực logMAR 1,80 vs 1,15** p=0,008, **cuối 1,97 vs 1,05** p=0,005; **enucleation 25% vs 0%**; **suy giảm miễn dịch do điều trị 57,1% vs 7,7%**; **ghép tạng 35,7% vs 2,6%**; **bong võng mạc 12,5% vs 30,6%** p=0,201; **Fig. 1–2** dùng làm ảnh + composite.)
+
+## Đoàn hệ candidemia (sàng lọc & tỷ lệ) — CC BY / CC BY-NC-ND
+- **Đoàn hệ Thái Lan (sàng lọc thực hành ở Đông Nam Á):** Chittrakarn S et al. *Ophthalmic Evaluation and Ocular Candidiasis in Patients with Candidemia: A Retrospective Cohort Study from Thailand.* J Fungi (Basel). 2026. PMCID: PMC13028201, **CC BY 4.0**. (337 ca candidemia, chỉ **19,9% được soi đáy mắt**; tổn thương mắt **13,4%** trong số được khám, **2,7%** cả đoàn hệ; **chorioretinitis 7,5% / endophthalmitis 6,0%**; **chỉ 11,4% có than phiền thị giác**; **hai mắt 77,8%**; *C. albicans* 55,6% + *C. tropicalis* 44,4%; **đổi phác đồ ở 7/9 = 77,8%**; dùng vasopressor làm giảm khả năng được soi, **hội chẩn bệnh truyền nhiễm sớm làm tăng**.)
+- **Đoàn hệ Hà Lan (7 năm, đa trung tâm):** Lamberink H et al. *Ophthalmologic Evaluation and Clinical Outcome in Candidemia: A 7-Year Retrospective Multicenter Cohort Study.* Open Forum Infect Dis. 2026. PMCID: PMC12888813, **CC BY-NC-ND 4.0**. (402 ca, **76,4% được soi đáy mắt**; tổn thương mắt **4,9%** — chorioretinitis 3,9%, endophthalmitis 1,0%; **60% không triệu chứng/không kể được**; **100% ca được đổi phối đồ** (kéo dài ± thêm/đổi azole, 2 ca tiêm kháng nấm nội nhãn); **mất thị lực dai dẳng 20%**.)
+- **Candidemia Hàn Quốc (13 năm):** Kim JH et al. *Prevalence and risk factors for endogenous fungal endophthalmitis in adult patients with candidemia ... over 13 years.* J Mycol Med. 2021;31(1):101102. (152 ca candidemia, **19,1%** viêm nội nhãn nội sinh.) Số liệu này **trích gián tiếp qua bảng 1** của bài đồng thuận (bài gốc J Mycol Med không mở truy cập toàn văn).
+
+## Ca nguyên văn (bệnh học + hình ảnh)
+- **Ổ dịch Candida albicans do nhiễm bẩn đường truyền tĩnh mạch (loạt ca nguyên văn chuẩn):** Zhang X et al. *An outbreak of endogenous fungal endophthalmitis in immunocompetent individuals caused by presumed intravenous infusion contamination.* Front Cell Infect Microbiol. 2026. PMCID: PMC13153087, **CC BY 4.0**. (26 mắt/17 bệnh nhân khỏe mạnh; triệu chứng trung bình **24,3 ngày**; **19/26 mắt cấy dịch kính dương, tất cả *C. albicans***; **BCVA 20/100 → 20/50 sau 3 tháng** p=0,00011; **2 ca NLP do tiêm corticoid nội nhãn sai lúc đang nhiễm nấm**; "string of pearls" 11/26, "snowballs" 6/26; **Fig. 1, 2, 4** dùng làm ảnh.)
+- **Viêm nội nhãn nội sinh hai mắt hồi phục thị lực:** Leyva JL et al. *Post-coronavirus disease bilateral endogenous fungal endophthalmitis with full visual acuity recovery: a case report.* J Med Case Rep. 2025. PMCID: PMC12542003, **CC BY-NC-ND 4.0**. (nam 64 tuổi hậu COVID-19 dùng dexamethasone kéo dài; **20/200 hai mắt → 20/25** sau voriconazole nội nhãn + toàn thân + cắt dịch kính; dấu "fluff ball"/"string of pearls"; **Fig. 1, 5** dùng làm ảnh trước–sau; **giữ nguyên bản, không ghép**.)
+- **Cơ chế vượt hàng rào máu–võng mạc ngoài (thực nghiệm):** Singh S et al. *Systemic Candida albicans Infection in Mice Causes Endogenous Endophthalmitis via Breaching the Outer Blood-Retinal Barrier.* Microbiol Spectr. 2022. PMCID: PMC9431129, **CC BY 4.0**. (Candida albicans xuyên hàng rào máu–võng mạc ngoài → nguồn tổn thương bắt đầu ở hắc mạc.)
+
+## Tiêu chuẩn & ngưỡng guideline (dùng trong bài)
+- **Sàng lọc:** soi đáy mắt giãn đồng tử cho **mọi candidemia, kể cả không triệu chứng** (Thái Lan 89% không triệu chứng, Hà Lan 60%) — dựa trên PMC13028201 + PMC12888813.
+- **Liều kháng nấm (đồng thuận PMC12516872):** amphotericin B nội nhãn **5 µg/0,1 mL**; voriconazole nội nhãn **100 µg/0,1 mL**; posaconazole nội nhãn 100 µg; caspofungin nội nhãn 50 µg; voriconazole toàn thân **6 mg/kg q12h (nạp) → 4 mg/kg q12h**; fluconazole toàn thân **200 mg**; amphotericin B IV **0,5–1,0 mg/kg**; **thời gian 4–6 tuần**.
+- **Chỉ định tiêm nội nhãn:** chỉ khi tổn thương **nhô lên (chorioretinitis)** hoặc **đã vào dịch kính**; còn **viêm hắc mạc dẹt (flat choroiditis)** → kháng nấm toàn thân đơn thuần (PMC12516872).
+- **Corticoid:** **không khuyến cáo** trong viêm nội nhãn do nấm (consensus 4.4 chỉ 25% đồng thuận).
+
+## Nguồn khác (quét, chỉ dẫn link khi không tải được)
+- EyeWiki (AAO, eyewiki.org) — *Endogenous Endophthalmitis*: https://eyewiki.org (chữ CC BY-NC-SA; ảnh kiểm tra license từng file — dẫn link nếu không tải được).
+- Radiopaedia — *Endophthalmitis / Ocular candidiasis*: https://radiopaedia.org (chỉ dẫn link).
+- The Radiology Assistant (RadiologyAssistant.nl) — bệnh lý hốc mắt/nhãn cầu.
+- Retina Image Bank (ASRS) — https://imagebank.asrs.org (giáo dục ghi nguồn; **mặc định dẫn link**).
+- AuntMinnie Case of the Day — https://www.auntminnie.com — **paywall, CHỈ dẫn link, KHÔNG tải**.
+- Europe PMC / PMC (lọc open access) — nguồn ảnh CC BY/CC BY-NC ở trên.
+
+## Tham khảo chéo trong repo
+- Bài 400 (tổng quan Mắt), 411 (siêu âm nhãn cầu), 450 (mắt nhi), 451 (bệnh hệ thống ở mắt), 452 (ARN & CMV), 454 (viêm võng mạc–màng mạch không HIV), 462 (u lympho nội nhãn/PVRL).
