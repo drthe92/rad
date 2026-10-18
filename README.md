@@ -62,6 +62,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 436 | [Takayasu vs GCA (viêm mạch lớn)](436-takayasu-vs-gca/lesson.md) | `pattern:day-thanh-mach` `vung:thanh-mach-lon` `score:ACR-EULAR-2022` `score:Numano` `protocol:CTA-MRA` `protocol:FDG-PET-CT` |
 | 438 | [Theo dõi dài hạn GCA & biến chứng mạch lớn (aortitis, phình/tách thành ĐMC, corticoid)](438-theo-doi-dai-han-gca-bien-chung-mach-lon/lesson.md) | `pattern:day-thanh-mach` `vung:thanh-mach-lon` `score:ACR-EULAR-2022` `protocol:CTA-MRA` `protocol:FDG-PET-CT` `protocol:theo-doi-GCA` |
 | 439 | [Teo thị di truyền: DOA/OPA1 & Wolfram](439-teo-thi-di-truyen/lesson.md) | `pattern:teo-thi` `vung:than-kinh-thi` `score:GCL` `protocol:OCT-thi-truong` `protocol:MRI-hoc-mat` |
+| 437 | [Teo thị kèm ĐIẾC: DOA+/OPA1 & WFS1 trội (Wolfram-like)](437-teo-thi-kem-diec/lesson.md) | `pattern:teo-thi` `pattern:diec-thi-giac` `pattern:benh-ty-the` `vung:than-kinh-thi` `vung:vong-mac` `anatomy:co-dinh-thinh` `protocol:OCT-RNFL-GCL` `protocol:audiometry-ABR` `protocol:MRI-hoc-mat` `score:logMAR` |
 | 401 | [Phương thức CĐHA mắt (CT/MRI/siêu âm/OCT)](401-phuong-thuc-mat/lesson.md) | `pattern:protocol-mat` `vung:mat` `protocol:CT-1mm` `protocol:MRI-hoc-mat` `protocol:sieu-am-B-scan` `protocol:OCT` |
 | 441 | [OCT hoàng điểm](441-OCT-hoang-diem/lesson.md) | `pattern:OCT` |
 | 442 | [Glaucoma](442-glaucoma-OCT/lesson.md) | `pattern:OCT` `vung:than-kinh-thi` `protocol:OCT-RNFL` |

@@ -26,6 +26,7 @@ certainty: tong-hop-y-van
 | TK thị/giao thoa | TK-yên | Viêm, NAION, glioma/ONSM, adenoma | Đau + ngấm = viêm; tram-track = ONSM; bán manh = yên | [430](../430-duong-thi-giac/lesson.md), [431](../431-u-than-kinh-thi/lesson.md), [432](../432-vung-yen/lesson.md) |
 | Đĩa thị | Đĩa thị (disc) | Phù đĩa, drusen, IIH | Frisén 0–5; lõi tối = drusen | [433](../433-phu-dia-thi-drusen/lesson.md) |
 | Teo thị 2 bên | Thần kinh thị (optic nerve) | LHON, độc–chuyển hóa, viêm, **di truyền (DOA/Wolfram)**, chèn ép | **GCL mất sớm = LHON**; RNFL thái dương mỏng = độc chất/DOA; **teo thị + DM/điếc/ĐTĐ nhạt = Wolfram** | [434](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md), [439](../439-teo-thi-di-truyen/lesson.md) |
+| Teo thị 2 bên + **ĐIẾC** (DOA+/WFS1 trội) | Thần kinh thị (optic nerve) + võng mạc + tai trong | **OPA1/DOA+** vs **WFS1 trội (Wolfram-like)** vs WS1 lặn (DIDMOAD) vs LHON vs độc chất vs glaucoma | **Điếc xuất hiện TRƯỚC teo thị (WFS1: 2 vs 10 tuổi) = WFS1**; **ANSD (ABR mất sóng + CM còn) + missense GTPase = OPA1**; **OPL lamination trên OCT = WFS1 trội** | [437](../437-teo-thi-kem-diec/lesson.md) |
 | Phù đĩa thị thiếu máu cấp (> 50 tuổi) | Thần kinh thị (optic nerve) | **AAION (GCA) vs NAION** vs viêm thị, PION, CRAO | Đĩa **nhợt trắng phấn + đốm bông + 2 bên + đau hàm → GCA (cấp cứu steroid)**; đĩa **sung huyết + disc-at-risk mắt lành → NAION (không steroid)** | [435](../435-gca-va-naion-aion/lesson.md) |
 | Thành mạch lớn dày / hẹp | ĐMC & nhánh (aorta/branches) | **TAK (< 40/≤ 60) vs GCA (≥ 50)** (C-GCA/LV-GCA), aortitis nhiễm khuẩn, xơ vữa, loạn sản cơ–xơ | **"Macaroni" tăng âm = TAK** vs **"halo" giảm hồi âm = GCA**; tuổi là chốt; PET = hoạt tính viêm | [436](../436-takayasu-vs-gca/lesson.md) |
 | Biến chứng mạch lớn GCA / aortitis | ĐMC & nhánh (aorta/branches) | **Theo dõi dài hạn**: phình/tách thành ĐMC ngực, hẹp mạch, aortitis nhiễm khuẩn (loại trừ), hở van ĐMC | **Hoạt tính (FDG-PET, đảo ngược) tách rời tổn hại cấu trúc (CTA/MRA, tiến triển)**; **hết viêm KHÔNG hết nguy cơ**; ĐMC ngực HR 13,46; GC tích lũy = độc tính | [438](../438-theo-doi-dai-han-gca-bien-chung-mach-lon/lesson.md) |
@@ -90,6 +91,7 @@ certainty: tong-hop-y-van
 - [460 – Can thiệp](../460-can-thiep-mat/lesson.md) *(mới)*
 - [462 – U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh: IL-10/MYD88 + PET-CT](../462-u-lympho-noi-nhan-PVRL/lesson.md) *(mới)*
 - [463 – Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball" & "chuỗi ngọc trai"](../463-viem-noi-nhan-noi-sinh-nam/lesson.md) *(mới)*
+- [437 – Teo thị kèm ĐIẾC: DOA+/OPA1 & WFS1 trội (Wolfram-like)](../437-teo-thi-kem-diec/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
