@@ -240,6 +240,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 577 | [Theo dõi & phát hiện tái phát ung thư phụ khoa: RECIST, CA-125, PET/CT](577-theo-doi-tai-phat-ung-thu-phu-khoa/lesson.md) | `pattern:tai-phat` `vung:tieu-khung` `vung:phuc-mac` `score:RECIST` `score:FIGO` `protocol:CT-bung-chau` `protocol:PET-CT` `protocol:MRI-tieu-khung` `incidentaloma:tai-phat-sau-dieu-tri` |
 | 522 | [Theo dõi sau điều trị ung thư vú: nhũ ảnh/DBT, siêu âm, MRI & CEM](522-theo-doi-sau-dieu-tri-ung-thu-vu/lesson.md) | `pattern:theo-doi-tai-phat` `pattern:u-tai-phat` `pattern:u-moi-doi-ben` `vung:vu` `score:BI-RADS` `score:RECIST` `protocol:nhu-anh` `protocol:MRI-vu` `protocol:CEM` |
 | 523 | [Sarcoma mạch do xạ ở vú (radiation-associated angiosarcoma)](523-sarcoma-mach-do-xa-vu/lesson.md) | `pattern:sarcoma-mach` `pattern:vu-sau-dieu-tri` `pattern:u-tai-phat` `pattern:dam-da-sau-xa` `vung:vu` `score:BI-RADS` `protocol:MRI-vu` `protocol:PET-CT` `incidentaloma:sarcoma-do-xa` |
+| 524 | [Sàng lọc & quản lý nguy cơ cao ung thư vú (BRCA1/2, PALB2, TP53, xạ ngực tuổi trẻ)](524-sang-loc-va-quan-ly-nguy-co-cao-ung-thu-vu/lesson.md) | `pattern:khoi-vu` `vung:vu` `score:BI-RADS` `protocol:MRI-vu` `protocol:nhu-anh-DBT` `protocol:tam-soat-nguy-co-cao` `incidentaloma:ton-thuong-tam-soat` |
 
 ## Hệ Nhi khoa (dải 600, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |

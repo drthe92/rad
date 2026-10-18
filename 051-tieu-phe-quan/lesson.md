@@ -21,12 +21,21 @@ certainty: tong-hop-y-van
 ![RB-ILD: nốt trung tâm tiểu thùy lan tỏa](images/051_RB-ILD_CT_PMC-Sousa-CCBY40.jpg)
 *Nốt mờ trung tâm tiểu thùy ở người hút thuốc (RB-ILD). Nguồn: Sousa et al., Insights into Imaging 2019 Fig. 15, CC BY 4.0.*
 
+![HP xơ: giãn phế quản, bẫy khí và mẫu ba đậm độ trên HRCT](images/051_air-trapping_CT_PMC13598884-F2.jpg)
+*HP xơ (FHP) trên HRCT. (A) giãn phế quản + biến dạng cấu trúc ưu thế quanh tiểu phế quản (mũi tên); (B) **vùng bẫy khí (bẫy khí — mũi tên đen)**; (C) vùng phổi bình thường xen giữa vùng bệnh và vùng bẫy khí; (D) **mẫu ba đậm độ (three-density pattern)**; (E) mô bệnh học (xơ vách và quanh tiểu phế quản). Nguồn: Bridi GDP et al., Respir Res Clin Pract 2026 (PMC13598884), Fig. 2, CC BY.*
+
 ## 2. Gamut khảm theo cơ chế
 
 - **Đường thở (bẫy khí):** HP, viêm tiểu PQ, hen/COPD — đen không đổi + mạch nhỏ, thì thở ra.
 - **Mạch máu (kém tưới):** thuyên tắc mạn (mạch to + khảm), tăng áp phổi.
 - **Nhu mô (kính mờ):** NSIP/HP bán cấp, xuất huyết — trắng + mạch bình thường/to.
 - **RB-ILD/DIP (hút thuốc):** nốt trung tâm + kính mờ trên, bỏ thuốc lui một phần.
+
+![Mẫu ba đậm độ: vùng giảm đậm độ ít mạch + vùng bình thường + vùng tăng đậm độ](images/051_kham-3-mau_CT_PMC10856167-F5.jpg)
+*Mẫu ba đậm độ trong HP xơ. **Ô đỏ** = phổi đậm độ bình thường còn được chừa; **ô vàng** = vùng giảm đậm độ với **thưa mạch và phế quản (paucity of vessels)** = bẫy khí; **ô xanh** = vùng tăng đậm độ có lưới/xơ. Kèm nang phổi (mũi tên đỏ) và khí phế thũng cạnh vách/thể phá hủy tiến triển (ADE, mũi tên xanh). Nguồn: Rea G et al., J Clin Med 2024 (PMC10856167), Fig. 5, CC BY.*
+
+![Đối chiếu bẫy khí/mẫu ba đậm độ giữa hai ca HP xơ](images/composite_air-trapping-vs-kham-3-mau.jpg)
+*Trái: HP xơ — bẫy khí và mẫu ba đậm độ (B/D). Phải: mẫu ba đậm độ — vùng ít mạch xen kẽ vùng lưới/xơ. Chốt: **vùng giảm đậm độ + mạch nhỏ lại = bẫy khí**; đối chiếu thì hít vào-thở ra để xác nhận. Ảnh ghép letterbox giữ nguyên tỷ lệ. Nguồn: Bridi GDP et al. (PMC13598884) + Rea G et al. (PMC10856167), CC BY.*
 
 ## 3. Bảng đọc khảm
 
@@ -62,11 +71,32 @@ certainty: tong-hop-y-van
 - Nguồn: Sousa et al., Fig. 15, CC BY 4.0.
 </details>
 
-**Ca 2 — Khảm 3 màu + vùng đen không đổi thì thở ra + mạch nhỏ:** cơ chế nào? Bệnh gì? *(Bảng mục 3.)*
+**Ca 2 — Khảm ba màu trên HRCT. Đọc các ô màu và gọi tên cơ chế.**
+
+![Ca 2 — mẫu ba đậm độ](images/051_kham-3-mau_CT_PMC10856167-F5.jpg)
+
+- Gợi ý: bệnh nhân HP xơ; HRCT thì hít vào.
+- Hỏi: ba ô (đỏ/vàng/xanh) tương ứng vùng nào? Vùng "ít mạch" nói lên điều gì? Diễn giải với thì thở ra?
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
-- **Bẫy khí đường thở (HP/viêm tiểu PQ):** đen + mạch nhỏ + thở ra — hỏi kháng nguyên + BAL.
+- Dấu hiệu (findings): **ô đỏ** = vùng đậm độ bình thường còn được chừa; **ô vàng** = vùng **giảm đậm độ, thưa mạch và phế quản** (bẫy khí); **ô xanh** = vùng **tăng đậm độ có lưới/xơ**.
+- Chẩn đoán/lý giải: **mẫu ba đậm độ (three-density pattern)** của HP xơ. **Vùng giảm đậm độ + mạch nhỏ lại = bẫy khí (air trapping)** do tắc tiểu phế quản → đối chiếu **thì thở ra** thấy vùng này không đổi/đen hơn (các vùng khác xẹp lại).
+- Nguồn ảnh: Rea G et al., J Clin Med 2024 (PMC10856167), Fig. 5, CC BY.
+</details>
+
+**Ca 3 — So sánh hai ca: bên nào nhấn bẫy khí, bên nào nhấn vùng ít mạch? Chốt phân biệt?**
+
+![Ca 3 — đối chiếu bẫy khí vs mẫu ba đậm độ](images/composite_air-trapping-vs-kham-3-mau.jpg)
+
+- Gợi ý: cùng cơ chế tiểu phế quản tắc nhưng khác cách bộc lộ.
+- Hỏi: Dấu hiệu nào chốt bẫy khí? Phân biệt với khảm tưới máu (mạch) thế nào?
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- Trái: HP xơ — vùng **bẫy khí** và mẫu ba đậm độ. Phải: **mẫu ba đậm độ** với vùng ít mạch xen vùng lưới.
+- Chốt (clincher): **giảm đậm độ + mạch NHỎ lại = bẫy khí đường thở** (khác khảm tưới máu do mạch — mạch TO/cụt); xác nhận bằng **thì thở ra** (vùng đen không đổi).
+- Nguồn ảnh: ghép Fig. 2 (PMC13598884) + Fig. 5 (PMC10856167), đều CC BY (ghép letterbox, giữ nguyên tỷ lệ).
 </details>
 
 ## Bài liên quan chéo

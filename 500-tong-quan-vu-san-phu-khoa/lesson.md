@@ -54,6 +54,7 @@ certainty: tong-hop-y-van
 | Theo dõi & phát hiện TÁI PHÁT ung thư phụ khoa (Surveillance & recurrence) | Tiểu khung – phúc mạc – hạch (pelvis/peritoneum/nodes) | Tái phát tại chỗ (vòm âm đạo/chu cung) vs xơ hậu xạ · hạch di căn · carcinomatosis phúc mạc · di căn xa (gan/phổi/xương/não) · oligometastasis | **Xơ sau xạ giả u tới 6 tháng → phân biệt bằng DWI (u sống: sáng ở b cao + ADC thấp; xơ: ADC cao)**; **RECIST 1.1: PD = tăng ≥ 20% VÀ ≥ +5 mm so nadir**; **PET/CT sau điều trị Se 94,4%/Sp 97,3% nhưng PPV chỉ 76,0% (NPV 99,5%, Acc 97,0%)**; **CA-125 bình thường KHÔNG loại trừ tái phát (8/11 vẫn PET dương)**; **SCC-Ag ≥ 1,5 ng/mL** | `577`, `572`, `525` |
 | Theo dõi sau điều trị ung thư vú (Surveillance after breast cancer) | Vú (breast) | Tái phát trong vú/thành ngực · u MỚI đối bên · sẹo/hoại tử mỡ · sarcoma mạch do xạ · di căn xa | **MRI Se 97,9% > nhũ ảnh 66,3% ≈ siêu âm 67,8%; CEM Se 90,9%/Sp 86,2%**; **nhũ ảnh mốc 6 tháng phát hiện 0 ca (95% CI 0–0,38%) → bắt đầu ở 12 tháng**; **vú tái tạo: MRI Se 95,2% vs siêu âm 38,1%**; **60% tái phát trong vú ở bên ĐỐI DIỆN**; **KHÔNG chụp tầm soát di căn xa ở người không triệu chứng (không cải thiện sống còn)** | `522`, `516`, `577` |
 | Sarcoma mạch do xạ ở vú (radiation-associated angiosarcoma) | Vú/thành ngực đã xạ (irradiated breast) | RAAS vs viêm da xạ · tụ máu/huyết thanh tụ · tái phát carcinoma da · AVL lành · hoại tử mỡ | **Da tím–bầm KHÔNG tan trong trường xạ + độ trễ ≥ 3 năm (trung vị ~7 năm)**; **MYC (+) = chốt phân biệt (âm ở AVL lành)**; **nhũ ảnh bình thường tới 33%; tổn thương nhu mô chỉ 25% → đọc kỹ DA trên MRI**; **cắt rộng 5 năm OS 86% vs 46%**; tái phát tại chỗ 40–90%, trung vị 6–7 tháng | `523`, `516` |
+| Sàng lọc & quản lý nguy cơ cao ung thư vú | Tuyến vú (breast) — nền tảng di truyền/xạ | BRCA1/2 (lifetime > 60%) · TP53/PALB2/CDH1/STK11 · CHEK2/ATM/BARD1/NF1 · xạ ngực 10–30 tuổi · vú đặc · BPE | **Lifetime > 20% hoặc BRCA/TP53/PALB2 = MRI hằng năm từ ~25 tuổi, ± X-quang từ 35–40 tuổi**; **xạ ngực ≥ 10 Gy: X-quang + MRI từ tuổi 25 hoặc 8 năm sau xạ (muộn hơn)**; **BRCA1 = khối ngấm viền, không vi vôi hóa (X-quang âm)** vs **BRCA2 = cụm vi vôi hóa/DCIS + NME**; **vú cực đặc (D) → MRI 2–3 năm/lần**; **RRM RR 0,11 / RRSO RR 0,55; MRI giảm tử vong (HR 0,20 ở BRCA1, tích lũy 5,5% vs 20,5%)** | `524`, `510`, `514`, `199` |
 
 ## Bài liên quan chéo
 - [510 – BI-RADS vú](../510-vu-BIRADS-nhu-anh-sieu-am-MRI/lesson.md) *(đã có)*
@@ -97,6 +98,7 @@ certainty: tong-hop-y-van
 - [577 – Theo dõi & phát hiện tái phát ung thư phụ khoa: RECIST, CA-125, PET/CT](../577-theo-doi-tai-phat-ung-thu-phu-khoa/lesson.md) *(đã có)*
 - [522 – Theo dõi sau điều trị ung thư vú: nhũ ảnh/DBT, siêu âm, MRI & CEM](../522-theo-doi-sau-dieu-tri-ung-thu-vu/lesson.md) *(đã có)*
 - [523 – Sarcoma mạch do xạ ở vú (radiation-associated angiosarcoma)](../523-sarcoma-mach-do-xa-vu/lesson.md) *(đã có)*
+- [524 – Sàng lọc & quản lý nguy cơ cao ung thư vú (BRCA1/2, PALB2, TP53, xạ ngực tuổi trẻ)](../524-sang-loc-va-quan-ly-nguy-co-cao-ung-thu-vu/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Vú & Sản Phụ khoa (500–580)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -110,7 +112,7 @@ certainty: tong-hop-y-van
 - 517 – Sinh thiết định vị vú & quản lý clip/kẹp: wire/seed (I-125, magnetic seed, RFID), bracketing, di trú clip ≥ 5 mm, clip sau NAC & hạch nách có clip, X-quang bệnh phẩm *(đã có — [bài học](../517-sinh-thiet-dinh-vi-vu-va-quan-ly-clip/lesson.md))*
 - 522 – Theo dõi sau điều trị ung thư vú: nhũ ảnh 2D/DBT hằng năm (bắt đầu 12 tháng), siêu âm, MRI/ABMR (vú tái tạo, ILC, nguy cơ cao), CEM; ngưỡng nghi tái phát; KHÔNG tầm soát di căn xa thường quy ở người không triệu chứng *(đã có — [bài học](../522-theo-doi-sau-dieu-tri-ung-thu-vu/lesson.md))*
 - 523 – Sarcoma mạch do xạ ở vú (RAAS): vết tím–bầm không tan trong vùng xạ, độ trễ ≥ 3 năm, MYC IHC/FISH, mapping + cắt rộng, taxane tân bổ trợ; phân biệt viêm da xạ/AVL/tái phát carcinoma *(đã có — [bài học](../523-sarcoma-mach-do-xa-vu/lesson.md))*
-- 524 – Sàng lọc & quản lý nguy cơ cao ung thư vú (BRCA1/2, PALB2, TP53, xạ ngực tuổi trẻ): MRI tầm soát, giảm nguy cơ *(dự kiến — BACKLOG #128)*
+- 524 – Sàng lọc & quản lý nguy cơ cao ung thư vú (BRCA1/2, PALB2, TP53, CHEK2/ATM, xạ ngực tuổi trẻ): phân tầng nguy cơ (lifetime/RR), MRI tầm soát hằng năm từ ~25 tuổi ± X-quang 35–40, protocol rút gọn (UF/FAST), BI-RADS; giảm nguy cơ (RRM RR 0,11 / RRSO RR 0,55); kiểu hình BRCA1 (ngấm viền, không vôi hóa) vs BRCA2 (vi vôi hóa/DCIS) *(đã có — [bài học](../524-sang-loc-va-quan-ly-nguy-co-cao-ung-thu-vu/lesson.md))*
 
 **520–529 — Tử cung & Cổ tử cung (Uterus & Cervix)**
 - 520 – U xơ cơ tử cung (Phân loại FIGO 0–8), Lạc nội mạc trong cơ (Adenomyosis) & Tiếp cận dày nội mạc tử cung *(đã có — [bài học](../520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md))*
