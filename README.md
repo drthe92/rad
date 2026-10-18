@@ -199,6 +199,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 571 | [Sẩy thai tái diễn: tiếp cận hình ảnh tử cung](571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md) | `pattern:say-thai-tai-dien` `vung:tu-cung` `score:ESHRE-ESGE` `score:ASRM` `protocol:sonohysterography` `protocol:MRI-tu-cung` |
 | 572 | [Hạch trong ung thư phụ khoa: SLN, hạch chậu–cạnh ĐMC & PET-CT](572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md) | `pattern:hach-di-can` `vung:hach-chau` `vung:hach-canh-dmc` `score:FIGO` `protocol:PET-CT` `protocol:SLN-ICG` |
 | 574 | [Ung thư âm hộ & âm đạo: FIGO 2021 + hạch bẹn–đùi & SLN](574-ung-thu-am-ho-am-dao-FIGO-hach-ben/lesson.md) | `pattern:u-am-ho` `pattern:u-am-dao` `pattern:hach-ben-di-can` `vung:am-ho` `vung:am-dao` `score:FIGO-2021` `protocol:MRI-chau` `protocol:PET-CT` `protocol:SLN` |
+| 548 | [Nang/khối lành vùng âm hộ – âm đạo: Bartholin, Gartner & ống Nuck](548-nang-lanh-am-ho-am-dao/lesson.md) | `pattern:nang-am-ho` `pattern:nang-am-dao` `pattern:nang-ben` `vung:am-ho` `vung:am-dao` `vung:ben` `protocol:US-am-ho` `protocol:MRI-chau` |
+| 573 | [Hở cổ tử cung & bán khâu: theo dõi siêu âm cổ tử cung](573-ho-co-tu-cung-ban-khau/lesson.md) | `pattern:ho-co-tu-cung` `pattern:co-tu-cung-ngan` `vung:co-tu-cung` `score:CL-25mm` `protocol:TVUS-co-tu-cung` `protocol:cerclage` |
 
 ## Hệ Nhi khoa (dải 600, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |

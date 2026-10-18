@@ -1,0 +1,16 @@
+# Ảnh — 548-nang-lanh-am-ho-am-dao
+
+| File | Nguồn | Giấy phép (license) | Link gốc |
+|---|---|---|---|
+| `548_nang-lanh_bartholin-hai-ben_MRI_PMC13013239-Fig16-CCBY.jpg` | Nữ 34 tuổi, MRI vì u xơ tử cung, **tình cờ** thấy nang Bartholin: T2FS axial + coronal cho nang **sau–ngoài tiền đình âm đạo hai bên** (a,b,c) (Fig. 16) — Golden E et al., *Abdom Radiol* 2026 | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13013239/ |
+| `548_nang-lanh_bartholin-apxe_US-MRI_PMC13013239-Fig17-CCBY.jpg` | Nữ 26 tuổi **áp-xe Bartholin**: (a) siêu âm khối dịch hỗn hợp echo + vách/lắng cặn; (b) Doppler màu tăng tưới máu quanh; (c) T2FS vách dày; (d) sau tiêm vách ngấm (Fig. 17) — Golden E et al., *Abdom Radiol* 2026 | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13013239/ |
+| `548_nang-lanh_gartner_MRI_PMC13013239-Fig5-CCBY.jpg` | **Nang ống Gartner** ở 2 bệnh nhân khác nhau trên T2FS xoay dọc: nang tình cờ (a) và bệnh nhân có triệu chứng (b) (Fig. 5) — Golden E et al., *Abdom Radiol* 2026 | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13013239/ |
+| `548_nang-lanh_gartner-vs-bartholin_MRI_PMC4567364-Fig8-CCBY.jpg` | So sánh trực tiếp: **Gartner** — axial (A1) + xoay dọc (B1) ở thành bên âm đạo **trên khớp mu**; **Bartholin** — axial (A2) + xoay dọc (B2) ở thành sau âm đạo đoạn xa, ngoài lòng âm đạo (Fig. 8) — Ferreira DM et al., *Radiol Bras* 2015 | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC4567364/ |
+| `548_nang-lanh_bartholin_US_PMC6177693-Fig2-CCBYNC.jpg` | Nữ 44 tuổi **nang Bartholin** phải: nang **trống âm/hồi âm kém**, bờ rõ, trong trung bì, tăng âm sau (Fig. 2) — Cheung VYT, *Ultrasonography* 2018 | CC BY-NC 3.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC6177693/ |
+| `548_nang-lanh_bartholin-apxe_US_PMC6177693-Fig3-CCBYNC.jpg` | Nữ 31 tuổi **áp-xe Bartholin** trái: dịch **hỗn hợp echo + vách/lắng cặn**, bờ kém rõ (Fig. 3) — Cheung VYT, *Ultrasonography* 2018 | CC BY-NC 3.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC6177693/ |
+| `548_nang-lanh_ong-nuck-gia-bartholin_MRI_PMC13580851-Fig2-CCBY.jpg` | **Nang ống Nuck hai bên** biểu hiện như "nang Bartholin", tái phát sau mổ; MRI đọc nhầm là nang Bartholin (Figure 2) — Chamseddine R et al., *Case Rep Obstet Gynecol* 2026 | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13580851/ |
+| `548_nang-lanh_ong-nuck-type-II_MRI_PMC13325312-Fig1-CCBYNCND.jpg` | Nữ 33 tuổi: T2 fat-sat vành cho **đường thông trực tiếp khoang phúc mạc ↔ nang ống Nuck** (mũi tên đỏ) = **type II** (Fig. 1) — Bahall V et al., *Case Rep Womens Health* 2026 | CC BY-NC-ND 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13325312/ |
+| `548_nang-lanh_ong-nuck_so-do_PMC12441254-Fig2-CCBYNC.jpg` | Sơ đồ 3 type nang ống Nuck theo Counseller–Black (1941): type I kín / type II thông phúc mạc / type III hình đồng hồ cát (Figure 2) — G Meskel T et al., *Clin Med Insights Case Rep* 2025 | CC BY-NC 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12441254/ |
+| `composite_548_gartner-vs-bartholin.jpg` | Ảnh ghép đối chiếu: **Gartner** (Fig. 5) vs **Bartholin** (Fig. 16) — từ 2 ảnh CC BY ở trên (PMC13013239) | CC BY 4.0 | `tools/make_composite.py` |
+
+Quy tắc: ảnh **CC BY 4.0** cho phép tải/ghép (ghi nguồn). Ảnh **CC BY-NC / CC BY-NC-ND** (PMC6177693, PMC13325312, PMC12441254) dùng **nguyên bản, KHÔNG crop/ghép**. Ảnh ghép letterbox giữ nguyên aspect (`tools/make_composite.py`).

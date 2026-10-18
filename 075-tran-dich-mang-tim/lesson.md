@@ -21,6 +21,12 @@ certainty: tong-hop-y-van
 ![Bóng tim chai nước](images/075_tran-dich-mang-tim_XR_Wikimedia-DocJames-CCBYSA40.png)
 *Tràn dịch màng tim lượng lớn: bóng tim bè 2 bên hình chai nước. Nguồn: Doc James, CC BY-SA 4.0.*
 
+![Tràn dịch màng tim trên CT ngực và siêu âm tim](images/composite_075_ct-vs-sieu-am-tim.jpg)
+*Trái: CT ngực trục — dịch màng tim lượng lớn bao quanh tim (mũi tên vàng), đậm độ dịch thấp. Phải: siêu âm tim qua thành ngực — (A) mặt cắt 4 buồng đỉnh, (B) mặt cắt trục ngắn, dịch màng tim bao quanh (mũi tên vàng). Nguồn: Cureus 2026 (PMC13477794), CC BY 4.0; ghép letterbox bằng `tools/make_composite.py`.*
+
+![Siêu âm tim: dịch màng tim lượng lớn với sinh lý chèn ép](images/075_tran-dich-mang-tim_TTE_PMC13209143-Fig3-CCBYNCND.jpg)
+*Siêu âm tim ở bệnh nhân suy giáp nặng: (A) mặt cắt 4 buồng đỉnh — dịch màng tim **chu vi lượng lớn** (mũi tên); **khoảng cách sau tối đa 3,2 cm**; (B) sau dẫn lưu/diễn tiến. Nguồn: *Int Med Case Rep J* 2026 (PMC13209143), CC BY-NC-ND 4.0 (nguyên bản, không ghép).*
+
 ## 2. Gamut bóng tim to
 
 - **Dịch màng tim:** chai nước + bờ sắc + phổi trong (không phù) — siêu âm phân biệt với tim to.
@@ -64,11 +70,26 @@ certainty: tong-hop-y-van
 - Nguồn: Doc James, CC BY-SA 4.0.
 </details>
 
-**Ca 2 — HA 85/60 + tĩnh mạch cổ nổi + tim mờ sau chấn thương ngực:** chẩn đoán + xử trí? *(Tam chứng Beck — mục 3.)*
+**Ca 2 — Bệnh nhân khó thở, tĩnh mạch cổ nổi; xem CT và siêu âm tim. Đọc ảnh trước.**
+
+![Ca 2 — CT + siêu âm tim: tràn dịch màng tim](images/composite_075_ct-vs-sieu-am-tim.jpg)
+
+- Gợi ý lâm sàng (clinical context): mệt, khó thở tăng dần, huyết áp thấp, tĩnh mạch cổ nổi.
+- Câu hỏi: Xác định dịch ở đâu? Tìm dấu hiệu chèn ép (RA/RV collapse) trên siêu âm? X-quang có thể bình thường không?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- Dấu hiệu (findings): CT — **dịch bao quanh tim, đậm độ thấp, lượng lớn** (mũi tên); siêu âm — **dịch màng tim chu vi** ở mặt cắt 4 buồng đỉnh và trục ngắn.
+- Chẩn đoán (diagnosis): **tràn dịch màng tim lượng lớn**; nếu kèm **xẹp nhĩ phải > 1/3 chu kỳ** hoặc **xẹp thất phải** → **chèn ép tim (tamponade)**. **X-quang có thể bình thường** khi dịch tăng nhanh (150–200 mL), nên **siêu âm mới quyết định**.
+- Nguồn ảnh: Cureus 2026 (PMC13477794), CC BY 4.0 (ảnh ghép letterbox).
+</details>
+
+**Ca 3 — HA 85/60 + tĩnh mạch cổ nổi + tim mờ sau chấn thương ngực:** chẩn đoán + xử trí? *(Tam chứng Beck — mục 3.)*
 
 <details><summary><b>Bấm để hiện đáp án</b></summary>
 
 - **Tamponade cấp do máu màng tim:** chọc hút cấp cứu dưới siêu âm + mổ cầm máu (không chờ CT đủ liều).
+- Nguồn số liệu: dấu chèn ép lấy từ y văn (mục 3); xem thêm ảnh siêu âm ở Ca 2.
 </details>
 
 ## Bài liên quan chéo
