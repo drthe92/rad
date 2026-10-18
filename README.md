@@ -137,6 +137,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 224 | [Chấn thương sọ não ở trẻ (TBI nhi): Marshall/Rotterdam, khoang dưới nhện & DAI](224-chan-thuong-so-nao-nhi/lesson.md) | `pattern:chan-thuong-so-nao` `pattern:xuat-huyet-ngoai-truc` `pattern:dai` `vung:nao-nhi` `score:Marshall` `score:Rotterdam` `score:PECARN` `protocol:CT-so-nao` `protocol:MRI-TBI` |
 | 230 | [Giáp & hạch cổ](230-tuyen-giap-hach-co/lesson.md) | `score:TI-RADS` |
 | 235 | [Thái dương & xoang: cholesteatoma DWI + nấm vs u](235-xuong-thai-duong-xoang/lesson.md) | `pattern:xuong-thai-duong-xoang` `vung:dau-mat-co` `protocol:MRI-non-EPI` |
+| 236 | [Viêm tai xương chũm & biến chứng nội sọ: huyết khối xoang, áp-xe não](236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md) | `pattern:viem-xuong-chum` `pattern:bien-chung-noi-so` `pattern:huyet-khoi-xoang-tinh-mach` `pattern:apxe-nao` `vung:xuong-thai-duong` `score:CAM` `protocol:CT-xuong-thai-duong` `protocol:MRI-MRV` |
 | 657 | [Dị tật hố sau: Joubert & rhombencephalosynapsis](657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) | `pattern:di-dang-ho-sau` `pattern:rang-ham` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
 
 ## Hệ Cơ – Xương – Khớp (dải 300, đang khởi tạo)
@@ -173,6 +174,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 516 | [Hình ảnh vú sau điều trị: tái tạo, hoại tử mỡ, sẹo vs tái phát & BIA-ALCL](516-hinh-anh-vu-sau-dieu-tri/lesson.md) | `pattern:vu-sau-dieu-tri` `pattern:hoai-tu-mo` `pattern:u-tai-phat` `vung:vu` `score:BI-RADS` `protocol:MRI-vu` `incidentaloma:BIA-ALCL` |
 | 517 | [Sinh thiết định vị vú & quản lý clip/kẹp](517-sinh-thiet-dinh-vi-vu-va-quan-ly-clip/lesson.md) | `pattern:ton-thuong-khong-so-thay` `pattern:vi-voi-hoa` `vung:vu` `score:BI-RADS` `protocol:din-vi-vu` `protocol:sinh-thiet-vu` `incidentaloma:clip-di-lech` |
 | 520 | [Tử cung FIGO](520-tu-cung-u-xo-FIGO-adenomyosis-noi-mac/lesson.md) | `score:FIGO` |
+| 521 | [MRKH: bất sản tử cung–âm đạo & tạo hình âm đạo](521-mayer-rokitansky-MRKH-tao-hinh-am-dao/lesson.md) | `pattern:bat-san-muller` `pattern:am-dao-bat-san` `pattern:vo-kinh-nguyen-phat` `vung:tu-cung` `vung:am-dao` `score:MRKH-type` `protocol:MRI-tieu-khung` `protocol:sieu-am-tieu-khung` `incidentaloma:bat-san-tu-cung` |
 | 525 | [K nội mạc/cổ tử cung FIGO MRI](525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md) | `pattern:u-noi-mac` `pattern:xam-lan-co` `vung:tu-cung` `score:FIGO` `protocol:MRI-tieu-khung` |
 | 526 | [Sarcoma tử cung & carcinosarcoma vs u xơ](526-sarcoma-tu-cung-vs-u-xo/lesson.md) | `pattern:khoi-co-tu-cung` `pattern:xam-lan-co` `vung:tu-cung` `score:ADC` `protocol:MRI-tieu-khung` |
 | 527 | [U mô đệm nội mạc tử cung: ESN/LG-ESS/HG-ESS/UUS](527-u-mo-dem-noi-mac-tu-cung/lesson.md) | `pattern:khoi-co-tu-cung` `pattern:xam-lan-co` `vung:tu-cung` `score:ADC` `protocol:MRI-tieu-khung` |

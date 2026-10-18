@@ -27,12 +27,14 @@ certainty: tong-hop-y-van
 | Nhân tuyến giáp & Hạch cổ (ACR TI-RADS) | Tuyến giáp & Cổ (thyroid-neck) | Ung thư nhú (PTC), nang thể, keo lành, giả nhân Hashimoto, hạch di căn | Đặc + rất giảm + cao-rộng + đa cung + vi vôi ≤ 1 mm (≥ 7đ) = TR5; bọt biển = TR1 (DỪNG); hạch mất rốn + Tg rửa = di căn (bỏ ngưỡng mm!) | `230` |
 | Phù não sau **có hồi phục** vs **co mạch não có hồi phục** | Nhu mô não (vỏ–dưới vỏ) & mạch não | PRES (THA cấp/thuốc độc), RCVS (đau đầu sét đánh tái diễn), nhồi máu, viêm não HSV | Phù **đối xứng dưới vỏ chẩm-đỉnh + ADC TĂNG** = PRES (CT chỉ nhạy 46%/MRI 98%); **ADC TỐI theo lãnh thổ** = nhồi máu; **"chuỗi hạt" co mạch đa ổ, hồi phục < 3 tháng** = RCVS (RCVS2 ≥ 5; MRA có thể âm tuần đầu) | `219` |
 | Chấn thương đầu ở trẻ: máu tụ ngoài trục & DAI | Nội sọ (intracranial, trẻ) | EDH (thấu kính) vs SDH (liềm) vs tSAH vs đụng dập vs DAI vs phù lan tỏa; AHT/NAT | **Thấu kính + dừng ở đường khớp sọ = EDH**; **liềm + vượt khớp = SDH**; **vi xuất huyết thể chai/cuống não trên SWI = DAI** (CT thường âm tính); **SDH nhiều tầng + xuất huyết võng mạc ở < 2 tuổi = AHT/NAT** | `224` |
+| Mờ xương chũm + mòn vách & biến chứng nội sọ | Xương thái dương – hố sau (temporal bone) | Viêm xương chũm cấp biến chứng (CAM): tụ mủ ngoài/dưới màng cứng, áp-xe não, **huyết khối xoang sigma–ngang (OLST)**, viêm màng não; viêm chũm ẩn (masked) | **Mờ chũm + mòn vách xoang sigma/tegmen + khuyết thuốc trên MRV = OLST**; **DWI sáng/ADC tối + viền ngấm = áp-xe não**; **soi tai bình thường KHÔNG loại trừ** (viêm chũm ẩn ở người già/suy giảm miễn dịch); CRP ≥ 12 mg/dL gợi ý CAM | `236`, `235`, `217` |
 
 ## Bài liên quan chéo
 - [211 – Đột quỵ não](../211-dot-quy-nao/lesson.md) *(đã có)*
 - [212 – Xuất huyết sọ](../212-xuat-huyet-so-nao/lesson.md) *(đã có)*
 - [213 – U não](../213-u-nao/lesson.md) *(đã có)*
 - [432 – Vùng yên](../432-vung-yen/lesson.md) (nối chéo khối ngoài trục `217` – tuyến yên)
+- [236 – Viêm tai xương chũm & biến chứng nội sọ](../236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Thần kinh (200–249)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số. Giữ nguyên 100% ID `211, 212, 213` đã tạo.
@@ -65,5 +67,6 @@ certainty: tong-hop-y-van
 **230–249 — Đầu Mặt Cổ & Nền sọ (Head & Neck — Mở rộng)**
 - 230 – Tuyến giáp ACR TI-RADS & Hạch cổ *(đã có — [bài học](../230-tuyen-giap-hach-co/lesson.md))*
 - 235 – Xương thái dương (Cholesteatoma trên DWI non-EPI) & Xoang cạnh mũi (Viêm xoang nấm tăng tỷ trọng vs. U)  *(đã có — [bài học](../235-xuong-thai-duong-xoang/lesson.md))*
+- 236 – Viêm tai xương chũm & biến chứng nội sọ (huyết khối xoang sigma, áp-xe não, viêm màng não; CT xương thái dương + MRI/MRV)  *(đã có — [bài học](../236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
