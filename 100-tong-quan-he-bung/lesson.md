@@ -26,6 +26,8 @@ certainty: tong-hop-y-van
 | Nang thận phức tạp | Thận (kidney) | Bosniak I, II, IIF, III, IV | Ngấm thuốc thật = tăng ≥ 20 HU; Vách dày ≥ 4 mm = Bosniak III; Nốt đặc ngấm thuốc = Bosniak IV | `150` |
 | U thận đặc | Thận | ccRCC, pRCC, chRCC, oncocytoma, AML | Mỡ đại thể −10 đến −100 HU = AML; T2W sáng + mỡ vi thể + ngấm mạnh rồi thải = ccRCC (ccLS ≥ 4); T2W tối đồng nhất + ngấm kém = pRCC; sẹo trung tâm KHÔNG đặc hiệu | `151` |
 | Nang thận trên thận teo (bệnh nhân lọc máu) | Thận | ACKD, ACD-RCC, nang phức tạp (Bosniak) | ≥3 nang/thận + thận nhỏ (~81–85 mm) + đang lọc máu = ACKD; **nốt đặc ngấm trong nền nang** = ACD-RCC (nguy cơ RCC ×100); thận khổng lồ + nang gan = ADPKD | `153` |
+| Thận đa nang hai bên (to) | Thận & Gan | ADPKD, ARPKD/CHF, TSC, VHL, HNF1B, nephronophthisis, ACKD, nang đơn thuần nhiều ổ | **≥ 3 nang (15–39t)/≥ 2 nang mỗi thận (40–59t)/≥ 4 (≥ 60t)** + tiền sử gia đình = ADPKD; **thận to tăng âm vi nang ở trẻ + xơ gan (CHF)** = ARPKD; **báo htTKV + phân độ Mayo 1A–1E** (1C–1E = tiến triển nhanh → cân nhắc tolvaptan) | `157`, `123`, `156` |
+| Sau cắt thận/điều trị RCC — theo dõi tái phát | Thận & di căn (phổi/xương/não/gan) | Tái phát tại chỗ (giường thận), di căn phổi, di căn xương tiêu xương, di căn não, di căn tạng/phúc mạc | **Nốt ngấm mới/tăng kích thước so phim cũ** ở giường thận = tái phát; **di căn xương T1 thấp + tiêu xương + ngấm**; **RECIST 1.1: PD = +20% VÀ +5 mm**; ~30% tái phát sau điều trị triệt căn | `154`, `151` |
 | U thận HAI BÊN/đa ổ ở người trẻ | Thận | Hội chứng di truyền: VHL, BHD, HLRCC, TSC, SDH | Mỡ đại thể (−10 đến −100 HU) = AML (TSC); nang phổi đáy + tràn khí tự phát = BHD; u cơ trơn da/tử cung + RCC nhú typ 2 = HLRCC; u mạch máu TKTW + pheo + nang tụy = VHL; RCC + PGL/pheo/GIST = SDH | `156` |
 | Khối tuyến thượng thận tình cờ | Thượng thận (adrenal) | Adenoma giàu/nghèo mỡ, u tủy thượng thận (pheochromocytoma), di căn, ung thư vỏ thượng thận (ACC) | Không tiêm ≤ 10 HU = Adenoma giàu mỡ; > 10 HU nhưng thải thuốc APW ≥ 60% / RPW ≥ 40% ở 15 phút = Adenoma nghèo mỡ | `155` |
 | Tổn thương khu trú tiền liệt tuyến (PI-RADS v2.1) | Tiền liệt tuyến (prostate) | Ung thư có ý nghĩa lâm sàng (csPCa), viêm, BPH, vùng trung tâm (CZ) | PZ đọc DWI/ADC (b ≥ 1.400), TZ đọc T2W (vỏ bao); 1,5 cm tách 4/5; DCE chỉ nâng 3→4 ở PZ; PI-RADS 3 + PSAD ≥ 0,15 = sinh thiết; ria mép CZ đối xứng = bình thường | `158` |
@@ -88,7 +90,7 @@ certainty: tong-hop-y-van
 </details>
 
 ## Bài liên quan chéo
-- [110 – Giải phẫu bụng](../110-giai-phau-bung/lesson.md) · [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) · [123 – Nang gan & bệnh gan đa nang](../123-nang-gan-va-benh-gan-da-nang/lesson.md) · [124 – Bệnh mạch máu gan](../124-benh-mach-mau-gan/lesson.md) · [131 – Tắc mật](../131-tac-mat/lesson.md) · [132 – Hẹp đường mật không xác định](../132-hop-duong-mat-khong-xac-dinh/lesson.md) · [134 – U nhầy ruột thừa chưa vỡ (LAMN/HAMN) & gốc u nhầy bằng IHC](../134-u-nhay-ruot-thua-chua-vo/lesson.md) · [135 – Viêm tụy](../135-viem-tuy-Atlanta/lesson.md) · [150 – Bosniak](../150-nang-than-Bosniak/lesson.md) · [151 – U thận đặc](../151-u-than-dac/lesson.md) · [153 – ACKD](../153-benh-than-nang-mac-phai-loc-mau/lesson.md) · [156 – Hội chứng di truyền u thận](../156-hoi-chung-di-truyen-u-than/lesson.md) · [155 – Thượng thận](../155-thuong-than-tinh-co/lesson.md) · [160 – Bụng cấp GI](../160-bung-cap-GI/lesson.md)
+- [110 – Giải phẫu bụng](../110-giai-phau-bung/lesson.md) · [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) · [123 – Nang gan & bệnh gan đa nang](../123-nang-gan-va-benh-gan-da-nang/lesson.md) · [124 – Bệnh mạch máu gan](../124-benh-mach-mau-gan/lesson.md) · [131 – Tắc mật](../131-tac-mat/lesson.md) · [132 – Hẹp đường mật không xác định](../132-hop-duong-mat-khong-xac-dinh/lesson.md) · [134 – U nhầy ruột thừa chưa vỡ (LAMN/HAMN) & gốc u nhầy bằng IHC](../134-u-nhay-ruot-thua-chua-vo/lesson.md) · [135 – Viêm tụy](../135-viem-tuy-Atlanta/lesson.md) · [150 – Bosniak](../150-nang-than-Bosniak/lesson.md) · [151 – U thận đặc](../151-u-than-dac/lesson.md) · [153 – ACKD](../153-benh-than-nang-mac-phai-loc-mau/lesson.md) · [154 – RCC di căn & theo dõi sau cắt thận](../154-rcc-di-can-va-theo-doi-sau-cat-than/lesson.md) · [156 – Hội chứng di truyền u thận](../156-hoi-chung-di-truyen-u-than/lesson.md) · [157 – Thận đa nang ADPKD/ARPKD & gan đa nang](../157-benh-than-da-nang-adpkd-arpkd/lesson.md) · [155 – Thượng thận](../155-thuong-than-tinh-co/lesson.md) · [160 – Bụng cấp GI](../160-bung-cap-GI/lesson.md)
 
 ## Quy hoạch Master Curriculum Hệ Bụng (100–180)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -124,8 +126,10 @@ certainty: tong-hop-y-van
 - 151 – U thận đặc: RCC vs oncocytoma vs AML *(đã có — [bài học](../151-u-than-dac/lesson.md))*
 - 152 – Sỏi niệu & ứ nước *(đã có — [bài học](../152-soi-nieu/lesson.md))*
 - 153 – Thận nang mắc phải trên lọc máu & ACD-RCC *(đã có — [bài học](../153-benh-than-nang-mac-phai-loc-mau/lesson.md))*
+- 154 – RCC di căn & theo dõi sau cắt thận *(đã có — [bài học](../154-rcc-di-can-va-theo-doi-sau-cat-than/lesson.md))*
 - 155 – Thượng thận tình cờ *(đã có — [bài học](../155-thuong-than-tinh-co/lesson.md))*
 - 156 – Hội chứng di truyền u thận: VHL/BHD/HLRCC/TSC/SDH *(đã có — [bài học](../156-hoi-chung-di-truyen-u-than/lesson.md))*
+- 157 – Bệnh thận đa nang ADPKD/ARPKD & gan đa nang *(đã có — [bài học](../157-benh-than-da-nang-adpkd-arpkd/lesson.md))*
 - 158 – Tiền liệt tuyến & PI-RADS v2.1 *(đã có — [bài học](../158-tien-liet-tuyen-PIRADS/lesson.md))*
 
 **160–169 — Ống tiêu hóa (GI)**
