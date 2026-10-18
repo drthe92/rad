@@ -29,6 +29,8 @@ certainty: tong-hop-y-van
 | Phù não sau **có hồi phục** vs **co mạch não có hồi phục** | Nhu mô não (vỏ–dưới vỏ) & mạch não | PRES (THA cấp/thuốc độc), RCVS (đau đầu sét đánh tái diễn), nhồi máu, viêm não HSV | Phù **đối xứng dưới vỏ chẩm-đỉnh + ADC TĂNG** = PRES (CT chỉ nhạy 46%/MRI 98%); **ADC TỐI theo lãnh thổ** = nhồi máu; **"chuỗi hạt" co mạch đa ổ, hồi phục < 3 tháng** = RCVS (RCVS2 ≥ 5; MRA có thể âm tuần đầu) | `219` |
 | Chấn thương đầu ở trẻ: máu tụ ngoài trục & DAI | Nội sọ (intracranial, trẻ) | EDH (thấu kính) vs SDH (liềm) vs tSAH vs đụng dập vs DAI vs phù lan tỏa; AHT/NAT | **Thấu kính + dừng ở đường khớp sọ = EDH**; **liềm + vượt khớp = SDH**; **vi xuất huyết thể chai/cuống não trên SWI = DAI** (CT thường âm tính); **SDH nhiều tầng + xuất huyết võng mạc ở < 2 tuổi = AHT/NAT** | `224` |
 | Mờ xương chũm + mòn vách & biến chứng nội sọ | Xương thái dương – hố sau (temporal bone) | Viêm xương chũm cấp biến chứng (CAM): tụ mủ ngoài/dưới màng cứng, áp-xe não, **huyết khối xoang sigma–ngang (OLST)**, viêm màng não; viêm chũm ẩn (masked) | **Mờ chũm + mòn vách xoang sigma/tegmen + khuyết thuốc trên MRV = OLST**; **DWI sáng/ADC tối + viền ngấm = áp-xe não**; **soi tai bình thường KHÔNG loại trừ** (viêm chũm ẩn ở người già/suy giảm miễn dịch); CRP ≥ 12 mg/dL gợi ý CAM | `236`, `235`, `217` |
+| Quy tắc quyết định CHỤP cột sống cổ & khi nào BỎ NẸP | Cột sống cổ (chấn thương kín) | NEXUS · Canadian C-Spine Rule · PECARN CSI (trẻ) · DGOU nhi | **Tỉnh GCS 15 + không tiêu chí = bỏ nẹp, không chụp**; **CCR đặc hiệu 45,1% (NEXUS 36,8%), bỏ sót 1/169 ca so với NEXUS ~10%**; **trẻ: NEXUS chỉ nhạy 85,7% < CCR 90,8% < PECARN 93,3% → dùng PECARN**; không áp dụng được ở bệnh nhân hôn mê → CT ± MRI | `202`, `221`, `223` |
+| Tủy mềm KHÔNG do chấn thương | Tủy sống (nội tủy) | Nhồi máu tủy (ASA) · SDAVF · viêm tủy cấp/NMOSD · tủy mềm do xạ · (loại trừ chèn ép) | **Đột ngột + đau + DWI hạn chế + 2/3 trước = nhồi máu tủy**; **flow void + phù lan dài từ nón tủy = SDAVF → DSA**; **LETM ≥ 3 đốt + H-sign + area postrema = NMOSD**; **nhiều tháng sau xạ, tổn thương trong trường chiếu = RM** | `226`, `225`, `215`, `220` |
 
 ## Bài liên quan chéo
 - [211 – Đột quỵ não](../211-dot-quy-nao/lesson.md) *(đã có)*
@@ -43,6 +45,7 @@ certainty: tong-hop-y-van
 **200–210 — Tổng quan, Giải phẫu cắt lớp & Kỹ thuật sọ não**
 - **200** – Tổng quan Hệ Thần kinh / Neuro overview *(bài này)*
 - 201 – Protocol CT/MRI sọ não: Cửa sổ đột quỵ, DWI/ADC, Tưới máu (Perfusion), SWI & Chuỗi xung mạch CTA/MRA/MRV  *(đã có — [bài học](../201-protocol-so-nao/lesson.md))*
+- 202 – Quy tắc quyết định chụp cột sống cổ cấp cứu (NEXUS & Canadian C-Spine Rule, PECARN CSI trẻ) + khi nào bỏ nẹp cổ  *(đã có — [bài học](../202-quy-tac-chup-cot-song-co-cap-cuu-nexus-canadian/lesson.md))*
 - 210 – Giải phẫu cắt lớp sọ não: Các thùy não, Hạch nền, Bao trong, Hố sau & Đa giác Willis (vùng cấp máu ACA/MCA/PCA)  *(đã có — [bài học](../210-giai-phau-so-nao/lesson.md))*
 
 **211–212 & 216 — Cấp cứu Mạch máu não & Xuất huyết nội sọ**
@@ -64,6 +67,8 @@ certainty: tong-hop-y-van
 - 222 – Viêm thân đốt sống - đĩa đệm (Lao cột sống Pott vs. Vi khuẩn sinh mủ) vs. Di căn cột sống (dấu mất mắt cú)  *(đã có — [bài học](../222-viem-dot-song/lesson.md))*
 - 223 – Chấn thương tủy sống: thang ASIA (AIS A–E, sacral sparing) & SCIWORA (CT bình thường — phù vs xuất huyết tủy trên MRI)  *(đã có — [bài học](../223-chan-thuong-tuy-so/lesson.md))*
 - 224 – Chấn thương sọ não ở trẻ (TBI nhi): phân độ **Marshall (I–VI)** & **Rotterdam (1–6)**, khoang dưới nhện (bể nền/tSAH), đụng dập vs DAI (SWI), EDH vs SDH, quy tắc **PECARN** & AHT/NAT  *(đã có — [bài học](../224-chan-thuong-so-nao-nhi/lesson.md))*
+- 225 – Hội chứng tủy KHÔNG hoàn toàn: tủy trung tâm (CCS), tủy trước (ASA), Brown-Séquard, tủy sau  *(đã có — [bài học](../225-hoi-chung-tuy-khong-hoan-toan/lesson.md))*
+- 226 – Tủy mềm KHÔNG chấn thương: nhồi máu tủy, dò động–tĩnh mạch màng cứng (SDAVF), viêm tủy cấp/NMOSD, tủy mềm do xạ  *(đã có — [bài học](../226-tuy-mem-khong-chan-thuong-nhoi-mau-sdavf-nmo-xa/lesson.md))*
 
 **230–249 — Đầu Mặt Cổ & Nền sọ (Head & Neck — Mở rộng)**
 - 230 – Tuyến giáp ACR TI-RADS & Hạch cổ *(đã có — [bài học](../230-tuyen-giap-hach-co/lesson.md))*

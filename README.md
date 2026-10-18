@@ -124,6 +124,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 212 | [Xuất huyết sọ](212-xuat-huyet-so-nao/lesson.md) | `pattern:xuat-huyet-so` |
 | 213 | [U não](213-u-nao/lesson.md) | `pattern:u-nao` |
 | 201 | [Protocol sọ não](201-protocol-so-nao/lesson.md) | `protocol:CT-MRI-so-nao` |
+| 202 | [Quy tắc chụp cột sống cổ cấp cứu (NEXUS/Canadian) & bỏ nẹp cổ](202-quy-tac-chup-cot-song-co-cap-cuu-nexus-canadian/lesson.md) | `pattern:chan-thuong-cot-song` `pattern:quy-tac-quyet-dinh` `vung:cot-song-co` `score:NEXUS` `score:Canadian-C-Spine-Rule` `score:PECARN-CSI` |
 | 210 | [Giải phẫu sọ não](210-giai-phau-so-nao/lesson.md) | `anatomy:nao` |
 | 214 | [Nhiễm trùng TKTW](214-nhiem-trung-tktw/lesson.md) | `pattern:nhiem-trung-tktw` |
 | 215 | [Mất myelin](215-mat-myelin/lesson.md) | `score:McDonald` |
@@ -140,6 +141,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 235 | [Thái dương & xoang: cholesteatoma DWI + nấm vs u](235-xuong-thai-duong-xoang/lesson.md) | `pattern:xuong-thai-duong-xoang` `vung:dau-mat-co` `protocol:MRI-non-EPI` |
 | 236 | [Viêm tai xương chũm & biến chứng nội sọ: huyết khối xoang, áp-xe não](236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md) | `pattern:viem-xuong-chum` `pattern:bien-chung-noi-so` `pattern:huyet-khoi-xoang-tinh-mach` `pattern:apxe-nao` `vung:xuong-thai-duong` `score:CAM` `protocol:CT-xuong-thai-duong` `protocol:MRI-MRV` |
 | 225 | [Hội chứng tủy không hoàn toàn: tủy trung tâm, tủy trước, Brown-Séquard, tủy sau](225-hoi-chung-tuy-khong-hoan-toan/lesson.md) | `pattern:hoi-chung-tuy` `pattern:tuy-khong-hoan-toan` `vung:tuy-song` `score:ASIA` `protocol:MRI-cot-song` `protocol:CT-cot-song` |
+| 226 | [Tủy mềm KHÔNG chấn thương: nhồi máu tủy, SDAVF, viêm tủy/NMOSD, tủy mềm do xạ](226-tuy-mem-khong-chan-thuong-nhoi-mau-sdavf-nmo-xa/lesson.md) | `pattern:tuy-mem` `pattern:nhoi-mau-tuy` `pattern:di-dong-tinh-mach-mang-cung` `pattern:viem-tuy` `pattern:tuy-mem-do-xa` `vung:tuy-song` `protocol:DSA-tuy` |
 | 657 | [Dị tật hố sau: Joubert & rhombencephalosynapsis](657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) | `pattern:di-dang-ho-sau` `pattern:rang-ham` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
 
 ## Hệ Cơ – Xương – Khớp (dải 300, đang khởi tạo)
