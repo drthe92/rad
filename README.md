@@ -139,6 +139,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 230 | [Giáp & hạch cổ](230-tuyen-giap-hach-co/lesson.md) | `score:TI-RADS` |
 | 235 | [Thái dương & xoang: cholesteatoma DWI + nấm vs u](235-xuong-thai-duong-xoang/lesson.md) | `pattern:xuong-thai-duong-xoang` `vung:dau-mat-co` `protocol:MRI-non-EPI` |
 | 236 | [Viêm tai xương chũm & biến chứng nội sọ: huyết khối xoang, áp-xe não](236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md) | `pattern:viem-xuong-chum` `pattern:bien-chung-noi-so` `pattern:huyet-khoi-xoang-tinh-mach` `pattern:apxe-nao` `vung:xuong-thai-duong` `score:CAM` `protocol:CT-xuong-thai-duong` `protocol:MRI-MRV` |
+| 225 | [Hội chứng tủy không hoàn toàn: tủy trung tâm, tủy trước, Brown-Séquard, tủy sau](225-hoi-chung-tuy-khong-hoan-toan/lesson.md) | `pattern:hoi-chung-tuy` `pattern:tuy-khong-hoan-toan` `vung:tuy-song` `score:ASIA` `protocol:MRI-cot-song` `protocol:CT-cot-song` |
 | 657 | [Dị tật hố sau: Joubert & rhombencephalosynapsis](657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) | `pattern:di-dang-ho-sau` `pattern:rang-ham` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
 
 ## Hệ Cơ – Xương – Khớp (dải 300, đang khởi tạo)
@@ -203,6 +204,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 567 | [Sàng lọc lệch bội: NIPT & dấu hiệu mềm](567-sang-loc-lech-boi-NIPT-dau-hieu-mem/lesson.md) | `pattern:lech-boi` `vung:thai-nhi` `score:LR-dau-hieu-mem` `protocol:NIPT` `protocol:SA-hinh-thai` |
 | 568 | [TRAP & thai acardiac (song thai đảo ngược tưới máu)](568-trap-song-thai-acardiac/lesson.md) | `pattern:song-thai` `pattern:acardiac` `pattern:dong-chay-nguoc` `vung:thai-nhi` `vung:banh-nhau` `score:APTW` `protocol:Doppler-ron` `protocol:RFA-thai` |
 | 569 | [Sinh non ở song thai: sàng lọc cổ tử cung & dự phòng](569-sinh-non-song-thai/lesson.md) | `pattern:sinh-non-song-thai` `pattern:co-tu-cung-ngan` `vung:co-tu-cung` `vung:thai-nhi` `score:CL-25mm` `protocol:TVUS-co-tu-cung` `protocol:cerclage-pessary` |
+| 570 | [Tư vấn NIPT không xác định (no-call) & dương tính giả](570-tu-van-NIPT-khong-xac-dinh/lesson.md) | `pattern:nipt-khong-xac-dinh` `pattern:duong-tinh-gia` `vung:thai-nhi` `protocol:NIPT` `protocol:MRI-toan-than` `protocol:choc-oi-sinh-thiet-gai-nhau` |
 | 571 | [Sẩy thai tái diễn: tiếp cận hình ảnh tử cung](571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md) | `pattern:say-thai-tai-dien` `vung:tu-cung` `score:ESHRE-ESGE` `score:ASRM` `protocol:sonohysterography` `protocol:MRI-tu-cung` |
 | 572 | [Hạch trong ung thư phụ khoa: SLN, hạch chậu–cạnh ĐMC & PET-CT](572-hach-ung-thu-phu-khoa-SLN-PET/lesson.md) | `pattern:hach-di-can` `vung:hach-chau` `vung:hach-canh-dmc` `score:FIGO` `protocol:PET-CT` `protocol:SLN-ICG` |
 | 574 | [Ung thư âm hộ & âm đạo: FIGO 2021 + hạch bẹn–đùi & SLN](574-ung-thu-am-ho-am-dao-FIGO-hach-ben/lesson.md) | `pattern:u-am-ho` `pattern:u-am-dao` `pattern:hach-ben-di-can` `vung:am-ho` `vung:am-dao` `score:FIGO-2021` `protocol:MRI-chau` `protocol:PET-CT` `protocol:SLN` |

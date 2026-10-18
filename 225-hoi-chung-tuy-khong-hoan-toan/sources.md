@@ -1,0 +1,26 @@
+# Nguồn gốc — 225-hoi-chung-tuy-khong-hoan-toan
+
+> Hội chứng tủy không hoàn toàn (tủy trung tâm, tủy trước, Brown-Séquard, tủy sau) + nón tủy/đuôi ngựa. Ngày quét: 2026-10-18. Kiểm chứng giấy phép từng ảnh trước khi tải.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / Biomedicines (MDPI) | Stevens AR et al. Neurotrauma—From Injury to Repair: Clinical Perspectives, Cellular Mechanisms and Promoting Regeneration of the Injured Brain and Spinal Cord. Biomedicines 2024;12(3):643 (PMC10968440) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10968440/ | CC BY 4.0 | `images/225_tuy-tracts_Schema_PMC10968440-Fig2-CCBY.jpg`, `images/225_tuy-khong-hoan-toan_Schema_PMC10968440-Fig3-CCBY.jpg` |
+| 2 | Europe PMC / J Clin Med (MDPI) | McDearman JC et al. Traumatic Spinal Cord Injury: A Contemporary Review of Classification, Evaluation, and Acute Management. J Clin Med 2026;15:6175 (PMC13512939) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13512939/ | CC BY 4.0 | Số liệu (CCS 11.000 ca/năm; anterior cord 1,2% đột quỵ, 3,7/100.000, tử vong 9–23%; Brown-Séquard ~11.000 ca/năm, ~4% Na Uy; conus 1,5/1 triệu, cauda equina 3,4/1 triệu; A→D 2,3%) — không dùng ảnh |
+| 3 | Europe PMC / Brain Spine | Martínez-Palacios K et al. Traumatic central cord syndrome: An integrated neurosurgical and neurocritical care perspective. Brain Spine 2025;5:104281 (PMC12166739) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12166739/ | CC BY-NC-ND 4.0 | Số liệu (CCS hay gặp nhất; tần suất 15–25%; tiêu chuẩn Pouw ≥ 10 điểm) — không dùng ảnh (giữ nguyên bản nếu dùng) |
+| 4 | Europe PMC / Cureus | Katayama M et al. Neurologic Deterioration in Acute Traumatic Central Cord Syndrome Without Bone Injury Caused by Traumatic... Cureus 2025;17(9):e93072 (PMC12550345) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12550345/ | CC BY 4.0 | `images/225_tuy-trung-tam_CT-MRI_PMC12550345-Fig1-CCBY.jpg` |
+| 5 | Europe PMC / Front Radiol (Frontiers) | Kavya BT et al. Case Report: Sulcal artery infarction presenting as incomplete Brown-Séquard syndrome following spinal anesthesia... Front Radiol 2025;5:1672382 (PMC12620253) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12620253/ | CC BY 4.0 | `images/225_tuy-truoc_MRI_PMC12620253-Fig1-CCBY.jpg` |
+| 6 | Europe PMC / Case Rep Neurol (Karger) | Kraus MJ, Nguyen J. Unilateral Anterior Spinal Artery Syndrome following Spinal Anesthesia for Cesarian Section: A Case Report. Case Rep Neurol 2024;16:142-147 (PMC11250075) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11250075/ | CC BY-NC 4.0 | `images/225_tuy-truoc-dong-mach_MRI_PMC11250075-Fig1-CCBYNC.jpg` (nguyên bản) |
+| 7 | Europe PMC / J Neurosurg Case Lessons | Torres J et al. Brown-Séquard syndrome after blunt cervical spine trauma in a patient with preinjury multilevel hemilaminectomies and OPLL. J Neurosurg Case Lessons 2024;8:CASE24637 (PMC11670128) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11670128/ | CC BY-NC-ND 4.0 | `images/225_brown-sequard_MRI_PMC11670128-Fig4-CCBYNCND.jpg` (nguyên bản, không crop/ghép) |
+| 8 | Europe PMC / J Orthop Case Rep | Raj S et al. Blunt Traumatic Posterior Cord Syndrome Following a Hangman Fracture: A Case Report. J Orthop Case Rep 2026;16(4):172-176 (PMC13552138) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13552138/ | CC BY-NC 4.0 | `images/225_tuy-sau_MRI_PMC13552138-Fig3-CCBYNC.jpg` (nguyên bản) |
+| 9 | Europe PMC / J Pediatr Rehabil Med | Martinez-Santori M et al. A confounding pediatric spinal cord injury: Anterior, central, or both? J Pediatr Rehabil Med 2024;17:426-430 (PMC13292633) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13292633/ | CC BY-NC 4.0 | Số liệu (CCS ~90% phục hồi vận động trong 3 năm; hồi phục ascending; ASAS hiếm khi về nền) — không dùng ảnh |
+| 10 | Europe PMC / Clin Pract (MDPI) | Moreno-González E, Ibarra A. The Critical Management of Spinal Cord Injury: A Narrative Review. Clin Pract 2024;15(1):2 (PMC11840280) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11840280/ | CC BY 4.0 | Bối cảnh mô tả 4 hội chứng — không dùng ảnh |
+| 11 | Europe PMC / Front Neurol (Frontiers) | Shakil H et al. Pathophysiology and surgical decision-making in central cord syndrome and degenerative cervical myelopathy. Front Neurol 2023;14:1276399 (PMC10690824) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10690824/ | CC BY 4.0 | `images/225_tuy-trung-tam_CT-MRI_PMC10690824-Fig2-CCBY.jpg` |
+| 12 | Radiopaedia | Spinal cord injury — incomplete syndromes (index) | https://radiopaedia.org/search?q=incomplete+spinal+cord+syndrome | CC BY-NC-SA (từng ca) | dẫn link — không scrape |
+| 13 | AuntMinnie | Spinal cord syndromes — Case of the Day | https://www.auntminnie.com/ | paywall | không tải, chỉ dẫn link |
+
+## Ghi chú giấy phép
+- **CC BY 4.0** (PMC10968440, PMC13512939, PMC12550345, PMC12620253, PMC11840280, PMC10690824): dùng/ghép được khi ghi nguồn.
+- **CC BY-NC 4.0** (PMC11250075, PMC13552138, PMC13292633): dùng cho học phi thương mại; các ảnh dùng **giữ nguyên bản**.
+- **CC BY-NC-ND 4.0** (PMC12166739, PMC11670128): **giữ nguyên bản, KHÔNG crop/ghép**; chỉ ghép ảnh CC BY.
+- Ảnh ghép `composite_225_tuy-trung-tam-vs-tuy-truoc.jpg` chỉ ghép **2 ảnh CC BY** (PMC12550345 + PMC12620253).
+- Tên tác giả ghi theo `authorString` đối chiếu trực tiếp PMCID qua Europe PMC (không bịa tên/niên đại).
