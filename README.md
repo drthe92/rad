@@ -114,6 +114,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 156 | [Hội chứng di truyền u thận: VHL/BHD/HLRCC/TSC/SDH](156-hoi-chung-di-truyen-u-than/lesson.md) | `pattern:u-than-dac` `pattern:u-than-hai-ben` `vung:than` `protocol:sang-loc-u-than-di-truyen` `incidentaloma:u-than-tinh-co` |
 | 157 | [Bệnh thận đa nang ADPKD/ARPKD & gan đa nang](157-benh-than-da-nang-adpkd-arpkd/lesson.md) | `pattern:than-da-nang` `vung:than` `vung:gan` `score:Mayo-MIC` `protocol:sang-loc-than-da-nang` `incidentaloma:nang-gan-than` |
 | 155 | [Thượng thận tình cờ](155-thuong-than-tinh-co/lesson.md) | `incidentaloma:thuong-than` |
+| 168 | [U tủy thượng thận & u cận hạch (pheochromocytoma/paraganglioma)](168-pheo-paraganglioma/lesson.md) | `pattern:khoi-thuong-than` `pattern:paraganglioma` `vung:thuong-than` `vung:paraganglia` `protocol:MIBG-DOTATATE` `incidentaloma:u-thuong-than` |
 | 158 | [Tiền liệt tuyến PI-RADS](158-tien-liet-tuyen-PIRADS/lesson.md) | `score:PI-RADS` |
 | 159 | [Bàng quang VI-RADS & UTUC](159-bang-quang-virads-u-duong-nieu-tren/lesson.md) | `score:VI-RADS` |
 | 160 | [Bụng cấp cứu GI](160-bung-cap-GI/lesson.md) | `protocol:CT-bung-cap` |
