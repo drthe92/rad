@@ -308,6 +308,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 659 | [Thiểu sản cầu–tiểu não (PCH/PHSD) & loạn dưỡng chất trắng giảm myelin POLR3B](659-thieu-san-cau-tieu-nao-pch-polr3b/lesson.md) | `pattern:thieu-san-cau-tieu-nao` `pattern:giam-myelin` `pattern:dragonfly` `pattern:figure-of-8` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
 | 645 | [Vỡ khung chậu ở trẻ (Tile/AO, Young–Burgess, WSES, kiểm soát chảy máu)](645-vo-khung-chau-o-tre/lesson.md) | `pattern:vo-khung-chau` `pattern:chan-thuong-bung` `vung:khung-chau-nhi` `score:Tile-AO` `score:Young-Burgess` `score:WSES` `protocol:CT-bung-chau-can-quang` `protocol:pelvic-binder` `protocol:nut-mach` |
 | 643 | [Chấn thương đáy chậu – sinh dục ngoài ở trẻ (máu tụ âm hộ, rách âm đạo, vỡ khung chậu mở)](643-chan-thuong-day-chau-sinh-duc-nhi/lesson.md) | `pattern:chan-thuong-day-chau` `pattern:mau-tu-am-ho` `pattern:rach-am-dao` `pattern:khung-chau-mo` `vung:day-chau-nhi` `vung:sinh-duc-nhi` `score:WSES-open-pelvic` `protocol:CT-bung-chau-can-quang` `protocol:CTA-nut-mach` `protocol:US-day-chau` |
+| 670 | [Hội chứng tiểu phế quản tắc nghẽn (BOS) sau ghép tế bào gốc / ghép phổi ở trẻ (ứ khí thì thở ra, tiêu chuẩn NIH 2014)](670-bos-sau-ghep-te-bao-goc-ghep-phoi-o-tre/lesson.md) | `pattern:bos` `pattern:u-khi` `pattern:viem-tieu-phe-quan` `vung:phe-quan` `vung:phoi` `score:NIH-2014` `score:ISHLT-CLAD` `protocol:HRCT-thi-tho-ra` `protocol:spirometry` `protocol:theo-doi-sau-ghep` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
 | ID | Bài | Tags 4 chiều |

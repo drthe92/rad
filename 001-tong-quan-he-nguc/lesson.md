@@ -12,6 +12,14 @@ certainty: tong-hop-y-van
 **Tags:** `tong-quan`
 **Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — cập nhật sau đợt 041/031/033 (7 bài ngực).
 
+## Trục chính của hệ Ngực — học thuyết thể tích (volume-loss doctrine)
+- **Đông đặc (consolidation):** tổn thương THAY khí trong phế nang nhưng **GIỮ thể tích** → **không** di lệch rãnh liên thùy/trung thất; thường có **phế quản hơi (air bronchogram)**.
+- **Xẹp (atelectasis):** mất khí + **MẤT thể tích** → **rãnh liên thùy, trung thất và cơ hoành bị KÉO về phía tổn thương** (dấu chốt duy nhất); phế quản hơi có thể mất khi tắc trung tâm hoàn toàn.
+- **Gợi ý nhanh:** bờ phổi tạng tách thành ngực 1–2 mm hoặc thấy đường màng phổi = tràn khí; meniscus khác nhau trên 2 bình diện = tràn dịch; mờ giới hạn theo rãnh + dấu silhouette = viêm thùy giữ thể tích.
+
+![Đông đặc giữ thể tích vs xẹp mất thể tích](images/composite_dongdac-vs-xep.jpg)
+*Trái: viêm phổi đông đặc — tổn thương gây mờ nhưng KHÔNG kéo trung thất/rãnh (giữ thể tích). Phải: xẹp gần toàn bộ phổi phải — trung thất KÉO SANG PHẢI (mất thể tích). Nguồn: CDC/FDA (Public domain) + Hellerhoff (CC BY-SA 3.0). Ảnh ghép letterbox.*
+
 ## Bảng so sánh phân biệt bắt buộc (hệ Ngực)
 | Mẫu hình (pattern) | Vị trí (location) | Gamut chính (DDx) | Phân biệt nhanh | Bài chi tiết |
 |---|---|---|---|---|
