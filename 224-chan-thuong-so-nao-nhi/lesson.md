@@ -211,6 +211,8 @@ flowchart TD
 - [650 – Thần kinh nhi: xuất huyết mầm & u hố sau](../650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md)
 - [655 – HIE sơ sinh & dị tật bẩm sinh](../655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md) (DDx não nhi)
 - [223 – Chấn thương tủy sống: ASIA & SCIWORA](../223-chan-thuong-tuy-so/lesson.md) (chấn thương thần kinh trục)
+- [231 – BCVI & vỡ sọ tiến triển ở trẻ](../231-ton-thuong-mach-mau-nao-chan-thuong-va-vo-so-tien-trien/lesson.md) (biến chứng mạch máu – xương sọ)
+- [232 – Chấn thương đầu nhẹ & concussion ở trẻ](../232-chan-thuong-dau-nhe-concussion-o-tre/lesson.md) (PECARN, quan sát, quay lại học/thể thao)
 
 ## Ảnh
 - `images/224_chan-thuong-so-nao-nhi_MRI_PMC11193985-Fig1-contusion-CCBYNC.jpg` — đụng dập vỏ não (CC BY-NC 3.0).

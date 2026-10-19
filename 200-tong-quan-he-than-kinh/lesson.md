@@ -57,6 +57,8 @@ certainty: tong-hop-y-van
 - [228 – Thoát vị đĩa đệm thắt lưng & phân độ Pfirrmann/Modic](../228-thoat-vi-dia-dem-that-lung-pfirrmann-modic/lesson.md) *(đã có)*
 - [229 – Viêm mạch TKTW nguyên phát (PACNS) vs co mạch não có hồi phục (RCVS)](../229-pacns-vs-rcvs/lesson.md) *(đã có)*
 - [234 – Tăng áp lực nội sọ & theo dõi đa phương thức ở trẻ TBI (EVD, osmotherapy, giải ép, CPPopt)](../234-tang-ap-luc-noi-so-theo-doi-da-phuong-thuc-nhi/lesson.md) *(đã có)*
+- [231 – Tổn thương mạch máu não do chấn thương (BCVI) & vỡ sọ tiến triển ở trẻ](../231-ton-thuong-mach-mau-nao-chan-thuong-va-vo-so-tien-trien/lesson.md) *(đã có)*
+- [232 – Chấn thương đầu nhẹ & chấn động não (concussion) ở trẻ: PECARN, quan sát 4–6 giờ & quay lại học/thể thao](../232-chan-thuong-dau-nhe-concussion-o-tre/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Thần kinh (200–249)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số. Giữ nguyên 100% ID `211, 212, 213` đã tạo.
@@ -95,6 +97,8 @@ certainty: tong-hop-y-van
 
 **230–249 — Đầu Mặt Cổ & Nền sọ (Head & Neck — Mở rộng)**
 - 230 – Tuyến giáp ACR TI-RADS & Hạch cổ *(đã có — [bài học](../230-tuyen-giap-hach-co/lesson.md))*
+- 231 – Tổn thương mạch máu não do chấn thương (BCVI) & vỡ sọ tiến triển: **Denver/Biffl I–V**, **McGovern ≥ 3**, **CTA 1 mm**, **aspirin 3–5 mg/kg (tối đa 81 mg)**, **MRI T2 cho GSF**  *(đã có — [bài học](../231-ton-thuong-mach-mau-nao-chan-thuong-va-vo-so-tien-trien/lesson.md))*
+- 232 – Chấn thương đầu nhẹ & chấn động não (concussion) ở trẻ: **PECARN < 2 / ≥ 2 tuổi**, **quan sát 4–6 giờ**, **không CT để chẩn đoán concussion**, **nghỉ tương đối 24–48 giờ**, **6 bước quay lại thể thao**  *(đã có — [bài học](../232-chan-thuong-dau-nhe-concussion-o-tre/lesson.md))*
 - 235 – Xương thái dương (Cholesteatoma trên DWI non-EPI) & Xoang cạnh mũi (Viêm xoang nấm tăng tỷ trọng vs. U)  *(đã có — [bài học](../235-xuong-thai-duong-xoang/lesson.md))*
 - 236 – Viêm tai xương chũm & biến chứng nội sọ (huyết khối xoang sigma, áp-xe não, viêm màng não; CT xương thái dương + MRI/MRV)  *(đã có — [bài học](../236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md))*
 
