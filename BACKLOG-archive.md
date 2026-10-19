@@ -384,3 +384,6 @@
 
 - 2026-10-19 (turn `deepseek-v4.1-flash`): viết **245** (pituitary apoplexy; 4 ảnh CC BY 4.0; PAS + mermaid + quiz 3 ca) và **247** (CeAD/BCVI; 4 ảnh CC BY 4.0; Denver I–V + mermaid + quiz 3 ca). Cập nhật 200/README/index; flip #174/#175; append #267/#268 (ID 246 Sheehan, ID 248 can thiệp nội mạch).
 - selfcheck PASS (307 bài), lint PASS, mermaid PASS, author-check PASS; commit `3c537ba`, push `origin/master`.
+
+- 2026-10-19 (turn `deepseek-v4.1-flash`): viết **246** (Sheehan; 3 ảnh CC BY 4.0; MRI cấp/mạn + mermaid + quiz 3 ca) và **248** (can thiệp nội mạch giả phình/bóc tách mạch cổ; 3 ảnh CC BY 4.0; bảng 7 hàng + mermaid + quiz 3 ca). Flip #267/#268; append #294 (ID 249 — CCF sau chấn thương).
+- Cập nhật 200/README/index; selfcheck/lint/mermaid/author-check PASS.
