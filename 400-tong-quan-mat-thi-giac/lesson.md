@@ -12,6 +12,18 @@ certainty: tong-hop-y-van
 **Tags:** `tong-quan`
 **Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis).
 
+## Hình ảnh nền tảng (giải phẫu & phương thức)
+> Ba ảnh nền tảng để định hướng trước khi đọc các bài chi tiết: giải phẫu nhãn cầu → ảnh đáy mắt bình thường → OCT võng mạc bình thường.
+
+| Giải phẫu nhãn cầu (anatomy) | Đáy mắt bình thường (fundus) | OCT võng mạc bình thường (macular OCT) |
+|---|---|---|
+| ![Giải phẫu nhãn cầu](images/400_tong-quan_giai-phau-mat_Wikimedia-Aliyu-CC0.jpg) | ![Đáy mắt bình thường](images/400_tong-quan_fundus-binh-thuong_Wikimedia-NEI-PD.jpg) | ![OCT võng mạc bình thường](images/400_tong-quan_OCT-vong-mac-binh-thuong_Wikimedia-Bobjgalindo-CCBYSA.jpg) |
+
+- **Giải phẫu:** nhãn cầu = **giác mạc → tiền phòng → thuỷ tinh thể → dịch kính**; thành sau gồm **võng mạc (retina) – hắc mạc (choroid) – củng mạc (sclera)**; **hoàng điểm (macula)** ở cực sau, **đĩa thị (optic disc)** nơi các sợi trục và mạch trung tâm võng mạc ra vào.
+- **Đáy mắt bình thường:** đĩa thị sáng, mạch xuất phát từ đĩa chia 4 hướng, **hoàng điểm sẫm hơn** (do biểu mô sắc tố dày), không xuất tiết/xuất huyết/đốm bông.
+- **OCT võng mạc (quang học đồng tiêu — Optical Coherence Tomography):** cắt ngang võng mạc thành các lớp; **lõm trung tâm (foveal depression)** ở hoàng điểm là bình thường. OCT là chốt cho **phù hoàng điểm, dịch dưới võng mạc, màng trước võng mạc, teo/lớp sợi thần kinh (RNFL)**. (Xem bài [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md).)
+- Nguồn ảnh: Wikimedia Commons — CC0 (Aliyu Mohammed Aliyu), Public domain (NIH/NEI), CC BY-SA 4.0 (Bobjgalindo); chi tiết ở `images/CREDITS.md`.
+
 ## Bảng so sánh phân biệt bắt buộc (Mắt & thị giác)
 | Mẫu hình (pattern) | Vị trí (location) | Gamut chính (DDx) | Phân biệt nhanh | Bài chi tiết |
 |---|---|---|---|---|
@@ -47,6 +59,7 @@ certainty: tong-hop-y-van
 | Võng mạc ĐTĐ | Võng mạc (retina) | NPDR/PDR, DME | 4-2-1; CST ≥ 300 µm; PRP 1200–1600 | [443](../443-vong-mac-dai-thao-duong/lesson.md) |
 | Tân mạch võng mạc trẻ sinh non | Võng mạc (retina) | ROP (ICROP) | Non tháng ≤ 30 tuần/≤ 1500 g + zone/stage/plus; **AP-ROP = cấp cứu** | [456](../456-benh-vong-mac-tre-sinh-non/lesson.md) |
 | Bệnh "giả ROP" ở trẻ đủ tháng | Võng mạc (retina) | **FEVR, Norrie, incontinentia pigmenti, Coats**, PHPV; **Coats plus** (CTC1) khi hai bên + bệnh hệ thống | **Trẻ ĐỦ tháng** (không sinh non) + leukocoria/bong võng mạc; **FA ngoại vi là chốt**; loại trừ **retinoblastoma** trước; **Coats-like HAI BÊN + vôi hóa/nang não = Coats plus** | [457](../457-benh-gia-rop-tre-du-thang/lesson.md), [465](../465-coats-plus-syndrome-ctc1/lesson.md) |
+| **U hạt ngoại vi + dây co kéo dịch kính** | Võng mạc–dịch kính (retina–vitreous) | **Toxocariasis nội nhãn (OLM)** vs retinoblastoma, Coats, PFV, FEVR, Toxoplasma, DUSN | **Trẻ + u hạt ngoại vi (90% thái dương) + dây xơ co kéo tới đĩa thị + ELISA *Toxocara* (+)** = OLM; **loại trừ RB (canxi hóa thô) trước**; **FA có thể bỏ sót u hạt** | [466](../466-toxocariasis-noi-nhan/lesson.md) |
 | Di chứng & theo dõi dài hạn sau ROP | Võng mạc (retina) | Tái hoạt sau anti-VEGF, cicatricial, cận thị/lác/nhược thị, bong VM muộn, glaucoma góc đóng | **Chuỗi ảnh phân biệt tái hoạt (tiến triển) vs di chứng (ổn định)**; anti-VEGF theo dõi **≥ 65 tuần PMA**; khúc xạ liệt điều tiết + chỉnh thị | [458](../458-di-chung-theo-doi-dai-han-sau-rop/lesson.md) |
 | Bệnh võng mạc tăng huyết áp/bệnh máu | Võng mạc (retina) | HTR (KWB), thiếu máu, sickle cell, leukemia | Đốm bông + xuất huyết tia + sao hoàng điểm ← HA cao; Roth spot ← thiếu máu | [453](../453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md) |
 | Màng dịch kính | Nhãn cầu (globe) | Bong võng mạc, XH dịch kính, bong hắc mạc | V/Y dính đĩa = võng mạc; aftermovement = máu; T-sign = hắc mạc | [411](../411-sieu-am-nhan-cau/lesson.md) |
@@ -93,6 +106,7 @@ certainty: tong-hop-y-van
 - [462 – U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh: IL-10/MYD88 + PET-CT](../462-u-lympho-noi-nhan-PVRL/lesson.md) *(mới)*
 - [463 – Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball" & "chuỗi ngọc trai"](../463-viem-noi-nhan-noi-sinh-nam/lesson.md) *(mới)*
 - [465 – Coats plus (CTC1/CRMCC): bệnh võng mạc giống Coats hai bên + vôi hóa–nang não & chảy máu tiêu hóa](../465-coats-plus-syndrome-ctc1/lesson.md) *(mới)*
+- [466 – Toxocariasis nội nhãn (ấu trùng di chuyển ở mắt): u hạt ngoại vi + dây co kéo](../466-toxocariasis-noi-nhan/lesson.md) *(mới)*
 - [437 – Teo thị kèm ĐIẾC: DOA+/OPA1 & WFS1 trội (Wolfram-like)](../437-teo-thi-kem-diec/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
@@ -152,6 +166,7 @@ certainty: tong-hop-y-van
 - 463 – Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball"/"chuỗi ngọc trai" & phác đồ kháng nấm *(đã có — [bài học](../463-viem-noi-nhan-noi-sinh-nam/lesson.md))*
 - 464 – Viêm thần kinh thị tái phát (CRION) & thể "âm tính kép": phụ thuộc steroid, MOG 92%, OCT pRNFL 39,3 µm, loại trừ AQP4/MOG *(đã có — [bài học](../464-viem-than-kinh-thi-tai-phat-CRION/lesson.md))*
 - 465 – Coats plus (CTC1/CRMCC): bệnh võng mạc giống Coats hai bên + vôi hóa–nang não & chảy máu tiêu hóa *(đã có — [bài học](../465-coats-plus-syndrome-ctc1/lesson.md))*
+- 466 – Toxocariasis nội nhãn (ấu trùng di chuyển ở mắt): u hạt ngoại vi + dây co kéo, ELISA/Goldmann–Witmer *(đã có — [bài học](../466-toxocariasis-noi-nhan/lesson.md))*
 - 470–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -89,6 +89,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 463 | [Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball" & "chuỗi ngọc trai"](463-viem-noi-nhan-noi-sinh-nam/lesson.md) | `pattern:viem-noi-nhan` `pattern:fluff-ball` `pattern:viet-dich-kinh-noi-sinh` `vung:vong-mac` `vung:dich-kinh` `protocol:soi-day-mat` `protocol:PCR-dich-kinh` `protocol:khang-nam-toan-than` `incidentaloma:viem-noi-nhan-nam` |
 | 464 | [Viêm thần kinh thị tái phát (CRION) & thể "âm tính kép"](464-viem-than-kinh-thi-tai-phat-CRION/lesson.md) | `pattern:viem-TK-thi` `pattern:tai-phat` `pattern:phu-dia-thi` `vung:than-kinh-thi` `score:OCT-GCL` `protocol:MRI-hoc-mat` `protocol:OCT-thi-truong` |
 | 465 | [Coats plus (CTC1/CRMCC): bệnh võng mạc giống Coats hai bên + vôi hóa–nang não & chảy máu tiêu hóa](465-coats-plus-syndrome-ctc1/lesson.md) | `pattern:gia-coats` `pattern:xuat-tiet-vong-mac` `pattern:voi-hoa-nao` `vung:vong-mac` `vung:nao` `score:Shields` `protocol:FA` `protocol:MRI` |
+| 466 | [Toxocariasis nội nhãn (ấu trùng di chuyển ở mắt): u hạt ngoại vi + dây co kéo](466-toxocariasis-noi-nhan/lesson.md) | `pattern:u-hat-vong-mac` `pattern:day-co-keo-dich-kinh` `pattern:leukocoria` `vung:vong-mac` `vung:tre-em` `protocol:ELISA-Toxocara` `protocol:B-scan` `protocol:UBM` `protocol:FA` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
 ## Hệ Bụng (dải 100, đang khởi tạo)
