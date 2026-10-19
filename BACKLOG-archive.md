@@ -390,3 +390,6 @@
 
 - 2026-10-19 (turn `deepseek-v4.1-flash`): viết **470** (CSCR do corticosteroid + tiếp cận mất thị lực không đau; 7 ảnh CC BY + 1 composite; bảng 6 hàng + mermaid + quiz 4 ca) và **664** (MH gan ở trẻ; 7 ảnh CC BY/CC BY-NC-SA + 1 composite; bảng 7 hàng + mermaid + quiz 5 ca).
 - Flip #176/#174; append #295 (ID 482 — pachychoroid neovasculopathy) và #296 (ID 693 — theo dõi sau cắt u gan nhi). selfcheck/lint/mermaid/author-check PASS.
+
+- 2026-10-19: Viết **666** nang ống mật chủ nhi (Todani I–V, MRCP, PBM, eCCA muộn) + **674** u quái/u tế bào mầm gan nhi (mỡ + vôi hóa, AFP). Ảnh Europe PMC CC BY/CC BY-NC/CC BY-NC-ND, PASS selfcheck+lint.
+- 2026-10-19: Thêm 2 gap mới **675** (hẹp miệng nối sau cắt nang ống mật chủ) + **680** (u quái cùng cụt/Altman); check_duplicates exit 0.
