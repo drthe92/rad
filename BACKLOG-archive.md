@@ -387,3 +387,6 @@
 
 - 2026-10-19 (turn `deepseek-v4.1-flash`): viết **246** (Sheehan; 3 ảnh CC BY 4.0; MRI cấp/mạn + mermaid + quiz 3 ca) và **248** (can thiệp nội mạch giả phình/bóc tách mạch cổ; 3 ảnh CC BY 4.0; bảng 7 hàng + mermaid + quiz 3 ca). Flip #267/#268; append #294 (ID 249 — CCF sau chấn thương).
 - Cập nhật 200/README/index; selfcheck/lint/mermaid/author-check PASS.
+
+- 2026-10-19 (turn `deepseek-v4.1-flash`): viết **470** (CSCR do corticosteroid + tiếp cận mất thị lực không đau; 7 ảnh CC BY + 1 composite; bảng 6 hàng + mermaid + quiz 4 ca) và **664** (MH gan ở trẻ; 7 ảnh CC BY/CC BY-NC-SA + 1 composite; bảng 7 hàng + mermaid + quiz 5 ca).
+- Flip #176/#174; append #295 (ID 482 — pachychoroid neovasculopathy) và #296 (ID 693 — theo dõi sau cắt u gan nhi). selfcheck/lint/mermaid/author-check PASS.

@@ -46,6 +46,7 @@ certainty: tong-hop-y-van
 | Tắc mạch võng mạc | Võng mạc (retina) | CRVO/BRVO, CRAO | Cherry-red + giờ vàng < 4–6 giờ | [444](../444-tac-mach-vong-mac/lesson.md) |
 | Bong võng mạc | Võng mạc (retina) | Rách, co kéo, tiết dịch, PVR | Macula-on 24 giờ; V/Y dính đĩa | [445](../445-bong-vong-mac/lesson.md) |
 | Phù hoàng điểm viêm | Hoàng điểm (macula) | Uveitic CME vs DME | Anti-VEGF thất bại 3 mũi → steroid | [446](../446-phu-hoang-diem-viem/lesson.md) |
+| **Mất thị lực KHÔNG đau + bong vòm hoàng điểm** | Hoàng điểm – hắc mạc (macula – choroid) | **CSCR (do corticosteroid/nội sinh)** vs CNV/AMD vs PICCP/VKH vs NAION vs HCQ | **Rà soát corticosteroid mọi đường + OCT bong vòm + FA rò điểm + ICGA tăng thấm = CSCR**; **ICGA giảm tưới máu = viêm hắc mạc mao mạch**; **dịch mới ở bệnh nhân uveitis đang dùng steroid KHÔNG được tăng steroid** | [470](../470-cscr-do-corticosteroid-mat-thi-luc-khong-dau/lesson.md) |
 | Đốm trắng võng mạc | Võng mạc–hắc mạc | MEWDS, AZOOR, PIC, serpiginous | FAF đốm sáng tự khỏi vs bờ lan | [447](../447-dom-trang-vong-mac/lesson.md) |
 | Viêm hoại tử võng mạc | Võng mạc (retina) | ARN, CMV retinitis, PORN | Vitritis ↔ mức miễn dịch; PCR dịch nội nhãn | [452](../452-hoai-tu-vong-mac-ARN-CMV/lesson.md) |
 | Viêm mạch võng mạc (bệnh hệ thống) | Võng mạc (retina) | **Behçet vs lupus (SLE)**, sarcoid, ARN/CMV, lymphoma masquerade | **Vitritis + thoát thuốc "dương xỉ" trên FFA = Behçet**; **đốm bông + SLEDAI cao, ít vitritis = lupus** | [455](../455-behcet-lupus-mat/lesson.md) |
@@ -112,6 +113,7 @@ certainty: tong-hop-y-van
 - [437 – Teo thị kèm ĐIẾC: DOA+/OPA1 & WFS1 trội (Wolfram-like)](../437-teo-thi-kem-diec/lesson.md) *(mới)*
 - [461 – Chọn thuốc & phác đồ anti-VEGF cho ROP: liều, khoảng tái tiêm & khi nào chuyển laser](../461-chon-thuoc-phac-do-anti-vegf-cho-rop/lesson.md) *(mới)*
 - [467 – Norrie: tư vấn di truyền X-linked, chẩn đoán trước sinh & theo dõi điếc–phát triển](../467-norrie-di-truyen-tu-van-va-theo-doi/lesson.md) *(mới)*
+- [470 – CSCR do corticosteroid & tiếp cận mất thị lực không đau](../470-cscr-do-corticosteroid-mat-thi-luc-khong-dau/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -175,6 +177,7 @@ certainty: tong-hop-y-van
 - 467 – Norrie: tư vấn di truyền X-linked, chẩn đoán trước sinh & theo dõi điếc–phát triển *(đã có — [bài học](../467-norrie-di-truyen-tu-van-va-theo-doi/lesson.md))*
 - 468 – Sàng lọc ROP từ xa (tele-ROP) & trí tuệ nhân tạo: mạng lưới vệ tinh, ảnh góc rộng/điện thoại, học sâu & VSS *(đã có — [bài học](../468-tele-rop-sang-loc-ai-theo-doi/lesson.md))*
 - 469 – Lác & nhược thị ở trẻ sinh non/ROP: kính chỉnh, bịt mắt vs atropine, điều trị kỹ thuật số & thời điểm can thiệp *(đã có — [bài học](../469-lac-nhuoc-thi-tre-sinh-non-rop/lesson.md))*
-- 470–499: dự trữ mở rộng
+- 470 – Bệnh võng mạc trung tâm thanh dịch do corticosteroid & tiếp cận mất thị lực KHÔNG đau: OCT bong vòm, FA inkblot/smokestack, ICGA tăng thấm, giảm/ngừng steroid, half-dose PDT *(đã có — [bài học](../470-cscr-do-corticosteroid-mat-thi-luc-khong-dau/lesson.md))*
+- 471–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
