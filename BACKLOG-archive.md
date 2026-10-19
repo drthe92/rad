@@ -381,3 +381,6 @@
 
 - 2026-10-19 (turn `deepseek-v4.1-flash`): viết **672** (biến chứng muộn sau tái tạo bàng quang bằng ruột; 5 ảnh CC/CC BY-NC-ND nguyên bản; bảng 8 hàng + mermaid + quiz 3 ca) và **673** (chuyển tiếp người lớn ở spina bifida & bàng quang thần kinh; 6 ảnh + 1 composite CC BY; bảng 8 hàng + mermaid + quiz 3 ca).
 - Flip #172/#173; append #292 (ID 674 — chuẩn bị trước ghép thận ở bàng quang thần kinh/tái tạo) và #293 (ID 675 — loét tì đè & viêm xương tủy ở người lớn SB). selfcheck/lint/mermaid/author-check PASS.
+
+- 2026-10-19 (turn `deepseek-v4.1-flash`): viết **245** (pituitary apoplexy; 4 ảnh CC BY 4.0; PAS + mermaid + quiz 3 ca) và **247** (CeAD/BCVI; 4 ảnh CC BY 4.0; Denver I–V + mermaid + quiz 3 ca). Cập nhật 200/README/index; flip #174/#175; append #267/#268 (ID 246 Sheehan, ID 248 can thiệp nội mạch).
+- selfcheck PASS (307 bài), lint PASS, mermaid PASS, author-check PASS; commit `3c537ba`, push `origin/master`.
