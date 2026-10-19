@@ -173,6 +173,8 @@ certainty: tong-hop-y-van
 - 465 – Coats plus (CTC1/CRMCC): bệnh võng mạc giống Coats hai bên + vôi hóa–nang não & chảy máu tiêu hóa *(đã có — [bài học](../465-coats-plus-syndrome-ctc1/lesson.md))*
 - 466 – Toxocariasis nội nhãn (ấu trùng di chuyển ở mắt): u hạt ngoại vi + dây co kéo, ELISA/Goldmann–Witmer *(đã có — [bài học](../466-toxocariasis-noi-nhan/lesson.md))*
 - 467 – Norrie: tư vấn di truyền X-linked, chẩn đoán trước sinh & theo dõi điếc–phát triển *(đã có — [bài học](../467-norrie-di-truyen-tu-van-va-theo-doi/lesson.md))*
+- 468 – Sàng lọc ROP từ xa (tele-ROP) & trí tuệ nhân tạo: mạng lưới vệ tinh, ảnh góc rộng/điện thoại, học sâu & VSS *(đã có — [bài học](../468-tele-rop-sang-loc-ai-theo-doi/lesson.md))*
+- 469 – Lác & nhược thị ở trẻ sinh non/ROP: kính chỉnh, bịt mắt vs atropine, điều trị kỹ thuật số & thời điểm can thiệp *(đã có — [bài học](../469-lac-nhuoc-thi-tre-sinh-non-rop/lesson.md))*
 - 470–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -92,6 +92,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 465 | [Coats plus (CTC1/CRMCC): bệnh võng mạc giống Coats hai bên + vôi hóa–nang não & chảy máu tiêu hóa](465-coats-plus-syndrome-ctc1/lesson.md) | `pattern:gia-coats` `pattern:xuat-tiet-vong-mac` `pattern:voi-hoa-nao` `vung:vong-mac` `vung:nao` `score:Shields` `protocol:FA` `protocol:MRI` |
 | 466 | [Toxocariasis nội nhãn (ấu trùng di chuyển ở mắt): u hạt ngoại vi + dây co kéo](466-toxocariasis-noi-nhan/lesson.md) | `pattern:u-hat-vong-mac` `pattern:day-co-keo-dich-kinh` `pattern:leukocoria` `vung:vong-mac` `vung:tre-em` `protocol:ELISA-Toxocara` `protocol:B-scan` `protocol:UBM` `protocol:FA` |
 | 467 | [Norrie: tư vấn di truyền X-linked, chẩn đoán trước sinh & theo dõi điếc–phát triển](467-norrie-di-truyen-tu-van-va-theo-doi/lesson.md) | `pattern:gia-rop` `pattern:di-truyen-X` `pattern:bong-vong-mac` `vung:vong-mac` `vung:tai-trong` `protocol:tu-van-di-truyen` `protocol:chan-doan-truoc-sinh` `protocol:audiometry` |
+| 468 | [Sàng lọc ROP từ xa (tele-ROP) & trí tuệ nhân tạo: mạng lưới vệ tinh, ảnh góc rộng/điện thoại, học sâu & VSS](468-tele-rop-sang-loc-ai-theo-doi/lesson.md) | `pattern:rop` `vung:vong-mac` `score:ICROP` `protocol:tele-ROP` `protocol:AI-sang-loc-ROP` |
+| 469 | [Lác & nhược thị ở trẻ sinh non/ROP: kính chỉnh, bịt mắt vs atropine, điều trị kỹ thuật số](469-lac-nhuoc-thi-tre-sinh-non-rop/lesson.md) | `pattern:lac` `pattern:nhuoc-thi` `vung:mat` `protocol:chinh-thi-tre-non` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
 ## Hệ Bụng (dải 100, đang khởi tạo)
