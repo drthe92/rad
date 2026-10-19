@@ -46,7 +46,7 @@ certainty: tong-hop-y-van
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
 | Võng mạc ĐTĐ | Võng mạc (retina) | NPDR/PDR, DME | 4-2-1; CST ≥ 300 µm; PRP 1200–1600 | [443](../443-vong-mac-dai-thao-duong/lesson.md) |
 | Tân mạch võng mạc trẻ sinh non | Võng mạc (retina) | ROP (ICROP) | Non tháng ≤ 30 tuần/≤ 1500 g + zone/stage/plus; **AP-ROP = cấp cứu** | [456](../456-benh-vong-mac-tre-sinh-non/lesson.md) |
-| Bệnh "giả ROP" ở trẻ đủ tháng | Võng mạc (retina) | **FEVR, Norrie, incontinentia pigmenti, Coats**, PHPV | **Trẻ ĐỦ tháng** (không sinh non) + leukocoria/bong võng mạc; **FA ngoại vi là chốt**; loại trừ **retinoblastoma** trước | [457](../457-benh-gia-rop-tre-du-thang/lesson.md) |
+| Bệnh "giả ROP" ở trẻ đủ tháng | Võng mạc (retina) | **FEVR, Norrie, incontinentia pigmenti, Coats**, PHPV; **Coats plus** (CTC1) khi hai bên + bệnh hệ thống | **Trẻ ĐỦ tháng** (không sinh non) + leukocoria/bong võng mạc; **FA ngoại vi là chốt**; loại trừ **retinoblastoma** trước; **Coats-like HAI BÊN + vôi hóa/nang não = Coats plus** | [457](../457-benh-gia-rop-tre-du-thang/lesson.md), [465](../465-coats-plus-syndrome-ctc1/lesson.md) |
 | Di chứng & theo dõi dài hạn sau ROP | Võng mạc (retina) | Tái hoạt sau anti-VEGF, cicatricial, cận thị/lác/nhược thị, bong VM muộn, glaucoma góc đóng | **Chuỗi ảnh phân biệt tái hoạt (tiến triển) vs di chứng (ổn định)**; anti-VEGF theo dõi **≥ 65 tuần PMA**; khúc xạ liệt điều tiết + chỉnh thị | [458](../458-di-chung-theo-doi-dai-han-sau-rop/lesson.md) |
 | Bệnh võng mạc tăng huyết áp/bệnh máu | Võng mạc (retina) | HTR (KWB), thiếu máu, sickle cell, leukemia | Đốm bông + xuất huyết tia + sao hoàng điểm ← HA cao; Roth spot ← thiếu máu | [453](../453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md) |
 | Màng dịch kính | Nhãn cầu (globe) | Bong võng mạc, XH dịch kính, bong hắc mạc | V/Y dính đĩa = võng mạc; aftermovement = máu; T-sign = hắc mạc | [411](../411-sieu-am-nhan-cau/lesson.md) |
@@ -92,6 +92,7 @@ certainty: tong-hop-y-van
 - [460 – Can thiệp](../460-can-thiep-mat/lesson.md) *(mới)*
 - [462 – U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh: IL-10/MYD88 + PET-CT](../462-u-lympho-noi-nhan-PVRL/lesson.md) *(mới)*
 - [463 – Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball" & "chuỗi ngọc trai"](../463-viem-noi-nhan-noi-sinh-nam/lesson.md) *(mới)*
+- [465 – Coats plus (CTC1/CRMCC): bệnh võng mạc giống Coats hai bên + vôi hóa–nang não & chảy máu tiêu hóa](../465-coats-plus-syndrome-ctc1/lesson.md) *(mới)*
 - [437 – Teo thị kèm ĐIẾC: DOA+/OPA1 & WFS1 trội (Wolfram-like)](../437-teo-thi-kem-diec/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
@@ -150,6 +151,7 @@ certainty: tong-hop-y-van
 - 462 – U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh: IL-10/MYD88 + PET-CT *(đã có — [bài học](../462-u-lympho-noi-nhan-PVRL/lesson.md))*
 - 463 – Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball"/"chuỗi ngọc trai" & phác đồ kháng nấm *(đã có — [bài học](../463-viem-noi-nhan-noi-sinh-nam/lesson.md))*
 - 464 – Viêm thần kinh thị tái phát (CRION) & thể "âm tính kép": phụ thuộc steroid, MOG 92%, OCT pRNFL 39,3 µm, loại trừ AQP4/MOG *(đã có — [bài học](../464-viem-than-kinh-thi-tai-phat-CRION/lesson.md))*
+- 465 – Coats plus (CTC1/CRMCC): bệnh võng mạc giống Coats hai bên + vôi hóa–nang não & chảy máu tiêu hóa *(đã có — [bài học](../465-coats-plus-syndrome-ctc1/lesson.md))*
 - 470–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

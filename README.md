@@ -49,7 +49,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 411 | [Siêu âm nhãn cầu](411-sieu-am-nhan-cau/lesson.md) | `protocol:sieu-am` |
 | 410 | [Giải phẫu hốc mắt](410-giai-phau-hoc-mat/lesson.md) | `anatomy:hoc-mat` |
 | 420 | [Vỡ sàn & khoang](420-vo-san-hoc-mat/lesson.md) | `pattern:vo-xuong` `vung:hoc-mat` |
-| 412 | [U trong nhãn cầu](412-u-trong-nhan-cau/lesson.md) | `pattern:voi-hoa` |
+| 412 | [U trong nhãn cầu: RB vs melanoma/Coats/PHPV](412-u-trong-nhan-cau/lesson.md) | `pattern:voi-hoa` `pattern:khoi-noi-nhan-cau` `pattern:leukocoria` `vung:nhan-cau` `score:Shields` `score:TFSOM` `protocol:MRI-hoc-mat` `protocol:sieu-am-B-scan` |
 | 422 | [Giả u viêm](422-viem-gia-u/lesson.md) | `pattern:viem-hoc-mat` |
 | 423 | [Fistula xoang hang](423-fistula-xoang-hang/lesson.md) | `pattern:mach-xoang-hang` |
 | 424 | [Tuyến lệ](424-tuyen-le/lesson.md) | `pattern:tuyen-le` |
@@ -88,6 +88,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 462 | [U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh](462-u-lympho-noi-nhan-PVRL/lesson.md) | `pattern:u-lympho-noi-nhan` `pattern:lang-dong-duoi-RPE` `pattern:viet-dich-kinh` `vung:vong-mac` `vung:than-kinh-trung-uong` `score:IL-10-IL-6` `protocol:sinh-thiet-dich-kinh` `protocol:OCT` `protocol:FAF` `protocol:MRI-nao-PET-CT` |
 | 463 | [Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball" & "chuỗi ngọc trai"](463-viem-noi-nhan-noi-sinh-nam/lesson.md) | `pattern:viem-noi-nhan` `pattern:fluff-ball` `pattern:viet-dich-kinh-noi-sinh` `vung:vong-mac` `vung:dich-kinh` `protocol:soi-day-mat` `protocol:PCR-dich-kinh` `protocol:khang-nam-toan-than` `incidentaloma:viem-noi-nhan-nam` |
 | 464 | [Viêm thần kinh thị tái phát (CRION) & thể "âm tính kép"](464-viem-than-kinh-thi-tai-phat-CRION/lesson.md) | `pattern:viem-TK-thi` `pattern:tai-phat` `pattern:phu-dia-thi` `vung:than-kinh-thi` `score:OCT-GCL` `protocol:MRI-hoc-mat` `protocol:OCT-thi-truong` |
+| 465 | [Coats plus (CTC1/CRMCC): bệnh võng mạc giống Coats hai bên + vôi hóa–nang não & chảy máu tiêu hóa](465-coats-plus-syndrome-ctc1/lesson.md) | `pattern:gia-coats` `pattern:xuat-tiet-vong-mac` `pattern:voi-hoa-nao` `vung:vong-mac` `vung:nao` `score:Shields` `protocol:FA` `protocol:MRI` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
 ## Hệ Bụng (dải 100, đang khởi tạo)
