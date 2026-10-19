@@ -1,0 +1,24 @@
+# Nguồn gốc — 629-viem-tuy-man-o-tre-suy-tuy-ngoai-tiet
+
+> Viêm tụy mạn ở trẻ (CP) & suy tụy ngoại tiết (EPI): vôi hóa, tổn thương ống, EPI, PERT — tổng hợp ngày 2026-10-19. Kiểm chứng giấy phép từng ảnh trước khi tải.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Frontiers in Pediatrics / PMC11228964 | Destro F et al. *Case Report: Chronic pancreatitis in children as the cumulative effect of bilio-pancreatic abnormalities and genetic mutations*, 2024 (Fig. 3, Fig. 4) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11228964/ | CC BY 4.0 | `images/629_..._MRCP_PMC11228964-Fig3-ong-tuy-CCBY.jpg`, `images/629_..._MRI_PMC11228964-Fig4-soi-ong-CCBY.jpg` + composite |
+| 2 | Cureus / PMC13500114 | Kawaguchi Y & Hamaoka K. *Extensive Calcific Chronic Pancreatitis Developing Within Three Years After Acute Pancreatitis... in a 34-Year-Old Man*, 2026 (Fig. 3, Fig. 4) — **ca minh họa người lớn** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13500114/ | CC BY 4.0 | `images/629_..._CT_PMC13500114-Fig4-voi-hoa-CCBY.jpg`, `images/629_..._CR_PMC13500114-Fig3-voi-hoa-CCBY.jpg` + composite |
+| 3 | Journal of Clinical Medicine / PMC11432529 | Joshi D et al. *ERCP and EUS in the Management of Paediatric Acute Recurrent Pancreatitis and Chronic Pancreatitis*, 2024 (Fig. 2) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11432529/ | CC BY 4.0 | `images/629_..._ERCP-EUS_PMC11432529-Fig2-CCBY.jpg` |
+| 4 | J Indian Assoc Pediatr Surg / PMC12643358 | Kumar V et al. *Chronic Pancreatitis in Children - Management and Outcomes*, 2025 (Fig. 3) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12643358/ | CC BY-NC-SA 4.0 (nguyên bản) | `images/629_..._MRCP_PMC12643358-Fig3-teo-tuy-voi-hoa-CCBYNCSA.jpg` |
+| 5 | J Indian Assoc Pediatr Surg / PMC13061493 | Kumar B et al. *Chronic Pancreatitis with Portal Venous Thrombosis in a Child: Difficult Scenario for Surgery*, 2026 (Fig. 1a) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13061493/ | CC BY-NC-SA 4.0 (nguyên bản) | `images/629_..._CT_PMC13061493-Fig1a-lach-to-bang-he-CCBYNCSA.jpg` |
+| 6 | Cureus / PMC10024245 | Sundaram S et al. *Anomalous Pancreatobiliary Ductal Union Presenting as Recurrent Acute and Chronic Pancreatitis in Children and Adolescents*, 2023 (Fig. 2) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10024245/ | CC BY 4.0 | `images/629_..._MRCP_PMC10024245-Fig2-APBDU-CCBY.jpg` |
+| 7 | Pediatric Health Med Ther / PMC10615098 | Sankararaman S & Schindler T. *Exocrine Pancreatic Insufficiency in Children – Challenges in Management*, 2023 (số liệu: fecal elastase-1 < 200 µg/g, 100–200 nhẹ–TB, < 100 nặng; PERT liều; vitamin A/D/E/K) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10615098/ | Dove Press (chỉ số liệu, không lấy ảnh) | số liệu text |
+| 8 | Frontiers in Pediatrics / PMC10196508 | Zheng Y & Mostamand S. *Nutrition in children with exocrine pancreatic insufficiency*, 2023 (số liệu: mất > 90% acini → steatorrhea; lipase mất sớm nhất) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10196508/ | CC BY (chỉ số liệu) | số liệu text |
+| 9 | United European Gastroenterol J / PMC9103373 | Nordaas IK et al. *Structural imaging findings are related to clinical complications in chronic pancreatitis*, 2022 (vôi hóa 69% nhu mô; vôi hóa nặng > 14 OR 2,9 với EPI) | https://pmc.ncbi.nlm.nih.gov/articles/PMC9103373/ | CC BY-NC (chỉ số liệu) | số liệu text |
+| 10 | Ultrasound Int Open / PMC8384479 | Nordaas IK et al. *Diagnostic Accuracy of Transabdominal Ultrasound and Computed Tomography in Chronic Pancreatitis*, 2021 (CT Cambridge ≥ 2 Se 68%/Sp 75%; vôi hóa 51% CT / 64% US / 59% EUS) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8384479/ | CC BY (chỉ số liệu) | số liệu text |
+| 11 | Hepatobiliary Surg Nutr / PMC10432306 | Isayama H et al. *From cradle to grave: seamless management of chronic pancreatitis but consider the special requests for children*, 2023 (số liệu: Puestow khi ống ≥ 7 mm; ERCP nong/stent) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10432306/ | CC BY-NC-ND (chỉ số liệu) | số liệu text |
+| 12 | J Indian Assoc Pediatr Surg / PMC13061493 | (xem #5) — bối cảnh biến chứng huyết khối tĩnh mạch lách/tăng áp cửa ở trẻ CP | https://pmc.ncbi.nlm.nih.gov/articles/PMC13061493/ | CC BY-NC-SA 4.0 | dùng chung ảnh #5 |
+| 13 | INSPPIRE / NASPGHAN / Cambridge / M-ANNHEIM (tham khảo text) | Tiêu chuẩn và phân độ viêm tụy mạn (Cambridge I–IV, M-ANNHEIM, INSPPIRE) | https://www.naspghan.org | dẫn link | tham khảo text |
+
+## Ghi chú giấy phép
+- Ảnh tải về: **5 ảnh CC BY 4.0** (dùng được cho ảnh ghép) + **3 ảnh CC BY-NC-SA** (**giữ nguyên bản**, không crop/ghép).
+- Tác giả ghi theo Europe PMC/PubMed — **không bịa tên**; số liệu không lấy ảnh ghi theo bài gốc (PMCID).
+- Liên kết chéo: [626 – Viêm tụy cấp ở trẻ](../626-viem-tuy-cap-nhi/lesson.md) (ARP/Atlanta), [623 – Chấn thương tụy](../623-chan-thuong-tuy-ta-trang-nhi/lesson.md) (đứt ống tụy).

@@ -1,0 +1,15 @@
+# Ảnh — 629-viem-tuy-man-o-tre-suy-tuy-ngoai-tiet
+
+| File | Nguồn | Giấy phép (license) | Link gốc |
+|---|---|---|---|
+| `629_viem-tuy-man-tre_MRCP_PMC11228964-Fig3-ong-tuy-CCBY.jpg` | Nam 10 tuổi viêm tụy mạn: MRCP — **ống tụy chính giãn, uốn lượn, hẹp xen kẽ** (mũi tên vàng) (Fig. 3) — Destro F et al., Front Pediatr 2024 | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC11228964/ |
+| `629_viem-tuy-man-tre_MRI_PMC11228964-Fig4-soi-ong-CCBY.jpg` | Cùng ca: T2 sagittal + axial — **sỏi nhú trong ống tụy ~7 mm** gây giãn nặng đường mật–tụy thượng nguồn (Fig. 4) — Destro F et al., Front Pediatr 2024 | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC11228964/ |
+| `629_viem-tuy-man-tre_CT_PMC13500114-Fig4-voi-hoa-CCBY.jpg` | Nam 34 tuổi: CT không cản quang (A axial, B coronal) — **vôi hóa tụy lan tỏa** (mũi tên vàng) (Fig. 4) — Kawaguchi Y & Hamaoka K, Cureus 2026 | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13500114/ |
+| `629_viem-tuy-man-tre_CR_PMC13500114-Fig3-voi-hoa-CCBY.jpg` | Cùng ca: X-quang bụng không chuẩn bị — **nhiều nốt vôi hóa tụy** tình cờ khi tìm sỏi niệu (Fig. 3) — Kawaguchi Y & Hamaoka K, Cureus 2026 | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13500114/ |
+| `629_viem-tuy-man-tre_ERCP-EUS_PMC11432529-Fig2-CCBY.jpg` | ERCP (A–D) và EUS (E–G) trẻ viêm tụy mạn: (A) hẹp ống tụy chính + sỏi, (B) stent nhựa, (C) stent kim loại phủ, (D) stent phân hủy sinh học, (E) tụ dịch, (F) nội soi sau đặt, (G) EUS (Fig. 2) — Joshi D et al., J Clin Med 2024 | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC11432529/ |
+| `629_viem-tuy-man-tre_MRCP_PMC12643358-Fig3-teo-tuy-voi-hoa-CCBYNCSA.jpg` | MRCP trẻ viêm tụy mạn: (a) **teo thân tụy + ống giãn + vôi hóa** và **nang ống mật chủ típ 1b** (dấu sao); (b) MIP (Fig. 3) — Kumar V et al., J Indian Assoc Pediatr Surg 2025 | CC BY-NC-SA 4.0 (nguyên bản) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12643358/ |
+| `629_viem-tuy-man-tre_CT_PMC13061493-Fig1a-lach-to-bang-he-CCBYNCSA.jpg` | Trẻ viêm tụy mạn + huyết khối TM lách: CT (a) — **tụy teo, ống tụy giãn, lách to + tuần hoàn bàng hệ**; (b) ảnh mổ mở dọc ống tụy + shunt lách–thận (Fig. 1) — Kumar B et al., J Indian Assoc Pediatr Surg 2026 | CC BY-NC-SA 4.0 (nguyên bản) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13061493/ |
+| `629_viem-tuy-man-tre_MRCP_PMC10024245-Fig2-APBDU-CCBY.jpg` | Trẻ–vị thành niên viêm tụy–đường mật tái phát: (A) chụp mật — **kênh chung dài** (APBDU típ Y, Komi IIa) + **hẹp đầu tụy gây giãn ống tụy**; (B) sơ đồ (Fig. 2) — Sundaram S et al., Cureus 2023 | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10024245/ |
+| `composite_MRCP-ong-tuy-vs-CT-voi-hoa.jpg` | Ảnh ghép đối chiếu: MRCP tổn thương ống (PMC11228964) vs CT vôi hóa lan tỏa (PMC13500114) — cả hai **CC BY 4.0** | CC BY 4.0 | `tools/make_composite.py` |
+
+Quy tắc: chỉ tải khi giấy phép cho phép. **Ảnh CC BY-NC-SA giữ nguyên bản, không crop/ghép.** Chỉ **ảnh CC BY 4.0** được dùng để tạo ảnh ghép letterbox (giữ aspect, không crop/kéo giãn). AuntMinnie chỉ dẫn link, không tải.
