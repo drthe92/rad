@@ -72,7 +72,7 @@
 - **TRƯỚC KHI viết** bài mới: chạy `python3 tools/check_duplicates.py <ID> "<tên bài>"` — exit 1 = ID/chủ đề đã tồn tại → nâng cấp bài cũ hoặc đổi chủ đề (KHÔNG tạo trùng).
 - Bài mới phải soi với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng) + chạy **`python3 tools/selfcheck.py` + `python3 tools/lint_repo.py` + `python3 tools/check_credits_authors.py`** PASS mới commit. (`check_credits_authors.py` đối chiếu tên tác giả khai báo vs PMCID qua Europe PMC — bỏ qua cảnh báo nếu mạng lỗi.)
 - **Chống chồng lượt:** worker chạy `python3 tools/worker_guard.py acquire|release` (exit 3 = có worker khác → dừng).
-- **BACKLOG:** `BACKLOG.md` là file làm việc (chỉ hàng `chờ viết` + danh mục `xong` nén 1 dòng). `BACKLOG-archive.md` là lưu trữ ghi chú dài + nhật ký — **worker KHÔNG đọc**. Khi BACKLOG.md phình lại: `python3 tools/split_backlog.py`.
+- **BACKLOG:** `BACKLOG.md` là file làm việc (chỉ hàng `chờ viết` + danh mục `xong` nén 1 dòng). `BACKLOG-archive.md` là lưu trữ ghi chú dài + nhật ký — **worker KHÔNG đọc**. Khi BACKLOG.md phình lại: `python3 tools/split_backlog.py --auto` (worker tự chạy mỗi lượt, chỉ tách khi > 120 KB).
 
 ## Phân công (ta vs Argon — ai giỏi việc gì làm việc đó)
 - Ta (OpenChamber/Build): khung repo, ID, hub Pages, script composite, Mermaid, kiểm phép ảnh, commit/push.
