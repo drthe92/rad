@@ -5,7 +5,19 @@ Chạy local. Yêu cầu: Pillow
 VD: python tools/make_composite.py "020-not-phoi/images/020_*.jpg" 020-not-phoi/images/composite_nodule.jpg --height 600
 """
 import argparse, glob, os
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFont
+
+FONT_CANDIDATES = [
+    "/home/openchamber/workspaces/optac_v2/.venv/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf",
+    "/home/openchamber/workspaces/Youtube 2 PDF/fonts/DejaVuSans.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+]
+
+def load_font(size):
+    for path in FONT_CANDIDATES:
+        if os.path.exists(path):
+            return ImageFont.truetype(path, size)
+    return ImageFont.load_default()
 
 def load_list(patterns):
     files = []
@@ -30,6 +42,7 @@ def main():
     ap.add_argument("--labels", default="", help='"file.jpg=[Bệnh - chuỗi xung] + attribution;..."')
     ap.add_argument("--bg", default="black", help="Màu nền letterbox (mặc định black)")
     ap.add_argument("--max-upscale", type=float, default=2.0, help="Trần phóng to (mặc định 2.0x — không upscale quá gây mờ)")
+    ap.add_argument("--font-size", type=int, default=18, help="Cỡ chữ dải attribution (px, mặc định 18)")
     a = ap.parse_args()
     *pats, out = a.inputs
     files = load_list(pats)
@@ -56,12 +69,13 @@ def main():
     strip_h = H + BAND
     canvas = Image.new("RGB", (strip_w * len(cells), strip_h), "black")
     d = ImageDraw.Draw(canvas)
+    font = load_font(a.font_size)
     for i, (im, f) in enumerate(cells):
         x0 = i * strip_w
         # letterbox: căn giữa trên nền đen, không crop/kéo giãn
         canvas.paste(im, (x0 + (strip_w - im.width) // 2, 0))
         d.rectangle([x0, H, x0 + strip_w, strip_h], fill="black")
-        d.text((x0 + 6, H + 6), label_of(f), fill="white")
+        d.text((x0 + 8, H + 6), label_of(f), fill="white", font=font)
         # viền mỏng phân cách ô
         d.rectangle([x0, 0, x0 + strip_w - 1, strip_h - 1], outline="#333")
     canvas.save(out)

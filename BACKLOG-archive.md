@@ -373,3 +373,5 @@
 
 ## 2026-10-19 — 544 NPUI
 - Viết 544 (đảo ngược tử cung không do sinh & khối sa qua cổ tử cung): 4 ảnh CC BY (PMC7285247/8820920/11305835/12527823) + 1 composite MRI; selfcheck+lint+author PASS. Append gap 553 (đảo ngược do sinh) & 554 (prolapsed fibroid/polyp).
+- 2026-10-19: viết 687 (IHH sau can thiệp; ID đổi 669→687 vì 669 đã dùng cho BO/Swyer–James) + 646 (ACS nhi); cập nhật 600/README/index; selfcheck/lint/mermaid/author PASS.
+- Append 2 gap mới: 688 (đóng bụng tạm thời/NPWT), 689 (suy giáp tiêu thụ do u mạch máu).
