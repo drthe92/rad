@@ -378,3 +378,6 @@
 
 - 2026-10-19 (turn `deepseek-v4.1-flash`): viết **171** (bóc tách ĐMC bụng đơn độc & IMH; 3 ảnh CC BY/CC BY-NC; bảng 7 hàng + mermaid + quiz 2 ca) và **671** (UTI & viêm thận–bể thận ở trẻ bàng quang thần kinh; 4 ảnh CC BY; bảng 8 hàng + mermaid + quiz 3 ca). Cập nhật 100/600/README/index; flip #170/#171; append #290/#291 (172, 691); đổi ID CMMRD 671→690.
 - 2026-10-19: selfcheck PASS (303 bài), lint PASS, mermaid check PASS, author-check PASS (1124 PMCID); commit `d1fb2ea`, push `origin/master`.
+
+- 2026-10-19 (turn `deepseek-v4.1-flash`): viết **672** (biến chứng muộn sau tái tạo bàng quang bằng ruột; 5 ảnh CC/CC BY-NC-ND nguyên bản; bảng 8 hàng + mermaid + quiz 3 ca) và **673** (chuyển tiếp người lớn ở spina bifida & bàng quang thần kinh; 6 ảnh + 1 composite CC BY; bảng 8 hàng + mermaid + quiz 3 ca).
+- Flip #172/#173; append #292 (ID 674 — chuẩn bị trước ghép thận ở bàng quang thần kinh/tái tạo) và #293 (ID 675 — loét tì đè & viêm xương tủy ở người lớn SB). selfcheck/lint/mermaid/author-check PASS.
