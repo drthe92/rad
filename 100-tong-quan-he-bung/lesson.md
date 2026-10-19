@@ -38,6 +38,7 @@ certainty: tong-hop-y-van
 | Tổn thương khu trú tiền liệt tuyến (PI-RADS v2.1) | Tiền liệt tuyến (prostate) | Ung thư có ý nghĩa lâm sàng (csPCa), viêm, BPH, vùng trung tâm (CZ) | PZ đọc DWI/ADC (b ≥ 1.400), TZ đọc T2W (vỏ bao); 1,5 cm tách 4/5; DCE chỉ nâng 3→4 ở PZ; PI-RADS 3 + PSAD ≥ 0,15 = sinh thiết; ria mép CZ đối xứng = bình thường | `158` |
 | Giãn quai ruột / Thâm nhiễm mỡ khu trú | Ống tiêu hóa (GI) | Viêm ruột thừa, Viêm túi thừa, Tắc ruột non (SBO), Tắc quai kín | Ruột thừa > 6 mm; Ruột non > 3 cm; Xoắn mạch (whirl) + chữ C + mất ngấm thành = Tắc quai kín thiếu máu (mổ tối khẩn) | `160`, `162` |
 | Dịch tự do ổ bụng vs Đáy ngực | Phúc mạc (peritoneum) | Cổ trướng (Ascites) vs Tràn dịch màng phổi | Dịch màng phổi đẩy chân cơ hoành ra trước (displaced crus) và len vào vùng trần của gan (bare area); Ascites thì không | `110`, `141` |
+| Nốt đặc phúc mạc/mạc nối không xác định (indeterminate peritoneal nodule) | Phúc mạc – mạc nối – túi cùng (peritoneum/omentum/pouch of Douglas) | Splenosis · lao phúc mạc · di căn/carcinomatosis · LPD · peritoneal loose body · nhồi máu mạc nối · lạc nội mạc | **Tiền sử vỡ/cắt lách + nốt 0,8–2,5 cm ngấm như lách → Tc-99m HDRBC (không sinh thiết)**; **vôi hóa trung tâm “vỏ trứng” + di động = loose body**; **PCI ≤ 20 dự báo cắt u tối ưu (AUC 0,94)**; **CA-125 cao KHÔNG loại trừ lao (ADA 30–40 U/L)** | `549`, `141`, `539`, `518` |
 
 ## Ảnh minh họa & Blind Quiz (đọc nhanh 4 mẫu hình chủ chốt)
 > Ảnh trơn ở ngoài, dấu hiệu + chẩn đoán giấu trong thẻ bấm-mở. Mở trên Pages: tự đoán trước rồi bấm mở đáp án.
