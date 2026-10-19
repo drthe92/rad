@@ -68,6 +68,7 @@ certainty: tong-hop-y-van
 - [070 – PE & ĐMC cấp](../070-thuyen-tac-phoi-dmc-cap/lesson.md) *(mới)*
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md)
 - [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(mới)*
+- [018 – Chọc hút hạch trung thất dưới hướng dẫn siêu âm (EBUS-TBNA & EUS-B)](../018-EBUS-TBNA-EUS-hach-trung-that/lesson.md) *(mới: lấy mô hạch, giai đoạn N ấn bản 9 N2a/N2b)*
 
 ## Quy hoạch toàn diện Hệ Ngực (Master Curriculum 001–080)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -81,6 +82,7 @@ certainty: tong-hop-y-van
 - 015 – Ống/dây ICU (lines/tubes) & giả ảnh ngực (artifacts) *(đã có — [bài học](../015-ong-day-ICU/lesson.md))*
 - 016 – Nốt phổi đơn độc ở bệnh nhân có tiền sử ung thư ngoài phổi: di căn đơn độc vs K phổi nguyên phát thứ hai *(đã có — [bài học](../016-not-phoi-tien-su-ung-thu/lesson.md))*
 - 017 – Bạch mạch lan phổi (lymphangitic carcinomatosis) & đường mạch bạch huyết trên HRCT *(đã có — [bài học](../017-bach-mach-lan-phoi/lesson.md))*
+- 018 – Chọc hút hạch trung thất dưới hướng dẫn siêu âm (EBUS-TBNA & EUS-B): trạm nào ngả nào, Canada Lymph Node Score, lấy mẫu & giai đoạn N ấn bản 9 (N2a/N2b) *(đã có — [bài học](../018-EBUS-TBNA-EUS-hach-trung-that/lesson.md))*
 
 **02x — Nốt, Khối & Hang**
 - [020 – Nốt phổi đơn độc](../020-not-phoi/lesson.md) *(đã có)*
