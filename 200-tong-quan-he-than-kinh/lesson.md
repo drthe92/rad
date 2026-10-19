@@ -35,6 +35,18 @@ certainty: tong-hop-y-van
 | Quy tắc quyết định CHỤP cột sống cổ & khi nào BỎ NẸP | Cột sống cổ (chấn thương kín) | NEXUS · Canadian C-Spine Rule · PECARN CSI (trẻ) · DGOU nhi | **Tỉnh GCS 15 + không tiêu chí = bỏ nẹp, không chụp**; **CCR đặc hiệu 45,1% (NEXUS 36,8%), bỏ sót 1/169 ca so với NEXUS ~10%**; **trẻ: NEXUS chỉ nhạy 85,7% < CCR 90,8% < PECARN 93,3% → dùng PECARN**; không áp dụng được ở bệnh nhân hôn mê → CT ± MRI | `202`, `221`, `223` |
 | Tủy mềm KHÔNG do chấn thương | Tủy sống (nội tủy) | Nhồi máu tủy (ASA) · SDAVF · viêm tủy cấp/NMOSD · tủy mềm do xạ · (loại trừ chèn ép) | **Đột ngột + đau + DWI hạn chế + 2/3 trước = nhồi máu tủy**; **flow void + phù lan dài từ nón tủy = SDAVF → DSA**; **LETM ≥ 3 đốt + H-sign + area postrema = NMOSD**; **nhiều tháng sau xạ, tổn thương trong trường chiếu = RM** | `226`, `225`, `215`, `220` |
 
+## Trục cốt lõi minh họa — hạn chế khuếch tán & tiến triển tín hiệu theo thời gian
+
+> Hai trục lý thuyết của cả hệ Thần kinh: **(1) hàng rào máu não + khuếch tán (DWI/ADC)** và **(2) tiến triển tín hiệu theo thời gian** (đặc biệt chuỗi hemoglobin của máu tụ).
+
+![DWI sáng – ADC tối = nhồi máu cấp](images/200_DWI-ADC-nhoi-mau-cap_PMC11608002-Fig5.jpg)
+
+*Tổn thương cầu não: **DWI tăng tín hiệu (A)** + **ADC giảm tín hiệu (B)** = **hạn chế khuếch tán** (phù tế bào/cytotoxic edema — nước chuyển nội bào); MRA (C/D) đánh giá mạch. Nguồn: Bachtiar NA et al., Vasc Health Risk Manag 2024, PMC11608002, CC BY-NC 4.0.*
+
+![Tiến triển tín hiệu MRI theo giai đoạn nhồi máu](images/200_tien-trien-tin-hieu-theo-thoi-gian_PMC11608002-Fig1.jpg)
+
+*Bảng tín hiệu T1W/T2W/FLAIR/DWI/ADC/SWI/ASL theo 5 mốc (siêu cấp 0–6 giờ → mạn > 3 tuần). **Chốt đọc nhanh:** DWI sớm nhất (siêu cấp), **ADC tối đạt đáy ~1 tuần rồi "giả bình thường hóa"** ở giai đoạn mạn; FLAIR dương muộn hơn DWI (bất tương hợp DWI–FLAIR dùng cho đột quỵ giờ thức giấc); ASL–DWI bất tương hợp (+) gợi vùng tranh tối–tranh sáng (penumbra). Nguồn: Bachtiar NA et al., Vasc Health Risk Manag 2024, PMC11608002, CC BY-NC 4.0.*
+
 ## Bài liên quan chéo
 - [211 – Đột quỵ não](../211-dot-quy-nao/lesson.md) *(đã có)*
 - [212 – Xuất huyết sọ](../212-xuat-huyet-so-nao/lesson.md) *(đã có)*

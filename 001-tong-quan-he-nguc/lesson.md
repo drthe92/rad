@@ -44,8 +44,10 @@ certainty: tong-hop-y-van
 | SPL/khí TT/dịch MT | Toàn ngực | Trung tâm/vách/ngẫu nhiên; Macklin; Beck | Kerley 1–2 cm; thủng = dịch+sốt; RA collapse = tamponade | [011](../011-tieu-thuy-phoi/lesson.md), [061](../061-tran-khi-trung-that/lesson.md), [075](../075-tran-dich-mang-tim/lesson.md) |
 | Nốt đơn độc ở người CÓ tiền sử ung thư | Phổi | Di căn đơn độc, K phổi nguyên phát mới, lành | mGGN/chồi gai/kéo màng phổi → nguyên phát; FDG âm không loại trừ | [016](../016-not-phoi-tien-su-ung-thu/lesson.md) |
 | Dày vách liên tiểu thùy/mô kẽ | Phổi (mô kẽ) | PLC, phù, sarcoid, xơ, PAP | **Dạng nốt** = u/sarcoid; **trơn đối xứng** = phù; co kéo = xơ | [017](../017-bach-mach-lan-phoi/lesson.md), [011](../011-tieu-thuy-phoi/lesson.md) |
+| Mờ theo trọng lực (đông đặc/kính mờ phân thùy phụ thuộc) | Phổi (đáy-sau, thường phải) | Viêm phổi hít sặc, viêm phổi hóa chất, dị vật đường thở | **Vị trí theo tư thế + bối cảnh rối loạn nuốt/nằm lâu/hôn mê** = hít sặc; mờ hai bên lan tỏa trong vài giờ = hóa chất | [081](../081-sac-va-roi-loan-nuot/lesson.md) |
 
 ## Bài liên quan chéo
+- [081 – Sặc & rối loạn nuốt (VFSS/FEES, viêm phổi hít sặc, sonde dạ dày)](../081-sac-va-roi-loan-nuot/lesson.md) *(mới)*
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
 - [020 – Nốt phổi](../020-not-phoi/lesson.md)
 - [021 – Đa nốt phổi](../021-da-not-phoi/lesson.md) *(mới)*
