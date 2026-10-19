@@ -240,6 +240,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 546 | [Loạn vận động tống phân (anismus / dyssynergic defecation)](546-loan-van-dong-tong-phan-anismus/lesson.md) | `pattern:loan-van-dong-tong-phan` `vung:tieu-khung` `vung:truc-trang-hau-mon` `score:Rao-type` `protocol:MR-defecography` `protocol:manometry` |
 | 547 | [Sa tạng chậu nữ: phân độ POP-Q & lưới nâng (mesh)](547-sa-tang-chau-nu-POP-Q-luoi-nang/lesson.md) | `pattern:sa-tang-chau` `vung:tieu-khung` `score:POP-Q` `protocol:MRI-san-chau` `protocol:luoi-nang` |
 | 550 | [Thai sớm SRU](550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) | `score:SRU` |
+| 551 | [Bệnh nguyên bào nuôi thai kỳ: thai trứng toàn phần/bán phần & choriocarcinoma](551-benh-nguyen-bao-nuoi-thai-ky/lesson.md) | `pattern:nang` `pattern:qua-san-tu-cung` `vung:tu-cung` `vung:buong-trung` `score:FIGO-WHO` `protocol:sieu-am-Doppler` `protocol:MRI-chau` `incidentaloma:khong` |
 | 560 | [PAS](560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) | `score:PAS` |
 | 565 | [Sàng lọc hình thái thai & Doppler sản khoa](565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) | `pattern:hinh-thai` `pattern:doppler-san-khoa` `vung:thai-nhi` `score:Delphi-FGR` `protocol:SA-hinh-thai` `protocol:Doppler-san-khoa` |
 | 566 | [Song thai: chorionicity, TTTS & TAPS](566-song-thai-chorionicity-TTTS-TAPS/lesson.md) | `pattern:song-thai` `vung:thai-nhi` `vung:banh-nhau` `score:Quintero` `score:TAPS` `protocol:SA-thai` `protocol:Doppler-MCA` |
