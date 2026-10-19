@@ -14,8 +14,12 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 020 | [Nốt phổi](020-not-phoi/lesson.md) | `pattern:not` `vung:phoi` `score:Lung-RADS` `protocol:Fleischner` `incidentaloma:not-phoi` |
 | 012 | [Hạch IASLC](012-hach-trung-that/lesson.md) | `pattern:hach` `vung:trung-that` `score:IASLC` `protocol:PET-CT-nguc` |
 | 013 | [Hạch nội phổi (trạm 11–14) & nốt cạnh rãnh](013-hach-noi-phoi/lesson.md) | `pattern:hach` `pattern:not` `vung:phoi` `vung:ron-phoi` `score:IASLC` `score:Lung-RADS` `protocol:CT-nguc-lat-mong` `incidentaloma:not-canh-ranh` |
+| 016 | [Nốt phổi ở BN có tiền sử ung thư ngoài phổi: di căn đơn độc vs K phổi nguyên phát thứ hai](016-not-phoi-tien-su-ung-thu/lesson.md) | `pattern:not` `pattern:not-co-tien-su-ung-thu` `vung:phoi` `score:Lung-RADS` `protocol:PET-CT-nguc` `incidentaloma:not-tien-su-ung-thu` |
+| 017 | [Bạch mạch lan phổi (lymphangitic carcinomatosis) & vách liên tiểu thùy](017-bach-mach-lan-phoi/lesson.md) | `pattern:day-vach-lien-tieu-thuy` `pattern:bach-mach` `vung:phoi` `protocol:HRCT` `incidentaloma:day-vach` |
 | 011 | [Tiểu thùy thứ cấp](011-tieu-thuy-phoi/lesson.md) | `pattern:vi-cau-truc` `vung:phoi` `anatomy:phoi` |
 | 015 | [Ống/dây ICU](015-ong-day-ICU/lesson.md) | `pattern:ong-day` `vung:nguc` `protocol:xq-ICU` `protocol:CT-nguc` |
+| 016 | [Nốt phổi đơn độc ở người có tiền sử ung thư ngoài phổi (di căn vs K phổi mới)](016-not-phoi-tien-su-ung-thu/lesson.md) | `pattern:not` `vung:phoi` `protocol:PET-CT-nguc` `protocol:sinh-thiet` `incidentaloma:not-tien-su-ung-thu` |
+| 017 | [Bạch mạch lan phổi (lymphangitic carcinomatosis) trên HRCT](017-bach-mach-lan-phoi/lesson.md) | `pattern:day-vach` `pattern:bach-mach` `vung:phoi` `protocol:HRCT` `protocol:PET-CT-nguc` `incidentaloma:bach-mach` |
 | 021 | [Đa nốt phổi](021-da-not-phoi/lesson.md) | `pattern:not-da-o` `vung:phoi` |
 | 022 | [Khối phổi & TNM](022-khoi-phoi-TNM/lesson.md) | `pattern:khoi` `score:TNM` |
 | 025 | [Hang & nấm phổi](025-ton-thuong-phoi-tao-hang/lesson.md) | `pattern:hang` `vung:phoi` |

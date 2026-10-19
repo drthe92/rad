@@ -17,6 +17,8 @@ certainty: tong-hop-y-van
 |---|---|---|---|---|
 | Nốt (nodule) | Phổi (lung) | U hạt (granuloma), ung thư (cancer), hamartoma | Bờ gai (spiculation), kính mờ (ground-glass) | [020](../020-not-phoi/lesson.md) |
 | Nốt/hạch nội phổi (cạnh rãnh) | Rốn & nội phổi | Hạch nội phổi (IPLN/PFN), K phổi, di căn cạnh rãnh | **Tam giác + dính rãnh = lành**; bờ gai + khấc + to lên = ác | [013](../013-hach-noi-phoi/lesson.md) |
+| Nốt đơn độc + tiền sử K ngoài phổi | Phổi | Di căn đơn độc vs K phổi nguyên phát thứ hai (SPLC) | SUVmax **không** phân biệt (BCM 6,47 vs PLC 2,98); gai + múi + co kéo → nguyên phát (mổ) | [016](../016-not-phoi-tien-su-ung-thu/lesson.md) |
+| Dày vách liên tiểu thùy | Mô kẽ/vách | Bạch mạch lan phổi (PLC), phù phổi, sarcoid, xơ UIP | **Dạng nốt = PLC** (M1a); trơn đối xứng + tim to + Kerley B = phù | [017](../017-bach-mach-lan-phoi/lesson.md) |
 | Đông đặc (consolidation) | Phổi | Viêm phổi (pneumonia), nhồi máu phổi (pulmonary infarction), ung thư lepidic (lepidic adenocarcinoma) | Phế quản hơi (air bronchogram), giữ thể tích | [030](../030-dong-dac-xep-phoi/lesson.md) |
 | Xẹp (atelectasis) | Phổi | Tắc (obstruction), chèn ép (compression) | Di lệch rãnh liên thùy (fissure) | [030](../030-dong-dac-xep-phoi/lesson.md) |
 | Tràn dịch (effusion) | Màng phổi (pleura) | Dịch thấm (transudate), dịch tiết (exudate), máu (hemothorax) | Meniscus, tư thế nằm (decubitus) | [040](../040-tran-dich-mang-phoi/lesson.md) |
@@ -32,6 +34,8 @@ certainty: tong-hop-y-van
 | Đa nốt/kính mờ | Phổi | Trung tâm/bạch mạch/ngẫu nhiên; GGO/lát đá | Galaxy = sarcoid; tree-in-bud = lao; lát đá + mạn = PAP/NSIP | [021](../021-da-not-phoi/lesson.md), [032](../032-kinh-mo-lat-da/lesson.md) |
 | Khối/u/dây ICU | Phổi-MP | Khối > 30 + TNM; mesothelioma rind; NKQ 3–5 cm | Hạch ≥ 10 mm; co rút = mesothelioma; khí máu lẫn = lạc chỗ | [022](../022-khoi-phoi-TNM/lesson.md), [042](../042-mang-phoi-u/lesson.md), [015](../015-ong-day-ICU/lesson.md) |
 | SPL/khí TT/dịch MT | Toàn ngực | Trung tâm/vách/ngẫu nhiên; Macklin; Beck | Kerley 1–2 cm; thủng = dịch+sốt; RA collapse = tamponade | [011](../011-tieu-thuy-phoi/lesson.md), [061](../061-tran-khi-trung-that/lesson.md), [075](../075-tran-dich-mang-tim/lesson.md) |
+| Nốt đơn độc ở người CÓ tiền sử ung thư | Phổi | Di căn đơn độc, K phổi nguyên phát mới, lành | mGGN/chồi gai/kéo màng phổi → nguyên phát; FDG âm không loại trừ | [016](../016-not-phoi-tien-su-ung-thu/lesson.md) |
+| Dày vách liên tiểu thùy/mô kẽ | Phổi (mô kẽ) | PLC, phù, sarcoid, xơ, PAP | **Dạng nốt** = u/sarcoid; **trơn đối xứng** = phù; co kéo = xơ | [017](../017-bach-mach-lan-phoi/lesson.md), [011](../011-tieu-thuy-phoi/lesson.md) |
 
 ## Bài liên quan chéo
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
@@ -46,6 +50,10 @@ certainty: tong-hop-y-van
 - [075 – Tràn dịch màng tim](../075-tran-dich-mang-tim/lesson.md)
 - [012 – Hạch IASLC](../012-hach-trung-that/lesson.md) *(mới: trạm 1–10)*
 - [013 – Hạch nội phổi trạm 11–14](../013-hach-noi-phoi/lesson.md) *(mới: nốt cạnh rãnh / IPLN)*
+- [016 – Nốt phổi ở bệnh nhân có tiền sử ung thư](../016-not-phoi-tien-su-ung-thu/lesson.md) *(mới: di căn đơn độc vs K phổi nguyên phát thứ hai)*
+- [017 – Bạch mạch lan phổi](../017-bach-mach-lan-phoi/lesson.md) *(mới: dày vách liên tiểu thùy, M1a)*
+- [016 – Nốt phổi ở người có tiền sử ung thư (di căn vs K phổi mới)](../016-not-phoi-tien-su-ung-thu/lesson.md) *(mới)*
+- [017 – Bạch mạch lan phổi (lymphangitic carcinomatosis)](../017-bach-mach-lan-phoi/lesson.md) *(mới)*
 - [045 – Thành ngực & hoành](../045-thanh-nguc-hoanh/lesson.md) *(mới)*
 - [051 – Tiểu PQ & khảm](../051-tieu-phe-quan/lesson.md) *(mới)*
 - [052 – Khí phế thũng vs kén](../052-khi-phe-thung-kem/lesson.md) *(mới)*
@@ -71,6 +79,8 @@ certainty: tong-hop-y-van
 - 012 – Hạch trung thất IASLC & đường-dải trung thất X-quang (Mediastinal lines/stripes) *(đã có — [bài học](../012-hach-trung-that/lesson.md))*
 - 013 – Hạch nội phổi (trạm 11–14) & nốt cạnh rãnh (Intrapulmonary lymph nodes / perifissural nodule) *(đã có — [bài học](../013-hach-noi-phoi/lesson.md))*
 - 015 – Ống/dây ICU (lines/tubes) & giả ảnh ngực (artifacts) *(đã có — [bài học](../015-ong-day-ICU/lesson.md))*
+- 016 – Nốt phổi đơn độc ở bệnh nhân có tiền sử ung thư ngoài phổi: di căn đơn độc vs K phổi nguyên phát thứ hai *(đã có — [bài học](../016-not-phoi-tien-su-ung-thu/lesson.md))*
+- 017 – Bạch mạch lan phổi (lymphangitic carcinomatosis) & đường mạch bạch huyết trên HRCT *(đã có — [bài học](../017-bach-mach-lan-phoi/lesson.md))*
 
 **02x — Nốt, Khối & Hang**
 - [020 – Nốt phổi đơn độc](../020-not-phoi/lesson.md) *(đã có)*
