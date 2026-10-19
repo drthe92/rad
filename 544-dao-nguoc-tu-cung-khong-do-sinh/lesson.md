@@ -90,13 +90,13 @@ certainty: tong-hop-y-van
 
 ```mermaid
 flowchart TD
-  A[Khoi sa qua co tu cung\nkhong lien quan thai ky] --> B{Thay co tu cung o dinh khoi?\nLuon duoc que vao buong?}
+  A[Khoi sa qua co tu cung<br/>khong lien quan thai ky] --> B{Thay co tu cung o dinh khoi?<br/>Luon duoc que vao buong?}
   B -->|Co| C[Sa tu cung/am dao, polyp, u xo cuong: danh gia rieng]
   B -->|Khong| D[Nghi DAO NGUOC TU CUNG: sieu am cheo U/Y + MRI T2]
   D --> E{Loai tru ac tinh: mo benh/soi + MRI phan giai doan}
-  E -->|Ac tinh| F[Phau thuat triet de theo da mo\n+ da chuyen khoa]
+  E -->|Ac tinh| F[Phau thuat triet de theo da mo<br/>+ da chuyen khoa]
   E -->|Lanh| G{Giu tu cung?}
-  G -->|Co, mong con| H[Thu thay the: Haultain uu tien\n(Huntington/Spinelli/Kustner tuy the)]
+  G -->|Co, mong con| H["Thu thay the: Haultain uu tien<br/>(Huntington/Spinelli/Kustner tuy the)"]
   G -->|Khong| I[Cat tu cung: duong bung/am dao/phoi hop]
   H --> J{Thay the duoc?}
   J -->|Co| K[Cat khoi nguyen nhan + sua chua tu cung]

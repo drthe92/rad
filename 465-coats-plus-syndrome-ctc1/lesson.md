@@ -80,7 +80,7 @@ flowchart TD
   E -->|Có, hai bên| G[MRI/CT não: tìm vôi hóa nhân xám + nang + bệnh chất trắng]
   G --> H{Có vôi hóa/nang não hoặc dấu hệ thống?}
   H -->|Không| I[FEVR / Norrie / IP / Revesz - xét gen + tầm soát gia đình]
-  H -->|Có: loãng xương, chảy máu tiêu hóa, tóc-móng| J[COATS PLUS (CRMCC) - gen CTC1]
+  H -->|Có: loãng xương, chảy máu tiêu hóa, tóc-móng| J["COATS PLUS (CRMCC) - gen CTC1"]
   J --> K[Laser/cryo vùng telangiectasia; tầm soát tủy xương, tiêu hóa, xương, phổi]
   K --> L[Tư vấn di truyền lặn - nguy cơ 25% - tầm soát anh chị em]
 ```

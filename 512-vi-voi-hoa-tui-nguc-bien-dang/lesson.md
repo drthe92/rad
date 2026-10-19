@@ -60,7 +60,7 @@ flowchart TD
   D -->|Khong, vo dinh hinh hoac tho khong deu| F[BI-RADS 4B - sinh thiet]
   E --> G{Phan bo nhom/tuyen tinh/phan thuy}
   F --> G
-  G -->|Phan thuy| H[Nghi DCIS - uu tien VAB lay tron}
+  G -->|Phan thuy| H[Nghi DCIS - uu tien VAB lay tron]
   A2[Bien dang cau truc] --> I[Xac nhan >= 2 binh dien]
   I --> J[Sinh thiet - AD de nang cap B3/ac]
   A3[Tui nguc nghi vo] --> K[MRI chon loc silicon]

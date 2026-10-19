@@ -78,12 +78,12 @@ flowchart TD
   E -->|"Day thanh ta trang, KHONG khi ngoai long"| G["Khoi mau tu thanh ta trang: bao ton, NG/TPN"]
   E -->|"Khi ngoai long + bot khi trong dich"| H["Thung ta trang: MO cap cuu"]
   E -->|"Blush > 90 HU lan rong o thi muon"| I["Chay mau hoat tinh: CTA + nut mach"]
-  E -->|"O thuoc giu hinh, giam dan (blood pool)"| J["Gia phinh / AVF: theo doi, nut mach khi can"]
+  E -->|"O thuoc giu hinh, giam dan &#40;blood pool&#41;"| J["Gia phinh / AVF: theo doi, nut mach khi can"]
   F --> K{"Khe dich dut ngang / rach > 50% truc ngan?"}
   K -->|Co| L["Nghi dut ong tuy: MRCP + secretin"]
   K -->|Khong| M["Dung dap tuy (AAST I-II): bao ton, theo doi amylase"]
   L --> N{"Vi tri dut?"}
-  N -->|"Than/duoi (xa)"| O["AAST III: can nhac cat tuy xa / bao ton co chon loc"]
+  N -->|"Than/duoi &#40;xa&#41;"| O["AAST III: can nhac cat tuy xa / bao ton co chon loc"]
   N -->|"Gan / ampulla"| P["AAST IV-V: hoi chan ngoai khoa (ERCP stent / noi ong-ruot)"]
 ```
 

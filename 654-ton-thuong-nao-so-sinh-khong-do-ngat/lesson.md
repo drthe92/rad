@@ -70,7 +70,7 @@ flowchart TD
   E -->|"DWI nhieu o chat trang + bo the chai"| H["Nhien trung TKTW: khang sinh + PCR virus"]
   E -->|"Mot ben theo lanh tho DM nao giua"| I["Dot quy nhu nhi: MRA/MRV, theo doi"]
   E -->|"MRS bat thuong 0,9 / 3,56 ppm"| J["Benh chuyen hoa: che do an dac biet"]
-  E -->|"Doi xung doi thi + PLIC (BGT)"| C
+  E -->|"Doi xung doi thi + PLIC &#40;BGT&#41;"| C
 ```
 
 ## 5. Biến thể bình thường và cạm bẫy

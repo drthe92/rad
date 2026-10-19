@@ -83,7 +83,7 @@ flowchart TD
   F -->|Một bên| H[Siêu âm định vị - độ tin cậy thấp]
   H --> I{Không thấy?}
   I -->|Không thấy| J[Nội soi ổ bụng: tinh hoàn ổ bụng / dây cụt = TRS]
-  I -->|Thấy| K[MRI xác nhận (nếu cần) trước orchidopexy]
+  I -->|Thấy| K["MRI xác nhận (nếu cần) trước orchidopexy"]
   J --> L{Tinh hoàn ổ bụng còn sống?}
   L -->|Còn| M[Orchidopexy 1 thì / 2 thì]
   L -->|Co cụt/teo| N[Chỉ cắt mô xơ + theo dõi]

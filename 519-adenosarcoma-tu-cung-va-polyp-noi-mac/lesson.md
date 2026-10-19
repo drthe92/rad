@@ -78,13 +78,13 @@ certainty: tong-hop-y-van
 
 ```mermaid
 flowchart TD
-  A[Khoi polypoid trong long tu cung\nnu ra mau sau man kinh] --> B{Doppler: cuong mach don doc\n+ bo ro + dong nhat?}
+  A[Khoi polypoid trong long tu cung<br/>nu ra mau sau man kinh] --> B{Doppler: cuong mach don doc<br/>+ bo ro + dong nhat?}
   B -->|Co| C[Polyp noi mac: cat qua noi soi + mo benh]
   B -->|Khong| D{Co xam lan co / bo khong deu?}
   D -->|Co| E[Nghi AC: ung thu noi mac / sarcoma -> sinh thiet + MRI phan giai doan]
   D -->|Khong| F{DWI sang + ADC THAP that?}
-  F -->|Co, ADC thap| G[Adenosarcoma: mo NGUYEN KHOI\n+ CT nguc tim di can]
-  F -->|Khong| H{Co o nang nho T2 sang\n+ tin hieu giong JZ?}
+  F -->|Co, ADC thap| G[Adenosarcoma: mo NGUYEN KHOI<br/>+ CT nguc tim di can]
+  F -->|Khong| H{Co o nang nho T2 sang<br/>+ tin hieu giong JZ?}
   H -->|Co| I[Polypoid adenomyoma: MRI da chuoi + mo benh]
   H -->|Khong| J[U xo duoi niem mac: so phim cu, theo doi]
   G --> K{Co SO > 25% tren mo benh?}

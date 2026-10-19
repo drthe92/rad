@@ -73,7 +73,7 @@ flowchart TD
   C -->|"Khuyet thieu / mat noi mac T2"| G["SIS + soi buong: polyp / u xo duoi niem mac / dinh (Asherman)"]
   G --> H{"Loai ton thuong?"}
   H -->|"Polyp hoac u xo duoi niem mac"| I["Cat qua noi soi (bao ton tu cung)"]
-  H -->|"Dinh buong (IUA)"| J["Go dinh + phong dinh tai phat (gel/barrier)"]
+  H -->|"Dinh buong &#40;IUA&#41;"| J["Go dinh + phong dinh tai phat (gel/barrier)"]
   C -->|"Khong bat thuong long"| K{"JZ >= 12 mm / tu cung to?"}
   K -->|"Co"| L["Adenomyosis: dieu tri noi khoa"]
   K -->|"Khong"| M{"Tien su say muon + co tu cung < 25 mm?"}

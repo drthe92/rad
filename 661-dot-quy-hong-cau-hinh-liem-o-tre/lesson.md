@@ -91,7 +91,7 @@ flowchart TD
   A["Trẻ SCD, 2-16 tuổi"] --> B["TCD hằng năm: TAMMV tận ICA/đoạn gần MCA"]
   B --> C{"TAMMV cao nhất?"}
   C -->|"< 170 cm/s"| D["Bình thường: hẹp lịch TCD 1 năm"]
-  C -->|"170-200 cm/s (conditional)"| E["Lặp TCD mỗi 3 tháng; xét MRI/MRA"]
+  C -->|"170-200 cm/s &#40;conditional&#41;"| E["Lặp TCD mỗi 3 tháng; xét MRI/MRA"]
   C -->|">= 200 cm/s"| F["Lặp trong 2-4 tuần; nếu vẫn >= 200"]
   F --> G["Truyền máu định kỳ (HbS < 30%) - giảm 92% đột quỵ; MRI/MRA"]
   D --> H["MRI sọ không gây mê 1 lần tuổi tiểu học: tìm SCI (FLAIR/T1)"]

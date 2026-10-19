@@ -77,7 +77,7 @@ flowchart TD
   B -->|HA binh thuong| E{Phu gai + sao hoang diem 2 ben}
   E -->|Co thieu mau| F[Benh vong mac thieu mau - cong thuc mau, tim nguon mat mau]
   E -->|Bat thuong huyet sac to| G[SCR - dien di Hb, Goldberg >=3 -> laser/anti-VEGF]
-  E -->|Khong thieu mau| H[Can nhac IIH / viem (neuroretinitis) / sai khuc xa]
+  E -->|Khong thieu mau| H["Can nhac IIH / viem (neuroretinitis) / sai khuc xa"]
   C --> I[Ha HA <= 20-25% MAP gio dau + dieu tri nguyen nhan]
 ```
 

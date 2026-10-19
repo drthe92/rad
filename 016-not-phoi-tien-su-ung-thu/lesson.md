@@ -80,8 +80,8 @@ flowchart TD
   B --> C{"So phim cũ: TO LÊN / mới xuất hiện?"}
   C -->|"Ổn định nhiều năm"| D["Theo dõi định kỳ - nguy cơ thấp hơn"]
   C -->|"Mới hoặc to lên"| E{"Hình thái: gai + múi + co kéo + mGGN?"}
-  E -->|"Có (nghi nguyên phát)"| F["Cân nhắc SPLC - sinh thiết, TNM, khả năng MỔ"]
-  E -->|"Không (tròn/đặc)"| G{"Bắt FDG?"}
+  E -->|"Có &#40;nghi nguyên phát&#41;"| F["Cân nhắc SPLC - sinh thiết, TNM, khả năng MỔ"]
+  E -->|"Không &#40;tròn/đặc&#41;"| G{"Bắt FDG?"}
   G -->|"Dương mạnh"| H["Di căn hoặc nhiễm trùng/viêm - lấy mô phân biệt"]
   G -->|"Âm / nhẹ"| I["Không được gọi lành - vẫn sinh thiết hoặc theo dõi sát"]
   H --> J["Kết quả mô học quyết định: toàn thân (di căn) vs triệt căn (nguyên phát)"]

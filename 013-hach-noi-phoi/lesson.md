@@ -69,8 +69,8 @@ flowchart TD
   A["Nốt đặc <= 30 mm trên CT ngực"] --> B{"Cạnh rãnh/màng phổi? Bờ rõ?"}
   B -->|"Không"| Z["Theo 020: Fleischner 2017 / Lung-RADS v2022 theo kích thước"]
   B -->|"Có"| C{"Tam giác/oval/lentiform + dính rãnh + dây vách"}
-  C -->|"Điển hình (typical PFN)"| D["Lành - Lung-RADS 1-2; KHÔNG theo dõi thường quy"]
-  C -->|"Không điển hình (atypical)"| E{"Theo dõi 3-6 tháng: TO LÊN + dạng tròn/đặc?"}
+  C -->|"Điển hình &#40;typical PFN&#41;"| D["Lành - Lung-RADS 1-2; KHÔNG theo dõi thường quy"]
+  C -->|"Không điển hình &#40;atypical&#41;"| E{"Theo dõi 3-6 tháng: TO LÊN + dạng tròn/đặc?"}
   E -->|"Ổn định hoặc giảm"| F["Tiếp tục coi lành - so phim"]
   E -->|"To + tròn/đặc, có tiền sử K"| G["Nghi ác - PET-CT, sinh thiết"]
   D --> H["Đừng đếm là tổn thương M1a khi bệnh nhân đã có K phổi"]

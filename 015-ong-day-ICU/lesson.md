@@ -58,7 +58,7 @@ flowchart TD
   B -->|"3–5 cm"| C["Đúng"]
   B -->|"< 2 cm hoặc trong PQ gốc phải"| D["Rút 2–3 cm + chụp lại"]
   A --> E{"CVC: đường đi + khí máu?"}
-  E -->|"Đúng (TVC trên) + máu tĩnh mạch"| C
+  E -->|"Đúng &#40;TVC trên&#41; + máu tĩnh mạch"| C
   E -->|"Lẫn ĐM/tĩnh mạch hoặc vào nhĩ"| F["KHÔNG dùng — CT mạch xác nhận"]
   A --> G{"NGT: đầu + lỗ bên?"}
   G -->|"≥ 10 cm dưới GOJ, trong thân dạ dày"| C

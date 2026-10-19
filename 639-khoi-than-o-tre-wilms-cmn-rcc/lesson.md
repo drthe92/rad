@@ -87,7 +87,7 @@ flowchart TD
   AGE -->|"1-10 tuổi"| W["Nghĩ Wilms (u nguyên bào thận)"]
   W --> IMG["MRI ưu tiên: hai thận + xâm lấn mạch (TM chủ dưới/nhĩ phải) + ổ nguyên bào thận"]
   IMG --> STG{"Hai bên?"}
-  STG -->|"có (5-8%)"| B["Giai đoạn V — NSS nếu được"]
+  STG -->|"có &#40;5-8%&#41;"| B["Giai đoạn V — NSS nếu được"]
   STG -->|"không"| COG["COG: mổ trước rồi hóa trị theo giai đoạn I-IV<br/>SIOP: hóa trị trước mổ rồi phân giai đoạn"]
   AGE -->|"> 9-10 tuổi"| RCC["Nghĩ RCC — hóa mô miễn dịch TFE3/PAX8 (chuyển đoạn MiT)"]
 ```

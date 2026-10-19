@@ -107,8 +107,8 @@ flowchart TD
   F -->|"Có"| G["Chụp mạch NÚT MẠCH (TAE)"]
   F -->|"Không"| H{"Còn mất vững?"}
   G --> H
-  H -->|"Không (Tile A/B đơn thuần)"| I["Bảo tồn + tập sớm"]
-  H -->|"Có (Tile B/C)"| J["Cố định ngoài ± C-clamp; Tile C + traction"]
+  H -->|"Không &#40;Tile A/B đơn thuần&#41;"| I["Bảo tồn + tập sớm"]
+  H -->|"Có &#40;Tile B/C&#41;"| J["Cố định ngoài ± C-clamp; Tile C + traction"]
   J --> K{"Vỡ HỞ / tổn thương đáy chậu?"}
   K -->|"Có"| L["Làm sạch + kháng sinh + colostomy nếu cần (WSES)"]
   K -->|"Không"| M["Theo dõi, X-quang 3–5 ngày"]

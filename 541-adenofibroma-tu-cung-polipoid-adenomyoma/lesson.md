@@ -77,7 +77,7 @@ certainty: tong-hop-y-van
 
 ```mermaid
 flowchart TD
-  A[Khoi polypoid trong long tu cung] --> B{Doppler: cuong mach don doc\n+ bo ro + dong nhat?}
+  A[Khoi polypoid trong long tu cung] --> B{Doppler: cuong mach don doc<br/>+ bo ro + dong nhat?}
   B -->|Co| C[Polyp noi mac: cat qua noi soi + mo benh]
   B -->|Khong| D{Co nhu + nhieu nang nho T2 sang?}
   D -->|Khong| E{Khoi T2 toi deu + vo gia?}
@@ -87,7 +87,7 @@ flowchart TD
   G -->|Khong| I[Khoi dac khac: danh gia tiep]
   D -->|Co| J{Tuoi sinh san + vo sinh/rong kinh?}
   J -->|Co| K[APA: 4 buoc qua noi soi khi > 1 cm; > 30% tuyen phuc tap = cat tu cung]
-  J -->|Khong, sau man kinh| L[Adenofibroma vs adenosarcoma: cat TRON + mo benh\n(hinh chia + atypia mo dem)]
+  J -->|Khong, sau man kinh| L["Adenofibroma vs adenosarcoma: cat TRON + mo benh<br/>(hinh chia + atypia mo dem)"]
   L --> M{Tre + tai phat nhieu lan?}
   M -->|Co| N[Do calci/PTH + IHC parafibromin -> HPT-JT HRPT2/CDC73]
   M -->|Khong| O[Theo doi noi soi dinh ky]

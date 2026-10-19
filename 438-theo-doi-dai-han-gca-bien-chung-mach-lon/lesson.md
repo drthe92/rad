@@ -76,7 +76,7 @@ certainty: tong-hop-y-van
 
 ```mermaid
 flowchart TD
-  A[Chan doan GCA - da dieu tri: corticoid +/- tocilizumab] --> B[Chup NEN tang: CTA/MRA DMC + nhanh (do duong kinh) + FDG-PET dang hoat tinh]
+  A[Chan doan GCA - da dieu tri: corticoid +/- tocilizumab] --> B["Chup NEN tang: CTA/MRA DMC + nhanh (do duong kinh) + FDG-PET dang hoat tinh"]
   B --> C{Con hoat tinh viem?}
   C -->|Dang hoat dong / ngh bien chung| D[PET/CT lai 3-6 thang + lui lieu theo EULAR]
   C -->|On dinh| E[CTA/MRA lai 6-12 thang -> hang nam khi on dinh]

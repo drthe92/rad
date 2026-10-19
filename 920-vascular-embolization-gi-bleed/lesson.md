@@ -46,7 +46,7 @@ flowchart TD
   A[Chảy máu cấp] --> B{CTA 3 pha?}
   B -->|Đổi hình + lan| C[Thoát: nút cấp cứu]
   B -->|Giữ hình| D[Giả phình: coil túi]
-  B -->|1 thì (sỏi/clip)| E[Giả: không nút]
+  B -->|1 thì &#40;sỏi/clip&#41;| E[Giả: không nút]
 ```
 
 ## 5. Cạm bẫy

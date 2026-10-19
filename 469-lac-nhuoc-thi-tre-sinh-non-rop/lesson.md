@@ -101,7 +101,7 @@ flowchart TD
   G -->|Có| H[Theo dõi sát<br/>giảm liều dần rồi ngừng]
   G -->|Không thêm| I[Tăng 6 giờ bịt mắt/ngày<br/>HOẶC pha/chuyển phương thức]
   I --> J[Xét phẫu thuật lác khi<br/>góc ổn định + nhược thị tối ưu]
-  K{Lác mới đột ngột<br/>+ song thị (AACE)?} -->|Có| L[Chụp MRI/CT não - hốc mắt<br/>loại trừ u hố sau]
+  K{"Lác mới đột ngột<br/>+ song thị (AACE)?"} -->|Có| L[Chụp MRI/CT não - hốc mắt<br/>loại trừ u hố sau]
 ```
 
 ![Sơ đồ bậc thang điều trị nhược thị trẻ em](images/469_lac-nhuoc-thi_so-do-bac-thang-dieu-tri_KJO-2019-Fig1-CCBYNC.jpg)

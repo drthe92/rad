@@ -67,7 +67,7 @@ Gamut "ổ ngấm thuốc khu trú trong/thân tạng": **giả phình** vs **xu
 
 ```mermaid
 flowchart TD
-  A[Trẻ chấn thương gan/lách, CT có cản quang] --> B{Có "blush" ngấm thuốc khu trú?}
+  A[Trẻ chấn thương gan/lách, CT có cản quang] --> B{"Có 'blush' ngấm thuốc khu trú?"}
   B -->|Không| C[Bảo tồn + theo dõi; không CT lại thường quy]
   B -->|Có| D[Đọc thì muộn 5-10 phút]
   D --> E{To ra/đậm lên thì muộn?}

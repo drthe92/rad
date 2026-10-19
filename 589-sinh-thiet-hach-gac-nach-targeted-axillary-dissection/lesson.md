@@ -82,7 +82,7 @@ flowchart TD
   G --> H{Mô bệnh / OSNA}
   H -->|ypN0 hoac ypN0 i+| I[Bo ALND - theo doi]
   H -->|1-2 hach duong, du tieu chuan Z0011| J[Bo ALND + xa toan vu]
-  H -->|Nhieu hach duong / khong du tieu chuan| K[Xa nach (AMAROS) hoac ALND]
+  H -->|Nhieu hach duong / khong du tieu chuan| K["Xa nach (AMAROS) hoac ALND"]
   B -->|Hach binh thuong cN0| L[SLNB dual tracer]
   L --> M{SLN duong?}
   M -->|Khong| I

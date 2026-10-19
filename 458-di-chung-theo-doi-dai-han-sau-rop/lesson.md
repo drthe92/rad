@@ -76,7 +76,7 @@ Di chứng sau ROP đọc theo **mốc tuổi** — mỗi giai đoạn có chân
 
 ```mermaid
 flowchart TD
-  A[ROP da dieu tri (laser hoac anti-VEGF)] --> B{Mach da moc het zone III ?}
+  A["ROP da dieu tri (laser hoac anti-VEGF)"] --> B{Mach da moc het zone III ?}
   B -->|Chua / tren anti-VEGF| C[Theo doi tich cuc: anh UWF moi 1-2 tuan; anti-VEGF toi >= 65 tuan PMA, cang 45-55 tuan]
   C --> D{Go tai xuat + plus moi tren CHUOI anh ?}
   D -->|Co = tai hoat| E[Tiem lai anti-VEGF +- laser bo sung]

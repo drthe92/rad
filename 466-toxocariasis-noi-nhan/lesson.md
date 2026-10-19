@@ -100,7 +100,7 @@ flowchart TD
   B -->|Không| D[Soi đáy mắt + đè củng mạc + UWF + B-scan + UBM]
   D --> E{Có u hạt +/- dây co kéo tới đĩa thị?}
   E -->|Có, một bên| F[ELISA Toxocara IgG huyết thanh]
-  F --> G{Kháng thể (+)?}
+  F --> G{"Kháng thể (+)?"}
   G -->|Có| H[XÁC NHẬN Toxocariasis nội nhãn]
   G -->|Không| I[Kháng thể dịch tiền phòng/dịch kính + Goldmann-Witmer; PCR loại trừ nấm/vi khuẩn]
   I --> H

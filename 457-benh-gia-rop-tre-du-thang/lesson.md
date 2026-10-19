@@ -75,16 +75,16 @@ certainty: tong-hop-y-van
 ```mermaid
 flowchart TD
   A[Trẻ ĐỦ THÁNG: leukocoria / mất ánh đồng tử / lác mới] --> B{Có tiền sử sinh non <= 30 tuần hoặc <= 1500 g ?}
-  B -->|Có| C[Nghĩ ROP — soi đáy mắt theo lịch (bài 456)]
+  B -->|Có| C["Nghĩ ROP — soi đáy mắt theo lịch (bài 456)"]
   B -->|Không| D[Soi đáy mắt giãn đồng tử + đè củng mạc tới ora]
   D --> E{Nghi khối u / canxi hóa ?}
-  E -->|Có| F[RETINOBLASTOMA: MRI sọ-hốc mắt + hội chẩn ung thư nhi (bài 412)]
+  E -->|Có| F["RETINOBLASTOMA: MRI sọ-hốc mắt + hội chẩn ung thư nhi (bài 412)"]
   E -->|Không| G[WFFA góc rộng + OCT + siêu âm B-scan]
   G --> H{Đặc điểm chính trên FA}
   H -->|Vô mạch ngoại vi + tân mạch, hai bên / gia đình| I[FEVR / Norrie / IP — xét gen + tầm soát gia đình]
   H -->|Giãn mạch-teo mao mạch + xuất tiết lipid, một bên| J[COATS — phân độ Shields]
   H -->|Dây xơ thể thủy tinh ra sau, một bên| K[PHPV / PFV]
-  I --> L[Laser vùng vô mạch +/- anti-VEGF; mổ nếu bong (stage 4-5)]
+  I --> L["Laser vùng vô mạch +/- anti-VEGF; mổ nếu bong (stage 4-5)"]
   J --> M[Laser/cryo vùng giãn mạch; anti-VEGF/corticoid nếu hoàng điểm; mổ giai đoạn 3-5]
 ```
 

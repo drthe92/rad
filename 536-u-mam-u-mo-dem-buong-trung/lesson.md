@@ -80,7 +80,7 @@ flowchart TD
   H --> J
   I --> J
   J --> K{Ác tính / giai đoạn cao?}
-  K -->|Có| L[BEP (u mầm) hoặc platinum (SCST ác)]
+  K -->|Có| L["BEP (u mầm) hoặc platinum (SCST ác)"]
   K -->|Không| M[Theo dõi: AFP/LDH/inhibin B định kỳ, tái phát muộn]
 ```
 

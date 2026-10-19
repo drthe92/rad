@@ -74,7 +74,7 @@ certainty: tong-hop-y-van
 flowchart TD
   A[Not dac da o phuc mac o nu co tien su mo u xo] --> B{Co bang luong lon + banh mac noi + khia mat tang?}
   B -->|Co| C[Nghi carcinomatosis/PMP -> CA-125, sinh thiet, PET]
-  B -->|Khong, bang it + not giong u xo| D[LPD / parasitic leiomyoma (nghi nhat)]
+  B -->|Khong, bang it + not giong u xo| D["LPD / parasitic leiomyoma (nghi nhat)"]
   D --> E{Sinh thiet not co tron lanh tinh?}
   E -->|Co| F{Co trieu chung?}
   E -->|Khong| C

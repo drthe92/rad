@@ -79,11 +79,11 @@ certainty: tong-hop-y-van
 ```mermaid
 flowchart TD
   A[Rò khí > 5-7 ngày hoặc rò lượng lớn] --> B[X-quang + CT ngực lát mỏng + nội soi phế quản]
-  B --> C{Rò TRUNG TÂM (gốc phế quản) hay NGOẠI VI?}
+  B --> C{"Rò TRUNG TÂM (gốc phế quản) hay NGOẠI VI?"}
   C -->|Ngoại vi - APF| D{Khe liên thùy toàn vẹn > 90% + occlusion test giảm > 50%?}
   D -->|Có| E[Van một chiều EBV / nút Watanabe]
   D -->|Không| F[Pleurodesis: máu tự thân / FFP; tối ưu dẫn lưu + thông khí]
-  C -->|Trung tâm - BPF| G{Có nhiễm trùng/hoại tử (nấm, mủ)?}
+  C -->|Trung tâm - BPF| G{"Có nhiễm trùng/hoại tử (nấm, mủ)?"}
   G -->|Có| H[Kháng nấm/kháng sinh + dẫn lưu tối ưu; can thiệp gốc rò nếu cần]
   G -->|Không| I[Van/occluder chuyên biệt hoặc mổ khâu lại gốc phế quản]
   A --> J{Suy hô hấp/huyết động + lệch trung thất?}

@@ -70,7 +70,7 @@
 - Mục (1) bắt buộc giải thích TẠI SAO (vật lý T1/T2/DWI/HU + mô bệnh), không chỉ liệt kê tín hiệu — theo PROMPT_SYNTHESIZER của Argon + nhãn certainty của ta.
 - Mọi bài qua 4 cửa trong `PROMPT_SYNTHESIZER.md` (ngưỡng định lượng, học thuyết thể tích, trung thành nguồn + phản biện, cạm bẫy mặt cắt) trước khi commit.
 - **TRƯỚC KHI viết** bài mới: chạy `python3 tools/check_duplicates.py <ID> "<tên bài>"` — exit 1 = ID/chủ đề đã tồn tại → nâng cấp bài cũ hoặc đổi chủ đề (KHÔNG tạo trùng).
-- Bài mới phải soi với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng) + chạy **`python3 tools/selfcheck.py` + `python3 tools/lint_repo.py` + `python3 tools/check_credits_authors.py`** PASS mới commit. (`check_credits_authors.py` đối chiếu tên tác giả khai báo vs PMCID qua Europe PMC — bỏ qua cảnh báo nếu mạng lỗi.)
+- Bài mới phải soi với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng) + chạy **`python3 tools/selfcheck.py` + `python3 tools/lint_repo.py` + `python3 tools/fix_mermaid.py --check` + `python3 tools/check_credits_authors.py`** PASS mới commit. (`fix_mermaid.py` sửa lỗi Mermaid 10.x: `\n`→`<br/>`, quote label có ngoặc/nháy, ngoặc trong edge label→entity, ngoặc đóng sai.)
 - **Chống chồng lượt:** worker chạy `python3 tools/worker_guard.py acquire|release` (exit 3 = có worker khác → dừng).
 - **BACKLOG:** `BACKLOG.md` là file làm việc (chỉ hàng `chờ viết` + danh mục `xong` nén 1 dòng). `BACKLOG-archive.md` là lưu trữ ghi chú dài + nhật ký — **worker KHÔNG đọc**. Khi BACKLOG.md phình lại: `python3 tools/split_backlog.py --auto` (worker tự chạy mỗi lượt, chỉ tách khi > 120 KB).
 

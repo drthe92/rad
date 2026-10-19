@@ -98,7 +98,7 @@ flowchart TD
   G --> H
   H --> I{"Bàng hệ Matsushima?"}
   I -->|"A-B"| J["Tiếp tục theo dõi; đánh giá bên đối diện"]
-  I -->|"C (kém)"| K["Cân nhắc mổ lại / đổi kỹ thuật; ASL định lượng"]
+  I -->|"C &#40;kém&#41;"| K["Cân nhắc mổ lại / đổi kỹ thuật; ASL định lượng"]
   J --> L{"Bên đối diện tiến triển / giảm CVR?"}
   L -->|"Có"| M["Mổ thì hai (thường 3-6 tháng sau thì một)"]
   L -->|"Không"| N["Theo dõi MRA/ASL định kỳ"]

@@ -65,8 +65,8 @@ sources: [FrontiersInMedicine, Cureus, JObstetGynaecolRes, GynecolOncolRep, JGyn
 
 ```mermaid
 flowchart TD
-  A[Ung thu phu khoa - danh gia hach] --> B{MRI + CT (DWI) nguy co cao?}
-  B -->|Khong| C[SLN mapping (ICG/99mTc) trong mo]
+  A[Ung thu phu khoa - danh gia hach] --> B{"MRI + CT (DWI) nguy co cao?"}
+  B -->|Khong| C["SLN mapping (ICG/99mTc) trong mo"]
   B -->|Co| D[Them FDG-PET/CT toan than]
   C --> E{Hach gac duong tinh?}
   D --> F{Hach to/SUV cao dung dong?}

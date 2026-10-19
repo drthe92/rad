@@ -71,7 +71,7 @@ flowchart TD
   B -->|< 2 tuổi + ngoài thận + vôi + ôm mạch| C[Neuroblastoma: MIBG + catecholamine -> hóa trước rồi MỔ]
   B -->|3-4 tuổi + trong thận + claw| D{Thrombus IVC/nhĩ?}
   D -->|Không| E[Mổ nguyên khối]
-  D -->|Có (trên TM gan)| F[Hóa trị tân bổ trợ -> mổ + lấy huyết khối]
+  D -->|Có &#40;trên TM gan&#41;| F[Hóa trị tân bổ trợ -> mổ + lấy huyết khối]
   B -->|Trong gan + AFP rất cao| G[Hepatoblastoma: PRETEXT + mổ gan]
 ```
 

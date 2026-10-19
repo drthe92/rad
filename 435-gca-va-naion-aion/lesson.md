@@ -81,7 +81,7 @@ certainty: tong-hop-y-van
 ```mermaid
 flowchart TD
   A[Nguoi > 50 tuoi: mo mat KHONG dau / phu dia thi] --> B{Dau khi dao mat?}
-  B -->|Co| C[Viem thi (optic neuritis) - tre hon, ngam MRI]
+  B -->|Co| C["Viem thi (optic neuritis) - tre hon, ngam MRI"]
   B -->|Khong| D{Trieu chung he thong: dau ham, dau dau, PMR, 2 ben dong thoi?}
   D -->|Co / nghi cao| E[Lay mau ESR-CRP-CBC + BAT DAU corticoid lieu cao NGAY]
   D -->|Khong| F[Xet thanh hinh: nho NAION, kiem tra disc-at-risk mat doi dien]
