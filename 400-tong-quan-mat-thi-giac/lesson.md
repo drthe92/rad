@@ -53,6 +53,8 @@ certainty: tong-hop-y-van
 | Theo dõi & tái hoạt CMV retinitis sau ghép | Võng mạc (retina) | Tái hoạt muộn, IRU, bong võng mạc; **ngừng kháng virus** | **Tái hoạt = tiến triển so ảnh UWF nền tảng** (không phải sẹo cũ); HIV ngừng khi **≥ 3 tháng điều trị + lành + CD4 ≥ 100 ≥ 3 tháng trên ART**; **không HIV không có ngưỡng CD4 phổ quát** | [459](../459-theo-doi-dai-han-cmv-retinitis/lesson.md) |
 | Viêm dịch kính mạn ở người lớn tuổi (giả uveitis) | Võng mạc–dịch kính (retina–vitreous) ± CNS | **U lympho nội nhãn (PVRL)** vs viêm màng bồ đào (trung gian, giang mai, lao, MFC), nấm, amyloidosis | **Ổ vàng–kem dưới RPE + đục dịch kính ít viêm + hai mắt ở tuổi > 60, đáp ứng corticoid một phần rồi tái phát** → sinh thiết dịch kính; chốt **IL-10 dịch kính > 400 pg/mL**, **IL-10:IL-6 > 1**, **MYD88 L265P** | [462](../462-u-lympho-noi-nhan-PVRL/lesson.md) |
 | Nhiễm trùng nội nhãn nội sinh (nấm) | Võng mạc–dịch kính (retina–vitreous) | **Nấm (Candida/Aspergillus)** vs vi khuẩn nội sinh (Klebsiella) vs CMV/ARN vs u lympho (masquerade) | **"Fluff ball"/"quả cầu tuyết"/"chuỗi ngọc trai" + bối cảnh candidemia/catheter/TPN/ICU/giảm bạch cầu hạt; phần lớn KHÔNG triệu chứng** → soi đáy mắt **bắt buộc**, cấy/PCR dịch kính; **corticoid nội nhãn = chống chỉ định** | [463](../463-viem-noi-nhan-noi-sinh-nam/lesson.md) |
+| Chọn thuốc & phác đồ anti-VEGF cho ROP | Võng mạc (retina) | **Bevacizumab vs ranibizumab vs aflibercept vs conbercept vs laser** | Zone I/A-ROP → anti-VEGF (thuốc dai, liều thấp); **IR: IVB 11% · IVC 16% · IVR/IVA 27%**; khoảng tái điều trị BCZ 6,7 tuần > RBZ 3,1 tuần; RD gộp 1,4% | [461](../461-chon-thuoc-phac-do-anti-vegf-cho-rop/lesson.md) |
+| Mù bẩm sinh + điếc ở trẻ trai (Norrie) | Võng mạc + tai trong (retina & inner ear) | **Norrie (*NDP*, X-linked lặn)** vs FEVR/IP/Coats/RB | **Nam đủ tháng + bong võng mạc hai bên + điếc tiến triển + chậm phát triển**; **mẹ mang gen → con trai 50% mắc**; xét gen *NDP* + chẩn đoán trước sinh | [467](../467-norrie-di-truyen-tu-van-va-theo-doi/lesson.md) |
 | U hắc mạc | Hắc mạc (choroid) | Melanoma, nevus, di căn | Dày ≥ 2 mm + T1 sáng = melanoma | [448](../448-u-hac-mac/lesson.md) |
 | Chấn thương mắt | Nhãn cầu–hốc mắt | Vỡ nhãn cầu, IOFB | Mắt xẹp + XH dịch kính; OTS | [449](../449-chan-thuong-mat-dich-vat/lesson.md) |
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
@@ -108,6 +110,8 @@ certainty: tong-hop-y-van
 - [465 – Coats plus (CTC1/CRMCC): bệnh võng mạc giống Coats hai bên + vôi hóa–nang não & chảy máu tiêu hóa](../465-coats-plus-syndrome-ctc1/lesson.md) *(mới)*
 - [466 – Toxocariasis nội nhãn (ấu trùng di chuyển ở mắt): u hạt ngoại vi + dây co kéo](../466-toxocariasis-noi-nhan/lesson.md) *(mới)*
 - [437 – Teo thị kèm ĐIẾC: DOA+/OPA1 & WFS1 trội (Wolfram-like)](../437-teo-thi-kem-diec/lesson.md) *(mới)*
+- [461 – Chọn thuốc & phác đồ anti-VEGF cho ROP: liều, khoảng tái tiêm & khi nào chuyển laser](../461-chon-thuoc-phac-do-anti-vegf-cho-rop/lesson.md) *(mới)*
+- [467 – Norrie: tư vấn di truyền X-linked, chẩn đoán trước sinh & theo dõi điếc–phát triển](../467-norrie-di-truyen-tu-van-va-theo-doi/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -162,11 +166,13 @@ certainty: tong-hop-y-van
 
 **460–499 — Can thiệp, xạ trị & dự trữ**
 - 460 – Can thiệp + xạ trị *(đã có — [bài học](../460-can-thiep-mat/lesson.md))*
+- 461 – Chọn thuốc & phác đồ anti-VEGF cho ROP: bevacizumab vs ranibizumab vs aflibercept, liều, khoảng tái tiêm & khi nào chuyển laser *(đã có — [bài học](../461-chon-thuoc-phac-do-anti-vegf-cho-rop/lesson.md))*
 - 462 – U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh: IL-10/MYD88 + PET-CT *(đã có — [bài học](../462-u-lympho-noi-nhan-PVRL/lesson.md))*
 - 463 – Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball"/"chuỗi ngọc trai" & phác đồ kháng nấm *(đã có — [bài học](../463-viem-noi-nhan-noi-sinh-nam/lesson.md))*
 - 464 – Viêm thần kinh thị tái phát (CRION) & thể "âm tính kép": phụ thuộc steroid, MOG 92%, OCT pRNFL 39,3 µm, loại trừ AQP4/MOG *(đã có — [bài học](../464-viem-than-kinh-thi-tai-phat-CRION/lesson.md))*
 - 465 – Coats plus (CTC1/CRMCC): bệnh võng mạc giống Coats hai bên + vôi hóa–nang não & chảy máu tiêu hóa *(đã có — [bài học](../465-coats-plus-syndrome-ctc1/lesson.md))*
 - 466 – Toxocariasis nội nhãn (ấu trùng di chuyển ở mắt): u hạt ngoại vi + dây co kéo, ELISA/Goldmann–Witmer *(đã có — [bài học](../466-toxocariasis-noi-nhan/lesson.md))*
+- 467 – Norrie: tư vấn di truyền X-linked, chẩn đoán trước sinh & theo dõi điếc–phát triển *(đã có — [bài học](../467-norrie-di-truyen-tu-van-va-theo-doi/lesson.md))*
 - 470–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
