@@ -1,0 +1,24 @@
+# Nguồn gốc — 609 Ống dẫn lưu màng phổi (chest tube) ở trẻ
+
+> Quét 2026-10-19: Europe PMC (`TITLE:"chest tube"` hoặc `TITLE:"chest drain"` + pediatric/neonate/complication/malposition/removal + `OPEN_ACCESS:Y`) → chọn ca nguyên văn có hình ảnh + nghiên cứu/giao thức. Ảnh dùng: **CC BY 4.0**; một ảnh **CC BY-NC** (giữ nguyên bản).
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / *Cureus* | **Basnet P et al.** — "Recurrent Pneumothorax: A Chest Tube Complication" (2025): trẻ 13 tuổi, **ống gấp khúc → tái tràn khí 50%** ngày 2 | https://pmc.ncbi.nlm.nih.gov/articles/PMC11926534/ | CC BY 4.0 | `images/609_ong-gap-khuc_XR_PMC11926534.jpg`, `609_ong-dung-vi-tri_XR_PMC11926534.jpg` |
+| 2 | Europe PMC / *Cureus* | **Qsous G, Zamvar V.** — "Persistent Air Leak Due to Chest Drain Malposition" (2023): **ống lạc vào nhu mô phổi** | https://pmc.ncbi.nlm.nih.gov/articles/PMC10745075/ | CC BY 4.0 | `images/609_ong-lac-vao-nhu-mo_CT_PMC10745075.jpg` |
+| 3 | Europe PMC / *Cureus* | **Sullivan EM et al.** — "A Unique Complication of Pigtail Pleural Catheter Placement" (2024): **catheter vào phế quản gốc trái** | https://pmc.ncbi.nlm.nih.gov/articles/PMC11491131/ | CC BY 4.0 | `images/609_ong-lac-vao-phe-quan_CT_PMC11491131.jpg` |
+| 4 | Europe PMC / *Frontiers in Pediatrics* | **Grandmougin D et al.** — "First Reported Case of Iatrogenic Cardiac Tamponade Following Chest Drain Insertion for Tension Pneumothorax in a Premature Newborn" (2025): **chèn ép tim** do ống ở trẻ 34 tuần | https://pmc.ncbi.nlm.nih.gov/articles/PMC12103966/ | CC BY 4.0 | `images/609_chan-doa-tim_XR_PMC12103966.jpg` |
+| 5 | Europe PMC / *Ethiopian Journal of Health Sciences* | **Weldetsadik AY, Demisse AG.** — "Re-Expansion Pulmonary Edema in Children - A Rare Complication After Pneumothorax Drainage" (2022): trẻ 5 tuổi **RPE** | https://pmc.ncbi.nlm.nih.gov/articles/PMC9113034/ | **CC BY-NC 4.0** | `images/609_phu-phoi-tai-no_XR_PMC9113034.jpg` (giữ nguyên bản) |
+| 6 | Europe PMC / *Cureus* | **Jilani TS et al.** — "Neonatal Subcutaneous Emphysema Secondary to Chest Tube Placement Using the Trocar Technique" (2024) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10849260/ | CC BY 4.0 | `images/609_tran-khi-duoi-da_XR_PMC10849260.jpg` |
+| 7 | Europe PMC / *J Clin Med* | **Sorino C et al.** — "Chest Tubes and Pleural Drainage: History and Current Status in Pleural Disease Management" (2024): kỹ thuật, kích thước Fr, tam giác an toàn, khâu cố định 6,6% vs 14,8% | https://pmc.ncbi.nlm.nih.gov/articles/PMC11547156/ | CC BY 4.0 | `images/609_loai-ong-dan-luu_PMC11547156.jpg` |
+| 8 | Europe PMC / *J Clin Med* | **Marchi G et al.** — "Intercostal Artery Screening with Color Doppler Thoracic Ultrasound in Pleural Procedures" (2025): **biến thể động mạch liên sườn**, Doppler trước thủ thuật | https://pmc.ncbi.nlm.nih.gov/articles/PMC12429508/ | CC BY 4.0 | `images/609_dong-mach-lien-suon_CT_PMC12429508.jpg` |
+| 9 | Europe PMC / *Crit Care Explor* (Pediatr Crit Care Med) | **Jijeh AMZ et al.** — "Optimizing Recovery: Early Versus Delayed Chest Tube Removal in Pediatric Cardiac Surgery Patients: A Randomized Controlled Trial" (2025, n = 215): **rút sớm < 6 mL/kg/8h**, 3 vs 4,9 ngày (p < 0,01) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12140733/ | CC BY-NC-ND (bài); không lấy ảnh | số liệu ngưỡng rút ống |
+| 10 | Europe PMC / *CHEST* | **Veale N et al.** — "A National Evaluation of Intercostal Chest Drain Removal Strategies" (2026, n = 791): **kẹp thử không giảm tái phát** (14,0% vs 12,6%); tràn khí áp lực do kẹp **0,4%** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12975392/ | CC BY (bài); không lấy ảnh | số liệu chiến lược rút |
+| 11 | Europe PMC / (meta-analysis) | **Kazemloo M et al.** — "Safety and efficacy of chest tube clamping versus non-clamping prior to removal" (2026) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13334743/ | CC BY-NC-ND (bài); không lấy ảnh | củng cố "không kẹp thường quy" |
+| 12 | Europe PMC / *Children* (MDPI) | **Anzinger FX et al.** — "Comparative Analysis of Analog and Digital Chest Tube Drainage Systems Using a High-Fidelity 3D-Printed Neonatal Chest Model" (2026): **analog không đáng tin < −10 cmH₂O; digital xả vọt tới −30 cmH₂O** | https://pmc.ncbi.nlm.nih.gov/articles/PMC11987057/ | CC BY (bài); không lấy ảnh | số liệu áp lực hút ở sơ sinh |
+| 13 | Radiopaedia | Chest drain (chest tube) — mô tả kỹ thuật, tam giác an toàn (tham khảo mô tả) | https://radiopaedia.org/articles/chest-drain | dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Ảnh tải về: phần lớn **CC BY 4.0**, **trừ `609_phu-phoi-tai-no_XR_PMC9113034.jpg` là CC BY-NC 4.0 — giữ NGUYÊN BẢN, không ghép**. Chi tiết từng ảnh + attribution trong `images/CREDITS.md`.
+- Tác giả ghi theo **tên tác giả đầu tiên** đọc trực tiếp từ bản ghi Europe PMC (đối chiếu PMCID) — không suy đoán.
+- AuntMinnie: không có ca tải được (paywall) — không dùng.
