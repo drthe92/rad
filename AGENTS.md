@@ -69,7 +69,10 @@
 - Dải ID (3 chữ số, chừa khe chèn): Ngực `001–080` (xong); **Bụng `100–180`** (xong — bản đồ trong `100-tong-quan-he-bung/lesson.md`); **Thần kinh `200–249`** (xong đợt 1: bản đồ + 15 bài trong `200-tong-quan-he-than-kinh/lesson.md`); Cơ xương `300–380` (xong — bản đồ + 18 bài trong `300-tong-quan-he-co-xuong-khop/lesson.md`); Vú & SPK `500–580` (xong đợt 1: bản đồ + 6 bài trong `500-tong-quan-vu-san-phu-khoa/lesson.md`); Nhi khoa `600–670` (xong đợt 1: bản đồ + 6 bài trong `600-tong-quan-nhi-khoa/lesson.md`); Đầu Cổ `700–759` + Tim mạch `800–849` + Can thiệp `900–930` (xong đợt 1: 3 bản đồ + 6 bài 710/730/810/820/900/920); **Mắt & thị giác `400–460`** (xong)...
 - Mục (1) bắt buộc giải thích TẠI SAO (vật lý T1/T2/DWI/HU + mô bệnh), không chỉ liệt kê tín hiệu — theo PROMPT_SYNTHESIZER của Argon + nhãn certainty của ta.
 - Mọi bài qua 4 cửa trong `PROMPT_SYNTHESIZER.md` (ngưỡng định lượng, học thuyết thể tích, trung thành nguồn + phản biện, cạm bẫy mặt cắt) trước khi commit.
+- **TRƯỚC KHI viết** bài mới: chạy `python3 tools/check_duplicates.py <ID> "<tên bài>"` — exit 1 = ID/chủ đề đã tồn tại → nâng cấp bài cũ hoặc đổi chủ đề (KHÔNG tạo trùng).
 - Bài mới phải soi với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng) + chạy **`python3 tools/selfcheck.py` + `python3 tools/lint_repo.py` + `python3 tools/check_credits_authors.py`** PASS mới commit. (`check_credits_authors.py` đối chiếu tên tác giả khai báo vs PMCID qua Europe PMC — bỏ qua cảnh báo nếu mạng lỗi.)
+- **Chống chồng lượt:** worker chạy `python3 tools/worker_guard.py acquire|release` (exit 3 = có worker khác → dừng).
+- **BACKLOG:** `BACKLOG.md` là file làm việc (chỉ hàng `chờ viết` + danh mục `xong` nén 1 dòng). `BACKLOG-archive.md` là lưu trữ ghi chú dài + nhật ký — **worker KHÔNG đọc**. Khi BACKLOG.md phình lại: `python3 tools/split_backlog.py`.
 
 ## Phân công (ta vs Argon — ai giỏi việc gì làm việc đó)
 - Ta (OpenChamber/Build): khung repo, ID, hub Pages, script composite, Mermaid, kiểm phép ảnh, commit/push.
@@ -85,6 +88,14 @@ templates/
   sources-template.md
 tools/
   make_composite.py   # Pillow: ghép lưới + dải đen attribution (chạy local)
+  selfcheck.py        # cổng cấu trúc/link/ảnh bài học
+  lint_repo.py        # lint frontmatter/6 mục/bảng/ảnh
+  check_credits_authors.py  # đối chiếu tên tác giả vs PMCID (Europe PMC)
+  check_duplicates.py # chặn viết trùng ID/chủ đề
+  worker_guard.py     # khóa chống chồng lượt (acquire/release)
+  split_backlog.py    # giữ BACKLOG.md gọn, chuyển ghi chú dài sang archive
+BACKLOG.md            # file làm việc: hàng chờ viết + danh mục xong (nén)
+BACKLOG-archive.md    # lưu trữ ghi chú dài + nhật ký (worker không đọc)
 001-tong-quan-he-nguc/   # Tổng quan hệ Ngực (bảng DDx bắt buộc + Bài liên quan)
 010-giai-phau-nguc-cat-lop/
 020-not-phoi/
