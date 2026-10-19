@@ -14,7 +14,7 @@
 
 | # | ID đề xuất | Chủ đề | Vì sao quan trọng nhất | Trạng thái |
 |---|---|---|---|---|
-| 167 | 544 | Đảo ngược tử cung không do sinh (nonpuerperal uterine inversion) & khối sa qua cổ tử cung | 519 nêu adenosarcoma có thể lan/sa qua ống cổ; đảo ngược tử cung là bệnh cảnh cấp cứu hiếm gặp do khối sa, dễ nhầm polyp/u xơ — cần bài riêng (US/MRI, xử trí) | chờ viết |
+| 167 | 544 | Đảo ngược tử cung không do sinh (nonpuerperal uterine inversion) & khối sa qua cổ tử cung | 519 nêu adenosarcoma có thể lan/sa qua ống cổ; đảo ngược tử cung là bệnh cảnh cấp cứu hiếm gặp do khối sa, dễ nhầm polyp/u xơ — cần bài riêng (US/MRI, xử trí) | xong (2026-10-19) |
 | 168 | 669 | Theo dõi & điều trị IHH sau can thiệp: sirolimus, nút mạch (TAE), ghép gan; ngừng propranolol & tái phát (rebound), hạ đường huyết do propranolol | 667 dừng ở "propranolol ± prednisone"; **phần kháng trị + theo dõi sau can thiệp + ngưỡng ngừng thuốc** quyết định kết cục (đã có ca tử vong CHH khổng lồ dù nút mạch) — cần bài riêng | chờ viết |
 | 169 | 646 | Hội chứng khoang bụng (abdominal compartment syndrome - ACS) & tăng áp lực nội bụng ở trẻ: đo áp lực bàng quang, ngưỡng, xử trí | 667 (IHH lan tỏa) và 617 (khí phúc mạc do barotrauma) đều nêu ACS/áp lực bụng như **biến chứng** nhưng chưa có bài về **đo – ngưỡng phân độ (I–IV) – xử trí**; bệnh cảnh bỏ sót gây tử vong | chờ viết |
 | 170 | 171 | Bóc tách động mạch chủ bụng & khối máu tụ trong thành (IMH): phân biệt với phình vỡ, dấu hiệu mở rộng & xử trí | 170 chỉ liệt "bóc tách lan xuống" một hàng + 070 phủ ĐMC ngực; **bóc tách nguyên phát ĐMC bụng** (flap, IMH, ngưỡng mổ/EVAR, biến chứng tạng) thiếu bài riêng — dễ nhầm với vỡ phình | chờ viết |
@@ -138,6 +138,8 @@
 | 285 | 559 | U nguyên bào nuôi tại vị trí nhau (PSTT) & u nguyên bào nuôi dạng biểu mô (ETT): hCG thấp/không tương xứng, hóa trị kém đáp ứng, vai trò phẫu thuật & phân giai đoạn FIGO 2026 theo khoảng cách < 48 tháng | 551 vừa viết chỉ đưa PSTT/ETT vào **gamut một hàng**; đây là nhóm **khác sinh học và khác điều trị** với choriocarcinoma (kháng hóa trị, chẩn đoán muộn, tiên lượng xấu khi khoảng cách ≥ 48 tháng) — cần bài riêng có ngưỡng và lịch theo dõi | chờ viết |
 | 286 | 531 | U xơ CỔ TỬ CUNG, u xơ KÝ SINH & u xơ DÂY CHẰNG RỘNG: bí tiểu/chèn ép niệu quản, giả khối phần phụ | 542 vừa viết chỉ phủ u xơ **trong buồng/cơ** (FIGO 0–2); nhóm **vị trí ngoài thân tử cung** (cổ tử cung, ký sinh sau morcellation, dây chằng rộng) có hình ảnh **giả khối phần phụ**, chèn ép niệu quản/bí tiểu và đường mổ khác hẳn — dễ bỏ sót hoặc mổ nhầm | chờ viết (ID đề xuất **531** — phụ khoa; nối 542/520/518) |
 | 287 | 532 | U xơ trong THAI KỲ & thoái triển đỏ (red degeneration): đau bụng cấp, chẩn đoán phân biệt với nhau bong/non, biến chứng sản khoa & thời điểm mổ | 542 dừng ở can thiệp ngoài thai; **u xơ + thai** là bệnh cảnh hoàn toàn khác: **thoái triển đỏ** gây đau/sốt giả viêm ruột thừa, MRI T1 sáng/T2 tối–hỗn hợp, và quyết định **mổ cắt u hay theo dõi** ảnh hưởng sảy thai/sinh non — chưa có bài | chờ viết (ID đề xuất **532** — phụ khoa/sản; nối 542/520/560) |
+| T544a | 553 | Đảo ngược tử cung DO SINH (puerperal uterine inversion): xử trí cấp cứu theo bậc (Johnson, O'Sullivan, bóng chèn, thuốc giãn cơ), khi nào mổ Huntington/Haultain, phòng ngừa & xử trí chảy máu | 544 vừa viết chỉ phủ **thể KHÔNG do sinh**; **thể do sinh là cấp cứu sản khoa cấp tính** với phác đồ xử trí khác hẳn (không có u ác, ưu tiên thay thế bằng tay + chống sốc, xử trí tích cực giai đoạn 3 chuyển dạ) — cần bài riêng để không lẫn hai bệnh cảnh | chờ viết (ID đề xuất **553** — sản; nối 544/560) |
+| T544b | 554 | Polyp nội mạc & u xơ có cuống sa qua cổ tử cung (prolapsed fibroid/polyp): chẩn đoán phân biệt (có cổ tử cung vs đảo ngược), xử trí cắt qua âm đạo & cầm máu | 544 dùng "polyp/u xơ có cuống sa ra" làm hàng DDx quan trọng nhưng **chưa có bài riêng**: khối sa có cuống **vẫn thấy cổ tử cung** (khác NPUI), hình ảnh Doppler cuống mạch, nguy cơ chảy máu/hoại tử & kỹ thuật cắt an toàn — tránh cắt nhầm vào tử cung lộn ngược | chờ viết (ID đề xuất **554** — phụ khoa; nối 544/542/519) |
 
 ## Danh mục đã xong (ID | chủ đề ngắn) — dùng đối chiếu trùng
 
@@ -305,6 +307,7 @@
 | 232 | Chấn thương đầu NHẸ ở trẻ (concussion) & hội chứng sau chấn thương: theo dõi tại nhà, dấu hiệu chuyển nặng, khi nào chụp lại |
 | 231 | Tổn thương mạch máu não do chấn thương (TCVI) & vỡ sọ tiến triển (growing skull fracture) ở trẻ: CTA/MRA cổ, nang màng não-tủy, thời điểm mổ |
 | 549 | Nốt đặc phúc mạc không xác định (omental/peritoneal nodule): tiếp cận sinh thiết qua da/túi cùng, phân biệt gieo rắc LÀNH vs ÁC |
+| 544 | Đảo ngược tử cung không do sinh (NPUI) & khối sa qua cổ tử cung: phân độ 1–4, u xơ 56,2%/ác tính 32,0%, siêu âm chữ U/Y + MRI "mắt bò", Haultain 18,0% |
 | 575 | Theo dõi dài hạn sau u trung mô tử cung (LMS/ESS/u mô đệm): tái phát MUỘN phổi/xương, lịch chụp, khi nào dừng |
 | 551 | Bệnh nguyên bào nuôi thai kỳ (thai trứng toàn/thể bán phần, choriocarcinoma): siêu âm "bão tuyết", β-hCG, điểm WHO/FIGO |
 | 541 | Adenofibroma tử cung & polypoid adenomyoma (u giả lành): phổ hai pha adenofibroma → adenosarcoma → carcinosarcoma |
