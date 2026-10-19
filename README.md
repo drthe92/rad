@@ -133,6 +133,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 163 | [Pylephlebitis & huyết khối tĩnh mạch mạc treo (MVT)](163-pylephlebitis-huyet-khoi-tm-mac-treo/lesson.md) | `pattern:huyet-khoi-mach` `vung:gan` `vung:mach-cua` `vung:ruot` `protocol:CT-bung-da-thi` |
 | 165 | [Dày thành ruột: Crohn vs K đại-trực tràng](165-day-thanh-ruot/lesson.md) | `pattern:day-thanh-ruot` `vung:ruot` `protocol:CT-MR-enterography` |
 | 170 | [Phình ĐMC](170-phinh-DMC-bung/lesson.md) | `pattern:phinh-DMC` |
+| 171 | [Bóc tách ĐMC bụng & khối máu tụ trong thành (IMH): vạt nội mạc, di lệch vôi hóa, ngưỡng can thiệp](171-boc-tach-dong-mach-chu-bung-va-IMH/lesson.md) | `pattern:boc-tach` `vung:DMC-bung` `protocol:CTA-DMC` `incidentaloma:IMH` |
 | 175 | [Chèn ép mạch](175-chen-ep-mach/lesson.md) | `pattern:chen-ep-mach` |
 | 176 | [TIPS/DIPS: chỉ định, kỹ thuật & theo dõi shunt](176-tips-dips-theo-doi-shunt/lesson.md) | `pattern:shunt-cua-chu` `vung:gan` `vung:mach-cua` `score:PPG` `protocol:Doppler-sieu-am` `protocol:DSA-do-ap-luc` |
 | 121 | [LI-RADS & HCC](121-khoi-gan-LIRADS/lesson.md) | `score:LI-RADS` |
@@ -323,6 +324,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 645 | [Vỡ khung chậu ở trẻ (Tile/AO, Young–Burgess, WSES, kiểm soát chảy máu)](645-vo-khung-chau-o-tre/lesson.md) | `pattern:vo-khung-chau` `pattern:chan-thuong-bung` `vung:khung-chau-nhi` `score:Tile-AO` `score:Young-Burgess` `score:WSES` `protocol:CT-bung-chau-can-quang` `protocol:pelvic-binder` `protocol:nut-mach` |
 | 643 | [Chấn thương đáy chậu – sinh dục ngoài ở trẻ (máu tụ âm hộ, rách âm đạo, vỡ khung chậu mở)](643-chan-thuong-day-chau-sinh-duc-nhi/lesson.md) | `pattern:chan-thuong-day-chau` `pattern:mau-tu-am-ho` `pattern:rach-am-dao` `pattern:khung-chau-mo` `vung:day-chau-nhi` `vung:sinh-duc-nhi` `score:WSES-open-pelvic` `protocol:CT-bung-chau-can-quang` `protocol:CTA-nut-mach` `protocol:US-day-chau` |
 | 670 | [Hội chứng tiểu phế quản tắc nghẽn (BOS) sau ghép tế bào gốc / ghép phổi ở trẻ (ứ khí thì thở ra, tiêu chuẩn NIH 2014)](670-bos-sau-ghep-te-bao-goc-ghep-phoi-o-tre/lesson.md) | `pattern:bos` `pattern:u-khi` `pattern:viem-tieu-phe-quan` `vung:phe-quan` `vung:phoi` `score:NIH-2014` `score:ISHLT-CLAD` `protocol:HRCT-thi-tho-ra` `protocol:spirometry` `protocol:theo-doi-sau-ghep` |
+| 671 | [Nhiễm trùng tiểu & viêm thận–bể thận ở trẻ có bàng quang thần kinh: khuẩn trú vs UTI, kháng sinh dự phòng & đề kháng](671-nhiem-trung-tieu-bang-quang-than-kinh-o-tre/lesson.md) | `pattern:viem-nhiem` `vung:tiet-nieu` `protocol:US-than-tiet-nieu` `score:VUR` `anatomy:bang-quang-than-kinh` |
 | 649 | [Khí trung thất & khí dưới da ở trẻ: rò khí lành tính vs viêm trung thất hoại tử (DNM) vs nhiễm khuẩn sinh khí](649-khi-trung-that-hoai-tu-va-sinh-khi-o-tre/lesson.md) | `pattern:khi-trong-mo-mem` `pattern:khi-trung-that` `pattern:vien-trung-that-hoai-tu` `pattern:ro-khi` `vung:trung-that` `vung:co-sau` `score:Endo` `score:Guan` `protocol:CT-co-nguc-can-quang` `protocol:noi-soi-thuc-quan` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)

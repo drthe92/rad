@@ -375,3 +375,6 @@
 - Viết 544 (đảo ngược tử cung không do sinh & khối sa qua cổ tử cung): 4 ảnh CC BY (PMC7285247/8820920/11305835/12527823) + 1 composite MRI; selfcheck+lint+author PASS. Append gap 553 (đảo ngược do sinh) & 554 (prolapsed fibroid/polyp).
 - 2026-10-19: viết 687 (IHH sau can thiệp; ID đổi 669→687 vì 669 đã dùng cho BO/Swyer–James) + 646 (ACS nhi); cập nhật 600/README/index; selfcheck/lint/mermaid/author PASS.
 - Append 2 gap mới: 688 (đóng bụng tạm thời/NPWT), 689 (suy giáp tiêu thụ do u mạch máu).
+
+- 2026-10-19 (turn `deepseek-v4.1-flash`): viết **171** (bóc tách ĐMC bụng đơn độc & IMH; 3 ảnh CC BY/CC BY-NC; bảng 7 hàng + mermaid + quiz 2 ca) và **671** (UTI & viêm thận–bể thận ở trẻ bàng quang thần kinh; 4 ảnh CC BY; bảng 8 hàng + mermaid + quiz 3 ca). Cập nhật 100/600/README/index; flip #170/#171; append #290/#291 (172, 691); đổi ID CMMRD 671→690.
+- 2026-10-19: selfcheck PASS (303 bài), lint PASS, mermaid check PASS, author-check PASS (1124 PMCID); chưa commit/push ở dòng này.
