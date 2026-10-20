@@ -422,3 +422,7 @@
 ## 2026-10-20 — 579 + 580
 - Viết 579 UCA/elastography/3D thể tích (NMA AUC 0,91; UCA AUC 0,77 < CL 0,82; CL+IOS/EOS 0,828; 5 ảnh CC BY) và 580 u đặc âm hộ (AAM tái phát 40%, ACC 3–4% BGC; 5 ảnh CC BY); selfcheck/lint/mermaid/author PASS.
 - Flip #190/#191; append #671 (ID 591 dự phòng sinh non) & #672 (ID 592 nang Bartholin tái phát).
+
+## 2026-10-20 — 591 + 592
+- Viết 591 dự phòng sinh non (progesterone 200 mg OR 0,67; pessary song thai RR 0,88; steroid muộn 2–7 ngày OR 0,468; 3 ảnh CC BY-NC-ND) và 592 Bartholin tái phát (8,3% vs 18,8%; Word 15F 4–6 tuần; ngưỡng sinh thiết ≥40–45; 3 ảnh CC0/BY-SA); selfcheck/lint/mermaid/author PASS.
+- Flip #671/#672; dải 500–599 đã kín → đổi 2 đề xuất vú trùng ID sang tạm 1601/1602; không append thêm lượt này.
