@@ -437,3 +437,7 @@
 ## 2026-10-20 — 585 + 161
 - Viết 585 (NMA 21 RCT: drainage+sealant +0,96 ng/mL, khâu +0,69; bóc nang −38%; xơ hóa cồn +0,75; 5 ảnh CC BY/CC0) và 161 (983 ca CT không xác định 15,5%; appendicolith OR 1,88; thủng nhi 19%; 6 ảnh CC BY/NC + composite).
 - Flip #197/#198; append #317 (179 viêm ruột thừa thai kỳ) & #318 (1607 bảo tồn sinh sản trước hóa–xạ).
+
+## 2026-10-20 — 581 + 582
+- Viết 581 di căn não–xương (OCBM 2,5–6%; 25,74 tháng; RANO-BM; Mirels ≥9; 3 ảnh CC BY/NC) và 582 biến chứng xạ tiêu hóa–niệu (RP 2–20%; RVF 3–13%, D2cm³ ≥75 Gy → 12,5%; hẹp niệu quản 1–3%; 4 ảnh + composite); selfcheck/lint/mermaid/author PASS.
+- Flip #199/#200; append #319 (1608 ung thư niệu mạc thứ phát sau xạ) & #320 (1609 suy buồng trứng sau xạ).
