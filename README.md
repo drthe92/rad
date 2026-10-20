@@ -132,7 +132,9 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 152 | [Sỏi niệu](152-soi-nieu/lesson.md) | `pattern:soi-nieu` |
 | 162 | [Tắc ruột](162-tac-ruot/lesson.md) | `pattern:tac-ruot` |
 | 163 | [Pylephlebitis & huyết khối tĩnh mạch mạc treo (MVT)](163-pylephlebitis-huyet-khoi-tm-mac-treo/lesson.md) | `pattern:huyet-khoi-mach` `vung:gan` `vung:mach-cua` `vung:ruot` `protocol:CT-bung-da-thi` |
+| 164 | [Nang thận ADPKD có biến chứng: xuất huyết, nhiễm trùng, sỏi & Wunderlich](164-nang-than-adpkd-bien-chung/lesson.md) | `pattern:nang-phuc-tap` `vung:than` `score:Bosniak` `protocol:CT-MRI-nang-than` `incidentaloma:nang-than` |
 | 165 | [Dày thành ruột: Crohn vs K đại-trực tràng](165-day-thanh-ruot/lesson.md) | `pattern:day-thanh-ruot` `vung:ruot` `protocol:CT-MR-enterography` |
+| 166 | [Tăng áp lực cửa trong xơ hóa gan bẩm sinh (CHF) & bệnh Caroli: CSLD/CiSLD, varices, ghép gan](166-tang-ap-luc-cua-xo-gan-bam-sinh-caroli/lesson.md) | `pattern:xo-quanh-ong-mat` `vung:gan` `score:CSLD-CiSLD` `protocol:MRCP` `incidentaloma:nang-gan` |
 | 170 | [Phình ĐMC](170-phinh-DMC-bung/lesson.md) | `pattern:phinh-DMC` |
 | 171 | [Bóc tách ĐMC bụng & khối máu tụ trong thành (IMH): vạt nội mạc, di lệch vôi hóa, ngưỡng can thiệp](171-boc-tach-dong-mach-chu-bung-va-IMH/lesson.md) | `pattern:boc-tach` `vung:DMC-bung` `protocol:CTA-DMC` `incidentaloma:IMH` |
 | 175 | [Chèn ép mạch](175-chen-ep-mach/lesson.md) | `pattern:chen-ep-mach` |

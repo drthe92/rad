@@ -449,3 +449,6 @@
 ## 2026-10-20 — 588 + 178
 - Viết 588 s-IUFD/MCMA (não 20,6%; MRI ≥3 tuần; thận 14/17,8 mm; 3 ảnh CC BY-NC) và 178 di căn xương RCC (OS 30 vs 19 tháng; SINS/Mirels/Bilsky; SBRT 80–90%; 3 ảnh + composite CC BY-NC-SA/BY-NC); selfcheck/lint/mermaid/author PASS.
 - Flip #203/#204; append #323 (598 theo dõi thần kinh dài hạn) & #324 (179 đọc phim sau SBRT).
+
+- 2026-10-20: viết 164 (nang thận ADPKD biến chứng: xuất huyết/nhiễm trùng/sỏi/Wunderlich) + 166 (CHF/Caroli: CSLD-CiSLD, varices, ghép gan); nguồn Europe PMC CC BY/CC BY-NC(-ND), ảnh giữ nguyên bản khi ND.
+- 2026-10-20: flip #205/#206 → xong; append #325 (172 nang gan nhiễm trùng) + #326 (173 iCCA trên Caroli/CHF) sau check_duplicates exit 0.
