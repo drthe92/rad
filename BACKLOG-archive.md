@@ -459,3 +459,6 @@
 - 2026-10-20: viết 651 (đáp ứng/theo dõi Wilms) + 169 (PPGL trẻ em & thai kỳ); selfcheck/lint/mermaid/author PASS; append 677 (survivorship Wilms) + 172 (ACC nhi).
 - 2026-10-20: viết 177 (điều trị/theo dõi PPGL) + 167 (biến chứng tim mạch pheo); selfcheck/lint/mermaid/author PASS.
 - Append 2 gap: 184 (biến chứng thần kinh PPGL), 185 (độc tính sau PRRT/MIBG).
+
+- 2026-10-20: viết 471 (rung giật nhãn cầu nhũ nhi: Goldman 147 trẻ, Suppiej 142, Talsma 50) + 483 (sàng lọc thị lực mầm non: NCCVEH 2025, Oatts JAMA 2026, Fuseya Cureus 2026); selfcheck/lint/mermaid/author PASS.
+- Append 2 gap: 485 (khúc xạ lý liệt & quy tắc kê kính), 486 (lác điều tiết theo dõi sau kính).

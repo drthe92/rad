@@ -114,6 +114,8 @@ certainty: tong-hop-y-van
 - [461 – Chọn thuốc & phác đồ anti-VEGF cho ROP: liều, khoảng tái tiêm & khi nào chuyển laser](../461-chon-thuoc-phac-do-anti-vegf-cho-rop/lesson.md) *(mới)*
 - [467 – Norrie: tư vấn di truyền X-linked, chẩn đoán trước sinh & theo dõi điếc–phát triển](../467-norrie-di-truyen-tu-van-va-theo-doi/lesson.md) *(mới)*
 - [470 – CSCR do corticosteroid & tiếp cận mất thị lực không đau](../470-cscr-do-corticosteroid-mat-thi-luc-khong-dau/lesson.md) *(mới)*
+- [471 – Rung giật nhãn cầu ở trẻ nhũ nhi & trẻ sinh non: thể cảm giác – vô căn – thần kinh, ERG/OCT/gen](../471-rung-giat-nhan-cau-tre-nhu-nhi/lesson.md) *(mới)*
+- [483 – Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, ngưỡng chuyển tuyến & bỏ sót lác nhỏ](../483-sang-loc-thi-luc-tre-mam-non/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -178,6 +180,9 @@ certainty: tong-hop-y-van
 - 468 – Sàng lọc ROP từ xa (tele-ROP) & trí tuệ nhân tạo: mạng lưới vệ tinh, ảnh góc rộng/điện thoại, học sâu & VSS *(đã có — [bài học](../468-tele-rop-sang-loc-ai-theo-doi/lesson.md))*
 - 469 – Lác & nhược thị ở trẻ sinh non/ROP: kính chỉnh, bịt mắt vs atropine, điều trị kỹ thuật số & thời điểm can thiệp *(đã có — [bài học](../469-lac-nhuoc-thi-tre-sinh-non-rop/lesson.md))*
 - 470 – Bệnh võng mạc trung tâm thanh dịch do corticosteroid & tiếp cận mất thị lực KHÔNG đau: OCT bong vòm, FA inkblot/smokestack, ICGA tăng thấm, giảm/ngừng steroid, half-dose PDT *(đã có — [bài học](../470-cscr-do-corticosteroid-mat-thi-luc-khong-dau/lesson.md))*
-- 471–499: dự trữ mở rộng
+- 471 – Rung giật nhãn cầu ở trẻ nhũ nhi & trẻ sinh non: phân biệt thể cảm giác – vô căn – thần kinh, OCT/ERG/gen, spasmus nutans & cạm bẫy MRI *(đã có — [bài học](../471-rung-giat-nhan-cau-tre-nhu-nhi/lesson.md))*
+- 472–482: dự trữ mở rộng (lác ở trẻ sinh non, phẫu thuật lác, PVRL theo dõi…)
+- 483 – Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, pass 20/50–20/40–20/32, chuyển tuyến trực tiếp & vì sao bỏ sót lác nhỏ *(đã có — [bài học](../483-sang-loc-thi-luc-tre-mam-non/lesson.md))*
+- 484–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
