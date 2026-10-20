@@ -429,3 +429,7 @@
 
 ## 2026-10-20 — 563 + 552
 - Viết 563 (previa/vasa previa/circumvallate; 5 ảnh CC BY, composite) và 552 (CSEP & chửa góc; 4 ảnh CC BY, composite); selfcheck/lint/mermaid/author PASS; đã push. Append gap 1603 (FLA vasa previa) + 1604 (thai kỳ sau CSEP).
+
+## 2026-10-20 — 583 + 584
+- Viết 583 endometrioma trong thai (decidualization 16%, ADC cao 1,6; vỡ ≥6 cm 78,5%; SHiP 0,04/1000; 6 ảnh CC BY + 2 composite) và 584 tái phát sau mổ (LNG-IUS RR 0,05; DNG 0,14; nội tiết ≤15 tháng HR 2,87; 5 ảnh CC BY/NC + composite); selfcheck/lint/mermaid/author PASS.
+- Flip #195/#196; append #315 (1605 tư vấn tiền sản) & #316 (1606 mổ lại vs IVF).

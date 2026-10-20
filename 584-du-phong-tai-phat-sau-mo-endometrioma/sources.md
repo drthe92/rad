@@ -1,0 +1,22 @@
+# Nguồn gốc — 584 (Dự phòng & theo dõi tái phát sau mổ endometrioma)
+
+> Tổng hợp y văn mở (Europe PMC / PMC: BJOG, Yonsei Med J, Sci Rep, Int J Womens Health, Biomedicines, Biomolecules, Adv Ther, Insights Imaging) + guideline ESHRE 2022 (dẫn link). Ngày quét: 2026-10-20.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / PMC7754428 | Postoperative hormonal treatment for prevention of endometrioma recurrence after ovarian cystectomy: a systematic review and network meta-analysis — Wattanayingcharoenchai R et al., BJOG 2021 (6 RCT/675 BN + 16 đoàn hệ/3.089 BN; RR LNG-IUS 0,05; DNG 0,14; OC liên tục 0,30; ngắn hạn không lợi) | https://pmc.ncbi.nlm.nih.gov/articles/PMC7754428/ | CC BY 4.0 (chỉ trích số) | không tải (chỉ trích số) |
+| 2 | Europe PMC / PMC9971436 | Recurrence, Reoperation, Pregnancy Rates, and Risk Factors for Recurrence after Ovarian Endometrioma Surgery: Long-Term Follow-Up of 756 Women — Choi SH et al., Yonsei Med J 2023 (tái phát 27,9%; tích lũy 5,8/8,7/15,5/37,6% tại 24/36/60/120 tháng; HR ≤15 tháng 2,869) | https://pmc.ncbi.nlm.nih.gov/articles/PMC9971436/ | CC BY-NC 4.0 (nguyên bản, không ghép) | `images/584_thoi-gian-dieu-tri_PMC9971436.jpg` |
+| 3 | Europe PMC / PMC13105200 | Analyzing the Risk Factors for Recurrence of Endometrioma and Dysmenorrhea in Patients with Endometriosis — Nie J et al., Int J Womens Health 2026 (n = 1.598; tái phát 21,8%; tích lũy 12/38/55/65% tại 1/3/5/7 năm; thiếu nội tiết sau mổ HR 2,10) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13105200/ | CC BY-NC 4.0 (chỉ trích số) | không tải (chỉ trích số) |
+| 4 | Europe PMC / PMC7536392 | The recurrence rate of ovarian endometrioma in women aged 40–49 years and impact of hormonal treatment after conservative surgery — Lee N et al., Sci Rep 2020 (408 BN; tích lũy 3,7/6,7/11,1/16,7% tại 12/24/36/60 tháng; thuốc không giảm tái phát p = 0,491; BMD dienogest −1,6/−1,7%) | https://pmc.ncbi.nlm.nih.gov/articles/PMC7536392/ | CC BY 4.0 | `images/584_tai-phat-40-49_PMC7536392.jpg`, `images/584_KM-thuoc-40-49_PMC7536392.jpg` |
+| 5 | Europe PMC / PMC12467333 | Tolerability and Shared Decision-Making in the Hormonal Management of Endometriosis-Associated Pain — Pinto da Costa Viana D et al., Biomedicines 2025 (so sánh tác dụng phụ GnRH/dienogest/gestrinone) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12467333/ | CC BY 4.0 | `images/584_so-sanh-hormone_PMC12467333.jpg` |
+| 6 | Europe PMC / PMC13511005 | The Therapeutic Role of Dienogest in Endometriosis-Associated Pain: From Basics to Clinics — Yan Y et al., Biomolecules 2026 (514 BN: ngừng do AE 11,4%, amenorrhea 66,2%, AUB 14,6%; giảm ham muốn 45% khi >15 tháng; nang 4,0 → 2,4 cm) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13511005/ | CC BY 4.0 (chỉ trích số) | không tải (chỉ trích số) |
+| 7 | Europe PMC / PMC12618288 | Efficacy and Safety of 48-Week Low-Dose Dienogest Treatment in Patients with Endometriosis-Associated Dysmenorrhea — Kikuno K et al., Adv Ther 2025 (1 mg vs 2 mg; VAS giảm 44,63 vs 54,19 mm; ít tác dụng phụ hơn ở 1 mg) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12618288/ | CC BY-NC 4.0 (chỉ trích số) | không tải (chỉ trích số) |
+| 8 | Europe PMC / PMC10209382 | Acute abdominal pain in women of reproductive age: keys to suggest a complication of endometriosis — Coutureau J et al., Insights Imaging 2023 (hình ảnh endometrioma điển hình: T1 sáng, T2 shading, T1FS) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10209382/ | CC BY 4.0 | `images/584_endometrioma-MRI_PMC10209382.jpg` |
+| 9 | ESHRE | ESHRE Endometriosis Guideline 2022 — khuyến cáo 64 (bóc nang, mạnh), 65 (LNG-IUS/CHC ≥ 18–24 tháng, mạnh), 66 (nội tiết dài hạn khi chưa muốn có thai, mạnh) | https://www.eshre.eu/guidelines-and-legal/guidelines/endometriosis-guideline.aspx | dẫn link | không tải |
+| 10 | Radiopaedia | Case: recurrent endometrioma (tham khảo ca, chỉ mở từng trang) | https://radiopaedia.org/search?q=recurrent+endometrioma | CC BY-NC-SA (chỉ dẫn link) | không tải |
+| 11 | AuntMinnie | Case of the Day — endometriosis/endometrioma | https://www.auntminnie.com | paywall — chỉ dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Ảnh tải về: **CC BY 4.0** (PMC7536392 ×2, PMC12467333, PMC10209382) → được ghép; **CC BY-NC 4.0** (PMC9971436) giữ nguyên bản, không ghép.
+- Bài #3 (PMC13105200) **chỉ trích số**, không tải ảnh.
+- Tên tác giả đối chiếu trực tiếp Europe PMC (`authorString`) theo PMCID. Không ghi tác giả khi chưa đối chiếu.
