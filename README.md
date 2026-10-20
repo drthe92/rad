@@ -139,6 +139,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 171 | [Bóc tách ĐMC bụng & khối máu tụ trong thành (IMH): vạt nội mạc, di lệch vôi hóa, ngưỡng can thiệp](171-boc-tach-dong-mach-chu-bung-va-IMH/lesson.md) | `pattern:boc-tach` `vung:DMC-bung` `protocol:CTA-DMC` `incidentaloma:IMH` |
 | 175 | [Chèn ép mạch](175-chen-ep-mach/lesson.md) | `pattern:chen-ep-mach` |
 | 176 | [TIPS/DIPS: chỉ định, kỹ thuật & theo dõi shunt](176-tips-dips-theo-doi-shunt/lesson.md) | `pattern:shunt-cua-chu` `vung:gan` `vung:mach-cua` `score:PPG` `protocol:Doppler-sieu-am` `protocol:DSA-do-ap-luc` |
+| 177 | [Điều trị & theo dõi PPGL: alpha-block, phẫu thuật, PRRT/MIBG & lịch theo dõi](177-dieu-tri-va-theo-doi-ppgl/lesson.md) | `pattern:khoi-thuong-than` `pattern:paraganglioma` `vung:thuong-than` `vung:paraganglia` `score:RECIST` `protocol:alpha-block` `protocol:PRRT-MIBG` `incidentaloma:u-thuong-than` |
 | 121 | [LI-RADS & HCC](121-khoi-gan-LIRADS/lesson.md) | `score:LI-RADS` |
 | 135 | [Viêm tụy Atlanta](135-viem-tuy-Atlanta/lesson.md) | `score:Atlanta` |
 | 150 | [Bosniak & u thận](150-nang-than-Bosniak/lesson.md) | `score:Bosniak` |
@@ -148,6 +149,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 156 | [Hội chứng di truyền u thận: VHL/BHD/HLRCC/TSC/SDH](156-hoi-chung-di-truyen-u-than/lesson.md) | `pattern:u-than-dac` `pattern:u-than-hai-ben` `vung:than` `protocol:sang-loc-u-than-di-truyen` `incidentaloma:u-than-tinh-co` |
 | 157 | [Bệnh thận đa nang ADPKD/ARPKD & gan đa nang](157-benh-than-da-nang-adpkd-arpkd/lesson.md) | `pattern:than-da-nang` `vung:than` `vung:gan` `score:Mayo-MIC` `protocol:sang-loc-than-da-nang` `incidentaloma:nang-gan-than` |
 | 155 | [Thượng thận tình cờ](155-thuong-than-tinh-co/lesson.md) | `incidentaloma:thuong-than` |
+| 167 | [Biến chứng tim mạch của u tủy thượng thận: bệnh cơ tim do catecholamine, takotsubo & khủng hoảng tăng huyết áp](167-bien-chung-tim-mach-pheo-pgl/lesson.md) | `pattern:cardiomyopathy` `pattern:takotsubo` `pattern:rong-loan-van-dong-vung` `vung:tim` `vung:thuong-than` `protocol:MRI-tim` `protocol:ECMO` `incidentaloma:u-thuong-than` |
 | 168 | [U tủy thượng thận & u cận hạch (pheochromocytoma/paraganglioma)](168-pheo-paraganglioma/lesson.md) | `pattern:khoi-thuong-than` `pattern:paraganglioma` `vung:thuong-than` `vung:paraganglia` `protocol:MIBG-DOTATATE` `incidentaloma:u-thuong-than` |
 | 169 | [PPGL ở trẻ em & trong thai kỳ: di truyền, bảo tồn vỏ thượng thận, alpha-block](169-ppgl-tre-em-va-thai-ky/lesson.md) | `pattern:khoi-thuong-than` `pattern:u-tang-mach` `pattern:di-truyen` `vung:thuong-than` `vung:o-bung-nhi` `score:PASS` `protocol:MRI-khong-gadolinium-thai` `incidentaloma:u-thuong-than` |
 | 158 | [Tiền liệt tuyến PI-RADS](158-tien-liet-tuyen-PIRADS/lesson.md) | `score:PI-RADS` |

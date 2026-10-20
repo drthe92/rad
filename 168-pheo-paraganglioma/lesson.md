@@ -230,6 +230,9 @@ flowchart TD
 - [155 – Khối thượng thận tình cờ & Washout](../155-thuong-than-tinh-co/lesson.md) (bẫy pheo thải thuốc "kiểu adenoma")
 - [156 – Hội chứng di truyền u thận: VHL/BHD/HLRCC/TSC/SDH](../156-hoi-chung-di-truyen-u-than/lesson.md) (VHL/SDH → pheo/PGL; lịch tầm soát)
 - [159 – Bàng quang: VI-RADS & UTUC](../159-bang-quang-virads-u-duong-nieu-tren/lesson.md) (phân biệt PGL bàng quang vs u biểu mô)
+- [167 – Biến chứng tim mạch của pheo: bệnh cơ tim do catecholamine, takotsubo & khủng hoảng THA](../167-bien-chung-tim-mach-pheo-pgl/lesson.md)
+- [177 – Điều trị & theo dõi PPGL: alpha-block, phẫu thuật, PRRT/MIBG](../177-dieu-tri-va-theo-doi-ppgl/lesson.md)
+- [169 – PPGL ở trẻ em & thai kỳ](../169-ppgl-tre-em-va-thai-ky/lesson.md)
 
 ## Ảnh
 - Tên file: `168_slug_Modality_SourceID.jpg`. Nguồn + giấy phép từng ảnh trong `images/CREDITS.md`.
