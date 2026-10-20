@@ -404,3 +404,6 @@
 
 - 2026-10-20: viết **555** (marker/ngưỡng 20%, London, prucalopride/linaclotide, mổ) + **556** (Nantes, MRI/DWI 42/81, block 68–94%); ảnh CC BY/BY-NC/BY-NC-ND + composite.
 - flip #183/#184; append #303 (ID 557 coccygodynia) & #304 (ID 558 piriformis syndrome); selfcheck/lint/mermaid/author PASS.
+
+- 2026-10-20: viết **604** (pericardiocentesis/pneumopericardium nhũ nhi; 6 ảnh CC BY/BY-NC + composite) + **605** (LUS sơ sinh: 6 vùng 0–18 >8, 12 vùng 0–36 ngưỡng 10, quỹ đạo/BPD).
+- flip #279/#280; append #305 (ID 607 PPHN) & #306 (ID 608 theo dõi sau mổ CDH).
