@@ -410,3 +410,7 @@
 
 ## 2026-10-20 — 606 + 557
 - Viết 606 BPD (NICHD 2018/Jensen 2019, 3 ảnh CC BY/CC BY-SA) và 557 biến chứng lưới (MRI, IUGA/ICS, 3 ảnh CC BY); selfcheck/lint/mermaid/author PASS.
+
+## 2026-10-20 — 237 + 238
+- Viết 237 Gradenigo/liệt VII/viêm mê nhĩ (Schmit 65 ca, ESR 2026, 7 ảnh CC BY/BY-SA + composite) và 238 Lemierre (712/321/394 ca, 5 ảnh CC BY/NC-ND; bỏ composite vì BY-NC-ND); selfcheck/lint/mermaid/author PASS.
+- Flip #186/#187; append #309 (ID 233 viêm tai ngoài ác tính) & #310 (ID 244 labyrinthitis ossificans/cấy ốc tai).
