@@ -401,3 +401,6 @@
 - 2026-10-20: thêm chờ viết **743** epistaxis trẻ, **380** tuberous sclerosis complex.
 - 2026-10-20: viết **379** MPNST điều trị đa mô thức & theo dõi di căn phổi (R0/RT/hóa trị + ESSR 2024) và **675** MRI thai hố sau & tư vấn tiền sản (DWM/BPC/IIVH/PCH/Joubert); 3 ảnh CC BY 4.0 mỗi bài + composite.
 - selfcheck/lint/mermaid/author PASS; flip #181/#182; append #301 (ID 381 di căn phổi MPNST) & #302 (ID 696 CMV bào thai).
+
+- 2026-10-20: viết **555** (marker/ngưỡng 20%, London, prucalopride/linaclotide, mổ) + **556** (Nantes, MRI/DWI 42/81, block 68–94%); ảnh CC BY/BY-NC/BY-NC-ND + composite.
+- flip #183/#184; append #303 (ID 557 coccygodynia) & #304 (ID 558 piriformis syndrome); selfcheck/lint/mermaid/author PASS.

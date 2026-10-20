@@ -250,6 +250,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 545 | [MR động học sàn chậu (sa theo khoang, đường PCL/H/M)](545-sa-san-chau-MR-defecography/lesson.md) | `pattern:sa-san-chau` `vung:tieu-khung` `score:PCL` `protocol:MR-defecography` |
 | 546 | [Loạn vận động tống phân (anismus / dyssynergic defecation)](546-loan-van-dong-tong-phan-anismus/lesson.md) | `pattern:loan-van-dong-tong-phan` `vung:tieu-khung` `vung:truc-trang-hau-mon` `score:Rao-type` `protocol:MR-defecography` `protocol:manometry` |
 | 547 | [Sa tạng chậu nữ: phân độ POP-Q & lưới nâng (mesh)](547-sa-tang-chau-nu-POP-Q-luoi-nang/lesson.md) | `pattern:sa-tang-chau` `vung:tieu-khung` `score:POP-Q` `protocol:MRI-san-chau` `protocol:luoi-nang` |
+| 555 | [Táo bón chậm vận chuyển & loạn cảm trực tràng: phim marker + London](555-tao-bon-cham-van-chuyen-loan-cam-truc-trang/lesson.md) | `pattern:cham-van-chuyen` `vung:dai-trang` `vung:truc-trang-hau-mon` `score:London` `protocol:colonic-transit` `protocol:manometry` |
+| 556 | [Đau sàn chậu cơ–mạc & đau thần kinh thẹn: Nantes, MRI/DWI, block](556-dau-san-chau-co-mac-pudendal-neuralgia/lesson.md) | `pattern:dau-san-chau` `vung:tieu-khung` `vung:truc-trang-hau-mon` `score:Nantes` `protocol:MRI-san-chau` `protocol:MR-neurography` |
 | 550 | [Thai sớm SRU](550-thai-som-say-thai-thai-ngoai-tu-cung/lesson.md) | `score:SRU` |
 | 551 | [Bệnh nguyên bào nuôi thai kỳ: thai trứng toàn phần/bán phần & choriocarcinoma](551-benh-nguyen-bao-nuoi-thai-ky/lesson.md) | `pattern:nang` `pattern:qua-san-tu-cung` `vung:tu-cung` `vung:buong-trung` `score:FIGO-WHO` `protocol:sieu-am-Doppler` `protocol:MRI-chau` `incidentaloma:khong` |
 | 560 | [PAS](560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) | `score:PAS` |
