@@ -213,6 +213,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 375 | [U phần mềm](375-u-phan-mem/lesson.md) | `pattern:u-phan-mem` |
 | 376 | [U phần mềm KHÔNG mỡ: schwannoma vs sarcoma myxoid / u bao hoạt dịch](376-u-phan-mem-khong-mo/lesson.md) | `pattern:u-phan-mem` `pattern:u-than-kinh-ngoai-vi` `vung:mo-mem` `score:ADC` `protocol:MRI-mo-mem` |
 | 377 | [U dây thần kinh dạng đám rối & chuyển dạng MPNST ở NF1](377-u-than-kinh-dang-dam-roi-va-mpnst-nf1/lesson.md) | `pattern:u-than-kinh-ngoai-vi` `pattern:u-phan-mem` `pattern:dam-roi-than-kinh` `vung:mo-mem` `score:ADC` `score:SUVmax` `protocol:WB-MRI` `protocol:PET-CT` |
+| 378 | [Điều trị u dây thần kinh dạng đám rối ở NF1: selumetinib & theo dõi thể tích](378-dieu-tri-u-dam-roi-nf1-selumetinib/lesson.md) | `pattern:u-thanh-kinh-ngoai-vi` `pattern:dam-roi-thanh-kinh` `vung:mo-mem` `protocol:MRI-mo-mem` `protocol:MRI-the-tich` `score:dap-ung-the-tich` |
 
 ## Hệ Vú & Sản Phụ khoa (dải 500, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
@@ -354,6 +355,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 715 | [Nấm xoang](715-rhinosinusitis-fungal/lesson.md) | `pattern:viem-nam-xoang` |
 | 720 | [Cholesteatoma](720-temporal-bone-cholesteatoma/lesson.md) | `pattern:cholesteatoma` |
 | 740 | [Tuyến mang tai](740-salivary-gland-tumors/lesson.md) | `pattern:u-tuyen-bot` |
+| 741 | [Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR](741-di-dang-mach-mau-dau-co-o-tre/lesson.md) | `pattern:di-dang-mach-mau` `pattern:u-mach-mau` `vung:dau-co` `vung:co` `protocol:MRI-dau-co` `protocol:US-Doppler` `score:ISSVA` |
 | 750 | [Hạch cổ ENE](750-cervical-lymph-nodes-nirads/lesson.md) | `score:NI-RADS` |
 | 830 | [TAVI](830-tavi-structural-heart/lesson.md) | `pattern:TAVI` |
 | 840 | [Endoleak](840-aorta-endoleak-pad/lesson.md) | `pattern:endoleak` |

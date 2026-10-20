@@ -21,6 +21,7 @@ certainty: tong-hop-y-van
 | Sưng cổ cấp + Sốt (Deep neck infection) | Khoang cổ sâu (deep neck) | Áp-xe vs viêm mô tế bào, khoang nguy hiểm vs trước sống | Sau hầu < 7 mm (C2) / < 14–22 mm (C6); danger space xuống trung thất; phù dẹt không viền = không mổ | `730` |
 | Khối tuyến mang tai (Parotid mass) | Tuyến nước bọt (salivary) | Pleomorphic adenoma, Warthin, ác tính | T2 sáng như dịch + ADC > 1,5 = pleomorphic; bắt sớm-thải nhanh = Warthin; T2 đen + ADC < 1,0 + tua gai = ác | `740` |
 | Hạch cổ to (Neck nodes) | Cổ I–VII (neck levels) | Viêm, di căn (ENE), lymphoma, lao | Nhóm II > 15 mm, khác > 10 mm, Rouvière > 5–8 mm; ENE = ngoại khoa; NI-RADS 1–4 sau điều trị | `750`, `230` |
+| Dị dạng mạch máu & u mạch máu đầu–cổ ở trẻ (Vascular anomalies) | Da–mô mềm–khoảng cổ–hốc mắt–đường thở | IH, CH, LM, VM, AVM/AVF, KHE | **IH đoạn mặt > 5 cm → PHACE** (MRI/MRA não–cổ, tim, mắt, đường thở); **LM: T2 rất sáng, không flow**; **VM: sỏi tĩnh mạch, ngấm chậm**; **AVM: flow void + nidus + dẫn lưu sớm**; **IH đoạn cùng cụt vắt đường giữa → LUMBAR** | `741` |
 
 ## Hình minh họa — mạc cổ sâu & đường lan (học thuyết cốt lõi)
 
@@ -53,6 +54,7 @@ certainty: tong-hop-y-van
 - [230 – Tuyến giáp TI-RADS](../230-tuyen-giap-hach-co/lesson.md) *(giữ nguyên dải 200)*
 - [710 – Mũi xoang & OMC](../710-sinonasal-ct-anatomy/lesson.md) *(đã có)*
 - [730 – Nhiễm trùng cổ sâu](../730-deep-neck-infections/lesson.md) *(đã có)*
+- [741 – Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR](../741-di-dang-mach-mau-dau-co-o-tre/lesson.md) *(đã có)*
 - [236 – Viêm tai xương chũm & biến chứng nội sọ](../236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md) *(đã có — dải 200, xương đá)*
 
 ## Quy hoạch Master Curriculum Đầu Mặt Cổ (700–799)
@@ -65,6 +67,7 @@ certainty: tong-hop-y-van
 - 720 – Xương đá, Viêm tai & Cholesteatoma *(đã có — [bài học](../720-temporal-bone-cholesteatoma/lesson.md))*
 - 730 – Khoang cổ sâu & Nhiễm trùng cấp cứu (Áp-xe vs Viêm mô tế bào) *(đã có — [bài học](../730-deep-neck-infections/lesson.md))*
 - 740 – Tuyến nước bọt: U hỗn hợp, Warthin & Ác tính *(đã có — [bài học](../740-salivary-gland-tumors/lesson.md))*
+- 741 – Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR *(đã có — [bài học](../741-di-dang-mach-mau-dau-co-o-tre/lesson.md))*
 - 750 – Bản đồ Hạch cổ (I–VII) & ACR NI-RADS *(đã có — [bài học](../750-cervical-lymph-nodes-nirads/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -396,3 +396,6 @@
 
 - 2026-10-19 (turn `deepseek-v4.1-flash`): viết **603** (Pierre Robin; 4 ảnh CC BY 4.0; PSG/DISE/AHI + MDO + mermaid + quiz 3 ca) và **692** (microtia–atresia; ID đổi 641→692; 3 ảnh CC BY 4.0; Marx/Nagata + Jahrsdoerfer 10 điểm + mermaid + quiz 3 ca). Cập nhật 600/README/index; flip #177/#178; append #297 (ID 694 laryngomalacia) & #298 (ID 695 Treacher–Collins/Nager).
 - selfcheck/lint/mermaid/author-check PASS; commit + push `origin/master`.
+
+- 2026-10-20: viết **741** dị dạng mạch máu đầu–cổ (ISSVA/PHACE/LUMBAR) + **378** selumetinib PN ở NF1; selfcheck/lint/mermaid/author PASS.
+- 2026-10-20: thêm chờ viết **743** epistaxis trẻ, **380** tuberous sclerosis complex.
