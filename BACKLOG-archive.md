@@ -407,3 +407,6 @@
 
 - 2026-10-20: viết **604** (pericardiocentesis/pneumopericardium nhũ nhi; 6 ảnh CC BY/BY-NC + composite) + **605** (LUS sơ sinh: 6 vùng 0–18 >8, 12 vùng 0–36 ngưỡng 10, quỹ đạo/BPD).
 - flip #279/#280; append #305 (ID 607 PPHN) & #306 (ID 608 theo dõi sau mổ CDH).
+
+## 2026-10-20 — 606 + 557
+- Viết 606 BPD (NICHD 2018/Jensen 2019, 3 ảnh CC BY/CC BY-SA) và 557 biến chứng lưới (MRI, IUGA/ICS, 3 ảnh CC BY); selfcheck/lint/mermaid/author PASS.
