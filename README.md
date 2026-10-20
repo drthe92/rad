@@ -150,6 +150,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 158 | [Tiền liệt tuyến PI-RADS](158-tien-liet-tuyen-PIRADS/lesson.md) | `score:PI-RADS` |
 | 159 | [Bàng quang VI-RADS & UTUC](159-bang-quang-virads-u-duong-nieu-tren/lesson.md) | `score:VI-RADS` |
 | 160 | [Bụng cấp cứu GI](160-bung-cap-GI/lesson.md) | `protocol:CT-bung-cap` |
+| 161 | [Viêm ruột thừa cấp: tiếp cận CT/siêu âm, ngưỡng 6 mm & dấu hiệu phức tạp](161-viem-ruot-thua-cap/lesson.md) | `pattern:quai-ruot-gian` `pattern:tham-nhiem-mo` `vung:ho-chau-phai` `protocol:CT-bung-co-can-quang` `protocol:sieu-am-chen-ep` `score:Alvarado` |
 | 199 | [Quy trình xét nghiệm gen & tầm soát người thân (WB-MRI, ONCO-RADS, cascade)](199-quy-trinh-xet-nghiem-gen-tam-soat-gia-dinh/lesson.md) | `pattern:tam-soat-ung-thu-di-truyen` `vung:toan-than` `score:ONCO-RADS` `protocol:WB-MRI` `incidentaloma:ton-thuong-toan-than` |
 
 ## Hệ Thần kinh (dải 200, đang khởi tạo)
@@ -252,6 +253,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 543 | [Nang lạc nội mạc buồng trứng: T1 sáng + T2 shading & nguy cơ chuyển dạng](543-nang-lac-noi-mac-buong-trung/lesson.md) | `pattern:nang-t1-sang` `pattern:lac-noi-mac` `vung:buong-trung` `score:O-RADS` `protocol:MRI-chau` `incidentaloma:nang-buong-trung` |
 | 583 | [Nang lạc nội mạc buồng trứng trong thai kỳ: decidualization giả ác, vỡ – xoắn & xử trí bảo tồn](583-nang-lac-noi-mac-trong-thai-ky/lesson.md) | `pattern:nang-t1-sang` `pattern:decidualization` `vung:buong-trung` `vung:thai-ky` `protocol:MRI-chau` `protocol:TVUS-thai` `incidentaloma:nang-buong-trung` |
 | 584 | [Dự phòng & theo dõi tái phát sau mổ endometrioma: nội tiết dài hạn vs theo dõi](584-du-phong-tai-phat-sau-mo-endometrioma/lesson.md) | `pattern:lac-noi-mac` `pattern:tai-phat` `vung:buong-trung` `protocol:TVUS` `protocol:MRI-chau` `incidentaloma:nang-buong-trung` |
+| 585 | [Nang lạc nội mạc buồng trứng & dự trữ buồng trứng: AMH, bóc nang vs đốt vs theo dõi](585-nang-lac-noi-mac-va-du-tru-buong-trung/lesson.md) | `pattern:nang-t1-sang` `pattern:lac-noi-mac` `vung:buong-trung` `score:O-RADS` `protocol:sieu-am-dau-do` `protocol:MRI-chau` |
 | 545 | [MR động học sàn chậu (sa theo khoang, đường PCL/H/M)](545-sa-san-chau-MR-defecography/lesson.md) | `pattern:sa-san-chau` `vung:tieu-khung` `score:PCL` `protocol:MR-defecography` |
 | 546 | [Loạn vận động tống phân (anismus / dyssynergic defecation)](546-loan-van-dong-tong-phan-anismus/lesson.md) | `pattern:loan-van-dong-tong-phan` `vung:tieu-khung` `vung:truc-trang-hau-mon` `score:Rao-type` `protocol:MR-defecography` `protocol:manometry` |
 | 547 | [Sa tạng chậu nữ: phân độ POP-Q & lưới nâng (mesh)](547-sa-tang-chau-nu-POP-Q-luoi-nang/lesson.md) | `pattern:sa-tang-chau` `vung:tieu-khung` `score:POP-Q` `protocol:MRI-san-chau` `protocol:luoi-nang` |

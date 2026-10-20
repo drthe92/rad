@@ -1,0 +1,20 @@
+# Nguồn gốc — 161 (Viêm ruột thừa cấp)
+
+> Tổng hợp y văn mở (Europe PMC/PMC): World J Gastrointest Pathophysiol, Insights into Imaging, BMC Gastroenterology, Children (Basel), Cureus, Pediatric Reports. Ngày quét: 2026-10-20. Số liệu lấy từ full-text.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / PMC12754330 | Imaging of appendicitis: computed tomography, magnetic resonance imaging, and ultrasound in diagnosis and management — Perera Molligoda Arachchige AS et al., World J Gastrointest Pathophysiol 2025 (CT Se 85,7–100%, Sp 94,8–100%; > 6 mm; 40% ruột thừa bình thường > 6 mm; thành > 3 mm; dịch lòng 2,6 mm; khí lòng 31%; không dấu phụ ~2%; MRI trẻ 85,9/93,8% và 93,6/94,3%) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12754330/ | CC BY-NC 4.0 | `images/161_binh-thuong-vs-viem_CT_PMC12754330.jpg` |
+| 2 | Europe PMC / PMC13391980 | Indeterminate CT reporting of adult acute appendicitis: radiologist versus lexicon-based diagnostic certainty — Siriphiphatcharoen P et al., Insights Imaging 2026 (983 ca; xác nhận 40%; không xác định 15,5% báo cáo gốc, 12% sau hội chẩn, 27,9–46,1% sơ đồ từ vựng; Se 85,2–98,7%, Sp 85,9–97,1%, độ chính xác 91,0–92,4%) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13391980/ | CC BY 4.0 | `images/161_borderline-7mm_CT_PMC13391980.png` |
+| 3 | Europe PMC / PMC12817488 | Retrospective analysis of 331 acute appendicitis patients: how appendicolith and CT features aid in differentiating complicated vs uncomplicated — Zhang D et al., BMC Gastroenterol 2025 (appendicolith OR 1,88; đường kính OR 1,20/mm; thâm nhiễm mỡ vừa–nặng OR 17,61; khí quanh ruột thừa OR 9,78) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12817488/ | CC BY 4.0 | `images/161_appendicolith-ngoai-long_CT_PMC12817488.jpg`, `images/161_fat-stranding_CT_PMC12817488.jpg` |
+| 4 | Europe PMC / PMC13604985 | Preoperative inflammatory markers and sonographic free peritoneal fluid in relation to histopathologically confirmed appendiceal perforation — Tchouala Tchakoute P et al., Children 2026 (142 trẻ; thủng 19,0%; siêu âm phát hiện thủng Sp ~93%, Se ~44%; ruột thừa thấy được 50% ca phức tạp vs 90% ca đơn thuần; ca điển hình 1,02 cm + appendicolith + dịch + mỡ tăng âm) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13604985/ | CC BY 4.0 | `images/161_sieu-am-tre_US_PMC13604985.jpg` |
+| 5 | Europe PMC / PMC13124642 | Current Management of Uncomplicated Acute Appendicitis: A Narrative Review of Nonoperative and Surgical Strategies — Rincon Mora SA, Cureus 2026 (APPAC: 530 BN, 73% tránh mổ trong năm đầu, tái phát tích lũy ~39% ở 5 năm; appendicolith dự báo thất bại) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13124642/ | CC BY 4.0 (chỉ trích số) | không tải (chỉ trích số) |
+| 6 | Europe PMC / PMC13516179 | Comparison of the Alvarado Score with Alternative Diagnostic Tools in Pediatric Acute Appendicitis: A Literature Review — Tchouala Tchakoute P et al., Pediatr Rep 2026 (Alvarado ≥ 7 Se 72–88%, Sp 57–76%; PAS ≥ 7 Se 80–95%, Sp 60–70%; AIR ≥ 5 Sp 78–90%; không dùng ngưỡng 6 mm đơn độc ở trẻ) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13516179/ | CC BY 4.0 (chỉ trích số) | không tải (chỉ trích số) |
+| 7 | ACR | ACR Appropriateness Criteria — Right Lower Quadrant Pain (chọn lựa CT/US/MRI theo tuổi và thai kỳ) | https://acsearch.acr.org/list | dẫn link | không tải |
+| 8 | Radiopaedia | Case acute appendicitis (tham khảo ca, chỉ mở từng trang) | https://radiopaedia.org/search?q=acute+appendicitis | CC BY-NC-SA | không tải |
+| 9 | AuntMinnie | Case of the Day — appendicitis | https://www.auntminnie.com | paywall — chỉ dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Ảnh tải về: **CC BY 4.0** (PMC13391980, PMC12817488 ×2, PMC13604985) → được ghép/trích; **CC BY-NC 4.0** (PMC12754330) giữ nguyên bản, không ghép.
+- Ảnh composite `composite_dau-hieu-ct.jpg` chỉ dùng ảnh CC BY 4.0 → tác phẩm phái sinh CC BY 4.0.
+- Tên tác giả đối chiếu trực tiếp Europe PMC (`authorString`) theo PMCID; không ghi tác giả khi chưa đối chiếu.

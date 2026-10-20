@@ -433,3 +433,7 @@
 ## 2026-10-20 — 583 + 584
 - Viết 583 endometrioma trong thai (decidualization 16%, ADC cao 1,6; vỡ ≥6 cm 78,5%; SHiP 0,04/1000; 6 ảnh CC BY + 2 composite) và 584 tái phát sau mổ (LNG-IUS RR 0,05; DNG 0,14; nội tiết ≤15 tháng HR 2,87; 5 ảnh CC BY/NC + composite); selfcheck/lint/mermaid/author PASS.
 - Flip #195/#196; append #315 (1605 tư vấn tiền sản) & #316 (1606 mổ lại vs IVF).
+
+## 2026-10-20 — 585 + 161
+- Viết 585 (NMA 21 RCT: drainage+sealant +0,96 ng/mL, khâu +0,69; bóc nang −38%; xơ hóa cồn +0,75; 5 ảnh CC BY/CC0) và 161 (983 ca CT không xác định 15,5%; appendicolith OR 1,88; thủng nhi 19%; 6 ảnh CC BY/NC + composite).
+- Flip #197/#198; append #317 (179 viêm ruột thừa thai kỳ) & #318 (1607 bảo tồn sinh sản trước hóa–xạ).
