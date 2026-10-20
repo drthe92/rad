@@ -441,3 +441,7 @@
 ## 2026-10-20 — 581 + 582
 - Viết 581 di căn não–xương (OCBM 2,5–6%; 25,74 tháng; RANO-BM; Mirels ≥9; 3 ảnh CC BY/NC) và 582 biến chứng xạ tiêu hóa–niệu (RP 2–20%; RVF 3–13%, D2cm³ ≥75 Gy → 12,5%; hẹp niệu quản 1–3%; 4 ảnh + composite); selfcheck/lint/mermaid/author PASS.
 - Flip #199/#200; append #319 (1608 ung thư niệu mạc thứ phát sau xạ) & #320 (1609 suy buồng trứng sau xạ).
+
+## 2026-10-20 — 586 + 587
+- Viết 586 MCMA (quấn dây 55–100%, thai lưu sau 24 tuần 9%, sống 97% sau 22 tuần; 5 ảnh CC BY/NC/ND) và 587 sinh non sau laser (1.159 ca, 1 RCT; bán khâu/vòng nang không tăng tuổi thai; CL giảm >9,5%/48h OR 8,7; 2 ảnh CC BY/NC); selfcheck/lint/mermaid/author PASS.
+- Flip #201/#202; append #321 (1610 tách màng ối sau can thiệp) & #322 (1611 TTTS tái phát sau laser).
