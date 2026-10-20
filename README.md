@@ -112,6 +112,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 100 | [Tổng quan hệ Bụng](100-tong-quan-he-bung/lesson.md) | Tổng quan, bảng DDx |
 | 110 | [Giải phẫu bụng cắt lớp](110-giai-phau-bung/lesson.md) | `anatomy:bung` |
 | 101 | [Protocol đa thì](101-protocol-bung/lesson.md) | `protocol:CT-MRI-bung` |
+| 102 | [Viêm túi mật cấp & viêm tụy cấp sau đặt stent mật/ERCP: PEP, TG18, dự phòng & cạm bẫy khí trong đường mật](102-viem-tui-mat-va-viem-tuy-sau-stent-mat-ercp/lesson.md) | `pattern:viem-tui-mat` `pattern:viem-tuy` `vung:tui-mat` `vung:tuy` `protocol:CT-bung-da-thi` `protocol:ERCP` `score:Atlanta` `score:TG18` |
 | 107 | [MRCP & gadoxetic acid thì gan–mật (HBP): kỹ thuật, FLIS, ngưỡng bilirubin & cách đọc rò/hẹp](107-mrcp-gadoxetic-acid-hbp/lesson.md) | `protocol:MRCP` `protocol:MRI-gan` `protocol:gadoxetic-acid` `pattern:hep-duong-mat` `vung:duong-mat` `incidentaloma:hep-duong-mat` |
 | 115 | [Khí tự do](115-khi-tu-do/lesson.md) | `pattern:khi-tu-do` |
 | 120 | [Khối gan nền lành vs xơ](120-khoi-gan-nen/lesson.md) | `pattern:khoi-gan` `vung:gan` `protocol:MRI-gan-Primovist` `score:LI-RADS` |
@@ -121,6 +122,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 126 | [Đo thể tích gan & điều trị nội khoa PLD (Schnelldorfer, somatostatin, ghép gan)](126-the-tich-gan-dieu-tri-noi-khoa-PLD/lesson.md) | `pattern:gan-da-nang` `vung:gan` `score:Schnelldorfer` `score:Gigot` `protocol:do-the-tich-gan-MRI-CT` `incidentaloma:nang-gan` |
 | 124 | [Bệnh mạch máu gan: Budd-Chiari, SOS/VOD & huyết khối tĩnh mạch cửa](124-benh-mach-mau-gan/lesson.md) | `pattern:tac-mach-gan` `vung:gan` `vung:mach-cua` `score:Rotterdam` `score:Vp` `protocol:CT-MRI-da-thi` `incidentaloma:huyet-khoi-tm-cua` |
 | 127 | [Gan tim (cardiac hepatopathy) & tăng áp cửa do tắc nghẽn dòng ra](127-gan-tim-suy-tim-phai/lesson.md) | `pattern:gan-u-mau` `vung:gan` `vung:mach-cua` `score:VExUS` `score:MELD-XI` `protocol:Doppler-TM-gan` `incidentaloma:gan-to` |
+| 128 | [Ký sinh trùng đường mật (sán lá gan nhỏ): giãn ống mật ngoại vi, khuyết lòng ống trên MRCP, praziquantel & nguy cơ CCA](128-ky-sinh-trung-duong-mat/lesson.md) | `pattern:gian-duong-mat` `pattern:khuyet-long-ong` `vung:duong-mat-trong-gan` `protocol:MRCP` `protocol:US` `incidentaloma:gian-duong-mat` |
 | 130 | [Túi mật](130-tui-mat/lesson.md) | `pattern:viem-tui-mat` |
 | 131 | [Tắc mật](131-tac-mat/lesson.md) | `pattern:tac-mat` |
 | 132 | [Hẹp đường mật không xác định & cholangioscopy](132-hop-duong-mat-khong-xac-dinh/lesson.md) | `pattern:hep-duong-mat` `vung:duong-mat` `protocol:MRCP` `protocol:cholangioscopy` `protocol:EUS-FNA` `score:IgG4` |

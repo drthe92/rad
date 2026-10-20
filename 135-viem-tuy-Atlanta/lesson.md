@@ -167,6 +167,7 @@ flowchart TD
 - [100 – Tổng quan hệ Bụng](../100-tong-quan-he-bung/lesson.md)
 - [110 – Giải phẫu bụng](../110-giai-phau-bung/lesson.md) (khoang trước thận)
 - [136 – U/nang tụy (IPMN/MCN/SCN)](../136-u-nang-tuy/lesson.md)
+- [102 – Viêm tụy cấp sau ERCP](../102-viem-tui-mat-va-viem-tuy-sau-stent-mat-ercp/lesson.md) (PEP, dự phòng & phân độ)
 - [140 – Lách & chấn thương tạng đặc](../140-lach-tang-dac/lesson.md) (giả phình ĐM lách)
 
 ## Ảnh

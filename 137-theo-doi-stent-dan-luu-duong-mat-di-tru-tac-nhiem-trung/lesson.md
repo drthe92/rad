@@ -194,6 +194,7 @@ flowchart TD
 - [138 – Sỏi trong gan & viêm đường mật mủ tái phát](../138-soi-trong-gan-viem-duong-mat-mu/lesson.md) (viêm đường mật tái phát nhiều đợt)
 - [134 – U nhầy ruột thừa chưa vỡ (giãn ruột thừa)](../134-u-nhay-ruot-thua-chua-vo/lesson.md) (đối chiếu ổ "khuyết lòng ống")
 - [130 – Túi mật](../130-tui-mat/lesson.md) (viêm túi mật sau đặt FC-SEMS)
+- [102 – Viêm túi mật & viêm tụy cấp sau ERCP](../102-viem-tui-mat-va-viem-tuy-sau-stent-mat-ercp/lesson.md) (chẩn đoán phân biệt đau sau ERCP)
 - [910 – Dẫn lưu đường mật qua da (PTBD)](../910-abscess-biliary-nephrostomy/lesson.md) (khi ERCP/EUS thất bại)
 
 ## Ảnh
