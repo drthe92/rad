@@ -414,3 +414,7 @@
 ## 2026-10-20 — 237 + 238
 - Viết 237 Gradenigo/liệt VII/viêm mê nhĩ (Schmit 65 ca, ESR 2026, 7 ảnh CC BY/BY-SA + composite) và 238 Lemierre (712/321/394 ca, 5 ảnh CC BY/NC-ND; bỏ composite vì BY-NC-ND); selfcheck/lint/mermaid/author PASS.
 - Flip #186/#187; append #309 (ID 233 viêm tai ngoài ác tính) & #310 (ID 244 labyrinthitis ossificans/cấy ốc tai).
+
+## 2026-10-20 — 590 + 578
+- Viết 590 tạo hình âm đạo MRKH (nong/Vecchietti/McIndoe/Davydov/sigmoid; sa 25 năm; 8 ảnh CC BY/NC-ND + composite) và 578 TAC/LCC (92% thai sống; LCC vs TVC 89,4% vs 71,2%; 5 ảnh CC BY/NC); selfcheck/lint/mermaid/author PASS.
+- Flip #188/#189; append #311 (ID 562 hẹp âm đạo sau xạ) & #312 (ID 564 rò niệu–âm đạo).
