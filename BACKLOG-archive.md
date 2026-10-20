@@ -452,3 +452,6 @@
 
 - 2026-10-20: viết 164 (nang thận ADPKD biến chứng: xuất huyết/nhiễm trùng/sỏi/Wunderlich) + 166 (CHF/Caroli: CSLD-CiSLD, varices, ghép gan); nguồn Europe PMC CC BY/CC BY-NC(-ND), ảnh giữ nguyên bản khi ND.
 - 2026-10-20: flip #205/#206 → xong; append #325 (172 nang gan nhiễm trùng) + #326 (173 iCCA trên Caroli/CHF) sau check_duplicates exit 0.
+
+- 2026-10-20: viết 647 (CMN thể tế bào: theo dõi sau cắt thận, tái phát 5,3%/trung vị 3,6 tháng, NTRK/EGFR) + 648 (BWS/WAGR/Denys–Drash, lịch US 3 tháng, nephroblastomatosis); selfcheck+lint+mermaid+author PASS.
+- 2026-10-20: append 676 (metastasectomy phổi ở Wilms/sarcoma) + 484 (aniridia/WAGR & glaucoma).
