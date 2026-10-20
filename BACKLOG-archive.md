@@ -455,3 +455,5 @@
 
 - 2026-10-20: viết 647 (CMN thể tế bào: theo dõi sau cắt thận, tái phát 5,3%/trung vị 3,6 tháng, NTRK/EGFR) + 648 (BWS/WAGR/Denys–Drash, lịch US 3 tháng, nephroblastomatosis); selfcheck+lint+mermaid+author PASS.
 - 2026-10-20: append 676 (metastasectomy phổi ở Wilms/sarcoma) + 484 (aniridia/WAGR & glaucoma).
+
+- 2026-10-20: viết 651 (đáp ứng/theo dõi Wilms) + 169 (PPGL trẻ em & thai kỳ); selfcheck/lint/mermaid/author PASS; append 677 (survivorship Wilms) + 172 (ACC nhi).

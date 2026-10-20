@@ -149,6 +149,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 157 | [Bệnh thận đa nang ADPKD/ARPKD & gan đa nang](157-benh-than-da-nang-adpkd-arpkd/lesson.md) | `pattern:than-da-nang` `vung:than` `vung:gan` `score:Mayo-MIC` `protocol:sang-loc-than-da-nang` `incidentaloma:nang-gan-than` |
 | 155 | [Thượng thận tình cờ](155-thuong-than-tinh-co/lesson.md) | `incidentaloma:thuong-than` |
 | 168 | [U tủy thượng thận & u cận hạch (pheochromocytoma/paraganglioma)](168-pheo-paraganglioma/lesson.md) | `pattern:khoi-thuong-than` `pattern:paraganglioma` `vung:thuong-than` `vung:paraganglia` `protocol:MIBG-DOTATATE` `incidentaloma:u-thuong-than` |
+| 169 | [PPGL ở trẻ em & trong thai kỳ: di truyền, bảo tồn vỏ thượng thận, alpha-block](169-ppgl-tre-em-va-thai-ky/lesson.md) | `pattern:khoi-thuong-than` `pattern:u-tang-mach` `pattern:di-truyen` `vung:thuong-than` `vung:o-bung-nhi` `score:PASS` `protocol:MRI-khong-gadolinium-thai` `incidentaloma:u-thuong-than` |
 | 158 | [Tiền liệt tuyến PI-RADS](158-tien-liet-tuyen-PIRADS/lesson.md) | `score:PI-RADS` |
 | 159 | [Bàng quang VI-RADS & UTUC](159-bang-quang-virads-u-duong-nieu-tren/lesson.md) | `score:VI-RADS` |
 | 160 | [Bụng cấp cứu GI](160-bung-cap-GI/lesson.md) | `protocol:CT-bung-cap` |
@@ -342,6 +343,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 640 | [Háng nhi & NAT](640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md) | `score:Graf` |
 | 642 | [Theo dõi & biến chứng dài hạn sau chấn thương đường tiết niệu dưới ở trẻ (hẹp niệu đạo, tiểu không tự chủ, rối loạn cương)](642-bien-chung-muon-chan-thuong-nieu-dao-nhi/lesson.md) | `pattern:hep-nieu-dao` `pattern:tieu-khong-tu-chu` `pattern:roi-loan-cuong` `vung:bang-quang-nieu-dao-nhi` `score:Webster` `protocol:RUG` `protocol:VCUG` `protocol:uroflowmetry` |
 | 650 | [Thần kinh nhi](650-than-kinh-nhi-xuat-huyet-mam-va-u-ho-sau/lesson.md) | `score:Papile` |
+| 651 | [Đánh giá đáp ứng & theo dõi sau điều trị Wilms: thể tích, u sống vs hoại tử, tái phát muộn](651-danh-gia-dap-ung-sau-dieu-tri-wilms/lesson.md) | `pattern:khoi-than` `pattern:dap-ung-hoa-tri` `pattern:u-song-sot` `vung:than` `vung:phoi` `score:SIOP-UMBRELLA` `protocol:MRI-DWI-theo-doi` `incidentaloma:di-can-phoi` |
 | 654 | [Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) | `pattern:benh-nao-so-sinh` `pattern:han-che-khuech-tan` `vung:nao-nhi` `score:BIND` `protocol:MRI-nao-so-sinh` |
 | 652 | [Đột quỵ & bệnh mạch máu não ở trẻ (moyamoya, FCA, viêm mạch, CVST)](652-dot-quy-mach-mau-nao-nhi-moyamoya-viem-mach/lesson.md) | `pattern:hep-tac-mach` `pattern:nhoi-mau-nao` `vung:nao-nhi` `score:Suzuki` `score:FCASS` `protocol:MRA-ASL` |
 | 653 | [PRES & RCVS ở trẻ em: biến thể không điển hình & ngưỡng tự điều hòa thấp](653-pres-rcvs-tre-em/lesson.md) | `pattern:phu-nao-sau` `pattern:co-mach-nao` `vung:nao-nhi` `vung:nao` `score:RCVS2` `protocol:MRI-nao-nhi` |
