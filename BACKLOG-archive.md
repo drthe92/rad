@@ -418,3 +418,7 @@
 ## 2026-10-20 — 590 + 578
 - Viết 590 tạo hình âm đạo MRKH (nong/Vecchietti/McIndoe/Davydov/sigmoid; sa 25 năm; 8 ảnh CC BY/NC-ND + composite) và 578 TAC/LCC (92% thai sống; LCC vs TVC 89,4% vs 71,2%; 5 ảnh CC BY/NC); selfcheck/lint/mermaid/author PASS.
 - Flip #188/#189; append #311 (ID 562 hẹp âm đạo sau xạ) & #312 (ID 564 rò niệu–âm đạo).
+
+## 2026-10-20 — 579 + 580
+- Viết 579 UCA/elastography/3D thể tích (NMA AUC 0,91; UCA AUC 0,77 < CL 0,82; CL+IOS/EOS 0,828; 5 ảnh CC BY) và 580 u đặc âm hộ (AAM tái phát 40%, ACC 3–4% BGC; 5 ảnh CC BY); selfcheck/lint/mermaid/author PASS.
+- Flip #190/#191; append #671 (ID 591 dự phòng sinh non) & #672 (ID 592 nang Bartholin tái phát).
