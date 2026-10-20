@@ -445,3 +445,7 @@
 ## 2026-10-20 — 586 + 587
 - Viết 586 MCMA (quấn dây 55–100%, thai lưu sau 24 tuần 9%, sống 97% sau 22 tuần; 5 ảnh CC BY/NC/ND) và 587 sinh non sau laser (1.159 ca, 1 RCT; bán khâu/vòng nang không tăng tuổi thai; CL giảm >9,5%/48h OR 8,7; 2 ảnh CC BY/NC); selfcheck/lint/mermaid/author PASS.
 - Flip #201/#202; append #321 (1610 tách màng ối sau can thiệp) & #322 (1611 TTTS tái phát sau laser).
+
+## 2026-10-20 — 588 + 178
+- Viết 588 s-IUFD/MCMA (não 20,6%; MRI ≥3 tuần; thận 14/17,8 mm; 3 ảnh CC BY-NC) và 178 di căn xương RCC (OS 30 vs 19 tháng; SINS/Mirels/Bilsky; SBRT 80–90%; 3 ảnh + composite CC BY-NC-SA/BY-NC); selfcheck/lint/mermaid/author PASS.
+- Flip #203/#204; append #323 (598 theo dõi thần kinh dài hạn) & #324 (179 đọc phim sau SBRT).

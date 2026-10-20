@@ -117,6 +117,7 @@ certainty: tong-hop-y-van
 - [563 – Bất thường rau–bánh nhau sớm: previa, vasa previa, circumvallate](../563-bat-thuong-rau-banh-nhau-som/lesson.md) *(đã có)*
 - [565 – Sàng lọc hình thái thai & Doppler sản khoa](../565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) *(đã có)*
 - [566 – Song thai: chorionicity, TTTS & TAPS](../566-song-thai-chorionicity-TTTS-TAPS/lesson.md) *(đã có)*
+- [588 – Một thai chết trong MCMA: tổn thương não–thận thai còn lại, MRI & theo dõi](../588-song-thai-MCMA-mot-thai-chet/lesson.md) *(đã có)*
 - [567 – Sàng lọc lệch bội: NIPT & dấu hiệu mềm](../567-sang-loc-lech-boi-NIPT-dau-hieu-mem/lesson.md) *(đã có)*
 - [570 – Tư vấn NIPT không xác định (no-call) & dương tính giả](../570-tu-van-NIPT-khong-xac-dinh/lesson.md) *(đã có)*
 - [571 – Sẩy thai tái diễn: tiếp cận hình ảnh tử cung](../571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md) *(đã có)*
@@ -203,6 +204,7 @@ certainty: tong-hop-y-van
 - 570 – Tư vấn NIPT không xác định (no-call) & dương tính giả: fetal fraction thấp, khảm bánh nhau giới hạn (CPM), thai biến mất (vanishing twin), CNV/khảm NST mẹ, u xơ, ung thư mẹ (MCA OR 240); chọc ối ưu thế hơn CVS, MRI toàn thân không cản quang *(đã có — [bài học](../570-tu-van-NIPT-khong-xac-dinh/lesson.md))*
 - 586 – Song thai một ối (MCMA): chẩn đoán amnionicity (không vách + quấn dây rốn + một túi noãn hoàng), quấn dây 55–100% với Doppler hai tần số tim ngược chiều, thai lưu sau 24 tuần 9%, checklist SMFM 01/2026 (siêu âm 2 tuần/lần từ 16 tuần, tim thai 18–22 tuần, corticosteroid trong 7 ngày trước sinh, mổ 32+0–34+0 tuần) *(đã có — [bài học](../586-song-thai-mot-oi-MCMA/lesson.md))*
 - 587 – Dự phòng sinh non sau laser TTTS: cơ chế căng tử cung + PPROM do trocar, cổ tử cung giảm > 9,5% trong 48 giờ (OR 8,7), bán khâu/vòng nang KHÔNG tăng tuổi thai (GRADE rất thấp), progesterone chưa đủ dữ liệu, corticosteroid + magnesium là trụ cột *(đã có — [bài học](../587-du-phong-sinh-non-sau-laser-TTTS/lesson.md))*
+- 588 – Một thai chết trong song thai một ối (s-IUFD/MCMA): xuất huyết thai–thai cấp, tổn thương não 20,6%, thiểu sản thận, MRI thai ≥ 3 tuần sau s-IUFD, siêu âm 2 tuần/lần tháng đầu, sinh 32–34 tuần *(đã có — [bài học](../588-song-thai-MCMA-mot-thai-chet/lesson.md))*
 
 **570–579 — Hạch & phân giai đoạn ung thư phụ khoa (Nodal & Advanced Staging)**
 - 571 – Sẩy thai tái diễn (RPL): tiếp cận hình ảnh tử cung — vách ngăn vs hai sừng, dính buồng (Asherman/IUA), polyp, u xơ dưới niêm mạc, adenomyosis, hở cổ tử cung; SIS/3D-TVUS/MRI + soi buồng *(đã có — [bài học](../571-say-thai-tai-dien-tiep-can-hinh-anh/lesson.md))*

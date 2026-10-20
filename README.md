@@ -152,6 +152,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 160 | [Bụng cấp cứu GI](160-bung-cap-GI/lesson.md) | `protocol:CT-bung-cap` |
 | 161 | [Viêm ruột thừa cấp: tiếp cận CT/siêu âm, ngưỡng 6 mm & dấu hiệu phức tạp](161-viem-ruot-thua-cap/lesson.md) | `pattern:quai-ruot-gian` `pattern:tham-nhiem-mo` `vung:ho-chau-phai` `protocol:CT-bung-co-can-quang` `protocol:sieu-am-chen-ep` `score:Alvarado` |
 | 199 | [Quy trình xét nghiệm gen & tầm soát người thân (WB-MRI, ONCO-RADS, cascade)](199-quy-trinh-xet-nghiem-gen-tam-soat-gia-dinh/lesson.md) | `pattern:tam-soat-ung-thu-di-truyen` `vung:toan-than` `score:ONCO-RADS` `protocol:WB-MRI` `incidentaloma:ton-thuong-toan-than` |
+| 178 | [Di căn xương RCC & biến chứng cơ học: chèn ép tủy, gãy xương bệnh lý](178-di-can-xuong-RCC-bien-chung-co-hoc/lesson.md) | `pattern:di-can-xuong` `pattern:tieu-xuong` `pattern:chen-ep-tuy` `vung:xuong` `vung:cot-song` `score:Mirels` `score:SINS` `score:Bilsky` `protocol:MRI-cot-song` `protocol:SBRT` `incidentaloma:di-can-xuong` |
 
 ## Hệ Thần kinh (dải 200, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
@@ -294,6 +295,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 524 | [Sàng lọc & quản lý nguy cơ cao ung thư vú (BRCA1/2, PALB2, TP53, xạ ngực tuổi trẻ)](524-sang-loc-va-quan-ly-nguy-co-cao-ung-thu-vu/lesson.md) | `pattern:khoi-vu` `vung:vu` `score:BI-RADS` `protocol:MRI-vu` `protocol:nhu-anh-DBT` `protocol:tam-soat-nguy-co-cao` `incidentaloma:ton-thuong-tam-soat` |
 | 589 | [Sinh thiết hạch gác nách & TAD sau hóa trị tân bổ trợ: clip hạch, dual tracer, OSNA](589-sinh-thiet-hach-gac-nach-targeted-axillary-dissection/lesson.md) | `pattern:hach-nach` `pattern:clip-hach` `vung:hach-nach` `vung:vu` `score:ACOSOG-Z0011` `score:AMAROS` `protocol:SLNB` `protocol:US-hach-nach` `incidentaloma:clip-di-tru` |
 | 515 | [Đánh giá đáp ứng vú sau hóa trị tân bổ trợ: MRI/CEM/siêu âm, pCR & rCR/rPR](515-dap-ung-vu-sau-hoa-tri-tan-bo-tro/lesson.md) | `pattern:vu-sau-hoa-tri` `pattern:dap-ung-pCR` `vung:vu` `score:RECIST` `protocol:MRI-vu` `protocol:CEM` `protocol:US-vu` |
+| 588 | [Một thai chết trong song thai một ối (MCMA): tổn thương não–thận thai còn lại & theo dõi](588-song-thai-MCMA-mot-thai-chet/lesson.md) | `pattern:song-thai-mot-oi` `pattern:single-IUFD` `pattern:ton-thuong-nao-thai` `vung:thai-nhi` `vung:nao-thai` `vung:than-thai` `protocol:MRI-thai` `protocol:SA-Doppler-MCA` `score:ventriculomegaly` |
 
 ## Hệ Nhi khoa (dải 600, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
