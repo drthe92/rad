@@ -6,7 +6,15 @@
 <title>Bài học — Thư viện CĐHA</title>
 <style>
 body{font-family:system-ui,-apple-system,sans-serif;max-width:860px;margin:0 auto;padding:16px;line-height:1.65;color:#222}
-a{color:#0b5fff}.top{margin-bottom:12px;font-size:14px}
+a{color:#0b5fff}.top{margin-bottom:12px;font-size:14px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.top .grow{flex:1}
+.learnbox{display:inline-flex;align-items:center;gap:7px;border:1px solid #cfe3cf;background:#f3fbf3;color:#1b5e20;border-radius:20px;padding:5px 13px;font-size:13px;cursor:pointer;user-select:none;transition:background .15s,color .15s}
+.learnbox:hover{background:#e7f6e7}
+.learnbox input{width:16px;height:16px;accent-color:#1b5e20;cursor:pointer;margin:0}
+.learnbox.on{background:#1b5e20;color:#fff;border-color:#1b5e20}
+.learnbox.on input{accent-color:#fff}
+.learnbox[aria-disabled="true"]{opacity:.45;cursor:not-allowed}
+.bottommark{margin:22px 0 6px;display:flex;justify-content:flex-start}
 img{max-width:100%;height:auto;border-radius:8px;background:#111}
 table{border-collapse:collapse;width:100%;font-size:14px;display:block;overflow-x:auto}
 th,td{border:1px solid #ddd;padding:6px 8px;text-align:left;vertical-align:top}
@@ -25,8 +33,9 @@ footer{margin:24px 0;font-size:13px;color:#666}
 </style>
 </head>
 <body>
-<div class="top"><a href="index.html">← Hub tra cứu</a> <span id="meta"></span></div>
+<div class="top"><a href="index.html">← Hub tra cứu</a> <span id="meta"></span> <span class="grow"></span> <label class="learnbox" title="Đánh dấu bài này đã học — đánh dấu xong tự về hub"><input type="checkbox" class="learn-chk" disabled> <span class="learn-txt">Đã học</span></label></div>
 <article id="content">Đang tải bài học…</article>
+<div class="bottommark"><label class="learnbox" title="Đánh dấu bài này đã học — đánh dấu xong tự về hub"><input type="checkbox" class="learn-chk" disabled> <span class="learn-txt">Đã học</span></label></div>
 <div id="lb"><span class="x">×</span><img alt=""><div class="cap"></div></div>
 <footer>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.</footer>
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.0/marked.min.js"></script>
@@ -36,6 +45,52 @@ const q = new URLSearchParams(location.search);
 const base = q.get('b') || '';
 const file = q.get('f') || 'lesson.md';
 document.getElementById('meta').textContent = '· ' + base + '/' + file;
+
+// ── Đánh dấu "đã học" ngay trong bài (dùng chung localStorage với hub) ──
+// Hub lưu: localStorage["rad-learned"] = { "<id>": 1, ... }
+const LKEY = 'rad-learned';
+const lessonId = (base.match(/^(\d{3,4})/) || [])[1] || '';
+const learnBoxes = Array.from(document.querySelectorAll('.learnbox'));
+const learnChks = Array.from(document.querySelectorAll('.learn-chk'));
+const learnTxts = Array.from(document.querySelectorAll('.learn-txt'));
+function readLearned() {
+  try { return JSON.parse(localStorage.getItem(LKEY) || '{}') || {}; } catch (e) { return {}; }
+}
+function writeLearned(o) {
+  try { localStorage.setItem(LKEY, JSON.stringify(o)); } catch (e) {}
+}
+function paintLearned(on) {
+  learnBoxes.forEach(b => b.classList.toggle('on', on));
+  learnTxts.forEach(t => { t.textContent = on ? 'Đã học ✓' : 'Đã học'; });
+}
+function setAllChk(on) {
+  learnChks.forEach(c => { c.checked = on; });
+}
+if (lessonId) {
+  const st = readLearned();
+  const wasLearned = !!st[lessonId];
+  setAllChk(wasLearned);
+  learnChks.forEach(c => { c.disabled = false; });
+  paintLearned(wasLearned);
+  learnChks.forEach(c => c.addEventListener('change', (e) => {
+    const on = e.target.checked;
+    setAllChk(on);
+    const s = readLearned();
+    if (on) {
+      s[lessonId] = 1;
+      writeLearned(s);
+      paintLearned(true);
+      // Đánh dấu xong → tự động trở về hub trung tâm
+      setTimeout(() => { location.href = 'index.html'; }, 180);
+    } else {
+      delete s[lessonId];
+      writeLearned(s);
+      paintLearned(false);
+    }
+  }));
+} else {
+  learnBoxes.forEach(b => b.setAttribute('aria-disabled', 'true'));
+}
 fetch(base + '/' + file).then(r => {
   if (!r.ok) throw new Error('HTTP ' + r.status);
   return r.text();
