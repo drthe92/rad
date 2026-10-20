@@ -426,3 +426,6 @@
 ## 2026-10-20 — 591 + 592
 - Viết 591 dự phòng sinh non (progesterone 200 mg OR 0,67; pessary song thai RR 0,88; steroid muộn 2–7 ngày OR 0,468; 3 ảnh CC BY-NC-ND) và 592 Bartholin tái phát (8,3% vs 18,8%; Word 15F 4–6 tuần; ngưỡng sinh thiết ≥40–45; 3 ảnh CC0/BY-SA); selfcheck/lint/mermaid/author PASS.
 - Flip #671/#672; dải 500–599 đã kín → đổi 2 đề xuất vú trùng ID sang tạm 1601/1602; không append thêm lượt này.
+
+## 2026-10-20 — 563 + 552
+- Viết 563 (previa/vasa previa/circumvallate; 5 ảnh CC BY, composite) và 552 (CSEP & chửa góc; 4 ảnh CC BY, composite); selfcheck/lint/mermaid/author PASS; đã push. Append gap 1603 (FLA vasa previa) + 1604 (thai kỳ sau CSEP).
