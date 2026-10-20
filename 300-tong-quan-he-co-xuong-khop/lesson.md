@@ -26,6 +26,7 @@ certainty: tong-hop-y-van
 | Khối mô mềm KHÔNG mỡ (Non-fat soft-tissue mass) | Mô mềm – dây thần kinh (soft tissue) | U bao dây thần kinh (schwannoma/neurofibroma), MPNST, Myxofibrosarcoma, Synovial sarcoma, U mạch (angioleiomyoma/glomus) | **Dấu tách mỡ + dấu đuôi + bờ rõ = PNST lành**; **ADC < 1,1 ×10⁻³ mm²/s hoặc phù quanh u (Sp 94%) = nghi MPNST**; **đuôi mạc lan theo rãnh = myxofibrosarcoma (82,4%)**; quanh khớp + vôi hóa + ADC thấp = synovial sarcoma; "T2 sáng" một mình KHÔNG phân biệt lành/ác | `376` |
 | U dây thần kinh dạng đám rối & chuyển dạng MPNST ở NF1 (Plexiform neurofibroma & MPNST) | Mô mềm – dây thần kinh ngoại vi (peripheral nerve) | U dạng đám rối (PN, lành), ANNUBP, MPNST độ thấp/độ cao, Schwannoma, U thần kinh dạng da | **Nhiều "dấu bia" (target sign) + tín hiệu đồng nhất = PN lành**; **nốt mới trong u cũ / u to nhanh / không đồng nhất / phù quanh u = nghi chuyển dạng**; **ADCmean 2,13 (BPNST) → 1,66 (ANF) → 1,37 (MPNST) ×10⁻³ mm²/s**; **SUVmax ≥ 3,5 (Se 0,99/Sp 0,75), ngưỡng 5 cho ANF+MPNST (Se 85,2%/Sp 92,3%)**; **ANNUBP = ≥ 2/4 tiêu chí mô bệnh ± mất CDKN2A/B**; u da hầu như KHÔNG chuyển dạng | `377`, `376` |
 | PN ở NF1 – điều trị & theo dõi thể tích (Selumetinib) | Mô mềm – dây thần kinh ngoại vi | PN lành có triệu chứng/không mổ được, PN mổ được, ANNUBP/MPNST | **Selumetinib 25 mg/m² ×2/ngày**; **PR = giảm ≥ 20% thể tích**, SD −20% đến +20%, PD tăng ≥ 20%; **giảm trung vị 23%**, **57% PR**; **CPK tăng 96%**, paronychia 91%; tái phát sau debulking 40–50% | `378`, `377` |
+| MPNST – điều trị đa mô thức & theo dõi di căn phổi | Mô mềm – dây thần kinh ngoại vi | MPNST độ cao, ANNUBP, sarcoma mô mềm khác, di căn phổi | **R0 là yếu tố tiên lượng mạnh nhất; OS 5 năm sau mổ 47%, tái phát tại chỗ 40%**; **RT > 50 Gy, bắt đầu 4–6 tuần sau mổ**; **không hóa trị bổ trợ thường quy**; **anthracycline: đáp ứng 21%, PFS 17 tuần, OS 48 tuần**; **theo dõi độ cao 3–4 tháng/năm 1–3, 6 tháng/năm 4–5, hằng năm đến 10 năm + CT ngực** | `379`, `377`, `378` |
 
 ## Bài liên quan chéo
 - [310 – Giải phẫu & xương phụ](../310-giai-phau-xuong-khop-va-bien-the/lesson.md) *(đã có)*
@@ -38,6 +39,7 @@ certainty: tong-hop-y-van
 - [376 – U phần mềm KHÔNG mỡ: schwannoma vs sarcoma myxoid / u bao hoạt dịch](../376-u-phan-mem-khong-mo/lesson.md) *(đã có)*
 - [377 – U dây thần kinh dạng đám rối & chuyển dạng MPNST ở NF1 (WB-MRI, ADC, FDG-PET)](../377-u-than-kinh-dang-dam-roi-va-mpnst-nf1/lesson.md) *(đã có)*
 - [378 – Điều trị PN ở NF1: selumetinib & theo dõi thể tích](../378-dieu-tri-u-dam-roi-nf1-selumetinib/lesson.md) *(đã có)*
+- [379 – MPNST: điều trị đa mô thức & theo dõi di căn phổi](../379-mpnst-dieu-tri-di-can-phoi/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Cơ – Xương – Khớp (300–380)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.

@@ -399,3 +399,5 @@
 
 - 2026-10-20: viết **741** dị dạng mạch máu đầu–cổ (ISSVA/PHACE/LUMBAR) + **378** selumetinib PN ở NF1; selfcheck/lint/mermaid/author PASS.
 - 2026-10-20: thêm chờ viết **743** epistaxis trẻ, **380** tuberous sclerosis complex.
+- 2026-10-20: viết **379** MPNST điều trị đa mô thức & theo dõi di căn phổi (R0/RT/hóa trị + ESSR 2024) và **675** MRI thai hố sau & tư vấn tiền sản (DWM/BPC/IIVH/PCH/Joubert); 3 ảnh CC BY 4.0 mỗi bài + composite.
+- selfcheck/lint/mermaid/author PASS; flip #181/#182; append #301 (ID 381 di căn phổi MPNST) & #302 (ID 696 CMV bào thai).

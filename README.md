@@ -214,6 +214,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 376 | [U phần mềm KHÔNG mỡ: schwannoma vs sarcoma myxoid / u bao hoạt dịch](376-u-phan-mem-khong-mo/lesson.md) | `pattern:u-phan-mem` `pattern:u-than-kinh-ngoai-vi` `vung:mo-mem` `score:ADC` `protocol:MRI-mo-mem` |
 | 377 | [U dây thần kinh dạng đám rối & chuyển dạng MPNST ở NF1](377-u-than-kinh-dang-dam-roi-va-mpnst-nf1/lesson.md) | `pattern:u-than-kinh-ngoai-vi` `pattern:u-phan-mem` `pattern:dam-roi-than-kinh` `vung:mo-mem` `score:ADC` `score:SUVmax` `protocol:WB-MRI` `protocol:PET-CT` |
 | 378 | [Điều trị u dây thần kinh dạng đám rối ở NF1: selumetinib & theo dõi thể tích](378-dieu-tri-u-dam-roi-nf1-selumetinib/lesson.md) | `pattern:u-thanh-kinh-ngoai-vi` `pattern:dam-roi-thanh-kinh` `vung:mo-mem` `protocol:MRI-mo-mem` `protocol:MRI-the-tich` `score:dap-ung-the-tich` |
+| 379 | [MPNST: điều trị đa mô thức & theo dõi di căn phổi](379-mpnst-dieu-tri-di-can-phoi/lesson.md) | `pattern:u-phan-mem` `pattern:u-thanh-kinh-ngoai-vi` `vung:mo-mem` `vung:phoi` `score:SUVmax` `score:ADC` `score:TNM` `protocol:MRI-mo-mem` `protocol:PET-CT` `protocol:CT-nguc` `incidentaloma:di-can-phoi` |
 
 ## Hệ Vú & Sản Phụ khoa (dải 500, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
@@ -322,6 +323,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 664 | [U mô đệm lành của gan ở trẻ: theo dõi bảo tồn vs mổ & phổ MH → UESL](664-u-mo-dem-lanh-gan-o-tre/lesson.md) | `pattern:khoi-gan-nhi` `pattern:khoi-nang-dac` `vung:gan` `score:PRETEXT` `protocol:US-CT-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |
 | 666 | [Nang ống mật chủ ở trẻ (Todani I–V): MRCP, hợp lưu tụy–mật & nguy cơ ung thư đường mật](666-nang-ong-mat-chu-o-tre/lesson.md) | `pattern:nang-duong-mat` `vung:gan-mat-nhi` `score:Todani` `protocol:MRCP` `protocol:US-bung-nhi` `incidentaloma:nang-duong-mat` |
 | 674 | [U quái & u tế bào mầm vùng gan ở trẻ: khối có mỡ + vôi hóa](674-u-quai-te-bao-mam-gan-o-tre/lesson.md) | `pattern:khoi-gan-nhi` `pattern:khoi-co-mo-voi-hoa` `pattern:u-te-bao-mam` `vung:gan` `protocol:US-CT-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |
+| 675 | [Tư vấn tiền sản & MRI thai hố sau: thiểu sản cầu–tiểu não](675-tu-van-tien-san-mri-ho-sau/lesson.md) | `pattern:thieu-san-tieu-nao` `pattern:bat-thuong-ho-sau` `vung:ho-sau` `vung:thai-nhi` `protocol:MRI-thai` `score:TCD` `score:tegmento-vermian-angle` |
 | 667 | [U mạch máu gan ở trẻ & điều trị nội khoa (suy tim cung lượng cao, propranolol, rò shunt)](667-u-mach-mau-gan-o-tre-va-dieu-tri/lesson.md) | `pattern:khoi-gan-nhi` `vung:gan` `score:ISSVA` `protocol:US-Doppler-CEUS-MRI-gan-nhi` `incidentaloma:khoi-gan-nhi` |
 | 687 | [Theo dõi & điều trị IHH sau can thiệp (sirolimus, TAE, ghép gan, ngừng propranolol)](687-theo-doi-va-dieu-tri-ihh-sau-can-thiep/lesson.md) | `pattern:khoi-gan-nhi` `vung:gan` `score:IHH-response` `protocol:US-MRI-theo-doi` `protocol:TAE` `incidentaloma:khoi-gan-nhi` |
 | 646 | [Hội chứng khoang bụng ở trẻ: đo áp lực bàng quang, phân độ I–IV & xử trí](646-hoi-chung-khoang-bung-o-tre/lesson.md) | `pattern:tang-ap-luc-o-bung` `vung:o-bung` `score:WSACS-IAH` `protocol:do-ap-luc-bang-quang` `protocol:CT-bung` |
