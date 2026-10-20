@@ -462,3 +462,6 @@
 
 - 2026-10-20: viết 471 (rung giật nhãn cầu nhũ nhi: Goldman 147 trẻ, Suppiej 142, Talsma 50) + 483 (sàng lọc thị lực mầm non: NCCVEH 2025, Oatts JAMA 2026, Fuseya Cureus 2026); selfcheck/lint/mermaid/author PASS.
 - Append 2 gap: 485 (khúc xạ lý liệt & quy tắc kê kính), 486 (lác điều tiết theo dõi sau kính).
+
+## 2026-10-20 — lượt worker
+- Viết 472 (phẫu thuật lác trẻ sinh non/ROP: 4 ảnh, PASS) + 107 (MRCP/gadoxetic HBP: 4 ảnh, PASS); flip BACKLOG, thêm gap 473 (ROP stage 4–5) & 108 (Strasberg–Bismuth).

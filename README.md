@@ -102,6 +102,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 469 | [Lác & nhược thị ở trẻ sinh non/ROP: kính chỉnh, bịt mắt vs atropine, điều trị kỹ thuật số](469-lac-nhuoc-thi-tre-sinh-non-rop/lesson.md) | `pattern:lac` `pattern:nhuoc-thi` `vung:mat` `protocol:chinh-thi-tre-non` |
 | 470 | [Bệnh võng mạc trung tâm thanh dịch do corticosteroid & tiếp cận mất thị lực KHÔNG đau: OCT bong vòm, FA inkblot/smokestack, ICGA tăng thấm, half-dose PDT](470-cscr-do-corticosteroid-mat-thi-luc-khong-dau/lesson.md) | `pattern:bong-thanh-dich` `vung:hoang-diem` `vung:hac-mac` `score:CSCR-chronicity` `protocol:OCT-EDI` `protocol:FA-ICGA` `incidentaloma:mat-do-thuoc` |
 | 471 | [Rung giật nhãn cầu ở trẻ nhũ nhi & trẻ sinh non: phân biệt thể cảm giác – vô căn – thần kinh, OCT/ERG/gen, spasmus nutans](471-rung-giat-nhan-cau-tre-nhu-nhi/lesson.md) | `pattern:rung-giat-nhan-cau` `pattern:giam-thi-luc` `vung:mat` `vung:nao` `protocol:ERG-VEP` `protocol:OCT-hoang-diem` `protocol:MRI-nao` |
+| 472 | [Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, tái mổ & cạm bẫy giả lác ngoài do hoàng điểm lệch](472-phau-thuat-lac-tre-sinh-non-rop/lesson.md) | `pattern:lac` `pattern:lac-trong` `pattern:lac-ngoai` `vung:mat` `vung:co-van-nhan` `protocol:do-goc-lac` `protocol:khuc-xa-ly-liet` `incidentaloma:rop` |
 | 483 | [Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, ngưỡng 20/50–20/40–20/32, chuyển tuyến trực tiếp & vì sao bỏ sót lác nhỏ](483-sang-loc-thi-luc-tre-mam-non/lesson.md) | `pattern:sang-loc` `pattern:khuc-xa` `pattern:lac` `vung:mat` `protocol:chinh-thi-tre-mam-non` `score:NCCVEH-2025` `incidentaloma:khuc-xa-tre` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
@@ -111,6 +112,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 100 | [Tổng quan hệ Bụng](100-tong-quan-he-bung/lesson.md) | Tổng quan, bảng DDx |
 | 110 | [Giải phẫu bụng cắt lớp](110-giai-phau-bung/lesson.md) | `anatomy:bung` |
 | 101 | [Protocol đa thì](101-protocol-bung/lesson.md) | `protocol:CT-MRI-bung` |
+| 107 | [MRCP & gadoxetic acid thì gan–mật (HBP): kỹ thuật, FLIS, ngưỡng bilirubin & cách đọc rò/hẹp](107-mrcp-gadoxetic-acid-hbp/lesson.md) | `protocol:MRCP` `protocol:MRI-gan` `protocol:gadoxetic-acid` `pattern:hep-duong-mat` `vung:duong-mat` `incidentaloma:hep-duong-mat` |
 | 115 | [Khí tự do](115-khi-tu-do/lesson.md) | `pattern:khi-tu-do` |
 | 120 | [Khối gan nền lành vs xơ](120-khoi-gan-nen/lesson.md) | `pattern:khoi-gan` `vung:gan` `protocol:MRI-gan-Primovist` `score:LI-RADS` |
 | 122 | [U lành & áp-xe gan](122-u-lanh-gan/lesson.md) | `pattern:u-lanh-gan` |
