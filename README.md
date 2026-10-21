@@ -322,6 +322,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 614 | [Bệnh tiểu phế quản tắc nghẽn (BO) & Swyer–James](614-benh-tieu-phe-quan-tac-nghen-BO-Swyer-James/lesson.md) | `pattern:u-khi` `pattern:viem-tieu-phe-quan` `pattern:phoi-mot-ben-sang` `vung:phoi` `vung:phe-quan` `protocol:HRCT` `protocol:HRCT-thi-tho-ra` |
 | 617 | [Hội chứng rò khí ở nhũ nhi: tràn khí màng phổi & tràn khí trung thất](617-hoi-chung-ro-khi-o-nhu-nhi/lesson.md) | `pattern:ro-khi` `pattern:tran-khi-mang-phoi` `pattern:tran-khi-trung-that` `vung:phoi` `vung:mang-phoi` `score:AP-ratio` `protocol:X-quang-nguc-nhi` `protocol:sieu-am-phoi` |
 | 618 | [Rò phế quản–màng phổi & rò khí dai dẳng ở trẻ (van một chiều, pleurodesis, khi nào mổ)](618-ro-phe-quan-mang-phoi-va-ro-khi-dai-dang-o-tre/lesson.md) | `pattern:ro-khi` `pattern:ro-phe-quan-mang-phoi` `pattern:ro-khi-dai-dang` `vung:phoi` `vung:mang-phoi` `protocol:CT-nguc` `protocol:EBV` |
+| 601 | [Tràn khí màng phổi tự phát ở trẻ lớn & vị thành niên: bóng khí, ngưỡng tái phát & VATS](601-tran-khi-mang-phoi-tu-phat-tre-lon-vats/lesson.md) | `pattern:tran-khi-mang-phoi` `pattern:bong-khi` `vung:phoi` `vung:mong-phoi` `protocol:CT-lat-mong` `score:BTS-2cm` |
 | 619 | [Di chứng hô hấp sau hoại tử phổi & cắt thùy ở trẻ (giãn phế quản, phổi bó)](619-di-chung-ho-hap-sau-hoai-tu-phoi-cat-thuy/lesson.md) | `pattern:gian-phe-quan` `pattern:phoi-bo` `pattern:xo-phoi` `pattern:day-mang-phoi` `vung:phoi` `vung:mang-phoi` `protocol:HRCT` `protocol:HRCT-thi-tho-ra` `score:spirometry` |
 | 611 | [Khí kẽ phổi (PIE) & tràn khí áp lực ở nhũ nhi: HFOV, nằm nghiêng bên tổn thương, tràn khí màng ngoài tim](611-ro-khi-nang-pie-tran-khi-ap-luc-nhu-nhi/lesson.md) | `pattern:pie` `pattern:tran-khi-ap-luc` `pattern:tran-khi-mang-ngoai-tim` `vung:phoi` `vung:trung-that` `protocol:HFOV` `protocol:sieu-am-phoi` `protocol:X-quang-nguc-nhi` |
 | 609 | [Ống dẫn lưu màng phổi (chest tube) ở trẻ: kỹ thuật – vị trí – biến chứng – khi nào rút](609-ong-dan-luu-mang-phoi-o-tre/lesson.md) | `pattern:ong-dan-luu` `pattern:tran-khi-mang-phoi` `pattern:ro-khi` `vung:mang-phoi` `vung:thanh-nguc` `protocol:chest-tube` `protocol:sieu-am-thanh-nguc` |
@@ -396,6 +397,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 900 | [Đại cương IR](900-ir-fundamentals-biopsy/lesson.md) | `score:SIR` |
 | 901 | [Tổng quan IR](901-ir-overview/lesson.md) | Tổng quan, bảng DDx |
 | 920 | [Nút mạch](920-vascular-embolization-gi-bleed/lesson.md) | `pattern:nut-mach` |
+| 925 | [Dẫn lưu đường mật trước phẫu thuật (PBD): ai cần, chọn đường nào, chờ bao lâu & biến chứng trên CT](925-dan-luu-duong-mat-truoc-phau-thuat/lesson.md) | `pattern:ong-mat-gian` `pattern:double-duct` `vung:duong-mat` `vung:tuy` `protocol:CT-4-thi` `protocol:MRCP` `protocol:PBD` |
 | 715 | [Nấm xoang](715-rhinosinusitis-fungal/lesson.md) | `pattern:viem-nam-xoang` |
 | 720 | [Cholesteatoma](720-temporal-bone-cholesteatoma/lesson.md) | `pattern:cholesteatoma` |
 | 740 | [Tuyến mang tai](740-salivary-gland-tumors/lesson.md) | `pattern:u-tuyen-bot` |
