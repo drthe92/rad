@@ -65,6 +65,7 @@ certainty: tong-hop-y-van
 - [238 – Hội chứng Lemierre & huyết khối tĩnh mạch cảnh trong nhiễm khuẩn](../238-lemierre-huyet-khoi-tm-canh-trong/lesson.md) *(đã có)*
 - [228 – Thoát vị đĩa đệm thắt lưng & phân độ Pfirrmann/Modic](../228-thoat-vi-dia-dem-that-lung-pfirrmann-modic/lesson.md) *(đã có)*
 - [229 – Viêm mạch TKTW nguyên phát (PACNS) vs co mạch não có hồi phục (RCVS)](../229-pacns-vs-rcvs/lesson.md) *(đã có)*
+- [203 – Neuro-Behçet & Behçet mạch máu lớn: đồi thị–thân não "thác nước", phình/giả phình động mạch phổi](../203-neuro-behcet-va-mach-mau-lon/lesson.md) *(đã có)*
 - [234 – Tăng áp lực nội sọ & theo dõi đa phương thức ở trẻ TBI (EVD, osmotherapy, giải ép, CPPopt)](../234-tang-ap-luc-noi-so-theo-doi-da-phuong-thuc-nhi/lesson.md) *(đã có)*
 - [231 – Tổn thương mạch máu não do chấn thương (BCVI) & vỡ sọ tiến triển ở trẻ](../231-ton-thuong-mach-mau-nao-chan-thuong-va-vo-so-tien-trien/lesson.md) *(đã có)*
 - [232 – Chấn thương đầu nhẹ & chấn động não (concussion) ở trẻ: PECARN, quan sát 4–6 giờ & quay lại học/thể thao](../232-chan-thuong-dau-nhe-concussion-o-tre/lesson.md) *(đã có)*

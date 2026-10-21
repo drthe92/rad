@@ -34,5 +34,6 @@ certainty: tong-hop-y-van
 - 910 – Dẫn lưu Ổ áp-xe, Đường mật (PTBD) & Thận qua da (PCN) *(đã có — [bài học](../910-abscess-biliary-nephrostomy/lesson.md))*
 - 920 – Nút mạch Cầm máu: Tiêu hóa, Ho máu & Chấn thương Tạng *(đã có — [bài học](../920-vascular-embolization-gi-bleed/lesson.md))*
 - 930 – Can thiệp Ung thư Gan: TACE, RFA/MWA & LI-RADS TRA *(đã có — [bài học](../930-hepatic-oncology-tace-rfa/lesson.md))*
+- 931 – Takayasu: nong/stent & phẫu thuật bắc cầu — chọn bệnh nhân theo hoạt tính viêm, theo dõi tái hẹp *(đã có — [bài học](../931-takayasu-can-thiep-noi-mach-va-phau-thuat/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

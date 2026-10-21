@@ -521,3 +521,6 @@
 
 - 2026-10-21: xong **487** (độc tính võng mạc do thuốc khác HCQ: tamoxifen/clofazimine/deferoxamine–sắt/MEKAR; ảnh PMC10093114, PMC4573752, PMC8278719, PMC8761530 CC BY 4.0 + PMC5020777 CC BY-NC-SA + 1 composite) và **488** (HCQ thai kỳ/cho con bú; ảnh PMC13218190, PMC13032843 CC BY 4.0). selfcheck 383 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.
 - Append hàng chờ: **489** (loạn dưỡng hoa văn di truyền vs độc tính thuốc) + **490** (bệnh võng mạc ĐTĐ trong thai kỳ) — đã qua check_duplicates; cập nhật hub mắt + README + index (383 thẻ).
+
+- 2026-10-21: xong **203** (neuro-Behçet + Behçet mạch máu lớn; ID đề xuất 229 đã bị PACNS/RCVS dùng nên chuyển **203**; ảnh PMC6814321 CC BY 4.0, PMC8688177 CC BY-NC-ND, PMC10540716 CC BY 4.0 + 2 composite) và **931** (Takayasu nong/stent vs bypass, tái hẹp 3 năm đầu; ảnh PMC12966148 CC BY-NC-ND, PMC6791090 + PMC9262024 CC BY-NC-SA, PMC11697587 CC BY-NC). selfcheck 385 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.
+- Không append hàng chờ mới (hàng chờ còn ~120 mục); index 385 thẻ, flip 203/931 trong BACKLOG.
