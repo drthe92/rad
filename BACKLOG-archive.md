@@ -508,3 +508,7 @@
 ## 2026-10-21 — 105 PTBD theo dõi + 632 nang sán theo dõi dài hạn
 - Xong 218→105 (di trú 30,56% trung vị 32 ngày; rút 7–10 ngày, biến chứng 2,5%; Gelfoam tract 100%/87%; hemobilia 1,1–9,9%) và 219→632 (khỏi 32,7%; CE2 26,4 tháng; kháng thể tồn tại sau khỏi; 53,8% CE1 âm tính; PAIR 4,7% vs mổ 1,2% tái tích dịch); thêm 2 gap 106 + 633.
 - Ảnh: 9 ảnh PMC OA + 2 composite letterbox; selfcheck 375 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.
+
+## 2026-10-21 — 633 nang sán ngoài phổi + 644 PHCN hô hấp & chuyển tiếp
+- Xong 220→633 (tim 0,02–2%, não 1,7–2%/75% trẻ em, 63,4% đa cơ quan, cấm chọc tim–não) và 221→644 (O–S–R–D, HRCT thì thở ra, ACT 1–2 lần/ngày, chuyển tiếp 12–14→18–21); thêm 2 gap 302 + 929; dời gap AE 633→144.
+- Ảnh: 5 ảnh PMC OA + 2 composite letterbox; selfcheck 377 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.
