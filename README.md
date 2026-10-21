@@ -164,6 +164,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 161 | [Viêm ruột thừa cấp: tiếp cận CT/siêu âm, ngưỡng 6 mm & dấu hiệu phức tạp](161-viem-ruot-thua-cap/lesson.md) | `pattern:quai-ruot-gian` `pattern:tham-nhiem-mo` `vung:ho-chau-phai` `protocol:CT-bung-co-can-quang` `protocol:sieu-am-chen-ep` `score:Alvarado` |
 | 199 | [Quy trình xét nghiệm gen & tầm soát người thân (WB-MRI, ONCO-RADS, cascade)](199-quy-trinh-xet-nghiem-gen-tam-soat-gia-dinh/lesson.md) | `pattern:tam-soat-ung-thu-di-truyen` `vung:toan-than` `score:ONCO-RADS` `protocol:WB-MRI` `incidentaloma:ton-thuong-toan-than` |
 | 178 | [Di căn xương RCC & biến chứng cơ học: chèn ép tủy, gãy xương bệnh lý](178-di-can-xuong-RCC-bien-chung-co-hoc/lesson.md) | `pattern:di-can-xuong` `pattern:tieu-xuong` `pattern:chen-ep-tuy` `vung:xuong` `vung:cot-song` `score:Mirels` `score:SINS` `score:Bilsky` `protocol:MRI-cot-song` `protocol:SBRT` `incidentaloma:di-can-xuong` |
+| 174 | [Giun đũa đường mật: dấu "bốn đường", ống mật giả tắc & khi nào can thiệp](174-giun-duc-duong-mat/lesson.md) | `pattern:khuyet-long` `vung:duong-mat` `anatomy:ong-mat-chu` `protocol:MRCP` `protocol:ERCP` |
+| 179 | [Hoại tử ống mật & cholangiopathy thiếu máu sau TACE/TARE/RFA: ống mật "giả giãn" & biloma](179-bien-chung-duong-mat-sau-can-thiep-u-gan/lesson.md) | `pattern:ong-giam-ty-trong` `pattern:biloma` `vung:gan` `vung:duong-mat` `protocol:CT-MRI-dong-hoc` `protocol:MRCP` |
 
 ## Hệ Thần kinh (dải 200, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |

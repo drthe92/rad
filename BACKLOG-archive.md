@@ -467,3 +467,7 @@
 - Viết 472 (phẫu thuật lác trẻ sinh non/ROP: 4 ảnh, PASS) + 107 (MRCP/gadoxetic HBP: 4 ảnh, PASS); flip BACKLOG, thêm gap 473 (ROP stage 4–5) & 108 (Strasberg–Bismuth).
 
 - 2026-10-20: viết **128** (sán lá gan nhỏ: giãn ống mật ngoại vi, khuyết lòng ống, praziquantel, OR CCA 4,8) + **102** (viêm túi mật/viêm tụy sau ERCP; PEP 4,6%, TG18, dự phòng). Ảnh CC BY/CC BY-NC từ PMC13652791, PMC4127904, PMC11108091, PMC12476729 + CDC DPDx. Backlog +174 (giun đũa đường mật), +925 (PBD trước mổ).
+
+## Nhật ký 2026-10-21 (worker)
+- Viết **174** giun đũa đường mật (ID 174) + **179** hoại tử ống mật/cholangiopathy sau TACE–TARE–RFA (ID 179); ảnh Europe PMC CC BY/CC BY-NC, author-check PASS.
+- Thêm 2 khoảng trống: **1801** REILD sau TARE, **180** viêm túi mật thiếu máu sau can thiệp động mạch gan.
