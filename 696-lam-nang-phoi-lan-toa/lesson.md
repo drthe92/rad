@@ -108,27 +108,27 @@ flowchart TD
 
 ## 6. Tự lượng giá — Blind Quiz
 
-**Ca 1 — Nữ 41 tuổi, khó thở khi gắng sức 1 năm, tiền sử tràn khí màng phổi phải 2 lần. HRCT dưới đây.**
+**Ca 1 — Bệnh nhân nữ có nang phổi lan toả, HRCT dưới đây.**
 
 ![Ca 1 — HRCT nang lan toả](images/696_LAM-nang-phoi_CT_Conti-Cureus2025-f2.jpg)
 
-- Gợi ý lâm sàng: nữ tuổi sinh sản, tràn khí tái phát, không hút thuốc; không sốt.
+- Gợi ý lâm sàng: nữ, không hút thuốc, không sốt; bài gốc không nêu chi tiết ngoài hình ảnh.
 - Câu hỏi: mô tả nang (số lượng, thành, phân bố)? 3 chẩn đoán phân biệt? Hai xét nghiệm ít xâm lấn nhất để chốt?
 
 <details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
 
 - Dấu hiệu: **hàng chục nang thành mỏng (< 2 mm), tròn đều, lan toả hai bên**, nhu mô xen giữa bình thường; có **nốt kính mờ vi mô** ở thùy dưới trái (dấu `*`) — **MMPH**.
-- Chẩn đoán: **LAM** — nang tròn đều lan toả + nữ tuổi sinh sản + tràn khí tái phát.
+- Chẩn đoán: **LAM** — nang tròn đều lan toả; ở nữ có tràn khí tái phát thì càng điển hình.
 - Phân biệt: **BHD** (nang đáy, bất quy tắc, lớn ≥ 2,1 cm), **PLCH** (nang đỉnh + nốt, người hút thuốc), **LIP** (nang dọc trục mạch + GGO).
 - Chốt: **VEGF-D huyết thanh ≥ 800 pg/mL** (đặc hiệu gần 100%) + **CT bụng tìm AML** — nếu đủ thì **không cần sinh thiết**.
 - Nguồn ảnh: Conti L et al., *Cureus* 2025 (PMC12318564) Fig. 2, CC BY 4.0.
 </details>
 
-**Ca 2 — Cùng bệnh nhân, CT bụng được chụp vì đau hông lưng. Ảnh dưới đây.**
+**Ca 2 — Cùng loạt ca, CT bụng của một bệnh nhân LAM. Ảnh dưới đây.**
 
 ![Ca 2 — khối thận có mỡ](images/696_AML-than_CT_Conti-Cureus2025-f3.jpg)
 
-- Gợi ý lâm sàng: khối thận trái lớn, không sốt, không đái máu đại thể.
+- Gợi ý lâm sàng: khối thận trái lớn, tình cờ phát hiện khi chụp bụng.
 - Câu hỏi: đậm độ khối? Chẩn đoán? Ngưỡng nào phải can thiệp? Vì sao khối này củng cố chẩn đoán phổi?
 
 <details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>

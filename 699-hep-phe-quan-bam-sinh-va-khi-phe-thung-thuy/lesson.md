@@ -105,11 +105,11 @@ flowchart TD
 
 ## 6. Tự lượng giá — Blind Quiz
 
-**Ca 1 — Bé trai 10 tháng, ho tái diễn, X-quang ngực dưới đây. Chẩn đoán?**
+**Ca 1 — Bệnh nhi có vùng tăng sáng thùy trên trái, X-quang ngực dưới đây. Chẩn đoán?**
 
 ![Ca 1 — X-quang thùy trên trái tăng sáng + khối cạnh rốn](images/699_hep-phe-quan_XR_Bhatt-JIAPS2026-f1.jpg)
 
-- Gợi ý lâm sàng: không sốt, không dị vật, đã nghi ngờ tổn thương nang từ tiền sản.
+- Gợi ý lâm sàng: không sốt, không dị vật; bài gốc không nêu chi tiết ngoài hình ảnh.
 - Câu hỏi: hai dấu hiệu chính? Vì sao không phải CLH? Bước hình ảnh tiếp theo?
 
 <details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
