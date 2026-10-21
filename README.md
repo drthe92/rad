@@ -41,6 +41,8 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 040 | [Tràn dịch màng phổi](040-tran-dich-mang-phoi/lesson.md) | `pattern:tran-dich` `vung:mang-phoi` |
 | 079 | [Tràn dịch dưỡng trấp (chylothorax): TG 110, lymphangiography & bậc thang điều trị](079-tran-dich-duong-trap-chylothorax/lesson.md) | `pattern:tran-dich` `vung:mong-phoi` `anatomy:ong-nguc` `protocol:lymphangiography` `score:TG-110` `incidentaloma:tran-dich` |
 | 049 | [Theo dõi dài hạn sau cắt thùy phổi bẩm sinh ở trẻ](049-theo-doi-sau-cat-thuy-phoi-bam-sinh/lesson.md) | `pattern:hau-mo` `pattern:qua-sang` `vung:phoi` `protocol:MRI-chuc-nang` `protocol:spirometry` `protocol:CT-lieu-thap` `anatomy:phoi-thuy` |
+| 047 | [Vẹo cột sống & biến dạng lồng ngực sau mở ngực ở trẻ: đo Cobb, dính sườn & ngưỡng can thiệp](047-veo-cot-song-sau-mo-nguc/lesson.md) | `pattern:veo-cot-song` `vung:long-nguc` `anatomy:cot-song-nguc` `protocol:EOS-toan-than` `score:Cobb` `incidentaloma:bien-dang-long-nguc` |
+| 078 | [Dưỡng trấp ổ bụng (chylous ascites): TG 110, lymphangiography & bậc thang điều trị](078-duong-trap-o-bung/lesson.md) | `pattern:dich-bang` `vung:bung` `anatomy:ong-nguc` `protocol:lymphangiography` `score:TG-110` `incidentaloma:dich-bang` |
 | 042 | [U màng phổi](042-mang-phoi-u/lesson.md) | `pattern:u-mang-phoi` `vung:mang-phoi` |
 | 045 | [Thành ngực & hoành](045-thanh-nguc-hoanh/lesson.md) | `pattern:ngoai-mang-phoi` |
 | 041 | [Tràn khí màng phổi](041-tran-khi-mang-phoi/lesson.md) | `pattern:tran-khi` `vung:mang-phoi` |
