@@ -527,3 +527,6 @@
 
 - 2026-10-21: xong **491** (theo dõi/tái phát PVRL: 60–90% tiến triển CNS, MRI 4–6 tháng, IL-10 < 10 pg/mL, sanctuary GDI; ảnh PMC13271570 + PMC11931297 CC BY-NC-ND, PMC13027321 CC BY) và **492** (sinh thiết hắc–võng mạc & lấy mẫu dịch kính: mẫu nguyên chất, 23G/25G, cassette, FNAB 41G, LCM; ảnh PMC6832563 CC BY, PMC11332377 + PMC12637000 CC BY-NC-ND). ID đề xuất 471/472 đã bị dùng → chuyển 491/492. selfcheck 2 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.
 - Append hàng chờ: **493** (u lympho hắc mạc) + **494** (độc thần kinh MTX sau PCNSL/PVRL) — qua check_duplicates; index 387 thẻ.
+
+- 2026-10-21: xong **473** (u lympho T/NK nội nhãn & u lympho thứ phát: IL-10:IL-6 < 1 ở 71% ca T nội nhãn → không loại trừ bằng IL-10; EBER/CD56 chốt T/NK; dày hắc mạc 2,8–3,2 mm; ảnh PMC12669774 + PMC8962092 + PMC13054440 CC BY, PMC12686643 CC BY-NC-ND) và **474** (kháng nấm theo loài/MIC: liều APVRS 2025, echinocandin chỉ Candida, Fusarium kháng nội tại, Aspergillus ≥20/200 chỉ 7%; ảnh PMC12516872 + PMC13148047 CC BY, PMC13676249 + PMC13284917 CC BY-NC-ND). selfcheck 389 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.
+- Append hàng chờ: **495** (viêm nội nhãn nấm ngoại sinh sau mổ vs TASS) + **496** (điều trị duy trì ENKTL/asparaginase & ghép) — qua check_duplicates; index 389 thẻ.
