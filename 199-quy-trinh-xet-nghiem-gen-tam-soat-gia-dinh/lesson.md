@@ -156,6 +156,8 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [156 – Hội chứng di truyền u thận: VHL/BHD/HLRCC/TSC/SDH](../156-hoi-chung-di-truyen-u-than/lesson.md)
+- [198 – Li-Fraumeni (TP53): Chompret, phổ u lõi & tư vấn di truyền](../198-li-fraumeni-tp53-chompret-tu-van/lesson.md)
+- [690 – CMMRD ở trẻ: u não, đa polyp, café-au-lait & lịch tầm soát](../690-cmmrd-tam-soat-wb-mri-o-tre/lesson.md)
 - [377 – U dây thần kinh dạng đám rối & chuyển dạng MPNST ở NF1](../377-u-than-kinh-dang-dam-roi-va-mpnst-nf1/lesson.md) (WB-MRI theo dõi NF1)
 - [168 – U tủy thượng thận & u cận hạch (SDHx)](../168-pheo-paraganglioma/lesson.md)
 - [514 – Ung thư vú: TNM & MRI lan rộng](../514-ung-thu-vu-TNM-MRI-lan-rong/lesson.md) (MRI vú tầm soát BRCA)

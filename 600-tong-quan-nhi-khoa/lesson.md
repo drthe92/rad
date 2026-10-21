@@ -118,6 +118,7 @@ certainty: tong-hop-y-van
 - [672 – Biến chứng muộn sau tái tạo bàng quang bằng ruột (sỏi, thủng tự phát, ung thư, B12)](../672-bien-chung-muon-sau-tai-tao-bang-quang/lesson.md) *(đã có)*
 - [673 – Chuyển tiếp sang người lớn ở spina bifida & bàng quang thần kinh (theo dõi suốt đời, latex, loét tì đè, sinh sản, tủy căng)](../673-chuyen-tiep-nguoi-lon-spina-bifida-bang-quang-than-kinh/lesson.md) *(đã có)*
 - [621 – Nang sán lá phổi (hydatid) ở trẻ: dấu hoa súng, Cumbo](../621-nang-san-la-phoi-o-tre/lesson.md) *(đã có)*
+- [690 – CMMRD: u não, đa polyp, café-au-lait & lịch tầm soát WB-MRI/nội soi ở trẻ](../690-cmmrd-tam-soat-wb-mri-o-tre/lesson.md) *(đã có)*
 - [632 – Theo dõi dài hạn & dự phòng tái phát nang sán: huyết thanh học, albendazole chu kỳ, PAIR, sốc phản vệ](../632-theo-doi-dai-han-nang-san-tai-phat/lesson.md) *(đã có)*
 - [633 – Nang sán lá NGOÀI phổi ở trẻ: tim, não, thận, cơ–xương, mắt](../633-nang-san-da-co-quan-o-tre/lesson.md) *(đã có)*
 - [644 – Phục hồi chức năng hô hấp & chuyển tiếp người lớn ở trẻ bệnh phổi mạn](../644-phuc-hoi-chuc-nang-ho-hap-va-chuyen-tiep-o-tre/lesson.md) *(đã có)*
