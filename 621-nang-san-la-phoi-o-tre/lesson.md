@@ -182,6 +182,7 @@ flowchart TD
 - [025 – Hang & nấm phổi: dấu liềm khí](../025-ton-thuong-phoi-tao-hang/lesson.md) (hang/mức khí–dịch)
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md) (phân biệt ổ dịch nhu mô vs khoang màng phổi)
 - [123 – Nang gan & bệnh gan đa nang](../123-nang-gan-va-benh-gan-da-nang/lesson.md) (nang gan đơn thuần vs nang sán)
+- [632 – Theo dõi dài hạn & dự phòng tái phát nang sán](../632-theo-doi-dai-han-nang-san-tai-phat/lesson.md) (theo dõi nhiều năm, huyết thanh, albendazole)
 
 ## Ảnh
 - Xem `images/CREDITS.md`. Ảnh **CC BY 4.0** được phép ghép letterbox (composite); ảnh **CC BY-NC-ND 4.0** giữ nguyên bản, không crop/ghép.

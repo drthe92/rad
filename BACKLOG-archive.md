@@ -504,3 +504,7 @@
 ## 2026-10-21 — 048 TIS/VEPTR + 076 dưỡng trấp niệu
 - Xong 349→048 (SAL 86→97%, T1–T12 +32%, Cobb 65→58°, 1,8 biến chứng/BN, gù >70° tránh VEPTR) và 350→076 (chylomicron >15 mg/dL, ít mỡ >70%, NBCA 1:1/1:4, mổ nội soi 24 tháng sạch); thêm 2 gap 043 + 077.
 - Ảnh: 5 ảnh JCM/JWPS + 7 ảnh Insights/CVIR/IR (2 composite letterbox); selfcheck 373 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.
+
+## 2026-10-21 — 105 PTBD theo dõi + 632 nang sán theo dõi dài hạn
+- Xong 218→105 (di trú 30,56% trung vị 32 ngày; rút 7–10 ngày, biến chứng 2,5%; Gelfoam tract 100%/87%; hemobilia 1,1–9,9%) và 219→632 (khỏi 32,7%; CE2 26,4 tháng; kháng thể tồn tại sau khỏi; 53,8% CE1 âm tính; PAIR 4,7% vs mổ 1,2% tái tích dịch); thêm 2 gap 106 + 633.
+- Ảnh: 9 ảnh PMC OA + 2 composite letterbox; selfcheck 375 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.

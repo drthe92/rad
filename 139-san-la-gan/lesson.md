@@ -244,6 +244,7 @@ flowchart TD
 - [129 – IPNB & u nhầy đường mật](../129-IPNB-va-u-nhay-duong-mat/lesson.md)
 - [131 – Tắc mật](../131-tac-mat/lesson.md)
 - [621 – Nang sán lá phổi ở trẻ](../621-nang-san-la-phoi-o-tre/lesson.md)
+- [632 – Theo dõi dài hạn & dự phòng tái phát nang sán: huyết thanh, albendazole chu kỳ, PAIR, sốc phản vệ](../632-theo-doi-dai-han-nang-san-tai-phat/lesson.md) (bài tiếp theo: sau điều trị)
 - [900 – Đại cương can thiệp](../900-ir-fundamentals-biopsy/lesson.md) (dẫn lưu/PAIR)
 
 ## Ảnh
