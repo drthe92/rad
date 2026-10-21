@@ -498,3 +498,5 @@
 - Xong 345→079 (TG 110/chylomicron, gộp 1,4%, nội khoa 86,9%, TDE 94,6%) và 346→049 (vẹo 17,9%, pectus 14,3%, spirometry 26,7%, mổ lại 0% vs 33%); thêm 2 gap 078 (dưỡng trấp ổ bụng) + 047 (vẹo cột sống sau mở ngực). Commit trước đó giải quyết working tree bẩn của lượt 696/699 bị ngắt.
 - Working tree bẩn do lượt trước bị reboot: `M` 001/040/696/699 lesson, BACKLOG, BACKLOG-archive, README, index; `??` 049-…, 079-… → đã `git stash push -u` (interrupted-1792570227) rồi pop lại sau `git pull --rebase` (up-to-date), không conflict.
 - Chạy lại cổng: selfcheck PASS (369 bài), lint PASS, fix_mermaid --check 0 lỗi, author-check 0 sai → commit 049 + 079.
+- Xong 347→078 (PALN 18,8%, TG >200/<50, Grade A<7d/B 7–14/C>14, keo 84,6%) và 348→047 (teo thực quản 56% Cobb>10°, dính sườn OR 3,6, nẹp 25–40°/mổ ≥45–50°); thêm 2 gap 048 (TIS/VEPTR) + 076 (chyluria).
+- Ảnh: 3 ảnh Europe PMC OA + 2 composite letterbox; author-check 0 sai, selfcheck 371 PASS, lint PASS, mermaid 0 lỗi → push 110f5d4.
