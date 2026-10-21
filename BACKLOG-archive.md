@@ -524,3 +524,6 @@
 
 - 2026-10-21: xong **203** (neuro-Behçet + Behçet mạch máu lớn; ID đề xuất 229 đã bị PACNS/RCVS dùng nên chuyển **203**; ảnh PMC6814321 CC BY 4.0, PMC8688177 CC BY-NC-ND, PMC10540716 CC BY 4.0 + 2 composite) và **931** (Takayasu nong/stent vs bypass, tái hẹp 3 năm đầu; ảnh PMC12966148 CC BY-NC-ND, PMC6791090 + PMC9262024 CC BY-NC-SA, PMC11697587 CC BY-NC). selfcheck 385 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.
 - Không append hàng chờ mới (hàng chờ còn ~120 mục); index 385 thẻ, flip 203/931 trong BACKLOG.
+
+- 2026-10-21: xong **491** (theo dõi/tái phát PVRL: 60–90% tiến triển CNS, MRI 4–6 tháng, IL-10 < 10 pg/mL, sanctuary GDI; ảnh PMC13271570 + PMC11931297 CC BY-NC-ND, PMC13027321 CC BY) và **492** (sinh thiết hắc–võng mạc & lấy mẫu dịch kính: mẫu nguyên chất, 23G/25G, cassette, FNAB 41G, LCM; ảnh PMC6832563 CC BY, PMC11332377 + PMC12637000 CC BY-NC-ND). ID đề xuất 471/472 đã bị dùng → chuyển 491/492. selfcheck 2 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.
+- Append hàng chờ: **493** (u lympho hắc mạc) + **494** (độc thần kinh MTX sau PCNSL/PVRL) — qua check_duplicates; index 387 thẻ.

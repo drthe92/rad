@@ -59,6 +59,8 @@ certainty: tong-hop-y-van
 | Mù bẩm sinh + điếc ở trẻ trai (Norrie) | Võng mạc + tai trong (retina & inner ear) | **Norrie (*NDP*, X-linked lặn)** vs FEVR/IP/Coats/RB | **Nam đủ tháng + bong võng mạc hai bên + điếc tiến triển + chậm phát triển**; **mẹ mang gen → con trai 50% mắc**; xét gen *NDP* + chẩn đoán trước sinh | [467](../467-norrie-di-truyen-tu-van-va-theo-doi/lesson.md) |
 | **Tổn thương võng mạc ngoài do thuốc (ngoài HCQ)** | Võng mạc (retina) | **Tamoxifen (nang giả + mất EZ) · clofazimine (tinh thể + mắt bò) · deferoxamine/quá tải sắt (teo võng mạc ngoài + FAF đốm) · ức chế MEK (MEKAR)** vs HCQ, MacTel 2, CSCR | **MEKAR = bong thanh dịch hai bên đối xứng, không nâng RPE, hắc mạc bình thường, KHÔNG ngừng thuốc ung thư**; **tamoxifen = nang giả hoàng điểm + OCTA bình thường**; **clofazimine = ám điểm trước khi đáy mắt đổi**; **teo + FAF đốm = đối chiếu ferritin** | [487](../487-nhiem-doc-vong-mac-thuoc-khac-ngoai-hcq/lesson.md) |
 | **HCQ trong thai kỳ & cho con bú** | Võng mạc (retina) + mẹ–thai | **HCQ retinopathy** vs **tiền sản giật/PRES** vs CSCR vs IIH vs tắc mạch (tăng đông) vs ĐTĐ | **Thai kỳ KHÔNG tăng tốc độc tính → giữ HCQ suốt thai (EULAR 2024/ACR 2020)**; **mờ mắt + HA/protein niệu = nghĩ tiền sản giật trước**; **nồng độ ≤ 500 ng/mL gắn bùng phát nặng (không phải độc tính)** | [488](../488-hcq-trong-thai-ky-va-cho-con-bu/lesson.md) |
+| **Theo dõi & tái phát PVRL (tiến triển CNS)** | Võng mạc–dịch kính ± CNS | **Tái phát nội nhãn** vs **độc tính MTX (keratopathy 41,2%)** vs **bệnh võng mạc do xạ** vs nhiễm trùng vs **sẹo RPE không hoạt động** vs **"nơi trú ẩn" quanh implant** | **Mắt sạch KHÔNG loại trừ CNS: 60–90% tiến triển CNS, ~1/3 đã có CNS lúc chẩn đoán**; **MRI não có gadolinium mỗi 4–6 tháng**; **IL-10 âm tính hóa < 10 pg/mL**; **tổn dư OCT bất biến = sẹo, không phải tái phát** | [491](../491-pvrl-theo-doi-tai-phat/lesson.md) |
+| **Sinh thiết nội nhãn & xử lý mẫu** | Dịch kính, võng mạc, hắc mạc | **Chọc hút tiền phòng** vs **chọc hút dịch kính** vs **PPV chẩn đoán** vs **FNAB võng mạc 41G** vs **sinh thiết hắc–võng mạc** | **Mẫu nguyên chất 0,5–1,0 mL TRƯỚC infusion** (pha loãng → cytokine thấp giả tạo); **23G/25G, không 27G** (27G giảm sống sót tế bào u); **nộp toàn bộ cassette: tế bào học 75% → 92%**; **ly tâm 500 × g/5 phút** | [492](../492-sinh-thiet-hac-vong-mac-dich-kinh/lesson.md) |
 | U hắc mạc | Hắc mạc (choroid) | Melanoma, nevus, di căn | Dày ≥ 2 mm + T1 sáng = melanoma | [448](../448-u-hac-mac/lesson.md) |
 | Chấn thương mắt | Nhãn cầu–hốc mắt | Vỡ nhãn cầu, IOFB | Mắt xẹp + XH dịch kính; OTS | [449](../449-chan-thuong-mat-dich-vat/lesson.md) |
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
@@ -122,6 +124,8 @@ certainty: tong-hop-y-van
 - [484 – Nhiễm độc võng mạc do hydroxychloroquine: SD-OCT/FAF/10-2, ngưỡng liều & phân biệt lupus retinopathy](../484-nhiem-doc-vong-mac-hydroxychloroquine/lesson.md) *(mới)*
 - [487 – Nhiễm độc võng mạc do thuốc KHÁC ngoài HCQ: tamoxifen, clofazimine, deferoxamine, ức chế MEK](../487-nhiem-doc-vong-mac-thuoc-khac-ngoai-hcq/lesson.md) *(mới)*
 - [488 – Hydroxychloroquine trong thai kỳ & cho con bú: an toàn mẹ–thai, lịch sàng lọc mắt, theo dõi thị giác trẻ phơi nhiễm](../488-hcq-trong-thai-ky-va-cho-con-bu/lesson.md) *(mới)*
+- [491 – Theo dõi & tái phát PVRL: tái phát nội nhãn, tiến triển CNS, lịch MRI 4–6 tháng](../491-pvrl-theo-doi-tai-phat/lesson.md) *(mới)*
+- [492 – Sinh thiết hắc–võng mạc & quy trình lấy mẫu dịch kính: kỹ thuật, xử lý mẫu, độ nhạy](../492-sinh-thiet-hac-vong-mac-dich-kinh/lesson.md) *(mới)*
 - [472 – Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, tái mổ & cạm bẫy giả lác ngoài](../472-phau-thuat-lac-tre-sinh-non-rop/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
@@ -189,11 +193,13 @@ certainty: tong-hop-y-van
 - 470 – Bệnh võng mạc trung tâm thanh dịch do corticosteroid & tiếp cận mất thị lực KHÔNG đau: OCT bong vòm, FA inkblot/smokestack, ICGA tăng thấm, giảm/ngừng steroid, half-dose PDT *(đã có — [bài học](../470-cscr-do-corticosteroid-mat-thi-luc-khong-dau/lesson.md))*
 - 471 – Rung giật nhãn cầu ở trẻ nhũ nhi & trẻ sinh non: phân biệt thể cảm giác – vô căn – thần kinh, OCT/ERG/gen, spasmus nutans & cạm bẫy MRI *(đã có — [bài học](../471-rung-giat-nhan-cau-tre-nhu-nhi/lesson.md))*
 - 472 – Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát, tái mổ & cạm bẫy giả lác ngoài do hoàng điểm lệch *(đã có — [bài học](../472-phau-thuat-lac-tre-sinh-non-rop/lesson.md))*
-- 473–482: dự trữ mở rộng (PVRL theo dõi, sinh thiết hắc–võng mạc…)
+- 473–482: dự trữ mở rộng
 - 483 – Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, pass 20/50–20/40–20/32, chuyển tuyến trực tiếp & vì sao bỏ sót lác nhỏ *(đã có — [bài học](../483-sang-loc-thi-luc-tre-mam-non/lesson.md))*
 - 484 – Nhiễm độc võng mạc do hydroxychloroquine: SD-OCT (mất EZ cạnh hoàng điểm / "flying saucer"), FAF "mắt bò", thị trường 10-2, liều ≤ 5 mg/kg, ngừng thuốc & theo dõi tiến triển sau ngừng *(đã có — [bài học](../484-nhiem-doc-vong-mac-hydroxychloroquine/lesson.md))*
 - 487 – Nhiễm độc võng mạc do thuốc KHÁC ngoài HCQ: tamoxifen (nang giả + tinh thể), clofazimine (tinh thể + mắt bò), deferoxamine/quá tải sắt (teo võng mạc ngoài + FAF đốm), ức chế MEK (MEKAR — bong thanh dịch hai bên, tự khỏi) *(đã có — [bài học](../487-nhiem-doc-vong-mac-thuoc-khac-ngoai-hcq/lesson.md))*
 - 488 – HCQ trong thai kỳ & cho con bú: giữ thuốc suốt thai (EULAR 2024/ACR 2020), nồng độ máu giảm (≤ 500 ng/mL → bùng phát nặng), mờ mắt thai kỳ nghĩ tiền sản giật/PRES, OCT trẻ phơi nhiễm ở 5 tuổi *(đã có — [bài học](../488-hcq-trong-thai-ky-va-cho-con-bu/lesson.md))*
-- 485–499: dự trữ mở rộng
+- 491 – Theo dõi & tái phát PVRL: tái phát nội nhãn, tiến triển CNS 60–90%, MRI não 4–6 tháng, IL-10 âm tính hóa < 10 pg/mL, "nơi trú ẩn" quanh implant *(đã có — [bài học](../491-pvrl-theo-doi-tai-phat/lesson.md))*
+- 492 – Sinh thiết hắc–võng mạc & lấy mẫu dịch kính: mẫu nguyên chất 0,5–1,0 mL, 23G/25G, cassette 75%→92%, FNAB 41G, LCM *(đã có — [bài học](../492-sinh-thiet-hac-vong-mac-dich-kinh/lesson.md))*
+- 485–486, 489–490, 493–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
