@@ -475,3 +475,7 @@
 ## Nhật ký 2026-10-21 (worker — đợt 2)
 - Viết **925** dẫn lưu đường mật trước mổ (ngưỡng TB ≥ 15 mg/dL, đích < 8,9 mg/dL; PBD không lợi ở 10–15 mg/dL) + **601** tràn khí tự phát trẻ lớn (ngưỡng 2 cm, tái phát 28% ống ngực vs 10% sau VATS); ảnh Europe PMC CC BY/CC BY-NC, selfcheck+lint+author-check PASS.
 - Thêm 2 khoảng trống: **697** Birt–Hogg–Dubé (nang phổi đáy, ung thư thận), **698** CPAM/bóng khí bẩm sinh.
+
+## Nhật ký 2026-10-21 (worker — đợt 3)
+- Viết **697** Birt–Hogg–Dubé (nang đáy quanh bạch mạch chính xác 97%; nang ≥ 2,1 cm Se 99%/Sp 82%; MRI thận 1–2 năm từ 20 tuổi) + **698** CPAM/CCAM (Stocker 0–4, CVR > 1,6 → phù thai, type 4 = PPB type I); ảnh Europe PMC CC BY, selfcheck+lint+author-check PASS.
+- Thêm 2 khoảng trống: **696** LAM (VEGF-D, sirolimus), **699** hẹp phế quản bẩm sinh & CLE.
