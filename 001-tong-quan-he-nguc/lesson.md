@@ -30,6 +30,8 @@ certainty: tong-hop-y-van
 | Đông đặc (consolidation) | Phổi | Viêm phổi (pneumonia), nhồi máu phổi (pulmonary infarction), ung thư lepidic (lepidic adenocarcinoma) | Phế quản hơi (air bronchogram), giữ thể tích | [030](../030-dong-dac-xep-phoi/lesson.md) |
 | Xẹp (atelectasis) | Phổi | Tắc (obstruction), chèn ép (compression) | Di lệch rãnh liên thùy (fissure) | [030](../030-dong-dac-xep-phoi/lesson.md) |
 | Tràn dịch (effusion) | Màng phổi (pleura) | Dịch thấm (transudate), dịch tiết (exudate), máu (hemothorax) | Meniscus, tư thế nằm (decubitus) | [040](../040-tran-dich-mang-phoi/lesson.md) |
+| Tràn dịch **dưỡng trấp** (chylothorax) | Màng phổi | Rò ống ngực sau mổ/chấn thương, lymphoma, bẩm sinh, LAM; **pseudochylothorax** | **TG > 110 mg/dL + chylomicron = chylothorax**; cholesterol > 200 + tinh thể = pseudochylothorax (không thắt ống ngực) | [079](../079-tran-dich-duong-trap-chylothorax/lesson.md) |
+| Phổi sau cắt thùy (hậu phẫu) | Phổi còn lại | Giãn bù sinh lý, tồn lưu dị dạng, tắc nghẽn phế quản, biến dạng thành ngực – vẹo cột sống | **Trung thất dịch về bên mổ + mạch máu đều = giãn bù**; nang/nốt mới = tồn lưu; thể tích giảm = xẹp | [049](../049-theo-doi-sau-cat-thuy-phoi-bam-sinh/lesson.md) |
 | Tràn khí (pneumothorax) | Màng phổi (pleura) | Tự phát (spontaneous), chấn thương (trauma), áp lực (tension) | Đường màng phổi + vô mạch; nằm ngửa tìm deep sulcus | [041](../041-tran-khi-mang-phoi/lesson.md) |
 | Viêm thùy (lobar pneumonia) | Phổi | Phế cầu (pneumococcus), nhồi máu (infarction), xuất huyết | Phế quản hơi + giới hạn rãnh, không mất thể tích | [031](../031-viem-phoi-mau-hinh/lesson.md) |
 | Viêm đa ổ (multifocal) | Phổi | Tụ cầu (staph), gram âm, hít (aspiration), lao | Nốt/đám 2 bên + hang + tree-in-bud | [031](../031-viem-phoi-mau-hinh/lesson.md) |
@@ -50,6 +52,8 @@ certainty: tong-hop-y-van
 
 ## Bài liên quan chéo
 - [081 – Sặc & rối loạn nuốt (VFSS/FEES, viêm phổi hít sặc, sonde dạ dày)](../081-sac-va-roi-loan-nuot/lesson.md) *(mới)*
+- [079 – Tràn dịch dưỡng trấp (chylothorax): TG 110, lymphangiography & bậc thang điều trị](../079-tran-dich-duong-trap-chylothorax/lesson.md) *(mới)*
+- [049 – Theo dõi dài hạn sau cắt thùy phổi bẩm sinh ở trẻ](../049-theo-doi-sau-cat-thuy-phoi-bam-sinh/lesson.md) *(mới)*
 - [696 – LAM: nang phổi lan toả, VEGF-D & sirolimus](../696-lam-nang-phoi-lan-toa/lesson.md) *(mới)*
 - [699 – Hẹp phế quản bẩm sinh & khí phế thũng thùy bẩm sinh](../699-hep-phe-quan-bam-sinh-va-khi-phe-thung-thuy/lesson.md) *(mới)*
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)

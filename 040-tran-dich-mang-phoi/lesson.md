@@ -82,6 +82,7 @@ Cùng là dịch, vị trí tương đối với cơ hoành mới quyết địn
 ## Bài liên quan chéo
 - [001 – Tổng quan hệ Ngực](../001-tong-quan-he-nguc/lesson.md)
 - [010 – Giải phẫu ngực cắt lớp](../010-giai-phau-nguc-cat-lop/lesson.md)
+- [079 – Tràn dịch dưỡng trấp (chylothorax)](../079-tran-dich-duong-trap-chylothorax/lesson.md) — dịch sữa: TG 110, pseudochylothorax & bậc thang điều trị
 - [030 – Đông đặc – xẹp phổi](../030-dong-dac-xep-phoi/lesson.md) (phân biệt dịch vs xẹp đáy)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

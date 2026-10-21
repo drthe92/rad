@@ -162,6 +162,7 @@ flowchart TD
 - [601 – Tràn khí màng phổi tự phát ở trẻ lớn & vị thành niên](../601-tran-khi-mang-phoi-tu-phat-tre-lon-vats/lesson.md) — xử trí tràn khí, ngưỡng tái phát
 - [156 – Hội chứng di truyền u thận (VHL, BHD, TSC…)](../156-hoi-chung-di-truyen-u-than/lesson.md) — TSC và AML hai bên
 - [150 – Nang thận & phân độ Bosniak](../150-nang-than-Bosniak/lesson.md) — phân biệt nang thận với AML
+- [079 – Tràn dịch dưỡng trấp (chylothorax): TG 110 & lymphangiography](../079-tran-dich-duong-trap-chylothorax/lesson.md) — tràn dịch dưỡng trấp 10–30% trong LAM
 - [050 – Giãn phế quản & kén khí](../050-gian-phe-quan-ken-khi/lesson.md) — nang vs kén khí vs khí phế thũng
 
 ## Ảnh

@@ -156,6 +156,7 @@ flowchart TD
 - [614 – Bệnh tiểu phế quản tắc nghẽn (BO) & Swyer–James](../614-benh-tieu-phe-quan-tac-nghen-BO-Swyer-James/lesson.md) — tăng sáng mắc phải
 - [612 – Cấp cứu đường thở trên ở trẻ em](../612-cap-cuu-duong-tho-tren-tre-em/lesson.md) — dị vật đường thở
 - [601 – Tràn khí màng phổi tự phát ở trẻ lớn & vị thành niên](../601-tran-khi-mang-phoi-tu-phat-tre-lon-vats/lesson.md) — phân biệt với tràn khí
+- [049 – Theo dõi dài hạn sau cắt thùy phổi bẩm sinh ở trẻ](../049-theo-doi-sau-cat-thuy-phoi-bam-sinh/lesson.md) — chuyện sau mổ: giãn bù, vẹo cột sống, lịch chụp lại
 - [610 – Suy hô hấp sơ sinh & dị dạng phổi](../610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md) — tiếp cận X-quang sơ sinh
 - [606 – Bệnh phổi mạn ở trẻ sinh non (BPD)](../606-bpd-tre-sinh-non/lesson.md) — tăng sáng hai bên, khác một thùy
 
