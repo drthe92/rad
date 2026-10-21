@@ -515,3 +515,6 @@
 
 - 2026-10-21: xong **198** (LFS/Chompret; ảnh WB-MRI 4 ca PMC12954316 CC BY-NC-ND + MRI osteosarcoma PMC11493536 CC BY 4.0) và **690** (CMMRD; MRI não + café-au-lait PMC12539020 CC BY 4.0). selfcheck/lint/mermaid/author PASS.
 - Append hàng chờ: **197** (xạ trị ở LFS) + **691** (checkpoint inhibitor u não CMMRD) — đã qua check_duplicates.
+
+- 2026-10-21: xong **142** (TAE/xơ hóa/fenestration PLD; ảnh PMC9605116 + PMC12657345 CC BY 4.0) và **484** (HCQ retinopathy, đổi ID từ 440 vì 440 đã ký; ảnh PMC10217485 + PMC12450495 CC BY 4.0); nhận việc dở từ lượt bị cắt (working tree bẩn: 2 folder untracked — đã dùng lại thay vì stash).
+- Append hàng chờ: **487** (nhiễm độc võng mạc do thuốc khác HCQ) + **488** (HCQ trong thai kỳ/cho con bú) — đã qua check_duplicates; selfcheck 381 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.

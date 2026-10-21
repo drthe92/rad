@@ -117,6 +117,7 @@ certainty: tong-hop-y-van
 - [470 – CSCR do corticosteroid & tiếp cận mất thị lực không đau](../470-cscr-do-corticosteroid-mat-thi-luc-khong-dau/lesson.md) *(mới)*
 - [471 – Rung giật nhãn cầu ở trẻ nhũ nhi & trẻ sinh non: thể cảm giác – vô căn – thần kinh, ERG/OCT/gen](../471-rung-giat-nhan-cau-tre-nhu-nhi/lesson.md) *(mới)*
 - [483 – Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, ngưỡng chuyển tuyến & bỏ sót lác nhỏ](../483-sang-loc-thi-luc-tre-mam-non/lesson.md) *(mới)*
+- [484 – Nhiễm độc võng mạc do hydroxychloroquine: SD-OCT/FAF/10-2, ngưỡng liều & phân biệt lupus retinopathy](../484-nhiem-doc-vong-mac-hydroxychloroquine/lesson.md) *(mới)*
 - [472 – Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, tái mổ & cạm bẫy giả lác ngoài](../472-phau-thuat-lac-tre-sinh-non-rop/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
@@ -186,6 +187,7 @@ certainty: tong-hop-y-van
 - 472 – Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát, tái mổ & cạm bẫy giả lác ngoài do hoàng điểm lệch *(đã có — [bài học](../472-phau-thuat-lac-tre-sinh-non-rop/lesson.md))*
 - 473–482: dự trữ mở rộng (PVRL theo dõi, sinh thiết hắc–võng mạc…)
 - 483 – Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, pass 20/50–20/40–20/32, chuyển tuyến trực tiếp & vì sao bỏ sót lác nhỏ *(đã có — [bài học](../483-sang-loc-thi-luc-tre-mam-non/lesson.md))*
-- 484–499: dự trữ mở rộng
+- 484 – Nhiễm độc võng mạc do hydroxychloroquine: SD-OCT (mất EZ cạnh hoàng điểm / "flying saucer"), FAF "mắt bò", thị trường 10-2, liều ≤ 5 mg/kg, ngừng thuốc & theo dõi tiến triển sau ngừng *(đã có — [bài học](../484-nhiem-doc-vong-mac-hydroxychloroquine/lesson.md))*
+- 485–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
