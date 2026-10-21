@@ -512,3 +512,6 @@
 ## 2026-10-21 — 633 nang sán ngoài phổi + 644 PHCN hô hấp & chuyển tiếp
 - Xong 220→633 (tim 0,02–2%, não 1,7–2%/75% trẻ em, 63,4% đa cơ quan, cấm chọc tim–não) và 221→644 (O–S–R–D, HRCT thì thở ra, ACT 1–2 lần/ngày, chuyển tiếp 12–14→18–21); thêm 2 gap 302 + 929; dời gap AE 633→144.
 - Ảnh: 5 ảnh PMC OA + 2 composite letterbox; selfcheck 377 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.
+
+- 2026-10-21: xong **198** (LFS/Chompret; ảnh WB-MRI 4 ca PMC12954316 CC BY-NC-ND + MRI osteosarcoma PMC11493536 CC BY 4.0) và **690** (CMMRD; MRI não + café-au-lait PMC12539020 CC BY 4.0). selfcheck/lint/mermaid/author PASS.
+- Append hàng chờ: **197** (xạ trị ở LFS) + **691** (checkpoint inhibitor u não CMMRD) — đã qua check_duplicates.
