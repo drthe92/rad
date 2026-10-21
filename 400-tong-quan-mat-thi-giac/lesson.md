@@ -57,6 +57,8 @@ certainty: tong-hop-y-van
 | Nhiễm trùng nội nhãn nội sinh (nấm) | Võng mạc–dịch kính (retina–vitreous) | **Nấm (Candida/Aspergillus)** vs vi khuẩn nội sinh (Klebsiella) vs CMV/ARN vs u lympho (masquerade) | **"Fluff ball"/"quả cầu tuyết"/"chuỗi ngọc trai" + bối cảnh candidemia/catheter/TPN/ICU/giảm bạch cầu hạt; phần lớn KHÔNG triệu chứng** → soi đáy mắt **bắt buộc**, cấy/PCR dịch kính; **corticoid nội nhãn = chống chỉ định** | [463](../463-viem-noi-nhan-noi-sinh-nam/lesson.md) |
 | Chọn thuốc & phác đồ anti-VEGF cho ROP | Võng mạc (retina) | **Bevacizumab vs ranibizumab vs aflibercept vs conbercept vs laser** | Zone I/A-ROP → anti-VEGF (thuốc dai, liều thấp); **IR: IVB 11% · IVC 16% · IVR/IVA 27%**; khoảng tái điều trị BCZ 6,7 tuần > RBZ 3,1 tuần; RD gộp 1,4% | [461](../461-chon-thuoc-phac-do-anti-vegf-cho-rop/lesson.md) |
 | Mù bẩm sinh + điếc ở trẻ trai (Norrie) | Võng mạc + tai trong (retina & inner ear) | **Norrie (*NDP*, X-linked lặn)** vs FEVR/IP/Coats/RB | **Nam đủ tháng + bong võng mạc hai bên + điếc tiến triển + chậm phát triển**; **mẹ mang gen → con trai 50% mắc**; xét gen *NDP* + chẩn đoán trước sinh | [467](../467-norrie-di-truyen-tu-van-va-theo-doi/lesson.md) |
+| **Tổn thương võng mạc ngoài do thuốc (ngoài HCQ)** | Võng mạc (retina) | **Tamoxifen (nang giả + mất EZ) · clofazimine (tinh thể + mắt bò) · deferoxamine/quá tải sắt (teo võng mạc ngoài + FAF đốm) · ức chế MEK (MEKAR)** vs HCQ, MacTel 2, CSCR | **MEKAR = bong thanh dịch hai bên đối xứng, không nâng RPE, hắc mạc bình thường, KHÔNG ngừng thuốc ung thư**; **tamoxifen = nang giả hoàng điểm + OCTA bình thường**; **clofazimine = ám điểm trước khi đáy mắt đổi**; **teo + FAF đốm = đối chiếu ferritin** | [487](../487-nhiem-doc-vong-mac-thuoc-khac-ngoai-hcq/lesson.md) |
+| **HCQ trong thai kỳ & cho con bú** | Võng mạc (retina) + mẹ–thai | **HCQ retinopathy** vs **tiền sản giật/PRES** vs CSCR vs IIH vs tắc mạch (tăng đông) vs ĐTĐ | **Thai kỳ KHÔNG tăng tốc độc tính → giữ HCQ suốt thai (EULAR 2024/ACR 2020)**; **mờ mắt + HA/protein niệu = nghĩ tiền sản giật trước**; **nồng độ ≤ 500 ng/mL gắn bùng phát nặng (không phải độc tính)** | [488](../488-hcq-trong-thai-ky-va-cho-con-bu/lesson.md) |
 | U hắc mạc | Hắc mạc (choroid) | Melanoma, nevus, di căn | Dày ≥ 2 mm + T1 sáng = melanoma | [448](../448-u-hac-mac/lesson.md) |
 | Chấn thương mắt | Nhãn cầu–hốc mắt | Vỡ nhãn cầu, IOFB | Mắt xẹp + XH dịch kính; OTS | [449](../449-chan-thuong-mat-dich-vat/lesson.md) |
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
@@ -118,6 +120,8 @@ certainty: tong-hop-y-van
 - [471 – Rung giật nhãn cầu ở trẻ nhũ nhi & trẻ sinh non: thể cảm giác – vô căn – thần kinh, ERG/OCT/gen](../471-rung-giat-nhan-cau-tre-nhu-nhi/lesson.md) *(mới)*
 - [483 – Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, ngưỡng chuyển tuyến & bỏ sót lác nhỏ](../483-sang-loc-thi-luc-tre-mam-non/lesson.md) *(mới)*
 - [484 – Nhiễm độc võng mạc do hydroxychloroquine: SD-OCT/FAF/10-2, ngưỡng liều & phân biệt lupus retinopathy](../484-nhiem-doc-vong-mac-hydroxychloroquine/lesson.md) *(mới)*
+- [487 – Nhiễm độc võng mạc do thuốc KHÁC ngoài HCQ: tamoxifen, clofazimine, deferoxamine, ức chế MEK](../487-nhiem-doc-vong-mac-thuoc-khac-ngoai-hcq/lesson.md) *(mới)*
+- [488 – Hydroxychloroquine trong thai kỳ & cho con bú: an toàn mẹ–thai, lịch sàng lọc mắt, theo dõi thị giác trẻ phơi nhiễm](../488-hcq-trong-thai-ky-va-cho-con-bu/lesson.md) *(mới)*
 - [472 – Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, tái mổ & cạm bẫy giả lác ngoài](../472-phau-thuat-lac-tre-sinh-non-rop/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
@@ -188,6 +192,8 @@ certainty: tong-hop-y-van
 - 473–482: dự trữ mở rộng (PVRL theo dõi, sinh thiết hắc–võng mạc…)
 - 483 – Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, pass 20/50–20/40–20/32, chuyển tuyến trực tiếp & vì sao bỏ sót lác nhỏ *(đã có — [bài học](../483-sang-loc-thi-luc-tre-mam-non/lesson.md))*
 - 484 – Nhiễm độc võng mạc do hydroxychloroquine: SD-OCT (mất EZ cạnh hoàng điểm / "flying saucer"), FAF "mắt bò", thị trường 10-2, liều ≤ 5 mg/kg, ngừng thuốc & theo dõi tiến triển sau ngừng *(đã có — [bài học](../484-nhiem-doc-vong-mac-hydroxychloroquine/lesson.md))*
+- 487 – Nhiễm độc võng mạc do thuốc KHÁC ngoài HCQ: tamoxifen (nang giả + tinh thể), clofazimine (tinh thể + mắt bò), deferoxamine/quá tải sắt (teo võng mạc ngoài + FAF đốm), ức chế MEK (MEKAR — bong thanh dịch hai bên, tự khỏi) *(đã có — [bài học](../487-nhiem-doc-vong-mac-thuoc-khac-ngoai-hcq/lesson.md))*
+- 488 – HCQ trong thai kỳ & cho con bú: giữ thuốc suốt thai (EULAR 2024/ACR 2020), nồng độ máu giảm (≤ 500 ng/mL → bùng phát nặng), mờ mắt thai kỳ nghĩ tiền sản giật/PRES, OCT trẻ phơi nhiễm ở 5 tuổi *(đã có — [bài học](../488-hcq-trong-thai-ky-va-cho-con-bu/lesson.md))*
 - 485–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

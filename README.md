@@ -112,6 +112,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 472 | [Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, tái mổ & cạm bẫy giả lác ngoài do hoàng điểm lệch](472-phau-thuat-lac-tre-sinh-non-rop/lesson.md) | `pattern:lac` `pattern:lac-trong` `pattern:lac-ngoai` `vung:mat` `vung:co-van-nhan` `protocol:do-goc-lac` `protocol:khuc-xa-ly-liet` `incidentaloma:rop` |
 | 483 | [Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, ngưỡng 20/50–20/40–20/32, chuyển tuyến trực tiếp & vì sao bỏ sót lác nhỏ](483-sang-loc-thi-luc-tre-mam-non/lesson.md) | `pattern:sang-loc` `pattern:khuc-xa` `pattern:lac` `vung:mat` `protocol:chinh-thi-tre-mam-non` `score:NCCVEH-2025` `incidentaloma:khuc-xa-tre` |
 | 484 | [Nhiễm độc võng mạc do hydroxychloroquine: SD-OCT/FAF/10-2, ngưỡng liều ≤ 5 mg/kg, ngừng thuốc & phân biệt lupus retinopathy](484-nhiem-doc-vong-mac-hydroxychloroquine/lesson.md) | `pattern:mat-EZ-canh-hoang-diem` `vung:hoang-diem` `score:AAO-nguy-co` `protocol:SD-OCT-FAF-thi-truong-10-2` |
+| 487 | [Nhiễm độc võng mạc do thuốc KHÁC ngoài HCQ: tamoxifen, clofazimine, deferoxamine, ức chế MEK](487-nhiem-doc-vong-mac-thuoc-khac-ngoai-hcq/lesson.md) | `pattern:ton-thuong-vong-mac-ngoai-do-thuoc` `vung:hoang-diem` `score:AAO-nguy-co` `protocol:SD-OCT-FAF` |
+| 488 | [Hydroxychloroquine trong THAI KỲ & cho con bú: an toàn mẹ–thai, lịch sàng lọc mắt và theo dõi thị giác trẻ phơi nhiễm](488-hcq-trong-thai-ky-va-cho-con-bu/lesson.md) | `pattern:ton-thuong-vong-mac-ngoai-do-thuoc` `vung:hoang-diem` `score:AAO-nguy-co` `protocol:SD-OCT-FAF-thi-truong-10-2` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 
 ## Hệ Bụng (dải 100, đang khởi tạo)
