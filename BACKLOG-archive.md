@@ -479,3 +479,7 @@
 ## Nhật ký 2026-10-21 (worker — đợt 3)
 - Viết **697** Birt–Hogg–Dubé (nang đáy quanh bạch mạch chính xác 97%; nang ≥ 2,1 cm Se 99%/Sp 82%; MRI thận 1–2 năm từ 20 tuổi) + **698** CPAM/CCAM (Stocker 0–4, CVR > 1,6 → phù thai, type 4 = PPB type I); ảnh Europe PMC CC BY, selfcheck+lint+author-check PASS.
 - Thêm 2 khoảng trống: **696** LAM (VEGF-D, sirolimus), **699** hẹp phế quản bẩm sinh & CLE.
+
+## Nhật ký 2026-10-21 (worker — đợt 4)
+- Viết **696** LAM (VEGF-D ≥ 800 Sp ~100%, sirolimus FEV₁ ≤ 70%/giảm ≥ 90 mL/năm, AML ≥ 4 cm; ảnh Cureus + Insights Imaging CC BY) và **699** hẹp phế quản bẩm sinh & CLH (bronchocele + ứ khí bàng hệ, BA gặp ở 70% CPAM; ảnh Durhan CC BY + Bhatt CC BY-NC-SA).
+- Thêm 2 khoảng trống: **079** chylothorax/dưỡng trấp, **049** theo dõi sau cắt thùy phổi bẩm sinh; sửa nhãn journal 698 (Children 2024, không phải Tomography).
