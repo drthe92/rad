@@ -16,6 +16,7 @@ certainty: tong-hop-y-van
 
 - Fistula ĐM cảnh–xoang hang: trực tiếp dòng cao (chấn thương vỡ nền sọ ~4%, nam trẻ) vs gián tiếp dòng thấp (tự phát, nữ lớn tuổi, mô liên kết).
 - TẠI SAO mắt đỏ + lồi + tiếng thổi: tăng áp TM ổ mắt (giãn TM mắt trên) + ứ máu; liệt III/IV/VI do dây đi trong xoang hang.
+- **Giai đoạn muộn giống TED:** tăng áp TM ổ mắt → **phù/giãn cơ vận nhãn + mỡ ổ mắt** → lồi mắt, **cơ to lan tỏa** (do ứ máu, không phải bệnh cơ); khác TED ở **TM mắt trên giãn, đổ đầy sớm xoang hang, tiếng thổi**, thường 1 bên + giãn mạch kết mạc–giác mạc.
 - Ngưỡng: DSA là tiêu chuẩn vàng + nút mạch cùng lúc (coil/bóng, giữ dòng ĐM cảnh trong).
 
 ## 2. Gamut mắt đỏ + lồi + tiếng thổi
@@ -50,6 +51,7 @@ certainty: tong-hop-y-van
 - **Mắt đỏ mạn tưởng dị ứng** 2 tháng (ca gốc: cetirizine + steroid không đỡ) — nghe tiếng thổi mọi đỏ mắt 1 bên kéo dài.
 - **Không chấn thương vẫn có CCF** (EDS, loạn sản sợi-cơ) — hỏi mô liên kết + gia đình (cha vỡ phình).
 - **Biến chứng muộn:** tăng nhãn áp góc đóng, XH dịch kính, bong võng mạc, XH nội sọ — đừng chờ.
+- **Cơ to + lồi mắt bị gọi TED:** ở CCF cơ to do **ứ máu TM**, không phải bệnh cơ; tìm tiếng thổi + SOV giãn + đổ đầy sớm. **TED chừa gân + TRAb (+)**; CCF chốt bằng mạch máu (bài 421).
 
 ## 6. Tự lượng giá — Blind Quiz
 

@@ -24,6 +24,7 @@ certainty: tong-hop-y-van
 - **Graves/TED:** 2 bên (lệch cũng có), thân cơ to chừa gân, T2 sáng, TRAb (+), tuyến giáp bệnh.
 - **Giả u viêm (pseudotumor):** 1 bên, **cả gân**, đau nhiều, đáp ứng steroid nhanh.
 - **Cellulitis sau vách:** sốt + viêm xoang kề + phù lan, trẻ em — kháng sinh, áp-xe dẫn lưu.
+- **Rò ĐM cảnh–xoang hang (CCF) giai đoạn muộn:** lồi mắt + **cơ vận nhãn to lan tỏa** do ứ máu TM (không phải bệnh cơ) + **TM mắt trên giãn**, kết mạc đỏ; chốt bằng **tiếng thổi + đổ đầy sớm xoang hang** trên CTA/DSA (bài 423).
 - **U (lymphoma/meningioma):** khối khu trú, không viêm, tiến triển chậm.
 
 ## 3. Bảng so sánh
@@ -33,6 +34,7 @@ certainty: tong-hop-y-van
 | Graves/TED | **Thân cơ to + gân thường**, T2 sáng, 2 bên | **Chừa gân + TRAb (+) + CAS ≥ 3** | Cả gân + đau dữ → giả u | TRAb, CAS, giữ bình giáp |
 | Giả u viêm | **Cả gân + cơ**, 1 bên, đau | **Đau + 1 bên + đáp ứng steroid 48h** | Chừa gân 2 bên → Graves | Steroid thử + MRI |
 | Cellulitis | Phù lan + xoang mờ + sốt | **Sốt + viêm xoang kề + trẻ** | Không sốt + mạn → TED/giả u | Kháng sinh TM, CT tìm áp-xe |
+| Rò ĐM cảnh–xoang hang (CCF) | **TM mắt trên giãn + cơ to lan tỏa + phù mỡ ổ mắt**, thường 1 bên; CTA đổ đầy sớm xoang hang | **Tiếng thổi + SOV giãn + đổ đầy sớm** | Không tiếng thổi + chừa gân + TRAb (+) → TED | CTA/DSA + nút mạch |
 | Đỉnh chèn ép | Cơ to chèn TK thị đỉnh + giảm thị lực | **Giảm thị + RAPD + đỉnh đặc** | Thị lực tốt → chưa chèn ép | Mổ giảm áp cấp cứu |
 
 ## 4. Protocol
@@ -46,6 +48,7 @@ certainty: tong-hop-y-van
 - **ICI (pembrolizumab/nivolumab)** cũng gây lồi mắt giống Graves (kể cả bình giáp, TRAb âm) — hỏi thuốc ung thư.
 - **Giảm liều steroid sớm → tái phát** (bệnh trong ca gốc tái khi giảm liều) — giảm dần + theo dõi TRAb.
 - **Suy giáp cũng làm nặng mắt** — giữ bình giáp suốt quá trình, không chỉ chữa cường.
+- **CCF muộn giả TED:** lồi mắt + cơ to lan tỏa do ứ máu TM, rất dễ chẩn đoán nhầm Graves — **nghe tiếng thổi**, tìm **TM mắt trên giãn/đổ đầy sớm xoang hang**; TED **chừa gân + TRAb (+)**, CCF chốt bằng mạch máu (bài 423).
 
 ## 6. Tự lượng giá — Blind Quiz
 
@@ -72,5 +75,6 @@ certainty: tong-hop-y-van
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
 - [410 – Giải phẫu hốc mắt](../410-giai-phau-hoc-mat/lesson.md) (thân/gân cơ)
 - [420 – Vỡ sàn hốc mắt](../420-vo-san-hoc-mat/lesson.md) (lồi mắt chấn thương)
+- [423 – Fistula xoang hang](../423-fistula-xoang-hang/lesson.md) (lồi mắt + cơ to do ứ máu TM)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

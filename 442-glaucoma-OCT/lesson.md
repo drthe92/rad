@@ -23,6 +23,7 @@ certainty: tong-hop-y-van
 - **POAG:** lõm rộng + RNFL dưới/trên mỏng + nhãn áp cao + góc mở — nhỏ giọt/mổ.
 - **PACG:** góc đóng + cơn cấp (đau/nôn) — hạ áp cấp cứu + laser.
 - **Glaucoma sắc tố/giả tróc:** sắc tố + lõm lệch + trẻ cận (sắc tố)/già (giả tróc) — laser mống mắt/thể thủy tinh.
+- **Glaucoma thứ phát do rò ĐM cảnh–xoang hang (CCF):** tăng áp TM ổ mắt → **góc đóng + giãn mạch kết mạc + lồi mắt**; tăng nhãn áp MỘT bên kèm đỏ mắt mạn, nghe tiếng thổi → CTA/DSA (bài 423).
 - **Teo TK thị phi glaucoma:** nhợt + RNFL mỏng toàn bộ + nguyên nhân TK (viêm/chèn ép — bài 430/431).
 
 ## 3. Bảng so sánh
@@ -54,6 +55,7 @@ Hai hình đối chiếu chuỗi xung/định lượng (dùng trong quiz mục 6
 - **Cận thị nặng** RNFL mỏng giả + đĩa nghiêng — dùng normative cận thị + GCC hoàng điểm.
 - **Phù đĩa cấp** RNFL dày giả (bài 430) — đừng đọc glaucoma khi đĩa phù.
 - **Góc hẹp không triệu chứng** — soi góc mọi nghi ngờ, đừng chờ cơn cấp.
+- **Glaucoma 1 bên + đỏ mắt mạn + lồi mắt** → loại trừ **CCF** trước khi chỉ điều trị nhãn áp: nghe tiếng thổi, tìm TM mắt trên giãn/đổ đầy sớm xoang hang (bài 423). Bỏ sót = mù do tăng áp TM kéo dài.
 
 ## 6. Tự lượng giá — Blind Quiz
 
