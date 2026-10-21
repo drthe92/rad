@@ -500,3 +500,7 @@
 - Chạy lại cổng: selfcheck PASS (369 bài), lint PASS, fix_mermaid --check 0 lỗi, author-check 0 sai → commit 049 + 079.
 - Xong 347→078 (PALN 18,8%, TG >200/<50, Grade A<7d/B 7–14/C>14, keo 84,6%) và 348→047 (teo thực quản 56% Cobb>10°, dính sườn OR 3,6, nẹp 25–40°/mổ ≥45–50°); thêm 2 gap 048 (TIS/VEPTR) + 076 (chyluria).
 - Ảnh: 3 ảnh Europe PMC OA + 2 composite letterbox; author-check 0 sai, selfcheck 371 PASS, lint PASS, mermaid 0 lỗi → push 110f5d4.
+
+## 2026-10-21 — 048 TIS/VEPTR + 076 dưỡng trấp niệu
+- Xong 349→048 (SAL 86→97%, T1–T12 +32%, Cobb 65→58°, 1,8 biến chứng/BN, gù >70° tránh VEPTR) và 350→076 (chylomicron >15 mg/dL, ít mỡ >70%, NBCA 1:1/1:4, mổ nội soi 24 tháng sạch); thêm 2 gap 043 + 077.
+- Ảnh: 5 ảnh JCM/JWPS + 7 ảnh Insights/CVIR/IR (2 composite letterbox); selfcheck 373 PASS, lint PASS, mermaid 0 lỗi, author-check 0 sai.

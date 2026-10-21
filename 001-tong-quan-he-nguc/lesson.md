@@ -34,6 +34,8 @@ certainty: tong-hop-y-van
 | Phổi sau cắt thùy (hậu phẫu) | Phổi còn lại | Giãn bù sinh lý, tồn lưu dị dạng, tắc nghẽn phế quản, biến dạng thành ngực – vẹo cột sống | **Trung thất dịch về bên mổ + mạch máu đều = giãn bù**; nang/nốt mới = tồn lưu; thể tích giảm = xẹp | [049](../049-theo-doi-sau-cat-thuy-phoi-bam-sinh/lesson.md) |
 | Bất đối xứng thành ngực – vẹo sau mổ ngực | Thành ngực – cột sống ngực | Vẹo do mổ ngực (thoracogenic), dính sườn, thiểu sản sườn, pectus, vẹo bẩm sinh/vô căn | **Dính sườn + thiểu sản sườn cùng bên + KHÔNG dị tật đốt sống = do mổ**; Cobb > 10° = vẹo; **cong ngực trái ở trẻ lớn = cờ đỏ → MRI tủy** | [047](../047-veo-cot-song-sau-mo-nguc/lesson.md) |
 | Tràn khí (pneumothorax) | Màng phổi (pleura) | Tự phát (spontaneous), chấn thương (trauma), áp lực (tension) | Đường màng phổi + vô mạch; nằm ngửa tìm deep sulcus | [041](../041-tran-khi-mang-phoi/lesson.md) |
+| **Lồng ngực không đủ thể tích** (TIS) | Thành ngực – cột sống | Jeune, STD/Jarcho–Levin, dính sườn, SMA sườn dù, EOS nặng | **SAL < 90% + T1–T12 thấp hơn tuổi + FVC/AVR giảm = TIS**; Cobb ổn định KHÔNG loại trừ; **gù > 70° → tránh VEPTR** | [048](../048-hoi-chung-long-nguc-khong-du-tis-veptr/lesson.md) |
+| **Nước tiểu trắng như sữa** | Đường niệu – bạch huyết | Dưỡng trấp niệu (sán chỉ, loạn sản mạch bạch huyết, sau mổ), phosphaturia, pyuria, lipiduria | **Chylomicron niệu > 15 mg/dL** = dưỡng trấp; **mức mỡ–dịch trong bàng quang** = gần đặc hiệu; trong lại sau thêm acid = phosphaturia | [076](../076-duong-trap-nieu-chyluria/lesson.md) |
 | Viêm thùy (lobar pneumonia) | Phổi | Phế cầu (pneumococcus), nhồi máu (infarction), xuất huyết | Phế quản hơi + giới hạn rãnh, không mất thể tích | [031](../031-viem-phoi-mau-hinh/lesson.md) |
 | Viêm đa ổ (multifocal) | Phổi | Tụ cầu (staph), gram âm, hít (aspiration), lao | Nốt/đám 2 bên + hang + tree-in-bud | [031](../031-viem-phoi-mau-hinh/lesson.md) |
 | Phù lan tỏa (edema/ARDS) | Phổi | Tim (cardiogenic), ARDS, xuất huyết (DAH), virus | Kerley B + tim to + tan nhanh = phù tim; ngoại vi + tim thường = ARDS | [033](../033-phu-phoi-ards/lesson.md) |
@@ -52,6 +54,8 @@ certainty: tong-hop-y-van
 | Mờ theo trọng lực (đông đặc/kính mờ phân thùy phụ thuộc) | Phổi (đáy-sau, thường phải) | Viêm phổi hít sặc, viêm phổi hóa chất, dị vật đường thở | **Vị trí theo tư thế + bối cảnh rối loạn nuốt/nằm lâu/hôn mê** = hít sặc; mờ hai bên lan tỏa trong vài giờ = hóa chất | [081](../081-sac-va-roi-loan-nuot/lesson.md) |
 
 ## Bài liên quan chéo
+- [048 – Hội chứng lồng ngực không đủ (TIS) & VEPTR: SAL, nong 6 tháng/lần, thời điểm ngừng](../048-hoi-chung-long-nguc-khong-du-tis-veptr/lesson.md) *(mới)*
+- [076 – Dưỡng trấp niệu & rò bạch huyết đường niệu](../076-duong-trap-nieu-chyluria/lesson.md) *(mới — cùng hệ bạch huyết với 078/079)*
 - [081 – Sặc & rối loạn nuốt (VFSS/FEES, viêm phổi hít sặc, sonde dạ dày)](../081-sac-va-roi-loan-nuot/lesson.md) *(mới)*
 - [079 – Tràn dịch dưỡng trấp (chylothorax): TG 110, lymphangiography & bậc thang điều trị](../079-tran-dich-duong-trap-chylothorax/lesson.md) *(mới)*
 - [049 – Theo dõi dài hạn sau cắt thùy phổi bẩm sinh ở trẻ](../049-theo-doi-sau-cat-thuy-phoi-bam-sinh/lesson.md) *(mới)*
