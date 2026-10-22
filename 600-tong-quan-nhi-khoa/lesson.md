@@ -172,6 +172,7 @@ certainty: tong-hop-y-van
 - [692 – Microtia & hẹp/ứ mạc ống tai ngoài (Marx/Nagata, Jahrsdoerfer, atresiaplasty vs BCD)](../692-microtia-atresia-phuc-hoi-thinh-luc/lesson.md) *(đã có)*
 - [659 – Thiểu sản cầu–tiểu não (PCH/PHSD) & loạn dưỡng chất trắng giảm myelin POLR3B (dấu chuồn chuồn, số 8, răng hàm mini)](../659-thieu-san-cau-tieu-nao-pch-polr3b/lesson.md) *(đã có)*
 - [675 – Tư vấn tiền sản & MRI thai hố sau: thiểu sản cầu–tiểu não](../675-tu-van-tien-san-mri-ho-sau/lesson.md) *(đã có)*
+- [677 – Ống dẫn lưu trên xương mu (SPC) ở trẻ: chăm sóc, tắc–sỏi–nhiễm đường hầm & chuyển CIC/Mitrofanoff](../677-cham-soc-ong-dan-luu-tren-xuong-mu-o-tre/lesson.md) *(đã có)*
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) (retinoblastoma vs Coats)
 - [478 – Điếc tiếp âm (ANSD) ở trẻ: ABR mất + CM còn, MRI dây VIII & chọn cấy ốc tai](../478-diec-tiep-am-ansd-tre/lesson.md) *(mới)*
 

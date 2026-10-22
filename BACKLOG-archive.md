@@ -586,3 +586,7 @@
 ## 2026-10-22 (lượt viết 513 + 597)
 - 513 B3 vú: nâng bậc theo Ontario Health 2026 (ADH 7–52,9%; papilloma có atypia 18,7–56,5%; ALH/LCIS 1,7–36%, concordant 0–4%; FEA 0–18,3%; radial scar có atypia 35%); VAB giảm nâng bậc 20% vs 45,2%; ảnh CC BY (Catanzariti 2021, Mihajlovic 2026) + LCIS CC BY-NC-ND.
 - 597 tái phát nách: AR 1–2% (24–48 tháng), gộp 1% sau SLNB âm sau NAC, AMAROS 10 năm 0,93% vs 1,82%, AUS Se 20%; TAD cứu vãn không kém ALND về PFS (21 ca); bẫy "chuỗi hạch có quầng" = di căn mô mềm không vỏ hạch. Thêm 2 khoảng trống: 1616 (K vú thể viêm), 933 (an toàn thuốc cản quang).
+
+## 2026-10-22 — đợt vú + nhi (2 bài)
+- 598 RNI sau ung thư vú (MA.20/EORTC/DBCG-IMN/AMAROS/B-51; 25–27% hạch tái phát ngoài CTV; 5 ảnh CC BY + 1 composite) — #259 xong.
+- 677 SPC ở trẻ (EAN/INUS 2025; 13,4/1.000 tổn thương niệu đạo; ngưỡng cấy; Mitrofanoff) — #261 xong; append gap 1617 (plexopathy do xạ) & 1618 (xạ trên vú tái tạo).

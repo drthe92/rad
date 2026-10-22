@@ -154,6 +154,7 @@ certainty: tong-hop-y-van
 - [596 – Ung thư vú ở nam giới & người chuyển giới: protocol hình ảnh, tầm soát theo nguy cơ & theo dõi](../596-ung-thu-vu-nam-va-nguoi-chuyen-gioi/lesson.md) *(đã có)*
 - [513 – Tổn thương vú nguy cơ cao (B3): ADH, ALH, LCIS, FEA, papilloma & radial scar](../513-ton-thuong-vu-nguy-co-cao/lesson.md) *(đã có)*
 - [597 – Tái phát nách đơn độc sau điều trị bảo tồn & TAD](../597-tai-phat-nach-don-doc-sau-dieu-tri/lesson.md) *(đã có)*
+- [598 – Xạ trị vùng hạch sau ung thư vú (RNI): chỉ định theo thử nghiệm, CTV/atlas, liều–phân liều & biến chứng](../598-xa-tri-vung-hach-sau-ung-thu-vu/lesson.md) *(đã có)*
 - [511 – Đau cơ–khớp do thuốc ức chế aromatase (AIMSS) & sức khỏe xương](../511-aimss-dau-co-khop-do-uc-che-aromatase/lesson.md) *(đã có)*
 - [589 – Sinh thiết hạch gác nách & TAD sau hóa trị tân bổ trợ: clip hạch, dual tracer, OSNA](../589-sinh-thiet-hach-gac-nach-targeted-axillary-dissection/lesson.md) *(đã có)*
 - [515 – Đánh giá đáp ứng vú sau hóa trị tân bổ trợ: MRI/CEM/siêu âm, pCR & phân loại đáp ứng](../515-dap-ung-vu-sau-hoa-tri-tan-bo-tro/lesson.md) *(đã có)*
