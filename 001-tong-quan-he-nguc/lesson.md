@@ -94,6 +94,7 @@ certainty: tong-hop-y-van
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md)
 - [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(mới)*
 - [018 – Chọc hút hạch trung thất dưới hướng dẫn siêu âm (EBUS-TBNA & EUS-B)](../018-EBUS-TBNA-EUS-hach-trung-that/lesson.md) *(mới: lấy mô hạch, giai đoạn N ấn bản 9 N2a/N2b)*
+- [044 – Cryobiopsy trung thất qua EBUS (EBUS-TMC): lấy mô lớn khi TBNA không đủ](../044-cryobiopsy-trung-that-EBUS/lesson.md) *(mới: u lympho, sarcoidosis, u hiếm, molecular)*
 
 ## Quy hoạch toàn diện Hệ Ngực (Master Curriculum 001–080)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -108,6 +109,7 @@ certainty: tong-hop-y-van
 - 016 – Nốt phổi đơn độc ở bệnh nhân có tiền sử ung thư ngoài phổi: di căn đơn độc vs K phổi nguyên phát thứ hai *(đã có — [bài học](../016-not-phoi-tien-su-ung-thu/lesson.md))*
 - 017 – Bạch mạch lan phổi (lymphangitic carcinomatosis) & đường mạch bạch huyết trên HRCT *(đã có — [bài học](../017-bach-mach-lan-phoi/lesson.md))*
 - 018 – Chọc hút hạch trung thất dưới hướng dẫn siêu âm (EBUS-TBNA & EUS-B): trạm nào ngả nào, Canada Lymph Node Score, lấy mẫu & giai đoạn N ấn bản 9 (N2a/N2b) *(đã có — [bài học](../018-EBUS-TBNA-EUS-hach-trung-that/lesson.md))*
+- 044 – Cryobiopsy trung thất qua EBUS (EBUS-TMC): đường hầm, probe 1,1 mm, freeze 3–5 giây, chỉ định lymphoma/sarcoidosis, biến chứng *(đã có — [bài học](../044-cryobiopsy-trung-that-EBUS/lesson.md))*
 
 **02x — Nốt, Khối & Hang**
 - [020 – Nốt phổi đơn độc](../020-not-phoi/lesson.md) *(đã có)*

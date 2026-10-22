@@ -574,36 +574,30 @@
 - 2026-10-22: append 2 khoảng trống mới vào hàng chờ: 188 (hepatic myelopathy sau shunt) + 1612 (granulomatous mastitis/áp-xe vú); check_duplicates exit 0.
 - 2026-10-22: viết 1602 (hemangioma/tổn thương mạch lành vú vs angiosarcoma; 6 ảnh CC BY/BY-NC-ND, 2 composite) + 593 (BCRL: ISL/ICG/MRI; 7 ảnh, 1 composite); selfcheck+lint+mermaid+author PASS.
 - 2026-10-22: append 1613 (PASH) + 1614 (di căn da/thành ngực) — check_duplicates exit 0; cập nhật bảng DDx 500, README, index (thêm tay 2 thẻ).
-
 ## 2026-10-22 — đợt vú (2 bài)
 - 594 hóa dự phòng ung thư vú (3 nguồn CC BY/NC-ND, composite Fig1+2 PMC12209358) + 595 BPE MRI vú (5 nguồn; 4 mức <25/25-50/50-75/>75%, đỉnh quanh mãn kinh).
 - selfcheck+lint+mermaid+author PASS; append gap 511 (AIMSS) & 513 (ADH/ALH/FEA/LCIS).
-
 ## 2026-10-22 — đợt vú (2 bài, tiếp)
 - 596 ung thư vú nam & người chuyển giới (PMC11161189/11717687/13016194/13596940/12689806/11395358; 4 ảnh CC BY-NC/NC-ND, không composite) + 511 AIMSS & xương (PMC11003819/13221566/12180086/8008134/13401549/12702863/12613706; 4 ảnh NC/NC-ND).
 - selfcheck+lint+mermaid+author PASS; append gap 1600 (tiền phẫu GACMS) & 1615 (di căn xương vú).
-
 ## 2026-10-22 (lượt viết 513 + 597)
 - 513 B3 vú: nâng bậc theo Ontario Health 2026 (ADH 7–52,9%; papilloma có atypia 18,7–56,5%; ALH/LCIS 1,7–36%, concordant 0–4%; FEA 0–18,3%; radial scar có atypia 35%); VAB giảm nâng bậc 20% vs 45,2%; ảnh CC BY (Catanzariti 2021, Mihajlovic 2026) + LCIS CC BY-NC-ND.
 - 597 tái phát nách: AR 1–2% (24–48 tháng), gộp 1% sau SLNB âm sau NAC, AMAROS 10 năm 0,93% vs 1,82%, AUS Se 20%; TAD cứu vãn không kém ALND về PFS (21 ca); bẫy "chuỗi hạch có quầng" = di căn mô mềm không vỏ hạch. Thêm 2 khoảng trống: 1616 (K vú thể viêm), 933 (an toàn thuốc cản quang).
-
 ## 2026-10-22 — đợt vú + nhi (2 bài)
 - 598 RNI sau ung thư vú (MA.20/EORTC/DBCG-IMN/AMAROS/B-51; 25–27% hạch tái phát ngoài CTV; 5 ảnh CC BY + 1 composite) — #259 xong.
 - 677 SPC ở trẻ (EAN/INUS 2025; 13,4/1.000 tổn thương niệu đạo; ngưỡng cấy; Mitrofanoff) — #261 xong; append gap 1617 (plexopathy do xạ) & 1618 (xạ trên vú tái tạo).
-
 ## 2026-10-22 — 599 + 678
 - Viết 599 (AWS & phù bạch mạch sau mổ nách) + 678 (cương/sinh sản sau chấn thương khung chậu ở bé trai); ảnh CC BY 2.0/4.0 + CC BY-NC 4.0 (giữ nguyên bản); selfcheck/lint/mermaid/author-check PASS.
 - BACKLOG: flip #260/#262 → xong; thêm 2 khoảng trống 1619 (đau thần kinh sau điều trị vú) & 1681 (di chứng niệu–sinh dục bé gái sau chấn thương khung chậu).
-
 ## 2026-10-22 — 679 + 680
 - Viết 679 (rò niệu đạo–da ở trẻ: VCUG "skip lesion", 16,7% tái phát; ảnh CC BY 4.0 + CC BY-NC-ND) + 680 (u quái cùng cụt: Altman I–IV, ác tính 3,3%→32,9%, AFP theo tuổi; ảnh CC BY 4.0 + CC BY-ND + composite).
 - BACKLOG: flip #264/#263 → xong, đánh dấu #263 ID 675 trùng; thêm 1701 (đường mổ SCT) & 1702 (túi niệu đạo).
-
 ## 2026-10-22 — 1780 + 682
 - Viết 1780 (chọn kỹ thuật tái thông moyamoya ở trẻ: EDAS vs STA–MCA vs EDMS; M4 ≥ 1 mm, STA < 1 mm cắt vát 45°, Matsushima; ảnh CC BY 4.0) + 682 (thalassemia/huyết tán khác: SCI, CVR acetazolamide, T2*/QSM, LIC ≥ 3 mg/g, T2* tim < 20 ms; ảnh CC BY 4.0 + CC BY-NC-ND).
 - BACKLOG: flip #264 (đổi ID 680→1780 vì trùng) và #266 → xong; thêm 1781 (CVST ở trẻ thiếu máu/huyết tán) & 1782 (phình mạch kèm theo sau tái thông moyamoya). 681 để lượt sau (nguồn liều aspirin ở trẻ quá phân tán).
 - 2026-10-22: viết 681 (chống kết tập tiểu cầu sau tái thông moyamoya ở trẻ: aspirin 3–5 mg/kg, kháng aspirin 2,7%, khi nào ngừng) + 683 (tăng TG kháng trị ở trẻ: insulin 0,1 U/kg/h, plasmapheresis, olezarsen/volanesorsen/PCSK9/gene LPL).
-
 ## 2026-10-22 — 684 + 685
 - Viết 684 (tăng TG do asparaginase/pegaspargase ở trẻ ALL: CTCAE v5 150/300/500/1000 mg/dL, nặng 2%/11,1%, PEG 10,5% vs native 5,5%, insulin 0,01 IU/kg/h, plasmapheresis khi TG > 6000, tái dùng khi TG < 1000; ON OR 4,27, CVST 1,4%; ảnh CC BY 4.0 PMC11246614/PMC13634674/PMC8100240) + 685 (theo dõi & ngừng thuốc sau bóc tách cổ ở trẻ: tái thông 70,4% trong 4 tháng, tái phát 4%/7% năm đầu/2% kèm thiếu máu, ngừng thuốc sau 6 tháng, gene CTD 1,1% vs 23,4% khi có tiền sử gia đình; ảnh CC BY 4.0 PMC13636090/PMC12282257).
 - BACKLOG: flip #268 (684) & #269 (685) → xong; thêm 850 (FMD toàn thân) & 695 (hoại tử xương ở trẻ ALL). Lưu ý: PMC13636090 không có authorString trên Europe PMC → ghi "Eur Stroke J 2026 (PMC13636090)" không kèm tên tác giả.
+- 2026-10-22: viết 413 (PFV/PHPV) + 044 (EBUS cryobiopsy trung thất), PASS selfcheck/lint/mermaid/author; index + README + tổng quan 400/001 cập nhật.
+- Ghi chú: BACKLOG có 2 mục trùng ID cũ (468 DUSN, 469 toxo theo dõi) — đã đánh dấu cần đổi ID.

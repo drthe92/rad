@@ -15,6 +15,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 012 | [Hạch IASLC](012-hach-trung-that/lesson.md) | `pattern:hach` `vung:trung-that` `score:IASLC` `protocol:PET-CT-nguc` |
 | 013 | [Hạch nội phổi (trạm 11–14) & nốt cạnh rãnh](013-hach-noi-phoi/lesson.md) | `pattern:hach` `pattern:not` `vung:phoi` `vung:ron-phoi` `score:IASLC` `score:Lung-RADS` `protocol:CT-nguc-lat-mong` `incidentaloma:not-canh-ranh` |
 | 018 | [Chọc hút hạch trung thất dưới hướng dẫn siêu âm (EBUS-TBNA & EUS-B)](018-EBUS-TBNA-EUS-hach-trung-that/lesson.md) | `pattern:hach` `vung:trung-that` `score:IASLC` `score:CLNS` `protocol:EBUS-TBNA` `protocol:EUS-B` `incidentaloma:hach-trung-that` |
+| 044 | [Cryobiopsy trung thất qua EBUS (EBUS-TMC): lấy mô lớn khi TBNA không đủ](044-cryobiopsy-trung-that-EBUS/lesson.md) | `pattern:hach-trung-that` `vung:trung-that` `protocol:EBUS-TBNA` `protocol:cryobiopsy` `protocol:ROSE` `score:EBUS-station-map` |
 | 016 | [Nốt phổi ở BN có tiền sử ung thư ngoài phổi: di căn đơn độc vs K phổi nguyên phát thứ hai](016-not-phoi-tien-su-ung-thu/lesson.md) | `pattern:not` `pattern:not-co-tien-su-ung-thu` `vung:phoi` `score:Lung-RADS` `protocol:PET-CT-nguc` `incidentaloma:not-tien-su-ung-thu` |
 | 017 | [Bạch mạch lan phổi (lymphangitic carcinomatosis) & vách liên tiểu thùy](017-bach-mach-lan-phoi/lesson.md) | `pattern:day-vach-lien-tieu-thuy` `pattern:bach-mach` `vung:phoi` `protocol:HRCT` `incidentaloma:day-vach` |
 | 011 | [Tiểu thùy thứ cấp](011-tieu-thuy-phoi/lesson.md) | `pattern:vi-cau-truc` `vung:phoi` `anatomy:phoi` |
@@ -63,6 +64,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 410 | [Giải phẫu hốc mắt](410-giai-phau-hoc-mat/lesson.md) | `anatomy:hoc-mat` |
 | 420 | [Vỡ sàn & khoang](420-vo-san-hoc-mat/lesson.md) | `pattern:vo-xuong` `vung:hoc-mat` |
 | 412 | [U trong nhãn cầu: RB vs melanoma/Coats/PHPV](412-u-trong-nhan-cau/lesson.md) | `pattern:voi-hoa` `pattern:khoi-noi-nhan-cau` `pattern:leukocoria` `vung:nhan-cau` `score:Shields` `score:TFSOM` `protocol:MRI-hoc-mat` `protocol:sieu-am-B-scan` |
+| 413 | [PFV/PHPV (tồn tại tuần hoàn bào thai): dây xơ dịch kính + nhãn cầu nhỏ](413-PFV-PHPV-day-xo-the-thuy-tinh/lesson.md) | `pattern:leukocoria` `pattern:day-xo-dich-kinh` `pattern:nhan-cau-nho` `vung:nhan-cau` `vung:tre-em` `protocol:B-scan` `protocol:UBM` `protocol:Doppler-mau` `protocol:MRI-hoc-mat` |
 | 422 | [Giả u viêm](422-viem-gia-u/lesson.md) | `pattern:viem-hoc-mat` |
 | 423 | [Fistula xoang hang](423-fistula-xoang-hang/lesson.md) | `pattern:mach-xoang-hang` |
 | 424 | [Tuyến lệ](424-tuyen-le/lesson.md) | `pattern:tuyen-le` |
