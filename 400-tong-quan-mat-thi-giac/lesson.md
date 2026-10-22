@@ -135,6 +135,7 @@ certainty: tong-hop-y-van
 - [491 – Theo dõi & tái phát PVRL: tái phát nội nhãn, tiến triển CNS, lịch MRI 4–6 tháng](../491-pvrl-theo-doi-tai-phat/lesson.md) *(mới)*
 - [492 – Sinh thiết hắc–võng mạc & quy trình lấy mẫu dịch kính: kỹ thuật, xử lý mẫu, độ nhạy](../492-sinh-thiet-hac-vong-mac-dich-kinh/lesson.md) *(mới)*
 - [472 – Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, tái mổ & cạm bẫy giả lác ngoài](../472-phau-thuat-lac-tre-sinh-non-rop/lesson.md) *(mới)*
+- [477 – Bệnh ty thể có biểu hiện thị giác & tai: MELAS, MIDD, POLG, PHARC](../477-benh-ty-the-thi-giac-tai/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.

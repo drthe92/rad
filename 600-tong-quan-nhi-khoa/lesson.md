@@ -172,6 +172,7 @@ certainty: tong-hop-y-van
 - [659 – Thiểu sản cầu–tiểu não (PCH/PHSD) & loạn dưỡng chất trắng giảm myelin POLR3B (dấu chuồn chuồn, số 8, răng hàm mini)](../659-thieu-san-cau-tieu-nao-pch-polr3b/lesson.md) *(đã có)*
 - [675 – Tư vấn tiền sản & MRI thai hố sau: thiểu sản cầu–tiểu não](../675-tu-van-tien-san-mri-ho-sau/lesson.md) *(đã có)*
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) (retinoblastoma vs Coats)
+- [478 – Điếc tiếp âm (ANSD) ở trẻ: ABR mất + CM còn, MRI dây VIII & chọn cấy ốc tai](../478-diec-tiep-am-ansd-tre/lesson.md) *(mới)*
 
 ## Quy hoạch Master Curriculum Hệ Nhi khoa (600–670)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số. Nối chéo bài `450` Mắt nhi.
