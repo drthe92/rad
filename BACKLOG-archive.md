@@ -542,3 +542,4 @@
 
 - 2026-10-22: xong **481** (CRA sau voretigene 3–6 tháng, 5,74→12,74 mm²/4 năm; IOI vector 79% ≤2 năm; endophthalmitis 0,013–0,061%, 1–7 ngày) + **240** (Hannover T1–T4b; SRS 12–13 Gy <30 mm, kiểm soát 98,1%, TVE 95,3%; mổ Koos IV GTR 73,5%, HB I–II 58,7%).
 - Append hàng chờ: **204** (hoại tử phóng xạ vs tái phát: PET acid amin/DSC) + **485** (biến chứng mạn anti-VEGF: IOP kéo dài/teo/tắc mạch) — qua check_duplicates; index 397 thẻ.
+2026-10-22: viết 241 (HR-vwMRI đồng tâm/lệch tâm, 4 ảnh CC BY/NC-ND) + 242 (PACNS duy trì, 3 ảnh CC BY); selfcheck+lint+mermaid+author PASS.

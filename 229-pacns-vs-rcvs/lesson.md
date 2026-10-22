@@ -189,6 +189,8 @@ flowchart TD
 - [211 – Đột quỵ thiếu máu não cấp](../211-dot-quy-nao/lesson.md) (phân biệt nhồi máu nhiều lãnh thổ)
 - [215 – Bệnh lý mất myelin (MS/NMOSD)](../215-mat-myelin/lesson.md)
 - [436 – Takayasu vs GCA: viêm mạch lớn](../436-takayasu-vs-gca/lesson.md)
+- [241 – Đọc HR-vwMRI thành mạch nội sọ: đồng tâm vs lệch tâm](../241-hr-vwmri-doc-ngam-thanh-mach/lesson.md) (kỹ thuật + bẫy đọc)
+- [242 – PACNS: điều trị duy trì, theo dõi tái phát & ngừng thuốc](../242-pacns-duy-tri-theo-doi/lesson.md) (chuyện sau chẩn đoán)
 
 ## Ảnh
 - `images/229_pacns-HRvWI_MRI_PMC13517854-Fig4-CCBY.jpg` — PACNS: ngấm đồng tâm thành mạch, trước/sau điều trị (CC BY 4.0).
