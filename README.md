@@ -190,6 +190,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 178 | [Di căn xương RCC & biến chứng cơ học: chèn ép tủy, gãy xương bệnh lý](178-di-can-xuong-RCC-bien-chung-co-hoc/lesson.md) | `pattern:di-can-xuong` `pattern:tieu-xuong` `pattern:chen-ep-tuy` `vung:xuong` `vung:cot-song` `score:Mirels` `score:SINS` `score:Bilsky` `protocol:MRI-cot-song` `protocol:SBRT` `incidentaloma:di-can-xuong` |
 | 174 | [Giun đũa đường mật: dấu "bốn đường", ống mật giả tắc & khi nào can thiệp](174-giun-duc-duong-mat/lesson.md) | `pattern:khuyet-long` `vung:duong-mat` `anatomy:ong-mat-chu` `protocol:MRCP` `protocol:ERCP` |
 | 179 | [Hoại tử ống mật & cholangiopathy thiếu máu sau TACE/TARE/RFA: ống mật "giả giãn" & biloma](179-bien-chung-duong-mat-sau-can-thiep-u-gan/lesson.md) | `pattern:ong-giam-ty-trong` `pattern:biloma` `vung:gan` `vung:duong-mat` `protocol:CT-MRI-dong-hoc` `protocol:MRCP` |
+| 181 | [BRTO/RTO cho giãn tĩnh mạch dạ dày: nhánh thoát Kiyosue, Hirota, PARTO/CARTO](181-brto-thuyen-tac-nguoc-tm-than-trai-gian-tm-da-day/lesson.md) | `pattern:gian-tinh-mach` `vung:da-day` `vung:mach-cua` `score:Kiyosue` `protocol:DSA-BRTV` |
+| 182 | [Biến chứng SỚM sau TIPS: thủng bao gan, hemobilia, endotipsitis, suy tim cung lượng cao](182-bien-chung-som-sau-tips/lesson.md) | `pattern:bien-chung-can-thiep` `vung:gan` `vung:duong-mat` `protocol:CT-3-thi` `protocol:ERCP` |
 | 149 | [Tăng áp cửa KHÔNG do xơ gan: PSVD/NCPF, sán máng & ba tầng tắc nghẽn](149-tang-ap-cua-khong-xo-gan/lesson.md) | `pattern:tang-ap-cua` `vung:gan` `vung:bung` `score:PSVD-2026` `protocol:MRI-gan-HBP` `protocol:Doppler-cua` |
 
 ## Hệ Thần kinh (dải 200, đang khởi tạo)
