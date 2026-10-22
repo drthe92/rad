@@ -19,6 +19,8 @@ button{cursor:pointer}
 .iconbtn{border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:8px;padding:0 12px;font-size:16px}
 .syncmsg{font-size:12px;color:var(--muted)}
 .tabs,.chips{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}
+#chips{display:none}
+#chips.show{display:flex}
 .tab,.chip{border:1px solid var(--line);background:var(--card);color:var(--fg);padding:6px 10px;border-radius:20px;font-size:13px}
 .tab.on,.chip.on{background:var(--accent);color:#fff;border-color:var(--accent)}
 .row{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0;align-items:center}
@@ -52,6 +54,17 @@ footer{margin-top:24px;font-size:13px;color:var(--muted)}
 <header class="sticky">
 <h1>rad.matcauvong.com — Thư viện Chẩn đoán hình ảnh thực chiến</h1>
 <p class="sub">Hub tra cứu 4 chiều (407 bài): (1) Mẫu hình + Vị trí · (2) Phân độ &amp; điểm · (3) Giải phẫu &amp; biến thể · (4) Protocol &amp; tình cờ. Việt hóa 100% — thuật ngữ Anh trong ngoặc ở lần đầu.</p>
+<div class="row">
+<select id="fChieu"><option value="">— Lọc chiều 1–4 —</option><option value="pattern">1. Mẫu hình+Vị trí</option><option value="score">2. Phân độ &amp; điểm</option><option value="anatomy">3. Giải phẫu &amp; biến thể</option><option value="protocol">4. Protocol &amp; tình cờ</option></select>
+<select id="fLearn" title="Lọc theo tiến độ học — tick ✓ trên mỗi thẻ để đánh dấu"><option value="">🎓 Tiến độ: tất cả</option><option value="no">📖 Chưa học</option><option value="yes">✅ Đã học</option></select>
+<select id="fOverview" title="Nhảy nhanh tới bài tổng quan của từng hệ"><option value="">📚 Bài tổng quan hệ (10)</option><option value="view.html?b=001-tong-quan-he-nguc&f=lesson.md">001 · Hệ Ngực</option><option value="view.html?b=100-tong-quan-he-bung&f=lesson.md">100 · Hệ Bụng</option><option value="view.html?b=200-tong-quan-he-than-kinh&f=lesson.md">200 · Hệ Thần kinh</option><option value="view.html?b=300-tong-quan-he-co-xuong-khop&f=lesson.md">300 · Hệ Cơ – Xương – Khớp</option><option value="view.html?b=400-tong-quan-mat-thi-giac&f=lesson.md">400 · Mắt &amp; thị giác</option><option value="view.html?b=500-tong-quan-vu-san-phu-khoa&f=lesson.md">500 · Hệ Vú &amp; Sản Phụ khoa</option><option value="view.html?b=600-tong-quan-nhi-khoa&f=lesson.md">600 · Hệ Nhi khoa</option><option value="view.html?b=700-head-neck-overview&f=lesson.md">700 · Đầu Mặt Cổ &amp; mạc cổ sâu</option><option value="view.html?b=800-cardiovascular-overview&f=lesson.md">800 · Tim mạch</option><option value="view.html?b=901-ir-overview&f=lesson.md">901 · Điện quang Can thiệp</option></select>
+<button class="iconbtn" id="reset">✖ Xóa lọc</button>
+<button class="iconbtn" id="expLearn" title="Xuất tiến độ đã học dạng base64 để dùng ở trình duyệt khác">⤓ Xuất</button>
+<button class="iconbtn" id="impLearn" title="Nhập tiến độ đã học (base64) — hợp nhất với hiện tại">⤒ Nhập</button>
+<button class="iconbtn" id="clearLearn" title="Xóa toàn bộ đánh dấu đã học">🗑 Xóa</button>
+<span id="syncMsg" class="syncmsg"></span>
+<span id="count"></span> <span id="progress"></span>
+</div>
 <div class="searchrow">
 <input id="q" placeholder="Tìm tức thì: số ID, tên Việt/Anh, tag… (vd: 230, TI-RADS, Bosniak, nốt phổi)" autocomplete="off">
 <button class="iconbtn" id="theme" title="Chế độ Sáng/Tối">🌓</button>
@@ -268,17 +281,7 @@ footer{margin-top:24px;font-size:13px;color:var(--muted)}
 <button class="chip extra" data-score="spirometry-z">spirometry-z</button>
 <button class="chip extra" data-score="tegmento-vermian-angle">tegmento-vermian-angle</button>
 <button class="chip extra" data-score="ventriculomegaly">ventriculomegaly</button></div>
-<div class="row">
-<select id="fChieu"><option value="">— Lọc chiều 1–4 —</option><option value="pattern">1. Mẫu hình+Vị trí</option><option value="score">2. Phân độ &amp; điểm</option><option value="anatomy">3. Giải phẫu &amp; biến thể</option><option value="protocol">4. Protocol &amp; tình cờ</option></select>
-<select id="fLearn" title="Lọc theo tiến độ học — tick ✓ trên mỗi thẻ để đánh dấu"><option value="">🎓 Tiến độ: tất cả</option><option value="no">📖 Chưa học</option><option value="yes">✅ Đã học</option></select>
-<select id="fOverview" title="Nhảy nhanh tới bài tổng quan của từng hệ"><option value="">📚 Bài tổng quan hệ (10)</option><option value="view.html?b=001-tong-quan-he-nguc&f=lesson.md">001 · Hệ Ngực</option><option value="view.html?b=100-tong-quan-he-bung&f=lesson.md">100 · Hệ Bụng</option><option value="view.html?b=200-tong-quan-he-than-kinh&f=lesson.md">200 · Hệ Thần kinh</option><option value="view.html?b=300-tong-quan-he-co-xuong-khop&f=lesson.md">300 · Hệ Cơ – Xương – Khớp</option><option value="view.html?b=400-tong-quan-mat-thi-giac&f=lesson.md">400 · Mắt &amp; thị giác</option><option value="view.html?b=500-tong-quan-vu-san-phu-khoa&f=lesson.md">500 · Hệ Vú &amp; Sản Phụ khoa</option><option value="view.html?b=600-tong-quan-nhi-khoa&f=lesson.md">600 · Hệ Nhi khoa</option><option value="view.html?b=700-head-neck-overview&f=lesson.md">700 · Đầu Mặt Cổ &amp; mạc cổ sâu</option><option value="view.html?b=800-cardiovascular-overview&f=lesson.md">800 · Tim mạch</option><option value="view.html?b=901-ir-overview&f=lesson.md">901 · Điện quang Can thiệp</option></select>
-<button class="iconbtn" id="reset">✖ Xóa lọc</button>
-<button class="iconbtn" id="expLearn" title="Xuất tiến độ đã học dạng base64 để dùng ở trình duyệt khác">⤓ Xuất</button>
-<button class="iconbtn" id="impLearn" title="Nhập tiến độ đã học (base64) — hợp nhất với hiện tại">⤒ Nhập</button>
-<button class="iconbtn" id="clearLearn" title="Xóa toàn bộ đánh dấu đã học">🗑 Xóa</button>
-<span id="syncMsg" class="syncmsg"></span>
-<span id="count"></span> <span id="progress"></span>
-</div>
+<div id="chipsHint" class="syncmsg" style="margin:-2px 0 8px">Chọn một chuyên mục ở trên để hiện các thẻ phân độ (RADS/score) liên quan.</div>
 <div class="grid" id="grid">
 <div class="card" data-id="001" data-spec="nguc" data-scores="" data-cert="tong-hop-y-van" data-tags="tong-quan" data-search="001 001 — Tổng quan hệ Ngực / Chest overview tong-quan 001-tong-quan-he-nguc"><a href="view.html?b=001-tong-quan-he-nguc&f=lesson.md"><img loading="lazy" src="001-tong-quan-he-nguc/images/composite_dongdac-vs-xep.jpg" alt="001 — Tổng quan hệ Ngực / Chest overview"></a><div class="cid">001 · NGUC</div><a class="ctitle" href="view.html?b=001-tong-quan-he-nguc&f=lesson.md">001 — Tổng quan hệ Ngực / Chest overview</a><br><span class="tag">tong-quan</span><span class="cert">Tổng hợp y văn</span><p>📚 Bài tổng quan hệ: bảng DDx bắt buộc + bài liên quan chéo.</p><a href="view.html?b=001-tong-quan-he-nguc&f=lesson.md">Bài học</a> · <a href="view.html?b=001-tong-quan-he-nguc&f=sources.md" target="_blank" rel="noopener">Nguồn</a> <button class="learn" data-learn="001" title="Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)">✓ Đã học</button></div>
 <div class="card" data-id="010" data-spec="nguc" data-scores="" data-cert="tong-hop-y-van" data-tags="pattern:binh-thuong vung:nguc anatomy:nguc" data-search="010 010 — Giải phẫu ngực cắt lớp &amp; biến thể / Cross-sectional chest anatomy pattern:binh-thuong vung:nguc anatomy:nguc 010-giai-phau-nguc-cat-lop"><a href="view.html?b=010-giai-phau-nguc-cat-lop&f=lesson.md"><img loading="lazy" src="010-giai-phau-nguc-cat-lop/images/010_binhthuong_XR_Wikimedia-Ptrump-CCBYSA40.jpg" alt="X-quang ngực bình thường"></a><div class="cid">010 · NGUC</div><a class="ctitle" href="view.html?b=010-giai-phau-nguc-cat-lop&f=lesson.md">010 — Giải phẫu ngực cắt lớp &amp; biến thể / Cross-sectional chest anatomy</a><br><span class="tag">pattern:binh-thuong</span> <span class="tag">vung:nguc</span> <span class="tag">anatomy:nguc</span><span class="cert">Tổng hợp y văn</span><p>Biến thể bình thường (normal variant) + cạm bẫy (pitfall).</p><a href="view.html?b=010-giai-phau-nguc-cat-lop&f=lesson.md">Bài học</a> · <a href="view.html?b=010-giai-phau-nguc-cat-lop&f=sources.md" target="_blank" rel="noopener">Nguồn</a> <button class="learn" data-learn="010" title="Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)">✓ Đã học</button></div>
@@ -761,6 +764,24 @@ function clearLearn(){
   learned = {}; saveLearned(); applyAllLearn();
   syncNote("Đã xóa toàn bộ đánh dấu.");
 }
+var chipsBox = document.getElementById("chips"), chipsHint = document.getElementById("chipsHint");
+function refreshChips(){
+  if (!spec) { chipsBox.classList.remove("show"); if (chipsHint) chipsHint.style.display = ""; return; }
+  if (chipsHint) chipsHint.style.display = "none";
+  chipsBox.classList.add("show");
+  var allowed = {};
+  cards.forEach(function(c){
+    if (c.dataset.spec !== spec) return;
+    (c.dataset.scores || "").split(/\s+/).forEach(function(s){ if (s) allowed[s] = 1; });
+  });
+  Array.prototype.forEach.call(chipsBox.children, function(ch){
+    var sc = ch.dataset.score;
+    if (!sc) { ch.style.display = ""; return; }
+    var ok = !!allowed[sc];
+    ch.style.display = ok ? "" : "none";
+    if (!ok) ch.classList.remove("on");
+  });
+}
 function filt(){
   var s = norm(q.value.trim()), n = 0;
   cards.forEach(function(c){
@@ -781,7 +802,10 @@ q.addEventListener("input", filt);
 document.getElementById("tabs").addEventListener("click", function(e){
   var b = e.target.closest(".tab"); if(!b) return;
   spec = b.dataset.spec;
+  score = "";
   Array.prototype.forEach.call(this.children, function(x){ x.classList.toggle("on", x === b); });
+  var cs = chipsBox.children; for (var i=0;i<cs.length;i++) cs[i].classList.toggle("on", i===0);
+  refreshChips();
   filt();
 });
 document.getElementById("chips").addEventListener("click", function(e){
@@ -807,6 +831,7 @@ document.getElementById("reset").addEventListener("click", function(){
   document.getElementById("fLearn").value = "";
   var t = document.getElementById("tabs").children; for (var i=0;i<t.length;i++) t[i].classList.toggle("on", i===0);
   var c = document.getElementById("chips").children; for (var j=0;j<c.length;j++) c[j].classList.toggle("on", j===0);
+  refreshChips();
   filt(); q.focus();
 });
 document.getElementById("expLearn").addEventListener("click", exportLearn);
@@ -845,6 +870,7 @@ document.getElementById("theme").addEventListener("click", function(){
 });
 cards.forEach(applyLearn);
 updateProgress();
+refreshChips();
 filt();
 </script>
 </body>
