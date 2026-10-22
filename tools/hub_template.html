@@ -17,6 +17,7 @@ h1{font-size:20px;margin:0}
 #q{flex:1;padding:10px;font-size:15px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg)}
 button{cursor:pointer}
 .iconbtn{border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:8px;padding:0 12px;font-size:16px}
+.syncmsg{font-size:12px;color:var(--muted)}
 .tabs,.chips{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}
 .tab,.chip{border:1px solid var(--line);background:var(--card);color:var(--fg);padding:6px 10px;border-radius:20px;font-size:13px}
 .tab.on,.chip.on{background:var(--accent);color:#fff;border-color:var(--accent)}
@@ -64,6 +65,10 @@ footer{margin-top:24px;font-size:13px;color:var(--muted)}
 <select id="fLearn" title="Lọc theo tiến độ học — tick ✓ trên mỗi thẻ để đánh dấu"><option value="">🎓 Tiến độ: tất cả</option><option value="no">📖 Chưa học</option><option value="yes">✅ Đã học</option></select>
 __OVSELECT__
 <button class="iconbtn" id="reset">✖ Xóa lọc</button>
+<button class="iconbtn" id="expLearn" title="Xuất tiến độ đã học dạng base64 để dùng ở trình duyệt khác">⤓ Xuất</button>
+<button class="iconbtn" id="impLearn" title="Nhập tiến độ đã học (base64) — hợp nhất với hiện tại">⤒ Nhập</button>
+<button class="iconbtn" id="clearLearn" title="Xóa toàn bộ đánh dấu đã học">🗑 Xóa</button>
+<span id="syncMsg" class="syncmsg"></span>
 <span id="count"></span> <span id="progress"></span>
 </div>
 <div class="grid" id="grid">
@@ -97,6 +102,50 @@ function toggleLearn(id){
   if (learned[id]) delete learned[id]; else learned[id] = 1;
   saveLearned(); cards.forEach(applyLearn); updateProgress();
   filt(); // đang lọc "chưa học" → bài vừa tick tự ẩn
+}
+// ── Xuất / Nhập / Xóa tiến độ (đồng bộ thủ công giữa các trình duyệt) ──
+var syncMsg = document.getElementById("syncMsg"), syncTimer;
+function syncNote(t){
+  if (!syncMsg) return;
+  syncMsg.textContent = t;
+  clearTimeout(syncTimer);
+  syncTimer = setTimeout(function(){ syncMsg.textContent = ""; }, 7000);
+}
+function applyAllLearn(){
+  cards.forEach(applyLearn); updateProgress(); filt();
+}
+function exportLearn(){
+  var ids = Object.keys(learned).filter(function(k){ return learned[k]; })
+              .sort(function(a,b){ return (+a) - (+b); });
+  if (!ids.length) { syncNote("Chưa có bài nào được đánh dấu."); return; }
+  var code = "RAD1." + btoa(ids.join(","));
+  var ok = function(){ syncNote("Đã copy mã (" + ids.length + " bài) — dán ở trình duyệt khác."); };
+  var manual = function(){ window.prompt("Sao chép mã tiến độ:", code); };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(code).then(ok, manual);
+  } else { manual(); }
+}
+function importLearn(){
+  var raw = window.prompt("Dán mã tiến độ (dạng RAD1....):");
+  if (!raw) return;
+  raw = raw.trim().replace(/^RAD1[.:]?/i, "").replace(/\s+/g, "");
+  var ids;
+  try { ids = atob(raw).split(","); } catch (e) { window.alert("Mã không hợp lệ (không giải mã được base64)."); return; }
+  var add = 0;
+  ids.forEach(function(id){
+    id = (id || "").trim();
+    if (/^\d{3,4}$/.test(id) && !learned[id]) { learned[id] = 1; add++; }
+  });
+  if (!add) { syncNote("Không có bài mới để thêm (đã có đủ hoặc mã rỗng)."); return; }
+  saveLearned(); applyAllLearn();
+  syncNote("Đã nhập +" + add + " bài — tổng " + Object.keys(learned).filter(function(k){return learned[k];}).length + ".");
+}
+function clearLearn(){
+  var n = Object.keys(learned).filter(function(k){ return learned[k]; }).length;
+  if (!n) { syncNote("Không có đánh dấu nào để xóa."); return; }
+  if (!window.confirm("Xóa TOÀN BỘ " + n + " đánh dấu đã học?\nKhông hoàn tác được (nên Xuất trước nếu muốn giữ).")) return;
+  learned = {}; saveLearned(); applyAllLearn();
+  syncNote("Đã xóa toàn bộ đánh dấu.");
 }
 function filt(){
   var s = norm(q.value.trim()), n = 0;
@@ -146,6 +195,9 @@ document.getElementById("reset").addEventListener("click", function(){
   var c = document.getElementById("chips").children; for (var j=0;j<c.length;j++) c[j].classList.toggle("on", j===0);
   filt(); q.focus();
 });
+document.getElementById("expLearn").addEventListener("click", exportLearn);
+document.getElementById("impLearn").addEventListener("click", importLearn);
+document.getElementById("clearLearn").addEventListener("click", clearLearn);
 function buildTable(){
   var h = '<table class="tview"><tr><th>ID</th><th>Bài học</th><th>Tags</th><th>Chắc chắn</th><th>Tiến độ</th><th>Link</th></tr>';
   cards.forEach(function(c){

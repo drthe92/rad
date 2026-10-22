@@ -548,3 +548,7 @@
 ## Nhật ký 2026-10-22 (lượt 676 + 149)
 - Viết **676** (RCVS trẻ em: bậc điều trị, IA rescue, corticoid làm nặng) — 6 ảnh CC BY/BY-NC-ND, quiz 5 ca.
 - Viết **149** (tăng áp cửa không xơ gan: PSVD theo đồng thuận 2026, sán máng, HVPG giả bình thường) — ID 128 đã dùng nên chuyển 149. Lint/selfcheck/author-check PASS, đã push.
+
+## Nhật ký 2026-10-22 (lượt 239 + 243)
+- Viết **239** (co thắt mạch não sau TBI ở trẻ; dùng khe trống 239 thay ID tạm 1701 để hub/lint 3 số vẫn chạy) + **243** (sán máng thần kinh; thay 1702) — 5 + 5 ảnh CC BY/BY-NC-ND, quiz 3 ca mỗi bài; selfcheck+lint+mermaid+author PASS.
+- Port khối "Xuất/Nhập/Xóa tiến độ" vào `tools/hub_template.html` (trước đó chỉ có trong index.html nên `build_index.py` xóa mất); BACKLOG thêm 244 (lao nội tủy) + 249 (giãn tủy sau chấn thương).
