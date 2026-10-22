@@ -76,6 +76,8 @@ certainty: tong-hop-y-van
 - [239 – Co thắt mạch não sau chấn thương sọ não ở trẻ: TCD, Lindegaard, CTA hồi phục](../239-co-that-mach-nao-sau-chan-thuong-so-nao-o-tre/lesson.md) *(đã có)*
 - [243 – Sán máng thần kinh: tủy ngực dưới/nón tủy & thể não giả u](../243-san-mang-than-kinh/lesson.md) *(đã có)*
 - [676 – RCVS ở trẻ em: bậc điều trị & theo dõi](../676-rcvs-tre-em-dieu-tri/lesson.md) *(đã có)*
+- [682 – Bệnh mạch máu não & quá tải sắt ở thalassemia/huyết tán khác: SCI, CVR (acetazolamide), T2*/QSM cho sắt đa cơ quan](../682-benh-mach-nao-qua-tai-sat-thalassemia/lesson.md) *(đã có)*
+- [1780 – Chọn kỹ thuật tái thông moyamoya ở trẻ: EDAS/EDAMS vs STA–MCA vs EDMS](../1780-chon-ky-thuat-tai-thong-moyamoya-o-tre/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Hệ Thần kinh (200–249)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số. Giữ nguyên 100% ID `211, 212, 213` đã tạo.

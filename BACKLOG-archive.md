@@ -598,3 +598,7 @@
 ## 2026-10-22 — 679 + 680
 - Viết 679 (rò niệu đạo–da ở trẻ: VCUG "skip lesion", 16,7% tái phát; ảnh CC BY 4.0 + CC BY-NC-ND) + 680 (u quái cùng cụt: Altman I–IV, ác tính 3,3%→32,9%, AFP theo tuổi; ảnh CC BY 4.0 + CC BY-ND + composite).
 - BACKLOG: flip #264/#263 → xong, đánh dấu #263 ID 675 trùng; thêm 1701 (đường mổ SCT) & 1702 (túi niệu đạo).
+
+## 2026-10-22 — 1780 + 682
+- Viết 1780 (chọn kỹ thuật tái thông moyamoya ở trẻ: EDAS vs STA–MCA vs EDMS; M4 ≥ 1 mm, STA < 1 mm cắt vát 45°, Matsushima; ảnh CC BY 4.0) + 682 (thalassemia/huyết tán khác: SCI, CVR acetazolamide, T2*/QSM, LIC ≥ 3 mg/g, T2* tim < 20 ms; ảnh CC BY 4.0 + CC BY-NC-ND).
+- BACKLOG: flip #264 (đổi ID 680→1780 vì trùng) và #266 → xong; thêm 1781 (CVST ở trẻ thiếu máu/huyết tán) & 1782 (phình mạch kèm theo sau tái thông moyamoya). 681 để lượt sau (nguồn liều aspirin ở trẻ quá phân tán).
