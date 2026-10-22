@@ -60,6 +60,9 @@ certainty: tong-hop-y-van
 ![Bắt chước viêm mạch trên HR-vwMRI: xơ vữa lệch tâm, vasa vasorum, sau lấy huyết khối, RCVS không ngấm](images/241_hr-vwmri_xovua_MRI_PMC10712448-Fig2-CCBY.jpg)
 *Các "bẫy" của HR-vwMRI: (A–B) **xơ vữa M2 lệch tâm** trước/sau gadolinium; (C) **ngấm vasa vasorum** đoạn V4 gần; (D–G) sau **lấy huyết khối**: khuyết đầy do dòng chảy (D) nhưng TOF thông (E), CTA tắc M1 xa (F), **ngấm chu vi do can thiệp** (G); (H–I) **RCVS**: hẹp đa ổ trên CTA (H) nhưng **KHÔNG ngấm** trên HR-vwMRI (I). Nguồn: Junek M et al., Rheumatol Adv Pract 2023 (PMC10712448), CC BY 4.0.*
 
+![Đối chiếu: ngấm đồng tâm do viêm vs lệch tâm/không ngấm do bắt chước](images/composite_241_dong-tam-vs-lech-tam.jpg)
+*Ảnh ghép letterbox giữ nguyên tỷ lệ: **trái** — viêm mạch TKTW, ngấm **ĐỒNG TÂM** đều cả chu vi; **phải** — các bắt chước: xơ vữa **LỆCH TÂM**, vasa vasorum, ngấm sau lấy huyết khối, RCVS **KHÔNG ngấm**. Nguồn: Junek M et al., Rheumatol Adv Pract 2023 (PMC10712448), Hình 1 và 2 — CC BY 4.0; ghép bằng `tools/make_composite.py`.*
+
 ## 4. Protocol chụp + thang điểm & thuật toán đọc
 
 - **Máy & chuỗi:** **3T** + cuộn đầu; **3D T1 SPACE fat-sat black-blood TRƯỚC và SAU gadolinium với thông số y hệt**; không trừ ảnh (so khớp trực tiếp trước/sau); phủ toàn não; voxel mục tiêu **0,4 × 0,4 × 2,0 mm** (ASNR VWISG); 2D bổ trợ khi cần độ phân giải trong mặt phẳng **0,25–0,5 mm** cho một đoạn ngắn.

@@ -88,6 +88,7 @@ templates/
   sources-template.md
 tools/
   make_composite.py   # Pillow: ghép lưới + dải đen attribution (chạy local)
+  ensure_deps.py      # tải Pillow wheel từ PyPI, giải nén vào user site (không cần pip/root)
   selfcheck.py        # cổng cấu trúc/link/ảnh bài học
   lint_repo.py        # lint frontmatter/6 mục/bảng/ảnh
   check_credits_authors.py  # đối chiếu tên tác giả vs PMCID (Europe PMC)

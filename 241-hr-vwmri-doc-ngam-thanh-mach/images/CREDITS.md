@@ -7,8 +7,10 @@
 | `241_hr-vwmri_laohoa_MRI_PMC10552670-Fig1-CCBYNCND.jpg` | Ngấm thành mạch **do lão hoá**: nữ 71 tuổi, CTA không hẹp (a), 3D-T1 trước tiêm không tín hiệu thành (b), sau tiêm ngấm hai ĐM đốt sống liên tục từ ngoài sọ (c) — biến thể bình thường/vasa vasorum. — Gomyo M et al., Magn Reson Med Sci 2023, Hình 1 | Europe PMC / PMC10552670 | CC BY-NC-ND 4.0 (giữ nguyên bản) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10552670/ |
 | `241_hr-vwmri_saucorticoid_MRI_PMC10552670-Fig4-CCBYNCND.jpg` | Nữ 62 tuổi, hẹp nặng tận ICA trái: (a) TOF; (b, c) **dày thành đồng tâm + ngấm mạnh**; (d–f) sau corticoid giảm ngấm/giảm dày thành. — Gomyo M et al., Magn Reson Med Sci 2023, Hình 4 | Europe PMC / PMC10552670 | CC BY-NC-ND 4.0 (giữ nguyên bản) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10552670/ |
 
+| `composite_241_dong-tam-vs-lech-tam.jpg` | Ảnh ghép đối chiếu **đồng tâm (viêm mạch) vs lệch tâm/không ngấm (bắt chước)** — từ Hình 1 + Hình 2, PMC10712448 | Europe PMC / PMC10712448 | CC BY 4.0 (cả hai ảnh nguồn) | `tools/make_composite.py` |
+
 ## Quy tắc
 - Ảnh **CC BY 4.0**: được tải, dẫn lại, ghi công; ảnh **CC BY-NC-ND 4.0**: **không crop, không ghép**, chỉ hiển thị nguyên bản kèm attribution.
-- Không tạo composite cho bài này (không có Pillow/ImageMagick trong môi trường chạy).
+- Ảnh ghép chỉ dùng ảnh **CC BY 4.0** (2 ảnh từ PMC10712448), letterbox giữ aspect, dải đen ghi tên bệnh + attribution.
 - Tên file: `241_<slug>_<chuỗi xung>_<nguồn>-Fig<k>-<license>.<ext>`.
 - AuntMinnie: chỉ dẫn link, không tải.
