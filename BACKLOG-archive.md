@@ -603,3 +603,7 @@
 - Viết 1780 (chọn kỹ thuật tái thông moyamoya ở trẻ: EDAS vs STA–MCA vs EDMS; M4 ≥ 1 mm, STA < 1 mm cắt vát 45°, Matsushima; ảnh CC BY 4.0) + 682 (thalassemia/huyết tán khác: SCI, CVR acetazolamide, T2*/QSM, LIC ≥ 3 mg/g, T2* tim < 20 ms; ảnh CC BY 4.0 + CC BY-NC-ND).
 - BACKLOG: flip #264 (đổi ID 680→1780 vì trùng) và #266 → xong; thêm 1781 (CVST ở trẻ thiếu máu/huyết tán) & 1782 (phình mạch kèm theo sau tái thông moyamoya). 681 để lượt sau (nguồn liều aspirin ở trẻ quá phân tán).
 - 2026-10-22: viết 681 (chống kết tập tiểu cầu sau tái thông moyamoya ở trẻ: aspirin 3–5 mg/kg, kháng aspirin 2,7%, khi nào ngừng) + 683 (tăng TG kháng trị ở trẻ: insulin 0,1 U/kg/h, plasmapheresis, olezarsen/volanesorsen/PCSK9/gene LPL).
+
+## 2026-10-22 — 684 + 685
+- Viết 684 (tăng TG do asparaginase/pegaspargase ở trẻ ALL: CTCAE v5 150/300/500/1000 mg/dL, nặng 2%/11,1%, PEG 10,5% vs native 5,5%, insulin 0,01 IU/kg/h, plasmapheresis khi TG > 6000, tái dùng khi TG < 1000; ON OR 4,27, CVST 1,4%; ảnh CC BY 4.0 PMC11246614/PMC13634674/PMC8100240) + 685 (theo dõi & ngừng thuốc sau bóc tách cổ ở trẻ: tái thông 70,4% trong 4 tháng, tái phát 4%/7% năm đầu/2% kèm thiếu máu, ngừng thuốc sau 6 tháng, gene CTD 1,1% vs 23,4% khi có tiền sử gia đình; ảnh CC BY 4.0 PMC13636090/PMC12282257).
+- BACKLOG: flip #268 (684) & #269 (685) → xong; thêm 850 (FMD toàn thân) & 695 (hoại tử xương ở trẻ ALL). Lưu ý: PMC13636090 không có authorString trên Europe PMC → ghi "Eur Stroke J 2026 (PMC13636090)" không kèm tên tác giả.
