@@ -140,6 +140,7 @@ certainty: tong-hop-y-van
 - [477 – Bệnh ty thể có biểu hiện thị giác & tai: MELAS, MIDD, POLG, PHARC](../477-benh-ty-the-thi-giac-tai/lesson.md) *(mới)*
 - [479 – Tư vấn di truyền & xử lý VUS trong teo thị/điếc (OPA1/WFS1)](../479-tu-van-di-truyen-vus-opa1-wfs1/lesson.md) *(mới)*
 - [480 – NAION sau chẩn đoán: điều trị, dự phòng mắt đối diện & theo dõi dài hạn](../480-naion-dieu-tri-va-theo-doi/lesson.md) *(mới)*
+- [481 – Biến chứng nội nhãn sau liệu pháp gene & tiêm nội dịch kính: CRA, IOI vô khuẩn, endophthalmitis](../481-bien-chung-noi-nhan-lieu-phap-gene-tiem-noi-dich-kinh/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -208,7 +209,7 @@ certainty: tong-hop-y-van
 - 472 – Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát, tái mổ & cạm bẫy giả lác ngoài do hoàng điểm lệch *(đã có — [bài học](../472-phau-thuat-lac-tre-sinh-non-rop/lesson.md))*
 - 479 – Tư vấn di truyền & xử lý biến thể VUS OPA1/WFS1: ACMG/AMP + ClinGen, phân ly, chức năng, CVS/chọc ối/PGT-M *(đã có — [bài học](../479-tu-van-di-truyen-vus-opa1-wfs1/lesson.md))*
 - 480 – NAION sau chẩn đoán: không corticoid, phòng mắt đối diện, ABPM ban đêm, OSA, GLP-1 RA & phục hồi chức năng *(đã có — [bài học](../480-naion-dieu-tri-va-theo-doi/lesson.md))*
-- 481–482: dự trữ mở rộng
+- 481 – Biến chứng nội nhãn sau liệu pháp gene & tiêm nội dịch kính: **CRA tại điểm tiêm/trung tâm/ngoại vi** (9–100%, khởi phát 3–6 tháng, OCT/FAF/IR), **IOI do vector 79%** (SUN grading), **endophthalmitis 0,013–0,061%** (1–7 ngày, chọc dịch kính + vancomycin/ceftazidime) *(đã có — [bài học](../481-bien-chung-noi-nhan-lieu-phap-gene-tiem-noi-dich-kinh/lesson.md))*
 - 475 – Viêm nội nhãn nội sinh do vi khuẩn: ổ mủ dưới võng mạc, "tiền phòng im lặng", CT áp-xe gan dự báo nguy cơ (thùy trái/hai thùy OR 19,6–45,1; xâm lấn mạch OR 148), vancomycin 1 mg + ceftazidime 2,25 mg, cắt dịch kính sau 24 giờ thất bại *(đã có — [bài học](../475-viem-noi-nhan-noi-sinh-vi-khuan/lesson.md))*
 - 476 – Tầm soát mắt ở trẻ candidemia/NICU: IDSA soi đáy mắt + chọc dịch não tủy cho mọi sơ sinh cấy dương, khác biệt người lớn–sơ sinh, RetCam/OCT cầm tay, tranh luận 2026 về "chọn lọc theo triệu chứng" *(đã có — [bài học](../476-tam-soat-mat-candidemia-nhi/lesson.md))*
 - 483 – Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, pass 20/50–20/40–20/32, chuyển tuyến trực tiếp & vì sao bỏ sót lác nhỏ *(đã có — [bài học](../483-sang-loc-thi-luc-tre-mam-non/lesson.md))*

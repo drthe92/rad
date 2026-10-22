@@ -89,6 +89,7 @@ certainty: tong-hop-y-van
 - 214 – Nhiễm trùng hệ thần kinh trung ương: Viêm não Herpes (thùy thái dương, chừa hạch nền), Lao màng não, Ký sinh trùng (Ấu trùng sán lợn 4 giai đoạn, Toxoplasma)  *(đã có — [bài học](../214-nhiem-trung-tktw/lesson.md))*
 - 215 – Bệnh lý mất myelin: Xơ cứng rải rác (MS — tiêu chuẩn McDonald, ngón tay Dawson), NMOSD & ADEM  *(đã có — [bài học](../215-mat-myelin/lesson.md))*
 - 217 – Khối ngoài trục (Extra-axial) & Góc cầu tiểu não (CPA): Meningioma, Schwannoma dây VIII, Epidermoid vs. Arachnoid cyst  *(đã có — [bài học](../217-ngoai-truc-CPA/lesson.md))*
+- 240 – Phân độ Hannover & chọn SRS hay mổ schwannoma tiền đình: **SRS < 30 mm, 12–13 Gy** (kiểm soát 98,1%, TVE tới 95,3%), **mổ Koos IV** (GTR 73,5%, HB I–II 58,7%); epidermoid **DWI/ADC**, lipoma **fat-sat/HU âm**  *(đã có — [bài học](../240-hannover-schwannoma-tien-dinh-srs-vs-mo-cpa/lesson.md))*
 - 218 – Các hội chứng Thoát vị não cấp cứu (dưới liềm, móc thái dương, hạnh nhân) & Não úng thủy (NPH vs. Tắc nghẽn vs. Teo não)  *(đã có — [bài học](../218-thoat-vi-nao-ung-thuy/lesson.md))*
 - 219 – PRES & RCVS: phù não sau có hồi phục (4 kiểu Bartynski, biến thể trung tâm 13%) & co mạch não có hồi phục trên MRA ("chuỗi hạt", RCVS2/RCVS-TCH)  *(đã có — [bài học](../219-pres-rcvs/lesson.md))*
 - 227 – Đau đầu sét đánh: tiếp cận cấp cứu & phân biệt SAH / RCVS / CVST / bóc tách / pituitary apoplexy / TCH nguyên phát; CT > 95% trong 24 giờ, chọc DNT ≥ 12 giờ, RCVS2 ≥ 5  *(đã có — [bài học](../227-dau-dau-set-danh-thunderclap/lesson.md))*

@@ -539,3 +539,6 @@
 
 - 2026-10-22: xong **479** (VUS OPA1/WFS1: ACMG/AMP 2015 + điểm ClinGen, VUS 83/169 = 49,11% → 12/83 = 14,45% đổi mức sau hội đồng, PM2+PP3 = 2 điểm, phân độ Wolfram chỉ khi 2 P/LP; ảnh PMC9304357/PMC13412279/PMC13258488 CC BY) và **480** (NAION sau chẩn đoán: không corticoid, mắt đối diện 15–24%/5 năm, 25,3% hai bên, semaglutide HR 2,33, ABPM đêm < 100/60; ảnh PMC13340861/PMC13474980/PMC13021419 CC BY, PMC12901807 CC BY-NC).
 - Append hàng chờ: **499** (Hattersley–Urano/WFS1 trội nặng) + **1603** (người mang OPA1 không triệu chứng) — qua check_duplicates (493/494 đã có đề xuất khác).
+
+- 2026-10-22: xong **481** (CRA sau voretigene 3–6 tháng, 5,74→12,74 mm²/4 năm; IOI vector 79% ≤2 năm; endophthalmitis 0,013–0,061%, 1–7 ngày) + **240** (Hannover T1–T4b; SRS 12–13 Gy <30 mm, kiểm soát 98,1%, TVE 95,3%; mổ Koos IV GTR 73,5%, HB I–II 58,7%).
+- Append hàng chờ: **204** (hoại tử phóng xạ vs tái phát: PET acid amin/DSC) + **485** (biến chứng mạn anti-VEGF: IOP kéo dài/teo/tắc mạch) — qua check_duplicates; index 397 thẻ.
