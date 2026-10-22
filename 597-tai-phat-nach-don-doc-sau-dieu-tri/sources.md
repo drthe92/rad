@@ -1,0 +1,17 @@
+# Nguồn gốc — 597 (Tái phát nách đơn độc sau điều trị bảo tồn & TAD)
+
+> Tổng hợp từ y văn mở (Europe PMC/PMC: Cureus, The Breast Journal, Journal of Breast Cancer, Medical Sciences) + kết quả 10 năm AMAROS. Ngày quét: 2026-10-22.
+
+| # | Nguồn | Tiêu đề / Nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / PMC12375383 | Management of Isolated Axillary Recurrence in Breast Cancer: Is There a Role for Targeted Axillary Dissection? — Paluskievicz CM et al., Cureus 2025. 14.296 bệnh nhân → 205 tái phát, **21 AR đơn độc (10,2%)**; ALND 71,4% vs TAD 28,6%; **không khác biệt PFS**; xạ + nội tiết tại lúc tái phát có lợi PFS; AR 1–2% (tới 15%), thường 24–48 tháng; sống 5 năm sau tái phát vùng 45–80%; 10 năm OS 56% (Wright) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12375383/ | CC BY 4.0 (bài) — không dùng ảnh | không tải ảnh |
+| 2 | Europe PMC / PMC12930003 | Axillary Recurrence After a Negative Sentinel Lymph Node Biopsy for Initial Positive Node Breast Cancer Postneoadjuvant Therapy: systematic review and meta-analysis — Alghamdi MA et al., The Breast Journal 2026. **37 nghiên cứu: AR gộp 1% (0–1%), I² = 0%** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12930003/ | chưa rõ điều khoản ảnh — chỉ trích số | không tải |
+| 3 | PubMed / PMID 36383926 | Radiotherapy or Surgery of the Axilla After a Positive Sentinel Node: 10-Year Results of AMAROS — Bartels SAL et al., J Clin Oncol 2023. **AR tích lũy 10 năm: 0,93% (ALND) vs 1,82% (xạ nách)**, HR 1,71 (0,67–4,39); OS/DFS không khác | https://pubmed.ncbi.nlm.nih.gov/36383926/ | không mở toàn văn | không tải |
+| 4 | Europe PMC / PMC8876539 | The Usefulness of Ultrasound Surveillance for Axillary Recurrence in Women With Personal History of Breast Cancer — Shin SU et al., J Breast Cancer 2022. 4.430 phụ nữ, trung vị 57,2 tháng: **5 AR (1,1/1.000)**; siêu âm phát hiện 1 ca (**CDR 0,2/1.000**), **Se 20,0%**, Sp 99,4%, AIR 0,6% | https://pmc.ncbi.nlm.nih.gov/articles/PMC8876539/ | chưa rõ điều khoản ảnh — chỉ trích số | không tải |
+| 5 | Europe PMC / PMC12874194 | Multiple Small Axillary Masses With Haloes on Ultrasound Mimicking Lymph Node Metastases in Breast Cancer: A Case Report — Suto T, Oura S, Cureus 2026. Nữ 66 tuổi: nhiều nốt nách trái < 1 cm có quầng; mô bệnh = tế bào ER+/HER2− xếp dải/đặc **không có cấu trúc hạch**; PET SUVmax nách 5,67 / vú 4,23 / gan 14,3 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12874194/ | CC BY 4.0 | `images/597_tai-phat-nach-don-doc_US-Halo_PMC12874194.jpg`, `images/597_tai-phat-nach-don-doc_PET-CT_PMC12874194.jpg` |
+| 6 | Europe PMC / PMC13414471 | Prospective Evaluation of CEUS-URM in Axillary Lymph Nodes with Diffuse Cortical Thickening in Breast Cancer Patients — Pintican R et al., Medical Sciences 2026. Fig. 2: B-mode + CEUS + siêu âm vi mạch của hạch di căn (vỏ dày lan tỏa, mất rốn) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13414471/ | CC BY 4.0 | `images/597_tai-phat-nach-don-doc_US-CEUS_PMC13414471.jpg` |
+| 7 | AuntMinnie | Case of the Day — tái phát nách | https://www.auntminnie.com | paywall — chỉ dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Ảnh **CC BY 4.0** (PMC12874194, PMC13414471) → dùng nguyên bản; ảnh webp của PMC13414471 được **chuyển định dạng sang JPG, không crop**.
+- Tên tác giả đối chiếu trực tiếp Europe PMC theo PMCID (`authorString`): PMC12375383 = Paluskievicz CM; PMC12930003 = Alghamdi MA; PMC8876539 = Shin SU; PMC12874194 = Suto T; PMC13414471 = Pintican R.

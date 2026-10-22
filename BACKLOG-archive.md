@@ -582,3 +582,7 @@
 ## 2026-10-22 — đợt vú (2 bài, tiếp)
 - 596 ung thư vú nam & người chuyển giới (PMC11161189/11717687/13016194/13596940/12689806/11395358; 4 ảnh CC BY-NC/NC-ND, không composite) + 511 AIMSS & xương (PMC11003819/13221566/12180086/8008134/13401549/12702863/12613706; 4 ảnh NC/NC-ND).
 - selfcheck+lint+mermaid+author PASS; append gap 1600 (tiền phẫu GACMS) & 1615 (di căn xương vú).
+
+## 2026-10-22 (lượt viết 513 + 597)
+- 513 B3 vú: nâng bậc theo Ontario Health 2026 (ADH 7–52,9%; papilloma có atypia 18,7–56,5%; ALH/LCIS 1,7–36%, concordant 0–4%; FEA 0–18,3%; radial scar có atypia 35%); VAB giảm nâng bậc 20% vs 45,2%; ảnh CC BY (Catanzariti 2021, Mihajlovic 2026) + LCIS CC BY-NC-ND.
+- 597 tái phát nách: AR 1–2% (24–48 tháng), gộp 1% sau SLNB âm sau NAC, AMAROS 10 năm 0,93% vs 1,82%, AUS Se 20%; TAD cứu vãn không kém ALND về PFS (21 ca); bẫy "chuỗi hạch có quầng" = di căn mô mềm không vỏ hạch. Thêm 2 khoảng trống: 1616 (K vú thể viêm), 933 (an toàn thuốc cản quang).
