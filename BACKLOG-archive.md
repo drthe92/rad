@@ -544,3 +544,7 @@
 - Append hàng chờ: **204** (hoại tử phóng xạ vs tái phát: PET acid amin/DSC) + **485** (biến chứng mạn anti-VEGF: IOP kéo dài/teo/tắc mạch) — qua check_duplicates; index 397 thẻ.
 2026-10-22: viết 241 (HR-vwMRI đồng tâm/lệch tâm, 4 ảnh CC BY/NC-ND) + 242 (PACNS duy trì, 3 ảnh CC BY); selfcheck+lint+mermaid+author PASS.
 2026-10-22: them tools/ensure_deps.py (tai Pillow wheel, khong can pip/root) + composite 241 dong tam vs lech tam.
+
+## Nhật ký 2026-10-22 (lượt 676 + 149)
+- Viết **676** (RCVS trẻ em: bậc điều trị, IA rescue, corticoid làm nặng) — 6 ảnh CC BY/BY-NC-ND, quiz 5 ca.
+- Viết **149** (tăng áp cửa không xơ gan: PSVD theo đồng thuận 2026, sán máng, HVPG giả bình thường) — ID 128 đã dùng nên chuyển 149. Lint/selfcheck/author-check PASS, đã push.

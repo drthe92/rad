@@ -188,6 +188,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 178 | [Di căn xương RCC & biến chứng cơ học: chèn ép tủy, gãy xương bệnh lý](178-di-can-xuong-RCC-bien-chung-co-hoc/lesson.md) | `pattern:di-can-xuong` `pattern:tieu-xuong` `pattern:chen-ep-tuy` `vung:xuong` `vung:cot-song` `score:Mirels` `score:SINS` `score:Bilsky` `protocol:MRI-cot-song` `protocol:SBRT` `incidentaloma:di-can-xuong` |
 | 174 | [Giun đũa đường mật: dấu "bốn đường", ống mật giả tắc & khi nào can thiệp](174-giun-duc-duong-mat/lesson.md) | `pattern:khuyet-long` `vung:duong-mat` `anatomy:ong-mat-chu` `protocol:MRCP` `protocol:ERCP` |
 | 179 | [Hoại tử ống mật & cholangiopathy thiếu máu sau TACE/TARE/RFA: ống mật "giả giãn" & biloma](179-bien-chung-duong-mat-sau-can-thiep-u-gan/lesson.md) | `pattern:ong-giam-ty-trong` `pattern:biloma` `vung:gan` `vung:duong-mat` `protocol:CT-MRI-dong-hoc` `protocol:MRCP` |
+| 149 | [Tăng áp cửa KHÔNG do xơ gan: PSVD/NCPF, sán máng & ba tầng tắc nghẽn](149-tang-ap-cua-khong-xo-gan/lesson.md) | `pattern:tang-ap-cua` `vung:gan` `vung:bung` `score:PSVD-2026` `protocol:MRI-gan-HBP` `protocol:Doppler-cua` |
 
 ## Hệ Thần kinh (dải 200, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
@@ -417,6 +418,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 672 | [Biến chứng muộn sau tái tạo bàng quang bằng ruột: sỏi, thủng tự phát, ung thư tại đoạn ruột, B12](672-bien-chung-muon-sau-tai-tao-bang-quang/lesson.md) | `pattern:bien-chung-muon` `vung:tiet-nieu` `protocol:CT-KUB` `protocol:CT-cystogram` `score:Clavien-Dindo` `anatomy:bang-quang-than-kinh` |
 | 673 | [Chuyển tiếp sang người lớn ở spina bifida & bàng quang thần kinh: theo dõi suốt đời, latex, loét tì đè, sinh sản, tủy căng](673-chuyen-tiep-nguoi-lon-spina-bifida-bang-quang-than-kinh/lesson.md) | `pattern:chuyen-tiep` `vung:tiet-nieu` `vung:tuy-cot-song` `protocol:MRI-cot-song` `score:TRAQ-SB` `anatomy:bang-quang-than-kinh` |
 | 649 | [Khí trung thất & khí dưới da ở trẻ: rò khí lành tính vs viêm trung thất hoại tử (DNM) vs nhiễm khuẩn sinh khí](649-khi-trung-that-hoai-tu-va-sinh-khi-o-tre/lesson.md) | `pattern:khi-trong-mo-mem` `pattern:khi-trung-that` `pattern:vien-trung-that-hoai-tu` `pattern:ro-khi` `vung:trung-that` `vung:co-sau` `score:Endo` `score:Guan` `protocol:CT-co-nguc-can-quang` `protocol:noi-soi-thuc-quan` |
+| 676 | [RCVS ở trẻ em: bậc điều trị, khi nào can thiệp nội mạch, theo dõi](676-rcvs-tre-em-dieu-tri/lesson.md) | `pattern:co-mach-nao` `vung:nao-nhi` `vung:nao` `score:RCVS2` `protocol:DSA-nao` `protocol:MRA-nao-nhi` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
 | ID | Bài | Tags 4 chiều |
