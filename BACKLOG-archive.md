@@ -536,3 +536,6 @@
 
 - 2026-10-22: xong **477** (bệnh ty thể mắt–tai: MELAS ADC không giảm + lactat 1,33 ppm + thùy thích 87%; MIDD pattern dystrophy/FAF nhiễu hạt; POLG perirolandic + diaschisis tiểu não chéo; PHARC 58 ca; ảnh PMC7195751/PMC10726563/PMC8467809/PMC10397317 CC BY, PMC9764922 CC BY-NC-SA) và **478** (ANSD: ABR mất + CM/OAE còn, CM 96,36–100%, OTOF 41,2%/AIFM1 18,6%, MRI CISS dây VIII, BCNC ≤ 1,3 mm, CAP 7,00 sau CI; ảnh PMC11811761 CC BY, PMC13252965 CC BY-NC-ND).
 - Append hàng chờ: **497** (theo dõi sau cấy ốc tai) + **498** (KSS/CPEO: block AV & gây mê) — qua check_duplicates; index 393 thẻ; không có Pillow/make_composite nên bỏ ảnh ghép composite đợt này.
+
+- 2026-10-22: xong **479** (VUS OPA1/WFS1: ACMG/AMP 2015 + điểm ClinGen, VUS 83/169 = 49,11% → 12/83 = 14,45% đổi mức sau hội đồng, PM2+PP3 = 2 điểm, phân độ Wolfram chỉ khi 2 P/LP; ảnh PMC9304357/PMC13412279/PMC13258488 CC BY) và **480** (NAION sau chẩn đoán: không corticoid, mắt đối diện 15–24%/5 năm, 25,3% hai bên, semaglutide HR 2,33, ABPM đêm < 100/60; ảnh PMC13340861/PMC13474980/PMC13021419 CC BY, PMC12901807 CC BY-NC).
+- Append hàng chờ: **499** (Hattersley–Urano/WFS1 trội nặng) + **1603** (người mang OPA1 không triệu chứng) — qua check_duplicates (493/494 đã có đề xuất khác).

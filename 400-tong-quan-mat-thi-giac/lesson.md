@@ -40,7 +40,9 @@ certainty: tong-hop-y-van
 | Đĩa thị | Đĩa thị (disc) | Phù đĩa, drusen, IIH | Frisén 0–5; lõi tối = drusen | [433](../433-phu-dia-thi-drusen/lesson.md) |
 | Teo thị 2 bên | Thần kinh thị (optic nerve) | LHON, độc–chuyển hóa, viêm, **di truyền (DOA/Wolfram)**, chèn ép | **GCL mất sớm = LHON**; RNFL thái dương mỏng = độc chất/DOA; **teo thị + DM/điếc/ĐTĐ nhạt = Wolfram** | [434](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md), [439](../439-teo-thi-di-truyen/lesson.md) |
 | Teo thị 2 bên + **ĐIẾC** (DOA+/WFS1 trội) | Thần kinh thị (optic nerve) + võng mạc + tai trong | **OPA1/DOA+** vs **WFS1 trội (Wolfram-like)** vs WS1 lặn (DIDMOAD) vs LHON vs độc chất vs glaucoma | **Điếc xuất hiện TRƯỚC teo thị (WFS1: 2 vs 10 tuổi) = WFS1**; **ANSD (ABR mất sóng + CM còn) + missense GTPase = OPA1**; **OPL lamination trên OCT = WFS1 trội** | [437](../437-teo-thi-kem-diec/lesson.md) |
+| **VUS ở OPA1/WFS1** | Thần kinh thị + tai trong | **VUS ≠ bệnh, VUS ≠ lành**: OPA1 (AD), WFS1 (AR/AD), OTOF/AIFM1 (AN), đa hình lành | **PM2 + PP3 chỉ 2 điểm (VUS)**; cần **phân ly (PP1), de novo (PS2), chức năng (PS3)**; **2 biến thể P/LP mới phân độ được Wolfram** | [479](../479-tu-van-di-truyen-vus-opa1-wfs1/lesson.md) |
 | Phù đĩa thị thiếu máu cấp (> 50 tuổi) | Thần kinh thị (optic nerve) | **AAION (GCA) vs NAION** vs viêm thị, PION, CRAO | Đĩa **nhợt trắng phấn + đốm bông + 2 bên + đau hàm → GCA (cấp cứu steroid)**; đĩa **sung huyết + disc-at-risk mắt lành → NAION (không steroid)** | [435](../435-gca-va-naion-aion/lesson.md) |
+| **Sau NAION: mắt đối diện, tái phát, tiến triển** | Thần kinh thị (optic nerve) | **NAION tiến triển · NAION mắt đối diện (15–24%/5 năm) · tái phát cùng mắt (3–8%) · AION do GCA · NAION do GLP-1 RA** | **C/D nhỏ đối xứng + mất thị lực không đau lần nữa = mắt đối diện**; **xấu thêm 7–14 ngày = thể tiến triển (loại trừ GCA)**; **thuốc GLP-1 khởi đầu < 12 tháng = nguy cơ do thuốc** | [480](../480-naion-dieu-tri-va-theo-doi/lesson.md) |
 | Thành mạch lớn dày / hẹp | ĐMC & nhánh (aorta/branches) | **TAK (< 40/≤ 60) vs GCA (≥ 50)** (C-GCA/LV-GCA), aortitis nhiễm khuẩn, xơ vữa, loạn sản cơ–xơ | **"Macaroni" tăng âm = TAK** vs **"halo" giảm hồi âm = GCA**; tuổi là chốt; PET = hoạt tính viêm | [436](../436-takayasu-vs-gca/lesson.md) |
 | Biến chứng mạch lớn GCA / aortitis | ĐMC & nhánh (aorta/branches) | **Theo dõi dài hạn**: phình/tách thành ĐMC ngực, hẹp mạch, aortitis nhiễm khuẩn (loại trừ), hở van ĐMC | **Hoạt tính (FDG-PET, đảo ngược) tách rời tổn hại cấu trúc (CTA/MRA, tiến triển)**; **hết viêm KHÔNG hết nguy cơ**; ĐMC ngực HR 13,46; GC tích lũy = độc tính | [438](../438-theo-doi-dai-han-gca-bien-chung-mach-lon/lesson.md) |
 | Tắc mạch võng mạc | Võng mạc (retina) | CRVO/BRVO, CRAO | Cherry-red + giờ vàng < 4–6 giờ | [444](../444-tac-mach-vong-mac/lesson.md) |
@@ -136,6 +138,8 @@ certainty: tong-hop-y-van
 - [492 – Sinh thiết hắc–võng mạc & quy trình lấy mẫu dịch kính: kỹ thuật, xử lý mẫu, độ nhạy](../492-sinh-thiet-hac-vong-mac-dich-kinh/lesson.md) *(mới)*
 - [472 – Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, tái mổ & cạm bẫy giả lác ngoài](../472-phau-thuat-lac-tre-sinh-non-rop/lesson.md) *(mới)*
 - [477 – Bệnh ty thể có biểu hiện thị giác & tai: MELAS, MIDD, POLG, PHARC](../477-benh-ty-the-thi-giac-tai/lesson.md) *(mới)*
+- [479 – Tư vấn di truyền & xử lý VUS trong teo thị/điếc (OPA1/WFS1)](../479-tu-van-di-truyen-vus-opa1-wfs1/lesson.md) *(mới)*
+- [480 – NAION sau chẩn đoán: điều trị, dự phòng mắt đối diện & theo dõi dài hạn](../480-naion-dieu-tri-va-theo-doi/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -202,7 +206,9 @@ certainty: tong-hop-y-van
 - 470 – Bệnh võng mạc trung tâm thanh dịch do corticosteroid & tiếp cận mất thị lực KHÔNG đau: OCT bong vòm, FA inkblot/smokestack, ICGA tăng thấm, giảm/ngừng steroid, half-dose PDT *(đã có — [bài học](../470-cscr-do-corticosteroid-mat-thi-luc-khong-dau/lesson.md))*
 - 471 – Rung giật nhãn cầu ở trẻ nhũ nhi & trẻ sinh non: phân biệt thể cảm giác – vô căn – thần kinh, OCT/ERG/gen, spasmus nutans & cạm bẫy MRI *(đã có — [bài học](../471-rung-giat-nhan-cau-tre-nhu-nhi/lesson.md))*
 - 472 – Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát, tái mổ & cạm bẫy giả lác ngoài do hoàng điểm lệch *(đã có — [bài học](../472-phau-thuat-lac-tre-sinh-non-rop/lesson.md))*
-- 473–482: dự trữ mở rộng
+- 479 – Tư vấn di truyền & xử lý biến thể VUS OPA1/WFS1: ACMG/AMP + ClinGen, phân ly, chức năng, CVS/chọc ối/PGT-M *(đã có — [bài học](../479-tu-van-di-truyen-vus-opa1-wfs1/lesson.md))*
+- 480 – NAION sau chẩn đoán: không corticoid, phòng mắt đối diện, ABPM ban đêm, OSA, GLP-1 RA & phục hồi chức năng *(đã có — [bài học](../480-naion-dieu-tri-va-theo-doi/lesson.md))*
+- 481–482: dự trữ mở rộng
 - 475 – Viêm nội nhãn nội sinh do vi khuẩn: ổ mủ dưới võng mạc, "tiền phòng im lặng", CT áp-xe gan dự báo nguy cơ (thùy trái/hai thùy OR 19,6–45,1; xâm lấn mạch OR 148), vancomycin 1 mg + ceftazidime 2,25 mg, cắt dịch kính sau 24 giờ thất bại *(đã có — [bài học](../475-viem-noi-nhan-noi-sinh-vi-khuan/lesson.md))*
 - 476 – Tầm soát mắt ở trẻ candidemia/NICU: IDSA soi đáy mắt + chọc dịch não tủy cho mọi sơ sinh cấy dương, khác biệt người lớn–sơ sinh, RetCam/OCT cầm tay, tranh luận 2026 về "chọn lọc theo triệu chứng" *(đã có — [bài học](../476-tam-soat-mat-candidemia-nhi/lesson.md))*
 - 483 – Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, pass 20/50–20/40–20/32, chuyển tuyến trực tiếp & vì sao bỏ sót lác nhỏ *(đã có — [bài học](../483-sang-loc-thi-luc-tre-mam-non/lesson.md))*
