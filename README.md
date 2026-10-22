@@ -443,6 +443,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 679 | [Rò niệu đạo–da ở trẻ sau tạo hình niệu đạo: chẩn đoán, thời điểm mổ lại & kỹ thuật](679-ro-nieu-dao-da-o-tre/lesson.md) | `pattern:ro` `pattern:dong-tieu-chia-doi` `vung:nieu-dao` `vung:sinh-duc-nhi` `anatomy:nieu-dao-truoc` `protocol:VCUG-RUG-sieu-am` |
 | 680 | [U quái cùng cụt ở trẻ: Altman I–IV, mỡ + vôi hóa & nguy cơ ác tính theo tuổi](680-u-quai-cung-cut-o-tre/lesson.md) | `pattern:khoi-cung-cut` `pattern:khoi-dac-nang` `pattern:khoi-co-mo-voi-hoa` `vung:cung-cut` `vung:khung-chau-nhi` `score:Altman` `protocol:US-MRI-thai-va-sau-sinh` `incidentaloma:khoi-cung-cut-so-sinh` |
 | 1780 | [Chọn kỹ thuật tái thông moyamoya ở trẻ: gián tiếp (EDAS/EDAMS) vs trực tiếp (STA–MCA) vs phối hợp (EDMS)](1780-chon-ky-thuat-tai-thong-moyamoya-o-tre/lesson.md) | `pattern:hep-tac-mach` `pattern:tuoi-mau-bang-he` `vung:nao-nhi` `score:Matsushima` `score:Suzuki` `protocol:DSA` `protocol:ASL` |
+| 681 | [Chống kết tập tiểu cầu sau tái thông mạch não ở trẻ: aspirin 3–5 mg/kg, kháng aspirin, khi nào ngừng](681-chong-ket-tap-tieu-cau-sau-tai-thong-mach-nao-o-tre/lesson.md) | `pattern:hep-tac-mach` `pattern:nhoi-mau-nao` `pattern:xuat-huyet-nao` `vung:nao-nhi` `protocol:DSA` `protocol:MRA-TOF` `protocol:xet-nghiem-ngung-tieu-cau` |
+| 683 | [Tăng triglyceride kháng trị ở trẻ: fibrate/omega-3, PCSK9, olezarsen, liệu pháp gen LPL & khi nào lặp plasmapheresis](683-tang-triglyceride-khang-tri-o-tre/lesson.md) | `pattern:tang-triglyceride` `pattern:viem-tuy-cap` `pattern:hoang-diem-lipid` `vung:tuy` `vung:vong-mac` `score:Endocrine-Society-TG` `protocol:CT-bung` `protocol:MRCP` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
 | ID | Bài | Tags 4 chiều |

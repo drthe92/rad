@@ -602,3 +602,4 @@
 ## 2026-10-22 — 1780 + 682
 - Viết 1780 (chọn kỹ thuật tái thông moyamoya ở trẻ: EDAS vs STA–MCA vs EDMS; M4 ≥ 1 mm, STA < 1 mm cắt vát 45°, Matsushima; ảnh CC BY 4.0) + 682 (thalassemia/huyết tán khác: SCI, CVR acetazolamide, T2*/QSM, LIC ≥ 3 mg/g, T2* tim < 20 ms; ảnh CC BY 4.0 + CC BY-NC-ND).
 - BACKLOG: flip #264 (đổi ID 680→1780 vì trùng) và #266 → xong; thêm 1781 (CVST ở trẻ thiếu máu/huyết tán) & 1782 (phình mạch kèm theo sau tái thông moyamoya). 681 để lượt sau (nguồn liều aspirin ở trẻ quá phân tán).
+- 2026-10-22: viết 681 (chống kết tập tiểu cầu sau tái thông moyamoya ở trẻ: aspirin 3–5 mg/kg, kháng aspirin 2,7%, khi nào ngừng) + 683 (tăng TG kháng trị ở trẻ: insulin 0,1 U/kg/h, plasmapheresis, olezarsen/volanesorsen/PCSK9/gene LPL).
