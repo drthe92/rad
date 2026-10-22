@@ -572,3 +572,5 @@
 - BACKLOG thêm 186 (HPS/PoPH — chống chỉ định TIPS) + 187 (giãn tĩnh mạch lạc chỗ: BATO/PTO); cập nhật bảng DDx hệ Bụng, README, index.
 - 2026-10-22: viết 183 (TIPS reduction/HE kháng trị) + 1601 (ung thư vú trong thai kỳ–cho bú); nguồn PMC7073830/8592787/3690677/13562823 và PMC13144061/13135752/13344446/7315302/7720671/8994812; selfcheck+lint PASS.
 - 2026-10-22: append 2 khoảng trống mới vào hàng chờ: 188 (hepatic myelopathy sau shunt) + 1612 (granulomatous mastitis/áp-xe vú); check_duplicates exit 0.
+- 2026-10-22: viết 1602 (hemangioma/tổn thương mạch lành vú vs angiosarcoma; 6 ảnh CC BY/BY-NC-ND, 2 composite) + 593 (BCRL: ISL/ICG/MRI; 7 ảnh, 1 composite); selfcheck+lint+mermaid+author PASS.
+- 2026-10-22: append 1613 (PASH) + 1614 (di căn da/thành ngực) — check_duplicates exit 0; cập nhật bảng DDx 500, README, index (thêm tay 2 thẻ).
