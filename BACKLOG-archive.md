@@ -578,3 +578,7 @@
 ## 2026-10-22 — đợt vú (2 bài)
 - 594 hóa dự phòng ung thư vú (3 nguồn CC BY/NC-ND, composite Fig1+2 PMC12209358) + 595 BPE MRI vú (5 nguồn; 4 mức <25/25-50/50-75/>75%, đỉnh quanh mãn kinh).
 - selfcheck+lint+mermaid+author PASS; append gap 511 (AIMSS) & 513 (ADH/ALH/FEA/LCIS).
+
+## 2026-10-22 — đợt vú (2 bài, tiếp)
+- 596 ung thư vú nam & người chuyển giới (PMC11161189/11717687/13016194/13596940/12689806/11395358; 4 ảnh CC BY-NC/NC-ND, không composite) + 511 AIMSS & xương (PMC11003819/13221566/12180086/8008134/13401549/12702863/12613706; 4 ảnh NC/NC-ND).
+- selfcheck+lint+mermaid+author PASS; append gap 1600 (tiền phẫu GACMS) & 1615 (di căn xương vú).
