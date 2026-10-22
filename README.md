@@ -156,6 +156,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 140 | [Lách & chấn thương](140-lach-tang-dac/lesson.md) | `pattern:chan-thuong-bung` |
 | 141 | [Phúc mạc](141-phuc-mac/lesson.md) | `pattern:phuc-mac` `vung:phuc-mac` `protocol:CT-bung-tiem` `incidentaloma:dich-o-bung` |
 | 142 | [Can thiệp giảm thể tích gan trong PLD: TAE, chọc hút–xơ hóa nang & fenestration](142-can-thiep-giam-the-tich-gan-pld/lesson.md) | `pattern:gan-da-nang` `vung:gan` `score:Gigot` `protocol:TAE-dong-mach-gan` `protocol:choc-hut-xo-hoa-nang` `protocol:fenestration` `incidentaloma:nang-gan` |
+| 146 | [Huyết khối tĩnh mạch lách & nhồi máu lách: tăng áp cửa bên trái, giả u và khi nào cắt lách](146-huyet-khoi-tm-lach-va-nhoi-mau-lach/lesson.md) | `pattern:huyet-khoi-mach` `pattern:nhoi-mau-tang` `vung:lach` `vung:tuy` `protocol:CT-bung-da-thi` |
+| 147 | [Sốt kéo dài không rõ nguyên nhân (FUO) & ổ nhiễm ẩn trong bụng](147-sot-keo-dai-fuo-o-nhiem-an-trong-bung/lesson.md) | `pattern:o-nhiem-an` `vung:bung` `protocol:FDG-PET-CT` `protocol:CT-bung-da-thi` |
 | 152 | [Sỏi niệu](152-soi-nieu/lesson.md) | `pattern:soi-nieu` |
 | 162 | [Tắc ruột](162-tac-ruot/lesson.md) | `pattern:tac-ruot` |
 | 163 | [Pylephlebitis & huyết khối tĩnh mạch mạc treo (MVT)](163-pylephlebitis-huyet-khoi-tm-mac-treo/lesson.md) | `pattern:huyet-khoi-mach` `vung:gan` `vung:mach-cua` `vung:ruot` `protocol:CT-bung-da-thi` |

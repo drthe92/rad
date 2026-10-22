@@ -552,3 +552,7 @@
 ## Nhật ký 2026-10-22 (lượt 239 + 243)
 - Viết **239** (co thắt mạch não sau TBI ở trẻ; dùng khe trống 239 thay ID tạm 1701 để hub/lint 3 số vẫn chạy) + **243** (sán máng thần kinh; thay 1702) — 5 + 5 ảnh CC BY/BY-NC-ND, quiz 3 ca mỗi bài; selfcheck+lint+mermaid+author PASS.
 - Port khối "Xuất/Nhập/Xóa tiến độ" vào `tools/hub_template.html` (trước đó chỉ có trong index.html nên `build_index.py` xóa mất); BACKLOG thêm 244 (lao nội tủy) + 249 (giãn tủy sau chấn thương).
+
+## Nhật ký 2026-10-22 (lượt 246 + 247)
+- Viết **146** (huyết khối TM lách + nhồi máu lách; ID 164 đã dùng → 146) và **147** (FUO & ổ nhiễm ẩn trong bụng; ID 166 đã dùng → 147) — 8 + 5 ảnh Europe PMC CC BY/BY-NC/BY-NC-ND, quiz 3–4 ca; selfcheck+lint+mermaid+author PASS.
+- BACKLOG thêm 148 (nhiễm endograft ĐMC) + 119 (lách lạc chỗ/xoắn lách); cập nhật bảng DDx hệ Bụng, README, index.
