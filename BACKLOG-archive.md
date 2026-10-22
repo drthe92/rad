@@ -601,3 +601,6 @@
 - BACKLOG: flip #268 (684) & #269 (685) → xong; thêm 850 (FMD toàn thân) & 695 (hoại tử xương ở trẻ ALL). Lưu ý: PMC13636090 không có authorString trên Europe PMC → ghi "Eur Stroke J 2026 (PMC13636090)" không kèm tên tác giả.
 - 2026-10-22: viết 413 (PFV/PHPV) + 044 (EBUS cryobiopsy trung thất), PASS selfcheck/lint/mermaid/author; index + README + tổng quan 400/001 cập nhật.
 - Ghi chú: BACKLOG có 2 mục trùng ID cũ (468 DUSN, 469 toxo theo dõi) — đã đánh dấu cần đổi ID.
+
+- 2026-10-22: viết **046** (restaging trung thất sau hóa–miễn dịch, ypN) + **086→686** (PH/hạ oxy mạn ở bệnh phổi mạn nhi); selfcheck+lint+author PASS.
+- 2026-10-22: thêm 2 khoảng trống vào hàng chờ: **085** (độc tính miễn dịch quanh mổ) và **1803** (OSA ở trẻ bệnh phổi mạn).

@@ -1,0 +1,19 @@
+# Nguồn gốc — 686 Tăng áp lực động mạch phổi & hạ oxy mạn trong bệnh phổi mạn nhi
+
+> Quét 2026-10-22: Europe PMC (`FIG:"pulmonary hypertension" AND FIG:"bronchopulmonary dysplasia"`, `FIG:"pulmonary hypertension" AND FIG:"bronchiolitis obliterans"`, `TITLE:"pulmonary hypertension" AND TITLE:"chronic lung disease"` + `OPEN_ACCESS:Y`), lọc theo giấy phép từng bài, đối chiếu PMCID + tác giả qua Europe PMC. Không scrape Radiopaedia; AuntMinnie chỉ dẫn link.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / *Children* (MDPI) | **Singh Y et al.** — "Physiology-Based Diagnosis and Management of Bronchopulmonary Dysplasia Associated Pulmonary Hypertension (BPD-PH)" (2026): định nghĩa **mPAP > 20 mmHg + PVR ≥ 3 WU + PCWP > 15**; **BPD-PH 5%/18%/> 40%** theo độ nặng; gần **50% tử vong trong 2 năm**; hồi phục **47% sau 1 năm, 79–94% sau 2–2,25 năm**; kiểu **type 1/2/3a/3b**; thông số siêu âm (**RVSP ≥ 50% hệ thống, EI ≥ 1,3, PAAT:RVET < 0,30, TAPSE z < −2, PV > 50 cm/s, PVS > 160 cm/s**); lịch sàng lọc **4 tuần / 36 tuần CGA**, lặp **4–8 tuần**, **~2 tuần** khi có PH; **SpO₂ 93–97%**; bảng thuốc giãn mạch | https://pmc.ncbi.nlm.nih.gov/articles/PMC12940002/ | CC BY 4.0 | `images/686_co-che-BPD-PH_CT_PMC12940002.jpg` (Fig. 1), `images/686_sieu-am-tim-PH_ECHO_PMC12940002.jpg` (Fig. 3), `images/686_luu-do-tam-soat-BPD-PH_ECHO_PMC12940002.jpg` (Fig. 4) |
+| 2 | Europe PMC / *Eur Respir J* (ERS) | **Ivy D et al.** — "Embracing the challenges of neonatal and paediatric pulmonary hypertension" (2024): chiến lược điều trị PAH nhi theo WSPH; **nhánh PAH kèm bệnh phổi – phát triển → đơn trị liệu ban đầu** | https://pmc.ncbi.nlm.nih.gov/articles/PMC11525338/ | **CC BY-NC 4.0** | `images/686_chien-luoc-dieu-tri-PAH-nhi_CT_PMC11525338.jpg` (Fig. 1) |
+| 3 | Europe PMC / *Pulmonary Circulation* (Wiley) | **Vitulo P et al.** — "Screening and diagnosis of pulmonary hypertension associated with chronic lung disease (PH-CLD): a consensus statement" (2024): ca **xơ phổi nặng + PH**, CT cho thấy **ĐMP chính giãn**; nguyên lý **hình ảnh là dấu hiệu gián tiếp**, chẩn đoán xác định bằng thông tim | https://pmc.ncbi.nlm.nih.gov/articles/PMC11629413/ | **CC BY-NC 4.0** | `images/686_dong-mach-phoi-gian_CT_PMC11629413.jpg` (Fig. 1) |
+| 4 | Repo nội bộ | **Bài 606 — BPD trẻ sinh non**: phân độ NICHD 2018 / Jensen 2019; đích **SpO₂ 90–95%** ở BPD chung và **PH 20–40% ở BPD nặng** — dùng để **đối chiếu có chủ đích** với đích **93–97%** khi đã có PH | ../606-bpd-tre-sinh-non/lesson.md | nội bộ | — |
+| 5 | Repo nội bộ | **Bài 669 — PIBO & Swyer–James**: HRCT **thì thở ra** chứng minh ứ khí; **mosaic do mạch giữ nguyên 2 thì**, mosaic do tiểu phế quản rõ ở thì thở ra | ../669-theo-doi-dai-han-BO-Swyer-James/lesson.md | nội bộ | — |
+| 6 | Radiopaedia | Tăng áp phổi / BPD — mô tả tham khảo | https://radiopaedia.org/articles/pulmonary-hypertension | dẫn link | không tải |
+| 7 | AuntMinnie | Case of the Day (tham khảo) | https://www.auntminnie.com/ | paywall — chỉ dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Ảnh tải về: **CC BY 4.0** (PMC12940002) và **CC BY-NC 4.0** (PMC11525338, PMC11629413) — đều cho phép tải/ghép khi ghi nguồn, **phi thương mại**. Bài này **không tạo composite**; ảnh nhúng nguyên bản.
+- Ảnh `686_dong-mach-phoi-gian_CT_PMC11629413.jpg` là **ca người lớn xơ phổi**, chỉ dùng minh họa **nguyên lý giãn ĐMP**; đã ghi rõ trong `lesson.md` và `CREDITS.md` để **không gây hiểu nhầm là ca nhi**.
+- Tác giả ghi theo **tên tác giả đầu tiên đọc trực tiếp từ bản ghi Europe PMC (đối chiếu PMCID)**; không suy đoán.
+- **Phản biện:** các khuyến cáo BPD-PH chủ yếu từ **đồng thuận chuyên gia + nghiên cứu quan sát**, **không có RCT lớn**; ngưỡng **PVR ≥ 3 WU** (WSPH/EPPVAD nhi) **khác** **PVR > 2 WU** (ESC/ERS 2022 người lớn) — phải nêu rõ khung khi trích dẫn. **Tỷ lệ PH ở PIBO nhi: chưa rõ — cần tra.**

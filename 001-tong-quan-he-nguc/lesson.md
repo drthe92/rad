@@ -52,6 +52,7 @@ certainty: tong-hop-y-van
 | Nốt đơn độc ở người CÓ tiền sử ung thư | Phổi | Di căn đơn độc, K phổi nguyên phát mới, lành | mGGN/chồi gai/kéo màng phổi → nguyên phát; FDG âm không loại trừ | [016](../016-not-phoi-tien-su-ung-thu/lesson.md) |
 | Dày vách liên tiểu thùy/mô kẽ | Phổi (mô kẽ) | PLC, phù, sarcoid, xơ, PAP | **Dạng nốt** = u/sarcoid; **trơn đối xứng** = phù; co kéo = xơ | [017](../017-bach-mach-lan-phoi/lesson.md), [011](../011-tieu-thuy-phoi/lesson.md) |
 | Mờ theo trọng lực (đông đặc/kính mờ phân thùy phụ thuộc) | Phổi (đáy-sau, thường phải) | Viêm phổi hít sặc, viêm phổi hóa chất, dị vật đường thở | **Vị trí theo tư thế + bối cảnh rối loạn nuốt/nằm lâu/hôn mê** = hít sặc; mờ hai bên lan tỏa trong vài giờ = hóa chất | [081](../081-sac-va-roi-loan-nuot/lesson.md) |
+| **Hạch trung thất tồn dư sau hóa–miễn dịch** | Trung thất – rốn phổi | Di căn tồn dư (ypN+), xơ–hyalin hóa sau điều trị, phản ứng dạng sarcoid do ICI, giả tiến triển, lao/nấm | **Hạch > 5 mm trục ngắn + còn FDG = phải chọc lại**; teo + vôi + không FDG = xơ; **đối xứng 2 bên + bối cảnh ICI = sarcoid-like**; **ΔSUVmax ≥ 53,1%** = giả tiến triển | [046](../046-tai-phan-giai-doan-trung-that-sau-hoa-mien-dich/lesson.md) |
 
 ## Bài liên quan chéo
 - [048 – Hội chứng lồng ngực không đủ (TIS) & VEPTR: SAL, nong 6 tháng/lần, thời điểm ngừng](../048-hoi-chung-long-nguc-khong-du-tis-veptr/lesson.md) *(mới)*
@@ -95,6 +96,7 @@ certainty: tong-hop-y-van
 - [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(mới)*
 - [018 – Chọc hút hạch trung thất dưới hướng dẫn siêu âm (EBUS-TBNA & EUS-B)](../018-EBUS-TBNA-EUS-hach-trung-that/lesson.md) *(mới: lấy mô hạch, giai đoạn N ấn bản 9 N2a/N2b)*
 - [044 – Cryobiopsy trung thất qua EBUS (EBUS-TMC): lấy mô lớn khi TBNA không đủ](../044-cryobiopsy-trung-that-EBUS/lesson.md) *(mới: u lympho, sarcoidosis, u hiếm, molecular)*
+- [046 – Tái phân giai đoạn trung thất sau hóa–miễn dịch & bệnh hạch tồn dư (ypN)](../046-tai-phan-giai-doan-trung-that-sau-hoa-mien-dich/lesson.md) *(mới: hạch > 5 mm/FDG sau điều trị, EBUS-TBNA vs TMC, ypN2a/N2b, giả tiến triển)*
 
 ## Quy hoạch toàn diện Hệ Ngực (Master Curriculum 001–080)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -129,6 +131,7 @@ certainty: tong-hop-y-van
 - [041 – Tràn khí màng phổi](../041-tran-khi-mang-phoi/lesson.md) *(đã có)*
 - 042 – Dày/vôi hóa/u màng phổi: trung biểu mô vs di căn (Mesothelioma) *(đã có — [bài học](../042-mang-phoi-u/lesson.md))*
 - 045 – Thành ngực (dấu ngoài màng phổi) & thoát vị hoành (Extrapleural sign) *(đã có — [bài học](../045-thanh-nguc-hoanh/lesson.md))*
+- 046 – Tái phân giai đoạn trung thất sau hóa–miễn dịch: hạch nào phải chọc lại, EBUS-TBNA vs cryobiopsy, **ypN2a/ypN2b**, giả tiến triển *(đã có — [bài học](../046-tai-phan-giai-doan-trung-that-sau-hoa-mien-dich/lesson.md))*
 
 **05x — Đường thở & Kén khí**
 - 050 – Giãn phế quản, tree-in-bud & kén khí (Bronchiectasis & cystic lung) *(đã có — [bài học](../050-gian-phe-quan-ken-khi/lesson.md))*
