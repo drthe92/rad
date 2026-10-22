@@ -574,3 +574,7 @@
 - 2026-10-22: append 2 khoảng trống mới vào hàng chờ: 188 (hepatic myelopathy sau shunt) + 1612 (granulomatous mastitis/áp-xe vú); check_duplicates exit 0.
 - 2026-10-22: viết 1602 (hemangioma/tổn thương mạch lành vú vs angiosarcoma; 6 ảnh CC BY/BY-NC-ND, 2 composite) + 593 (BCRL: ISL/ICG/MRI; 7 ảnh, 1 composite); selfcheck+lint+mermaid+author PASS.
 - 2026-10-22: append 1613 (PASH) + 1614 (di căn da/thành ngực) — check_duplicates exit 0; cập nhật bảng DDx 500, README, index (thêm tay 2 thẻ).
+
+## 2026-10-22 — đợt vú (2 bài)
+- 594 hóa dự phòng ung thư vú (3 nguồn CC BY/NC-ND, composite Fig1+2 PMC12209358) + 595 BPE MRI vú (5 nguồn; 4 mức <25/25-50/50-75/>75%, đỉnh quanh mãn kinh).
+- selfcheck+lint+mermaid+author PASS; append gap 511 (AIMSS) & 513 (ADH/ALH/FEA/LCIS).
