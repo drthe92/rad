@@ -594,3 +594,7 @@
 ## 2026-10-22 — 599 + 678
 - Viết 599 (AWS & phù bạch mạch sau mổ nách) + 678 (cương/sinh sản sau chấn thương khung chậu ở bé trai); ảnh CC BY 2.0/4.0 + CC BY-NC 4.0 (giữ nguyên bản); selfcheck/lint/mermaid/author-check PASS.
 - BACKLOG: flip #260/#262 → xong; thêm 2 khoảng trống 1619 (đau thần kinh sau điều trị vú) & 1681 (di chứng niệu–sinh dục bé gái sau chấn thương khung chậu).
+
+## 2026-10-22 — 679 + 680
+- Viết 679 (rò niệu đạo–da ở trẻ: VCUG "skip lesion", 16,7% tái phát; ảnh CC BY 4.0 + CC BY-NC-ND) + 680 (u quái cùng cụt: Altman I–IV, ác tính 3,3%→32,9%, AFP theo tuổi; ảnh CC BY 4.0 + CC BY-ND + composite).
+- BACKLOG: flip #264/#263 → xong, đánh dấu #263 ID 675 trùng; thêm 1701 (đường mổ SCT) & 1702 (túi niệu đạo).
