@@ -590,3 +590,7 @@
 ## 2026-10-22 — đợt vú + nhi (2 bài)
 - 598 RNI sau ung thư vú (MA.20/EORTC/DBCG-IMN/AMAROS/B-51; 25–27% hạch tái phát ngoài CTV; 5 ảnh CC BY + 1 composite) — #259 xong.
 - 677 SPC ở trẻ (EAN/INUS 2025; 13,4/1.000 tổn thương niệu đạo; ngưỡng cấy; Mitrofanoff) — #261 xong; append gap 1617 (plexopathy do xạ) & 1618 (xạ trên vú tái tạo).
+
+## 2026-10-22 — 599 + 678
+- Viết 599 (AWS & phù bạch mạch sau mổ nách) + 678 (cương/sinh sản sau chấn thương khung chậu ở bé trai); ảnh CC BY 2.0/4.0 + CC BY-NC 4.0 (giữ nguyên bản); selfcheck/lint/mermaid/author-check PASS.
+- BACKLOG: flip #260/#262 → xong; thêm 2 khoảng trống 1619 (đau thần kinh sau điều trị vú) & 1681 (di chứng niệu–sinh dục bé gái sau chấn thương khung chậu).

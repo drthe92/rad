@@ -1,0 +1,19 @@
+# Nguồn gốc — 599 (Hội chứng dây nách / axillary web syndrome)
+
+> Tổng hợp từ y văn mở (Europe PMC/PMC: J Clin Med 2026, Breast Cancer (Dove) 2019, Ann Rehabil Med 2021, Lymphat Res Biol 2022, World J Surg Oncol 2013) + số liệu thang ISL/ICG từ các bài đã dùng ở mục 593. Ngày quét: 2026-10-22.
+
+| # | Nguồn | Tiêu đề / Nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / PMC6304256 | Axillary web syndrome following breast cancer surgery: symptoms, complications, and management strategies — Koehler LA, Haddad TC, Hunter DW, Tuttle TM, Breast Cancer (Dove Med Press) 2019. Tần suất 6–86%; ALND 36–72% vs SLNB 11–58%; triệu chứng 2–8 tuần, tái phát nhiều tháng–năm; siêu âm ≥ 15 MHz/high-resolution MRI để loại trừ tĩnh mạch nông huyết khối; AWS không có cấu trúc bệnh học nhất quán trên siêu âm; điều trị vật lý trị liệu | https://pmc.ncbi.nlm.nih.gov/articles/PMC6304256/ | chỉ trích số | không tải |
+| 2 | Europe PMC / PMC13566857 | Axillary Web Syndrome Beyond Breast Cancer: Expanding the Clinical Spectrum Through Illustrative Cases and Contemporary Evidence — Cardoso Oliveira N et al., J Clin Med 2026. Tần suất ~6% đến > 70%; 90,9% tích lũy trong 180 ngày, 66,1% phát hiện ngày 7; 3 thể (sau mổ, vận động mạnh, nghề nghiệp); siêu âm 12 MHz dùng để loại trừ; điều trị bảo tồn | https://pmc.ncbi.nlm.nih.gov/articles/PMC13566857/ | CC BY 4.0 | `images/599_day-nach_Clinical_PMC13566857.jpg` |
+| 3 | Europe PMC / PMC8572992 | A Risk Factor Analysis of Axillary Web Syndrome in Patients After Breast Cancer Surgery: A Single Center Study in Korea — Jeong S et al., Ann Rehabil Med 2021. 189 bệnh nhân; tần suất 30,6%; hóa trị OR 2,84 (1,46–5,53); tăng huyết áp OR 2,72 (1,18–6,30) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8572992/ | chỉ trích số | không tải |
+| 4 | Europe PMC / PMC9422805 | Lymphoscintigraphic Investigations for Axillary Web Syndromes — Roman MM et al., Lymphat Res Biol 2022. 46 bệnh nhân: 8,6% bình thường; 15,2% suy chức năng; 8,6% tắc bạch mạch không bàng hệ; 67,3% bàng hệ/dermal backflow; 4/5 ca suy chức năng tiến triển khi chụp lần 2 | https://pmc.ncbi.nlm.nih.gov/articles/PMC9422805/ | chỉ trích số | không tải |
+| 5 | Europe PMC / PMC3598739 | Axillary web syndrome following secondary breast-conserving surgery: a case report — Wei P et al., World J Surg Oncol 2013. Ca nguyên văn: dây 3 ngày sau mổ thứ hai; siêu âm thấy cấu trúc ống có dòng Doppler; hồi phục 3 tuần với bài tập + thuốc | https://pmc.ncbi.nlm.nih.gov/articles/PMC3598739/ | CC BY 2.0 | `images/599_day-nach_Clinical_PMC3598739.jpg`, `images/599_day-nach_US_PMC3598739.jpg`, `images/composite_day-nach.jpg` |
+| 6 | Europe PMC / PMC12012379 | Imaging and management of lymphedema in the era of precision oncology — Rai P et al., Br J Radiol 2025 (dùng cho ngưỡng ISL 0–III, L-Dex > 10, chu vi ≥ 2 cm/thể tích ≥ 10%, T2 của dịch bạch mạch ~600 ms ở 3,0 T) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12012379/ | CC BY 4.0 | không tải (đã dùng ở 593) |
+| 7 | Europe PMC / PMC13329518 | Enhancing Diagnostic Precision and Treatment Effectiveness Using Indocyanine Green Lymphography in Lymphedema — Suami H, Yoon JA, Ann Rehabil Med 2026 (dùng cho thang MDACC ICG 0–V và dermal backflow) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13329518/ | CC BY-NC 4.0 | không tải (đã dùng ở 593) |
+| 8 | AuntMinnie / Radiopaedia / The Radiology Assistant | Không có bài riêng về AWS tại thời điểm quét (chủ đề nằm chủ yếu trong y văn phục hồi chức năng) | https://www.auntminnie.com ; https://radiopaedia.org | — | không tải |
+
+## Ghi chú giấy phép
+- Ảnh **CC BY 2.0** (PMC3598739) và **CC BY 4.0** (PMC13566857) → được phép tạo tác phẩm phái sinh (ảnh ghép letterbox).
+- Không dùng ảnh từ AuntMinnie/nguồn paywall; chỉ dẫn link.
+- Tên tác giả đối chiếu trực tiếp Europe PMC theo PMCID (`authorString`).
