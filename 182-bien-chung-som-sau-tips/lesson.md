@@ -28,7 +28,7 @@ certainty: tong-hop-y-van
 |---|---|---|---|
 | Hemobilia | **13 ca (1,37%)** | **1 (7,6% ca hemobilia)** | ≤ **2%** |
 | Hemoperitoneum | **7 ca (0,74%)** | 0 | ≤ **1%** |
-| Suy gan tiến triển nhanh (accelerated liver failure) | **6 ca (0,63%)** | **4 (66,7%)** | ≤ **3%** |
+| Suy gan tiến triển nhanh (accelerated liver failure) | **6 ca (0,63%)** | **4 (66,7%)** | — (bài gốc không đặt ngưỡng riêng) |
 | Suy đa cơ quan tiến triển nhanh (organ failure: phổi–tim–thận) | **4 ca (0,42%)** | **3 (75%)** | ≤ **0,5%** |
 | Stent sai vị trí (malposition) | 0 | 0 | ≤ **1%** |
 | Tổn thương động mạch gan | 0 | 0 | ≤ **2%** |
@@ -174,7 +174,7 @@ flowchart TD
 
 - Hay gặp nhất: **hemobilia 43,3%** trong 30 ca (1,37% toàn cohort).
 - Chết nhiều nhất theo tỷ lệ trong nhóm: **suy đa cơ quan 3/4 (75%)** và **suy gan tiến triển nhanh 4/6 (66,7%)**; hemobilia chỉ **1/13 (7,6%)** nhưng là biến chứng hay gặp nhất.
-- Ngưỡng chất lượng: **hemobilia ≤ 2%**, **hemoperitoneum ≤ 1%**; tổng biến chứng nặng ≤ 5%, tử vong do thủ thuật ≤ 5% (cohort đạt 3,2% và 0,84%).
+- Ngưỡng chất lượng: **hemobilia ≤ 2%**, **hemoperitoneum ≤ 1%**, **tổng biến chứng nặng ≤ 5%** — cohort đạt **3,2%** biến chứng nặng và **0,84%** tử vong.
 - Nguồn ảnh: Front Med 2022 (PMC9116508) Fig. 1, CC BY 4.0.
 </details>
 
