@@ -101,6 +101,8 @@ certainty: tong-hop-y-van
 | **Tràn khí màng phổi tự phát ở trẻ lớn + bóng khí (bleb/bulla)** | Màng phổi – phổi (pleura – lung) | PSP có bleb, PSP bóng khí thùy dưới, SSP do BHD/LAM/LCH, bulla khổng lồ, nếp da, tràn khí kinh nguyệt | **Dải khí toàn bộ đường nách + ≥ 2 cm ở rốn phổi = LỚN**; **tái phát: ống ngực 28,0%, oxy 17,8%, VATS 0%; gộp sau VATS 10% (8–12%)**; **≤ 19 tuổi: cùng bên 12,3% vs 3,9%, đối diện 18,1% vs 4,6%**; **bleb trên CT dự báo tái phát (p < 0,001), tái phát sớm 10,5–12,7 tháng** | `601`, `617`, `609`, `618` |
 
 ## Bài liên quan chéo
+- [082 – Bại não & an toàn nuốt ở trẻ: GMFCS, VFSS/FEES & ngưỡng chuyển sang ống](../082-bai-nao-an-toan-nuot/lesson.md) *(mới — nối 081/612)*
+- [083 – Nuôi ăn qua sonde & mở thông dạ dày ở trẻ: biến chứng mạn, kiểm tra vị trí & xử trí](../083-nuoi-an-qua-sonde/lesson.md) *(mới — nối 082/646)*
 - [610 – Suy hô hấp sơ sinh](../610-suy-ho-hap-so-sinh-va-di-dang-phoi/lesson.md) *(đã có)*
 - [612 – Cấp cứu đường thở trên trẻ em](../612-cap-cuu-duong-tho-tren-tre-em/lesson.md) *(đã có)*
 - [615 – Viêm phổi nhi: round pneumonia, virus vs vi khuẩn & hít sặc dầu hỏa](../615-viem-phoi-nhi-round-pneumonia/lesson.md) *(đã có)*

@@ -51,6 +51,8 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 045 | [Thành ngực & hoành](045-thanh-nguc-hoanh/lesson.md) | `pattern:ngoai-mang-phoi` |
 | 041 | [Tràn khí màng phổi](041-tran-khi-mang-phoi/lesson.md) | `pattern:tran-khi` `vung:mang-phoi` |
 | 081 | [Sặc & rối loạn nuốt (VFSS/FEES, viêm phổi hít sặc, sonde dạ dày)](081-sac-va-roi-loan-nuot/lesson.md) | `pattern:sac-hit-sac` `pattern:roi-loan-nuot` `vung:duong-nuot` `vung:thanh-quan` `vung:phe-quan` `vung:phoi` `score:PAS` `score:Hyodo` `protocol:VFSS` `protocol:FEES` `protocol:sonde-da-day` `incidentaloma:viem-phoi-hit-sac` |
+| 082 | [Bại não & an toàn nuốt ở trẻ (GMFCS, VFSS/FEES, ngưỡng chuyển sang ống)](082-bai-nao-an-toan-nuot/lesson.md) | `pattern:hit-sac` `pattern:sac-tham-lang` `pattern:roi-loan-nuot` `vung:duong-nuot` `vung:thanh-quan` `vung:phoi` `score:PAS` `score:GMFCS` `protocol:VFSS` `protocol:FEES` `protocol:IDDSI` |
+| 083 | [Nuôi ăn qua sonde & mở thông dạ dày ở trẻ: biến chứng mạn, kiểm tra vị trí & xử trí](083-nuoi-an-qua-sonde/lesson.md) | `pattern:bien-chung-ong-nuoi` `vung:da-day` `vung:thanh-bung` `score:ASPEN` `protocol:kiem-tra-vi-tri` `protocol:contrast-study` `incidentaloma:pneumoperitoneum` `incidentaloma:buried-bumper` |
 
 ## Quy ước
 Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nhãn: ca nguyên văn / tổng hợp y văn / suy luận.

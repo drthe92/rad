@@ -604,3 +604,6 @@
 
 - 2026-10-22: viết **046** (restaging trung thất sau hóa–miễn dịch, ypN) + **086→686** (PH/hạ oxy mạn ở bệnh phổi mạn nhi); selfcheck+lint+author PASS.
 - 2026-10-22: thêm 2 khoảng trống vào hàng chờ: **085** (độc tính miễn dịch quanh mổ) và **1803** (OSA ở trẻ bệnh phổi mạn).
+
+- 2026-10-22: viết **082** (bại não & an toàn nuốt) + **083** (nuôi ăn qua sonde/PEG: biến chứng mạn); selfcheck+lint+mermaid+author PASS.
+- Thêm 2 khoảng trống: **086** (tube weaning) và **087** (viêm phổi do hít dầu hỏa).

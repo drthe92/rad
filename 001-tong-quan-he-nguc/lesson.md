@@ -58,6 +58,7 @@ certainty: tong-hop-y-van
 - [048 – Hội chứng lồng ngực không đủ (TIS) & VEPTR: SAL, nong 6 tháng/lần, thời điểm ngừng](../048-hoi-chung-long-nguc-khong-du-tis-veptr/lesson.md) *(mới)*
 - [076 – Dưỡng trấp niệu & rò bạch huyết đường niệu](../076-duong-trap-nieu-chyluria/lesson.md) *(mới — cùng hệ bạch huyết với 078/079)*
 - [081 – Sặc & rối loạn nuốt (VFSS/FEES, viêm phổi hít sặc, sonde dạ dày)](../081-sac-va-roi-loan-nuot/lesson.md) *(mới)*
+- [082 – Bại não & an toàn nuốt ở trẻ: GMFCS, VFSS/FEES & ngưỡng chuyển sang ống](../082-bai-nao-an-toan-nuot/lesson.md) *(mới)*
 - [079 – Tràn dịch dưỡng trấp (chylothorax): TG 110, lymphangiography & bậc thang điều trị](../079-tran-dich-duong-trap-chylothorax/lesson.md) *(mới)*
 - [049 – Theo dõi dài hạn sau cắt thùy phổi bẩm sinh ở trẻ](../049-theo-doi-sau-cat-thuy-phoi-bam-sinh/lesson.md) *(mới)*
 - [047 – Vẹo cột sống & biến dạng lồng ngực sau mở ngực ở trẻ](../047-veo-cot-song-sau-mo-nguc/lesson.md) *(mới)*
