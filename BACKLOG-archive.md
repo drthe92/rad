@@ -653,3 +653,6 @@
 - 2026-10-23: viết **562** (hẹp âm đạo sau xạ; 2 ảnh CC BY 4.0 + CC BY-NC-ND, giữ nguyên) và **6102** (CMV bào thai; 3 ảnh CC BY 4.0); selfcheck/lint/mermaid/author-check PASS.
 - 2026-10-23: ID 696 đã dùng cho LAM → CMV chuyển **6102**; append 2 khoảng trống 6103 (toxo/Zika bào thai) + 1626 (tái phát vòm âm đạo).
 - 2026-10-23: viết 564 (rò bàng quang–âm đạo & niệu quản–âm đạo sau mổ phụ khoa, 5 ảnh) và 1603 (vasa previa type II–III + đốt laser, 4 ảnh); đổi ID OPA1 carrier 1603→1627; thêm gap 191 & 1618.
+
+## 2026-10-23 — lượt worker (2 bài)
+- 1604 thai kỳ sau CSEP (tái phát 6,6–15%, PAS aRR 8,31; ảnh PMC11651832/PMC11914175 NC-ND + PMC11088178 CC BY) và 1605 endometrioma tiền sản (ESHRE 2022; CLBR 52,4% vs 59,6%; ảnh PMC12916156/PMC10606809/PMC13472831 CC BY). PASS selfcheck+lint+mermaid+author.
