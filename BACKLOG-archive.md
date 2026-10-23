@@ -624,7 +624,9 @@
 ## 2026-10-23 — 189 + 309
 - Viết **189** đánh giá tiết niệu trước ghép thận ở bàng quang thần kinh/tái tạo (sống ghép 10 năm 85,5%; LCB compliance < 12,5; DUDi AUC 0,87; cystatin C 68% đổi giai đoạn CKD; DLPP > 40 kinh điển vs > 20 nhạy hơn) + **309** loét tì đè & viêm xương tủy khung chậu ở người lớn spina bifida (OM 17–86%; MRI Se 0–94%/Sp 22–25%, PPV 84,6%/NPV 16,7%; Cierny–Mader; tái phát sau vạt 46%); selfcheck+lint+mermaid+author PASS.
 - Flip #292→189, #293→309 (ID 674/675 đã dùng); append **190** (sỏi niệu quản/thận ghép ở CIC) & **253** (áp-xe ngoài màng cứng do loét cùng cụt).
-
 ## 2026-10-23 — 249 + 482
 - Viết **249** CCF sau chấn thương (0,2% chấn thương sọ / 3,8% vỡ nền sọ; Barrow A–D; SOV > 5 mm; đóng kín 68–75%, liệt dây mới 5–7%; NPPB xuất huyết muộn 12 ngày) + **482** pachychoroid neovasculopathy (43% nAMD xếp lại là PNV; SCT 298 vs 228 µm; 7/43 < 200 µm; 11,0 vs 13,4 mũi tiêm/2 năm); selfcheck+lint+mermaid+author PASS.
 - Flip #294→249, #295→482; append **250** (chảy máu cam do vỡ giả phình C4 vào xoang bướm) & **405** (PPS vs phù đĩa thị).
+## 2026-10-23 — 693 + 694
+- Viết **693** theo dõi/biến chứng sau cắt u gan ở trẻ (biến chứng đường mật 14%: 9 rò, 3 hẹp; 83% sau cắt mở rộng; segment 1 p=0,023; biloma T2 sáng vs áp-xe khí/vách dày; tái phát 20% toàn bộ di căn xa; di căn phổi: 1 nốt > 10 mm hoặc ≥ 1 nốt > 5 mm; theo dõi AFP + siêu âm 3 tháng rồi 6 tháng × 3 năm) + **694** mềm sụn thanh quản ở nhũ nhi (75% nguyên nhân rít; thể I–III; soi thức 18,7% vs DISE 100%; AHI thể III 25,4/giờ, ngửa 22 vs nghiêng 7; Elsobki nhẹ < 4 / vừa 4–9 / nặng > 9; ~20% cần mổ; RCT ức chế acid không thêm lợi ích); selfcheck+lint+mermaid+author PASS.
+- Flip #296→693, #297→694; append **3005** (u máu dưới thanh môn) & **3006** (hội chứng ruột ngắn/IFALD).
