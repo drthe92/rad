@@ -630,3 +630,6 @@
 ## 2026-10-23 — 693 + 694
 - Viết **693** theo dõi/biến chứng sau cắt u gan ở trẻ (biến chứng đường mật 14%: 9 rò, 3 hẹp; 83% sau cắt mở rộng; segment 1 p=0,023; biloma T2 sáng vs áp-xe khí/vách dày; tái phát 20% toàn bộ di căn xa; di căn phổi: 1 nốt > 10 mm hoặc ≥ 1 nốt > 5 mm; theo dõi AFP + siêu âm 3 tháng rồi 6 tháng × 3 năm) + **694** mềm sụn thanh quản ở nhũ nhi (75% nguyên nhân rít; thể I–III; soi thức 18,7% vs DISE 100%; AHI thể III 25,4/giờ, ngửa 22 vs nghiêng 7; Elsobki nhẹ < 4 / vừa 4–9 / nặng > 9; ~20% cần mổ; RCT ức chế acid không thêm lợi ích); selfcheck+lint+mermaid+author PASS.
 - Flip #296→693, #297→694; append **3005** (u máu dưới thanh môn) & **3006** (hội chứng ruột ngắn/IFALD).
+## 2026-10-23 — 695 + 558
+- Viết **695** Treacher Collins & Nager (1/40.000–1/70.000; TCOF1 78–93%; mắt xếch 89%/gò má 81%/hàm dưới 78%/vành tai 77%; Nager 3/1.000.000, SF3B4; ốc tai TCS thiểu sản dính cục; OSA 44,4%; hầu 9,13→15,96 cm³) + **558** hội chứng cơ hình lê (PMCSA cắt 611,67 mm², AUC 0,81; PMT 14,24 mm; Beaton–Anson A 80–90%; 84,6% kèm đau rễ L4–S1; block giảm 57–71%); selfcheck+lint+mermaid+author PASS.
+- Flip #298→695, #304→558; append **382** (ischiofemoral impingement) & **1703** (dính khớp thái dương–hàm bẩm sinh).
