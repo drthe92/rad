@@ -22,6 +22,7 @@ certainty: tong-hop-y-van
 | Mất vững & Kẹt khớp gối (Knee internal derangement) | Khớp gối (knee) | Đứt dây chằng chéo trước (ACL), Rách sụn chêm (meniscal tear), Rách quai xô (bucket-handle) | Đứt ACL + đụng dập xương lồi cầu ngoài-mâm chày sau ngoài + trượt chày trước > 5–7 mm; Đường sáng chạm mặt khớp trên ≥ 2 lát cắt = Rách sụn chêm; Dấu 2 PCL = Rách quai xô | `360` |
 | Đau vai & Hạn chế dạng tay (Shoulder pathology) | Khớp vai (shoulder) | Rách chóp xoay (rotator cuff tear), Viêm gân vôi hóa, Tổn thương sụn viền Bankart / SLAP | Dịch T2W xuyên suốt bề dày gân cơ trên gai + khoảng mỏm cùng-chỏm (AHI) < 7 mm = Rách toàn bộ bề dày mạn tính; Rách sụn viền trước dưới + lõm Hill-Sachs = Bankart | `350` |
 | Đau khớp háng & Xẹp mặt khớp (Hip pain) | Khớp háng (hip) | Hoại tử vô mạch chỏm xương đùi (AVN), Gãy mỏi cổ xương đùi (stress fracture), Hội chứng chẹn khớp háng (FAI) | Dấu đường đôi (double-line sign) trên T2W dưới sụn = AVN; Đường đen T1W vuông góc bè xương bờ trong cổ xương đùi = Gãy mỏi; Góc alpha > 55° = FAI thể Cam | `361` |
+| Đau khu trú vùng cùng cụt khi ngồi (Coccygodynia) | Xương cụt & khớp cùng–cụt | Bất ổn/trượt khớp cùng–cụt, gai xương–viêm bao hoạt dịch, gãy cụt, u (chordoma/GCT/di căn), nang Tarlov, đau thần kinh thẹn, LAS | **Phim nghiêng ĐỨNG vs NGỒI: góc gấp > 20–25° hoặc trượt ra sau = bất ổn** (bình thường ~13°; **< 5° = cốt hóa/cố định**); **đau khu trú xương cụt khi ấn = loại trừ đau thần kinh thẹn**; gai xương lưng **14%**, trượt ra trước **5%**, cốt hóa khớp cùng–cụt **51% vs 37%** | `305`, `556` |
 | Tiêu xương kèm sưng nề phần mềm & Khí | Xương & Mô mềm | Viêm xương tủy cấp/mạn, Áp-xe Brodie, Bàn chân Charcot, Viêm cân hoại tử (necrotizing fasciitis) | Xương chết (sequestrum) + áo xương (involucrum) + dấu bóng ma (ghost sign) = Viêm xương tủy; Khí dọc cân cơ sâu = Viêm cân hoại tử (mổ tối khẩn!) | `370` |
 | Khối mô mềm KHÔNG mỡ (Non-fat soft-tissue mass) | Mô mềm – dây thần kinh (soft tissue) | U bao dây thần kinh (schwannoma/neurofibroma), MPNST, Myxofibrosarcoma, Synovial sarcoma, U mạch (angioleiomyoma/glomus) | **Dấu tách mỡ + dấu đuôi + bờ rõ = PNST lành**; **ADC < 1,1 ×10⁻³ mm²/s hoặc phù quanh u (Sp 94%) = nghi MPNST**; **đuôi mạc lan theo rãnh = myxofibrosarcoma (82,4%)**; quanh khớp + vôi hóa + ADC thấp = synovial sarcoma; "T2 sáng" một mình KHÔNG phân biệt lành/ác | `376` |
 | U dây thần kinh dạng đám rối & chuyển dạng MPNST ở NF1 (Plexiform neurofibroma & MPNST) | Mô mềm – dây thần kinh ngoại vi (peripheral nerve) | U dạng đám rối (PN, lành), ANNUBP, MPNST độ thấp/độ cao, Schwannoma, U thần kinh dạng da | **Nhiều "dấu bia" (target sign) + tín hiệu đồng nhất = PN lành**; **nốt mới trong u cũ / u to nhanh / không đồng nhất / phù quanh u = nghi chuyển dạng**; **ADCmean 2,13 (BPNST) → 1,66 (ANF) → 1,37 (MPNST) ×10⁻³ mm²/s**; **SUVmax ≥ 3,5 (Se 0,99/Sp 0,75), ngưỡng 5 cho ANF+MPNST (Se 85,2%/Sp 92,3%)**; **ANNUBP = ≥ 2/4 tiêu chí mô bệnh ± mất CDKN2A/B**; u da hầu như KHÔNG chuyển dạng | `377`, `376` |
@@ -43,6 +44,7 @@ certainty: tong-hop-y-van
 - [379 – MPNST: điều trị đa mô thức & theo dõi di căn phổi](../379-mpnst-dieu-tri-di-can-phoi/lesson.md) *(đã có)*
 - [047 – Vẹo cột sống & biến dạng lồng ngực sau mở ngực ở trẻ](../047-veo-cot-song-sau-mo-nguc/lesson.md) *(mới)*
 - [309 – Loét tì đè & viêm xương tủy vùng khung chậu ở người lớn spina bifida](../309-loet-ti-de-viem-xuong-tuy-spina-bifida-nguoi-lon/lesson.md) *(mới — phân độ NPUAP/EPUAP, Cierny–Mader, MRI vs sinh thiết xương, vạt che phủ)*
+- [305 – Đau xương cụt (coccygodynia): phim động học & bất ổn khớp cùng–cụt](../305-dau-xuong-cut-coccygodynia/lesson.md) *(mới — Maigne, block hạch gian, chỉ định cắt xương cụt)*
 
 ## Quy hoạch Master Curriculum Hệ Cơ – Xương – Khớp (300–380)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -50,6 +52,7 @@ certainty: tong-hop-y-van
 **300–319 — Tổng quan, Giải phẫu cắt lớp/MRI & Biến thể xương phụ**
 - **300** – Tổng quan Hệ Cơ – Xương – Khớp / MSK overview *(bài này)*
 - 301 – Protocol chụp X-quang tư thế đặc biệt, CT hai mức năng lượng (DECT), MRI khớp (PD fat-sat/T1W) & Siêu âm cơ xương khớp *(đã có — [bài học](../301-protocol-msk/lesson.md))*
+- 305 – Đau xương cụt (coccygodynia): phim động học đứng–ngồi (Maigne), bất ổn khớp cùng–cụt, block hạch gian & chỉ định cắt xương cụt *(mới — [bài học](../305-dau-xuong-cut-coccygodynia/lesson.md))*
 - 310 – Giải phẫu X-quang/MRI các khớp lớn & Bản đồ các xương phụ (Accessory ossicles) dễ nhầm với mảnh gãy *(đã có — [bài học](../310-giai-phau-xuong-khop-va-bien-the/lesson.md))*
 
 **320–329 — Chấn thương Xương & Khớp cấp cứu (Trauma)**

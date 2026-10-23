@@ -633,3 +633,4 @@
 ## 2026-10-23 — 695 + 558
 - Viết **695** Treacher Collins & Nager (1/40.000–1/70.000; TCOF1 78–93%; mắt xếch 89%/gò má 81%/hàm dưới 78%/vành tai 77%; Nager 3/1.000.000, SF3B4; ốc tai TCS thiểu sản dính cục; OSA 44,4%; hầu 9,13→15,96 cm³) + **558** hội chứng cơ hình lê (PMCSA cắt 611,67 mm², AUC 0,81; PMT 14,24 mm; Beaton–Anson A 80–90%; 84,6% kèm đau rễ L4–S1; block giảm 57–71%); selfcheck+lint+mermaid+author PASS.
 - Flip #298→695, #304→558; append **382** (ischiofemoral impingement) & **1703** (dính khớp thái dương–hàm bẩm sinh).
+- 2026-10-23: viết **305** (đau xương cụt; ID 557 đã dùng → đổi 305) + **607** (PPHN). Selfcheck/lint/mermaid/author-check PASS.
