@@ -1,0 +1,24 @@
+# Nguồn gốc — 562 (Hẹp âm đạo sau xạ trị ung thư cổ tử cung)
+
+> Quét ngày 2026-10-23 theo pipeline Europe PMC `FIG:"vaginal stenosis" + OPEN_ACCESS:Y`; kiểm tra giấy phép từng bài trước khi tải ảnh. Tác giả lấy trực tiếp từ `authorString` của Europe PMC theo PMCID.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Dùng cho |
+|---|---|---|---|---|---|
+| 1 | Raj S et al., *J Contemp Brachytherapy* 2024;16:241–256. PMCID **PMC11609866**; PMID 39629092; DOI 10.5114/jcb.2024.141402 | Incidence of vaginal toxicities following definitive chemoradiation in intact cervical cancer: a meta-analysis | https://pmc.ncbi.nlm.nih.gov/articles/PMC11609866/ | **CC BY-NC-SA 4.0** (không dùng ảnh) | 24 nghiên cứu; độc tính âm đạo gộp 39% (21–56%); hẹp trung vị 61,5% (20–77,8%); độ ≥ 3: 12,74% (CTCAE v4), 0,98% (CTCAE v3), 10,41% (RTOG/EORTC), 0% (LENT-SOMA); yếu tố nguy cơ |
+| 2 | Varytė G et al., *Medicina (Kaunas)* 2021;57:336. PMCID **PMC8066324**; PMID 33915994; DOI 10.3390/medicina57040336 | Pelvic Radiation Therapy Induced Vaginal Stenosis: A Review of Current Modalities and Recent Treatment Advances | https://pmc.ncbi.nlm.nih.gov/articles/PMC8066324/ | **CC BY 4.0** (không dùng ảnh) | Cơ chế xơ hóa; tần suất 3 năm (nội mạc 50%, cổ tử cung 60%, hậu môn–trực tràng 80%); **EMBRACE 630 bệnh nhân**: nguy cơ hẹp 16% ở 55 Gy, 20% ở 65 Gy, 27% ở 75 Gy, 34% ở 85 Gy, 43% ở 95 Gy (điểm tham chiếu trực tràng–âm đạo); CTCAE v5 & LENT-SOMA; laser/hyaluronic acid |
+| 3 | Matos SRL et al., *PLoS One* 2019;14:e0221054. PMCID **PMC6688793**; PMID 31398239; DOI 10.1371/journal.pone.0221054 | Consensus for vaginal stenosis prevention in patients submitted to pelvic radiotherapy | https://pmc.ncbi.nlm.nih.gov/articles/PMC6688793/ | **CC BY 4.0** (không dùng ảnh) | Đồng thuận Delphi 32 chuyên gia: nong 5–10 phút, 2–3 lần/tuần, vô thời hạn; bắt đầu 2–4 tuần sau xạ; giao hợp lại 2–4 tuần; tăng dần đường kính; tư vấn cho mọi bệnh nhân |
+| 4 | Martins J et al., *BMC Cancer* 2021;21:682. PMCID **PMC8191143**; PMID 34112100; DOI 10.1186/s12885-021-08274-w | Topical estrogen, testosterone, and vaginal dilator in the prevention of vaginal stenosis after radiotherapy: a randomized clinical trial | https://pmc.ncbi.nlm.nih.gov/articles/PMC8191143/ | **CC BY 4.0** (không dùng ảnh) | 142 bệnh nhân, 4 nhóm; thể tích âm đạo giảm trung bình **25,47%**, không khác giữa các nhóm; **chỉ nhóm dùng dilator không xấu đi** (p = 0,37); CTCAE v3 |
+| 5 | Martins da Rosa L et al., *Rev Cuid* 2024;15:e3309. PMCID **PMC11807004**; PMID 40114689; DOI 10.15649/cuidarte.3309 | Vaginal stenosis and dilator use after pelvic brachytherapy | https://pmc.ncbi.nlm.nih.gov/articles/PMC11807004/ | **CC BY 4.0** (không dùng ảnh) | 519 bệnh nhân sau BT; **49,1%** dùng dilator đều (3 lần/tuần × 20 phút); **24,5%** không giao hợp và không dùng dilator; phân độ hẹp |
+| 6 | Kongwattanakul S et al., *J Gynecol Oncol* 2026;37:e72. PMCID **PMC13365771**; PMID 41796992; DOI 10.3802/jgo.2026.37.e72 | The effectiveness of a 3-dimensional printed vaginal dilator in mitigating radiation-induced vaginal stenosis | https://pmc.ncbi.nlm.nih.gov/articles/PMC13365771/ | **CC BY-NC 4.0** (không dùng ảnh) | 67 bệnh nhân; dilator in 3D; phần lớn hẹp **độ 1 LENT-SOMA**, **15,79% độ 2**; theo dõi 1–12 tháng |
+| 7 | Bodily BM et al., *O&G Open* 2025;2:e082. PMCID **PMC12421974**; PMID 41000083; DOI 10.1097/og9.0000000000000082 | Three-Dimensional–Printed Vaginal Molds for Treating Postradiation Vaginal Stenosis | https://pmc.ncbi.nlm.nih.gov/articles/PMC12421974/ | **CC BY 4.0** | Ca hẹp sau xạ: MRI **chiều dài âm đạo 3,73 cm, vòm bịt kín 3,11 cm**; sau giải phóng dính 7,5 × 3,5 cm; mold in 3D đeo qua đêm; 6 tháng giao hợp không đau; ảnh MRI |
+| 8 | Mushtaq A et al., *AJOG Glob Rep* 2023;3:100257. PMCID **PMC10493260**; PMID 37701754; DOI 10.1016/j.xagr.2023.100257 | Vaginal stenosis treatment using computed tomography and fluoroscopy guidance | https://pmc.ncbi.nlm.nih.gov/articles/PMC10493260/ | **CC BY-NC-ND 4.0** | Ca bít hoàn toàn tân âm đạo: nong bóng **12 mm** dưới huỳnh quang/CT rồi đặt catheter **26 Fr**; ảnh huỳnh quang (dùng **nguyên bản, không crop/ghép**); ca gốc **không phải** xạ trị cổ tử cung |
+
+## Nguồn tham khảo thêm (không lấy ảnh)
+- **EMBRACE** — nghiên cứu MRI-guided brachytherapy (dữ liệu liều–hẹp dẫn qua Varytė 2021).
+- **ISUOG/RTOG** — định nghĩa độc tính muộn (dẫn qua Varytė 2021).
+- **Bài trong repo**: 582 (biến chứng tiêu hóa–niệu sau xạ), 577 (theo dõi tái phát), 590 (tạo hình âm đạo), 574 (ung thư âm hộ–âm đạo).
+
+## Ghi chú giấy phép
+- Ảnh dùng trong bài: 1 ảnh **CC BY 4.0** (PMC12421974) và 1 ảnh **CC BY-NC-ND 4.0** (PMC10493260) — ảnh ND **giữ nguyên, không crop, không ghép**.
+- Các bài CC BY-NC, CC BY-NC-SA chỉ dùng số liệu, **không lấy ảnh**.
+- Không dùng ảnh từ Radiopaedia, AuntMinnie hay nguồn paywall.

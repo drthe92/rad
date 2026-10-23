@@ -384,6 +384,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 515 | [Đánh giá đáp ứng vú sau hóa trị tân bổ trợ: MRI/CEM/siêu âm, pCR & rCR/rPR](515-dap-ung-vu-sau-hoa-tri-tan-bo-tro/lesson.md) | `pattern:vu-sau-hoa-tri` `pattern:dap-ung-pCR` `vung:vu` `score:RECIST` `protocol:MRI-vu` `protocol:CEM` `protocol:US-vu` |
 | 588 | [Một thai chết trong song thai một ối (MCMA): tổn thương não–thận thai còn lại & theo dõi](588-song-thai-MCMA-mot-thai-chet/lesson.md) | `pattern:song-thai-mot-oi` `pattern:single-IUFD` `pattern:ton-thuong-nao-thai` `vung:thai-nhi` `vung:nao-thai` `vung:than-thai` `protocol:MRI-thai` `protocol:SA-Doppler-MCA` `score:ventriculomegaly` |
 | 1601 | [Ung thư vú trong thai kỳ & cho con bú: siêu âm trước, nhũ ảnh có che chì, MRI không gadolinium & xử trí theo tam cá nguyệt](1601-ung-thu-vu-trong-thai-ky/lesson.md) | `pattern:u-vu` `pattern:thai-ky` `vung:vu` `score:BI-RADS` `protocol:sieu-am-vu` `protocol:nhu-anh` `protocol:MRI-vu` |
+| 562 | [Hẹp âm đạo sau xạ trị ung thư cổ tử cung: đo độ dài – CTCAE/LENT-SOMA, nong, mold 3D & tạo hình](562-hep-am-dao-sau-xa-tri/lesson.md) | `pattern:hep-am-dao` `pattern:xo-hoa-sau-xa` `vung:am-dao` `vung:khung-chau` `score:CTCAE` `score:LENT-SOMA` `protocol:MRI-chau` |
 
 ## Hệ Nhi khoa (dải 600, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
@@ -488,6 +489,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 684 | [Tăng triglyceride do asparaginase/pegaspargase ở trẻ ALL: ngưỡng giữ–hoãn–tái dùng liều, viêm tụy & huyết khối xoang](684-tang-triglyceride-asparaginase-all-nhi/lesson.md) | `pattern:tang-triglyceride` `pattern:viem-tuy-cap` `pattern:huyet-khoi-xoang` `vung:tuy` `vung:mach-nao` `score:CTCAE-HTGT` `protocol:CT-bung` `protocol:MRV` |
 | 685 | [Theo dõi dài hạn & ngừng thuốc sau bóc tách động mạch cổ ở trẻ: tái thông – giả phình, tầm soát bệnh mô liên kết & tư vấn thể thao](685-theo-doi-ngung-thuoc-sau-boc-tach-dong-mach-co-o-tre/lesson.md) | `pattern:boc-tach-mach` `pattern:hep-tac-mach` `pattern:gia-phinh-mach` `pattern:tai-thong-mach` `vung:mach-co-dau-co` `vung:nao-nhi` `protocol:CTA-co` `protocol:MRA-co` `protocol:MRI-thanh-mach` |
 | 380 | [Bệnh xơ cứng củ ở trẻ: bản đồ tổn thương đa cơ quan & lịch tầm soát](380-benh-xo-cung-cu-o-tre/lesson.md) | `pattern:ton-thuong-da-co-quan` `pattern:not` `pattern:nang` `vung:nao` `vung:than` `vung:tim` `vung:phoi` `protocol:MRI-nao` `protocol:MRI-bung` `protocol:HRCT` `incidentaloma:AML` |
+| 6102 | [Nhiễm CMV bào thai: vôi hóa quanh não thất, thiểu sản tiểu não mắc phải vs di truyền & tư vấn tiền sản](6102-nhiem-cmv-bao-thai/lesson.md) | `pattern:voi-hoa-quanh-nao-that` `pattern:bat-thuong-vo-nao` `pattern:thi-u-san-tieu-nao` `vung:nao-thai` `vung:nhau-thai` `protocol:MRI-thai` `protocol:sieua-am-thai` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
 | ID | Bài | Tags 4 chiều |
