@@ -634,3 +634,6 @@
 - Viết **695** Treacher Collins & Nager (1/40.000–1/70.000; TCOF1 78–93%; mắt xếch 89%/gò má 81%/hàm dưới 78%/vành tai 77%; Nager 3/1.000.000, SF3B4; ốc tai TCS thiểu sản dính cục; OSA 44,4%; hầu 9,13→15,96 cm³) + **558** hội chứng cơ hình lê (PMCSA cắt 611,67 mm², AUC 0,81; PMT 14,24 mm; Beaton–Anson A 80–90%; 84,6% kèm đau rễ L4–S1; block giảm 57–71%); selfcheck+lint+mermaid+author PASS.
 - Flip #298→695, #304→558; append **382** (ischiofemoral impingement) & **1703** (dính khớp thái dương–hàm bẩm sinh).
 - 2026-10-23: viết **305** (đau xương cụt; ID 557 đã dùng → đổi 305) + **607** (PPHN). Selfcheck/lint/mermaid/author-check PASS.
+## 2026-10-23 — 602 + 608
+- Viết **608** theo dõi sau mổ CDH (tái phát 9,5%, 43,2% không triệu chứng; CDH trái RR 8,5; PH mạn 4,5–38%; trào ngược 18,0% triệu chứng vs 13,4% khách quan; tái nhập viện 72,5%/3 năm; tử vong muộn 1,4%) + **602** TBM ở BPD (xẹp > 50%; 66% BPD độ 3; nội soi đầu bỏ sót 35%; PEEP 13 vs 10,5, OR 1,36; aortopexy 84%); selfcheck+lint+mermaid+author PASS.
+- Flip #306→608, #307→602; append **6100** (chăm sóc/cai ống mở khí quản) & **6101** (xẹp phổi tái diễn một bên).
