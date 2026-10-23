@@ -643,3 +643,6 @@
 ## 2026-10-23 — 205 + 173
 - Viết **205** xơ hóa mê đạo (3 giai đoạn; viêm màng não 5% điếc sâu/tới 80% xơ hóa; khởi phát 3 tuần–9 tháng; 54/2.154 ca; CAP-II 8,3/6,7/6,5; drill-out 6–8 mm) + **173** iCCA trên Caroli/CHF (7–16%; CS 25%; CA 19-9 ≥ 103 U/L, HR 2,00; LR-M Se 83,2/Sp 85,1; ghép ≤ 2–3 cm, sống 5 năm 62–65%).
 - Flip #310→205, #326→173; append **108** (tổn thương đường mật sau cắt túi mật) & **077** (GLA/Gorham–Stout). Selfcheck/lint/mermaid/author PASS.
+## 2026-10-23 — 1801 + 180
+- Viết **1801** REILD sau TARE (Sangro bilirubin >3 mg/dL + báng 4–8 tuần; 1,0–5,4% nhưng **60,6% khi TARE cả gan một lần**; ALBI 2–3 OR 5,7; ngưỡng NTL 30–40 Gy nhựa/40–70 Gy thủy tinh; sống 5,2 vs 22,1 tháng) + **180** viêm túi mật thiếu máu sau TACE (0,45% chung nhưng **10%** khi có lipiodol trong thành trên CBCT; catheter trực tiếp ĐM túi mật OR 52; thành ≥ 4 mm, >80 HU; 15/27 tự hết).
+- Flip #327→1801, #328→180; append **1805** (loét tiêu hóa do trào ngược vi cầu) & **1806** (viêm phổi do xạ sau TARE). selfcheck + lint + mermaid + author PASS.

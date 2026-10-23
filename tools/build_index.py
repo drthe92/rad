@@ -34,6 +34,10 @@ def spec_of(uid):
             5: "vuspk", 6: "nhi", 7: "dauco", 8: "tim", 9: "canthiep"}.get(n // 100, "khac")
 
 
+# ID 4 chữ số là dải tràn (overflow) — gán phân hệ thủ công cho đúng tab.
+SPEC_OVERRIDE = {"1601": "vuspk", "1602": "vuspk", "1780": "nhi", "1801": "bung"}
+
+
 def frontmatter(path):
     t = Path(path).read_text(encoding="utf-8")
     m = re.match(r"^---\s*\n(.*?)\n---\s*\n(.*)", t, re.S)
@@ -81,7 +85,7 @@ def main():
     # Chỉ nhận bài "hoàn chỉnh" (có lesson.md + sources.md theo bất biến repo);
     # bài đang viết dở (chưa có sources.md) sẽ không lên hub tới khi hoàn tất.
     dirs = sorted(d for d in os.listdir(".")
-                  if re.match(r"^\d{3}-", d) and (root / d / "lesson.md").exists()
+                  if re.match(r"^\d{3,4}-", d) and (root / d / "lesson.md").exists()
                   and (root / d / "sources.md").exists())
     old = root.joinpath("index.html").read_text(encoding="utf-8") if root.joinpath("index.html").exists() else ""
     keep = curated_copy(old)
@@ -90,7 +94,8 @@ def main():
     for d in dirs:
         fm = frontmatter(f"{d}/lesson.md")
         tags = [t.strip() for t in fm["tags"].strip("[]").split(",") if t.strip()]
-        uid, spec = fm["unit_id"], spec_of(fm["unit_id"])
+        uid = fm["unit_id"]
+        spec = SPEC_OVERRIDE.get(uid, spec_of(uid))
         scores = [t.split(":", 1)[1] for t in tags if t.startswith("score:")]
         cert = CERT_LABEL.get(fm["certainty"], fm["certainty"])
         k = keep.get(d, {})
