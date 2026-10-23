@@ -52,6 +52,7 @@ certainty: tong-hop-y-van
 | Nốt đơn độc ở người CÓ tiền sử ung thư | Phổi | Di căn đơn độc, K phổi nguyên phát mới, lành | mGGN/chồi gai/kéo màng phổi → nguyên phát; FDG âm không loại trừ | [016](../016-not-phoi-tien-su-ung-thu/lesson.md) |
 | Dày vách liên tiểu thùy/mô kẽ | Phổi (mô kẽ) | PLC, phù, sarcoid, xơ, PAP | **Dạng nốt** = u/sarcoid; **trơn đối xứng** = phù; co kéo = xơ | [017](../017-bach-mach-lan-phoi/lesson.md), [011](../011-tieu-thuy-phoi/lesson.md) |
 | Mờ theo trọng lực (đông đặc/kính mờ phân thùy phụ thuộc) | Phổi (đáy-sau, thường phải) | Viêm phổi hít sặc, viêm phổi hóa chất, dị vật đường thở | **Vị trí theo tư thế + bối cảnh rối loạn nuốt/nằm lâu/hôn mê** = hít sặc; mờ hai bên lan tỏa trong vài giờ = hóa chất | [081](../081-sac-va-roi-loan-nuot/lesson.md) |
+| Mờ phổi MỚI ở người đang thở máy | Phổi (vùng phụ thuộc) | VAP · xẹp phổi · phù phổi/ARDS · viêm phổi hít sặc · thuyên tắc nhiễm khuẩn | **≥ 48 giờ thở máy + mờ mới/tiến triển + ≥ 3 dấu lâm sàng = VAP**; **tan nhanh sau hút + mất thể tích = xẹp**; **đối xứng + Kerley B = phù**; cấy ETA ≥ 10⁵ / BAL ≥ 10⁴ / PSB ≥ 10³ CFU/mL | [084](../084-viem-phoi-tho-may/lesson.md) |
 | **Hạch trung thất tồn dư sau hóa–miễn dịch** | Trung thất – rốn phổi | Di căn tồn dư (ypN+), xơ–hyalin hóa sau điều trị, phản ứng dạng sarcoid do ICI, giả tiến triển, lao/nấm | **Hạch > 5 mm trục ngắn + còn FDG = phải chọc lại**; teo + vôi + không FDG = xơ; **đối xứng 2 bên + bối cảnh ICI = sarcoid-like**; **ΔSUVmax ≥ 53,1%** = giả tiến triển | [046](../046-tai-phan-giai-doan-trung-that-sau-hoa-mien-dich/lesson.md) |
 
 ## Bài liên quan chéo
@@ -59,6 +60,7 @@ certainty: tong-hop-y-van
 - [076 – Dưỡng trấp niệu & rò bạch huyết đường niệu](../076-duong-trap-nieu-chyluria/lesson.md) *(mới — cùng hệ bạch huyết với 078/079)*
 - [081 – Sặc & rối loạn nuốt (VFSS/FEES, viêm phổi hít sặc, sonde dạ dày)](../081-sac-va-roi-loan-nuot/lesson.md) *(mới)*
 - [082 – Bại não & an toàn nuốt ở trẻ: GMFCS, VFSS/FEES & ngưỡng chuyển sang ống](../082-bai-nao-an-toan-nuot/lesson.md) *(mới)*
+- [084 – Viêm phổi thở máy (VAP): X-quang/CT, cấy định lượng & bó dự phòng vi hít sặc](../084-viem-phoi-tho-may/lesson.md) *(mới)*
 - [079 – Tràn dịch dưỡng trấp (chylothorax): TG 110, lymphangiography & bậc thang điều trị](../079-tran-dich-duong-trap-chylothorax/lesson.md) *(mới)*
 - [049 – Theo dõi dài hạn sau cắt thùy phổi bẩm sinh ở trẻ](../049-theo-doi-sau-cat-thuy-phoi-bam-sinh/lesson.md) *(mới)*
 - [047 – Vẹo cột sống & biến dạng lồng ngực sau mở ngực ở trẻ](../047-veo-cot-song-sau-mo-nguc/lesson.md) *(mới)*

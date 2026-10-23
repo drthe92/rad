@@ -607,3 +607,7 @@
 
 - 2026-10-22: viết **082** (bại não & an toàn nuốt) + **083** (nuôi ăn qua sonde/PEG: biến chứng mạn); selfcheck+lint+mermaid+author PASS.
 - Thêm 2 khoảng trống: **086** (tube weaning) và **087** (viêm phổi do hít dầu hỏa).
+
+## 2026-10-23 — 084 + 244
+- Viết **084** VAP (≥48 giờ, ETA 10⁵/BAL 10⁴/PSB 10³, cuff 25–30 cmH₂O, đầu giường 30–45°, không chlorhexidine thường quy, VAE nhạy ~40%) + **244** rò CSF nền sọ ở trẻ (2% TBI, 12–30% vỡ nền sọ, B2T 87–100%/71–94%, HRCT ~70%, mổ 46%/thành công 59–77%); selfcheck+lint+mermaid+author PASS.
+- Flip #278→084, #282→244 (ID 239 đã dùng; đổi 244, hàng 310 đổi ID đề xuất 205); thêm 2 khoảng trống: **088** (áp-xe/mủ màng phổi sau VAP) & **208** (rò CSF qua xương đá).
