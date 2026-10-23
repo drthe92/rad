@@ -648,3 +648,7 @@
 - Flip #327→1801, #328→180; append **1805** (loét tiêu hóa do trào ngược vi cầu) & **1806** (viêm phổi do xạ sau TARE). selfcheck + lint + mermaid + author PASS.
 
 - 2026-10-23: viết 104 (nhiễm trùng nang gan PLD/ADPKD; PET 96% vs CT 39%) + 743 (chảy máu cam trẻ: JNA/HHT, nút mạch SPA 500 µm); selfcheck+lint+author PASS. Flip 104/743 xong, thêm 106 (LCI ở ghép thận) & 744 (epistaxis + rối loạn đông máu).
+
+## 2026-10-23 — 380 + 381
+- Viết **380** TSC ở trẻ (SEN: CT 100% vs MRI 68,4%; tuber: MRI 84,2% vs CT 21,7%; SEGA lỗ Monro > 1 cm, everolimus −21,6 đến −26,6%; AML mỡ −10 đến −100 HU; lịch não/thận 1–3 năm) + **381** di căn phổi MPNST (R0 chốt — OS HR 6,54 khi cắt không hết; nốt > 2 cm DFS HR 2,60; DFI > 12 tháng OS HR 0,42; SBRT thất bại tại chỗ 32,0/45,3/47,2% ở 1/2/3 năm; áp lạnh ≤ 2 cm 88,8%/79,1%).
+- Flip #300→380, #301→381; append **414** (DUSN/ấu trùng di động) & **186** (hẹp miệng nối mật–ruột sau cắt OMC, đổi ID vì 675 đã dùng). Working tree bẩn do lượt trước bị cắt ngang → đã stash 2 file tổng quan 300/600 + 2 bài dở rồi phục hồi. selfcheck + lint + mermaid + author PASS.
