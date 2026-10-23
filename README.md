@@ -202,6 +202,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 182 | [Biến chứng SỚM sau TIPS: thủng bao gan, hemobilia, endotipsitis, suy tim cung lượng cao](182-bien-chung-som-sau-tips/lesson.md) | `pattern:bien-chung-can-thiep` `vung:gan` `vung:duong-mat` `protocol:CT-3-thi` `protocol:ERCP` |
 | 183 | [Giảm đường kính shunt & bệnh não gan kháng trị sau TIPS: 5 mm/waist, PPG ~12 mmHg, khi nào bít hoàn toàn](183-giam-duong-kinh-shunt-va-HE-khang-tri-sau-tips/lesson.md) | `pattern:shunt-cua-chu` `pattern:bien-nao-gan` `vung:gan` `vung:mach-cua` `score:West-Haven` `score:PPG` `protocol:DSA-do-ap-luc` |
 | 149 | [Tăng áp cửa KHÔNG do xơ gan: PSVD/NCPF, sán máng & ba tầng tắc nghẽn](149-tang-ap-cua-khong-xo-gan/lesson.md) | `pattern:tang-ap-cua` `vung:gan` `vung:bung` `score:PSVD-2026` `protocol:MRI-gan-HBP` `protocol:Doppler-cua` |
+| 189 | [Đánh giá tiết niệu trước ghép thận ở bàng quang thần kinh & bàng quang tái tạo: cystatin C, video-niệu động học, DUDi, tăng cường bàng quang & theo dõi sau ghép](189-danh-gia-truoc-ghep-than-bang-quang-than-kinh/lesson.md) | `pattern:danh-gia-truoc-ghep` `pattern:bang-quang-ap-luc-cao` `vung:tiet-nieu` `vung:than-ghep` `protocol:video-nieu-dong` `score:DUDi` `anatomy:bang-quang-than-kinh` |
 
 ## Hệ Thần kinh (dải 200, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
@@ -277,6 +278,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 377 | [U dây thần kinh dạng đám rối & chuyển dạng MPNST ở NF1](377-u-than-kinh-dang-dam-roi-va-mpnst-nf1/lesson.md) | `pattern:u-than-kinh-ngoai-vi` `pattern:u-phan-mem` `pattern:dam-roi-than-kinh` `vung:mo-mem` `score:ADC` `score:SUVmax` `protocol:WB-MRI` `protocol:PET-CT` |
 | 378 | [Điều trị u dây thần kinh dạng đám rối ở NF1: selumetinib & theo dõi thể tích](378-dieu-tri-u-dam-roi-nf1-selumetinib/lesson.md) | `pattern:u-thanh-kinh-ngoai-vi` `pattern:dam-roi-thanh-kinh` `vung:mo-mem` `protocol:MRI-mo-mem` `protocol:MRI-the-tich` `score:dap-ung-the-tich` |
 | 379 | [MPNST: điều trị đa mô thức & theo dõi di căn phổi](379-mpnst-dieu-tri-di-can-phoi/lesson.md) | `pattern:u-phan-mem` `pattern:u-thanh-kinh-ngoai-vi` `vung:mo-mem` `vung:phoi` `score:SUVmax` `score:ADC` `score:TNM` `protocol:MRI-mo-mem` `protocol:PET-CT` `protocol:CT-nguc` `incidentaloma:di-can-phoi` |
+| 309 | [Loét tì đè & viêm xương tủy vùng khung chậu ở người lớn spina bifida: phân độ NPUAP/EPUAP, Cierny–Mader, MRI vs sinh thiết xương, vạt che phủ & phòng tái phát](309-loet-ti-de-viem-xuong-tuy-spina-bifida-nguoi-lon/lesson.md) | `pattern:loet-ti-de` `pattern:viem-xuong-tuy` `vung:khung-chau` `score:NPUAP-EPUAP` `score:Cierny-Mader` `protocol:MRI-khung-chau` `anatomy:spina-bifida` |
 
 ## Hệ Vú & Sản Phụ khoa (dải 500, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |

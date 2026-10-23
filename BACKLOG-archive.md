@@ -620,5 +620,7 @@
 ## 2026-10-23 — 689 + 172
 - Viết **689** suy giáp tiêu thụ do IHH (D3: T4→rT3, T3→T2; 5,3% IHH, TSH trung bình 145,5 mU/L, 13/43 sàng lọc sơ sinh bình thường; LT4 max trung bình 24,04 µg/kg/ngày, LT3 28,8%) + **172** theo dõi sau EVAR/FEVAR bóc tách ĐMC bụng (túi tăng ≥ 5 mm, type I/III sửa ngay, type II chỉ khi túi tăng; FEVAR mất nhánh 9,9%/5 năm, can thiệp lại 37,2%); selfcheck+lint+mermaid+author PASS.
 - Flip #289→689, #290→172; append **173** (IAAD chấn thương/iatrogenic) & **1804** (D3 ngoài gan/rhabdoid thận).
-
 - 2026-10-23: viết bài **691** (sỏi bàng quang/sỏi quanh catheter ở trẻ bàng quang thần kinh) + **252** (biến chứng muộn shunt não thất); selfcheck/lint/mermaid/author PASS; BACKLOG flip 291+387, thêm 3001/3002, đổi 691 của mục 342 → 3003.
+## 2026-10-23 — 189 + 309
+- Viết **189** đánh giá tiết niệu trước ghép thận ở bàng quang thần kinh/tái tạo (sống ghép 10 năm 85,5%; LCB compliance < 12,5; DUDi AUC 0,87; cystatin C 68% đổi giai đoạn CKD; DLPP > 40 kinh điển vs > 20 nhạy hơn) + **309** loét tì đè & viêm xương tủy khung chậu ở người lớn spina bifida (OM 17–86%; MRI Se 0–94%/Sp 22–25%, PPV 84,6%/NPV 16,7%; Cierny–Mader; tái phát sau vạt 46%); selfcheck+lint+mermaid+author PASS.
+- Flip #292→189, #293→309 (ID 674/675 đã dùng); append **190** (sỏi niệu quản/thận ghép ở CIC) & **253** (áp-xe ngoài màng cứng do loét cùng cụt).

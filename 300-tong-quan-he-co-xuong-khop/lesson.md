@@ -42,6 +42,7 @@ certainty: tong-hop-y-van
 - [378 – Điều trị PN ở NF1: selumetinib & theo dõi thể tích](../378-dieu-tri-u-dam-roi-nf1-selumetinib/lesson.md) *(đã có)*
 - [379 – MPNST: điều trị đa mô thức & theo dõi di căn phổi](../379-mpnst-dieu-tri-di-can-phoi/lesson.md) *(đã có)*
 - [047 – Vẹo cột sống & biến dạng lồng ngực sau mở ngực ở trẻ](../047-veo-cot-song-sau-mo-nguc/lesson.md) *(mới)*
+- [309 – Loét tì đè & viêm xương tủy vùng khung chậu ở người lớn spina bifida](../309-loet-ti-de-viem-xuong-tuy-spina-bifida-nguoi-lon/lesson.md) *(mới — phân độ NPUAP/EPUAP, Cierny–Mader, MRI vs sinh thiết xương, vạt che phủ)*
 
 ## Quy hoạch Master Curriculum Hệ Cơ – Xương – Khớp (300–380)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
