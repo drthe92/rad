@@ -198,6 +198,7 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [236 – Viêm tai xương chũm & biến chứng nội sọ](../236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md) (nền tảng viêm chũm, OLST, áp-xe não)
+- [233 – Viêm tai ngoài ác tính & viêm xương nền sọ](../233-viem-tai-ngoai-ac-tinh-nen-so/lesson.md) (liệt nhiều dây sọ do lan nền sọ)
 - [238 – Hội chứng Lemierre & huyết khối TM cảnh trong](../238-lemierre-huyet-khoi-tm-canh-trong/lesson.md) (lan xuống cổ, dây IX–XII)
 - [235 – Xương thái dương & xoang: cholesteatoma](../235-xuong-thai-duong-xoang/lesson.md) (DWI sáng do keratin)
 - [720 – Xương đá, viêm tai & cholesteatoma](../720-temporal-bone-cholesteatoma/lesson.md)

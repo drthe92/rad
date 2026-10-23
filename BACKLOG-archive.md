@@ -637,3 +637,6 @@
 ## 2026-10-23 — 602 + 608
 - Viết **608** theo dõi sau mổ CDH (tái phát 9,5%, 43,2% không triệu chứng; CDH trái RR 8,5; PH mạn 4,5–38%; trào ngược 18,0% triệu chứng vs 13,4% khách quan; tái nhập viện 72,5%/3 năm; tử vong muộn 1,4%) + **602** TBM ở BPD (xẹp > 50%; 66% BPD độ 3; nội soi đầu bỏ sót 35%; PEEP 13 vs 10,5, OR 1,36; aortopexy 84%); selfcheck+lint+mermaid+author PASS.
 - Flip #306→608, #307→602; append **6100** (chăm sóc/cai ống mở khí quản) & **6101** (xẹp phổi tái diễn một bên).
+## 2026-10-23 — 561 + 233
+- Viết **561** sa tạng chậu tái phát sau cắt lưới (RCT 7 năm: thành công 53% lưới vs 54% mô tự thân; mổ lại 25% vs 16%; lộ lưới 42%; SSLF không ghép aOR 2,2; sau cắt lưới són tiểu 66%/POP 23%) + **233** viêm tai ngoài ác tính (ĐTĐ 97%, *P. aeruginosa* 50–68%, kháng cipro 35%, liệt dây sọ 35%, tái phát 32% sau 100 ngày, tử vong 9–31,8%, 6 tuần kháng sinh khỏi 86%, FDG-PET LR− 0,05); selfcheck+lint+mermaid+author PASS.
+- Flip #308→561, #309→233; append **1612** (colpocleisis) & **253** (central SBO không do tai).
