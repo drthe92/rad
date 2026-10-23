@@ -640,3 +640,6 @@
 ## 2026-10-23 — 561 + 233
 - Viết **561** sa tạng chậu tái phát sau cắt lưới (RCT 7 năm: thành công 53% lưới vs 54% mô tự thân; mổ lại 25% vs 16%; lộ lưới 42%; SSLF không ghép aOR 2,2; sau cắt lưới són tiểu 66%/POP 23%) + **233** viêm tai ngoài ác tính (ĐTĐ 97%, *P. aeruginosa* 50–68%, kháng cipro 35%, liệt dây sọ 35%, tái phát 32% sau 100 ngày, tử vong 9–31,8%, 6 tuần kháng sinh khỏi 86%, FDG-PET LR− 0,05); selfcheck+lint+mermaid+author PASS.
 - Flip #308→561, #309→233; append **1612** (colpocleisis) & **253** (central SBO không do tai).
+## 2026-10-23 — 205 + 173
+- Viết **205** xơ hóa mê đạo (3 giai đoạn; viêm màng não 5% điếc sâu/tới 80% xơ hóa; khởi phát 3 tuần–9 tháng; 54/2.154 ca; CAP-II 8,3/6,7/6,5; drill-out 6–8 mm) + **173** iCCA trên Caroli/CHF (7–16%; CS 25%; CA 19-9 ≥ 103 U/L, HR 2,00; LR-M Se 83,2/Sp 85,1; ghép ≤ 2–3 cm, sống 5 năm 62–65%).
+- Flip #310→205, #326→173; append **108** (tổn thương đường mật sau cắt túi mật) & **077** (GLA/Gorham–Stout). Selfcheck/lint/mermaid/author PASS.
