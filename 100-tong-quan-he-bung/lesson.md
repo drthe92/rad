@@ -54,6 +54,7 @@ certainty: tong-hop-y-van
 | Dịch tự do ổ bụng vs Đáy ngực | Phúc mạc (peritoneum) | Cổ trướng (Ascites) vs Tràn dịch màng phổi | Dịch màng phổi đẩy chân cơ hoành ra trước (displaced crus) và len vào vùng trần của gan (bare area); Ascites thì không | `110`, `141` |
 | Dịch báng **đục như sữa** | Phúc mạc – hệ bạch huyết ổ bụng | Dưỡng trấp ổ bụng (sau nạo hạch/cắt tụy/ghép gan, lymphoma, lao, xơ gan), báng xơ gan, báng ác tính, báng tụy/mật/niệu | **TG dịch > 200 mg/dL (hỗ trợ), > 110 mg/dL (ngưỡng nghiên cứu), < 50 mg/dL loại trừ + lympho ưu thế + SAAG < 1,1 = dưỡng trấp**; **amylase rất cao = báng tụy**; **creatinine dịch cao = báng niệu**; CT **không** đặc hiệu | `078`, `040`, `079` |
 | Nốt đặc phúc mạc/mạc nối không xác định (indeterminate peritoneal nodule) | Phúc mạc – mạc nối – túi cùng (peritoneum/omentum/pouch of Douglas) | Splenosis · lao phúc mạc · di căn/carcinomatosis · LPD · peritoneal loose body · nhồi máu mạc nối · lạc nội mạc | **Tiền sử vỡ/cắt lách + nốt 0,8–2,5 cm ngấm như lách → Tc-99m HDRBC (không sinh thiết)**; **vôi hóa trung tâm “vỏ trứng” + di động = loose body**; **PCI ≤ 20 dự báo cắt u tối ưu (AUC 0,94)**; **CA-125 cao KHÔNG loại trừ lao (ADA 30–40 U/L)** | `549`, `141`, `539`, `518` |
+| **Dày phúc mạc dạng mảng/nốt + dịch khu trú** | Phúc mạc – mạc nối (peritoneum/omentum) | MPM · carcinomatosis (dạ dày/buồng trứng/đại tràng) · PMP · lao phúc mạc · WDPM · splenosis | **Dịch khu trú + mảng canxi không khối + không ổ nguyên phát = nghĩ MPM/WDPM**; **omental cake + khối nguyên phát = carcinomatosis**; **BAP1 mất + p16/CDKN2A mất = ác tính**; **CT bỏ sót nốt < 1 cm (Se 9,1–50%)** | `143`, `549`, `141`, `539` |
 
 ## Ảnh minh họa & Blind Quiz (đọc nhanh 4 mẫu hình chủ chốt)
 > Ảnh trơn ở ngoài, dấu hiệu + chẩn đoán giấu trong thẻ bấm-mở. Mở trên Pages: tự đoán trước rồi bấm mở đáp án.
@@ -158,6 +159,7 @@ certainty: tong-hop-y-van
 - 140 – Lách & chấn thương tạng *(đã có — [bài học](../140-lach-tang-dac/lesson.md))*
 - 141 – Phúc mạc *(đã có — [bài học](../141-phuc-mac/lesson.md))*
 - 142 – Can thiệp giảm thể tích gan trong PLD: TAE, chọc hút–xơ hóa nang & fenestration *(đã có — [bài học](../142-can-thiep-giam-the-tich-gan-pld/lesson.md))*
+- 143 – U trung biểu mô phúc mạc ác vs carcinomatosis: mảng canxi hóa, BAP1 & PCI *(đã có — [bài học](../143-u-trung-bieu-mo-phuc-mac-vs-carcinomatosis/lesson.md))*
 - 146 – Huyết khối tĩnh mạch lách & nhồi máu lách: tăng áp cửa bên trái, giả u và khi nào cắt lách *(đã có — [bài học](../146-huyet-khoi-tm-lach-va-nhoi-mau-lach/lesson.md))*
 - 149 – Tăng áp cửa KHÔNG do xơ gan: PSVD/NCPF (đồng thuận 2026), sán máng, huyết khối cửa mạn & HVPG bình thường giả tạo *(đã có — [bài học](../149-tang-ap-cua-khong-xo-gan/lesson.md))*
 
