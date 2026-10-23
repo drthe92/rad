@@ -613,3 +613,7 @@
 - Flip #278→084, #282→244 (ID 239 đã dùng; đổi 244, hàng 310 đổi ID đề xuất 205); thêm 2 khoảng trống: **088** (áp-xe/mủ màng phổi sau VAP) & **208** (rò CSF qua xương đá).
 
 - 2026-10-23: viết 251 (chấn thương đầu trẻ có shunt/rối loạn đông; ID 243 đã dùng → 251) + 143 (MPM vs carcinomatosis); selfcheck/lint/mermaid/author PASS; thêm 2 gap 252/144.
+
+## 2026-10-23 — 559 + 531
+- Viết **559** PSTT/ETT (1–3% GTN; hCG trung vị 114 IU/L; UtA-PI 2,2 vs 1,5, cutoff 1,7 Se 89%/Sp 61%; FIGO 2026 tách riêng, IFAP ≥ 48 tháng = PP) + **531** u xơ cổ tử cung 0,6%/ký sinh < 200 ca/dây chằng rộng < 1% ("lantern on St Paul's dome", stent niệu quản).
+- Flip #285→559, #286→531; thêm 2 khoảng trống **1620** (ứ nước thận–urinoma do khối tiểu khung) & **1621** (di căn phổi đơn độc ở phụ nữ tuổi sinh sản).
