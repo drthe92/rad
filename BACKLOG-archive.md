@@ -624,3 +624,7 @@
 ## 2026-10-23 — 189 + 309
 - Viết **189** đánh giá tiết niệu trước ghép thận ở bàng quang thần kinh/tái tạo (sống ghép 10 năm 85,5%; LCB compliance < 12,5; DUDi AUC 0,87; cystatin C 68% đổi giai đoạn CKD; DLPP > 40 kinh điển vs > 20 nhạy hơn) + **309** loét tì đè & viêm xương tủy khung chậu ở người lớn spina bifida (OM 17–86%; MRI Se 0–94%/Sp 22–25%, PPV 84,6%/NPV 16,7%; Cierny–Mader; tái phát sau vạt 46%); selfcheck+lint+mermaid+author PASS.
 - Flip #292→189, #293→309 (ID 674/675 đã dùng); append **190** (sỏi niệu quản/thận ghép ở CIC) & **253** (áp-xe ngoài màng cứng do loét cùng cụt).
+
+## 2026-10-23 — 249 + 482
+- Viết **249** CCF sau chấn thương (0,2% chấn thương sọ / 3,8% vỡ nền sọ; Barrow A–D; SOV > 5 mm; đóng kín 68–75%, liệt dây mới 5–7%; NPPB xuất huyết muộn 12 ngày) + **482** pachychoroid neovasculopathy (43% nAMD xếp lại là PNV; SCT 298 vs 228 µm; 7/43 < 200 µm; 11,0 vs 13,4 mũi tiêm/2 năm); selfcheck+lint+mermaid+author PASS.
+- Flip #294→249, #295→482; append **250** (chảy máu cam do vỡ giả phình C4 vào xoang bướm) & **405** (PPS vs phù đĩa thị).
