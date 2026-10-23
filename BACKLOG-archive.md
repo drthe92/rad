@@ -617,3 +617,6 @@
 ## 2026-10-23 — 554 + 688
 - Viết **554** (polyp nội mạc/u xơ sa qua cổ tử cung: thấy cổ tử cung + cuống = khối sa; polyp > 13 mm/mất nang/nhiều mạch → 8% tiền ác; cuống < 50% = tương đối CCĐ UAE) và **688** (NPWT bụng mở ở trẻ: −20 sơ sinh < 2 kg · −50 nhũ nhi · −75 trẻ lớn · −40…−60 ghép gan; đóng 18–59% vs 77–100%).
 - Ảnh: 1 CC BY-NC-ND (PMC13072599) giữ nguyên bản, không composite; 2 composite letterbox CC BY+BY-NC. Append 1624 (polyp nhau/RPOC/AVM) & 1625 (EAF sau bụng mở).
+## 2026-10-23 — 689 + 172
+- Viết **689** suy giáp tiêu thụ do IHH (D3: T4→rT3, T3→T2; 5,3% IHH, TSH trung bình 145,5 mU/L, 13/43 sàng lọc sơ sinh bình thường; LT4 max trung bình 24,04 µg/kg/ngày, LT3 28,8%) + **172** theo dõi sau EVAR/FEVAR bóc tách ĐMC bụng (túi tăng ≥ 5 mm, type I/III sửa ngay, type II chỉ khi túi tăng; FEVAR mất nhánh 9,9%/5 năm, can thiệp lại 37,2%); selfcheck+lint+mermaid+author PASS.
+- Flip #289→689, #290→172; append **173** (IAAD chấn thương/iatrogenic) & **1804** (D3 ngoài gan/rhabdoid thận).
