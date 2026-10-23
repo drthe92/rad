@@ -601,19 +601,16 @@
 - BACKLOG: flip #268 (684) & #269 (685) → xong; thêm 850 (FMD toàn thân) & 695 (hoại tử xương ở trẻ ALL). Lưu ý: PMC13636090 không có authorString trên Europe PMC → ghi "Eur Stroke J 2026 (PMC13636090)" không kèm tên tác giả.
 - 2026-10-22: viết 413 (PFV/PHPV) + 044 (EBUS cryobiopsy trung thất), PASS selfcheck/lint/mermaid/author; index + README + tổng quan 400/001 cập nhật.
 - Ghi chú: BACKLOG có 2 mục trùng ID cũ (468 DUSN, 469 toxo theo dõi) — đã đánh dấu cần đổi ID.
-
 - 2026-10-22: viết **046** (restaging trung thất sau hóa–miễn dịch, ypN) + **086→686** (PH/hạ oxy mạn ở bệnh phổi mạn nhi); selfcheck+lint+author PASS.
 - 2026-10-22: thêm 2 khoảng trống vào hàng chờ: **085** (độc tính miễn dịch quanh mổ) và **1803** (OSA ở trẻ bệnh phổi mạn).
-
 - 2026-10-22: viết **082** (bại não & an toàn nuốt) + **083** (nuôi ăn qua sonde/PEG: biến chứng mạn); selfcheck+lint+mermaid+author PASS.
 - Thêm 2 khoảng trống: **086** (tube weaning) và **087** (viêm phổi do hít dầu hỏa).
-
 ## 2026-10-23 — 084 + 244
 - Viết **084** VAP (≥48 giờ, ETA 10⁵/BAL 10⁴/PSB 10³, cuff 25–30 cmH₂O, đầu giường 30–45°, không chlorhexidine thường quy, VAE nhạy ~40%) + **244** rò CSF nền sọ ở trẻ (2% TBI, 12–30% vỡ nền sọ, B2T 87–100%/71–94%, HRCT ~70%, mổ 46%/thành công 59–77%); selfcheck+lint+mermaid+author PASS.
 - Flip #278→084, #282→244 (ID 239 đã dùng; đổi 244, hàng 310 đổi ID đề xuất 205); thêm 2 khoảng trống: **088** (áp-xe/mủ màng phổi sau VAP) & **208** (rò CSF qua xương đá).
-
 - 2026-10-23: viết 251 (chấn thương đầu trẻ có shunt/rối loạn đông; ID 243 đã dùng → 251) + 143 (MPM vs carcinomatosis); selfcheck/lint/mermaid/author PASS; thêm 2 gap 252/144.
-
 ## 2026-10-23 — 559 + 531
 - Viết **559** PSTT/ETT (1–3% GTN; hCG trung vị 114 IU/L; UtA-PI 2,2 vs 1,5, cutoff 1,7 Se 89%/Sp 61%; FIGO 2026 tách riêng, IFAP ≥ 48 tháng = PP) + **531** u xơ cổ tử cung 0,6%/ký sinh < 200 ca/dây chằng rộng < 1% ("lantern on St Paul's dome", stent niệu quản).
 - Flip #285→559, #286→531; thêm 2 khoảng trống **1620** (ứ nước thận–urinoma do khối tiểu khung) & **1621** (di căn phổi đơn độc ở phụ nữ tuổi sinh sản).
+- 2026-10-23: viết **532** (u xơ trong thai kỳ & thoái triển đỏ: T1/T2/SWI, 3 ca quiz, 8 ảnh + composite) và **553** (đảo ngược tử cung do sinh: Johnson/O'Sullivan/Huntington–Haultain, 4 quiz); selfcheck+lint+mermaid+author-check PASS; append 1622/1623.
+- 2026-10-23: 6 ảnh CC BY-NC-ND dùng nguyên bản (không composite); ảnh đại thể 553 đặt trong khối `<details>`.
