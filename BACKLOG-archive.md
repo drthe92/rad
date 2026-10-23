@@ -646,3 +646,5 @@
 ## 2026-10-23 — 1801 + 180
 - Viết **1801** REILD sau TARE (Sangro bilirubin >3 mg/dL + báng 4–8 tuần; 1,0–5,4% nhưng **60,6% khi TARE cả gan một lần**; ALBI 2–3 OR 5,7; ngưỡng NTL 30–40 Gy nhựa/40–70 Gy thủy tinh; sống 5,2 vs 22,1 tháng) + **180** viêm túi mật thiếu máu sau TACE (0,45% chung nhưng **10%** khi có lipiodol trong thành trên CBCT; catheter trực tiếp ĐM túi mật OR 52; thành ≥ 4 mm, >80 HU; 15/27 tự hết).
 - Flip #327→1801, #328→180; append **1805** (loét tiêu hóa do trào ngược vi cầu) & **1806** (viêm phổi do xạ sau TARE). selfcheck + lint + mermaid + author PASS.
+
+- 2026-10-23: viết 104 (nhiễm trùng nang gan PLD/ADPKD; PET 96% vs CT 39%) + 743 (chảy máu cam trẻ: JNA/HHT, nút mạch SPA 500 µm); selfcheck+lint+author PASS. Flip 104/743 xong, thêm 106 (LCI ở ghép thận) & 744 (epistaxis + rối loạn đông máu).

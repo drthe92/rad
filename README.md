@@ -143,6 +143,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 115 | [Khí tự do](115-khi-tu-do/lesson.md) | `pattern:khi-tu-do` |
 | 120 | [Khối gan nền lành vs xơ](120-khoi-gan-nen/lesson.md) | `pattern:khoi-gan` `vung:gan` `protocol:MRI-gan-Primovist` `score:LI-RADS` |
 | 122 | [U lành & áp-xe gan](122-u-lanh-gan/lesson.md) | `pattern:u-lanh-gan` |
+| 104 | [Nhiễm trùng nang gan trong ADPKD/PLD: PET/CT, DWI, kháng sinh ≥ 28 ngày & chỉ định dẫn lưu](104-nhiem-trung-nang-gan-pld-adpkd/lesson.md) | `pattern:nang-phuc-tap` `vung:gan` `vung:than` `protocol:PET-CT-nang-gan` `incidentaloma:nang-gan` |
 | 123 | [Nang gan & bệnh gan đa nang (PLD/Caroli/von Meyenburg)](123-nang-gan-va-benh-gan-da-nang/lesson.md) | `pattern:nang-gan` `vung:gan` `score:Gigot` `protocol:MRCP` `incidentaloma:nang-gan` |
 | 125 | [Gan mỡ-xơ](125-gan-mo-xo/lesson.md) | `pattern:gan-lan-toa` `vung:gan` `score:PDFF` `protocol:CT-MRI-gan` `protocol:Fibroscan` |
 | 126 | [Đo thể tích gan & điều trị nội khoa PLD (Schnelldorfer, somatostatin, ghép gan)](126-the-tich-gan-dieu-tri-noi-khoa-PLD/lesson.md) | `pattern:gan-da-nang` `vung:gan` `score:Schnelldorfer` `score:Gigot` `protocol:do-the-tich-gan-MRI-CT` `incidentaloma:nang-gan` |
@@ -502,6 +503,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 715 | [Nấm xoang](715-rhinosinusitis-fungal/lesson.md) | `pattern:viem-nam-xoang` |
 | 720 | [Cholesteatoma](720-temporal-bone-cholesteatoma/lesson.md) | `pattern:cholesteatoma` |
 | 740 | [Tuyến mang tai](740-salivary-gland-tumors/lesson.md) | `pattern:u-tuyen-bot` |
+| 743 | [Chảy máu cam nặng/tái diễn ở trẻ: nội soi, CTA, DSA & nút mạch (JNA, HHT), Fisch](743-chay-mau-cam-nang-o-tre/lesson.md) | `pattern:chay-mau` `vung:mui` `vung:dau-co` `score:Fisch-JNA` `protocol:CTA-DSA-chay-mau-cam` |
 | 741 | [Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR](741-di-dang-mach-mau-dau-co-o-tre/lesson.md) | `pattern:di-dang-mach-mau` `pattern:u-mach-mau` `vung:dau-co` `vung:co` `protocol:MRI-dau-co` `protocol:US-Doppler` `score:ISSVA` |
 | 750 | [Hạch cổ ENE](750-cervical-lymph-nodes-nirads/lesson.md) | `score:NI-RADS` |
 | 830 | [TAVI](830-tavi-structural-heart/lesson.md) | `pattern:TAVI` |
