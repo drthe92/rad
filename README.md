@@ -344,6 +344,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 554 | [Polyp nội mạc & u xơ có cuống sa qua cổ tử cung: khối "sa" nhưng KHÔNG phải sa sinh dục](554-polyp-noi-mac-va-u-xo-sa-qua-co-tu-cung/lesson.md) | `pattern:khoi-sa-qua-am-dao` `vung:tu-cung` `vung:co-tu-cung` `vung:am-dao` `protocol:sieu-am-dau-tay` `score:figo-0-2` |
 | 560 | [PAS](560-nhau-cai-rang-luoc-PAS-cap-cuu-san/lesson.md) | `score:PAS` |
 | 563 | [Bất thường rau–bánh nhau sớm: previa, vasa previa & circumvallate](563-bat-thuong-rau-banh-nhau-som/lesson.md) | `pattern:bat-thuong-nhau` `pattern:chay-mau-san-khoa` `vung:tu-cung` `protocol:TVUS-thai` |
+| 1603 | [Vasa previa type II–III: Doppler đường âm đạo, ngưỡng 5 cm & đốt laser qua nội soi thai](1603-vasa-previa-laser-noi-soi-thai/lesson.md) | `pattern:vasa-previa` `pattern:mach-mau-tien-dao` `vung:co-tu-cung` `vung:nhau-thai` `score:5cm` `protocol:TVUS-Doppler` `protocol:MRI-thai` `protocol:fetoscopic-laser` |
 | 565 | [Sàng lọc hình thái thai & Doppler sản khoa](565-sang-loc-hinh-thai-va-doppler-san-khoa/lesson.md) | `pattern:hinh-thai` `pattern:doppler-san-khoa` `vung:thai-nhi` `score:Delphi-FGR` `protocol:SA-hinh-thai` `protocol:Doppler-san-khoa` |
 | 566 | [Song thai: chorionicity, TTTS & TAPS](566-song-thai-chorionicity-TTTS-TAPS/lesson.md) | `pattern:song-thai` `vung:thai-nhi` `vung:banh-nhau` `score:Quintero` `score:TAPS` `protocol:SA-thai` `protocol:Doppler-MCA` |
 | 567 | [Sàng lọc lệch bội: NIPT & dấu hiệu mềm](567-sang-loc-lech-boi-NIPT-dau-hieu-mem/lesson.md) | `pattern:lech-boi` `vung:thai-nhi` `score:LR-dau-hieu-mem` `protocol:NIPT` `protocol:SA-hinh-thai` |
@@ -385,6 +386,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 588 | [Một thai chết trong song thai một ối (MCMA): tổn thương não–thận thai còn lại & theo dõi](588-song-thai-MCMA-mot-thai-chet/lesson.md) | `pattern:song-thai-mot-oi` `pattern:single-IUFD` `pattern:ton-thuong-nao-thai` `vung:thai-nhi` `vung:nao-thai` `vung:than-thai` `protocol:MRI-thai` `protocol:SA-Doppler-MCA` `score:ventriculomegaly` |
 | 1601 | [Ung thư vú trong thai kỳ & cho con bú: siêu âm trước, nhũ ảnh có che chì, MRI không gadolinium & xử trí theo tam cá nguyệt](1601-ung-thu-vu-trong-thai-ky/lesson.md) | `pattern:u-vu` `pattern:thai-ky` `vung:vu` `score:BI-RADS` `protocol:sieu-am-vu` `protocol:nhu-anh` `protocol:MRI-vu` |
 | 562 | [Hẹp âm đạo sau xạ trị ung thư cổ tử cung: đo độ dài – CTCAE/LENT-SOMA, nong, mold 3D & tạo hình](562-hep-am-dao-sau-xa-tri/lesson.md) | `pattern:hep-am-dao` `pattern:xo-hoa-sau-xa` `vung:am-dao` `vung:khung-chau` `score:CTCAE` `score:LENT-SOMA` `protocol:MRI-chau` |
+| 564 | [Rò bàng quang–âm đạo & rò niệu quản–âm đạo sau mổ phụ khoa: 3 bông – creatinine – CT urography thì muộn, chọn đường mổ](564-ro-bang-quang-am-dao-sau-mo-phu-khoa/lesson.md) | `pattern:ro-nieu-sinh-duc` `pattern:ro-bang-quang-am-dao` `pattern:ro-nieu-quan-am-dao` `vung:am-dao` `vung:bang-quang` `score:Goh` `protocol:CT-urography` `protocol:CT-cystography` `protocol:IC-CEUS` |
 
 ## Hệ Nhi khoa (dải 600, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
