@@ -614,3 +614,6 @@
 - Flip #285→559, #286→531; thêm 2 khoảng trống **1620** (ứ nước thận–urinoma do khối tiểu khung) & **1621** (di căn phổi đơn độc ở phụ nữ tuổi sinh sản).
 - 2026-10-23: viết **532** (u xơ trong thai kỳ & thoái triển đỏ: T1/T2/SWI, 3 ca quiz, 8 ảnh + composite) và **553** (đảo ngược tử cung do sinh: Johnson/O'Sullivan/Huntington–Haultain, 4 quiz); selfcheck+lint+mermaid+author-check PASS; append 1622/1623.
 - 2026-10-23: 6 ảnh CC BY-NC-ND dùng nguyên bản (không composite); ảnh đại thể 553 đặt trong khối `<details>`.
+## 2026-10-23 — 554 + 688
+- Viết **554** (polyp nội mạc/u xơ sa qua cổ tử cung: thấy cổ tử cung + cuống = khối sa; polyp > 13 mm/mất nang/nhiều mạch → 8% tiền ác; cuống < 50% = tương đối CCĐ UAE) và **688** (NPWT bụng mở ở trẻ: −20 sơ sinh < 2 kg · −50 nhũ nhi · −75 trẻ lớn · −40…−60 ghép gan; đóng 18–59% vs 77–100%).
+- Ảnh: 1 CC BY-NC-ND (PMC13072599) giữ nguyên bản, không composite; 2 composite letterbox CC BY+BY-NC. Append 1624 (polyp nhau/RPOC/AVM) & 1625 (EAF sau bụng mở).
