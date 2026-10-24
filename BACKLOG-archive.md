@@ -697,3 +697,7 @@
 ## 2026-10-24 — worker rad-backlog
 - Viết 495 (nấm ngoại sinh sau mổ vs TASS, 3 ảnh) + 496 (điều trị ENKTL nội nhãn, 3 ảnh); flip #347/#348 → xong; append 1639 (nội nhãn sau tiêm) + 1640 (độc tính asparaginase).
 - Verify 4/4 PASS, 513 bài / 513 card, parity 0; ảnh giữ nguyên bản (CC BY-NC-SA/CC BY-NC-ND).
+
+## 2026-10-24 (lượt 2) — worker rad-backlog
+- Viết **1402** (bong võng mạc sau viêm nội nhãn, 3 ảnh B-scan/OCT) + **497** (theo dõi cấy ốc tai ở trẻ, 4 ảnh CT-3D/EFI/X-quang-HRCT/EABR); flip #352/#353 → xong; append 1410 (lấy dầu silicone) + 1704 (cholesteatoma ở trẻ có CI).
+- Verify 4/4 PASS, 515 bài / 515 card, parity 0; ảnh NC-SA/NC giữ nguyên bản, không composite.
