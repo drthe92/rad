@@ -661,3 +661,5 @@
 - 2026-10-24: viết 1607 (bảo tồn sinh sản trước hóa–xạ: AFC/AMH, liều xạ, buồng trứng chuyển vị) + 1608 (ung thư niệu mạc thứ phát sau xạ tiểu khung). Mở gap 1609 (OTC trước dậy thì) + 1610 (viêm bàng quang xạ chảy máu).
 - 2026-10-24: xong 1609 (suy buồng trứng sau xạ: AMH/FSH, HRT, DXA) + 1610 (tách màng ối sau can thiệp bào thai: phân độ, PPROM, PABS); ảnh PMC13320243/PMC12941671/PMC4796085/PMC6452456/PMC13002228.
 - 2026-10-24: dời ID các hàng chờ trùng: OTC 1609→1632, viêm bàng quang xạ chảy máu 1610→1633; thêm 2 khoảng trống 1634/1635.
+
+- 2026-10-24: viết 1611 (TTTS tái phát sau laser) + 1636 (theo dõi thần kinh sau một thai chết MC); selfcheck/lint/mermaid/author PASS; thêm 1637/1638 vào hàng chờ.
