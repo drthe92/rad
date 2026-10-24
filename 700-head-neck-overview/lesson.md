@@ -25,7 +25,7 @@ certainty: tong-hop-y-van
 | Hạch cổ to (Neck nodes) | Cổ I–VII (neck levels) | Viêm, di căn (ENE), lymphoma, lao | Nhóm II > 15 mm, khác > 10 mm, Rouvière > 5–8 mm; ENE = ngoại khoa; NI-RADS 1–4 sau điều trị | `750`, `230` |
 | **Nang giáp có triệu chứng (Cystic thyroid nodule)** | Tuyến giáp (thyroid) | Nang thuần/nang ưu thế dịch · nang keo đặc · nang xuất huyết · ung thư có thành phần nang · nang giáp lưỡi | Dịch **> 50%** thể tích + FNA lành tính; **VRR > 50% = thành công**; nang một thùy đáp ứng tốt hơn; **khàn tiếng 0,53%**, chưa có liệt dây thanh vĩnh viễn | `1622`, `230` |
 | Dị dạng mạch máu & u mạch máu đầu–cổ ở trẻ (Vascular anomalies) | Da–mô mềm–khoảng cổ–hốc mắt–đường thở | IH, CH, LM, VM, AVM/AVF, KHE | **IH đoạn mặt > 5 cm → PHACE** (MRI/MRA não–cổ, tim, mắt, đường thở); **LM: T2 rất sáng, không flow**; **VM: sỏi tĩnh mạch, ngấm chậm**; **AVM: flow void + nidus + dẫn lưu sớm**; **IH đoạn cùng cụt vắt đường giữa → LUMBAR** | `741` |
-| **Chảy máu cam nặng/tái diễn ở trẻ** | Hốc mũi – mũi hầu | Chảy máu trước vô căn, JNA, HHT, rối loạn đông máu, giả phình cảnh trong/SPA, u mũi hầu | **90% trẻ chảy máu thể trước (Kiesselbach)** → không cần chụp; **nam 12–16 tuổi + một bên + giãn lỗ bướm–khẩu cái + blush DSA = JNA** (nút mạch 24–48 giờ trước mổ, giảm tưới máu 86%); **tái diễn + giãn mạch môi/lưỡi + tiền sử gia đình = HHT** (tầm soát AVM phổi–não); **vòng nối nguy hiểm: lỗ tròn, màng não giữa, sàng, hầu lên** → bơm nhầm = mù/đột quỵ | `743`, `741`, `249` |
+| **Chảy máu cam nặng/tái diễn ở trẻ** | Hốc mũi – mũi hầu | Chảy máu trước vô căn, JNA, HHT, rối loạn đông máu, giả phình cảnh trong/SPA, u mũi hầu | **90% trẻ chảy máu thể trước (Kiesselbach)** → không cần chụp; **nam 12–16 tuổi + một bên + giãn lỗ bướm–khẩu cái + blush DSA = JNA** (nút mạch 24–48 giờ trước mổ, giảm tưới máu 86%); **tái diễn + giãn mạch môi/lưỡi + tiền sử gia đình = HHT** (tầm soát AVM phổi–não); **vòng nối nguy hiểm: lỗ tròn, màng não giữa, sàng, hầu lên** → bơm nhầm = mù/đột quỵ; **trẻ có rối loạn đông máu: INR/aPTT bình thường KHÔNG loại trừ VWD, chỉ 4,9% phải truyền** | `743`, `744`, `741`, `249` |
 
 ## Hình minh họa — mạc cổ sâu & đường lan (học thuyết cốt lõi)
 
@@ -61,6 +61,7 @@ certainty: tong-hop-y-van
 - [730 – Nhiễm trùng cổ sâu](../730-deep-neck-infections/lesson.md) *(đã có)*
 - [741 – Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR](../741-di-dang-mach-mau-dau-co-o-tre/lesson.md) *(đã có)*
 - [743 – Chảy máu cam nặng/tái diễn ở trẻ: CTA, DSA & nút mạch](../743-chay-mau-cam-nang-o-tre/lesson.md) *(đã có)*
+- [744 – Chảy máu cam ở trẻ có rối loạn đông máu: xét nghiệm, desmopressin/TXA & ngưỡng truyền](../744-chay-mau-cam-tre-roi-loan-dong-mau/lesson.md) *(đã có)*
 - [236 – Viêm tai xương chũm & biến chứng nội sọ](../236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md) *(đã có — dải 200, xương đá)*
 - [237 – Biến chứng thần kinh sọ của viêm tai: Gradenigo, liệt VII, viêm mê nhĩ](../237-bien-chung-than-kinh-so-viem-tai-gradenigo/lesson.md) *(đã có — dải 200)*
 - [238 – Hội chứng Lemierre & huyết khối tĩnh mạch cảnh trong nhiễm khuẩn](../238-lemierre-huyet-khoi-tm-canh-trong/lesson.md) *(đã có — dải 200)*
@@ -80,6 +81,7 @@ certainty: tong-hop-y-van
 - 741 – Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR *(đã có — [bài học](../741-di-dang-mach-mau-dau-co-o-tre/lesson.md))*
 - 750 – Bản đồ Hạch cổ (I–VII) & ACR NI-RADS *(đã có — [bài học](../750-cervical-lymph-nodes-nirads/lesson.md))*
 - 743 – Chảy máu cam nặng/tái diễn ở trẻ: nội soi, CTA, DSA & nút mạch (JNA, HHT), Fisch *(đã có — [bài học](../743-chay-mau-cam-nang-o-tre/lesson.md))*
+- 744 – Chảy máu cam ở trẻ có rối loạn đông máu: xét nghiệm, desmopressin/TXA & ngưỡng truyền *(đã có — [bài học](../744-chay-mau-cam-tre-roi-loan-dong-mau/lesson.md))*
 - 253 – Viêm xương nền sọ GIỮA không do tai (CSBO): clivus/lồi cầu, **CT âm tính không loại trừ**, MRI T1FS+Gd, sinh thiết sâu, kháng sinh ≥ 6 tuần *(đã có — dải 200, nội dung đầu cổ — [bài học](../253-viem-xuong-nen-so-giua-khong-do-tai/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

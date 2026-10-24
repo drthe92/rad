@@ -160,6 +160,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 122 | [U lành & áp-xe gan](122-u-lanh-gan/lesson.md) | `pattern:u-lanh-gan` |
 | 103 | [Áp-xe gan sinh mủ do *Klebsiella pneumoniae* & thể tăng độc lực (hvKP): bờ không đều 96,4%, trong không đồng nhất 89,2%, khí aOR 10,16, ngưỡng dẫn lưu > 5 cm](103-ap-xe-gan-klebsiella/lesson.md) | `pattern:ap-xe` `pattern:khong-dong-nhat` `pattern:hoai-tu` `vung:gan` `vung:duong-mat` `score:CT-features` `protocol:CT-4-pha` `protocol:choc-hut-dan-luu` |
 | 104 | [Nhiễm trùng nang gan trong ADPKD/PLD: PET/CT, DWI, kháng sinh ≥ 28 ngày & chỉ định dẫn lưu](104-nhiem-trung-nang-gan-pld-adpkd/lesson.md) | `pattern:nang-phuc-tap` `vung:gan` `vung:than` `protocol:PET-CT-nang-gan` `incidentaloma:nang-gan` |
+| 116 | [Nhiễm trùng nang gan ở người ghép thận: chỉnh IS, tương tác thuốc & dự phòng tái phát](116-nhiem-trung-nang-gan-ghep-than/lesson.md) | `pattern:nang-phuc-tap` `vung:gan` `vung:than` `protocol:PET-CT-nang-gan` `protocol:chinh-uc-che-mien-dich` |
 | 123 | [Nang gan & bệnh gan đa nang (PLD/Caroli/von Meyenburg)](123-nang-gan-va-benh-gan-da-nang/lesson.md) | `pattern:nang-gan` `vung:gan` `score:Gigot` `protocol:MRCP` `incidentaloma:nang-gan` |
 | 125 | [Gan mỡ-xơ](125-gan-mo-xo/lesson.md) | `pattern:gan-lan-toa` `vung:gan` `score:PDFF` `protocol:CT-MRI-gan` `protocol:Fibroscan` |
 | 126 | [Đo thể tích gan & điều trị nội khoa PLD (Schnelldorfer, somatostatin, ghép gan)](126-the-tich-gan-dieu-tri-noi-khoa-PLD/lesson.md) | `pattern:gan-da-nang` `vung:gan` `score:Schnelldorfer` `score:Gigot` `protocol:do-the-tich-gan-MRI-CT` `incidentaloma:nang-gan` |
@@ -552,6 +553,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 720 | [Cholesteatoma](720-temporal-bone-cholesteatoma/lesson.md) | `pattern:cholesteatoma` |
 | 740 | [Tuyến mang tai](740-salivary-gland-tumors/lesson.md) | `pattern:u-tuyen-bot` |
 | 743 | [Chảy máu cam nặng/tái diễn ở trẻ: nội soi, CTA, DSA & nút mạch (JNA, HHT), Fisch](743-chay-mau-cam-nang-o-tre/lesson.md) | `pattern:chay-mau` `vung:mui` `vung:dau-co` `score:Fisch-JNA` `protocol:CTA-DSA-chay-mau-cam` |
+| 744 | [Chảy máu cam ở trẻ có rối loạn đông máu: xét nghiệm, desmopressin/TXA & ngưỡng truyền](744-chay-mau-cam-tre-roi-loan-dong-mau/lesson.md) | `pattern:chay-mau` `vung:mui` `vung:dau-co` `protocol:CTA-DSA-chay-mau-cam` `protocol:xet-nghiem-dong-mau` |
 | 741 | [Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR](741-di-dang-mach-mau-dau-co-o-tre/lesson.md) | `pattern:di-dang-mach-mau` `pattern:u-mach-mau` `vung:dau-co` `vung:co` `protocol:MRI-dau-co` `protocol:US-Doppler` `score:ISSVA` |
 | 750 | [Hạch cổ ENE](750-cervical-lymph-nodes-nirads/lesson.md) | `score:NI-RADS` |
 | 1622 | [Đốt cồn nang giáp lành tính (PEI/EA): cồn 99%, kỹ thuật contrariwise & tiêu chuẩn tái phát](1622-dot-con-nang-giap-pei/lesson.md) | `pattern:nang` `vung:tuyen-giap` `protocol:dot-con-giap` `incidentaloma:nang-giap` |

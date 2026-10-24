@@ -707,3 +707,6 @@
 ## 2026-10-24 (lượt 5) — worker rad-backlog
 - Viết **499** (Hattersley–Urano/WFS1 trội: 4 ảnh OCT OPL, RNFL, so sánh WFS1-vs-DOA, schema phân độ; 3 CC BY + 1 CC BY-NC-ND nguyên bản) + **1627** (OPA1 carrier: 3 ảnh phả hệ, OCT 3 cá thể, đáy mắt–ERG; CC BY 4.0).
 - Verify **5/5 PASS** (521 bài/521 card, parity 0); flip #355/#356 → xong, append #417 (1643) + #418 (1644); cập nhật 400/479/README/index.
+## 2026-10-24 (lượt 6) — worker rad-backlog
+- Viết **116** (nhiễm trùng nang gan ở người ghép thận: PET/CT, xâm nhập kháng sinh 4,2% vs 0,3%, chỉnh IS; 2 ảnh CC BY 4.0) + **744** (chảy máu cam ở trẻ có rối loạn đông máu: xét nghiệm, desmopressin/TXA, ngưỡng truyền; 3 ảnh CC BY 4.0); cập nhật overview 100/700, README, index.
+- Verify **5/5 PASS**; flip #357 (ID 106→116 vì 106 đã dùng) + #358 (744) → xong; append #419 (117) + #420 (745).
