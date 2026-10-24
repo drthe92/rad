@@ -208,6 +208,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 160 | [Bụng cấp cứu GI](160-bung-cap-GI/lesson.md) | `protocol:CT-bung-cap` |
 | 161 | [Viêm ruột thừa cấp: tiếp cận CT/siêu âm, ngưỡng 6 mm & dấu hiệu phức tạp](161-viem-ruot-thua-cap/lesson.md) | `pattern:quai-ruot-gian` `pattern:tham-nhiem-mo` `vung:ho-chau-phai` `protocol:CT-bung-co-can-quang` `protocol:sieu-am-chen-ep` `score:Alvarado` |
 | 145 | [Viêm ruột thừa trong thai kỳ: ruột thừa di lệch, siêu âm → MRI (không gadolinium), mổ nội soi vs kháng sinh](145-viem-ruot-thua-trong-thai-ky/lesson.md) | `pattern:viem` `pattern:cap-cuu` `vung:bung` `vung:thai-ky` `protocol:US` `protocol:MRI` `protocol:CT` `score:Alvarado` |
+| 197 | [Xạ trị ở Li-Fraumeni (TP53): khi nào buộc phải xạ, chọn kỹ thuật & theo dõi sarcoma sau xạ](197-xa-tri-li-fraumeni/lesson.md) | `pattern:sarcoma-sau-xa` `vung:toan-than` `vung:vu` `vung:nao` `score:Chompret` `protocol:WB-MRI` `incidentaloma:ton-thuong-truong-xa` |
 | 198 | [Li-Fraumeni (TP53): tiêu chuẩn Chompret, phổ u lõi BOSCA & tư vấn di truyền](198-li-fraumeni-tp53-chompret-tu-van/lesson.md) | `pattern:ung-thu-da-o-som` `pattern:sarcoma` `vung:toan-than` `vung:vu` `vung:nao` `score:Chompret` `protocol:WB-MRI` `incidentaloma:ton-thuong-toan-than` |
 | 199 | [Quy trình xét nghiệm gen & tầm soát người thân (WB-MRI, ONCO-RADS, cascade)](199-quy-trinh-xet-nghiem-gen-tam-soat-gia-dinh/lesson.md) | `pattern:tam-soat-ung-thu-di-truyen` `vung:toan-than` `score:ONCO-RADS` `protocol:WB-MRI` `incidentaloma:ton-thuong-toan-than` |
 | 178 | [Di căn xương RCC & biến chứng cơ học: chèn ép tủy, gãy xương bệnh lý](178-di-can-xuong-RCC-bien-chung-co-hoc/lesson.md) | `pattern:di-can-xuong` `pattern:tieu-xuong` `pattern:chen-ep-tuy` `vung:xuong` `vung:cot-song` `score:Mirels` `score:SINS` `score:Bilsky` `protocol:MRI-cot-song` `protocol:SBRT` `incidentaloma:di-can-xuong` |
@@ -541,5 +542,6 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 830 | [TAVI](830-tavi-structural-heart/lesson.md) | `pattern:TAVI` |
 | 840 | [Endoleak](840-aorta-endoleak-pad/lesson.md) | `pattern:endoleak` |
 | 910 | [Dẫn lưu (áp-xe, PTBD & thận qua da)](910-abscess-biliary-nephrostomy/lesson.md) | `pattern:dan-luu` `pattern:ap-xe` `vung:bung-tiet-nieu` `protocol:PTBD` `protocol:PCN` `protocol:Seldinger` |
+| 929 | [Gây xơ hóa nang qua da: nang thận – gan – lách (ethanol, bleomycin, polidocanol)](929-xo-hoa-nang-qua-da/lesson.md) | `pattern:nang` `vung:than` `vung:gan` `protocol:xo-hoa-nang` `incidentaloma:nang-than` |
 | 930 | [TACE/LR-TR](930-hepatic-oncology-tace-rfa/lesson.md) | `score:LR-TR` |
 | 931 | [Takayasu: nong/stent & phẫu thuật bắc cầu — chọn bệnh nhân, theo dõi tái hẹp](931-takayasu-can-thiep-noi-mach-va-phau-thuat/lesson.md) | `pattern:hep-mach-dai-doan` `vung:thanh-mach-lon` `score:Numano` `protocol:HR-VWI` `protocol:CTA-MRA` `protocol:theo-doi-sau-can-thiep` |

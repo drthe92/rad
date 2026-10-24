@@ -682,3 +682,5 @@
 ## 2026-10-24 — lượt worker (144 + 302)
 - Viết **144** (AE gan: 4 ảnh + composite CC BY 4.0, PMC12265298/PMC5394628/PMC10638689; 27,7 HU, Kodama 40/46%, ABZ 10–15 mg/kg, PET âm ≠ chết) và **302** (nang sán xương/cột sống: 4 ảnh + composite CC BY 4.0, PMC10079730/PMC12621072; xương 0,5–4%, Se 25%, tái phát 30–100%) — selfcheck + lint + mermaid + author-check PASS.
 - Flip #338/#339; append gap 1810 (cắt/ghép gan trong AE) & 934 (sốc phản vệ do vỡ nang sán).
+
+- 2026-10-24: viết 929 (xơ hóa nang thận–gan–lách, 5 ảnh + composite), 197 (xạ trị trong Li-Fraumeni, 6 ảnh + composite). selfcheck/lint/mermaid/author PASS. Append #401 (932), #402 (1622).

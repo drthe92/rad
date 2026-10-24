@@ -79,5 +79,6 @@ certainty: tong-hop-y-van
 - [100 – Tổng quan hệ Bụng](../100-tong-quan-he-bung/lesson.md)
 - [110 – Giải phẫu bụng](../110-giai-phau-bung/lesson.md) (khoang quanh thận)
 - [152 – Sỏi/ứ nước (đã có)](../152-soi-nieu/lesson.md)
+- [929 – Gây xơ hóa nang qua da (thận – gan – lách)](../929-xo-hoa-nang-qua-da/lesson.md)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

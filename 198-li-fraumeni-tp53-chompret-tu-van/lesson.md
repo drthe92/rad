@@ -140,6 +140,7 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [199 – Quy trình xét nghiệm gen & tầm soát người thân (WB-MRI, ONCO-RADS, cascade)](../199-quy-trinh-xet-nghiem-gen-tam-soat-gia-dinh/lesson.md)
+- [197 – Xạ trị ở Li-Fraumeni: khi nào buộc phải xạ, chọn kỹ thuật & theo dõi sarcoma sau xạ](../197-xa-tri-li-fraumeni/lesson.md)
 - [690 – CMMRD: tầm soát WB-MRI & nội soi ở trẻ](../690-cmmrd-tam-soat-wb-mri-o-tre/lesson.md)
 - [377 – U thần kinh đệm dạng đám rối & MPNST (NF1)](../377-u-than-kinh-dang-dam-roi-va-mpnst-nf1/lesson.md)
 - [379 – MPNST: điều trị & di căn phổi](../379-mpnst-dieu-tri-di-can-phoi/lesson.md)
