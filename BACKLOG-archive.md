@@ -693,3 +693,7 @@
 
 - 2026-10-24 worker: viết **103** (áp-xe gan *K. pneumoniae*/hvKP — VN 78,3%, khí aOR 10,16, dẫn lưu > 5 cm) và **494** (MTX leukoencephalopathy — tLE 29,2%/2 năm, IT MTX HR 4,50). ID 145 đã dùng → đổi 103. Verify PASS 4/4, 511 bài/511 card.
 - 2026-10-24 worker: append #379 (ID 1420 — áp-xe gan + viêm nội nhãn: thứ tự can thiệp) và #380 (ID 1421 — theo dõi nhận thức sau độc tính MTX), đã check_duplicates.
+
+## 2026-10-24 — worker rad-backlog
+- Viết 495 (nấm ngoại sinh sau mổ vs TASS, 3 ảnh) + 496 (điều trị ENKTL nội nhãn, 3 ảnh); flip #347/#348 → xong; append 1639 (nội nhãn sau tiêm) + 1640 (độc tính asparaginase).
+- Verify 4/4 PASS, 513 bài / 513 card, parity 0; ảnh giữ nguyên bản (CC BY-NC-SA/CC BY-NC-ND).
