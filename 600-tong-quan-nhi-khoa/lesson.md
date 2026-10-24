@@ -170,6 +170,8 @@ certainty: tong-hop-y-van
 - [647 – CMN thể tế bào: theo dõi sau cắt thận, tái phát/di căn & điều trị đích](../647-cmn-the-te-bao-theo-doi-tai-phat/lesson.md) *(đã có)*
 - [648 – Hội chứng dễ mắc u nguyên bào thận (BWS, WAGR, Denys–Drash) & lịch tầm soát](../648-hoi-chung-de-mac-wilms-tam-soat-nephroblastomatosis/lesson.md) *(đã có)*
 - [651 – Đánh giá đáp ứng & theo dõi sau điều trị Wilms (thể tích 500 cm³, DWI/ADC, tái phát)](../651-danh-gia-dap-ung-sau-dieu-tri-wilms/lesson.md) *(đã có)*
+- [6700 – Biến chứng muộn & chuyển tiếp sau Wilms: CKD/eGFR, bệnh cơ tim do anthracycline, vẹo cột sống sau xạ, ung thư thứ hai](../6700-di-chung-muon-sau-wilms-va-chuyen-tiep/lesson.md) *(mới)*
+- [6104 – Aniridia bẩm sinh & hội chứng WAGR: glaucoma, AAK & tầm soát Wilms](../6104-aniridia-bam-sinh-va-hoi-chung-wagr/lesson.md) *(mới)*
 - [654 – Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](../654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) *(đã có)*
 - [652 – Đột quỵ & bệnh mạch máu não ở trẻ (moyamoya, FCA, viêm mạch, CVST)](../652-dot-quy-mach-mau-nao-nhi-moyamoya-viem-mach/lesson.md) *(đã có)*
 - [660 – Theo dõi sau tái thông moyamoya ở trẻ (CHS, thiếu máu muộn, Matsushima, thời điểm mổ bên đối diện)](../660-theo-doi-sau-tai-thong-moyamoya-o-tre/lesson.md) *(đã có)*

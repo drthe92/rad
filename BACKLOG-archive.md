@@ -665,3 +665,6 @@
 - 2026-10-24: viết 1611 (TTTS tái phát sau laser) + 1636 (theo dõi thần kinh sau một thai chết MC); selfcheck/lint/mermaid/author PASS; thêm 1637/1638 vào hàng chờ.
 
 - 2026-10-24: viết 306 (theo dõi sau SBRT di căn xương RCC; 4 ảnh PMC12517103/PMC8862557) + 6701 (di căn phổi Wilms/sarcoma xương; 5 ảnh PMC11145898/PMC12476164/PMC10171270). Cả 2 PASS selfcheck/lint/mermaid/author. Thêm 2 gap 307 & 6702.
+
+- 2026-10-24: viết 6104 (aniridia & WAGR: PAX6/11p13, glaucoma 75%, AAK, US 3 tháng; ảnh PMC13281451 NC-ND + PMC13460364/PMC13524468 CC BY) + 6700 (di chứng muộn sau Wilms: CKD 19%, eGFR −13, anthracycline, scoliosis, SMN; ảnh PMC9382288/PMC9883410 CC BY + composite). Cả 2 PASS selfcheck/lint/mermaid/author.
+- Flip #326/#327; thêm 2 gap 6105 (AAK nặng) & 6703 (bệnh cơ tim do anthracycline).
