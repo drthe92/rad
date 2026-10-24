@@ -31,6 +31,7 @@ certainty: tong-hop-y-van
 | Cơ phì đại cả gân | Hốc mắt | Viêm giả u (pseudotumor), cellulitis | Cả gân + đau + đáp ứng steroid | 422 |
 | Vỡ sàn + kẹt cơ | Hốc mắt | Blow-out, trapdoor trẻ em | Giọt lệ (teardrop), nhìn đôi dọc | [420](../420-vo-san-hoc-mat/lesson.md) |
 | Máu sau nhãn cầu | Hốc mắt | Hội chứng khoang (OCS) | Lồi mắt + IOP > 40 mmHg + canthotomy 2 giờ | [420](../420-vo-san-hoc-mat/lesson.md) |
+| **Sụp mi + liệt nhãn cầu tiến triển, không đau** | Cơ vận nhãn + hệ dẫn truyền tim (EOM, heart) | **KSS · CPEO · OPMD/OPDM · nhược cơ · TED · viêm cơ hốc mắt · tổn thương thân não** | **Khởi phát < 20 tuổi + sắc tố võng mạc + block dẫn truyền = KSS (1–3/100.000)**; **teo EOM đối xứng trên MRI = myopathic**; **dao động + không teo = nhược cơ**; **thân cơ to chừa gân = TED** | [498](../498-kearns-sayre-cpeo/lesson.md) |
 | Vôi hóa trong nhãn cầu | Nhãn cầu (globe) | Retinoblastoma (trẻ), drusen đĩa thị, osteoma hắc mạc, phthisis bulbi (người lớn) | Tuổi + vôi hóa thô (RB) / vôi hóa đĩa (drusen) / xương trong hắc mạc (osteoma) | [412](../412-u-trong-nhan-cau/lesson.md) |
 | Cơ cả gân/viêm | Hốc mắt | Giả u, cellulitis, IgG4 | Đau + cả gân + steroid 48h | [422](../422-viem-gia-u/lesson.md) |
 | Mạch xoang hang | Xoang hang | Fistula, huyết khối | Tiếng thổi + SOV giãn | [423](../423-fistula-xoang-hang/lesson.md) |
@@ -153,6 +154,7 @@ certainty: tong-hop-y-van
 - [496 – Điều trị & theo dõi u lympho T/NK nội nhãn: asparaginase, ghép tế bào gốc, EBV DNA](../496-u-lympho-T-NK-noi-nhan-dieu-tri-va-ghep/lesson.md) *(mới)*
 - [490 – Bệnh võng mạc đái tháo đường trong THAI KỲ: lịch theo tam cá nguyệt, laser/anti-VEGF & hậu sản](../490-vong-mac-dai-thao-duong-trong-thai-ky/lesson.md) *(mới)*
 - [472 – Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, tái mổ & cạm bẫy giả lác ngoài](../472-phau-thuat-lac-tre-sinh-non-rop/lesson.md) *(mới)*
+- [498 – Kearns–Sayre & CPEO: block dẫn truyền tim, MRI não (sợi U/thể cầu nhạt) & teo cơ vận nhãn](../498-kearns-sayre-cpeo/lesson.md) *(mới)*
 - [477 – Bệnh ty thể có biểu hiện thị giác & tai: MELAS, MIDD, POLG, PHARC](../477-benh-ty-the-thi-giac-tai/lesson.md) *(mới)*
 - [479 – Tư vấn di truyền & xử lý VUS trong teo thị/điếc (OPA1/WFS1)](../479-tu-van-di-truyen-vus-opa1-wfs1/lesson.md) *(mới)*
 - [480 – NAION sau chẩn đoán: điều trị, dự phòng mắt đối diện & theo dõi dài hạn](../480-naion-dieu-tri-va-theo-doi/lesson.md) *(mới)*
@@ -250,5 +252,6 @@ certainty: tong-hop-y-van
 - 495–499: dự trữ mở rộng
 - 1402 – Bong võng mạc SAU viêm nội nhãn: **lỗ hoại tử → RRD** vs **màng xơ → TRD/PVR**; bong **14,8%** (8,3–21%), trung vị **27 ngày**, **81,3% < 2 tháng**; **bỏ mắt 31,3%**, gắn lại **56,3%**; **dầu silicone: bong 0–6,2% vs 25,5–76,6%** nhóm chứng; **B-scan quyết định khi dịch kính đục** *(mới — [bài học](../1402-bong-vong-mac-sau-viem-noi-nhan/lesson.md))*
 - 497 – Theo dõi sau cấy ốc tai ở trẻ: biến chứng **13,7%** (nặng 5,2%), cấy lại **11,7%**, **EE 3,94%** (EFI **Se = Sp = 100%** ở 226 ca có imaging), **vôi hóa: EABR kích thích được 100% vs 80%**, viêm màng não **0,74%** (tới **72 tháng**); **X-quang âm tính giả ở IP-III — HRCT là chốt** *(mới — [bài học](../497-theo-doi-sau-cay-oc-tai-tre/lesson.md))*
+- 498 – Kearns–Sayre & CPEO: **1–3/100.000**, khởi phát **< 20 tuổi**; bộ ba PEO + sắc tố võng mạc + block dẫn truyền; **MRI FLAIR sợi U/thể cầu nhạt/thân não + DWI hạn chế + teo EOM**; **ESC 2021 IIa C** đặt máy, **LVEF ≤ 50% → CRT**, **LGE/VT → ICD** *(mới — [bài học](../498-kearns-sayre-cpeo/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

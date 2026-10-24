@@ -701,3 +701,6 @@
 ## 2026-10-24 (lượt 3) — worker rad-backlog
 - Viết **253** (viêm xương nền sọ giữa không do tai: 4 ảnh + 1 composite CT-âm/MRI-dương) + **204** (hoại tử phóng xạ: 4 ảnh, 1 ảnh CC BY-NC-ND giữ nguyên bản); flip #355/#926 → xong; append 259 (SMART) + 260 (bệnh mạch máu não do xạ); đổi ID hàng #399 trùng 253 → 258.
 - Verify **5/5 PASS**, 517 bài / 517 card, parity 0, author-check online; 15 cảnh báo legacy giữ nguyên.
+## 2026-10-24 (lượt 4) — worker rad-backlog
+- Viết **1612** (colpocleisis & pyocolpos/pyometra: 4 ảnh CT + ảnh mổ, 3 CC BY 4.0 + 1 CC BY-NC-ND) + **498** (Kearns–Sayre/CPEO: MRI não, teo EOM, ECG/Holter, OCT; 3 CC BY-NC-ND + 1 CC BY 4.0); cập nhật overview 400/500, README, index.
+- Verify **5/5 PASS**, 519 bài / 519 card, parity 0, author-check online; 15 cảnh báo legacy giữ nguyên; flip #354/#355 → xong, append #415 (1641) + #416 (1642).
