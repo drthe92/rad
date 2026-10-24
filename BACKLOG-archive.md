@@ -688,3 +688,5 @@
 - Flip #401/#402; append #973 (935 — DRL can thiệp nhi) & #974 (1629 — RFA/MWA nhân giáp đặc); đã check_duplicates cả hai.
 - 2026-10-24 · bài 489 (PRPH2/OMD vs độc tính thuốc) + 3003 (ICI u não CMMRD) · verify PASS 4/4 · 507 bài / 507 card / parity 0
 - 2026-10-24 · flip #342/#343 → xong; append 3004 (HSCT ở CMMRD) + 1404 (CNV trên nền PRPH2), đã check_duplicates
+- 2026-10-24 · bài 490 (DR trong thai kỳ: 0/175 STDR khi không DR + HbA1c < 53; aHR 0,64; 3 ảnh CC BY/BY-NC) + 493 (u lympho hắc mạc: 830–920 µm, hồi âm thấp, ICGA 100%, EBRT 94%; 4 ảnh CC BY) · verify PASS 4/4 · 509 bài / 509 card / parity 0
+- 2026-10-24 · flip #344/#345 → xong; append 1408 (anti-VEGF trong thai) + 1409 (bệnh võng mạc do xạ sau xạ trị u nội nhãn), đã check_duplicates

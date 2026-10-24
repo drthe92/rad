@@ -69,6 +69,8 @@ certainty: tong-hop-y-van
 | **Viêm nội nhãn nội sinh do VI KHUẨN (Klebsiella/S. aureus)** | Hắc mạc–võng mạc → dịch kính; ổ nhiễm ngoài mắt: gan, tim, đường niệu, catheter | **Klebsiella (áp-xe gan) vs S. aureus/Streptococcus (endocarditis/catheter)** vs nấm (463) vs PVRL (462) vs ARN/CMV | **Ổ MỦ DƯỚI VÕNG MẠC lớn + tiến triển giờ–ngày + đái tháo đường/áp-xe gan**; **tiền phòng có thể CHỈ hypopyon nhẹ** → soi đáy mắt, tiêm nội nhãn ngay; **CT: áp-xe thùy trái/hai thùy + xâm lấn tĩnh mạch gan (OR 148)** | [475](../475-viem-noi-nhan-noi-sinh-vi-khuan/lesson.md) |
 | **Tầm soát mắt ở trẻ candidemia (NICU)** | Võng mạc–dịch kính sơ sinh | **Candida chorioretinitis (không viêm dịch kính)** vs **ROP** vs CMV/toxo bẩm sinh vs xuất huyết do sinh | **Cấy máu/nước tiểu dương *Candida* = soi đáy mắt + chọc dịch não tủy cho MỌI sơ sinh (IDSA mức mạnh)**; **ổ vàng–kem đơn độc, không viêm dịch kính vẫn là bệnh thật**; **2,7% sơ sinh nhiễm nấm xâm lấn có tổn thương mắt** | [476](../476-tam-soat-mat-candidemia-nhi/lesson.md) |
 | U hắc mạc | Hắc mạc (choroid) | Melanoma, nevus, di căn | Dày ≥ 2 mm + T1 sáng = melanoma | [448](../448-u-hac-mac/lesson.md) |
+| **U lympho hắc mạc (nguyên phát/thứ phát)** | Hắc mạc → có thể lan ngoài củng mạc | **U lympho** vs melanoma thể lan tỏa vs hemangioma vs di căn vs **VKH** vs tràn dịch hắc mạc | **Dày hắc mạc lan tỏa 830–920 µm + hồi âm THẤP + đốm giảm huỳnh quang ICGA 100% + FAF bình thường 59%**; **siêu âm đo quá +66%** so với EDI-OCT; corticoid **không** cải thiện | [493](../493-u-lympho-nguyen-phat-hac-mac/lesson.md) |
+| **Võng mạc ĐTĐ trong THAI KỲ** | Võng mạc (retina) + mẹ–thai | DME, PDR/VH, TRD vs **tiền sản giật** vs CSCR vs thay đổi sinh lý | **Không DR + HbA1c < 53 mmol/mol → 0/175 tiến triển STDR**; DR nền trung bình → PDR **29%**; đoàn hệ ghép cặp 2025 **aHR 0,64** (không tăng); nguy cơ **đến 12 tháng sau sinh** | [490](../490-vong-mac-dai-thao-duong-trong-thai-ky/lesson.md) |
 | Chấn thương mắt | Nhãn cầu–hốc mắt | Vỡ nhãn cầu, IOFB | Mắt xẹp + XH dịch kính; OTS | [449](../449-chan-thuong-mat-dich-vat/lesson.md) |
 | OCT | Hoàng điểm/RNFL | DME/AMD, glaucoma | CST ≥ 300 µm; asymmetry > 9 µm | [441](../441-OCT-hoang-diem/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
 | Võng mạc ĐTĐ | Võng mạc (retina) | NPDR/PDR, DME | 4-2-1; CST ≥ 300 µm; PRP 1200–1600 | [443](../443-vong-mac-dai-thao-duong/lesson.md) |
@@ -141,6 +143,8 @@ certainty: tong-hop-y-van
 - [488 – Hydroxychloroquine trong thai kỳ & cho con bú: an toàn mẹ–thai, lịch sàng lọc mắt, theo dõi thị giác trẻ phơi nhiễm](../488-hcq-trong-thai-ky-va-cho-con-bu/lesson.md) *(mới)*
 - [491 – Theo dõi & tái phát PVRL: tái phát nội nhãn, tiến triển CNS, lịch MRI 4–6 tháng](../491-pvrl-theo-doi-tai-phat/lesson.md) *(mới)*
 - [492 – Sinh thiết hắc–võng mạc & quy trình lấy mẫu dịch kính: kỹ thuật, xử lý mẫu, độ nhạy](../492-sinh-thiet-hac-vong-mac-dich-kinh/lesson.md) *(mới)*
+- [493 – U lympho nguyên phát của hắc mạc: dày hắc mạc kín đáo, trễ 2 năm, phân biệt melanoma/di căn/VKH](../493-u-lympho-nguyen-phat-hac-mac/lesson.md) *(mới)*
+- [490 – Bệnh võng mạc đái tháo đường trong THAI KỲ: lịch theo tam cá nguyệt, laser/anti-VEGF & hậu sản](../490-vong-mac-dai-thao-duong-trong-thai-ky/lesson.md) *(mới)*
 - [472 – Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, tái mổ & cạm bẫy giả lác ngoài](../472-phau-thuat-lac-tre-sinh-non-rop/lesson.md) *(mới)*
 - [477 – Bệnh ty thể có biểu hiện thị giác & tai: MELAS, MIDD, POLG, PHARC](../477-benh-ty-the-thi-giac-tai/lesson.md) *(mới)*
 - [479 – Tư vấn di truyền & xử lý VUS trong teo thị/điếc (OPA1/WFS1)](../479-tu-van-di-truyen-vus-opa1-wfs1/lesson.md) *(mới)*
@@ -231,6 +235,8 @@ certainty: tong-hop-y-van
 - 486 – Lác trong điều tiết sau khi đeo kính: 5 kiểu còn lác (5P), ngưỡng mổ **> 15 PD**, lăng kính **≤ 20 PD** (thành công 30,6%), kính hai tròng khi AC/A cao, nhược thị tái phát 12,74% *(đã có — [bài học](../486-lac-trong-dieu-tiet-theo-doi-sau-kinh/lesson.md))*
 - 489 – Loạn dưỡng hoa văn & teo võng mạc ngoài DI TRUYỀN (PRPH2, RP1L1/OMD, sector) vs độc tính thuốc: **EZ dày 42–44 µm** so với chứng ~17 µm, **PSPD 47,2%**, OMD mất ~1 dòng ETDRS/2 năm, ngưỡng ngừng HCQ *(mới — [bài học](../489-loan-duong-hoa-van-vs-doc-tinh-thuoc/lesson.md))*
 - 1403 – Phẫu thuật ROP giai đoạn 4–5: đai củng mạc khi 4A co kéo ngoại vi, LSV khi 4A/4B, LV khi stage 5/màng dày; thành công **~90% → 57–79% → 25–33%**, cận thị nặng sau mổ *(đã có — [bài học](../1403-phau-thuat-rop-giai-doan-4-5/lesson.md))*
-- 490, 493–499: dự trữ mở rộng
+- 490 – Bệnh võng mạc ĐTĐ trong THAI KỲ: lịch NICE 28 tuần/16–20 tuần, ADA mỗi tam cá nguyệt; **không DR + HbA1c < 53 mmol/mol → 0/175 STDR**; PRP là ưu tiên, anti-VEGF tránh tam cá nguyệt 1; nguy cơ đến 12 tháng sau sinh *(mới — [bài học](../490-vong-mac-dai-thao-duong-trong-thai-ky/lesson.md))*
+- 493 – U lympho nguyên phát hắc mạc: dày hắc mạc 830–920 µm, **hồi âm thấp**, đốm giảm huỳnh quang ICGA 100%, trễ chẩn đoán 2 năm, sinh thiết 27G, EBRT sống còn 2 năm 94% *(mới — [bài học](../493-u-lympho-nguyen-phat-hac-mac/lesson.md))*
+- 494–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
