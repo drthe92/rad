@@ -653,18 +653,16 @@
 - 2026-10-23: viết **562** (hẹp âm đạo sau xạ; 2 ảnh CC BY 4.0 + CC BY-NC-ND, giữ nguyên) và **6102** (CMV bào thai; 3 ảnh CC BY 4.0); selfcheck/lint/mermaid/author-check PASS.
 - 2026-10-23: ID 696 đã dùng cho LAM → CMV chuyển **6102**; append 2 khoảng trống 6103 (toxo/Zika bào thai) + 1626 (tái phát vòm âm đạo).
 - 2026-10-23: viết 564 (rò bàng quang–âm đạo & niệu quản–âm đạo sau mổ phụ khoa, 5 ảnh) và 1603 (vasa previa type II–III + đốt laser, 4 ảnh); đổi ID OPA1 carrier 1603→1627; thêm gap 191 & 1618.
-
 ## 2026-10-23 — lượt worker (2 bài)
 - 1604 thai kỳ sau CSEP (tái phát 6,6–15%, PAS aRR 8,31; ảnh PMC11651832/PMC11914175 NC-ND + PMC11088178 CC BY) và 1605 endometrioma tiền sản (ESHRE 2022; CLBR 52,4% vs 59,6%; ảnh PMC12916156/PMC10606809/PMC13472831 CC BY). PASS selfcheck+lint+mermaid+author.
 2026-10-24: viết 1606 (endometrioma tái phát — mổ lại vs IVF) + 145 (viêm ruột thừa trong thai kỳ; 179 đã dùng nên đổi 145); 4 ảnh CC BY, 2 composite; flip #316/#317, thêm #946 (109) & #947 (1628).
-
 - 2026-10-24: viết 1607 (bảo tồn sinh sản trước hóa–xạ: AFC/AMH, liều xạ, buồng trứng chuyển vị) + 1608 (ung thư niệu mạc thứ phát sau xạ tiểu khung). Mở gap 1609 (OTC trước dậy thì) + 1610 (viêm bàng quang xạ chảy máu).
 - 2026-10-24: xong 1609 (suy buồng trứng sau xạ: AMH/FSH, HRT, DXA) + 1610 (tách màng ối sau can thiệp bào thai: phân độ, PPROM, PABS); ảnh PMC13320243/PMC12941671/PMC4796085/PMC6452456/PMC13002228.
 - 2026-10-24: dời ID các hàng chờ trùng: OTC 1609→1632, viêm bàng quang xạ chảy máu 1610→1633; thêm 2 khoảng trống 1634/1635.
-
 - 2026-10-24: viết 1611 (TTTS tái phát sau laser) + 1636 (theo dõi thần kinh sau một thai chết MC); selfcheck/lint/mermaid/author PASS; thêm 1637/1638 vào hàng chờ.
-
 - 2026-10-24: viết 306 (theo dõi sau SBRT di căn xương RCC; 4 ảnh PMC12517103/PMC8862557) + 6701 (di căn phổi Wilms/sarcoma xương; 5 ảnh PMC11145898/PMC12476164/PMC10171270). Cả 2 PASS selfcheck/lint/mermaid/author. Thêm 2 gap 307 & 6702.
-
 - 2026-10-24: viết 6104 (aniridia & WAGR: PAX6/11p13, glaucoma 75%, AAK, US 3 tháng; ảnh PMC13281451 NC-ND + PMC13460364/PMC13524468 CC BY) + 6700 (di chứng muộn sau Wilms: CKD 19%, eGFR −13, anthracycline, scoliosis, SMN; ảnh PMC9382288/PMC9883410 CC BY + composite). Cả 2 PASS selfcheck/lint/mermaid/author.
 - Flip #326/#327; thêm 2 gap 6105 (AAK nặng) & 6703 (bệnh cơ tim do anthracycline).
+## 2026-10-24 — lượt worker
+- Viết **184** (biến chứng thần kinh PPGL: PRES/RCVS/đột quỵ; 6 ảnh CC BY 4.0 + CC BY-NC 3.0) và **193** (ACC ở trẻ; 3 ảnh, 2 CC BY-NC-ND giữ nguyên bản) — selfcheck + lint PASS.
+- Đổi ID ACC 172 → **193** (172 đã dùng); append gap 195 (tiêu sợi huyết/lấy huyết khối khi u chưa cắt) và 194 (nội tiết chu phẫu ACC).

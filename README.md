@@ -180,6 +180,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 175 | [Chèn ép mạch](175-chen-ep-mach/lesson.md) | `pattern:chen-ep-mach` |
 | 176 | [TIPS/DIPS: chỉ định, kỹ thuật & theo dõi shunt](176-tips-dips-theo-doi-shunt/lesson.md) | `pattern:shunt-cua-chu` `vung:gan` `vung:mach-cua` `score:PPG` `protocol:Doppler-sieu-am` `protocol:DSA-do-ap-luc` |
 | 177 | [Điều trị & theo dõi PPGL: alpha-block, phẫu thuật, PRRT/MIBG & lịch theo dõi](177-dieu-tri-va-theo-doi-ppgl/lesson.md) | `pattern:khoi-thuong-than` `pattern:paraganglioma` `vung:thuong-than` `vung:paraganglia` `score:RECIST` `protocol:alpha-block` `protocol:PRRT-MIBG` `incidentaloma:u-thuong-than` |
+| 184 | [Biến chứng thần kinh của PPGL: PRES, RCVS/co mạch não, đột quỵ & xuất huyết não](184-bien-chung-than-kinh-ppgl/lesson.md) | `pattern:phu-nao-mach` `pattern:co-mach-nao` `pattern:xuat-huyet-nao` `vung:nao` `vung:thuong-than` `protocol:MRI-DWI-SWI-MRA` `score:PRES` `incidentaloma:u-thuong-than` |
+| 193 | [Ung thư vỏ thượng thận (ACC) ở trẻ: nam hóa/Cushing, phân giai đoạn COG, Wieneke & mitotane](193-ung-thu-vo-thuong-than-o-tre/lesson.md) | `pattern:khoi-thuong-than` `pattern:hoai-tu` `pattern:nam-hoa` `vung:thuong-than` `vung:o-bung-nhi` `score:COG-stage-ACC` `score:Wieneke` `protocol:CT-bung-co-can-quang` `incidentaloma:u-thuong-than` |
 | 121 | [LI-RADS & HCC](121-khoi-gan-LIRADS/lesson.md) | `score:LI-RADS` |
 | 135 | [Viêm tụy Atlanta](135-viem-tuy-Atlanta/lesson.md) | `score:Atlanta` |
 | 150 | [Bosniak & u thận](150-nang-than-Bosniak/lesson.md) | `score:Bosniak` |
