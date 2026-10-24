@@ -179,6 +179,8 @@ certainty: tong-hop-y-van
 - 156 – Hội chứng di truyền u thận: VHL/BHD/HLRCC/TSC/SDH *(đã có — [bài học](../156-hoi-chung-di-truyen-u-than/lesson.md))*
 - 157 – Bệnh thận đa nang ADPKD/ARPKD & gan đa nang *(đã có — [bài học](../157-benh-than-da-nang-adpkd-arpkd/lesson.md))*
 - 158 – Tiền liệt tuyến & PI-RADS v2.1 *(đã có — [bài học](../158-tien-liet-tuyen-PIRADS/lesson.md))*
+- 159 – Bàng quang & đường niệu trên: VI-RADS, xâm lấn cơ & UTUC *(đã có — [bài học](../159-bang-quang-virads-u-duong-nieu-tren/lesson.md))*
+- 1608 – Ung thư niệu mạc thứ phát sau xạ trị tiểu khung: đái máu muộn, ngưỡng soi & phân biệt viêm bàng quang xạ *(đã có — [bài học](../1608-ung-thu-nieu-mac-thu-phat-sau-xa-tri-tieu-khung/lesson.md))*
 - 168 – U tủy thượng thận & u cận hạch (pheochromocytoma/paraganglioma) *(đã có — [bài học](../168-pheo-paraganglioma/lesson.md))*
 
 **160–169 — Ống tiêu hóa (GI)**

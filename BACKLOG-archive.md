@@ -657,3 +657,5 @@
 ## 2026-10-23 — lượt worker (2 bài)
 - 1604 thai kỳ sau CSEP (tái phát 6,6–15%, PAS aRR 8,31; ảnh PMC11651832/PMC11914175 NC-ND + PMC11088178 CC BY) và 1605 endometrioma tiền sản (ESHRE 2022; CLBR 52,4% vs 59,6%; ảnh PMC12916156/PMC10606809/PMC13472831 CC BY). PASS selfcheck+lint+mermaid+author.
 2026-10-24: viết 1606 (endometrioma tái phát — mổ lại vs IVF) + 145 (viêm ruột thừa trong thai kỳ; 179 đã dùng nên đổi 145); 4 ảnh CC BY, 2 composite; flip #316/#317, thêm #946 (109) & #947 (1628).
+
+- 2026-10-24: viết 1607 (bảo tồn sinh sản trước hóa–xạ: AFC/AMH, liều xạ, buồng trứng chuyển vị) + 1608 (ung thư niệu mạc thứ phát sau xạ tiểu khung). Mở gap 1609 (OTC trước dậy thì) + 1610 (viêm bàng quang xạ chảy máu).
