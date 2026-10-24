@@ -146,6 +146,8 @@ certainty: tong-hop-y-van
 - [479 – Tư vấn di truyền & xử lý VUS trong teo thị/điếc (OPA1/WFS1)](../479-tu-van-di-truyen-vus-opa1-wfs1/lesson.md) *(mới)*
 - [480 – NAION sau chẩn đoán: điều trị, dự phòng mắt đối diện & theo dõi dài hạn](../480-naion-dieu-tri-va-theo-doi/lesson.md) *(mới)*
 - [481 – Biến chứng nội nhãn sau liệu pháp gene & tiêm nội dịch kính: CRA, IOI vô khuẩn, endophthalmitis](../481-bien-chung-noi-nhan-lieu-phap-gene-tiem-noi-dich-kinh/lesson.md) *(mới)*
+- [486 – Lác trong điều tiết sau khi đeo kính: 5 kiểu còn lác, lăng kính, kính hai tròng & ngưỡng mổ](../486-lac-trong-dieu-tiet-theo-doi-sau-kinh/lesson.md) *(mới)*
+- [1403 – Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt thể thủy tinh](../1403-phau-thuat-rop-giai-doan-4-5/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -226,6 +228,8 @@ certainty: tong-hop-y-van
 - 491 – Theo dõi & tái phát PVRL: tái phát nội nhãn, tiến triển CNS 60–90%, MRI não 4–6 tháng, IL-10 âm tính hóa < 10 pg/mL, "nơi trú ẩn" quanh implant *(đã có — [bài học](../491-pvrl-theo-doi-tai-phat/lesson.md))*
 - 492 – Sinh thiết hắc–võng mạc & lấy mẫu dịch kính: mẫu nguyên chất 0,5–1,0 mL, 23G/25G, cassette 75%→92%, FNAB 41G, LCM *(đã có — [bài học](../492-sinh-thiet-hac-vong-mac-dich-kinh/lesson.md))*
 - 485 – Đo khúc xạ dưới lý liệt điều tiết ở trẻ mầm non: cyclopentolate 1% 2 giọt cách 5 phút, atropine khi viễn thị > 5 D, DSE 1,56 vs 0,97 D & quy tắc kê kính *(đã có — [bài học](../485-khuc-xa-ly-liet-dieu-tiet-tre-mam-non/lesson.md))*
-- 486, 489–490, 493–499: dự trữ mở rộng
+- 486 – Lác trong điều tiết sau khi đeo kính: 5 kiểu còn lác (5P), ngưỡng mổ **> 15 PD**, lăng kính **≤ 20 PD** (thành công 30,6%), kính hai tròng khi AC/A cao, nhược thị tái phát 12,74% *(đã có — [bài học](../486-lac-trong-dieu-tiet-theo-doi-sau-kinh/lesson.md))*
+- 1403 – Phẫu thuật ROP giai đoạn 4–5: đai củng mạc khi 4A co kéo ngoại vi, LSV khi 4A/4B, LV khi stage 5/màng dày; thành công **~90% → 57–79% → 25–33%**, cận thị nặng sau mổ *(đã có — [bài học](../1403-phau-thuat-rop-giai-doan-4-5/lesson.md))*
+- 489–490, 493–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
