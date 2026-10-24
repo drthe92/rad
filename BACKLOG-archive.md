@@ -666,3 +666,6 @@
 ## 2026-10-24 — lượt worker
 - Viết **184** (biến chứng thần kinh PPGL: PRES/RCVS/đột quỵ; 6 ảnh CC BY 4.0 + CC BY-NC 3.0) và **193** (ACC ở trẻ; 3 ảnh, 2 CC BY-NC-ND giữ nguyên bản) — selfcheck + lint PASS.
 - Đổi ID ACC 172 → **193** (172 đã dùng); append gap 195 (tiêu sợi huyết/lấy huyết khối khi u chưa cắt) và 194 (nội tiết chu phẫu ACC).
+## 2026-10-24 — lượt worker (185 + 485)
+- Viết **185** (độc tính sau PRRT/¹³¹I-MIBG ở PPGL: 3 ảnh CC BY 4.0; CTCAE v5 + dosimetry 23 Gy/2 Gy) và **485** (khúc xạ lý liệt trẻ mầm non: 4 ảnh CC BY/CC BY-NC-SA, DSE 1,56 vs 0,97 D; quy tắc kê kính) — selfcheck + lint PASS.
+- Flip #330/#331; append 2 gap: 186 (²²⁵Ac-DOTATATE sau ¹⁷⁷Lu) & 1404 (lý liệt ở trẻ Down/bại não/tự kỷ).

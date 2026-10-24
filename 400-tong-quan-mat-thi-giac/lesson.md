@@ -225,6 +225,7 @@ certainty: tong-hop-y-van
 - 488 – HCQ trong thai kỳ & cho con bú: giữ thuốc suốt thai (EULAR 2024/ACR 2020), nồng độ máu giảm (≤ 500 ng/mL → bùng phát nặng), mờ mắt thai kỳ nghĩ tiền sản giật/PRES, OCT trẻ phơi nhiễm ở 5 tuổi *(đã có — [bài học](../488-hcq-trong-thai-ky-va-cho-con-bu/lesson.md))*
 - 491 – Theo dõi & tái phát PVRL: tái phát nội nhãn, tiến triển CNS 60–90%, MRI não 4–6 tháng, IL-10 âm tính hóa < 10 pg/mL, "nơi trú ẩn" quanh implant *(đã có — [bài học](../491-pvrl-theo-doi-tai-phat/lesson.md))*
 - 492 – Sinh thiết hắc–võng mạc & lấy mẫu dịch kính: mẫu nguyên chất 0,5–1,0 mL, 23G/25G, cassette 75%→92%, FNAB 41G, LCM *(đã có — [bài học](../492-sinh-thiet-hac-vong-mac-dich-kinh/lesson.md))*
-- 485–486, 489–490, 493–499: dự trữ mở rộng
+- 485 – Đo khúc xạ dưới lý liệt điều tiết ở trẻ mầm non: cyclopentolate 1% 2 giọt cách 5 phút, atropine khi viễn thị > 5 D, DSE 1,56 vs 0,97 D & quy tắc kê kính *(đã có — [bài học](../485-khuc-xa-ly-liet-dieu-tiet-tre-mam-non/lesson.md))*
+- 486, 489–490, 493–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
