@@ -89,9 +89,11 @@ chạy `--offline` khi mạng vẫn tốt để né author-check.
 ## Chỉ số chưa phải cổng (ghi nhận, không tự chặn)
 
 `verify_all` chỉ ghi, chưa fail: ảnh hiển thị thiếu dòng CREDITS
-(`images_referenced_uncredited`), số ảnh không hiển thị (`images_unreferenced` — nguồn
-composite/bản cũ, không phải lỗi), ID trùng trong BACKLOG (`backlog_duplicate_ids`),
-Mermaid mới kiểm bằng regex (chưa có parser thật), parity README.
+(`images_referenced_uncredited`), ảnh **không hiển thị và không có dòng CREDITS**
+(`images_unreferenced_uncredited` — kỳ vọng **0**: nếu >0 thì credit đúng hoặc xoá file,
+đừng để ảnh mồ côi được Pages phục vụ), số ảnh không hiển thị nói chung
+(`images_unreferenced` — nguồn composite/bản cũ, không phải lỗi), ID trùng trong BACKLOG
+(`backlog_duplicate_ids`), Mermaid mới kiểm bằng regex (chưa có parser thật), parity README.
 
 Quy tắc: nếu `images_referenced_uncredited` > 0, hoặc chỉ số xấu **hai lượt liên tiếp**,
 báo người dùng ở dòng cuối báo cáo; đừng tự nới luật cũng đừng tự chặn pipeline.
