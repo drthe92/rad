@@ -6,7 +6,7 @@
 | `574_vulvar-va-hach-ben_MRI_PMC13013239.jpg` | Golden E et al., *Abdom Radiol (NY)* 2026, Fig. 14 — khối âm hộ + hạch bẹn trái hoại tử (di căn) | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13013239/ |
 | `574_clitoris-binh-thuong_MRI_PMC13013239.jpg` | Golden E et al., *Abdom Radiol (NY)* 2026, Fig. 6 — âm vật bình thường giả tái phát; đối chiếu phim cũ 7 năm không đổi | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13013239/ |
 | `574_melanoma-am-dao_MRI_PMC13013239.jpg` | Golden E et al., *Abdom Radiol (NY)* 2026, Fig. 15 — melanoma âm đạo/âm hộ có tín hiệu T1 cao nội tại | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13013239/ |
-| `574_hach-ben-PET-gia-am_PET-CT_PMC13406750.jpg` | Gazawi R et al., *Cancers (Basel)* 2026, Fig. 3 — PET/CT âm giả ở hạch bẹn (mô bệnh xác nhận di căn) | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13406750/ |
+| `574_hach-ben-PET-gia-am_PMC13406750.jpg` | Gazawi R et al., *Cancers (Basel)* 2026, Fig. 3 — PET/CT âm giả ở hạch bẹn (mô bệnh xác nhận di căn) | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13406750/ |
 | `574_phac-do-PET_PMC13406750.jpg` | Gazawi R et al., *Cancers (Basel)* 2026, Fig. 1 — lưu đồ dùng FDG PET/CT trong ung thư âm hộ | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13406750/ |
 | `574_am-dao-SCC_PET_PMC13653533.jpg` | Singh J & Eanelli T, *Cureus* 2026, Fig. 1 — PET trước điều trị xác định thể tích u SCC âm đạo | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC13653533/ |
 | `composite_vulvar-SCC-vs-clitoris.jpg` | Ảnh ghép letterbox từ 2 ảnh CC BY 4.0 ở trên (SCC âm hộ vs âm vật bình thường) | CC BY 4.0 (tác phẩm phái sinh theo CC BY) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13013239/ |

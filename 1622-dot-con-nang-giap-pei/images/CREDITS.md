@@ -7,6 +7,7 @@
 | `composite_1622_lanh-vs-tai-phat.jpg` | Ghép Fig. 2 + Fig. 3 bằng `tools/make_composite.py`, letterbox giữ aspect, dải đen attribution | PMC8217800 | Yim Y et al., *Ultrasonography* 2021 | CC BY-NC 4.0 (kế thừa) |
 | `1622_yeu-to-thanh-cong_BIEU-DO_PMC13369035-Fig2-CCBY.jpg` | Fisher: thành công (VRR > 50%) theo kiểu kỹ thuật, hình thái, thành phần, số lần đốt | PMC13369035 | Scappaticcio L et al., *Radiol Med* 2026 | CC BY 4.0 |
 | `1622_ket-cuc_BIEU-DO_PMC13369035-Fig3-CCBY.jpg` | Fisher: kết cục cuối (theo dõi siêu âm vs phẫu thuật) theo cùng các biến | PMC13369035 | Scappaticcio L et al., *Radiol Med* 2026 | CC BY 4.0 |
+| `1622_dieu-tri-them_US_PMC8217800-Fig4-CCBYNC.jpg` | Fig. 4 — hình can thiệp bổ sung trong bài (không hiển thị trong lesson) | PMC8217800 | Yim Y et al., *Ultrasonography* 2021 | CC BY-NC 4.0 |
 
 ## Ghi chú
 - Ảnh **CC BY-NC 4.0** (PMC8217800): dùng nguyên bản; composite là tác phẩm phái sinh của hai ảnh cùng bài, giữ aspect, không kéo giãn.

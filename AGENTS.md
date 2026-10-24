@@ -70,7 +70,7 @@
 - Mục (1) bắt buộc giải thích TẠI SAO (vật lý T1/T2/DWI/HU + mô bệnh), không chỉ liệt kê tín hiệu — theo PROMPT_SYNTHESIZER của Argon + nhãn certainty của ta.
 - Mọi bài qua 4 cửa trong `PROMPT_SYNTHESIZER.md` (ngưỡng định lượng, học thuyết thể tích, trung thành nguồn + phản biện, cạm bẫy mặt cắt) trước khi commit.
 - **TRƯỚC KHI viết** bài mới: chạy `python3 tools/check_duplicates.py <ID> "<tên bài>"` — exit 1 = ID/chủ đề đã tồn tại → nâng cấp bài cũ hoặc đổi chủ đề (KHÔNG tạo trùng).
-- Bài mới phải soi với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng) + chạy **`python3 tools/verify_all.py`** (4 cổng: selfcheck + lint + fix_mermaid + author-check, **cộng parity hub folder ↔ card**) PASS mới commit. Chạy lẻ từng cổng cũng được, nhưng `verify_all.py` là bản ghi bằng chứng (`tools/verify_report.json`) + log đo lệch giữa các lượt (`tools/verify_log.jsonl` — gitignore); `--only` chỉ in PARTIAL PASS, không được coi là PASS toàn phần.
+- Bài mới phải soi với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng) + chạy **`python3 tools/verify_all.py`** (**5 cổng**: selfcheck + lint + fix_mermaid + author-check + parity hub folder ↔ card) PASS mới commit. Chạy lẻ từng cổng cũng được, nhưng `verify_all.py` là bản ghi bằng chứng (`tools/verify_report.json`) + log đo lệch giữa các lượt (`tools/verify_log.jsonl` — gitignore); `--only` chỉ in PARTIAL PASS, không được coi là PASS toàn phần.
 - 15 bài cũ chưa có ma trận 2 cột (011, 051, 075, 101, 110, 115, 136, 150, 152, 155, 160, 401, 410, 485, 648): `selfcheck` cảnh báo qua `LEGACY_MATRIX`, không chặn commit. Chạm bài nào thì nâng cấp ma trận bài đó rồi xoá khỏi danh sách (script sẽ nhắc). (`fix_mermaid.py` sửa lỗi Mermaid 10.x: `\n`→`<br/>`, quote label có ngoặc/nháy, ngoặc trong edge label→entity, ngoặc đóng sai.)
 - **Chống chồng lượt:** worker chạy `python3 tools/worker_guard.py acquire|release` (exit 3 = có worker khác → dừng).
 - **Worker cron:** chạy theo skill `.opencode/skills/rad-backlog/SKILL.md` (thứ tự một lượt) + `.opencode/skills/rad-verify/SKILL.md` (chạy cổng nào, khi nào PASS). Prompt cron chỉ giữ thứ tự ngắn — **không nhồi lại luật nội dung/nguồn ảnh vào prompt** (đã có ở đây + skill toàn cục `medical-lesson-library`).
@@ -93,13 +93,14 @@ tools/
   make_composite.py   # Pillow: ghép lưới + dải đen attribution (chạy local)
   ensure_deps.py      # tải Pillow wheel từ PyPI, giải nén vào user site (không cần pip/root)
   selfcheck.py        # cổng cấu trúc/link/ảnh bài học (phủ cả ID 3 và 4 chữ số)
-  verify_all.py       # chạy đủ 4 cổng + ghi verify_log.jsonl / verify_report.json
+  verify_all.py       # 4 cổng + parity index; ghi verify_log.jsonl / verify_report.json
   lint_repo.py        # lint frontmatter/6 mục/bảng/ảnh
   check_credits_authors.py  # đối chiếu tên tác giả vs PMCID (Europe PMC)
   check_duplicates.py # chặn viết trùng ID/chủ đề
   worker_guard.py     # khóa chống chồng lượt (acquire/release)
   split_backlog.py    # giữ BACKLOG.md gọn, chuyển ghi chú dài sang archive
-  tests/test_selfcheck.py  # fixture 6 ca cho selfcheck (chạy: python3 tools/tests/test_selfcheck.py)
+  tests/test_selfcheck.py  # fixture selfcheck (6 ca)
+  tests/test_verify_all.py # fixture verify_all (parity/partial/cảnh báo)
 BACKLOG.md            # file làm việc: hàng chờ viết + danh mục xong (nén)
 BACKLOG-archive.md    # lưu trữ ghi chú dài + nhật ký (worker không đọc)
 001-tong-quan-he-nguc/   # Tổng quan hệ Ngực (bảng DDx bắt buộc + Bài liên quan)

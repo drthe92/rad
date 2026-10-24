@@ -40,17 +40,28 @@ GATES = {
 ALL_CHECKS = list(GATES) + ["index"]
 
 
+def parse_selfcheck_warnings(lines):
+    """Đếm cảnh báo legacy từ dòng 'SELFCHECK PASS (N bài; K cảnh báo legacy)'."""
+    for line in lines:
+        m = re.search(r"(\d+)\s+cảnh báo legacy", line)
+        if m:
+            return int(m.group(1))
+    return 0
+
+
 def run_gate(name, extra=()):
     cmd = [sys.executable] + GATES[name] + list(extra)
     t0 = time.time()
     p = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
     out = ((p.stdout or "") + (p.stderr or "")).strip().splitlines()
+    warnings = parse_selfcheck_warnings(out) if name == "selfcheck" else 0
     return {
         "name": name,
         "exit": p.returncode,
         "pass": p.returncode == 0,
         "seconds": round(time.time() - t0, 1),
         "tail": out[-15:],
+        "warnings": warnings,
     }
 
 
@@ -63,37 +74,40 @@ def git(*args):
         return ""
 
 
-def lessons():
+def lessons(root=ROOT):
     out = []
-    for d in sorted(os.listdir(ROOT)):
-        if os.path.isdir(os.path.join(ROOT, d)) and re.match(r"^\d{3,4}-", d):
+    for d in sorted(os.listdir(root)):
+        if os.path.isdir(os.path.join(root, d)) and re.match(r"^\d{3,4}-", d):
             out.append(d)
     return out
 
 
-def metrics():
-    dirs = lessons()
+def metrics(root=ROOT):
+    dirs = lessons(root)
     total = len(dirs)
     n3 = sum(1 for d in dirs if re.match(r"^\d{3}-", d))
-    idx_path = os.path.join(ROOT, "index.html")
+    idx_path = os.path.join(root, "index.html")
     cards = set()
     if os.path.exists(idx_path):
-        txt = open(idx_path, encoding="utf-8").read()
+        with open(idx_path, encoding="utf-8") as f:
+            txt = f.read()
         cards = set(re.findall(r'view\.html\?b=([^&"\']+)', txt))
 
-    images, orphan, uncredited = 0, 0, 0
+    images, orphan, orphan_unc, uncredited = 0, 0, 0, 0
     for d in dirs:
-        img_dir = os.path.join(ROOT, d, "images")
+        img_dir = os.path.join(root, d, "images")
         if not os.path.isdir(img_dir):
             continue
         credits = os.path.join(img_dir, "CREDITS.md")
         credit_txt = ""
         if os.path.exists(credits):
-            credit_txt = open(credits, encoding="utf-8").read()
-        lesson_path = os.path.join(ROOT, d, "lesson.md")
+            with open(credits, encoding="utf-8") as f:
+                credit_txt = f.read()
+        lesson_path = os.path.join(root, d, "lesson.md")
         lesson_txt = ""
         if os.path.exists(lesson_path):
-            lesson_txt = open(lesson_path, encoding="utf-8").read()
+            with open(lesson_path, encoding="utf-8") as f:
+                lesson_txt = f.read()
         referenced = set(re.findall(
             r"images/([^)\"'\s]+\.(?:jpg|jpeg|png|webp|gif))", lesson_txt, re.I))
         for f in os.listdir(img_dir):
@@ -101,15 +115,19 @@ def metrics():
                 continue
             images += 1
             if f not in referenced:
-                orphan += 1          # không hiển thị (nguồn composite, bản cũ/đổi tên)
+                orphan += 1
+                if f not in credit_txt:
+                    orphan_unc += 1   # có file trên đĩa nhưng không dòng CREDITS nào
             elif f not in credit_txt:
-                uncredited += 1      # ĐANG hiển thị mà CREDITS không có tên → cần xem
+                uncredited += 1       # ĐANG hiển thị mà CREDITS không có tên → cần xem
 
     waiting, dup_ids = 0, []
-    bl = os.path.join(ROOT, "BACKLOG.md")
+    bl = os.path.join(root, "BACKLOG.md")
     if os.path.exists(bl):
         seen = {}
-        for line in open(bl, encoding="utf-8"):
+        with open(bl, encoding="utf-8") as f:
+            lines = f.readlines()
+        for line in lines:
             if not line.startswith("|") or "chờ viết" not in line:
                 continue
             waiting += 1
@@ -129,6 +147,7 @@ def metrics():
         "backlog_duplicate_ids": dup_ids,
         "images_total": images,
         "images_unreferenced": orphan,
+        "images_unreferenced_uncredited": orphan_unc,
         "images_referenced_uncredited": uncredited,
     }
 
@@ -141,6 +160,11 @@ def run_index(m):
               max(0, m["index_parity_delta"])))
     return {"name": "index", "exit": 0 if ok else 1, "pass": ok,
             "seconds": 0.0, "tail": [msg]}
+
+
+def is_partial(only):
+    """Chạy thiếu cổng nào trong ALL_CHECKS thì là PARTIAL (kể cả khi đủ 4 cổng cũ)."""
+    return only is not None and set(only) != set(ALL_CHECKS)
 
 
 def main(argv):
@@ -182,23 +206,27 @@ def main(argv):
         results.append(run_index(m))   # parity luôn được kiểm
 
     requested = [r["name"] for r in results]
-    partial = only is not None and set(only) != set(GATES)
+    partial = is_partial(only)
     passed = sum(1 for r in results if r["pass"])
     ok = passed == len(results)
     duration = round(time.time() - t0, 1)
+    sc_warn = next((r["warnings"] for r in results if r["name"] == "selfcheck"), 0)
 
     label = "FAIL" if not ok else ("PARTIAL PASS" if partial else "PASS")
     print(f"VERIFY {label} ({passed}/{len(results)}: {', '.join(requested)})"
           f" — {m['lessons_total']} bài, {m['index_cards']} card,"
           f" {m['backlog_waiting']} chờ viết")
     for r in results:
-        print(f"  {r['name']:<10} {'PASS' if r['pass'] else 'FAIL':<4} {r['seconds']:>5}s")
+        extra = f"  ({r['warnings']} cảnh báo legacy)" if r.get("warnings") else ""
+        print(f"  {r['name']:<10} {'PASS' if r['pass'] else 'FAIL':<4} {r['seconds']:>5}s{extra}")
         if not r["pass"]:
             for line in r["tail"][-6:]:
                 print("     ", line)
     print(f"  chỉ số: parity index {m['index_parity_delta']:+d},"
           f" ảnh hiển thị thiếu credit {m['images_referenced_uncredited']}"
-          f"/{m['images_total']} (không hiển thị: {m['images_unreferenced']}),"
+          f"/{m['images_total']}, ảnh không hiển thị & không credit"
+          f" {m['images_unreferenced_uncredited']} (tổng không hiển thị"
+          f" {m['images_unreferenced']}),"
           f" BACKLOG ID trùng: {len(m['backlog_duplicate_ids'])}")
     if dirty:
         print(f"  lưu ý: working tree có {dirty} file thay đổi (log vẫn ghi).")
@@ -210,7 +238,8 @@ def main(argv):
         "offline_authors": offline,
         "pass": ok,
         "partial": partial,
-        "gates_requested": requested,
+        "gates_run": requested,
+        "selfcheck_warnings": sc_warn,
         "gates": {r["name"]: {"pass": r["pass"], "exit": r["exit"],
                               "seconds": r["seconds"]} for r in results},
         "duration_s": duration,

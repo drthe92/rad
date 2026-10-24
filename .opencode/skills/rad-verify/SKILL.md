@@ -50,7 +50,7 @@ và ghi lại kết quả trước khi kết luận bất cứ điều gì.
 ## Lệnh
 
 ```sh
-python3 tools/verify_all.py                 # đủ 4 cổng, ghi report + log
+python3 tools/verify_all.py                 # đủ 5 cổng (4 + index), ghi report + log
 python3 tools/verify_all.py --offline       # khi mạng lỗi (phải ghi rõ trong báo cáo)
 python3 tools/verify_all.py --only selfcheck,lint
 python3 tools/verify_all.py --dry-run       # không ghi log (audit)

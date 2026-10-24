@@ -43,8 +43,10 @@ git status --short
 
 ```sh
 # 1) File bẩn nào không thuộc phạm vi worker, hoặc vừa bị sửa < 10 phút?
+#    (tách cả 2 vế của rename "cũ -> mới" để không bỏ sót path mới)
 now=$(date +%s)
-git status --porcelain | awk '{print $2}' | while read -r f; do
+git status --porcelain | sed 's/^...//' | awk -F' -> ' '{print $1; if (NF>1) print $2}' |
+while read -r f; do
   age=$(( now - $(stat -c %Y "$f" 2>/dev/null || echo "$now") ))
   case "$f" in
     [0-9][0-9][0-9]*-*/*|index.html|README.md|BACKLOG*.md|tools/*|.opencode/*) ;;
@@ -128,7 +130,8 @@ Chạy theo skill `rad-verify`:
 python3 tools/verify_all.py
 ```
 
-- Exit 0 + 4/4 cổng + `index_parity_delta == 0` → được commit.
+- Exit 0 + **5/5** (selfcheck, lint, mermaid, authors, index) → được commit. Dòng phải là
+  `VERIFY PASS`, không phải `VERIFY PARTIAL PASS`.
 - FAIL → sửa và chạy lại; nếu không sửa được trong lượt → **không commit**,
   release khóa, báo lỗi cụ thể.
 
@@ -182,7 +185,7 @@ luật. Không cần đọc cả file log.
 
 ```
 bài: 197 (Li-Fraumeni) + 929 (xơ hóa nang) — 2 ảnh/1 composite, CC BY 4.0
-verify: PASS 4/4 · 503 bài / 503 card · parity 0
+verify: PASS 5/5 · 515 bài / 515 card · parity 0 · selfcheck warn 15 legacy
 backlog: flip #341/#340 → xong; append 2 mục (đã check_duplicates)
 còn lại: 110 mục chờ viết; ưu tiên kế tiếp #342 ...
 ```

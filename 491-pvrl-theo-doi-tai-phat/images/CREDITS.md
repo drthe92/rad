@@ -6,6 +6,7 @@
 | 491_pvrl-sanctuary-GDI_PMC11931297-Fig3-CCBYNCND.jpg | Lee DH et al., Am J Ophthalmol Case Rep 2025 (PMC11931297) Fig. 3 | **CC BY-NC-ND 4.0** | Giải phẫu bệnh mắt cắt nhãn: (E) tế bào lympho lớn lót vỏ xơ bầu chứa ống dẫn lưu glaucoma, (F) CD79a dương — bằng chứng "nơi trú ẩn" |
 | 491_pvrl-tai-phat-lan-2_PMC11931297-Fig2-CCBYNCND.jpg | Lee DH et al. (PMC11931297) Fig. 2 | **CC BY-NC-ND 4.0** | Tái phát lần đầu: (a) đáy mắt — tế bào trắng vùng thái dương ngoại vi; (b) B-scan — tế bào dịch kính tăng |
 | 491_pvrl-song-con-OS_PMC13027321-Fig2-CCBY.jpg | Shiozaki N et al., J Clin Med 2026 (PMC13027321) Fig. 2 | CC BY 4.0 | Kaplan–Meier sống toàn bộ: PVRL (chưa CNS) so với VRL đã có CNS; sống 5 năm 58% |
+| 491_pvrl-tai-phat_UWF_PMC13271570-Fig1-CCBYNCND.jpg | Cristescu IE et al., Indian J Ophthalmol 2026 (PMC13271570) Fig. 1 | **CC BY-NC-ND 4.0** | Ảnh ultra-widefield Fig. 1 của bài — không hiển thị trong lesson; giữ nguyên bản |
 
 ## Ghi chú giấy phép
 - **Ảnh CC BY-NC-ND giữ nguyên bản, KHÔNG crop, KHÔNG ghép, KHÔNG chú thích đè lên ảnh.** Không tạo composite từ các ảnh này (ND = no derivatives).

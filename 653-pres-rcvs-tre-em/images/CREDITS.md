@@ -13,3 +13,5 @@
 | `composite_653_pres-tre-em_CT-vs-MRI.jpg` | Ảnh ghép đối chiếu: CT giảm đậm độ đối xứng chất trắng vs MRI theo dõi phù hồi phục (cùng ca viêm cầu thận cấp sau liên cầu) — từ Fig. 1 & Fig. 2, PMC12745017 | CC BY 4.0 | `tools/make_composite.py` |
 
 Quy tắc: chỉ tải khi giấy phép cho phép. Ảnh **CC BY 4.0** cho phép ghép (composite) và ghi nguồn. Ảnh **CC BY-NC 4.0** dùng minh họa ghi nguồn. Ảnh **CC BY-NC-ND 4.0** giữ **nguyên bản, không crop/ghép**. Ảnh ghép letterbox giữ aspect, không crop/kéo giãn; dải đen ghi `[Bệnh - chuỗi xung] + attribution`. AuntMinnie chỉ dẫn link, không scrape.
+| `653_rcvs_TOF-vwMRI_PMC10020348-Fig1-CCBY.jpg` | TOF/vwMRI mạch não — Rizzati F et al., Front Pediatr 2023, Fig. 1 (không hiển thị trong lesson) | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10020348/ |
+
