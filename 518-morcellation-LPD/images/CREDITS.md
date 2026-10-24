@@ -9,6 +9,8 @@
 | 518_LPD_CT-MRI_PMC7544249-F1.jpg | Yang L et al., Medicine 2020, PMC7544249 Fig. 1 | CC BY 4.0 | LPD ca 1: siêu âm nốt giảm âm + CT khối mô mềm dưới rốn |
 | 518_LPD_MRI_PMC7544249-F4.jpg | Yang L et al., Medicine 2020, PMC7544249 Fig. 4 | CC BY 4.0 | LPD ca 3: siêu âm nốt tử cung + MRI cản quang nhiều u xơ/dưới vỏ |
 | 518_peritoneal-nodules_PMC3506532-Fig4.jpg | Seidman MA et al., PLoS One 2012, PMC3506532 Fig. 4 | CC BY | Nốt cơ trơn trên bề mặt phúc mạc sau morcellation (ảnh trong mổ) |
+| 518_LPD-mac-noi-tang_PMC10317950-Fig28.jpg | Miguez González J et al., *Insights into Imaging* 2023, PMC10317950 Fig. 28 | CC BY 4.0 | Nguồn của ảnh ghép — LPD: nốt mạc nối ngấm như cơ + BML phổi |
+| 518_carcinomatosis_PMC10317950-Fig12.jpg | Miguez González J et al., *Insights into Imaging* 2023, PMC10317950 Fig. 12 | CC BY 4.0 | Nguồn của ảnh ghép — carcinomatosis phúc mạc (báng lớn + bánh mạc nối) |
 | composite_LPD-vs-carcinomatosis.jpg | Ghép Fig. 28 + Fig. 12 của PMC10317950 | CC BY 4.0 (kế thừa) | Đối chiếu LPD (+BML) vs carcinomatosis phúc mạc |
 
 - Tất cả ảnh ghép: **letterbox nền đen**, **giữ nguyên tỷ lệ gốc** (không crop, không kéo giãn), có dải đen ghi tên bệnh + attribution.

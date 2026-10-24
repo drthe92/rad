@@ -8,7 +8,7 @@
    - https://pmc.ncbi.nlm.nih.gov/articles/PMC13271555/
    - Dùng cho: 105 mắt (90 trẻ), GA **30,05 ± 2,73 tuần**, BW **1.383 ± 411 g**; 85 mắt đai quanh, 20 mắt đai đoạn; 75 mắt stage 4A; thành công **90,5% (quanh)** — **4A 93,9%, 4B 78,9%**; **90% (đoạn)** — **4A 88,8%, 4B 90,9%**; SE **−6,00 D vs −3,12 D**; thị lực chức năng **32% vs 55%**; Fig. 1–2 (trước/sau đai, tháo đai).
 
-2. **Casey A, Zahra RA, Barliana JD** *Anatomic and Functional Outcomes of Vitrectomy for Advanced Retinopathy of Prematurity: A Systematic Review.* Journal of Ophthalmic & Vision Research 2024;19(2):246–... PMCID **PMC11267137**; DOI 10.18502/jovr.v19i2.14027. Giấy phép **CC BY 4.0**.
+2. **Casey A et al.** (đủ tác giả: Casey A, Zahra RA, Barliana JD) *Anatomic and Functional Outcomes of Vitrectomy for Advanced Retinopathy of Prematurity: A Systematic Review.* Journal of Ophthalmic & Vision Research 2024;19(2):246–... PMCID **PMC11267137**; DOI 10.18502/jovr.v19i2.14027. Giấy phép **CC BY 4.0**.
    - https://pmc.ncbi.nlm.nih.gov/articles/PMC11267137/
    - Dùng cho: 10 nghiên cứu, **1.179 mắt**; **72% LSV, 28% LV**; LSV chủ yếu stage 4, LV stage 5; thành công **stage 4 > stage 5**; yếu tố tốt: **không plus, stage 4, đã laser/anti-VEGF, giữ thể thủy tinh**.
 

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Vòng tự kiểm trước commit (Self-Correction Loop — chống Model Lazy).
-Chạy: python3 tools/selfcheck.py [slug...]  (mặc định: tất cả NNN-*)
+Chạy: python3 tools/selfcheck.py [slug...]  (mặc định: mọi folder NNN-/NNNN-)
 Exit 0 = pass hết; exit 1 = có lỗi cần sửa trước khi commit.
+Cảnh báo (không chặn): LEGACY_MATRIX — bài cũ chưa có ma trận 2 cột Chốt vào/Chốt loại.
 """
 import os, re, sys
 
@@ -9,12 +10,41 @@ FRONT = ["unit_id", "subspecialty", "anatomical_location",
          "primary_pattern", "tags", "certainty"]
 HEADS = ["## 1.", "## 2.", "## 3.", "## 4.", "## 5.", "## 6."]
 
+# Bài cũ viết trước khi ma trận 2 cột thành luật (2026-10). Không miễn 6 mục/quiz —
+# chỉ miễn RIÊNG cột Chốt vào/Chốt loại. Mỗi lượt chạm bài nào thì nâng cấp bài đó
+# rồi xoá khỏi danh sách này (selfcheck sẽ nhắc khi thấy đã có ma trận).
+LEGACY_MATRIX = {
+    "011-tieu-thuy-phoi",
+    "051-tieu-phe-quan",
+    "075-tran-dich-mang-tim",
+    "101-protocol-bung",
+    "110-giai-phau-bung",
+    "115-khi-tu-do",
+    "136-u-nang-tuy",
+    "150-nang-than-Bosniak",
+    "152-soi-nieu",
+    "155-thuong-than-tinh-co",
+    "160-bung-cap-GI",
+    "401-phuong-thuc-mat",
+    "410-giai-phau-hoc-mat",
+    "485-khuc-xa-ly-liet-dieu-tiet-tre-mam-non",
+    "648-hoi-chung-de-mac-wilms-tam-soat-nephroblastomatosis",
+}
+WARNINGS = []
+
+
+def is_overview(slug):
+    """Tổng quan = theo TÊN FOLDER, không phải vì bài có nhắc chữ 'tổng quan'
+    (391/515 bài từng được miễn oan chỉ vì link tới bài tổng quan)."""
+    return "tong-quan" in slug or "overview" in slug
+
 def check(slug):
     errs = []
     lp = f"{slug}/lesson.md"
     if not os.path.exists(lp):
         return [f"{slug}: thiếu lesson.md"]
-    t = open(lp).read()
+    with open(lp, encoding="utf-8") as f:
+        t = f.read()
     m = re.match(r"^---\n(.*?)\n---\n", t, re.S)
     if not m:
         errs.append("thiếu frontmatter YAML")
@@ -22,8 +52,8 @@ def check(slug):
         for f in FRONT:
             if not re.search(rf"^{f}:", m.group(1), re.M):
                 errs.append(f"frontmatter thiếu {f}")
-    is_overview = "tong-quan" in t  # bài tổng quan (001) được miễn khung 6 mục
-    if not is_overview:
+    overview = is_overview(slug)
+    if not overview:
         idx = [t.find(h) for h in HEADS]
         if any(i < 0 for i in idx):
             errs.append("thiếu mục (đủ 6 mục 1-6)")
@@ -56,18 +86,21 @@ def check(slug):
         matrix = [b for b in blocks
                   if ("rule-in" in heads(b) or "chốt vào" in heads(b))
                   and ("rule-out" in heads(b) or "chốt loại" in heads(b))]
-        if not matrix and not is_overview:
-            errs.append("thiếu ma trận có đủ cột Chốt vào/Chốt loại")
-    imgs = sorted(set(re.findall(r"images/(\S+?\.(?:jpg|png))", t)))
+        if not matrix:
+            if slug in LEGACY_MATRIX:
+                WARNINGS.append(f"{slug}: chưa có ma trận 2 cột (legacy — nâng cấp khi chạm bài)")
+            elif not overview:
+                errs.append("thiếu ma trận có đủ cột Chốt vào/Chốt loại")
+        elif slug in LEGACY_MATRIX:
+            WARNINGS.append(f"{slug}: đã có ma trận — xoá khỏi LEGACY_MATRIX")
+    imgs = sorted(set(re.findall(r"images/(\S+?\.(?:jpg|jpeg|png|webp|gif))", t)))
     missing = [i for i in imgs if not os.path.exists(f"{slug}/images/" + i)]
     if missing:
         errs.append(f"ảnh thiếu: {missing}")
-    if "<details" not in t and not is_overview:
+    if "<details" not in t and not overview:
         errs.append("thiếu quiz <details>")
     if not re.search(r"\d+\s*(mm|HU|ngày|tuần|tháng|năm|%|cm|mL|g/dL|mg/dL|U/L|mIU|IU)", t):
         errs.append("thiếu số liệu định lượng (mm/HU/ngày/tuần/tháng/năm/%)")
-    if "Chiarenza" in t or "Snoeckx" in t or "Hellerhoff" in t or "Doc James" in t:
-        pass  # có attribution trong text
     cp = f"{slug}/images/CREDITS.md"
     if not os.path.exists(cp):
         errs.append("thiếu images/CREDITS.md")
@@ -99,7 +132,12 @@ def main():
         for e in allerrs:
             print(" -", e)
         sys.exit(1)
-    print(f"SELFCHECK PASS ({len(slugs)} bài)")
+    warn = "" if not WARNINGS else f"; {len(WARNINGS)} cảnh báo legacy"
+    print(f"SELFCHECK PASS ({len(slugs)} bài{warn})")
+    if WARNINGS:
+        print("SELFCHECK WARN (không chặn commit):")
+        for w in WARNINGS:
+            print(" !", w)
 
 if __name__ == "__main__":
     main()

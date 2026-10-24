@@ -62,11 +62,15 @@ Bằng chứng: `tools/verify_report.json` (chi tiết lượt gần nhất) và
 
 ## Điều kiện PASS
 
-1. `verify_all.py` exit **0**, **4/4** cổng PASS.
-2. Author-check chạy **online** (trừ khi mất mạng thật; khi đó ghi rõ số PMCID chưa xác minh).
-3. `index_parity_delta == 0` và `lessons_missing_card == 0`.
-4. Mọi ảnh mới có dòng trong `images/CREDITS.md` với license cụ thể + link gốc.
+1. `verify_all.py` exit **0**, **5/5** (selfcheck, lint, mermaid, authors, **index**).
+   `index` là parity folder ↔ card: `index_parity_delta == 0` và `lessons_missing_card == 0`.
+2. Chạy **đủ** cổng: dòng `VERIFY PASS`, không phải `VERIFY PARTIAL PASS`. Lượt chỉ chạy
+   `--only` không được báo là PASS toàn phần (log ghi `partial: true`).
+3. Author-check chạy **online** (trừ khi mất mạng thật; khi đó ghi rõ số PMCID chưa xác minh).
+4. Mọi ảnh **hiển thị trong lesson.md** có dòng trong `images/CREDITS.md` với license cụ thể + link gốc.
 5. Mỗi câu trong báo cáo cuối đều có số liệu lấy từ report/log — không nói "PASS" chung chung.
+6. `selfcheck` có thể in `SELFCHECK WARN ... legacy` (15 bài cũ thiếu ma trận 2 cột): phải
+   chép nguyên số đó vào báo cáo, không im lặng coi như sạch.
 
 ## Khi FAIL
 
@@ -76,6 +80,7 @@ Bằng chứng: `tools/verify_report.json` (chi tiết lượt gần nhất) và
 | lint | Sửa frontmatter/bảng/link; cảnh báo (warnings) thì đọc và quyết định, không bỏ qua mù |
 | mermaid | `python3 tools/fix_mermaid.py` rồi `--check` lại; vẫn lỗi thì viết lại sơ đồ hoặc bỏ, không commit đồ thị hỏng |
 | authors | Sai tên → sửa theo `authorString` của PMCID; không chắc → `Tạp chí Năm (PMCID)` không kèm tên. Không "sửa" bằng cách xóa PMCID |
+| index | Thêm/sửa card + thumbnail cho đúng số bài; không sửa ngược folder cho khớp card |
 | mạng | `--offline`, ghi "chưa xác minh N PMCID" vào báo cáo; vẫn được commit theo luật hiện hành |
 
 **Không bao giờ**: commit khi cổng FAIL, force-push, sửa ngưỡng test để pass,
@@ -83,18 +88,20 @@ chạy `--offline` khi mạng vẫn tốt để né author-check.
 
 ## Chỉ số chưa phải cổng (ghi nhận, không tự chặn)
 
-Hiện `verify_all` chỉ ghi, chưa fail: ảnh chưa có tên trong CREDITS
-(`images_uncredited_hint`), ID trùng trong BACKLOG (`backlog_duplicate_ids`),
+`verify_all` chỉ ghi, chưa fail: ảnh hiển thị thiếu dòng CREDITS
+(`images_referenced_uncredited`), số ảnh không hiển thị (`images_unreferenced` — nguồn
+composite/bản cũ, không phải lỗi), ID trùng trong BACKLOG (`backlog_duplicate_ids`),
 Mermaid mới kiểm bằng regex (chưa có parser thật), parity README.
 
-Quy tắc: nếu chỉ số xấu **hai lượt liên tiếp** hoặc tăng nhanh, báo người dùng
-ở dòng cuối báo cáo; đừng tự nới luật cũng đừng tự chặn pipeline.
+Quy tắc: nếu `images_referenced_uncredited` > 0, hoặc chỉ số xấu **hai lượt liên tiếp**,
+báo người dùng ở dòng cuối báo cáo; đừng tự nới luật cũng đừng tự chặn pipeline.
 
 ## Mẫu báo cáo
 
 ```
-verify: PASS 4/4 (selfcheck 0.4s · lint 0.7s · mermaid 0.3s · authors 0.6s)
-parity index +0 · 503 bài / 503 card · chờ viết 112 · ID trùng 4 · ảnh 2891
+verify: PASS 5/5 (selfcheck 0.4s · lint 0.7s · mermaid 0.3s · authors 0.6s · index)
+parity index +0 · 515 bài / 515 card · chờ viết 112 · ID trùng 3
+selfcheck warn: 15 bài legacy thiếu ma trận 2 cột
 lệch so lượt trước: +2 bài (kỳ vọng +2), parity 0
 ```
 

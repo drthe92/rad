@@ -7,8 +7,9 @@ Vì sao: worker chạy 4 script rời (selfcheck / lint / mermaid / author) như
 lưu lại "lượt này đã chạy cổng nào, kết quả gì" → không đo được độ lệch giữa các
 lượt (bài tăng mà card index không tăng, PMCID không tra được, cổng bị bỏ qua).
 
-Script này KHÔNG thêm luật nội dung: nó gọi đúng các cổng sẵn có, cộng thêm vài
-chỉ số đối chiếu (index ↔ folder, BACKLOG, ảnh) để theo dõi xu hướng.
+Script này KHÔNG thêm luật nội dung: nó gọi đúng 4 cổng sẵn có + kiểm parity hub
+(folder ↔ card index), cộng vài chỉ số đối chiếu (BACKLOG, ảnh) để theo dõi xu hướng.
+`--only` chạy một phần → in PARTIAL PASS và ghi `partial: true` vào log.
 
 Dùng:
     python3 tools/verify_all.py               # chạy đủ, ghi log + report
@@ -17,7 +18,7 @@ Dùng:
     python3 tools/verify_all.py --only selfcheck,lint
 
 Exit code:
-    0 = mọi cổng PASS
+    0 = mọi cổng được chạy đều PASS (kể cả parity khi chạy đủ)
     1 = có ít nhất 1 cổng FAIL
     2 = không chạy được (thiếu git / sai tham số)
 Ghi: tools/verify_log.jsonl    (1 dòng JSON/lượt, giữ 500 dòng mới nhất)
@@ -36,6 +37,7 @@ GATES = {
     "mermaid": ["tools/fix_mermaid.py", "--check"],
     "authors": ["tools/check_credits_authors.py"],
 }
+ALL_CHECKS = list(GATES) + ["index"]
 
 
 def run_gate(name, extra=()):
@@ -79,22 +81,29 @@ def metrics():
         txt = open(idx_path, encoding="utf-8").read()
         cards = set(re.findall(r'view\.html\?b=([^&"\']+)', txt))
 
-    images, uncredited = 0, 0
+    images, orphan, uncredited = 0, 0, 0
     for d in dirs:
         img_dir = os.path.join(ROOT, d, "images")
+        if not os.path.isdir(img_dir):
+            continue
         credits = os.path.join(img_dir, "CREDITS.md")
         credit_txt = ""
         if os.path.exists(credits):
             credit_txt = open(credits, encoding="utf-8").read()
-        if not os.path.isdir(img_dir):
-            continue
+        lesson_path = os.path.join(ROOT, d, "lesson.md")
+        lesson_txt = ""
+        if os.path.exists(lesson_path):
+            lesson_txt = open(lesson_path, encoding="utf-8").read()
+        referenced = set(re.findall(
+            r"images/([^)\"'\s]+\.(?:jpg|jpeg|png|webp|gif))", lesson_txt, re.I))
         for f in os.listdir(img_dir):
             if not f.lower().endswith((".jpg", ".jpeg", ".png", ".webp", ".gif")):
                 continue
             images += 1
-            # Chỉ số tham khảo: ảnh ghép ghi nguồn theo ảnh gốc nên có thể báo dư.
-            if f not in credit_txt:
-                uncredited += 1
+            if f not in referenced:
+                orphan += 1          # không hiển thị (nguồn composite, bản cũ/đổi tên)
+            elif f not in credit_txt:
+                uncredited += 1      # ĐANG hiển thị mà CREDITS không có tên → cần xem
 
     waiting, dup_ids = 0, []
     bl = os.path.join(ROOT, "BACKLOG.md")
@@ -119,25 +128,39 @@ def metrics():
         "backlog_waiting": waiting,
         "backlog_duplicate_ids": dup_ids,
         "images_total": images,
-        "images_uncredited_hint": uncredited,
+        "images_unreferenced": orphan,
+        "images_referenced_uncredited": uncredited,
     }
+
+
+def run_index(m):
+    """Parity hub ↔ folder là điều kiện PASS (rad-verify), không chỉ là chỉ số."""
+    ok = m["index_parity_delta"] == 0 and m["lessons_missing_card"] == 0
+    msg = ("delta=%+d, bài thiếu card=%d, card thừa=%d"
+           % (m["index_parity_delta"], m["lessons_missing_card"],
+              max(0, m["index_parity_delta"])))
+    return {"name": "index", "exit": 0 if ok else 1, "pass": ok,
+            "seconds": 0.0, "tail": [msg]}
 
 
 def main(argv):
     offline = "--offline" in argv
     dry = "--dry-run" in argv
     only = None
-    for i, a in enumerate(argv):
-        if a == "--only" and i + 1 < len(argv):
-            only = [x.strip() for x in argv[i + 1].split(",") if x.strip()]
+    if "--only" in argv:
+        i = argv.index("--only")
+        if i + 1 >= len(argv) or argv[i + 1].startswith("--"):
+            print("--only cần danh sách cổng, vd: --only selfcheck,lint")
+            return 2
+        only = [x.strip() for x in argv[i + 1].split(",") if x.strip()]
     unknown = [a for a in argv if a.startswith("--") and
                a not in ("--offline", "--dry-run", "--only")]
     if unknown:
         print("Tham số không hỗ trợ:", ", ".join(unknown))
         return 2
-    bad = [g for g in (only or []) if g not in GATES]
+    bad = [g for g in (only or []) if g not in ALL_CHECKS]
     if bad:
-        print("Cổng không tồn tại:", ", ".join(bad), "| có:", ", ".join(GATES))
+        print("Cổng không tồn tại:", ", ".join(bad), "| có:", ", ".join(ALL_CHECKS))
         return 2
 
     commit = git("rev-parse", "--short", "HEAD")
@@ -147,17 +170,25 @@ def main(argv):
     dirty = len([l for l in git("status", "--porcelain").splitlines() if l.strip()])
 
     t0 = time.time()
+    m = metrics()
     results = []
     for name in (only or list(GATES)):
+        if name == "index":
+            results.append(run_index(m))
+            continue
         extra = ("--offline",) if (name == "authors" and offline) else ()
         results.append(run_gate(name, extra))
+    if only is None or "index" not in only:
+        results.append(run_index(m))   # parity luôn được kiểm
 
-    m = metrics()
+    requested = [r["name"] for r in results]
+    partial = only is not None and set(only) != set(GATES)
     passed = sum(1 for r in results if r["pass"])
     ok = passed == len(results)
     duration = round(time.time() - t0, 1)
 
-    print(f"VERIFY {'PASS' if ok else 'FAIL'} ({passed}/{len(results)} cổng)"
+    label = "FAIL" if not ok else ("PARTIAL PASS" if partial else "PASS")
+    print(f"VERIFY {label} ({passed}/{len(results)}: {', '.join(requested)})"
           f" — {m['lessons_total']} bài, {m['index_cards']} card,"
           f" {m['backlog_waiting']} chờ viết")
     for r in results:
@@ -166,8 +197,8 @@ def main(argv):
             for line in r["tail"][-6:]:
                 print("     ", line)
     print(f"  chỉ số: parity index {m['index_parity_delta']:+d},"
-          f" ảnh {m['images_total']} (chưa có tên trong CREDITS:"
-          f" {m['images_uncredited_hint']}),"
+          f" ảnh hiển thị thiếu credit {m['images_referenced_uncredited']}"
+          f"/{m['images_total']} (không hiển thị: {m['images_unreferenced']}),"
           f" BACKLOG ID trùng: {len(m['backlog_duplicate_ids'])}")
     if dirty:
         print(f"  lưu ý: working tree có {dirty} file thay đổi (log vẫn ghi).")
@@ -178,6 +209,8 @@ def main(argv):
         "dirty_files": dirty,
         "offline_authors": offline,
         "pass": ok,
+        "partial": partial,
+        "gates_requested": requested,
         "gates": {r["name"]: {"pass": r["pass"], "exit": r["exit"],
                               "seconds": r["seconds"]} for r in results},
         "duration_s": duration,

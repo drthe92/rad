@@ -34,12 +34,42 @@ python3 tools/worker_guard.py status    # xác nhận đã nhả
 
 ```sh
 cd /home/openchamber/workspaces/Rad
-git pull --rebase
+git status --short
 ```
 
-- Cây bẩn do lượt trước bị cắt ngang: ghi `git status --short` vào nhật ký, rồi
-  `git stash push -u -m interrupted-$(date +%s)` để **giữ** việc dở, tiếp tục.
-- Conflict thật khi pull → **dừng**, release khóa, báo 1 dòng. Không tự xóa file người khác.
+**Cây sạch** → `git pull --rebase`, xong.
+
+**Cây bẩn** — phải phân biệt *việc dở của worker bị cắt ngang* với *phiên khác đang sửa*:
+
+```sh
+# 1) File bẩn nào không thuộc phạm vi worker, hoặc vừa bị sửa < 10 phút?
+now=$(date +%s)
+git status --porcelain | awk '{print $2}' | while read -r f; do
+  age=$(( now - $(stat -c %Y "$f" 2>/dev/null || echo "$now") ))
+  case "$f" in
+    [0-9][0-9][0-9]*-*/*|index.html|README.md|BACKLOG*.md|tools/*|.opencode/*) ;;
+    *) echo "NGOÀI PHẠM VI: $f" ;;
+  esac
+  [ "$age" -lt 600 ] && echo "MỚI SỬA <10 phút: $f"
+done
+```
+
+- Có dòng `NGOÀI PHẠM VI` hoặc `MỚI SỬA` → **KHÔNG stash, DỪNG**, release, báo rõ
+  (khả năng cao là phiên khác đang sửa — đúng tình huống đã gặp 2026-10-24).
+- Không có → đây là việc dở của lượt trước:
+
+```sh
+git stash push -u -m "interrupted-$(date +%s)"
+STASH=$(git rev-parse stash@{0})   # ghi ref này vào nhật ký
+git pull --rebase                  # cây đã sạch nên pull được
+git stash pop                      # khôi phục NGAY, không để treo
+```
+
+- `git stash pop` conflict → **dừng**, để nguyên stash (không `drop`), release, báo.
+- Conflict khi pull → **dừng**, release, báo 1 dòng. Không tự xóa file người khác.
+
+> Không dùng `--autostash` thay cho bước trên: nó stash/pop ngầm, không phân biệt
+> được việc dở với sửa đổi đang sống và không để lại ref để khôi phục khi conflict.
 
 ## 2. Đọc (ngân sách context)
 
