@@ -19,6 +19,7 @@ certainty: tong-hop-y-van
 | Tắc phức hợp lỗ ngách (OMC) & Dày niêm mạc | Mũi xoang (sinonasal) | Viêm xoang, nấm (mycetoma > 70 HU), polyp, u | Keros I 1–3 mm / II 4–7 mm / III 8–16 mm; Onodi/Haller; nấm > 70 HU + black turbinate = Mucor xâm lấn | `710`, `715` |
 | Mờ xương đá & Nghe kém dẫn truyền | Xương đá (temporal bone) | Viêm tai, cholesteatoma, hở ống bán khuyên (SSCD), viêm xương chũm biến chứng nội sọ, **viêm tai ngoài ác tính/viêm xương nền sọ** | Mòn scutum + Prussak; non-EPI DWI (+) ≥ 2–3 mm = cholesteatoma (mô hạt âm); Pöschl/Stenvers cho SSCD; mòn vách xoang sigma + khuyết thuốc MRV = OLST; **ĐTĐ + mô hạt ống tai + mòn xương nền sọ + liệt dây sọ = NOE** | `720`, `236`, `233` |
 | **Liệt dây thần kinh sọ + sưng cổ sau viêm tai/họng** | Đỉnh xương đá – ống Dorello – TM cảnh trong | Gradenigo (VI) · liệt VII do AOM · viêm mê nhĩ · Lemierre (IX–XII, huyết khối IJV) | **Tam chứng Gradenigo đầy đủ chỉ 22%, viêm đỉnh xương đá 1/50.000 trẻ AOM** → CT 0,5–1 mm + MRI T1+C; **huyết khối IJV + nốt phổi ngoại vi = Lemierre (3,6/triệu/năm, Fusobacterium 72,3%)** | `237`, `238`, `236`, `730` |
+| **Đau đầu/đau cổ + tủy xương clivus bất thường** | Nền sọ GIỮA (clivus, lồi cầu chẩm) | Viêm xương nền sọ giữa (CSBO) · NPC · chordoma/chondrosarcoma · di căn/myeloma · IgG4 · nấm · lao | **CSBO: MRI T1 tối + ngấm thuốc, CT có thể BÌNH THƯỜNG, CRP/ESR cao, liệt dây sọ 82%**; **NPC: khối vòm Rosenmüller + hạch cổ + EBV**; **chordoma: T2 rất sáng, đường giữa**; **IgG4: đối xứng, đáp ứng corticoid** | `253`, `233`, `730`, `750` |
 | Sưng cổ cấp + Sốt (Deep neck infection) | Khoang cổ sâu (deep neck) | Áp-xe vs viêm mô tế bào, khoang nguy hiểm vs trước sống | Sau hầu < 7 mm (C2) / < 14–22 mm (C6); danger space xuống trung thất; phù dẹt không viền = không mổ | `730` |
 | Khối tuyến mang tai (Parotid mass) | Tuyến nước bọt (salivary) | Pleomorphic adenoma, Warthin, ác tính | T2 sáng như dịch + ADC > 1,5 = pleomorphic; bắt sớm-thải nhanh = Warthin; T2 đen + ADC < 1,0 + tua gai = ác | `740` |
 | Hạch cổ to (Neck nodes) | Cổ I–VII (neck levels) | Viêm, di căn (ENE), lymphoma, lao | Nhóm II > 15 mm, khác > 10 mm, Rouvière > 5–8 mm; ENE = ngoại khoa; NI-RADS 1–4 sau điều trị | `750`, `230` |
@@ -63,6 +64,8 @@ certainty: tong-hop-y-van
 - [236 – Viêm tai xương chũm & biến chứng nội sọ](../236-viem-tai-xuong-chum-bien-chung-noi-so/lesson.md) *(đã có — dải 200, xương đá)*
 - [237 – Biến chứng thần kinh sọ của viêm tai: Gradenigo, liệt VII, viêm mê nhĩ](../237-bien-chung-than-kinh-so-viem-tai-gradenigo/lesson.md) *(đã có — dải 200)*
 - [238 – Hội chứng Lemierre & huyết khối tĩnh mạch cảnh trong nhiễm khuẩn](../238-lemierre-huyet-khoi-tm-canh-trong/lesson.md) *(đã có — dải 200)*
+- [253 – Viêm xương nền sọ GIỮA không do tai (CSBO): clivus, lồi cầu & cạm bẫy "CT bình thường"](../253-viem-xuong-nen-so-giua-khong-do-tai/lesson.md) *(đã có — dải 200, nội dung đầu cổ)*
+- [233 – Viêm tai ngoài ác tính & viêm xương nền sọ BÊN](../233-viem-tai-ngoai-ac-tinh-nen-so/lesson.md) *(đã có — dải 200)*
 
 ## Quy hoạch Master Curriculum Đầu Mặt Cổ (700–799)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -77,5 +80,6 @@ certainty: tong-hop-y-van
 - 741 – Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR *(đã có — [bài học](../741-di-dang-mach-mau-dau-co-o-tre/lesson.md))*
 - 750 – Bản đồ Hạch cổ (I–VII) & ACR NI-RADS *(đã có — [bài học](../750-cervical-lymph-nodes-nirads/lesson.md))*
 - 743 – Chảy máu cam nặng/tái diễn ở trẻ: nội soi, CTA, DSA & nút mạch (JNA, HHT), Fisch *(đã có — [bài học](../743-chay-mau-cam-nang-o-tre/lesson.md))*
+- 253 – Viêm xương nền sọ GIỮA không do tai (CSBO): clivus/lồi cầu, **CT âm tính không loại trừ**, MRI T1FS+Gd, sinh thiết sâu, kháng sinh ≥ 6 tuần *(đã có — dải 200, nội dung đầu cổ — [bài học](../253-viem-xuong-nen-so-giua-khong-do-tai/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

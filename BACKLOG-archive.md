@@ -690,14 +690,14 @@
 - 2026-10-24 · flip #342/#343 → xong; append 3004 (HSCT ở CMMRD) + 1404 (CNV trên nền PRPH2), đã check_duplicates
 - 2026-10-24 · bài 490 (DR trong thai kỳ: 0/175 STDR khi không DR + HbA1c < 53; aHR 0,64; 3 ảnh CC BY/BY-NC) + 493 (u lympho hắc mạc: 830–920 µm, hồi âm thấp, ICGA 100%, EBRT 94%; 4 ảnh CC BY) · verify PASS 4/4 · 509 bài / 509 card / parity 0
 - 2026-10-24 · flip #344/#345 → xong; append 1408 (anti-VEGF trong thai) + 1409 (bệnh võng mạc do xạ sau xạ trị u nội nhãn), đã check_duplicates
-
 - 2026-10-24 worker: viết **103** (áp-xe gan *K. pneumoniae*/hvKP — VN 78,3%, khí aOR 10,16, dẫn lưu > 5 cm) và **494** (MTX leukoencephalopathy — tLE 29,2%/2 năm, IT MTX HR 4,50). ID 145 đã dùng → đổi 103. Verify PASS 4/4, 511 bài/511 card.
 - 2026-10-24 worker: append #379 (ID 1420 — áp-xe gan + viêm nội nhãn: thứ tự can thiệp) và #380 (ID 1421 — theo dõi nhận thức sau độc tính MTX), đã check_duplicates.
-
 ## 2026-10-24 — worker rad-backlog
 - Viết 495 (nấm ngoại sinh sau mổ vs TASS, 3 ảnh) + 496 (điều trị ENKTL nội nhãn, 3 ảnh); flip #347/#348 → xong; append 1639 (nội nhãn sau tiêm) + 1640 (độc tính asparaginase).
 - Verify 4/4 PASS, 513 bài / 513 card, parity 0; ảnh giữ nguyên bản (CC BY-NC-SA/CC BY-NC-ND).
-
 ## 2026-10-24 (lượt 2) — worker rad-backlog
 - Viết **1402** (bong võng mạc sau viêm nội nhãn, 3 ảnh B-scan/OCT) + **497** (theo dõi cấy ốc tai ở trẻ, 4 ảnh CT-3D/EFI/X-quang-HRCT/EABR); flip #352/#353 → xong; append 1410 (lấy dầu silicone) + 1704 (cholesteatoma ở trẻ có CI).
 - Verify 4/4 PASS, 515 bài / 515 card, parity 0; ảnh NC-SA/NC giữ nguyên bản, không composite.
+## 2026-10-24 (lượt 3) — worker rad-backlog
+- Viết **253** (viêm xương nền sọ giữa không do tai: 4 ảnh + 1 composite CT-âm/MRI-dương) + **204** (hoại tử phóng xạ: 4 ảnh, 1 ảnh CC BY-NC-ND giữ nguyên bản); flip #355/#926 → xong; append 259 (SMART) + 260 (bệnh mạch máu não do xạ); đổi ID hàng #399 trùng 253 → 258.
+- Verify **5/5 PASS**, 517 bài / 517 card, parity 0, author-check online; 15 cảnh báo legacy giữ nguyên.
