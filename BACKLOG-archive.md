@@ -676,3 +676,7 @@
 ## 2026-10-24 — lượt worker (108 + 043)
 - Viết **108** (BDI sau cắt túi mật: 2 ảnh ERCP PMC13063234 CC BY-NC; Strasberg A–E, CE-MRCP Se 76–82%, E mất thông 75%/30 ngày) và **043** (hô hấp chu phẫu TIS/EOS: 2 ảnh PMC12842268 CC BY; PRC 21,9%, BL/TBV ≥15% OR 29,2, PSG/NIV) — selfcheck + lint PASS.
 - Flip #334/#335 (gộp #406), sửa đề xuất 043 trùng ở #384 → 089; append gap 1807 (rò mật sau cắt gan) & 6106 (NIV tại nhà quanh mổ).
+
+## 2026-10-24 — lượt worker (077 + 106)
+- Viết **077** (GLA/Gorham–Stout: 5 ảnh + 1 composite CC BY 4.0, PMC6589502; GLA 28,6% vs KLA 55,6%; sirolimus 5–15 ng/mL) và **106** (xơ hóa đường mật do chất diệt đầu sán: 5 ảnh CC BY-NC, PMC10936115/PMC13122038/PMC12679019; CBC 5,4%, 2 ca ghép gan) — selfcheck + lint + mermaid PASS.
+- Flip #336/#337; append gap 1808 (theo dõi/ngừng sirolimus) & 1809 (rò mật–nang dai dẳng sau PAIR).

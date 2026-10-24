@@ -31,6 +31,7 @@ certainty: tong-hop-y-van
 | Xẹp (atelectasis) | Phổi | Tắc (obstruction), chèn ép (compression) | Di lệch rãnh liên thùy (fissure) | [030](../030-dong-dac-xep-phoi/lesson.md) |
 | Tràn dịch (effusion) | Màng phổi (pleura) | Dịch thấm (transudate), dịch tiết (exudate), máu (hemothorax) | Meniscus, tư thế nằm (decubitus) | [040](../040-tran-dich-mang-phoi/lesson.md) |
 | Tràn dịch **dưỡng trấp** (chylothorax) | Màng phổi | Rò ống ngực sau mổ/chấn thương, lymphoma, bẩm sinh, LAM; **pseudochylothorax** | **TG > 110 mg/dL + chylomicron = chylothorax**; cholesterol > 200 + tinh thể = pseudochylothorax (không thắt ống ngực) | [079](../079-tran-dich-duong-trap-chylothorax/lesson.md) |
+| Tràn dưỡng trấp + tiêu xương/nang lách | Màng phổi + xương + lách | GLA, GSD (Gorham–Stout), KLA, CCLA | **Tiêu xương vỏ tiến triển = GSD**; **nhiều ổ ly giải tủy + nang lách = GLA**; **tràn dịch xuất huyết + tiểu cầu 50.000–100.000/µL = KLA**; **chỉ giãn ống bạch huyết trung tâm = CCLA** | [077](../077-loat-san-mach-bach-huyet-gla-gorham-stout/lesson.md) |
 | Phổi sau cắt thùy (hậu phẫu) | Phổi còn lại | Giãn bù sinh lý, tồn lưu dị dạng, tắc nghẽn phế quản, biến dạng thành ngực – vẹo cột sống | **Trung thất dịch về bên mổ + mạch máu đều = giãn bù**; nang/nốt mới = tồn lưu; thể tích giảm = xẹp | [049](../049-theo-doi-sau-cat-thuy-phoi-bam-sinh/lesson.md) |
 | Bất đối xứng thành ngực – vẹo sau mổ ngực | Thành ngực – cột sống ngực | Vẹo do mổ ngực (thoracogenic), dính sườn, thiểu sản sườn, pectus, vẹo bẩm sinh/vô căn | **Dính sườn + thiểu sản sườn cùng bên + KHÔNG dị tật đốt sống = do mổ**; Cobb > 10° = vẹo; **cong ngực trái ở trẻ lớn = cờ đỏ → MRI tủy** | [047](../047-veo-cot-song-sau-mo-nguc/lesson.md) |
 | Tràn khí (pneumothorax) | Màng phổi (pleura) | Tự phát (spontaneous), chấn thương (trauma), áp lực (tension) | Đường màng phổi + vô mạch; nằm ngửa tìm deep sulcus | [041](../041-tran-khi-mang-phoi/lesson.md) |
@@ -59,6 +60,7 @@ certainty: tong-hop-y-van
 - [048 – Hội chứng lồng ngực không đủ (TIS) & VEPTR: SAL, nong 6 tháng/lần, thời điểm ngừng](../048-hoi-chung-long-nguc-khong-du-tis-veptr/lesson.md) *(mới)*
 - [043 – Chăm sóc hô hấp quanh mổ & cai máy ở trẻ TIS/EOS: FVC/AVR, PSG, ngưỡng rút ống–NIV, BL/TBV](../043-cham-soc-ho-hap-quanh-mo-tis-eos/lesson.md) *(mới)*
 - [076 – Dưỡng trấp niệu & rò bạch huyết đường niệu](../076-duong-trap-nieu-chyluria/lesson.md) *(mới — cùng hệ bạch huyết với 078/079)*
+- [077 – Loạn sản mạch bạch huyết lan tỏa (GLA) & Gorham–Stout: tiêu xương, tràn dưỡng trấp, sirolimus](../077-loat-san-mach-bach-huyet-gla-gorham-stout/lesson.md) *(mới — cùng hệ bạch huyết với 076/078/079)*
 - [081 – Sặc & rối loạn nuốt (VFSS/FEES, viêm phổi hít sặc, sonde dạ dày)](../081-sac-va-roi-loan-nuot/lesson.md) *(mới)*
 - [082 – Bại não & an toàn nuốt ở trẻ: GMFCS, VFSS/FEES & ngưỡng chuyển sang ống](../082-bai-nao-an-toan-nuot/lesson.md) *(mới)*
 - [084 – Viêm phổi thở máy (VAP): X-quang/CT, cấy định lượng & bó dự phòng vi hít sặc](../084-viem-phoi-tho-may/lesson.md) *(mới)*
