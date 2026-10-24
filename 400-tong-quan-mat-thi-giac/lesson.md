@@ -229,7 +229,8 @@ certainty: tong-hop-y-van
 - 492 – Sinh thiết hắc–võng mạc & lấy mẫu dịch kính: mẫu nguyên chất 0,5–1,0 mL, 23G/25G, cassette 75%→92%, FNAB 41G, LCM *(đã có — [bài học](../492-sinh-thiet-hac-vong-mac-dich-kinh/lesson.md))*
 - 485 – Đo khúc xạ dưới lý liệt điều tiết ở trẻ mầm non: cyclopentolate 1% 2 giọt cách 5 phút, atropine khi viễn thị > 5 D, DSE 1,56 vs 0,97 D & quy tắc kê kính *(đã có — [bài học](../485-khuc-xa-ly-liet-dieu-tiet-tre-mam-non/lesson.md))*
 - 486 – Lác trong điều tiết sau khi đeo kính: 5 kiểu còn lác (5P), ngưỡng mổ **> 15 PD**, lăng kính **≤ 20 PD** (thành công 30,6%), kính hai tròng khi AC/A cao, nhược thị tái phát 12,74% *(đã có — [bài học](../486-lac-trong-dieu-tiet-theo-doi-sau-kinh/lesson.md))*
+- 489 – Loạn dưỡng hoa văn & teo võng mạc ngoài DI TRUYỀN (PRPH2, RP1L1/OMD, sector) vs độc tính thuốc: **EZ dày 42–44 µm** so với chứng ~17 µm, **PSPD 47,2%**, OMD mất ~1 dòng ETDRS/2 năm, ngưỡng ngừng HCQ *(mới — [bài học](../489-loan-duong-hoa-van-vs-doc-tinh-thuoc/lesson.md))*
 - 1403 – Phẫu thuật ROP giai đoạn 4–5: đai củng mạc khi 4A co kéo ngoại vi, LSV khi 4A/4B, LV khi stage 5/màng dày; thành công **~90% → 57–79% → 25–33%**, cận thị nặng sau mổ *(đã có — [bài học](../1403-phau-thuat-rop-giai-doan-4-5/lesson.md))*
-- 489–490, 493–499: dự trữ mở rộng
+- 490, 493–499: dự trữ mở rộng
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
