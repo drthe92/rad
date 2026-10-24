@@ -690,3 +690,6 @@
 - 2026-10-24 · flip #342/#343 → xong; append 3004 (HSCT ở CMMRD) + 1404 (CNV trên nền PRPH2), đã check_duplicates
 - 2026-10-24 · bài 490 (DR trong thai kỳ: 0/175 STDR khi không DR + HbA1c < 53; aHR 0,64; 3 ảnh CC BY/BY-NC) + 493 (u lympho hắc mạc: 830–920 µm, hồi âm thấp, ICGA 100%, EBRT 94%; 4 ảnh CC BY) · verify PASS 4/4 · 509 bài / 509 card / parity 0
 - 2026-10-24 · flip #344/#345 → xong; append 1408 (anti-VEGF trong thai) + 1409 (bệnh võng mạc do xạ sau xạ trị u nội nhãn), đã check_duplicates
+
+- 2026-10-24 worker: viết **103** (áp-xe gan *K. pneumoniae*/hvKP — VN 78,3%, khí aOR 10,16, dẫn lưu > 5 cm) và **494** (MTX leukoencephalopathy — tLE 29,2%/2 năm, IT MTX HR 4,50). ID 145 đã dùng → đổi 103. Verify PASS 4/4, 511 bài/511 card.
+- 2026-10-24 worker: append #379 (ID 1420 — áp-xe gan + viêm nội nhãn: thứ tự can thiệp) và #380 (ID 1421 — theo dõi nhận thức sau độc tính MTX), đã check_duplicates.
