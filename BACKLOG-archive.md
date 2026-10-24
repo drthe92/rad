@@ -673,3 +673,6 @@
 ## 2026-10-24 — lượt worker (486 + 1403)
 - Viết **486** (lác trong điều tiết sau kính: 3 ảnh PMC6886759/PMC11833039/PMC5147847; 5P, ngưỡng mổ >15 PD, lăng kính ≤20 PD) và **1403** (phẫu thuật ROP 4–5: 8 ảnh PMC13271555/PMC10759917/PMC6302567/PMC12373698/PMC9916407; ICROP 3rd) — selfcheck + lint PASS.
 - Flip #332/#333; append gap 1406 (tái bong sau mổ ROP) & 1405 (lác ngoài thứ phát).
+## 2026-10-24 — lượt worker (108 + 043)
+- Viết **108** (BDI sau cắt túi mật: 2 ảnh ERCP PMC13063234 CC BY-NC; Strasberg A–E, CE-MRCP Se 76–82%, E mất thông 75%/30 ngày) và **043** (hô hấp chu phẫu TIS/EOS: 2 ảnh PMC12842268 CC BY; PRC 21,9%, BL/TBV ≥15% OR 29,2, PSG/NIV) — selfcheck + lint PASS.
+- Flip #334/#335 (gộp #406), sửa đề xuất 043 trùng ở #384 → 089; append gap 1807 (rò mật sau cắt gan) & 6106 (NIV tại nhà quanh mổ).
