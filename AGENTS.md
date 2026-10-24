@@ -72,6 +72,7 @@
 - **TRƯỚC KHI viết** bài mới: chạy `python3 tools/check_duplicates.py <ID> "<tên bài>"` — exit 1 = ID/chủ đề đã tồn tại → nâng cấp bài cũ hoặc đổi chủ đề (KHÔNG tạo trùng).
 - Bài mới phải soi với `templates/gold-standard-lesson.md` (bài 025 mẫu vàng) + chạy **`python3 tools/verify_all.py`** (gọi đủ 4 cổng: selfcheck + lint + fix_mermaid + author-check) PASS mới commit. Chạy lẻ từng cổng cũng được, nhưng `verify_all.py` là bản ghi bằng chứng (`tools/verify_report.json`) + log đo lệch giữa các lượt (`tools/verify_log.jsonl` — gitignore). (`fix_mermaid.py` sửa lỗi Mermaid 10.x: `\n`→`<br/>`, quote label có ngoặc/nháy, ngoặc trong edge label→entity, ngoặc đóng sai.)
 - **Chống chồng lượt:** worker chạy `python3 tools/worker_guard.py acquire|release` (exit 3 = có worker khác → dừng).
+- **Worker cron:** chạy theo skill `.opencode/skills/rad-backlog/SKILL.md` (thứ tự một lượt) + `.opencode/skills/rad-verify/SKILL.md` (chạy cổng nào, khi nào PASS). Prompt cron chỉ giữ thứ tự ngắn — **không nhồi lại luật nội dung/nguồn ảnh vào prompt** (đã có ở đây + skill toàn cục `medical-lesson-library`).
 - **BACKLOG:** `BACKLOG.md` là file làm việc (chỉ hàng `chờ viết` + danh mục `xong` nén 1 dòng). `BACKLOG-archive.md` là lưu trữ ghi chú dài + nhật ký — **worker KHÔNG đọc**. Khi BACKLOG.md phình lại: `python3 tools/split_backlog.py --auto` (worker tự chạy mỗi lượt, chỉ tách khi > 120 KB).
 
 ## Phân công (ta vs Argon — ai giỏi việc gì làm việc đó)
@@ -86,6 +87,7 @@ index.html          # hub tra cứu, publish Pages, CNAME rad.matcauvong.com
 templates/
   lesson-template.md
   sources-template.md
+.opencode/skills/     # rad-verify (cổng kiểm) + rad-backlog (một lượt worker)
 tools/
   make_composite.py   # Pillow: ghép lưới + dải đen attribution (chạy local)
   ensure_deps.py      # tải Pillow wheel từ PyPI, giải nén vào user site (không cần pip/root)
