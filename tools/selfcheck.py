@@ -3,7 +3,7 @@
 Chạy: python3 tools/selfcheck.py [slug...]  (mặc định: tất cả NNN-*)
 Exit 0 = pass hết; exit 1 = có lỗi cần sửa trước khi commit.
 """
-import glob, os, re, sys
+import os, re, sys
 
 FRONT = ["unit_id", "subspecialty", "anatomical_location",
          "primary_pattern", "tags", "certainty"]
@@ -48,9 +48,16 @@ def check(slug):
             if bad:
                 errs.append(f"bảng lệch cột: {bad[0]}...")
                 break
-        head = rows[0].lower()
-        if "rule-in" not in head and "chốt vào" not in head and not is_overview:
-            errs.append("bảng thiếu cột Chốt vào/Chốt loại")
+        # Ma trận đối chiếu: tìm ĐÚNG khối bảng có cột Chốt vào/Chốt loại
+        # (bài có thể mở đầu bằng bảng bối cảnh — không được lấy rows[0] làm ma trận).
+        def heads(block):
+            return block[0].lower()
+
+        matrix = [b for b in blocks
+                  if ("rule-in" in heads(b) or "chốt vào" in heads(b))
+                  and ("rule-out" in heads(b) or "chốt loại" in heads(b))]
+        if not matrix and not is_overview:
+            errs.append("thiếu ma trận có đủ cột Chốt vào/Chốt loại")
     imgs = sorted(set(re.findall(r"images/(\S+?\.(?:jpg|png))", t)))
     missing = [i for i in imgs if not os.path.exists(f"{slug}/images/" + i)]
     if missing:
@@ -76,8 +83,13 @@ def check(slug):
             break
     return [f"{slug}: {e}" for e in errs]
 
+def discover():
+    """Mọi folder bài NNN- hoặc NNNN- (dải ID 4 chữ số là hợp lệ, không được bỏ sót)."""
+    return sorted(d for d in os.listdir(".")
+                  if os.path.isdir(d) and re.match(r"^\d{3,4}-", d))
+
 def main():
-    slugs = sys.argv[1:] or sorted(glob.glob("[0-9][0-9][0-9]-*/"))
+    slugs = sys.argv[1:] or discover()
     slugs = [s.rstrip("/") for s in slugs]
     allerrs = []
     for s in slugs:
