@@ -172,6 +172,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 141 | [Phúc mạc](141-phuc-mac/lesson.md) | `pattern:phuc-mac` `vung:phuc-mac` `protocol:CT-bung-tiem` `incidentaloma:dich-o-bung` |
 | 142 | [Can thiệp giảm thể tích gan trong PLD: TAE, chọc hút–xơ hóa nang & fenestration](142-can-thiep-giam-the-tich-gan-pld/lesson.md) | `pattern:gan-da-nang` `vung:gan` `score:Gigot` `protocol:TAE-dong-mach-gan` `protocol:choc-hut-xo-hoa-nang` `protocol:fenestration` `incidentaloma:nang-gan` |
 | 143 | [U trung biểu mô phúc mạc ác vs carcinomatosis: mảng canxi hóa, BAP1 & PCI](143-u-trung-bieu-mo-phuc-mac-vs-carcinomatosis/lesson.md) | `pattern:day-phuc-mac` `pattern:not` `vung:phuc-mac` `vung:o-bung` `score:PCI` `protocol:CT-bung-co-can-quang` `protocol:MRI-bung` |
+| 144 | [Sán thể hang ở gan (AE): vi nang + vôi hóa + không ngấm thuốc, PNM & albendazole](144-san-the-hang-o-gan/lesson.md) | `pattern:gia-u` `pattern:tieu-dang-nang` `vung:gan` `score:PNM` `protocol:CT-bung-co-can-quang` `protocol:MRI-gan` `incidentaloma:ton-thuong-gan` |
 | 146 | [Huyết khối tĩnh mạch lách & nhồi máu lách: tăng áp cửa bên trái, giả u và khi nào cắt lách](146-huyet-khoi-tm-lach-va-nhoi-mau-lach/lesson.md) | `pattern:huyet-khoi-mach` `pattern:nhoi-mau-tang` `vung:lach` `vung:tuy` `protocol:CT-bung-da-thi` |
 | 147 | [Sốt kéo dài không rõ nguyên nhân (FUO) & ổ nhiễm ẩn trong bụng](147-sot-keo-dai-fuo-o-nhiem-an-trong-bung/lesson.md) | `pattern:o-nhiem-an` `vung:bung` `protocol:FDG-PET-CT` `protocol:CT-bung-da-thi` |
 | 152 | [Sỏi niệu](152-soi-nieu/lesson.md) | `pattern:soi-nieu` |
@@ -284,6 +285,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 350 | [Vai chóp xoay](350-mri-sieu-am-khop-vai-chop-xoay/lesson.md) | `score:Goutallier` |
 | 360 | [Gối ACL/sụn chêm](360-mri-khop-goi-day-chang-sun-chem/lesson.md) | `pattern:dut-ACL` |
 | 301 | [Protocol MSK](301-protocol-msk/lesson.md) | `protocol:XR-CT-MRI-US` |
+| 302 | [Nang sán xương & cột sống ở trẻ: tiêu xương "chùm nho", Braithwaite–Lees, chèn ép tủy](302-nang-san-xuong-cot-song-o-tre/lesson.md) | `pattern:tieu-xuong` `pattern:nang` `vung:cot-song` `vung:co-xuong-khop` `score:Braithwaite-Lees` `protocol:MRI-cot-song` `protocol:CT-xuong` |
 | 321 | [Gãy trẻ em](321-gay-tre-em/lesson.md) | `score:Salter-Harris` |
 | 325 | [Gãy kín/mỏi](325-gay-kin-mo/lesson.md) | `pattern:gay-kin-moi` |
 | 331 | [Myeloma/di căn](331-u-ac-nguoi-lon/lesson.md) | `pattern:u-ac-nguoi-lon` |
