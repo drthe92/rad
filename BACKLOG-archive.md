@@ -704,3 +704,6 @@
 ## 2026-10-24 (lượt 4) — worker rad-backlog
 - Viết **1612** (colpocleisis & pyocolpos/pyometra: 4 ảnh CT + ảnh mổ, 3 CC BY 4.0 + 1 CC BY-NC-ND) + **498** (Kearns–Sayre/CPEO: MRI não, teo EOM, ECG/Holter, OCT; 3 CC BY-NC-ND + 1 CC BY 4.0); cập nhật overview 400/500, README, index.
 - Verify **5/5 PASS**, 519 bài / 519 card, parity 0, author-check online; 15 cảnh báo legacy giữ nguyên; flip #354/#355 → xong, append #415 (1641) + #416 (1642).
+## 2026-10-24 (lượt 5) — worker rad-backlog
+- Viết **499** (Hattersley–Urano/WFS1 trội: 4 ảnh OCT OPL, RNFL, so sánh WFS1-vs-DOA, schema phân độ; 3 CC BY + 1 CC BY-NC-ND nguyên bản) + **1627** (OPA1 carrier: 3 ảnh phả hệ, OCT 3 cá thể, đáy mắt–ERG; CC BY 4.0).
+- Verify **5/5 PASS** (521 bài/521 card, parity 0); flip #355/#356 → xong, append #417 (1643) + #418 (1644); cập nhật 400/479/README/index.

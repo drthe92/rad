@@ -166,6 +166,8 @@ flowchart TD
 - [478 – Điếc tiếp âm (ANSD) ở trẻ](../478-diec-tiep-am-ansd-tre/lesson.md) (ABR/CM/OAE, cấy ốc tai)
 - [477 – Bệnh ty thể có biểu hiện thị giác & tai](../477-benh-ty-the-thi-giac-tai/lesson.md)
 - [434 – Teo thị do độc–chuyển hóa & LHON](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md)
+- [499 – Hattersley–Urano & phổ WFS1 trội](../499-hattersley-urano-wfs1-troi/lesson.md) (thể trội nặng: ĐTĐ sơ sinh + điếc + đục TTT)
+- [1627 – Người mang OPA1 không triệu chứng](../1627-nguoi-mang-opa1-khong-trieu-chung/lesson.md) (độ thấm không hoàn toàn, theo dõi OCT)
 - [199 – Quy trình xét nghiệm gen & tầm soát người thân trong hội chứng ung thư di truyền](../199-quy-trinh-xet-nghiem-gen-tam-soat-gia-dinh/lesson.md) (mô hình tư vấn gia đình, cascade screening)
 - [400 – Tổng quan Mắt & thị giác](../400-tong-quan-mat-thi-giac/lesson.md)
 
