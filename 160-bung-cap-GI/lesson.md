@@ -72,5 +72,6 @@ certainty: tong-hop-y-van
 - [100 – Tổng quan hệ Bụng](../100-tong-quan-he-bung/lesson.md)
 - [110 – Giải phẫu bụng](../110-giai-phau-bung/lesson.md) (đáy manh tràng, mạc treo)
 - [162 – Tắc ruột & mạc treo (đã có)](../162-tac-ruot/lesson.md) (quai kín)
+- [145 – Viêm ruột thừa trong thai kỳ: ruột thừa di lệch, siêu âm → MRI](../145-viem-ruot-thua-trong-thai-ky/lesson.md)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

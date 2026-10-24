@@ -35,7 +35,7 @@ def spec_of(uid):
 
 
 # ID 4 chữ số là dải tràn (overflow) — gán phân hệ thủ công cho đúng tab.
-SPEC_OVERRIDE = {"1601": "vuspk", "1602": "vuspk", "1604": "vuspk", "1605": "vuspk", "1780": "nhi", "1801": "bung", "6102": "nhi"}
+SPEC_OVERRIDE = {"1601": "vuspk", "1602": "vuspk", "1604": "vuspk", "1605": "vuspk", "1606": "vuspk", "1780": "nhi", "1801": "bung", "6102": "nhi"}
 
 
 def frontmatter(path):
