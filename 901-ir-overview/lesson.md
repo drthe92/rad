@@ -20,11 +20,15 @@ certainty: tong-hop-y-van
 | Ổ dịch cần dẫn lưu (Drainage) | Ổ bụng/mật/thận (abdomen) | Áp-xe, tắc mật, ứ nước (PTBD/PCN) | Seldinger vs trocar; Brödel 20–30°; chọc cao xuyên hoành = biliothorax | `910` |
 | Chảy máu hoạt tính (Active bleeding) | Tiêu hóa/phổi/tạng (bleeding) | Thoát mạch vs giả phình vs sỏi/clip giả | CTA 0,3–0,5 vs DSA 0,5–1 mL/phút; thiếu non-contrast = nhầm sỏi/clip | `920` |
 | Đáp ứng sau TACE/đốt (Treatment response) | Gan (liver) | U sống (viable) vs viêm xung huyết vs Lipiodol | Margin 5–10 mm; mạch > 3 mm = heat-sink; LR-TR Viable/Equivocal/Nonviable | `930`, `121` |
+| An toàn bức xạ (Radiation dose) | Phòng CT fluoroscopy/DSA | Tán xạ ngược vs tới, liều da bệnh nhân, liều nhân viên | DAP > 500 Gy·cm², air kerma > 5 Gy, chiếu > 60 phút = ngưỡng cảnh báo; áo chì 0,5 mm Pb giảm ~97%; CTF ít liều hơn DSA **9,1 lần** | `932` |
+| Nang giáp có triệu chứng (Cystic thyroid nodule) | Tuyến giáp (thyroid) | Nang thuần, nang ưu thế dịch, nang keo đặc, ung thư có thành phần nang | Dịch > 50% thể tích + FNA lành tính; VRR > 50% = thành công; khàn tiếng 0,53% | `1622`, `230` |
 
 ## Bài liên quan chéo
 - [900 – Đại cương IR & sinh thiết](../900-ir-fundamentals-biopsy/lesson.md) *(đã có)*
 - [920 – Nút mạch cầm máu](../920-vascular-embolization-gi-bleed/lesson.md) *(đã có)*
 - [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) (LR-TR sau TACE)
+- [932 – An toàn bức xạ trong can thiệp CT/DSA](../932-an-toan-buc-xa-ct-dsa/lesson.md) *(đã có)*
+- [1622 – Đốt cồn nang giáp lành tính](../1622-dot-con-nang-giap-pei/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Can thiệp (900–999)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.

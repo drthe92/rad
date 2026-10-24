@@ -22,6 +22,7 @@ certainty: tong-hop-y-van
 | Sưng cổ cấp + Sốt (Deep neck infection) | Khoang cổ sâu (deep neck) | Áp-xe vs viêm mô tế bào, khoang nguy hiểm vs trước sống | Sau hầu < 7 mm (C2) / < 14–22 mm (C6); danger space xuống trung thất; phù dẹt không viền = không mổ | `730` |
 | Khối tuyến mang tai (Parotid mass) | Tuyến nước bọt (salivary) | Pleomorphic adenoma, Warthin, ác tính | T2 sáng như dịch + ADC > 1,5 = pleomorphic; bắt sớm-thải nhanh = Warthin; T2 đen + ADC < 1,0 + tua gai = ác | `740` |
 | Hạch cổ to (Neck nodes) | Cổ I–VII (neck levels) | Viêm, di căn (ENE), lymphoma, lao | Nhóm II > 15 mm, khác > 10 mm, Rouvière > 5–8 mm; ENE = ngoại khoa; NI-RADS 1–4 sau điều trị | `750`, `230` |
+| **Nang giáp có triệu chứng (Cystic thyroid nodule)** | Tuyến giáp (thyroid) | Nang thuần/nang ưu thế dịch · nang keo đặc · nang xuất huyết · ung thư có thành phần nang · nang giáp lưỡi | Dịch **> 50%** thể tích + FNA lành tính; **VRR > 50% = thành công**; nang một thùy đáp ứng tốt hơn; **khàn tiếng 0,53%**, chưa có liệt dây thanh vĩnh viễn | `1622`, `230` |
 | Dị dạng mạch máu & u mạch máu đầu–cổ ở trẻ (Vascular anomalies) | Da–mô mềm–khoảng cổ–hốc mắt–đường thở | IH, CH, LM, VM, AVM/AVF, KHE | **IH đoạn mặt > 5 cm → PHACE** (MRI/MRA não–cổ, tim, mắt, đường thở); **LM: T2 rất sáng, không flow**; **VM: sỏi tĩnh mạch, ngấm chậm**; **AVM: flow void + nidus + dẫn lưu sớm**; **IH đoạn cùng cụt vắt đường giữa → LUMBAR** | `741` |
 | **Chảy máu cam nặng/tái diễn ở trẻ** | Hốc mũi – mũi hầu | Chảy máu trước vô căn, JNA, HHT, rối loạn đông máu, giả phình cảnh trong/SPA, u mũi hầu | **90% trẻ chảy máu thể trước (Kiesselbach)** → không cần chụp; **nam 12–16 tuổi + một bên + giãn lỗ bướm–khẩu cái + blush DSA = JNA** (nút mạch 24–48 giờ trước mổ, giảm tưới máu 86%); **tái diễn + giãn mạch môi/lưỡi + tiền sử gia đình = HHT** (tầm soát AVM phổi–não); **vòng nối nguy hiểm: lỗ tròn, màng não giữa, sàng, hầu lên** → bơm nhầm = mù/đột quỵ | `743`, `741`, `249` |
 
@@ -54,6 +55,7 @@ certainty: tong-hop-y-van
 
 ## Bài liên quan chéo
 - [230 – Tuyến giáp TI-RADS](../230-tuyen-giap-hach-co/lesson.md) *(giữ nguyên dải 200)*
+- [1622 – Đốt cồn nang giáp lành tính](../1622-dot-con-nang-giap-pei/lesson.md) *(đã có)*
 - [710 – Mũi xoang & OMC](../710-sinonasal-ct-anatomy/lesson.md) *(đã có)*
 - [730 – Nhiễm trùng cổ sâu](../730-deep-neck-infections/lesson.md) *(đã có)*
 - [741 – Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR](../741-di-dang-mach-mau-dau-co-o-tre/lesson.md) *(đã có)*

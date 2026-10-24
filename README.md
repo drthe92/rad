@@ -539,9 +539,11 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 743 | [Chảy máu cam nặng/tái diễn ở trẻ: nội soi, CTA, DSA & nút mạch (JNA, HHT), Fisch](743-chay-mau-cam-nang-o-tre/lesson.md) | `pattern:chay-mau` `vung:mui` `vung:dau-co` `score:Fisch-JNA` `protocol:CTA-DSA-chay-mau-cam` |
 | 741 | [Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR](741-di-dang-mach-mau-dau-co-o-tre/lesson.md) | `pattern:di-dang-mach-mau` `pattern:u-mach-mau` `vung:dau-co` `vung:co` `protocol:MRI-dau-co` `protocol:US-Doppler` `score:ISSVA` |
 | 750 | [Hạch cổ ENE](750-cervical-lymph-nodes-nirads/lesson.md) | `score:NI-RADS` |
+| 1622 | [Đốt cồn nang giáp lành tính (PEI/EA): cồn 99%, kỹ thuật contrariwise & tiêu chuẩn tái phát](1622-dot-con-nang-giap-pei/lesson.md) | `pattern:nang` `vung:tuyen-giap` `protocol:dot-con-giap` `incidentaloma:nang-giap` |
 | 830 | [TAVI](830-tavi-structural-heart/lesson.md) | `pattern:TAVI` |
 | 840 | [Endoleak](840-aorta-endoleak-pad/lesson.md) | `pattern:endoleak` |
 | 910 | [Dẫn lưu (áp-xe, PTBD & thận qua da)](910-abscess-biliary-nephrostomy/lesson.md) | `pattern:dan-luu` `pattern:ap-xe` `vung:bung-tiet-nieu` `protocol:PTBD` `protocol:PCN` `protocol:Seldinger` |
 | 929 | [Gây xơ hóa nang qua da: nang thận – gan – lách (ethanol, bleomycin, polidocanol)](929-xo-hoa-nang-qua-da/lesson.md) | `pattern:nang` `vung:than` `vung:gan` `protocol:xo-hoa-nang` `incidentaloma:nang-than` |
 | 930 | [TACE/LR-TR](930-hepatic-oncology-tace-rfa/lesson.md) | `score:LR-TR` |
 | 931 | [Takayasu: nong/stent & phẫu thuật bắc cầu — chọn bệnh nhân, theo dõi tái hẹp](931-takayasu-can-thiep-noi-mach-va-phau-thuat/lesson.md) | `pattern:hep-mach-dai-doan` `vung:thanh-mach-lon` `score:Numano` `protocol:HR-VWI` `protocol:CTA-MRA` `protocol:theo-doi-sau-can-thiep` |
+| 932 | [An toàn bức xạ trong can thiệp dưới CT/DSA: liều, che chắn & ngưỡng cảnh báo da](932-an-toan-buc-xa-ct-dsa/lesson.md) | `protocol:an-toan-buc-xa` `protocol:CT-fluoroscopy` `protocol:DSA` `vung:toan-than` |

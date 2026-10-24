@@ -103,5 +103,6 @@ flowchart TD
 - [200 – Tổng quan Thần kinh](../200-tong-quan-he-than-kinh/lesson.md)
 - [235 – Thái dương & xoang](../235-xuong-thai-duong-xoang/lesson.md) (đầu-mặt-cổ)
 - [231 – Hạch cổ (dự kiến viết sau)]
+- [1622 – Đốt cồn nang giáp lành tính (PEI)](../1622-dot-con-nang-giap-pei/lesson.md) (xử lý nang giáp lành tính có triệu chứng)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

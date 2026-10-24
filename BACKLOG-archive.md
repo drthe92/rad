@@ -684,3 +684,7 @@
 - Flip #338/#339; append gap 1810 (cắt/ghép gan trong AE) & 934 (sốc phản vệ do vỡ nang sán).
 
 - 2026-10-24: viết 929 (xơ hóa nang thận–gan–lách, 5 ảnh + composite), 197 (xạ trị trong Li-Fraumeni, 6 ảnh + composite). selfcheck/lint/mermaid/author PASS. Append #401 (932), #402 (1622).
+
+## 2026-10-24 — lượt worker (932 + 1622)
+- Viết **932** (an toàn bức xạ CT/DSA: 5 ảnh + composite CC BY, PMC11163508/9527100/11666685/10887879/4674206/11481164; CTF ít hơn DSA 9,1 lần; áo chì 0,5 mm Pb ~97%; ngưỡng DAP 500 Gy·cm²) và **1622** (PEI nang giáp: 4 ảnh + composite CC BY-NC, PMC8217800/13369035/7937837/13229250; VRR gộp 83,9%; khàn tiếng 0,53%; thành công 90,7% ở 12 tháng).
+- Flip #401/#402; append #973 (935 — DRL can thiệp nhi) & #974 (1629 — RFA/MWA nhân giáp đặc); đã check_duplicates cả hai.
