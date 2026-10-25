@@ -716,3 +716,5 @@
 - 2026-10-25: flip #929/#361 → xong; append #964 (209) + #965 (194), đã check_duplicates; verify 5/5.
 - 2026-10-25: viết 250 (lao nội tủy & lao màng tủy; 2 ảnh CC BY-NC 3.0 PMC4398828 + composite) và 254 (giãn tủy sau chấn thương; 2 ảnh CC BY 4.0 PMC13523516 + composite, 1 ảnh CC BY-NC 4.0 PMC10992642 nguyên bản).
 - 2026-10-25: flip #359 (ID 244→250) + #360 (249→254) → xong; append #966 (255) + #967 (256); verify 5/5, 529 bài/529 card.
+- 2026-10-25: viết 119 (lách lạc chỗ & xoắn lách; CT 4 tầng cắt + US + CT coronal CC BY/CC BY-NC-ND, PMC13384039/PMC13326857/PMC13084344 + composite) và 186 (HPS vs PoPH; 2 sơ đồ CC BY 4.0 PMC13405752 + siêu âm tim cản quang CC BY-NC-ND PMC12393917).
+- 2026-10-25: flip #362/#363 → xong; append #394 (196) + #395 (192); đổi ID đề xuất #960 186→1695 (186 đã dùng); verify 5/5 PASS, 531 bài/531 card.
