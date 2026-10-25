@@ -718,3 +718,5 @@
 - 2026-10-25: flip #359 (ID 244→250) + #360 (249→254) → xong; append #966 (255) + #967 (256); verify 5/5, 529 bài/529 card.
 - 2026-10-25: viết 119 (lách lạc chỗ & xoắn lách; CT 4 tầng cắt + US + CT coronal CC BY/CC BY-NC-ND, PMC13384039/PMC13326857/PMC13084344 + composite) và 186 (HPS vs PoPH; 2 sơ đồ CC BY 4.0 PMC13405752 + siêu âm tim cản quang CC BY-NC-ND PMC12393917).
 - 2026-10-25: flip #362/#363 → xong; append #394 (196) + #395 (192); đổi ID đề xuất #960 186→1695 (186 đã dùng); verify 5/5 PASS, 531 bài/531 card.
+- 2026-10-25: viết 187 (giãn tĩnh mạch lạc chỗ: 3 ảnh CC BY/CC BY 3.0 + composite, PMC9272059/PMC8460490) và 188 (bệnh tủy do gan: 4 ảnh CC BY/CC BY-NC + composite, PMC6185955/PMC11181619/PMC13247707).
+- 2026-10-25: flip #364/#365 → xong; append #397 (190 Budd–Chiari) + #398 (191 HE thể ẩn); verify 5/5 PASS, 533 bài/533 card.
