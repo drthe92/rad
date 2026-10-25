@@ -720,3 +720,5 @@
 - 2026-10-25: flip #362/#363 → xong; append #394 (196) + #395 (192); đổi ID đề xuất #960 186→1695 (186 đã dùng); verify 5/5 PASS, 531 bài/531 card.
 - 2026-10-25: viết 187 (giãn tĩnh mạch lạc chỗ: 3 ảnh CC BY/CC BY 3.0 + composite, PMC9272059/PMC8460490) và 188 (bệnh tủy do gan: 4 ảnh CC BY/CC BY-NC + composite, PMC6185955/PMC11181619/PMC13247707).
 - 2026-10-25: flip #364/#365 → xong; append #397 (190 Budd–Chiari) + #398 (191 HE thể ẩn); verify 5/5 PASS, 533 bài/533 card.
+- 2026-10-25 — Bài **1613** (viêm tuyến vú u hạt & áp-xe vs ung thư thể viêm): 9 ảnh CC BY 4.0 (IGM 3 phương tiện + composite IBC/IGM + áp-xe 12 tuổi + hút mủ + H&E), flip #366 (ID 1612 đã dùng → 1613).
+- 2026-10-25 — Bài **1614** (PASH): 5 ảnh CC BY 4.0, composite nhũ ảnh + siêu âm; flip #367 (ID 1613 đã dùng → 1614); append T1615 (Paget vú) + T1616 (Mondor).
