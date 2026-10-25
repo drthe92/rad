@@ -714,3 +714,5 @@
 - 2026-10-25: flip #927 (ID 485→1404) + #928 → xong; append #421 (1405) + #422 (209), đã check_duplicates.
 - 2026-10-25: viết 207 (phình mạch nội sọ chưa vỡ; 2 ảnh CC BY-NC/CC BY-NC-ND, PMC12778726 + PMC12412027) + 148 (nhiễm mảnh ghép nội mạch ĐMC; 2 ảnh CC BY-NC, PMC10512004).
 - 2026-10-25: flip #929/#361 → xong; append #964 (209) + #965 (194), đã check_duplicates; verify 5/5.
+- 2026-10-25: viết 250 (lao nội tủy & lao màng tủy; 2 ảnh CC BY-NC 3.0 PMC4398828 + composite) và 254 (giãn tủy sau chấn thương; 2 ảnh CC BY 4.0 PMC13523516 + composite, 1 ảnh CC BY-NC 4.0 PMC10992642 nguyên bản).
+- 2026-10-25: flip #359 (ID 244→250) + #360 (249→254) → xong; append #966 (255) + #967 (256); verify 5/5, 529 bài/529 card.

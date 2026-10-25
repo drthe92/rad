@@ -292,6 +292,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 241 | [Đọc HR-vwMRI thành mạch nội sọ: ngấm ĐỒNG TÂM vs LỆCH TÂM (viêm mạch, xơ vữa, RCVS, moyamoya)](241-hr-vwmri-doc-ngam-thanh-mach/lesson.md) | `pattern:ngam-thanh-mach` `pattern:viem-mach-nao` `vung:mach-nao` `vung:nao` `score:VWE-0-3` `protocol:HR-vwMRI` |
 | 242 | [PACNS: điều trị duy trì, lịch theo dõi tái phát & khi nào ngừng thuốc](242-pacns-duy-tri-theo-doi/lesson.md) | `pattern:viem-mach-nao` `vung:mach-nao` `vung:nao` `score:mRS` `protocol:HR-vwMRI` `protocol:theo-doi-mien-dich` |
 | 243 | [Sán máng thần kinh: tủy ngực dưới/nón tủy, ngấm dạng "cuống lá", não giả u; praziquantel + corticoid](243-san-mang-than-kinh/lesson.md) | `pattern:viem-tuy` `pattern:khang-ngam-vong` `vung:tuy-song` `vung:nao` `protocol:MRI-tuy-co-gadolinium` `protocol:MRI-nao-tuong-phan` |
+| 250 | [Lao nội tủy & lao màng tủy: dấu bia (vòng ngấm + lõi tối), T2 tối do bã đậu; RIPE dài ngày ± corticoid, mổ khi xấu nhanh](250-lao-noi-tuy-va-lao-mang-tuy/lesson.md) | `pattern:khang-ngam-vong` `pattern:viem-tuy` `vung:tuy-song` `protocol:MRI-tuy-co-gadolinium` `protocol:MRI-nao-tuong-phan` |
+| 254 | [Giãn tủy sau chấn thương tủy sống: xấu đi sau giai đoạn ổn định, khoang T2 = DNT; bóc dính, S-S bypass, shunt](254-gian-tuy-sau-chan-thuong-tuy-song/lesson.md) | `pattern:gian-tuy` `pattern:viem-tuy` `vung:tuy-song` `protocol:MRI-tuy-co-gadolinium` `protocol:MRI-dong-hoc-csf` |
 | 657 | [Dị tật hố sau: Joubert & rhombencephalosynapsis](657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) | `pattern:di-dang-ho-sau` `pattern:rang-ham` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
 
 ## Hệ Cơ – Xương – Khớp (dải 300, đang khởi tạo)
