@@ -712,3 +712,5 @@
 - Verify **5/5 PASS**; flip #357 (ID 106→116 vì 106 đã dùng) + #358 (744) → xong; append #419 (117) + #420 (745).
 - 2026-10-25: viết 206 (PML/PML-IRIS; 2 ảnh CC BY 4.0, PMC12897592 + PMC12245874) và 1404 (biến chứng mạn anti-VEGF; PMC13062072 CC BY + PMC13135659 CC BY-NC, nguyên bản) — verify PASS 5/5, 525 bài/525 card.
 - 2026-10-25: flip #927 (ID 485→1404) + #928 → xong; append #421 (1405) + #422 (209), đã check_duplicates.
+- 2026-10-25: viết 207 (phình mạch nội sọ chưa vỡ; 2 ảnh CC BY-NC/CC BY-NC-ND, PMC12778726 + PMC12412027) + 148 (nhiễm mảnh ghép nội mạch ĐMC; 2 ảnh CC BY-NC, PMC10512004).
+- 2026-10-25: flip #929/#361 → xong; append #964 (209) + #965 (194), đã check_duplicates; verify 5/5.
