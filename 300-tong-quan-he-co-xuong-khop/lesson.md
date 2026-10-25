@@ -31,6 +31,7 @@ certainty: tong-hop-y-van
 | MPNST – điều trị đa mô thức & theo dõi di căn phổi | Mô mềm – dây thần kinh ngoại vi | MPNST độ cao, ANNUBP, sarcoma mô mềm khác, di căn phổi | **R0 là yếu tố tiên lượng mạnh nhất; OS 5 năm sau mổ 47%, tái phát tại chỗ 40%**; **RT > 50 Gy, bắt đầu 4–6 tuần sau mổ**; **không hóa trị bổ trợ thường quy**; **anthracycline: đáp ứng 21%, PFS 17 tuần, OS 48 tuần**; **theo dõi độ cao 3–4 tháng/năm 1–3, 6 tháng/năm 4–5, hằng năm đến 10 năm + CT ngực** | `379`, `377`, `378` |
 | Di căn phổi ở sarcoma/MPNST – cắt nốt vs SBRT | Phổi (lung) | Cắt nốt phổi (VATS), SBRT, áp lạnh qua da, hóa trị toàn thân | **R0 là chốt (cắt không hết: OS HR 6,54)**; **nốt > 2 cm: DFS HR 2,60; DFI > 12 tháng: OS HR 0,42**; **số nốt KHÔNG phải yếu tố tiên lượng độc lập**; **SBRT thất bại tại chỗ 32,0/45,3/47,2% ở 1/2/3 năm (BED10 ≥ 100 Gy)**; **áp lạnh nốt ≤ 2 cm: hiệu quả 88,8%/79,1% ở 1/3 năm** | `381`, `379`, `016`, `021` |
 | Vẹo cột sống ở trẻ có tiền sử **mở ngực** | Cột sống ngực – thành ngực | Vẹo do mổ ngực (thoracogenic), dính sườn, vẹo bẩm sinh (bán đốt sống), vẹo vô căn, thần kinh–cơ | **Dính sườn/thiểu sản sườn cùng bên + KHÔNG dị tật đốt sống = do mổ**; **Cobb > 10° = vẹo**, nẹp **25–40°** khi Risser 0–2, mổ **≥ 45–50°**; **cong ngực trái ở trẻ lớn → MRI tủy** | `047`, `310` |
+| Đọc phim xương sau điều trị ung thư: **đặc xương lành hóa vs tiến triển** | Cột sống – khung chậu – xương dài | Lành hóa đặc xương · flare đặc xương · tiến triển đặc xương/tiêu xương · flare xạ hình · gãy xẹp do loãng xương/steroid · đảo xương · Paget | **Đặc hóa ĐÚNG vị trí ổ cũ + trong bờ xương + có dấu đáp ứng khác = lành hóa, KHÔNG phải tiến triển**; **flare xạ hình/đặc xương trong 3 tháng đầu**; **RECIST 1.1: chỉ đo khi có mô mềm ≥ 10 mm, PD ≥ 20% + ≥ 5 mm**; **MDA: PR ≥ 50%, PD ≥ 25%**; **Mirels ≤ 7 = 4%, 8 = 15%, ≥ 9 = 33% nguy cơ gãy; Se 66,7–88%/Sp 38–47,9%** | `1615`, `306`, `331` |
 
 ## Bài liên quan chéo
 - [310 – Giải phẫu & xương phụ](../310-giai-phau-xuong-khop-va-bien-the/lesson.md) *(đã có)*
@@ -49,6 +50,7 @@ certainty: tong-hop-y-van
 - [309 – Loét tì đè & viêm xương tủy vùng khung chậu ở người lớn spina bifida](../309-loet-ti-de-viem-xuong-tuy-spina-bifida-nguoi-lon/lesson.md) *(mới — phân độ NPUAP/EPUAP, Cierny–Mader, MRI vs sinh thiết xương, vạt che phủ)*
 - [305 – Đau xương cụt (coccygodynia): phim động học & bất ổn khớp cùng–cụt](../305-dau-xuong-cut-coccygodynia/lesson.md) *(mới — Maigne, block hạch gian, chỉ định cắt xương cụt)*
 - [302 – Nang sán xương & cột sống ở trẻ](../302-nang-san-xuong-cot-song-o-tre/lesson.md) *(mới — tiêu xương "chùm nho", không màng xương, Braithwaite–Lees, không sinh thiết qua da)*
+- [1615 – Di căn xương ở ung thư vú: đặc xương lành hóa vs tiến triển (RECIST 1.1 / MDA / Mirels)](../1615-di-can-xuong-ung-thu-vu-lanh-hoa-vs-tien-trien/lesson.md) *(mới — bẫy "trắng thêm", flare, ngưỡng gãy xương)*
 
 ## Quy hoạch Master Curriculum Hệ Cơ – Xương – Khớp (300–380)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
