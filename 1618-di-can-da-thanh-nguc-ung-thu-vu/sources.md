@@ -1,0 +1,18 @@
+# Nguồn gốc — 1618 (Di căn da & thành ngực của ung thư vú)
+
+> Tổng hợp y văn mở đọc trực tiếp qua Europe PMC/PMC (Cureus, Frontiers in Oncology, Dermatopathology), có ca nguyên văn dùng cho quiz. Ngày quét: 2026-10-25.
+
+| # | Nguồn | Tiêu đề / Nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / PMC13570578 | Breast Carcinoma En Cuirasse: Proposal of a Novel Diagnostic Criterion — Olivier L, Gopeesingh KS, *Cureus* 2026. Ca nguyên văn: nữ 93 tuổi, da thành ngực–bụng dạng "tấm giáp" 1 năm; **punch da** là chẩn đoán; ILC, ER/PR(+), HER2(−), **E-cadherin(−)**; CT dày da lan tới bụng dưới; đề xuất tiêu chuẩn **OG Triple Assessment**; **CeC < 10% di căn da do vú, sống 1–2 năm**; **24% di căn da ở nữ do ung thư vú, ~70% từ vú**; **Mordenti 164 ca: 145 ở thân mình, 3% en cuirasse**; CeC = giai đoạn IV, IBC = giai đoạn III | https://pmc.ncbi.nlm.nih.gov/articles/PMC13570578/ | CC BY 4.0 | `images/1618_di-can-da_Clinical_PMC13570578.jpg`, `images/1618_di-can-da_CT-axial_PMC13570578.jpg`, `images/1618_di-can-da_CT-sagittal_PMC13570578.jpg`, `images/composite_en-cuirasse-vs-erysipeloid.jpg` |
+| 2 | Europe PMC / PMC12301209 | Case Report: Advanced breast invasive ductal carcinoma with erysipeloid cutaneous metastasis misdiagnosed as erysipelas — Gu W, Yuan J, Dong M, Sheng J, Jiang K, *Front Oncol* 2025. Nữ 51 tuổi, pT2N3M0 HER2(+), **3 năm sau mổ** xuất hiện đỏ chi trên, chẩn đoán viêm quầng, kháng sinh 1 tuần đỡ rồi tái phát và lan thành ngực; sinh thiết da = di căn; **carcinoma erysipeloides chỉ 3% di căn da của ung thư vú**; đáp ứng 1 chu kỳ đích + capecitabine, di căn não giảm 46% | https://pmc.ncbi.nlm.nih.gov/articles/PMC12301209/ | CC BY 4.0 | `images/1618_erysipeloid_Clinical_PMC12301209.jpg`, `images/composite_en-cuirasse-vs-erysipeloid.jpg` |
+| 3 | Europe PMC / PMC12101375 | Cutaneous Metastases—Histological Particularities of Multifaceted Entities — Tinca AC, Lazar BA, Cozac-Szőke AR et al., *Dermatopathology* 2025. 25 ca di căn da (14 nữ/11 nam), tuổi trung bình 62,3; **di căn da chiếm ~0,2% mẫu sinh thiết da**; 7 ca là dấu hiệu đầu tiên của ung thư nội tạng; vị trí hay gặp: thành ngực trước, bụng, da đầu; H&E + IHC (GATA-3, ER, PR, CK AE1/AE3) của thể NST, nhầy, **tiểu thùy** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12101375/ | CC BY 4.0 | `images/1618_di-can-da_His-GATA3_PMC12101375.jpg` |
+| 4 | Europe PMC / PMC13046420 | Chest Wall Reconstruction and Chemotherapy for Infectious Costochondritis Associated with Recurrent Breast Cancer — *Surgical Case Reports* 2026. Dùng làm hàng DDx tổn thương thành ngực sâu sau xạ (viêm sụn sườn nhiễm trùng) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13046420/ | CC BY 4.0 (chỉ trích, không dùng ảnh) | không tải |
+| 5 | Eurorad (ESR) | Ca carcinoma en cuirasse — đối chiếu hình thái, chỉ dẫn link (chưa tải vì đã đủ ảnh CC BY) | https://www.eurorad.org | giáo dục, ghi nguồn | không tải |
+| 6 | Radiopaedia | Breast cutaneous metastasis / chest wall recurrence — đối chiếu mô tả CT–MRI, chỉ dẫn link (không crawl) | https://radiopaedia.org | CC BY-NC-SA (từng ca) | không tải |
+| 7 | AuntMinnie | Case of the Day: skin metastasis of breast cancer — **chỉ dẫn link** | https://www.auntminnie.com | paywall | không tải |
+
+## Ghi chú giấy phép
+- Toàn bộ ảnh dùng trong bài là **CC BY 4.0** → được phép tải, tạo ảnh ghép letterbox (tác phẩm phái sinh) và ghi nguồn.
+- Tên tác giả đối chiếu trực tiếp `authorString` của Europe PMC theo PMCID: PMC13570578 = Olivier L, Gopeesingh KS; PMC12301209 = Gu W và cs.; PMC12101375 = Tinca AC và cs.
+- Các nguồn 5–7 chỉ dẫn link, không tải ảnh.

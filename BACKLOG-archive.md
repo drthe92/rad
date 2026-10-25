@@ -722,3 +722,5 @@
 - 2026-10-25: flip #364/#365 → xong; append #397 (190 Budd–Chiari) + #398 (191 HE thể ẩn); verify 5/5 PASS, 533 bài/533 card.
 - 2026-10-25 — Bài **1613** (viêm tuyến vú u hạt & áp-xe vs ung thư thể viêm): 9 ảnh CC BY 4.0 (IGM 3 phương tiện + composite IBC/IGM + áp-xe 12 tuổi + hút mủ + H&E), flip #366 (ID 1612 đã dùng → 1613).
 - 2026-10-25 — Bài **1614** (PASH): 5 ảnh CC BY 4.0, composite nhũ ảnh + siêu âm; flip #367 (ID 1613 đã dùng → 1614); append T1615 (Paget vú) + T1616 (Mondor).
+- 2026-10-25 — Bài **1618** (di căn da & thành ngực ung thư vú): 5 ảnh CC BY 4.0 + composite en cuirasse vs erysipeloides (PMC13570578/PMC12301209/PMC12101375); flip #368 (ID 1614 đã dùng → 1618).
+- 2026-10-25 — Bài **1600** (đánh giá ngực trước GACMS): 2 ảnh CC BY-NC-ND giữ nguyên bản (PMC13680890/PMC13016194); flip #369; append #423 (1621 di căn buồng trứng) + #424 (1648 di căn gan); sửa 3 ID trùng trong hàng chờ (1618→1645, 194→1646, 209→1647); verify 5/5 PASS, 537 bài/537 card.
