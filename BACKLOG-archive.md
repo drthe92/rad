@@ -710,3 +710,5 @@
 ## 2026-10-24 (lượt 6) — worker rad-backlog
 - Viết **116** (nhiễm trùng nang gan ở người ghép thận: PET/CT, xâm nhập kháng sinh 4,2% vs 0,3%, chỉnh IS; 2 ảnh CC BY 4.0) + **744** (chảy máu cam ở trẻ có rối loạn đông máu: xét nghiệm, desmopressin/TXA, ngưỡng truyền; 3 ảnh CC BY 4.0); cập nhật overview 100/700, README, index.
 - Verify **5/5 PASS**; flip #357 (ID 106→116 vì 106 đã dùng) + #358 (744) → xong; append #419 (117) + #420 (745).
+- 2026-10-25: viết 206 (PML/PML-IRIS; 2 ảnh CC BY 4.0, PMC12897592 + PMC12245874) và 1404 (biến chứng mạn anti-VEGF; PMC13062072 CC BY + PMC13135659 CC BY-NC, nguyên bản) — verify PASS 5/5, 525 bài/525 card.
+- 2026-10-25: flip #927 (ID 485→1404) + #928 → xong; append #421 (1405) + #422 (209), đã check_duplicates.

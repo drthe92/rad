@@ -163,6 +163,7 @@ certainty: tong-hop-y-van
 - [1627 – Người mang OPA1 không triệu chứng: RNFL/GCL dưới lâm sàng, theo dõi & tư vấn 50%](../1627-nguoi-mang-opa1-khong-trieu-chung/lesson.md) *(mới)*
 - [480 – NAION sau chẩn đoán: điều trị, dự phòng mắt đối diện & theo dõi dài hạn](../480-naion-dieu-tri-va-theo-doi/lesson.md) *(mới)*
 - [481 – Biến chứng nội nhãn sau liệu pháp gene & tiêm nội dịch kính: CRA, IOI vô khuẩn, endophthalmitis](../481-bien-chung-noi-nhan-lieu-phap-gene-tiem-noi-dich-kinh/lesson.md) *(mới)*
+- [1404 – Biến chứng mạn của tiêm anti-VEGF: tăng nhãn áp kéo dài, teo hoàng điểm, rách RPE, xơ hóa & đáp ứng kém](../1404-bien-chung-man-anti-vegf/lesson.md) *(mới)*
 - [486 – Lác trong điều tiết sau khi đeo kính: 5 kiểu còn lác, lăng kính, kính hai tròng & ngưỡng mổ](../486-lac-trong-dieu-tiet-theo-doi-sau-kinh/lesson.md) *(mới)*
 - [1403 – Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt thể thủy tinh](../1403-phau-thuat-rop-giai-doan-4-5/lesson.md) *(mới)*
 
@@ -238,6 +239,7 @@ certainty: tong-hop-y-van
 - 1627 – Người mang OPA1 không triệu chứng: **độ thấm ~70%**, **15/34 không suy giảm thị lực nhưng RNFL/GCL đã mỏng**, lịch OCT & tư vấn 50% *(mới — [bài học](../1627-nguoi-mang-opa1-khong-trieu-chung/lesson.md))*
 - 480 – NAION sau chẩn đoán: không corticoid, phòng mắt đối diện, ABPM ban đêm, OSA, GLP-1 RA & phục hồi chức năng *(đã có — [bài học](../480-naion-dieu-tri-va-theo-doi/lesson.md))*
 - 481 – Biến chứng nội nhãn sau liệu pháp gene & tiêm nội dịch kính: **CRA tại điểm tiêm/trung tâm/ngoại vi** (9–100%, khởi phát 3–6 tháng, OCT/FAF/IR), **IOI do vector 79%** (SUN grading), **endophthalmitis 0,013–0,061%** (1–7 ngày, chọc dịch kính + vancomycin/ceftazidime) *(đã có — [bài học](../481-bien-chung-noi-nhan-lieu-phap-gene-tiem-noi-dich-kinh/lesson.md))*
+- 1404 – Biến chứng mạn của tiêm anti-VEGF: **MA 79,8%/10 năm** (nhóm đáp ứng kém 7,1% → 41,4% → 81,4%), **xơ 11,4% → 25,7% → 57,1%**, **rách RPE 1,9–7% khi PED > 400 µm**, **IOP > 25 mmHg/30 phút nếu không reflux**, **≥ 7 mũi/năm → nhiều phẫu thuật glaucoma hơn** *(mới — [bài học](../1404-bien-chung-man-anti-vegf/lesson.md))*
 - 475 – Viêm nội nhãn nội sinh do vi khuẩn: ổ mủ dưới võng mạc, "tiền phòng im lặng", CT áp-xe gan dự báo nguy cơ (thùy trái/hai thùy OR 19,6–45,1; xâm lấn mạch OR 148), vancomycin 1 mg + ceftazidime 2,25 mg, cắt dịch kính sau 24 giờ thất bại *(đã có — [bài học](../475-viem-noi-nhan-noi-sinh-vi-khuan/lesson.md))*
 - 476 – Tầm soát mắt ở trẻ candidemia/NICU: IDSA soi đáy mắt + chọc dịch não tủy cho mọi sơ sinh cấy dương, khác biệt người lớn–sơ sinh, RetCam/OCT cầm tay, tranh luận 2026 về "chọn lọc theo triệu chứng" *(đã có — [bài học](../476-tam-soat-mat-candidemia-nhi/lesson.md))*
 - 483 – Sàng lọc thị lực trẻ mầm non: photoscreener/autorefractor, pass 20/50–20/40–20/32, chuyển tuyến trực tiếp & vì sao bỏ sót lác nhỏ *(đã có — [bài học](../483-sang-loc-thi-luc-tre-mam-non/lesson.md))*
