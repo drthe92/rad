@@ -95,6 +95,7 @@ certainty: tong-hop-y-van
 - [682 – Bệnh mạch máu não & quá tải sắt ở thalassemia/huyết tán khác: SCI, CVR (acetazolamide), T2*/QSM cho sắt đa cơ quan](../682-benh-mach-nao-qua-tai-sat-thalassemia/lesson.md) *(đã có)*
 - [1781 – Huyết khối xoang tĩnh mạch não ở trẻ thiếu máu/huyết tán: CVST + thiếu sắt/Lp(a), MRV/CTV, ngưỡng chống đông](../1781-huyet-khoi-tinh-mach-nao-tre-thieu-mau-huyet-tan/lesson.md) *(mới — nối 682/661/216)*
 - [1780 – Chọn kỹ thuật tái thông moyamoya ở trẻ: EDAS/EDAMS vs STA–MCA vs EDMS](../1780-chon-ky-thuat-tai-thong-moyamoya-o-tre/lesson.md) *(đã có)*
+- [1782 – Phình mạch nội sọ trong moyamoya: thân vs bàng hệ, tầm soát DSA 3D & chảy máu muộn sau tái thông](../1782-phinh-mach-trong-moyamoya/lesson.md) *(mới — nối 1780/207/248)*
 - [207 – Phình mạch nội sọ chưa vỡ: PHASES/ELAPSS/UIATS, ngấm thành HR-vwMRI & quyết định điều trị](../207-phinh-mach-noi-so-chua-vo/lesson.md) *(mới)*
 
 ## Quy hoạch Master Curriculum Hệ Thần kinh (200–249)
