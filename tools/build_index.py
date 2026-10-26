@@ -35,7 +35,7 @@ def spec_of(uid):
 
 
 # ID 4 chữ số là dải tràn (overflow) — gán phân hệ thủ công cho đúng tab.
-SPEC_OVERRIDE = {"1601": "vuspk", "1602": "vuspk", "1604": "vuspk", "1605": "vuspk", "1606": "vuspk", "1607": "vuspk", "1608": "bung", "1609": "vuspk", "1610": "vuspk", "1611": "vuspk", "1636": "vuspk", "1780": "nhi", "1801": "bung", "6102": "nhi", "6701": "nhi", "1622": "dauco", "3003": "thankinh", "1627": "mat", "1613": "vuspk", "1614": "vuspk", "1600": "vuspk", "1618": "vuspk", "1901": "bung", "1902": "bung", "1615": "msk", "1616": "vuspk", "1782": "nhi", "1420": "mat", "1421": "mat"}
+SPEC_OVERRIDE = {"1601": "vuspk", "1602": "vuspk", "1604": "vuspk", "1605": "vuspk", "1606": "vuspk", "1607": "vuspk", "1608": "bung", "1609": "vuspk", "1610": "vuspk", "1611": "vuspk", "1636": "vuspk", "1780": "nhi", "1801": "bung", "6102": "nhi", "6701": "nhi", "1622": "dauco", "3003": "thankinh", "1627": "mat", "1613": "vuspk", "1614": "vuspk", "1600": "vuspk", "1618": "vuspk", "1901": "bung", "1902": "bung", "1615": "msk", "1616": "vuspk", "1782": "nhi", "1420": "mat", "1421": "mat", "1795": "nhi"}
 
 
 def frontmatter(path):

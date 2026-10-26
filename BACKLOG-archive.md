@@ -741,3 +741,5 @@
 - 2026-10-26 · bài **1782** (phình mạch trong moyamoya): thân 83,3% vs ngoại vi 16,7%; phình bàng hệ vỡ ở 2,7 mm; 37% tự teo khi Suzuki tiến triển; ảnh Wikimedia CC BY-SA 3.0 + CC BY 3.0; nguồn PMC9947525/PMC9923357/PMC10918708/PMC12511514.
 - 2026-10-26: bài 1420 (áp-xe gan Klebsiella + viêm nội nhãn: thứ tự/cửa sổ 48 giờ) + 1421 (nhận thức sau MTX: IPCG z-score, MoCA, rehab).
 - 2026-10-26: append 2 khoảng trống 1422 (hvKP không ổ gan) + 1423 (độc tính IT MTX) — đã check_duplicates.
+- 2026-10-26: viết 1795 (xuất huyết & CMB moyamoya ở trẻ) — 5 ảnh CC BY-NC/SA/ND, verify 5/5.
+- 2026-10-26: flip #379 → xong; append #429 (1797 xạ trị sọ) + #430 (1798 phân độ bàng hệ).

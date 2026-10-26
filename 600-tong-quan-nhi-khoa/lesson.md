@@ -183,6 +183,7 @@ certainty: tong-hop-y-van
 - [682 – Bệnh mạch máu não & quá tải sắt ở thalassemia/huyết tán khác (ngoài SCD): SCI, CVR/acetazolamide, T2*/QSM](../682-benh-mach-nao-qua-tai-sat-thalassemia/lesson.md) *(đã có)*
 - [1780 – Chọn kỹ thuật tái thông moyamoya ở trẻ: EDAS/EDAMS vs STA–MCA vs phối hợp (EDMS)](../1780-chon-ky-thuat-tai-thong-moyamoya-o-tre/lesson.md) *(đã có)*
 - [681 – Chống kết tập tiểu cầu sau tái thông mạch não ở trẻ: liều aspirin mg/kg, thời gian dùng, nguy cơ chảy máu & khi nào ngừng](../681-chong-ket-tap-tieu-cau-sau-tai-thong-mach-nao-o-tre/lesson.md) *(đã có)*
+- [1795 – Xuất huyết & vi chảy máu trong moyamoya ở trẻ: SWI/T2*, EDAS sớm ≤ 3 tháng, aspirin & theo dõi xuất huyết muộn 19 năm](../1795-xuat-huyet-vi-chay-mau-moyamoya-o-tre/lesson.md) *(mới — nối 681/1782/660)*
 - [662 – Bóc tách động mạch cổ ở trẻ & sau chấn thương cổ (Denver, CTA/MRA, chống huyết khối)](../662-boc-tach-dong-mach-co-o-tre/lesson.md) *(đã có)*
 - [628 – Viêm tụy cấp do tăng triglyceride máu & nguyên nhân chuyển hóa ở trẻ (insulin, plasmapheresis)](../628-viem-tuy-tang-triglyceride-o-tre/lesson.md) *(đã có)*
 - [683 – Tăng triglyceride kháng trị ở trẻ: fibrate/omega-3, ức chế PCSK9, olezarsen, liệu pháp gen LPL & khi nào lặp plasmapheresis](../683-tang-triglyceride-khang-tri-o-tre/lesson.md) *(đã có)*
