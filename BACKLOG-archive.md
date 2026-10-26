@@ -739,3 +739,5 @@
 - 2026-10-26 — Viết **1781** (CVST ở trẻ thiếu máu/huyết tán): 3 ảnh CC BY 4.0 (PMC11960503 ×2, PMC10196485) + 1 composite; phân tích gộp PMC13553567 (CC BY-NC-ND — chỉ trích); flip #375 → xong.
 - 2026-10-26 · bài **087** (viêm phổi hoá học do hydrocarbon ở trẻ): 93% < 5 tuổi, tử vong 0,3%, 90% lành tính; 2 sơ đồ tự vẽ CC0 (không tải được ảnh lâm sàng có license rõ); nguồn PMC5733930/PMC6996713/PMC6340822/PMC10943606/PMC13089157/PMC13033276.
 - 2026-10-26 · bài **1782** (phình mạch trong moyamoya): thân 83,3% vs ngoại vi 16,7%; phình bàng hệ vỡ ở 2,7 mm; 37% tự teo khi Suzuki tiến triển; ảnh Wikimedia CC BY-SA 3.0 + CC BY 3.0; nguồn PMC9947525/PMC9923357/PMC10918708/PMC12511514.
+- 2026-10-26: bài 1420 (áp-xe gan Klebsiella + viêm nội nhãn: thứ tự/cửa sổ 48 giờ) + 1421 (nhận thức sau MTX: IPCG z-score, MoCA, rehab).
+- 2026-10-26: append 2 khoảng trống 1422 (hvKP không ổ gan) + 1423 (độc tính IT MTX) — đã check_duplicates.
