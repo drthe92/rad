@@ -728,3 +728,7 @@
 - 2026-10-25 — viết **1615** (di căn xương ung thư vú: lành hóa đặc xương vs tiến triển; RECIST 1.1/MDA/Mirels) + **1616** (ung thư vú thể viêm IBC/T4d): nguồn Europe PMC CC BY 4.0, 12 ảnh + 1 composite; flip #370/#371 → xong, append #977 (1639 đau xương) + #978 (1640 di căn màng não).
 - 2026-10-26 — Bài **933** (sốc phản vệ & PC-AKI do cản quang i-ốt): 5 ảnh + 1 composite, tất cả CC BY 4.0 (ESUR 2025 part 1/2 PMC12559081/PMC12559128, PC-AKI PMC11034108, thoát mạch PMC13233547); flip #372 → xong; append #425 (936 phản ứng da muộn/SCAR) + #426 (1650 gãy xương sườn–đòn sau xạ, ID 1626/1631 đã dùng nên đổi).
 - 2026-10-26 — Bài **1617** (RIBP – đám rối cánh tay do xạ): 4 ảnh CC BY 4.0 + 1 composite (PMC11163868, PMC10865071, tổng quan PMC12723156); flip #373 → xong; có mục **phản biện** chỗ mâu thuẫn tín hiệu MRI giữa hai nguồn (ngấm đều vs không ngấm).
+
+## Nhật ký 2026-10-26 (worker rad-backlog)
+- Viết **1619** (đau thần kinh sau mổ vú/ICBN): 6 ảnh + 1 composite (3 CC BY, 1 CC BY-NC-SA, 2 CC BY-NC-ND); nguồn chính PMC8534110/11666212/13459936/13124505/10849353.
+- Flip #375 (1619) → xong; append #415 (1651 frozen shoulder) + #416 (1652 pectoral minor syndrome); verify PASS 5/5.
