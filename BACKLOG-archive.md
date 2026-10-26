@@ -748,3 +748,5 @@
 - 2026-10-26: viết 6105 (hoại tử xương ở trẻ ALL — MRI bờ ngoằn ngoèo/đường đôi, ARCO, > 30% diện tích; 3 ảnh CC BY/CC BY-NC-ND, không composite).
 - 2026-10-26: flip #382 → xong (ID 695 trùng → 6105); append #408 (6108 MRONJ ở trẻ) + #409 (6107 thay khớp háng ở người sống sót ung thư nhi) — đã check_duplicates.
 2026-10-26 (worker): viết 6108 (MRONJ ở trẻ: 1 ca/1.284, 0/178; AAOMS 0–3; ngưng thuốc 2 tháng/6–12 tháng) + 6107 (THA ≤ 30 tuổi: 8 năm 4,6%, Perthes HR 4,3; cup tantalum xương đã xạ). Verify PASS 5/5 (560 bài/560 card); append 6109 (bệnh xương cứng) + 6110 (PJI sau THA).
+- 2026-10-26 · bài 414 (glaucoma & nhãn cầu nhỏ trong PFV/CFPM): 5 ảnh (2 CC BY, 3 CC BY-NC-ND), UBM độ I–III, van Ahmed 83,8%; verify 5/5; append 415 (microphthalmia–coloboma) + 416 (dị tật tiền phòng).
+- 2026-10-26 · ghi chú: hàng 417/ID 1643 (glaucoma sau mổ đục TTT bẩm sinh) vẫn chờ — 414 chỉ phủ nhánh PFV, không viết trùng.

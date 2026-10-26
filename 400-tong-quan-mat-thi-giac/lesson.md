@@ -86,6 +86,7 @@ certainty: tong-hop-y-van
 | Tân mạch võng mạc trẻ sinh non | Võng mạc (retina) | ROP (ICROP) | Non tháng ≤ 30 tuần/≤ 1500 g + zone/stage/plus; **AP-ROP = cấp cứu** | [456](../456-benh-vong-mac-tre-sinh-non/lesson.md) |
 | Bệnh "giả ROP" ở trẻ đủ tháng | Võng mạc (retina) | **FEVR, Norrie, incontinentia pigmenti, Coats**, PFV/PHPV; **Coats plus** (CTC1) khi hai bên + bệnh hệ thống | **Trẻ ĐỦ tháng** (không sinh non) + leukocoria/bong võng mạc; **FA ngoại vi là chốt**; loại trừ **retinoblastoma** trước; **Coats-like HAI BÊN + vôi hóa/nang não = Coats plus** | [457](../457-benh-gia-rop-tre-du-thang/lesson.md), [465](../465-coats-plus-syndrome-ctc1/lesson.md), [413](../413-PFV-PHPV-day-xo-the-thuy-tinh/lesson.md) |
 | **Leukocoria + nhãn cầu nhỏ + dây xơ neo đĩa thị** | Nhãn cầu (globe) | **PFV/PHPV** vs retinoblastoma, Coats, ROP 5, FEVR, toxocariasis | **Dây xơ từ đĩa thị tới bao sau thể thủy tinh + AL ngắn + có mạch trong dây (Doppler) + KHÔNG vôi hóa** = PFV; **vôi hóa thô + khối đặc** = RB (loại trừ trước, không sinh thiết nội nhãn) | [413](../413-PFV-PHPV-day-xo-the-thuy-tinh/lesson.md), [412](../412-u-trong-nhan-cau/lesson.md) |
+| **Nhãn cầu nhỏ + TĂNG nhãn áp (nghịch lý "mắt bé")** | Tiền phòng – thể mi (anterior chamber, ciliary body) | **PFV/CFPM thể trước** vs glaucoma bẩm sinh nguyên phát (PCG), Peters, aniridia, Sturge–Weber, retinoblastoma thứ phát | **Màng xơ dính đồng tử 360° + UBM thấy mỏm thể mi cuộn vào màng + ACD 1,50 mm + AL dài hơn mắt lành 3,4 mm** = CFPMSG; **HAI BÊN + không màng + HCD/AL tăng** = PCG | [414](../414-glaucoma-va-nhan-cau-nho-o-pfv/lesson.md), [413](../413-PFV-PHPV-day-xo-the-thuy-tinh/lesson.md), [442](../442-glaucoma-OCT/lesson.md) |
 | **U hạt ngoại vi + dây co kéo dịch kính** | Võng mạc–dịch kính (retina–vitreous) | **Toxocariasis nội nhãn (OLM)** vs retinoblastoma, Coats, PFV, FEVR, Toxoplasma, DUSN | **Trẻ + u hạt ngoại vi (90% thái dương) + dây xơ co kéo tới đĩa thị + ELISA *Toxocara* (+)** = OLM; **loại trừ RB (canxi hóa thô) trước**; **FA có thể bỏ sót u hạt** | [466](../466-toxocariasis-noi-nhan/lesson.md) |
 | Di chứng & theo dõi dài hạn sau ROP | Võng mạc (retina) | Tái hoạt sau anti-VEGF, cicatricial, cận thị/lác/nhược thị, bong VM muộn, glaucoma góc đóng | **Chuỗi ảnh phân biệt tái hoạt (tiến triển) vs di chứng (ổn định)**; anti-VEGF theo dõi **≥ 65 tuần PMA**; khúc xạ liệt điều tiết + chỉnh thị | [458](../458-di-chung-theo-doi-dai-han-sau-rop/lesson.md) |
 | Bệnh võng mạc tăng huyết áp/bệnh máu | Võng mạc (retina) | HTR (KWB), thiếu máu, sickle cell, leukemia | Đốm bông + xuất huyết tia + sao hoàng điểm ← HA cao; Roth spot ← thiếu máu | [453](../453-benh-vong-mac-tang-huyet-ap-va-thieu-mau/lesson.md) |
@@ -99,6 +100,7 @@ certainty: tong-hop-y-van
 - [401 – Phương thức CĐHA mắt](../401-phuong-thuc-mat/lesson.md) *(mới)*
 - [412 – U trong nhãn cầu](../412-u-trong-nhan-cau/lesson.md) *(mới)*
 - [413 – PFV/PHPV (tồn tại tuần hoàn bào thai): dây xơ dịch kính + nhãn cầu nhỏ](../413-PFV-PHPV-day-xo-the-thuy-tinh/lesson.md) *(mới)*
+- [414 – Glaucoma & nhãn cầu nhỏ trong PFV: bẫy "mắt bé thì không thể tăng nhãn áp"](../414-glaucoma-va-nhan-cau-nho-o-pfv/lesson.md) *(mới)*
 - [422 – Giả u viêm](../422-viem-gia-u/lesson.md) *(mới)*
 - [423 – Fistula xoang hang](../423-fistula-xoang-hang/lesson.md) *(mới)*
 - [424 – Tuyến lệ](../424-tuyen-le/lesson.md) *(mới)*
@@ -181,6 +183,7 @@ certainty: tong-hop-y-van
 - 411 – Siêu âm nhãn cầu: bong võng mạc vs xuất huyết dịch kính vs bong hắc mạc *(đã có — [bài học](../411-sieu-am-nhan-cau/lesson.md))*
 - 412 – U trong nhãn cầu *(đã có — [bài học](../412-u-trong-nhan-cau/lesson.md))*
 - 413 – PFV/PHPV (tồn tại tuần hoàn bào thai): dây xơ dịch kính + nhãn cầu nhỏ, phân thể trước–sau–phối hợp, mổ & tiên lượng *(đã có — [bài học](../413-PFV-PHPV-day-xo-the-thuy-tinh/lesson.md))*
+- 414 – Glaucoma & nhãn cầu nhỏ trong PFV/CFPM: bít đồng tử + kéo thể mi, phân độ UBM I–III, giải phóng màng & van Ahmed *(đã có — [bài học](../414-glaucoma-va-nhan-cau-nho-o-pfv/lesson.md))*
 
 **420–429 — Hốc mắt: chấn thương, viêm, mạch**
 - **420** – Vỡ sàn + hội chứng khoang *(đã có)*
