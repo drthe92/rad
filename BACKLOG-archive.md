@@ -732,3 +732,5 @@
 ## Nhật ký 2026-10-26 (worker rad-backlog)
 - Viết **1619** (đau thần kinh sau mổ vú/ICBN): 6 ảnh + 1 composite (3 CC BY, 1 CC BY-NC-SA, 2 CC BY-NC-ND); nguồn chính PMC8534110/11666212/13459936/13124505/10849353.
 - Flip #375 (1619) → xong; append #415 (1651 frozen shoulder) + #416 (1652 pectoral minor syndrome); verify PASS 5/5.
+- 2026-10-26 — Viết **1651** (cứng khớp vai dính sau điều trị ung thư vú): 3 ảnh + 1 composite (PMC10201101 CC BY-NC 4.0 ×2, PMC8567438 CC BY-NC 4.0); lưu ý metadata Europe PMC ghi "cc by" nhưng bài gốc là **CC BY-NC 4.0**; flip #415 → xong.
+- 2026-10-26 — Viết **1652** (hội chứng cơ ngực bé/PMS): 4 ảnh CC BY 4.0 (PMC10426640), không tạo composite vì hình nguồn đã là chuỗi A/B/C khác tỷ lệ; flip #416 → xong; append #417 (1653 bao xơ implant) + #418 (1654 BIA-ALCL) — đã check_duplicates.
