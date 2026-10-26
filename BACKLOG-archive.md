@@ -750,3 +750,6 @@
 2026-10-26 (worker): viết 6108 (MRONJ ở trẻ: 1 ca/1.284, 0/178; AAOMS 0–3; ngưng thuốc 2 tháng/6–12 tháng) + 6107 (THA ≤ 30 tuổi: 8 năm 4,6%, Perthes HR 4,3; cup tantalum xương đã xạ). Verify PASS 5/5 (560 bài/560 card); append 6109 (bệnh xương cứng) + 6110 (PJI sau THA).
 - 2026-10-26 · bài 414 (glaucoma & nhãn cầu nhỏ trong PFV/CFPM): 5 ảnh (2 CC BY, 3 CC BY-NC-ND), UBM độ I–III, van Ahmed 83,8%; verify 5/5; append 415 (microphthalmia–coloboma) + 416 (dị tật tiền phòng).
 - 2026-10-26 · ghi chú: hàng 417/ID 1643 (glaucoma sau mổ đục TTT bẩm sinh) vẫn chờ — 414 chỉ phủ nhánh PFV, không viết trùng.
+
+- 2026-10-26: 089 (biến chứng EBUS-TMC; PM 11,9% vs 0,4%, chảy máu muộn 5 phút, adrenaline giả STEMI) + 085 (irAE quanh mổ; 18,5%, MPR 38,9% vs 63,1%, CIP tử vong POD 25) — verify PASS 5/5.
+- 2026-10-26: append #946 (090 suy thượng thận do ICI) + #947 (091 ho ra máu ồ ạt/nút mạch phế quản), đã check_duplicates.
