@@ -169,6 +169,7 @@ flowchart TD
 ## Bài liên quan chéo
 - [600 – Tổng quan Nhi khoa](../600-tong-quan-nhi-khoa/lesson.md)
 - [674 – U quái & u tế bào mầm vùng gan ở trẻ](../674-u-quai-te-bao-mam-gan-o-tre/lesson.md) (cùng họ tế bào mầm, khác vị trí)
+- [1701 – Đường mổ u quái cùng cụt: sau–qua xương cùng vs nội soi hỗ trợ, Altman I–IV](../1701-duong-mo-u-quai-cung-cut/lesson.md) (chọn đường mổ, cắt xương cụt, theo dõi tái phát)
 - [656 – Bất thường tủy sống ở trẻ](../656-bat-thuong-tuy-cot-song-nhi/lesson.md) (u mỡ – tủy màng não, tủy neo)
 - [630 – U bụng nhi: neuroblastoma vs Wilms](../630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md)
 - [635 – Dị tật tiết niệu nhi: SFU, VUR, PUV](../635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) (chèn ép đường tiểu dưới)

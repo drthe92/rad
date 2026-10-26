@@ -192,6 +192,7 @@ flowchart TD
 ## Bài liên quan chéo
 - [600 – Tổng quan Hệ Nhi khoa](../600-tong-quan-nhi-khoa/lesson.md)
 - [645 – Vỡ khung chậu ở trẻ (Tile/AO, WSES, kiểm soát chảy máu)](../645-vo-khung-chau-o-tre/lesson.md) (vỡ khung chậu mở + đai/cố định ngoài/nút mạch)
+- [1681 – Di chứng muộn niệu–sinh dục ở bé gái sau chấn thương khung chậu](../1681-di-chung-muon-nieu-sinh-duc-be-gai-sau-chan-thuong-khung-chau/lesson.md) (hẹp âm đạo, rò niệu đạo–âm đạo, sa tạng chậu — theo dõi sau giai đoạn cấp)
 - [637 – Chấn thương bàng quang & niệu đạo nhi](../637-chan-thuong-bang-quang-nieu-dao-nhi/lesson.md) (đứt niệu đạo, máu lỗ sáo, tụ máu cánh bướm)
 - [636 – Cấp cứu niệu–sinh dục nhi](../636-cap-cuu-nieu-sinh-duc-nhi/lesson.md) (chấn thương thận, xoắn tinh hoàn/buồng trứng)
 - [548 – Nang/khối lành vùng âm hộ – âm đạo (Bartholin, Gartner, ống Nuck)](../548-nang-lanh-am-ho-am-dao/lesson.md) (khối lành — phân biệt với máu tụ/u)
