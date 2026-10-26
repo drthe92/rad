@@ -747,3 +747,4 @@
 - 2026-10-26: flip #380/#381 → xong; append #405 (1903 thiếu máu mạc treo/SAM) + #406 (1811 MRI bụng cấp ở thai) — đã check_duplicates.
 - 2026-10-26: viết 6105 (hoại tử xương ở trẻ ALL — MRI bờ ngoằn ngoèo/đường đôi, ARCO, > 30% diện tích; 3 ảnh CC BY/CC BY-NC-ND, không composite).
 - 2026-10-26: flip #382 → xong (ID 695 trùng → 6105); append #408 (6108 MRONJ ở trẻ) + #409 (6107 thay khớp háng ở người sống sót ung thư nhi) — đã check_duplicates.
+2026-10-26 (worker): viết 6108 (MRONJ ở trẻ: 1 ca/1.284, 0/178; AAOMS 0–3; ngưng thuốc 2 tháng/6–12 tháng) + 6107 (THA ≤ 30 tuổi: 8 năm 4,6%, Perthes HR 4,3; cup tantalum xương đã xạ). Verify PASS 5/5 (560 bài/560 card); append 6109 (bệnh xương cứng) + 6110 (PJI sau THA).
