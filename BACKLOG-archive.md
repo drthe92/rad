@@ -724,13 +724,12 @@
 - 2026-10-25 — Bài **1614** (PASH): 5 ảnh CC BY 4.0, composite nhũ ảnh + siêu âm; flip #367 (ID 1613 đã dùng → 1614); append T1615 (Paget vú) + T1616 (Mondor).
 - 2026-10-25 — Bài **1618** (di căn da & thành ngực ung thư vú): 5 ảnh CC BY 4.0 + composite en cuirasse vs erysipeloides (PMC13570578/PMC12301209/PMC12101375); flip #368 (ID 1614 đã dùng → 1618).
 - 2026-10-25 — Bài **1600** (đánh giá ngực trước GACMS): 2 ảnh CC BY-NC-ND giữ nguyên bản (PMC13680890/PMC13016194); flip #369; append #423 (1621 di căn buồng trứng) + #424 (1648 di căn gan); sửa 3 ID trùng trong hàng chờ (1618→1645, 194→1646, 209→1647); verify 5/5 PASS, 537 bài/537 card.
-
 - 2026-10-25 — viết **1615** (di căn xương ung thư vú: lành hóa đặc xương vs tiến triển; RECIST 1.1/MDA/Mirels) + **1616** (ung thư vú thể viêm IBC/T4d): nguồn Europe PMC CC BY 4.0, 12 ảnh + 1 composite; flip #370/#371 → xong, append #977 (1639 đau xương) + #978 (1640 di căn màng não).
 - 2026-10-26 — Bài **933** (sốc phản vệ & PC-AKI do cản quang i-ốt): 5 ảnh + 1 composite, tất cả CC BY 4.0 (ESUR 2025 part 1/2 PMC12559081/PMC12559128, PC-AKI PMC11034108, thoát mạch PMC13233547); flip #372 → xong; append #425 (936 phản ứng da muộn/SCAR) + #426 (1650 gãy xương sườn–đòn sau xạ, ID 1626/1631 đã dùng nên đổi).
 - 2026-10-26 — Bài **1617** (RIBP – đám rối cánh tay do xạ): 4 ảnh CC BY 4.0 + 1 composite (PMC11163868, PMC10865071, tổng quan PMC12723156); flip #373 → xong; có mục **phản biện** chỗ mâu thuẫn tín hiệu MRI giữa hai nguồn (ngấm đều vs không ngấm).
-
-## Nhật ký 2026-10-26 (worker rad-backlog)
 - Viết **1619** (đau thần kinh sau mổ vú/ICBN): 6 ảnh + 1 composite (3 CC BY, 1 CC BY-NC-SA, 2 CC BY-NC-ND); nguồn chính PMC8534110/11666212/13459936/13124505/10849353.
 - Flip #375 (1619) → xong; append #415 (1651 frozen shoulder) + #416 (1652 pectoral minor syndrome); verify PASS 5/5.
 - 2026-10-26 — Viết **1651** (cứng khớp vai dính sau điều trị ung thư vú): 3 ảnh + 1 composite (PMC10201101 CC BY-NC 4.0 ×2, PMC8567438 CC BY-NC 4.0); lưu ý metadata Europe PMC ghi "cc by" nhưng bài gốc là **CC BY-NC 4.0**; flip #415 → xong.
 - 2026-10-26 — Viết **1652** (hội chứng cơ ngực bé/PMS): 4 ảnh CC BY 4.0 (PMC10426640), không tạo composite vì hình nguồn đã là chuỗi A/B/C khác tỷ lệ; flip #416 → xong; append #417 (1653 bao xơ implant) + #418 (1654 BIA-ALCL) — đã check_duplicates.
+- 2026-10-26 — Viết **1653** (co rút bao xơ implant + xơ hóa cơ ngực lớn): 3 ảnh CC BY 4.0 (PMC12286679 ×2, PMC10999057) + 1 composite; flip #417 → xong.
+- 2026-10-26 — Viết **1654** (dịch quanh implant muộn & BIA-ALCL): 3 ảnh CC BY 4.0 (PMC13668424) + 1 composite; flip #418 → xong; append #419 (1655 BIA-SCC) + #420 (1656 rách vỏ implant) — đã check_duplicates.
