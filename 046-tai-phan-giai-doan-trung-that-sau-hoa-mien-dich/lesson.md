@@ -179,6 +179,7 @@ flowchart TD
 - [022 – Khối phổi & TNM](../022-khoi-phoi-TNM/lesson.md)
 - [012 – Hạch trung thất IASLC](../012-hach-trung-that/lesson.md)
 - [016 – Nốt phổi ở bệnh nhân có tiền sử ung thư](../016-not-phoi-tien-su-ung-thu/lesson.md)
+- [085 – Độc tính miễn dịch quanh mổ sau hóa–miễn dịch ung thư phổi](../085-doc-tinh-mien-dich-quanh-mo-ung-thu-phoi/lesson.md)
 
 ## Ảnh
 - `images/046_PET-hach-truoc-dieu-tri_PETCT_PMC12893989.jpg` — CC BY 4.0.

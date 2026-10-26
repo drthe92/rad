@@ -152,6 +152,7 @@ flowchart TD
 - [022 – Khối phổi & TNM](../022-khoi-phoi-TNM/lesson.md)
 - [012 – Hạch trung thất](../012-hach-trung-that/lesson.md)
 - [013 – Hạch nội phổi & phân biệt hạch–nốt](../013-hach-noi-phoi/lesson.md)
+- [089 – Biến chứng & xử trí sau cryobiopsy trung thất qua EBUS](../089-bien-chung-sau-cryobiopsy-trung-that-ebus/lesson.md)
 
 ## Ảnh
 - `images/044_EBUS-TMC-technique_PMC13626287-Fig1-CCBY.jpg` — CC BY 4.0.

@@ -1,0 +1,31 @@
+# Nguồn gốc — 085 Độc tính miễn dịch quanh mổ sau hóa–miễn dịch ung thư phổi
+
+> Quét ngày 2026-10-26. Ưu tiên **Europe PMC FIG + OPEN_ACCESS:Y**; Radiopaedia/AuntMinnie **chỉ dẫn link**.
+> Từ khóa: `(ABSTRACT:"neoadjuvant") AND (ABSTRACT:"immune-related adverse events") AND (ABSTRACT:"non-small cell lung cancer") AND OPEN_ACCESS:Y`; `(ABSTRACT:"checkpoint inhibitor pneumonitis") AND (ABSTRACT:"CT") AND OPEN_ACCESS:Y`.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Dùng cho |
+|---|---|---|---|---|---|
+| 1 | JTO Clin Res Rep 2026 (PMC12767704) | Watanabe T et al. *Preoperative immune-related adverse events in resectable NSCLC treated with neoadjuvant nivolumab plus chemotherapy: a multicenter retrospective analysis* — 130 bệnh nhân, 29 trung tâm | https://pmc.ncbi.nlm.nih.gov/articles/PMC12767704/ | CC BY | irAE trước mổ 18,5%; hoàn thành chu kỳ 58,3% vs 92,5%; mổ 78,3%; R0 94,4%; MPR 38,9% vs 63,1%; pCR 27,8% vs 36,8%; khoảng cách tới mổ 66,5 vs 55 ngày; u > 3,8 cm OR 2,54 |
+| 2 | Oncologist 2025 (PMC12395253) | Naidoo J et al. *Management of severe immune-related adverse events and outcomes in patients with advanced NSCLC receiving ICIs* — 3211 bệnh nhân | https://pmc.ncbi.nlm.nih.gov/articles/PMC12395253/ | CC BY | irAE nặng 8,6%; viêm phổi 1,4%; nhập viện 57,4%; corticoid 71,8%; nguy cơ tử vong +53%/+61% (kết hợp, không nhân quả) |
+| 3 | Cancers 2026 (PMC13510335) | Codru IR, Vecerzan L. *Perioperative care of cancer patients treated with immune checkpoint inhibitors: a scoping review* — 33 nghiên cứu | https://pmc.ncbi.nlm.nih.gov/articles/PMC13510335/ | CC BY | Tiền sử ICI không làm tăng tử vong sau mổ nhất quán; độc tính giả biến chứng sau mổ; tầm soát tuyến giáp/thượng thận; hydrocortisone khi tụt HA kháng trị; thông khí bảo vệ phổi |
+| 4 | Surg Case Rep 2026 (PMC13044796) | Osako T, Shimamura A, Takuwa T. *Fatal postoperative interstitial lung disease after neoadjuvant nivolumab and complete resection for NSCLC* | https://pmc.ncbi.nlm.nih.gov/articles/PMC13044796/ | **CC BY 4.0** | Ca tử vong POD 25; ảnh Fig. 1 (CT trước/sau hóa–miễn dịch) và Fig. 2 (diễn tiến CRP + CT ngày 7/11/17) |
+| 5 | Front Oncol 2025 (PMC12623183) | Keller DM et al. *Fatal early-onset checkpoint inhibitor pneumonitis in advanced squamous-cell lung cancer with underlying fibrosis* | https://pmc.ncbi.nlm.nih.gov/articles/PMC12623183/ | **CC BY 4.0** | Ca CIP khởi phát sớm trên nền UIP; ảnh Fig. 1 (HRCT trước và 22 ngày sau pembrolizumab) |
+| 6 | Front Immunol 2025 (PMC12808464) | Shao Y et al. *Post-hoc analysis of real-world retrospective study on neoadjuvant chemotherapy combined with immunotherapy* | https://pmc.ncbi.nlm.nih.gov/articles/PMC12808464/ | CC BY | Bối cảnh hiệu quả/độ an toàn tân bổ trợ (không dùng số liệu chính) |
+| 7 | Transl Lung Cancer Res 2025 (PMC12688502) | Wu H et al. *Influence of neoadjuvant immunotherapy on surgical approaches in NSCLC: Chinese expert questionnaire* | https://pmc.ncbi.nlm.nih.gov/articles/PMC12688502/ | CC BY | Bối cảnh kỹ thuật mổ sau miễn dịch (không dùng số liệu chính) |
+| 8 | Surg Case Rep 2025 (PMC12099075) | Iguchi H et al. *Mycophenolate mofetil for steroid-refractory immune-related hepatitis and sclerosing cholangitis following neoadjuvant chemoimmunotherapy* | https://pmc.ncbi.nlm.nih.gov/articles/PMC12099075/ | CC BY | Ca minh họa irAE gan kháng corticoid (bối cảnh "độc tính cơ quan khác") |
+| 9 | Surg Case Rep 2025 (PMC12127077) | Kawagishi S et al. *Surgical management of destructive thyroiditis triggered by neoadjuvant ICI therapy in locally advanced NSCLC* | https://pmc.ncbi.nlm.nih.gov/articles/PMC12127077/ | CC BY | Ca minh họa viêm giáp phá hủy trước mổ |
+| 10 | J Immunother Cancer 2026 (PMC13599922) | *CT-based deep foundation model for predicting ICI-induced pneumonitis risk in lung cancer* | https://pmc.ncbi.nlm.nih.gov/articles/PMC13599922/ | CC BY | Hướng nghiên cứu dự báo CIP bằng CT (chưa dùng trong quyết định) |
+| 11 | ASCO Guideline Update 2021 | Schneider BJ et al. *Management of immune-related adverse events in patients treated with immune checkpoint inhibitor therapy: ASCO guideline update* — *J Clin Oncol* 2021 | https://pubmed.ncbi.nlm.nih.gov/?term=Management+of+Immune-Related+Adverse+Events+ASCO+guideline+update+2021 | không có ảnh (khuyến cáo) | **Liều corticoid theo độ CTCAE** (prednisone 1 mg/kg; methylprednisolone 1–2 mg/kg; giảm 4–6 tuần; infliximab/MMF khi kháng trị) — ghi rõ là **khuyến cáo**, không phải số liệu cohort |
+| 12 | CTCAE v5.0 (NCI) | Common Terminology Criteria for Adverse Events, version 5.0 | https://ctep.cancer.gov/protocoldevelopment/electronic_applications/ctc.htm | không có ảnh | Định nghĩa độ 1–4 của viêm phổi |
+| 13 | Radiopaedia | *Checkpoint inhibitor pneumonitis* — mô hình CT | https://radiopaedia.org/search?q=checkpoint+inhibitor+pneumonitis | chỉ dẫn link | không tải |
+| 14 | The Radiology Assistant | Tiếp cận GGO/viêm phổi mô kẽ | https://radiologyassistant.nl/ | chỉ dẫn link | không tải |
+| 15 | AuntMinnie (Case of the Day) | Ca phổi — **paywall, chỉ dẫn link** | https://www.auntminnie.com/ | cấm tải | không tải |
+| 16 | LearningRadiology | Pneumonitis/interstitial patterns — pattern recognition | https://learningradiology.com/ | chỉ dẫn link | không tải |
+| 17 | MedPix (NCI) | Ca CIP/ILD — tra "drug-induced lung disease" | https://medpix.nlm.nih.gov/ | miễn phí học tập | không tải |
+| 18 | Eurorad (ESR) | Ca phổi có bình duyệt | https://www.eurorad.org/ | giáo dục, ghi nguồn | không tải |
+
+## Ghi chú trung thực nguồn
+- Tên tác giả lấy trực tiếp từ `authorString` Europe PMC ngày 2026-10-26: Watanabe T, Naidoo J, Codru IR, Osako T, Keller DM, Shao Y, Wu H, Iguchi H, Kawagishi S.
+- **Liều corticoid và ngưỡng xử trí theo độ CTCAE là khuyến cáo ASCO 2021 + định nghĩa CTCAE v5.0**, không phải số liệu đo được từ cohort 130 bệnh nhân — bài ghi rõ trong mục 4.2.
+- Ngưỡng "corticoid ≤ 10 mg prednisone/ngày trước mổ chương trình" và "hydrocortisone liều stress" là **thực hành/khuyến cáo chung**, **chưa có RCT** cho riêng nhóm tân bổ trợ — bài ghi "chưa rõ".
+- Tỷ lệ irAE theo từng cơ quan, phân bố mô hình CT (OP/NSIP/HP/AIP) **không có số thống nhất giữa các nghiên cứu** — bài chỉ nêu tên mô hình, không gán % để tránh bịa số.
