@@ -733,3 +733,5 @@
 - 2026-10-26 — Viết **1652** (hội chứng cơ ngực bé/PMS): 4 ảnh CC BY 4.0 (PMC10426640), không tạo composite vì hình nguồn đã là chuỗi A/B/C khác tỷ lệ; flip #416 → xong; append #417 (1653 bao xơ implant) + #418 (1654 BIA-ALCL) — đã check_duplicates.
 - 2026-10-26 — Viết **1653** (co rút bao xơ implant + xơ hóa cơ ngực lớn): 3 ảnh CC BY 4.0 (PMC12286679 ×2, PMC10999057) + 1 composite; flip #417 → xong.
 - 2026-10-26 — Viết **1654** (dịch quanh implant muộn & BIA-ALCL): 3 ảnh CC BY 4.0 (PMC13668424) + 1 composite; flip #418 → xong; append #419 (1655 BIA-SCC) + #420 (1656 rách vỏ implant) — đã check_duplicates.
+- 2026-10-26 — Viết **1681** (di chứng muộn niệu–sinh dục ở bé gái sau chấn thương khung chậu): 3 ảnh (2 CC BY 4.0 PMC9634117, 1 CC BY-NC 4.0 PMC11751361) + 1 composite; flip #376 → xong; append #421 (1682 rò bàng quang–âm đạo ở trẻ).
+- 2026-10-26 — Viết **1701** (đường mổ u quái cùng cụt): 5 ảnh (3 CC BY 4.0 PMC11049684, 2 CC BY-NC-SA 4.0 PMC11968056) + 1 composite; flip #377 → xong; append #422 (1705 theo dõi chức năng sau cắt SCT); verify PASS 5/5 · 548 bài/548 card.
