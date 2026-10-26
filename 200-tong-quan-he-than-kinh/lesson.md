@@ -93,6 +93,7 @@ certainty: tong-hop-y-van
 - [254 – Giãn tủy sau chấn thương tủy sống: xấu đi sau ổn định, bóc dính/shunt](../254-gian-tuy-sau-chan-thuong-tuy-song/lesson.md) *(mới)*
 - [676 – RCVS ở trẻ em: bậc điều trị & theo dõi](../676-rcvs-tre-em-dieu-tri/lesson.md) *(đã có)*
 - [682 – Bệnh mạch máu não & quá tải sắt ở thalassemia/huyết tán khác: SCI, CVR (acetazolamide), T2*/QSM cho sắt đa cơ quan](../682-benh-mach-nao-qua-tai-sat-thalassemia/lesson.md) *(đã có)*
+- [1781 – Huyết khối xoang tĩnh mạch não ở trẻ thiếu máu/huyết tán: CVST + thiếu sắt/Lp(a), MRV/CTV, ngưỡng chống đông](../1781-huyet-khoi-tinh-mach-nao-tre-thieu-mau-huyet-tan/lesson.md) *(mới — nối 682/661/216)*
 - [1780 – Chọn kỹ thuật tái thông moyamoya ở trẻ: EDAS/EDAMS vs STA–MCA vs EDMS](../1780-chon-ky-thuat-tai-thong-moyamoya-o-tre/lesson.md) *(đã có)*
 - [207 – Phình mạch nội sọ chưa vỡ: PHASES/ELAPSS/UIATS, ngấm thành HR-vwMRI & quyết định điều trị](../207-phinh-mach-noi-so-chua-vo/lesson.md) *(mới)*
 

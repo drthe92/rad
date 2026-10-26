@@ -735,3 +735,5 @@
 - 2026-10-26 — Viết **1654** (dịch quanh implant muộn & BIA-ALCL): 3 ảnh CC BY 4.0 (PMC13668424) + 1 composite; flip #418 → xong; append #419 (1655 BIA-SCC) + #420 (1656 rách vỏ implant) — đã check_duplicates.
 - 2026-10-26 — Viết **1681** (di chứng muộn niệu–sinh dục ở bé gái sau chấn thương khung chậu): 3 ảnh (2 CC BY 4.0 PMC9634117, 1 CC BY-NC 4.0 PMC11751361) + 1 composite; flip #376 → xong; append #421 (1682 rò bàng quang–âm đạo ở trẻ).
 - 2026-10-26 — Viết **1701** (đường mổ u quái cùng cụt): 5 ảnh (3 CC BY 4.0 PMC11049684, 2 CC BY-NC-SA 4.0 PMC11968056) + 1 composite; flip #377 → xong; append #422 (1705 theo dõi chức năng sau cắt SCT); verify PASS 5/5 · 548 bài/548 card.
+- 2026-10-26 — Viết **1702** (túi niệu đạo sau tạo hình niệu đạo): 3 ảnh CC BY 4.0 (PMC11231625 ×2, PMC11165801) + 1 composite; số liệu nguy cơ từ PMC12124023 (CC BY-NC-ND — chỉ trích); flip #378 → xong; append #423 (1783 CVST sau chấn thương đầu) + #424 (1704 túi thừa bàng quang).
+- 2026-10-26 — Viết **1781** (CVST ở trẻ thiếu máu/huyết tán): 3 ảnh CC BY 4.0 (PMC11960503 ×2, PMC10196485) + 1 composite; phân tích gộp PMC13553567 (CC BY-NC-ND — chỉ trích); flip #375 → xong.
