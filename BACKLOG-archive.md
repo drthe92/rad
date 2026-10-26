@@ -726,3 +726,5 @@
 - 2026-10-25 — Bài **1600** (đánh giá ngực trước GACMS): 2 ảnh CC BY-NC-ND giữ nguyên bản (PMC13680890/PMC13016194); flip #369; append #423 (1621 di căn buồng trứng) + #424 (1648 di căn gan); sửa 3 ID trùng trong hàng chờ (1618→1645, 194→1646, 209→1647); verify 5/5 PASS, 537 bài/537 card.
 
 - 2026-10-25 — viết **1615** (di căn xương ung thư vú: lành hóa đặc xương vs tiến triển; RECIST 1.1/MDA/Mirels) + **1616** (ung thư vú thể viêm IBC/T4d): nguồn Europe PMC CC BY 4.0, 12 ảnh + 1 composite; flip #370/#371 → xong, append #977 (1639 đau xương) + #978 (1640 di căn màng não).
+- 2026-10-26 — Bài **933** (sốc phản vệ & PC-AKI do cản quang i-ốt): 5 ảnh + 1 composite, tất cả CC BY 4.0 (ESUR 2025 part 1/2 PMC12559081/PMC12559128, PC-AKI PMC11034108, thoát mạch PMC13233547); flip #372 → xong; append #425 (936 phản ứng da muộn/SCAR) + #426 (1650 gãy xương sườn–đòn sau xạ, ID 1626/1631 đã dùng nên đổi).
+- 2026-10-26 — Bài **1617** (RIBP – đám rối cánh tay do xạ): 4 ảnh CC BY 4.0 + 1 composite (PMC11163868, PMC10865071, tổng quan PMC12723156); flip #373 → xong; có mục **phản biện** chỗ mâu thuẫn tín hiệu MRI giữa hai nguồn (ngấm đều vs không ngấm).

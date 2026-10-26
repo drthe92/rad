@@ -1,0 +1,18 @@
+# Nguồn gốc — 933 (Sốc phản vệ & bệnh thận do thuốc cản quang i-ốt)
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / PMC12559081 | van der Molen AJ et al., *Eur Radiol* 2025 — ESUR Contrast Media Safety Committee, **Part 1**: quản lý phản ứng tức thời và muộn ở người lớn. Tần suất IHR với i-ốt **0,15–0,69%**, nặng **0,005–0,013%**; gadolinium **0,06–0,17%**/**0,003–0,006%**; thang xử trí nhẹ–vừa–nặng; **adrenaline 0,5 mg IM**; tryptase **1–4 giờ**; beta-blocker → glucagon/dobutamine | https://pmc.ncbi.nlm.nih.gov/articles/PMC12559081/ | CC BY 4.0 | `images/933_so-do-xu-tri_IHR_...Fig2...jpg`, `images/933_tac-dung-adrenaline_...Fig3...jpg` |
+| 2 | Europe PMC / PMC12559128 | van der Molen AJ et al., *Eur Radiol* 2025 — ESUR **Part 2**: dự phòng tái phát. **Không tiền mê thường quy**; đổi phân tử thuốc > tiền mê: tái phát **19%** (cùng thuốc + corticoid, 80/423) vs **3%** (đổi thuốc, 10/322), **OR 0,14 (0,06–0,33)**; đa biến **OR 0,329** (giảm 67,1%); vừa–nặng **OR 0,30** vs nhẹ **0,51**; phản ứng **không do i-ốt/gadolinium**; quan sát **≥ 30 phút** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12559128/ | CC BY 4.0 | `images/933_quy-trinh-sau-IHR_...Fig1...jpg`, composite |
+| 3 | Europe PMC / PMC11034108 | Li Y, Wang J., *BMC Nephrol* 2024 — tổng quan PC-AKI: định nghĩa KDIGO (**≥ 0,3 mg/dL/48 giờ** hoặc **≥ 1,5×/7 ngày**), ESUR 2018 (**eGFR < 45** động mạch, **< 30** tĩnh mạch), sinh bệnh (thiếu oxy tủy, độ nhớt, ROS), tỉ lệ **40%** ở bệnh thận mạn, **13%** phụ thuộc lọc máu, tử vong **7–31%**, tiêm lặp **48–72 giờ**, metformin không phải yếu tố nguy cơ | https://pmc.ncbi.nlm.nih.gov/articles/PMC11034108/ | CC BY 4.0 | `images/933_sinh-ben-CIAKI_...Fig1...jpg` |
+| 4 | Europe PMC / PMC10803418 | Somkereki C et al., *J Clin Med* 2023 — dự phòng CA-AKI trong thủ thuật: NaCl 0,9% **1 mL/kg/giờ** (12 giờ trước → 24 giờ sau) hoặc **0,5 mL/kg/giờ** khi EF ≤ 35%/suy tim NYHA > 2; bicarbonate không ưu việt (PRESERVE) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10803418/ | CC BY 4.0 (không dùng ảnh) | không |
+| 5 | Europe PMC / PMC13233547 | Yang L et al., *Radiol Case Rep* 2026 — ca thoát mạch nặng sau CCTA: 40 mL iohexol 350 mgI/mL @ 4 mL/s qua kim 20G mu tay; phát hiện nhờ **trễ ngấm thuốc thì động mạch**; diễn tiến bọng nước → hoại tử da → lành sau 27 ngày | https://pmc.ncbi.nlm.nih.gov/articles/PMC13233547/ | CC BY 4.0 | `images/933_hoai-tu-da-sau-thoat-mach_...Fig1...jpg` |
+| 6 | ACR | *ACR Manual on Contrast Media* 2024 — Extra: thoát mạch **0,1–1,2%** các mũi tiêm CT; biến chứng nặng **<< 1%** (hội chứng khoang hay gặp nhất); yếu tố nguy cơ; xử trí nâng chi, không có bằng chứng cho hút lại/hyaluronidase; tổn thương nặng sớm nhất **6 giờ** | https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Contrast-Manual | dẫn link | không |
+| 7 | ESUR / KDIGO | Đối chiếu ngưỡng eGFR và định nghĩa AKI (KDIGO 2012) — chỉ dẫn lại qua PMC11034108 | https://kdigo.org/guidelines/acute-kidney-injury/ | dẫn link | không |
+| 8 | AuntMinnie | (không quét — paywall, chỉ dẫn link) | https://www.auntminnie.com | chỉ dẫn link | không |
+
+## Ghi chú giấy phép
+- Ảnh **CC BY 4.0** (PMC12559081, PMC12559128, PMC11034108, PMC13233547): tải, dùng nguyên bản và ghép được — composite tạo bằng `tools/make_composite.py` (letterbox, giữ tỷ lệ, dải attribution).
+- Không có ảnh nào thuộc CC BY-NC-ND trong bài này.
+- Tên tác giả lấy trực tiếp từ `authorString` của Europe PMC theo PMCID (đối chiếu ngày 2026-10-26).
+- Số liệu ACR 2024 và KDIGO chỉ dẫn lại từ văn bản hướng dẫn (không tải PDF/ảnh), ghi rõ nguồn tại chỗ dùng.
