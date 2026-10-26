@@ -20,6 +20,7 @@ certainty: tong-hop-y-van
 | Ngấm muộn cơ tim (LGE pattern) | Cơ tim (myocardium) | Nhồi máu (dưới nội tâm mạc/xuyên thành theo lãnh thổ) vs viêm/sarcoid/DCM (giữa/dưới thượng tâm mạc) | Lake Louise 2018; ECV 25 ± 4%; TI sai = giả LGE | `820` |
 | Hẹp van ĐMC (TAVI planning) | Van ĐMC (aortic valve) | Hẹp van thoái hóa, van 2 lá, thấp | Annulus thì 30–40%; vành < 10–12 mm + xoang < 30 mm = tắc vành; ĐM đùi > 5,5–6 mm | `830` |
 | Phình ĐMC bụng & Endoleak (AAA/EVAR) | ĐMC bụng (abdominal aorta) | Endoleak I–V, nội mạc, PAD (TASC/GLASS) | Nam > 5,5 cm / nữ > 5,0 cm / > 0,5 cm-6th; CT 3 pha (muộn 70–120s); thiếu pha muộn = sót type II | `840`, `170` |
+| Hẹp mạch tầm trung: chuỗi hạt & hẹp khu trú (FMD) | Động mạch thận – cảnh trong – tạng – ĐMC (medium-sized arteries) | FMD đa ổ · FMD khu trú · xơ vữa (ostial) · Takayasu · loạn sản do NF1 · Williams/Alagille · SAM · RCVS · sóng đứng | **FMD thận 4–6%; hẹp hai bên 24–78% ở trẻ; bóc tách cảnh 13,9% (≥ 3 vùng mạch OR 2,49); phình nội sọ 7%; ĐMC 10%; nong bóng có lợi 48,5–100%, tái hẹp 17–41% (stent 35,5% vs 17,4% → tránh stent khi trẻ lớn)** | `850`, `931`, `247`, `248` |
 
 ## Bài liên quan chéo
 - [070 – PE & ĐMC cấp](../070-thuyen-tac-phoi-dmc-cap/lesson.md) *(giữ nguyên dải Ngực)*

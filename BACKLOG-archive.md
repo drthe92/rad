@@ -743,3 +743,5 @@
 - 2026-10-26: append 2 khoảng trống 1422 (hvKP không ổ gan) + 1423 (độc tính IT MTX) — đã check_duplicates.
 - 2026-10-26: viết 1795 (xuất huyết & CMB moyamoya ở trẻ) — 5 ảnh CC BY-NC/SA/ND, verify 5/5.
 - 2026-10-26: flip #379 → xong; append #429 (1797 xạ trị sọ) + #430 (1798 phân độ bàng hệ).
+- 2026-10-26: viết 850 (FMD toàn thân ở trẻ — 6 ảnh CC BY/CC BY-NC-ND) + 1796 (chylomicronemia trong thai — 4 ảnh CC BY-NC/ND).
+- 2026-10-26: flip #380/#381 → xong; append #405 (1903 thiếu máu mạc treo/SAM) + #406 (1811 MRI bụng cấp ở thai) — đã check_duplicates.
