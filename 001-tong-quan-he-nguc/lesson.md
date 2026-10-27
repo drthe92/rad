@@ -106,6 +106,8 @@ certainty: tong-hop-y-van
 - [046 – Tái phân giai đoạn trung thất sau hóa–miễn dịch & bệnh hạch tồn dư (ypN)](../046-tai-phan-giai-doan-trung-that-sau-hoa-mien-dich/lesson.md) *(mới: hạch > 5 mm/FDG sau điều trị, EBUS-TBNA vs TMC, ypN2a/N2b, giả tiến triển)*
 - [089 – Biến chứng & xử trí sau cryobiopsy trung thất qua EBUS](../089-bien-chung-sau-cryobiopsy-trung-that-ebus/lesson.md) *(mới: tràn khí trung thất 11,9%, chảy máu muộn, bậc thang cầm máu, adrenaline giả STEMI)*
 - [085 – Độc tính miễn dịch quanh mổ sau hóa–miễn dịch ung thư phổi](../085-doc-tinh-mien-dich-quanh-mo-ung-thu-phoi/lesson.md) *(mới: irAE trước mổ 18,5%, CIP/ARDS, suy thượng thận, CTCAE & corticoid)*
+- [091 – Ho ra máu ồ ạt & nút mạch động mạch phế quản](../091-ho-ra-mau-oat-nut-mach-dong-mach-phe-quan/lesson.md) *(mới: ngạt là nguyên nhân tử vong, CTA–DSA, NBSA 25%, tái phát 26 ngày, ho ra máu tĩnh mạch)*
+- [092 – Suy thượng thận & suy tuyến yên do ICI quanh mổ](../092-suy-thuong-than-suy-tuyen-yen-quanh-mo/lesson.md) *(mới: cortisol < 3 µg/dL, liều 100 mg + 200 mg/24h, MRI tuyến yên, xuất huyết thượng thận)*
 
 ## Quy hoạch toàn diện Hệ Ngực (Master Curriculum 001–080)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -123,6 +125,8 @@ certainty: tong-hop-y-van
 - 044 – Cryobiopsy trung thất qua EBUS (EBUS-TMC): đường hầm, probe 1,1 mm, freeze 3–5 giây, chỉ định lymphoma/sarcoidosis, biến chứng *(đã có — [bài học](../044-cryobiopsy-trung-that-EBUS/lesson.md))*
 - 089 – Biến chứng & xử trí sau cryobiopsy trung thất qua EBUS: tràn khí trung thất, chảy máu muộn, bậc thang cầm máu, adrenaline giả STEMI *(đã có — [bài học](../089-bien-chung-sau-cryobiopsy-trung-that-ebus/lesson.md))*
 - 085 – Độc tính miễn dịch quanh mổ sau hóa–miễn dịch: irAE trước mổ, CIP/ARDS, suy thượng thận, phân độ CTCAE & corticoid *(đã có — [bài học](../085-doc-tinh-mien-dich-quanh-mo-ung-thu-phoi/lesson.md))*
+- 091 – Ho ra máu ồ ạt & nút mạch động mạch phế quản: định nghĩa > 500 mL/24h, CTA ≤ 1 mm, NBSA, nhồi máu tủy, ho ra máu tĩnh mạch *(đã có — [bài học](../091-ho-ra-mau-oat-nut-mach-dong-mach-phe-quan/lesson.md))*
+- 092 – Suy thượng thận & suy tuyến yên do ICI quanh mổ: sàng lọc cortisol/ACTH, liều chu phẫu, MRI tuyến yên, xuất huyết thượng thận sau CABG *(đã có — [bài học](../092-suy-thuong-than-suy-tuyen-yen-quanh-mo/lesson.md))*
 
 **02x — Nốt, Khối & Hang**
 - [020 – Nốt phổi đơn độc](../020-not-phoi/lesson.md) *(đã có)*

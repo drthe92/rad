@@ -1,0 +1,29 @@
+# Nguồn gốc — 092 Suy thượng thận & suy tuyến yên do ức chế điểm kiểm soát miễn dịch quanh mổ
+
+> Quét ngày 2026-10-27. Ưu tiên **Europe PMC FIG + OPEN_ACCESS:Y**; Radiopaedia / AuntMinnie **chỉ dẫn link**.
+> Từ khóa: `FIG:"hypophysitis" AND FIG:"immune checkpoint" AND OPEN_ACCESS:Y`; `FIG:"adrenal insufficiency" AND FIG:"immune checkpoint inhibitor" AND OPEN_ACCESS:Y`; `TITLE:"adrenal crisis" AND TITLE:"perioperative" AND OPEN_ACCESS:Y`; `TITLE:"adrenal insufficiency" AND TITLE:"surgery" AND OPEN_ACCESS:Y`.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Dùng cho |
+|---|---|---|---|---|---|
+| 1 | J Clin Endocrinol Metab 2025 (PMC12712991) | Kamitani F, Nishioka Y, Nakajima H, et al. *Multiple or single endocrine abnormalities associated with immune checkpoint inhibitors* — 12 978 bệnh nhân | https://pmc.ncbi.nlm.nih.gov/articles/PMC12712991/ | CC BY 4.0 | Bất thường nội tiết đơn tuyến 12,0% / đa tuyến 1,4%; phối hợp hay gặp nhất suy giáp + suy thượng thận 1,3% |
+| 2 | Medicina (Kaunas) 2023 (PMC9864834) | Manosroi W, Atthakomol P. *Is preoperative adrenal insufficiency screening necessary for cardiovascular thoracic surgery patients?* — 98 bệnh nhân | https://pmc.ncbi.nlm.nih.gov/articles/PMC9864834/ | CC BY 4.0 | Suy thượng thận trước mổ 34,7%; ngưỡng cortisol < 3 µg/dL, vùng xám 3,1–14,9 µg/dL, test ACTH liều thấp 5 µg (đỉnh < 15 µg/dL); liều chu phẫu 100 mg + 200 mg/24h; tăng đường huyết OR 14,15 |
+| 3 | J Clin Med 2026 (PMC13163492) | Iglesias P. *Immune-mediated hypophysitis: an updated review* | https://pmc.ncbi.nlm.nih.gov/articles/PMC13163492/ | CC BY 4.0 | Thiếu ACTH 60–80% lúc chẩn đoán; tuyến yên to đều/cuống dày ở thể viêm; **PD-1/PD-L1 thường MRI bình thường**; ảnh sơ đồ Fig. 3 |
+| 4 | Cureus 2026 (PMC13211477) | Alasmar A, San SS, Ta T, Mani SE. *Central diabetes insipidus following steroid replacement for hypoadrenalism in pembrolizumab-induced hypophysitis* | https://pmc.ncbi.nlm.nih.gov/articles/PMC13211477/ | **CC BY 4.0** | Ca nguyên văn + MRI tuyến yên Fig. 1 (T2 + T1 sau tiêm) |
+| 5 | AACE Endocrinol Diabetes 2025 (PMC12744800) | Yeh H, Shrestha S, Corpuz KAH, Paudel S. *Bilateral adrenal hemorrhage and acute adrenal insufficiency secondary to HIT after CABG* | https://pmc.ncbi.nlm.nih.gov/articles/PMC12744800/ | **CC BY 4.0** | Ca nguyên văn: nam 56 tuổi, CABG, tiểu cầu 154 000 → 39 000/µL, CT thượng thận hai bên; tử vong BAH tới 27,8% (100% nếu không chẩn đoán); ảnh Fig. 1 |
+| 6 | Cureus 2025 (PMC12392692) | Gültekin A, Öner KB, Yıldırım İ, Arar C, Gürkan S. *Adrenal crisis: from perioperative clinic to diagnosis* | https://pmc.ncbi.nlm.nih.gov/articles/PMC12392692/ | **CC BY 4.0** | Ca sốc trong mổ bắc cầu chủ–đùi, tụt HA kháng vận mạch, **hạ K⁺** → suy thứ phát; methylprednisolone 75 mg giải quyết |
+| 7 | Endocrine 2021 (PMC7929907) | Nowotny H, Ahmed SF, Bensing S, et al. *Therapy options for adrenal insufficiency and recommendations for the management of adrenal crisis* | https://pmc.ncbi.nlm.nih.gov/articles/PMC7929907/ | **CC BY 4.0** | Liều cấp cứu người lớn/trẻ em; ảnh sơ đồ Fig. 3 |
+| 8 | Endocr Connect 2016 (PMC5314805) | Arlt W; Society for Endocrinology Clinical Committee. *Emergency management of acute adrenal insufficiency (adrenal crisis) in adult patients* | https://pmc.ncbi.nlm.nih.gov/articles/PMC5314805/ | CC BY-NC-ND | Hydrocortisone 100 mg bolus + 200 mg/24h (hoặc 50 mg mỗi 6h); NaCl 0,9% 1000 mL giờ đầu; fludrocortisone 100 µg khi HC < 50 mg/ngày |
+| 9 | Cancer Med 2026 (PMC13071169) | Nishihama K, Fujimoto H, Saito K, et al. *Endocrinologist-led management of endocrine immune-related adverse events: real-world evidence* | https://pmc.ncbi.nlm.nih.gov/articles/PMC13071169/ | CC BY-NC 4.0 | Liều duy trì hydrocortisone 10–20 mg/ngày; levothyroxine khởi đầu sau 5–7 ngày; ảnh Fig. 3 (liều thực tế) |
+| 10 | Ther Adv Endocrinol Metab 2019 (PMC6566489) | Dineen R, Thompson CJ, Sherlock M. *Adrenal crisis: prevention and management in adult patients* | https://pmc.ncbi.nlm.nih.gov/articles/PMC6566489/ | CC BY-NC 4.0 | Tần suất cơn suy thượng thận 8/100 bệnh nhân–năm; chẩn đoán muộn (47% triệu chứng > 1 năm) |
+| 11 | Radiopaedia | *Hypophysitis* / *Adrenal haemorrhage* — mẫu hình nền | https://radiopaedia.org/search?q=hypophysitis | chỉ dẫn link | không tải |
+| 12 | The Radiology Assistant | Tuyến yên — protocol MRI | https://radiologyassistant.nl/ | chỉ dẫn link | không tải |
+| 13 | AuntMinnie (Case of the Day) | Ca tuyến yên/thượng thận — **paywall, chỉ dẫn link** | https://www.auntminnie.com/ | cấm tải | không tải |
+| 14 | Eurorad (ESR) | Ca tuyến yên có bình duyệt | https://www.eurorad.org/ | giáo dục, ghi nguồn | không tải |
+
+## Ghi chú trung thực nguồn
+- Tên tác giả lấy trực tiếp từ `authorString` Europe PMC ngày 2026-10-27: Kamitani F; Manosroi W; Iglesias P; Alasmar A; Yeh H; Gültekin A; Nowotny H; Arlt W; Nishihama K; Dineen R.
+- **Ba bộ ngưỡng cortisol khác nhau** trong bài đến từ **ba nguồn khác nhau** (nghiên cứu trước mổ dùng test 5 µg; CIRCI dùng cortisol ngẫu nhiên < 10 µg/dL; hướng dẫn cấp cứu dùng test 250 µg với đỉnh 500 nmol/L) — bài ghi rõ nguồn từng ngưỡng, **không trộn** thành một con số duy nhất.
+- **Tỷ lệ hypophysitis theo từng loại ICI (CTLA-4 vs PD-1) chưa lấy được con số cụ thể từ nguồn mở trong lượt này** → bài chỉ nêu **xu hướng** (CTLA-4 và phối hợp cao hơn), không nêu %.
+- **Ngưỡng "adenoma < 10 HU"** là kiến thức kinh điển, **chưa đối chiếu nguồn trong lượt này** — đã ghi rõ trong bảng.
+- Tần suất **suy thượng thận đơn thuần do ICI** trong cohort 12 978 bệnh nhân **chưa trích được số riêng**; bài dùng số "một tuyến 12,0% / đa tuyến 1,4%" và "suy giáp + suy thượng thận 1,3%".
+- Không có RCT về **liều corticoid chu phẫu ở bệnh nhân dùng ICI**; khuyến cáo trong bài suy ra từ nghiên cứu sàng lọc trước mổ tim–lồng ngực + hướng dẫn cấp cứu, đã ghi rõ mức chắc chắn.

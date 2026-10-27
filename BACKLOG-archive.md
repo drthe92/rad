@@ -753,3 +753,5 @@
 
 - 2026-10-26: 089 (biến chứng EBUS-TMC; PM 11,9% vs 0,4%, chảy máu muộn 5 phút, adrenaline giả STEMI) + 085 (irAE quanh mổ; 18,5%, MPR 38,9% vs 63,1%, CIP tử vong POD 25) — verify PASS 5/5.
 - 2026-10-26: append #946 (090 suy thượng thận do ICI) + #947 (091 ho ra máu ồ ạt/nút mạch phế quản), đã check_duplicates.
+- 2026-10-27: 091 (ho ra máu ồ ạt/BAE; ngạt 6,5–38%, NBSA 25%, 98,76% vs 70,99%, tái phát 26 ngày) + 092 (suy thượng thận ICI quanh mổ; cortisol <3 µg/dL, 34,7%, HC 100+200 mg, BAH 27,8%) — verify PASS 5/5.
+- 2026-10-27: append #948 (093 SVCS/stent TM chủ trên) + #949 (094 phình giả Rasmussen/nút mạch phổi), đã check_duplicates; flip #946/#947 → xong.
