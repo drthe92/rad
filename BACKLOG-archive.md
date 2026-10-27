@@ -764,3 +764,5 @@
 - 2026-10-27: flip #388 (144 đã dùng → 1903)/#392 → xong; append #985 (1904 thuyên tắc phổi nhiễm khuẩn) + #986 (1905 an toàn thủ thuật PIPAC) — đã check_duplicates (exit 0).
 - 2026-10-27: xong **1620** (ứ nước thận & urinoma do u xơ cổ tử cung: 14,35% u xơ có ứ nước, 61,9% creatinine bình thường, 22,8% tắc niệu quản/114 ca, Cr 4,0→2,9→1,7, rút stent 3 tháng) + **1621** (ETT phổi: 30 ca, hCG trung vị 304 & 73,3% < 1.000, Ki-67 10–30% vs > 50%, 93,3% NED).
 - 2026-10-27: flip #389/#390 → xong; append #987 (1660 stent niệu quản lưu quên) + #988 (1661 lạc nội mạc niệu quản) — đã check_duplicates (exit 0).
+- 2026-10-27: xong **1640** (xoắn tử cung: > 45°/45–720°, ~2/3 xoay phải, 3/27 thai lưu, 8,6% không triệu chứng ở adenomyosis, MRI whirlpool + cổ tử cung lệch trục) + **1624** (polyp nhau: trung vị 33 ngày, hCG 3,5 mIU/mL, mạch 0–3+, TCR không UAE 2/3 băng huyết vs UAE 10/10 an toàn).
+- 2026-10-27: flip #391 (1622 đã dùng → 1640)/#393 → xong; append #978 (1657 AVM tử cung) + #979 (1658 vỡ tử cung sẹo mổ lấy thai); đổi ID hàng chờ trùng 1640 → 1659/1662 — đã check_duplicates.
