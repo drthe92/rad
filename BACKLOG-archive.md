@@ -777,3 +777,5 @@
 ## 2026-10-27 — lượt worker: 1901 + 1902
 - Viết **1901 Budd–Chiari** (PMC10341099 + PMC10137827, CC BY; 6 ảnh + composite) và **1902 CHE thể ẩn** (PMC9317893 + PMC11719456, CC BY; 4 ảnh + composite); thêm 2 hàng DDx vào bảng hệ Bụng, 2 dòng README, 2 card hub; flip #975/#976 → xong, append #977 (3002) + #978 (190).
 - Ghi chú: Europe PMC Search trả **503** trong lượt → dùng NCBI eutils để tìm/đọc full-text; ảnh tải qua endpoint `supplementaryFiles` (vẫn 200). Đã bổ sung `SPEC_OVERRIDE` cho 1620/1621/1624/1625/1640/1804/1807/3001 để `build_index.py` không gán nhầm tab "khac".
+- 2026-10-27 (worker): viết 3002 (VPL/VA sau VPS thất bại) + 190 (sỏi niệu trên & sỏi thận ghép ở bàng quang thần kinh); verify PASS 5/5, 585 bài/585 card; flip #397/#398, thêm #991 (3007 ETV) + #992 (3011 hẹp/rò niệu quản ghép).
+- Ảnh: 10 file từ 7 bài OA (PMC13437215, PMC2930656, PMC8236421, PMC11830242, PMC13685014, PMC13488056, PMC13340684); 3 file CC BY-NC-ND dùng nguyên bản, không composite.

@@ -1,0 +1,27 @@
+# Nguồn gốc — 190 Sỏi đường niệu trên & sỏi thận ghép ở bệnh nhân bàng quang thần kinh
+
+> Quét Europe PMC (`FIG:"neurogenic bladder" AND FIG:"stone"`, `TITLE_ABS:"neurogenic bladder" AND TITLE_ABS:"urolithiasis"`, `TITLE_ABS:"renal transplant" AND TITLE_ABS:"stone"`, `TITLE_ABS:"ultra-low-dose" AND TITLE_ABS:"urolithiasis"`) ngày 2026-10-27. Chỉ tải ảnh từ bài có giấy phép rõ ràng; tên tác giả đối chiếu `authorString` Europe PMC cùng ngày.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | J Clin Med (Breu B et al. 2025) | Perioperative Outcomes of Ureteroscopy in Patients with Anatomical Anomalies of the Urinary Tract and Neurogenic Bladder: A Retrospective Comparative Study | https://europepmc.org/article/MED/PMC12610729 · PMCID PMC12610729 | CC BY 4.0 | không tải ảnh (chỉ dùng số liệu: nhiễm trùng sau URS 33,3% vs 4,0%) |
+| 2 | BJUI Compass (Heijkoop B et al. 2023) | PCNL in neurogenic bladder: A challenging population for both clinical management and analysis | https://europepmc.org/article/MED/PMC10560620 · PMCID PMC10560620 | CC BY 4.0 | không tải ảnh (nguy cơ sỏi SCI 7–20%/10 năm; 52 ca PCNL; biến chứng Clavien–Dindo) |
+| 3 | J Clin Med (Solano C et al. 2024) | Comprehensive Approaches to Urolithiasis in Renal Transplants: A Narrative Review | https://europepmc.org/article/MED/PMC11278228 · PMCID PMC11278228 | CC BY 4.0 | không tải ảnh (dịch tễ 0,1–6,3%; vị trí sỏi; SFR PCNL 76,9–100%; fURS 60–67%) |
+| 4 | BJUI Compass (Sandberg M et al. 2024) | Renal transplant nephrolithiasis: Presentation, management and follow-up with control comparisons | https://europepmc.org/article/MED/PMC11479801 · PMCID PMC11479801 | CC BY 4.0 | không tải ảnh (128/8.835 = 1,4%; 6,2 năm; 5,7 mm; PCNL thành công 60%) |
+| 5 | Cureus (Ahmadi M et al. 2026) | Bilateral Staghorn Calculi With Stent Encrustation in a Patient With an Ileal Conduit Requiring Staged Endourological Procedures: A Case Report | https://europepmc.org/article/MED/PMC13685014 · PMCID PMC13685014 | CC BY 4.0 | `images/190_staghorn-ileal-conduit_CT_PMC13685014-Fig1.jpg`, `images/190_staghorn-ileal-conduit_CTU_PMC13685014-Fig4.jpg` |
+| 6 | Radiol Case Rep (Montatore M et al. 2026) | Bladder multilithiasis across different clinical scenarios: Multimodality imaging findings, differential diagnosis, and complication assessment in 4 patients | https://europepmc.org/article/MED/PMC13488056 · PMCID PMC13488056 | CC BY-NC-ND 4.0 | `images/190_soi-bang-quang_US_PMC13488056-Fig1.jpg`, `images/190_soi-bang-quang_CT_PMC13488056-Fig5.jpg` |
+| 7 | Int J Surg Case Rep (Purwanto HPA et al. 2026) | Ex vivo retrograde stone removal in donor kidneys using an ultra-mini nephroscope prior to renal transplantation in Indonesia: a case series | https://europepmc.org/article/MED/PMC13340684 · PMCID PMC13340684 | CC BY-NC-ND 4.0 | `images/190_soi-than-ghep_CT_PMC13340684-Fig4.jpg` |
+| 8 | Diagnostics (Niehoff JH et al. 2023) | Clinical Low-Dose Photon-Counting CT for the Detection of Urolithiasis: Radiation Dose Reduction Is Possible without Compromising Image Quality | https://europepmc.org/article/MED/PMC9914353 · PMCID PMC9914353 | CC BY 4.0 | không tải ảnh (SSDE 4,57 → 3,53 mGy; phát hiện 91,3–100%) |
+| 9 | Eur Radiol (Jendeberg J et al. 2021) | Single-energy CT predicts uric acid stones with accuracy comparable to dual-energy CT | https://europepmc.org/article/MED/PMC8270827 · PMCID PMC8270827 | CC BY 4.0 | không tải ảnh (maxHU Se 92%/Sp 94%; phương pháp định lượng 100%/97%) |
+| 10 | Asian J Urol (Baralo B et al. 2020) | Percutaneous kidney stone surgery and radiation exposure: A review | https://europepmc.org/article/MED/PMC6962710 · PMCID PMC6962710 | CC BY-NC-ND 4.0 | không tải ảnh (20% bệnh nhân sỏi vượt nền ~17 lần) |
+| 11 | Urol Int (Sandberg M et al. 2024) | Bladder Stones in Renal Transplant Patients: Presentation, Management, and Follow-up | https://europepmc.org/article/MED/PMC11449172 · PMCID PMC11449172 | CC BY-NC 4.0 | không tải ảnh (đối chiếu sỏi bàng quang ở người ghép thận) |
+| 12 | The Radiology Assistant | Urolithiasis / urinary tract | https://radiologyassistant.nl/ | dẫn link | không tải (ảnh theo điều khoản trang) |
+| 13 | Radiopaedia.org | Staghorn calculus (cases) | https://radiopaedia.org/search?q=staghorn+calculus | CC BY-NC-SA (từng ca) | không tải (đã đủ ảnh Europe PMC) |
+| 14 | AuntMinnie | Case of the Day — urolithiasis | https://www.auntminnie.com/ | paywall — **chỉ dẫn link** | **không tải** |
+
+## Ghi chú giấy phép
+- Ảnh **CC BY-NC-ND 4.0** (PMC13488056, PMC13340684) dùng **nguyên bản** — không crop, không ghép.
+- Ảnh **CC BY 4.0** (PMC13685014) dùng nguyên bản; bài **không có composite** vì trộn giấy phép ND.
+- Số liệu đọc từ **bài gốc** (Results/Discussion), không lấy từ abstract: 52 ca PCNL (bỏ cuộc 15%, urosepsis 15,9%, LOS 6,6 ngày), 128/8.835 ca sỏi thận ghép, URS nhiễm trùng 33,3% vs 4,0%.
+- **Kiểm chứng tác giả:** Breu B (PMC12610729), Heijkoop B (PMC10560620), Solano C (PMC11278228), Sandberg M (PMC11479801 và PMC11449172), Ahmadi M (PMC13685014), Montatore M (PMC13488056), Purwanto HPA (PMC13340684), Niehoff JH (PMC9914353), Jendeberg J (PMC8270827), Baralo B (PMC6962710) — đối chiếu `authorString` Europe PMC ngày 2026-10-27.
+- Số **chưa rõ** đã ghi rõ trong bài: **SFR của PCNL trong nhóm bàng quang thần kinh không được báo cáo** trong nguồn đã đọc (Heijkoop B et al. chỉ nêu "có thể thấp hơn dân số chung"); ngưỡng thể tích bàng quang/áp lực để chọn CIC không nằm trong phạm vi bài này.
