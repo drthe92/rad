@@ -798,3 +798,5 @@
 - 2026-10-27 · worker: viết **3028** (vá sọ sau mở sọ giảm áp: MBSC 43 ca/8 sống, biến chứng 25–50%, ≤ 90 ngày SMD 0,52, tháng đầu tử vong RR 2,9) + **3029** (ARIA: ARIA-E 12,6%/24,0%, ARIA-H 17,3%/31,4%, APOE ε4/ε4 32,6%, loại trừ > 4 vi chảy máu/cSS); 8 ảnh CC BY −NC/−ND; verify 5/5 · 603 bài/603 card; flip #1009/#1010, append #1011 (3030 SDH mạn) + #1012 (3031 PRES).
 
 - 2026-10-27 · worker: viết **3030** (CSDH: ngưỡng > 10 mm/> 5 mm, tồn dư ≥ 19 HU OR 1,9, màng ngoài 74% vs màng trong 42%, EMBOLISE 4,1% vs 11,3%, STEM 16% vs 36%) + **3031** (PRES: ADC tăng, xuất huyết 17%, thể trung tâm 13%, MAP 105–125); 8 ảnh CC BY −NC/−ND; verify 5/5 · 605 bài/605 card; flip #1011/#1012, append #1013 (3032 NPH) + #1014 (3033 Wernicke).
+- 2026-10-27: viết **3032** (iNPH: DESH, EI/z-EI/góc thể chai, tap 30 mL, PENS 2025, quá dẫn lưu) + **3033** (Wernicke: thể vú–quanh cống, Caine, MRI Se 53%, liều thiamin).
+- 2026-10-27: ảnh 4+4 (CC BY/CC BY-NC/CC BY-NC-ND); loại hình đáy mắt PMC7335288 vì in lại từ Elsevier ngoài giấy phép CC; flip 1013/1014, thêm 3034/3035.
