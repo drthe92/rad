@@ -793,3 +793,4 @@
 ## 2026-10-27 — lượt worker (3024, 3025)
 - Viết **3024** (chọc dò quanh tiêu sợi huyết & lấy huyết khối) + **3025** (đảo ngược kháng đông trong ICH); 3 + 2 ảnh (CC BY 4.0 ×4, CC BY-NC-ND ×1) — **không tạo composite** vì có ảnh ND.
 - Nguồn mới đáng chú ý: ANNEXA-I hậu kiểm NCCT (PMC13688066), meta spot sign (PMC13433554), bảng liều + **andexanet rút khỏi Mỹ 22/12/2025** (PMC13110298), guideline Nhật 2019 (PMC6923159); INCH/PATCH chỉ trích abstract.
+- 2026-10-27 · worker: viết 3026 (tụt não nghịch lý, 429 ca/13 PH, ICP 1–3 mmHg) + 3027 (CAA, Boston 2.0 Se 74,8%/Sp 84,6%, tái phát 7,4–8,5%/năm, LAAO HR 0,33); 7 ảnh CC BY; verify 5/5 · 601 bài/601 card.
