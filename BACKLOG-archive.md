@@ -785,3 +785,7 @@
 2026-10-27 · verify PASS 5/5 · 588 bài/588 card · flip #993/#994→xong; append #995 (3014 PDPH) + #996 (3015 FBSS) đã check_duplicates.
 - 2026-10-27 — Viết **3014** (PDPH: blood patch 70–90%, tái phát 26,8%, ONSD Δ0,40 mm; 3 ca SDH 0,34 cm / khí nội sọ / liệt dây VI) + **3015** (FBSS 26,7%; sẹo xơ 28% vs đĩa 26%; ASD mổ lại 8%; mổ lại hết đau 70%).
 - 2026-10-27 — Flip #995/#996 → xong; append #997 (3016 SIH) + #998 (3017 gãy nén loãng xương) đã check_duplicates.
+
+## Nhật ký worker — 2026-10-27 (lượt 3016/3017)
+- Viết 3016 (SIH: Bern 6 hạng mục, CTM động định vị 95,7%/ngực trên 70%, SIH-EBP ≥ 3 → 80% vs 41,7%, type 3 mổ ngay) + 3017 (STIR cấp vs mạn, Genant, 9 RCT 1.116 ca KP ≈ VP & ít rò hơn, 425 ca VP rò 45,4%, 4 ca gãy bệnh lý nhầm OVF); 9 ảnh + 2 composite, CC BY 4.0 / CC BY-NC 4.0.
+- Verify PASS 5/5 (592 bài / 592 card, parity 0); append #999 (3018 IIH người lớn) + #1000 (3019 thuyên tắc phổi do cement) — đã check_duplicates.
