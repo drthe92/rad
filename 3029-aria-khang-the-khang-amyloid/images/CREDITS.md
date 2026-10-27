@@ -1,0 +1,15 @@
+# CREDITS — ảnh bài 3029 (ARIA khi dùng kháng thể kháng amyloid)
+
+Mỗi ảnh ghi rõ: file trong repo, hình gốc, bài gốc (PMCID), giấy phép, thay đổi phái sinh (nếu có).
+
+| File | Hình gốc | Bài gốc | Giấy phép | Phái sinh |
+|---|---|---|---|---|
+| `3029_aria-the_MRI-PMC13063504-F1.jpg` | Figure 1 — “A Illustration of ARIA subtypes. ARIA-E occurs as interstitial edema and/or sulcal effusion. ARIA-H is characterized by parenchymal microbleeds and/or superficial siderosis… B: representative MRI (a–d).” | Alzheimers Res Ther 2026, PMCID **PMC13063504** — https://europepmc.org/article/PMC/PMC13063504 | **CC BY 4.0** | Tải nguyên bản (JPEG), **không crop**, giữ nguyên ô A và 4 ảnh a–d |
+| `3029_aria-e-va-aria-h_FLAIR-SWI-PMC13099593-F2.jpg` | Figure 2 — “Examples of ARIA-E and ARIA-H. Patient 1 (A, B) with moderate ARIA-E (effusion, edema) and moderate ARIA-H (siderosis). (A) FLAIR MRI demonstrates hyperintense bilateral occipital and left posterior temporal sulcal effusions and left occipital vasogenic edema. (B) Corresponding susceptibility-weighted imaging (SWI) has bilateral linear hypointensities, consistent with superficial siderosis (white arrows)… Patient 2 (C, D) with mild ARIA-E and mild ARIA-H…” | Alzheimer's Dement 2026, PMCID **PMC13099593** — https://europepmc.org/article/PMC/PMC13099593 | **CC BY 4.0** | Tải nguyên bản (JPEG), **không crop**, giữ nguyên 2 bệnh nhân (A–D) |
+| `3029_aria-dang-dot-quy_CT-MRI-PMC13099593-F3.jpg` | Figure 3 — “Example of amyloid-related imaging abnormalities presenting with stroke-like symptoms in a patient undergoing anti-amyloid immunotherapy. A woman in her early 70s… (A) Non-contrast head CT demonstrated left frontal subarachnoid hemorrhage (arrow) and left parietal vasogenic edema with cortical sparing. (B) …hypodensity between 5 and 12 Hounsfield units (HU)… (C) On CTA, a 60% to 75% decrease in blood vessel density in the left middle cerebral artery distribution…” | Alzheimer's Dement 2026, PMCID **PMC13099593** — https://europepmc.org/article/PMC/PMC13099593 | **CC BY 4.0** | Tải nguyên bản (JPEG), **không crop**, giữ nguyên 6 ô A–F |
+| `3029_gre-vs-swi_T2star-SWI-PMC13575324-F2.webp` | Figure 2 — “GRE (right) and SWI (left) microhemorrhage counts in a 69-year-old man undergoing lecanemab eligibility assessment. While GRE images (arrows) show one and two microhemorrhages as counted by Rater 2 and Rater 3, respectively, SWI reveals a total of seven microhemorrhages, consistently detected by both raters…” | Alzheimers Dement (DADM) 2026, PMCID **PMC13575324** — https://europepmc.org/article/PMC/PMC13575324 | **CC BY-NC 4.0** | Tải nguyên bản (**WebP**), **không crop**, giữ nguyên cột GRE và SWI cùng số đếm của hai người đọc |
+
+## Ghi chú
+- 3 ảnh **CC BY 4.0**, 1 ảnh **CC BY-NC 4.0** — tất cả cho phép tải và hiển thị khi ghi công, dùng cho mục đích học tập phi thương mại.
+- **Không tạo ảnh composite**: mỗi ảnh đã chứa nhiều ô so sánh, ghép lại sẽ làm mất chi tiết và vi phạm yêu cầu giữ nguyên chú thích.
+- Tên tác giả **không** ghi trong file ảnh; attribution dùng **tạp chí + năm + PMCID** (đối chiếu Europe PMC ngày 2026-10-27).
