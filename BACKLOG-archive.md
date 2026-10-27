@@ -762,3 +762,5 @@
 - 2026-10-27: flip #357/#358 → xong; append #983 (098 barotrauma thở máy) + #984 (3008 trật chuỗi xương con) — đã check_duplicates (exit 0).
 - 2026-10-27: xong **1903** (theo dõi sau CRS/HIPEC & PIPAC: PCI 13 vùng 0–39, PCI ≥ 20 khó cắt hết, CCR-1 < 2,5 mm, CT sót nốt < 1 cm Se 9,1–50%, PIPAC 3.224 lần PRGS ≤ 2 = 57/72/75%, sống thêm 12,5 tháng, DC ≥ 3b 0,7%) + **1623** (POVT: 0,02–0,18%/0,1–2%, phải ~90%, CT không cản quang 45,5 vs 30,1 HU ngưỡng 36 HU, lan 40%, D-dimer 2.780,5, tái phát 3,49%, tái thông 89,4%) — verify PASS 5/5, 573 bài/573 card, parity 0.
 - 2026-10-27: flip #388 (144 đã dùng → 1903)/#392 → xong; append #985 (1904 thuyên tắc phổi nhiễm khuẩn) + #986 (1905 an toàn thủ thuật PIPAC) — đã check_duplicates (exit 0).
+- 2026-10-27: xong **1620** (ứ nước thận & urinoma do u xơ cổ tử cung: 14,35% u xơ có ứ nước, 61,9% creatinine bình thường, 22,8% tắc niệu quản/114 ca, Cr 4,0→2,9→1,7, rút stent 3 tháng) + **1621** (ETT phổi: 30 ca, hCG trung vị 304 & 73,3% < 1.000, Ki-67 10–30% vs > 50%, 93,3% NED).
+- 2026-10-27: flip #389/#390 → xong; append #987 (1660 stent niệu quản lưu quên) + #988 (1661 lạc nội mạc niệu quản) — đã check_duplicates (exit 0).
