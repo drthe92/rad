@@ -796,3 +796,5 @@
 - 2026-10-27 · worker: viết 3026 (tụt não nghịch lý, 429 ca/13 PH, ICP 1–3 mmHg) + 3027 (CAA, Boston 2.0 Se 74,8%/Sp 84,6%, tái phát 7,4–8,5%/năm, LAAO HR 0,33); 7 ảnh CC BY; verify 5/5 · 601 bài/601 card.
 
 - 2026-10-27 · worker: viết **3028** (vá sọ sau mở sọ giảm áp: MBSC 43 ca/8 sống, biến chứng 25–50%, ≤ 90 ngày SMD 0,52, tháng đầu tử vong RR 2,9) + **3029** (ARIA: ARIA-E 12,6%/24,0%, ARIA-H 17,3%/31,4%, APOE ε4/ε4 32,6%, loại trừ > 4 vi chảy máu/cSS); 8 ảnh CC BY −NC/−ND; verify 5/5 · 603 bài/603 card; flip #1009/#1010, append #1011 (3030 SDH mạn) + #1012 (3031 PRES).
+
+- 2026-10-27 · worker: viết **3030** (CSDH: ngưỡng > 10 mm/> 5 mm, tồn dư ≥ 19 HU OR 1,9, màng ngoài 74% vs màng trong 42%, EMBOLISE 4,1% vs 11,3%, STEM 16% vs 36%) + **3031** (PRES: ADC tăng, xuất huyết 17%, thể trung tâm 13%, MAP 105–125); 8 ảnh CC BY −NC/−ND; verify 5/5 · 605 bài/605 card; flip #1011/#1012, append #1013 (3032 NPH) + #1014 (3033 Wernicke).
