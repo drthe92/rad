@@ -785,3 +785,5 @@
 - Verify PASS 5/5 (592 bài / 592 card, parity 0); append #999 (3018 IIH người lớn) + #1000 (3019 thuyên tắc phổi do cement) — đã check_duplicates.
 - Viết 3018 (IIH: OP > 25 cm CSF; OCT RNFL 301 µm / TRT 949→542 µm; IIH tối cấp 2–3% stent < 48 giờ; hẹp xoang 90% không stent chỉ vì hẹp) + 3019 (cement PE: > 500 HU dạng nhánh; PCE 17,2% trên CT; thể tích > 7 cc 0,9%; T9/azygos/IVC OR; trung tâm vs ngoại vi); 9 ảnh, CC BY 4.0 / CC BY-NC-ND 4.0.
 - Verify PASS 5/5 (594 bài / 594 card, parity 0); append #1001 (3020 chọc dò dưới hướng dẫn) + #1002 (3021 tăng áp lực nội sọ thứ phát) — đã check_duplicates.
+- 2026-10-27 · 3020 chọc dò tủy sống khó dưới hướng dẫn (siêu âm/fluoro/CT): 2 ảnh CC BY 4.0 + 1 composite; RCT 91% vs 100%, CT 98,3%/1,74–2,22 mSv.
+- 2026-10-27 · 3021 tăng áp lực nội sọ thứ phát (thuốc/thiếu máu/OSA): tetracycline OR 2,40, thiếu máu 47,5%, OSA 42,4%; flip 1001/1002, append 3022/3023.
