@@ -755,3 +755,5 @@
 - 2026-10-26: append #946 (090 suy thượng thận do ICI) + #947 (091 ho ra máu ồ ạt/nút mạch phế quản), đã check_duplicates.
 - 2026-10-27: 091 (ho ra máu ồ ạt/BAE; ngạt 6,5–38%, NBSA 25%, 98,76% vs 70,99%, tái phát 26 ngày) + 092 (suy thượng thận ICI quanh mổ; cortisol <3 µg/dL, 34,7%, HC 100+200 mg, BAH 27,8%) — verify PASS 5/5.
 - 2026-10-27: append #948 (093 SVCS/stent TM chủ trên) + #949 (094 phình giả Rasmussen/nút mạch phổi), đã check_duplicates; flip #946/#947 → xong.
+- 2026-10-27: xong **093** (SVCS: CTV, Stanford–Doty, Kishi, covered stent) + **094** (Rasmussen/PAP: Laplace, Shin A–D, coil/stent-assisted) — verify PASS 5/5, 567 bài/567 card, parity 0.
+- 2026-10-27: flip #948/#949 → xong; append #979 (095 hẹp TM trung tâm ở lọc máu) + #980 (096 phình ĐM phổi thật/Hughes–Stovin) — đã check_duplicates (exit 0).
