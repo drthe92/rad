@@ -757,3 +757,5 @@
 - 2026-10-27: append #948 (093 SVCS/stent TM chủ trên) + #949 (094 phình giả Rasmussen/nút mạch phổi), đã check_duplicates; flip #946/#947 → xong.
 - 2026-10-27: xong **093** (SVCS: CTV, Stanford–Doty, Kishi, covered stent) + **094** (Rasmussen/PAP: Laplace, Shin A–D, coil/stent-assisted) — verify PASS 5/5, 567 bài/567 card, parity 0.
 - 2026-10-27: flip #948/#949 → xong; append #979 (095 hẹp TM trung tâm ở lọc máu) + #980 (096 phình ĐM phổi thật/Hughes–Stovin) — đã check_duplicates (exit 0).
+- 2026-10-27: xong **1803** (OSA ở trẻ bệnh phổi mạn: OAHI > 1, BPD 34%, PH 5,9% hồi phục 12 tuần, HB AUC 0,888) + **1805** (cai ống: 25%/tuần, ngưỡng 10%, 72,5% cai nhưng chỉ 36,4% đủ năng lượng) — flip #386/#349 → xong; #349 đổi ID 086 → 1805 (dải 001–099 là ngực).
+- 2026-10-27: append #981 (1812 OSA tồn dư sau cắt amidan ở Down/béo phì) + #982 (1813 rò da–dạ dày tồn tại sau rút ống) — đã check_duplicates (exit 0).
