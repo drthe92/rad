@@ -766,3 +766,7 @@
 - 2026-10-27: flip #389/#390 → xong; append #987 (1660 stent niệu quản lưu quên) + #988 (1661 lạc nội mạc niệu quản) — đã check_duplicates (exit 0).
 - 2026-10-27: xong **1640** (xoắn tử cung: > 45°/45–720°, ~2/3 xoay phải, 3/27 thai lưu, 8,6% không triệu chứng ở adenomyosis, MRI whirlpool + cổ tử cung lệch trục) + **1624** (polyp nhau: trung vị 33 ngày, hCG 3,5 mIU/mL, mạch 0–3+, TCR không UAE 2/3 băng huyết vs UAE 10/10 an toàn).
 - 2026-10-27: flip #391 (1622 đã dùng → 1640)/#393 → xong; append #978 (1657 AVM tử cung) + #979 (1658 vỡ tử cung sẹo mổ lấy thai); đổi ID hàng chờ trùng 1640 → 1659/1662 — đã check_duplicates.
+
+## 2026-10-27 — lượt worker: 1625 + 3001
+- Viết **1625** (EAF sau bụng mở ở trẻ; 4 ảnh: 3 CC BY-NC + 1 CC BY; nguồn PMC12319319/PMC10638526/PMC10932196/PMC7855170) và **3001** (hẹp lỗ thông Mitrofanoff; 2 ảnh CC BY, PMC12933896 + số liệu PMC9472303); verify PASS 5/5, 579 bài / 579 card.
+- Flip #394/#396 → xong; append #404 (3009 dò bàng quang–ruột) + #405 (3010 hẹp miệng nối niệu quản–bàng quang); lưu ý: ID đề xuất 173 (IAAD) và 1903 đã bị chiếm, cần đổi ID trước khi viết.

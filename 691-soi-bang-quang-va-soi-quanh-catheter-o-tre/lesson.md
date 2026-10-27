@@ -179,6 +179,7 @@ flowchart TD
 - [635 – Dị tật tiết niệu nhi: SFU, VUR, PUV](../635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md)
 - [668 – Theo dõi sau tháo căng tủy & bàng quang thần kinh](../668-theo-doi-sau-thao-cang-tuy-bang-quang-than-kinh/lesson.md)
 - [677 – Chăm sóc ống dẫn lưu trên xương mu ở trẻ](../677-cham-soc-ong-dan-luu-tren-xuong-mu-o-tre/lesson.md)
+- [3001 – Hẹp lỗ thông Mitrofanoff ở trẻ: channelogram phân tầng hẹp, ống giãn dư không phải hẹp](../3001-hep-lo-thong-mitrofanoff-o-tre/lesson.md)
 - [252 – Biến chứng muộn của shunt não thất](../252-bien-chung-muon-cua-shunt-nao-that/lesson.md) (khi shunt đổ vào bàng quang)
 
 ## Ảnh

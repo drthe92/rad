@@ -178,7 +178,8 @@ flowchart TD
 </details>
 
 ## Bài liên quan chéo
-- [646 – Hội chứng khoang bụng ở trẻ](../646-hoi-chung-khoang-bung-o-tre/lesson.md) (bước trước: đo IAP, phân độ, chỉ định mổ giải áp)
+- [646 – Hội chứng khoang bụng ở trẻ](../646-hoi-chung-khoang-bung-o-tre/lesson.md)
+- [1625 – Rò ruột–khí quyển (EAF) sau bụng mở ở trẻ: biến chứng của chính bụng mở kéo dài](../1625-ro-ruot-khi-quen-o-tre/lesson.md) (bước SAU của bài này) (bước trước: đo IAP, phân độ, chỉ định mổ giải áp)
 - [649 – Khi trung thất hoại tử & sinh khí ở trẻ](../649-khi-trung-that-hoai-tu-va-sinh-khi-o-tre/lesson.md) (cùng nhóm nhiễm hoại tử, cần mổ lại)
 - [640 – Khớp háng nhi: DDH, Perthes, SCFE & NAT](../640-khop-hang-nhi-DDH-Perthes-SCFE-va-NAT/lesson.md)
 - [644 – Phục hồi chức năng hô hấp & chuyển tiếp ở trẻ](../644-phuc-hoi-chuc-nang-ho-hap-va-chuyen-tiep-o-tre/lesson.md)
