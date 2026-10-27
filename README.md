@@ -63,6 +63,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 083 | [Nuôi ăn qua sonde & mở thông dạ dày ở trẻ: biến chứng mạn, kiểm tra vị trí & xử trí](083-nuoi-an-qua-sonde/lesson.md) | `pattern:bien-chung-ong-nuoi` `vung:da-day` `vung:thanh-bung` `score:ASPEN` `protocol:kiem-tra-vi-tri` `protocol:contrast-study` `incidentaloma:pneumoperitoneum` `incidentaloma:buried-bumper` |
 | 084 | [Viêm phổi thở máy (VAP): X-quang/CT, cấy định lượng & bó dự phòng vi hít sặc ở ICU](084-viem-phoi-tho-may/lesson.md) | `pattern:dong-dac` `pattern:hang` `vung:phoi` `score:CPIS` `protocol:X-quang-tai-giuong` `protocol:CT-lat-mong` `protocol:cay-dinh-luong` `incidentaloma:xep-phoi` |
 | 087 | [Viêm phổi do hít dầu hỏa/hydrocarbon ở trẻ: cơ chế hoá học, mốc thời gian trên phim & ba việc không được làm](087-viem-phoi-hit-dau-hoa-hydrocarbon/lesson.md) | `pattern:dong-dac` `pattern:thamnhiem` `vung:phoi` `protocol:X-quang-som` `protocol:CT-nguc` `incidentaloma:khong` |
+| 088 | [Áp-xe phổi & mủ màng phổi sau viêm phổi thở máy (VAP): ngưỡng dẫn lưu, tiêu sợi huyết & khi nào mổ](088-apxe-phoi-mu-mang-phoi-sau-vap/lesson.md) | `pattern:hang` `pattern:mu-mang-phoi` `pattern:tran-dich-khu-tru` `vung:phoi` `vung:mang-phoi` `score:Light-criteria` `protocol:CT-nguc-can-quang` `protocol:dan-luu-mang-phoi` |
 
 ## Quy ước
 Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nhãn: ca nguyên văn / tổng hợp y văn / suy luận.
@@ -306,6 +307,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 250 | [Lao nội tủy & lao màng tủy: dấu bia (vòng ngấm + lõi tối), T2 tối do bã đậu; RIPE dài ngày ± corticoid, mổ khi xấu nhanh](250-lao-noi-tuy-va-lao-mang-tuy/lesson.md) | `pattern:khang-ngam-vong` `pattern:viem-tuy` `vung:tuy-song` `protocol:MRI-tuy-co-gadolinium` `protocol:MRI-nao-tuong-phan` |
 | 254 | [Giãn tủy sau chấn thương tủy sống: xấu đi sau giai đoạn ổn định, khoang T2 = DNT; bóc dính, S-S bypass, shunt](254-gian-tuy-sau-chan-thuong-tuy-song/lesson.md) | `pattern:gian-tuy` `pattern:viem-tuy` `vung:tuy-song` `protocol:MRI-tuy-co-gadolinium` `protocol:MRI-dong-hoc-csf` |
 | 657 | [Dị tật hố sau: Joubert & rhombencephalosynapsis](657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) | `pattern:di-dang-ho-sau` `pattern:rang-ham` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
+| 208 | [Rò dịch não tủy qua xương đá ở trẻ: chảy dịch tai, viêm màng não tái diễn & khi nào vá](208-ro-dich-nao-tuy-xuong-da/lesson.md) | `pattern:ro-dich-nao-tuy` `pattern:vo-xuong-da` `pattern:chay-dich-tai` `vung:xuong-thai-duong` `vung:tai-giua` `score:House-Brackmann` `protocol:HRCT-lat-mong` `protocol:MRI-T2-CISS` |
 
 ## Hệ Cơ – Xương – Khớp (dải 300, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |

@@ -57,6 +57,7 @@ certainty: tong-hop-y-van
 | **Hạch trung thất tồn dư sau hóa–miễn dịch** | Trung thất – rốn phổi | Di căn tồn dư (ypN+), xơ–hyalin hóa sau điều trị, phản ứng dạng sarcoid do ICI, giả tiến triển, lao/nấm | **Hạch > 5 mm trục ngắn + còn FDG = phải chọc lại**; teo + vôi + không FDG = xơ; **đối xứng 2 bên + bối cảnh ICI = sarcoid-like**; **ΔSUVmax ≥ 53,1%** = giả tiến triển | [046](../046-tai-phan-giai-doan-trung-that-sau-hoa-mien-dich/lesson.md) |
 | **Hẹp/tắc tĩnh mạch chủ trên** (SVCS) | Trung thất trước | U xâm lấn (K phổi tế bào nhỏ, lymphoma), huyết khối quanh catheter/đầu dây, xơ hóa trung thất, hẹp sau xạ, bướu giáp sau xương ức, phình/bóc tách ĐMC | **Diện tích SVC < 1,07 cm²**; **khuyết thuốc + dị vật trong lòng = huyết khối**; mô mềm ép từ ngoài = u; **triệu chứng KHÔNG tương quan % hẹp khi đã có bàng hệ** | [093](../093-hoi-chung-tinh-mach-chu-tren/lesson.md) |
 | **Túi cản quang trong hang/nốt + ho ra máu** | Phổi (thùy trên) | Rasmussen trong hang lao, phình giả sau hoại tử/aspergillus, iatrogenic, phình thật ĐM phổi, phình ĐM phế quản | **Túi nối nhánh ĐM phổi = Rasmussen**; **28,6% không thấy trên chụp ĐM phổi** → phải chụp hệ thống; **túi ≥ 8 mm + hang ≥ 30 mm + mPAP cao = nguy cơ vỡ** | [094](../094-phinh-gia-rasmussen-nut-mach-dong-mach-phoi/lesson.md) |
+| **Hang có mức khí–dịch / tụ dịch khu trú sau VAP** | Phổi + khoang màng phổi (vùng phụ thuộc) | Áp-xe phổi · mủ màng phổi · tràn dịch cạnh phổi phức tạp · viêm phổi hoại tử · lao/nấm · xẹp phổi | **Mức khí–dịch dài BẰNG NHAU trên 2 bình diện + góc nhọn = áp-xe**; **split pleura + góc tù + vỏ ≥ 2 cm = mủ màng phổi**; **pH < 7,2 = dẫn lưu**; **hang ≥ 4 cm + tiếp xúc 1/3 ngoài = dẫn lưu xuyên thành** | [088](../088-apxe-phoi-mu-mang-phoi-sau-vap/lesson.md) |
 
 ## Bài liên quan chéo
 - [048 – Hội chứng lồng ngực không đủ (TIS) & VEPTR: SAL, nong 6 tháng/lần, thời điểm ngừng](../048-hoi-chung-long-nguc-khong-du-tis-veptr/lesson.md) *(mới)*
@@ -67,6 +68,7 @@ certainty: tong-hop-y-van
 - [082 – Bại não & an toàn nuốt ở trẻ: GMFCS, VFSS/FEES & ngưỡng chuyển sang ống](../082-bai-nao-an-toan-nuot/lesson.md) *(mới)*
 - [084 – Viêm phổi thở máy (VAP): X-quang/CT, cấy định lượng & bó dự phòng vi hít sặc](../084-viem-phoi-tho-may/lesson.md) *(mới)*
 - [087 – Viêm phổi do hít dầu hỏa/hydrocarbon ở trẻ: cơ chế hoá học, mốc thời gian & ba việc không được làm](../087-viem-phoi-hit-dau-hoa-hydrocarbon/lesson.md) *(mới)*
+- [088 – Áp-xe phổi & mủ màng phổi sau VAP: ngưỡng dẫn lưu, tPA–DNase & khi nào mổ](../088-apxe-phoi-mu-mang-phoi-sau-vap/lesson.md) *(mới)*
 - [079 – Tràn dịch dưỡng trấp (chylothorax): TG 110, lymphangiography & bậc thang điều trị](../079-tran-dich-duong-trap-chylothorax/lesson.md) *(mới)*
 - [049 – Theo dõi dài hạn sau cắt thùy phổi bẩm sinh ở trẻ](../049-theo-doi-sau-cat-thuy-phoi-bam-sinh/lesson.md) *(mới)*
 - [047 – Vẹo cột sống & biến dạng lồng ngực sau mở ngực ở trẻ](../047-veo-cot-song-sau-mo-nguc/lesson.md) *(mới)*
