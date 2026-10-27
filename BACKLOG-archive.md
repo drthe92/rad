@@ -783,3 +783,5 @@
 2026-10-27 · flip #399→xong; append #993/#994 (3012 neuraxial abscess, 3013 cauda equina hậu phẫu) đã check_duplicates.
 2026-10-27 · worker: viết 3012 (áp-xe ngoài màng cứng sau catheter, ca PMC8128129 + đối chứng pneumorrhachis PMC13455440; 4 ảnh) + 3013 (đuôi ngựa hậu phẫu: PMC13508563/PMC12975604/PMC13348372; 5 ảnh).
 2026-10-27 · verify PASS 5/5 · 588 bài/588 card · flip #993/#994→xong; append #995 (3014 PDPH) + #996 (3015 FBSS) đã check_duplicates.
+- 2026-10-27 — Viết **3014** (PDPH: blood patch 70–90%, tái phát 26,8%, ONSD Δ0,40 mm; 3 ca SDH 0,34 cm / khí nội sọ / liệt dây VI) + **3015** (FBSS 26,7%; sẹo xơ 28% vs đĩa 26%; ASD mổ lại 8%; mổ lại hết đau 70%).
+- 2026-10-27 — Flip #995/#996 → xong; append #997 (3016 SIH) + #998 (3017 gãy nén loãng xương) đã check_duplicates.
