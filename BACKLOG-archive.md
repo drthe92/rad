@@ -781,3 +781,5 @@
 - Ảnh: 10 file từ 7 bài OA (PMC13437215, PMC2930656, PMC8236421, PMC11830242, PMC13685014, PMC13488056, PMC13340684); 3 file CC BY-NC-ND dùng nguyên bản, không composite.
 2026-10-27 · worker: viết 258 (áp-xe ngoài màng cứng từ loét cùng cụt; ca PMC11178510, 3 ảnh MRI + 1 ảnh loét CC BY 4.0) — verify trước commit.
 2026-10-27 · flip #399→xong; append #993/#994 (3012 neuraxial abscess, 3013 cauda equina hậu phẫu) đã check_duplicates.
+2026-10-27 · worker: viết 3012 (áp-xe ngoài màng cứng sau catheter, ca PMC8128129 + đối chứng pneumorrhachis PMC13455440; 4 ảnh) + 3013 (đuôi ngựa hậu phẫu: PMC13508563/PMC12975604/PMC13348372; 5 ảnh).
+2026-10-27 · verify PASS 5/5 · 588 bài/588 card · flip #993/#994→xong; append #995 (3014 PDPH) + #996 (3015 FBSS) đã check_duplicates.
