@@ -787,3 +787,5 @@
 - Verify PASS 5/5 (594 bài / 594 card, parity 0); append #1001 (3020 chọc dò dưới hướng dẫn) + #1002 (3021 tăng áp lực nội sọ thứ phát) — đã check_duplicates.
 - 2026-10-27 · 3020 chọc dò tủy sống khó dưới hướng dẫn (siêu âm/fluoro/CT): 2 ảnh CC BY 4.0 + 1 composite; RCT 91% vs 100%, CT 98,3%/1,74–2,22 mSv.
 - 2026-10-27 · 3021 tăng áp lực nội sọ thứ phát (thuốc/thiếu máu/OSA): tetracycline OR 2,40, thiếu máu 47,5%, OSA 42,4%; flip 1001/1002, append 3022/3023.
+- 2026-10-27 · 3022 chọc dò tủy sống trên nền kháng đông/rối loạn đông máu: 2 ảnh CC BY 4.0 + 1 composite; máu tụ 0,20% vs 0,23% nhưng chọc ra máu 36,8–43,7% khi INR ≥ 1,5; 37 ca máu tụ trong màng cứng (54% < 24 giờ, 54,1% ở ngực); tiểu cầu AABB 50/Anh 40/Đức 20.
+- 2026-10-27 · Verify PASS 5/5 (597 bài / 597 card, parity 0, legacy warn 15); flip #1003 → xong, append #1005 (3024 LP quanh rTPA) + #1006 (3025 đảo ngược kháng đông trong XHN) — đã check_duplicates.
