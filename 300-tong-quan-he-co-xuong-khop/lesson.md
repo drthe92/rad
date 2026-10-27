@@ -55,6 +55,7 @@ certainty: tong-hop-y-van
 - [302 – Nang sán xương & cột sống ở trẻ](../302-nang-san-xuong-cot-song-o-tre/lesson.md) *(mới — tiêu xương "chùm nho", không màng xương, Braithwaite–Lees, không sinh thiết qua da)*
 - [1615 – Di căn xương ở ung thư vú: đặc xương lành hóa vs tiến triển (RECIST 1.1 / MDA / Mirels)](../1615-di-can-xuong-ung-thu-vu-lanh-hoa-vs-tien-trien/lesson.md) *(mới — bẫy "trắng thêm", flare, ngưỡng gãy xương)*
 - [3017 – Gãy nén đốt sống do loãng xương: STIR cấp vs mạn, chỉ định bơm xi măng, rò cement](../3017-gay-nen-dot-song-loang-xuong-vertebroplasty/lesson.md) *(mới — Genant, cờ đỏ gãy bệnh lý, phân bố cement)*
+- [3019 – Thuyên tắc phổi do xi măng sau bơm đốt sống: CT > 500 HU dạng nhánh, trung tâm vs ngoại vi, chống đông – lấy dị vật](../3019-thuyen-tac-phoi-do-xi-mang-cement/lesson.md) *(mới — biến chứng của 3017; nối 091/094)*
 
 ## Quy hoạch Master Curriculum Hệ Cơ – Xương – Khớp (300–380)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.

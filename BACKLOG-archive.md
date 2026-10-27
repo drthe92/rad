@@ -766,14 +766,10 @@
 - 2026-10-27: flip #389/#390 → xong; append #987 (1660 stent niệu quản lưu quên) + #988 (1661 lạc nội mạc niệu quản) — đã check_duplicates (exit 0).
 - 2026-10-27: xong **1640** (xoắn tử cung: > 45°/45–720°, ~2/3 xoay phải, 3/27 thai lưu, 8,6% không triệu chứng ở adenomyosis, MRI whirlpool + cổ tử cung lệch trục) + **1624** (polyp nhau: trung vị 33 ngày, hCG 3,5 mIU/mL, mạch 0–3+, TCR không UAE 2/3 băng huyết vs UAE 10/10 an toàn).
 - 2026-10-27: flip #391 (1622 đã dùng → 1640)/#393 → xong; append #978 (1657 AVM tử cung) + #979 (1658 vỡ tử cung sẹo mổ lấy thai); đổi ID hàng chờ trùng 1640 → 1659/1662 — đã check_duplicates.
-
 ## 2026-10-27 — lượt worker: 1625 + 3001
 - Viết **1625** (EAF sau bụng mở ở trẻ; 4 ảnh: 3 CC BY-NC + 1 CC BY; nguồn PMC12319319/PMC10638526/PMC10932196/PMC7855170) và **3001** (hẹp lỗ thông Mitrofanoff; 2 ảnh CC BY, PMC12933896 + số liệu PMC9472303); verify PASS 5/5, 579 bài / 579 card.
 - Flip #394/#396 → xong; append #404 (3009 dò bàng quang–ruột) + #405 (3010 hẹp miệng nối niệu quản–bàng quang); lưu ý: ID đề xuất 173 (IAAD) và 1903 đã bị chiếm, cần đổi ID trước khi viết.
-
-## Nhật ký worker
 - 2026-10-27: viết **1804** (suy giáp tiêu thụ D3 lạc vị, thể không có khối gan) + **1807** (bóc tách ĐMC bụng do chấn thương/sau thủ thuật, ID 173 đã dùng → đổi 1807); flip #395/#396; append #989 (1815), #990 (1816); sửa ID #962 1807→1814 để tránh trùng.
-
 ## 2026-10-27 — lượt worker: 1901 + 1902
 - Viết **1901 Budd–Chiari** (PMC10341099 + PMC10137827, CC BY; 6 ảnh + composite) và **1902 CHE thể ẩn** (PMC9317893 + PMC11719456, CC BY; 4 ảnh + composite); thêm 2 hàng DDx vào bảng hệ Bụng, 2 dòng README, 2 card hub; flip #975/#976 → xong, append #977 (3002) + #978 (190).
 - Ghi chú: Europe PMC Search trả **503** trong lượt → dùng NCBI eutils để tìm/đọc full-text; ảnh tải qua endpoint `supplementaryFiles` (vẫn 200). Đã bổ sung `SPEC_OVERRIDE` cho 1620/1621/1624/1625/1640/1804/1807/3001 để `build_index.py` không gán nhầm tab "khac".
@@ -785,7 +781,7 @@
 2026-10-27 · verify PASS 5/5 · 588 bài/588 card · flip #993/#994→xong; append #995 (3014 PDPH) + #996 (3015 FBSS) đã check_duplicates.
 - 2026-10-27 — Viết **3014** (PDPH: blood patch 70–90%, tái phát 26,8%, ONSD Δ0,40 mm; 3 ca SDH 0,34 cm / khí nội sọ / liệt dây VI) + **3015** (FBSS 26,7%; sẹo xơ 28% vs đĩa 26%; ASD mổ lại 8%; mổ lại hết đau 70%).
 - 2026-10-27 — Flip #995/#996 → xong; append #997 (3016 SIH) + #998 (3017 gãy nén loãng xương) đã check_duplicates.
-
-## Nhật ký worker — 2026-10-27 (lượt 3016/3017)
 - Viết 3016 (SIH: Bern 6 hạng mục, CTM động định vị 95,7%/ngực trên 70%, SIH-EBP ≥ 3 → 80% vs 41,7%, type 3 mổ ngay) + 3017 (STIR cấp vs mạn, Genant, 9 RCT 1.116 ca KP ≈ VP & ít rò hơn, 425 ca VP rò 45,4%, 4 ca gãy bệnh lý nhầm OVF); 9 ảnh + 2 composite, CC BY 4.0 / CC BY-NC 4.0.
 - Verify PASS 5/5 (592 bài / 592 card, parity 0); append #999 (3018 IIH người lớn) + #1000 (3019 thuyên tắc phổi do cement) — đã check_duplicates.
+- Viết 3018 (IIH: OP > 25 cm CSF; OCT RNFL 301 µm / TRT 949→542 µm; IIH tối cấp 2–3% stent < 48 giờ; hẹp xoang 90% không stent chỉ vì hẹp) + 3019 (cement PE: > 500 HU dạng nhánh; PCE 17,2% trên CT; thể tích > 7 cc 0,9%; T9/azygos/IVC OR; trung tâm vs ngoại vi); 9 ảnh, CC BY 4.0 / CC BY-NC-ND 4.0.
+- Verify PASS 5/5 (594 bài / 594 card, parity 0); append #1001 (3020 chọc dò dưới hướng dẫn) + #1002 (3021 tăng áp lực nội sọ thứ phát) — đã check_duplicates.
