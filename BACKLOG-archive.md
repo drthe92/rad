@@ -779,3 +779,5 @@
 - Ghi chú: Europe PMC Search trả **503** trong lượt → dùng NCBI eutils để tìm/đọc full-text; ảnh tải qua endpoint `supplementaryFiles` (vẫn 200). Đã bổ sung `SPEC_OVERRIDE` cho 1620/1621/1624/1625/1640/1804/1807/3001 để `build_index.py` không gán nhầm tab "khac".
 - 2026-10-27 (worker): viết 3002 (VPL/VA sau VPS thất bại) + 190 (sỏi niệu trên & sỏi thận ghép ở bàng quang thần kinh); verify PASS 5/5, 585 bài/585 card; flip #397/#398, thêm #991 (3007 ETV) + #992 (3011 hẹp/rò niệu quản ghép).
 - Ảnh: 10 file từ 7 bài OA (PMC13437215, PMC2930656, PMC8236421, PMC11830242, PMC13685014, PMC13488056, PMC13340684); 3 file CC BY-NC-ND dùng nguyên bản, không composite.
+2026-10-27 · worker: viết 258 (áp-xe ngoài màng cứng từ loét cùng cụt; ca PMC11178510, 3 ảnh MRI + 1 ảnh loét CC BY 4.0) — verify trước commit.
+2026-10-27 · flip #399→xong; append #993/#994 (3012 neuraxial abscess, 3013 cauda equina hậu phẫu) đã check_duplicates.
