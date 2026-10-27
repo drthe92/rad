@@ -770,3 +770,6 @@
 ## 2026-10-27 — lượt worker: 1625 + 3001
 - Viết **1625** (EAF sau bụng mở ở trẻ; 4 ảnh: 3 CC BY-NC + 1 CC BY; nguồn PMC12319319/PMC10638526/PMC10932196/PMC7855170) và **3001** (hẹp lỗ thông Mitrofanoff; 2 ảnh CC BY, PMC12933896 + số liệu PMC9472303); verify PASS 5/5, 579 bài / 579 card.
 - Flip #394/#396 → xong; append #404 (3009 dò bàng quang–ruột) + #405 (3010 hẹp miệng nối niệu quản–bàng quang); lưu ý: ID đề xuất 173 (IAAD) và 1903 đã bị chiếm, cần đổi ID trước khi viết.
+
+## Nhật ký worker
+- 2026-10-27: viết **1804** (suy giáp tiêu thụ D3 lạc vị, thể không có khối gan) + **1807** (bóc tách ĐMC bụng do chấn thương/sau thủ thuật, ID 173 đã dùng → đổi 1807); flip #395/#396; append #989 (1815), #990 (1816); sửa ID #962 1807→1814 để tránh trùng.
