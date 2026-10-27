@@ -750,7 +750,6 @@
 2026-10-26 (worker): viết 6108 (MRONJ ở trẻ: 1 ca/1.284, 0/178; AAOMS 0–3; ngưng thuốc 2 tháng/6–12 tháng) + 6107 (THA ≤ 30 tuổi: 8 năm 4,6%, Perthes HR 4,3; cup tantalum xương đã xạ). Verify PASS 5/5 (560 bài/560 card); append 6109 (bệnh xương cứng) + 6110 (PJI sau THA).
 - 2026-10-26 · bài 414 (glaucoma & nhãn cầu nhỏ trong PFV/CFPM): 5 ảnh (2 CC BY, 3 CC BY-NC-ND), UBM độ I–III, van Ahmed 83,8%; verify 5/5; append 415 (microphthalmia–coloboma) + 416 (dị tật tiền phòng).
 - 2026-10-26 · ghi chú: hàng 417/ID 1643 (glaucoma sau mổ đục TTT bẩm sinh) vẫn chờ — 414 chỉ phủ nhánh PFV, không viết trùng.
-
 - 2026-10-26: 089 (biến chứng EBUS-TMC; PM 11,9% vs 0,4%, chảy máu muộn 5 phút, adrenaline giả STEMI) + 085 (irAE quanh mổ; 18,5%, MPR 38,9% vs 63,1%, CIP tử vong POD 25) — verify PASS 5/5.
 - 2026-10-26: append #946 (090 suy thượng thận do ICI) + #947 (091 ho ra máu ồ ạt/nút mạch phế quản), đã check_duplicates.
 - 2026-10-27: 091 (ho ra máu ồ ạt/BAE; ngạt 6,5–38%, NBSA 25%, 98,76% vs 70,99%, tái phát 26 ngày) + 092 (suy thượng thận ICI quanh mổ; cortisol <3 µg/dL, 34,7%, HC 100+200 mg, BAH 27,8%) — verify PASS 5/5.
@@ -761,3 +760,5 @@
 - 2026-10-27: append #981 (1812 OSA tồn dư sau cắt amidan ở Down/béo phì) + #982 (1813 rò da–dạ dày tồn tại sau rút ống) — đã check_duplicates (exit 0).
 - 2026-10-27: xong **088** (áp-xe/mủ màng phổi sau VAP: hình học 2 bình diện, TOLA ≥ 4 cm, pH < 7,2, tPA–DNase 6 liều, IET mổ 11,5% vs 23,4%) + **208** (rò DNT xương đá: OCV 26,7% → OR 5,1/3,6, chảy dịch tai 44%, vá khi > 10 ngày) — verify PASS 5/5, 571 bài/571 card, parity 0.
 - 2026-10-27: flip #357/#358 → xong; append #983 (098 barotrauma thở máy) + #984 (3008 trật chuỗi xương con) — đã check_duplicates (exit 0).
+- 2026-10-27: xong **1903** (theo dõi sau CRS/HIPEC & PIPAC: PCI 13 vùng 0–39, PCI ≥ 20 khó cắt hết, CCR-1 < 2,5 mm, CT sót nốt < 1 cm Se 9,1–50%, PIPAC 3.224 lần PRGS ≤ 2 = 57/72/75%, sống thêm 12,5 tháng, DC ≥ 3b 0,7%) + **1623** (POVT: 0,02–0,18%/0,1–2%, phải ~90%, CT không cản quang 45,5 vs 30,1 HU ngưỡng 36 HU, lan 40%, D-dimer 2.780,5, tái phát 3,49%, tái thông 89,4%) — verify PASS 5/5, 573 bài/573 card, parity 0.
+- 2026-10-27: flip #388 (144 đã dùng → 1903)/#392 → xong; append #985 (1904 thuyên tắc phổi nhiễm khuẩn) + #986 (1905 an toàn thủ thuật PIPAC) — đã check_duplicates (exit 0).
