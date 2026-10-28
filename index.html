@@ -21,6 +21,10 @@ button{cursor:pointer}
 .tabs,.chips{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0}
 .tab,.chip{border:1px solid var(--line);background:var(--card);color:var(--fg);padding:6px 10px;border-radius:20px;font-size:13px}
 .tab.on,.chip.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+#chips{display:none}
+#chips.show{display:flex}
+.tab .n{font-size:11px;opacity:.65;margin-left:3px;font-variant-numeric:tabular-nums}
+.tab.on .n{opacity:.9}
 .row{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0;align-items:center}
 select{padding:8px;font-size:14px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg);max-width:100%}
 #count{font-size:13px;color:var(--muted)}
@@ -52,13 +56,24 @@ footer{margin-top:24px;font-size:13px;color:var(--muted)}
 <header class="sticky">
 <h1>rad.matcauvong.com — Thư viện Chẩn đoán hình ảnh thực chiến</h1>
 <p class="sub">Hub tra cứu 4 chiều (616 bài): (1) Mẫu hình + Vị trí · (2) Phân độ &amp; điểm · (3) Giải phẫu &amp; biến thể · (4) Protocol &amp; tình cờ. Việt hóa 100% — thuật ngữ Anh trong ngoặc ở lần đầu.</p>
+<div class="row">
+<select id="fChieu"><option value="">— Lọc chiều 1–4 —</option><option value="pattern">1. Mẫu hình+Vị trí</option><option value="score">2. Phân độ &amp; điểm</option><option value="anatomy">3. Giải phẫu &amp; biến thể</option><option value="protocol">4. Protocol &amp; tình cờ</option></select>
+<select id="fLearn" title="Lọc theo tiến độ học — tick ✓ trên mỗi thẻ để đánh dấu"><option value="">🎓 Tiến độ: tất cả</option><option value="no">📖 Chưa học</option><option value="yes">✅ Đã học</option></select>
+<select id="fOverview" title="Nhảy nhanh tới bài tổng quan của từng hệ"><option value="">📚 Bài tổng quan hệ (10)</option><option value="view.html?b=001-tong-quan-he-nguc&f=lesson.md">001 · Hệ Ngực</option><option value="view.html?b=100-tong-quan-he-bung&f=lesson.md">100 · Hệ Bụng</option><option value="view.html?b=200-tong-quan-he-than-kinh&f=lesson.md">200 · Hệ Thần kinh</option><option value="view.html?b=300-tong-quan-he-co-xuong-khop&f=lesson.md">300 · Hệ Cơ – Xương – Khớp</option><option value="view.html?b=400-tong-quan-mat-thi-giac&f=lesson.md">400 · Mắt &amp; thị giác</option><option value="view.html?b=500-tong-quan-vu-san-phu-khoa&f=lesson.md">500 · Hệ Vú &amp; Sản Phụ khoa</option><option value="view.html?b=600-tong-quan-nhi-khoa&f=lesson.md">600 · Hệ Nhi khoa</option><option value="view.html?b=700-head-neck-overview&f=lesson.md">700 · Đầu Mặt Cổ &amp; mạc cổ sâu</option><option value="view.html?b=800-cardiovascular-overview&f=lesson.md">800 · Tim mạch</option><option value="view.html?b=901-ir-overview&f=lesson.md">901 · Điện quang Can thiệp</option></select>
+<button class="iconbtn" id="reset">✖ Xóa lọc</button>
+<button class="iconbtn" id="expLearn" title="Xuất tiến độ đã học dạng base64 để dùng ở trình duyệt khác">⤓ Xuất</button>
+<button class="iconbtn" id="impLearn" title="Nhập tiến độ đã học (base64) — hợp nhất với hiện tại">⤒ Nhập</button>
+<button class="iconbtn" id="clearLearn" title="Xóa toàn bộ đánh dấu đã học">🗑 Xóa</button>
+<span id="syncMsg" class="syncmsg"></span>
+<span id="count"></span> <span id="progress"></span>
+</div>
 <div class="searchrow">
 <input id="q" placeholder="Tìm tức thì: số ID, tên Việt/Anh, tag… (vd: 230, TI-RADS, Bosniak, nốt phổi)" autocomplete="off">
 <button class="iconbtn" id="theme" title="Chế độ Sáng/Tối">🌓</button>
 <button class="iconbtn" id="viewbtn" title="Chuyển Thẻ/Bảng">📋</button>
 </div>
 </header>
-<div class="tabs" id="tabs"><button class="tab on" data-spec="">🌐 Tất cả</button><button class="tab" data-spec="nguc">🫁 Ngực 000–099</button><button class="tab" data-spec="bung">🩺 Bụng 100–199</button><button class="tab" data-spec="thankinh">🧠 TK & Cổ 200–299</button><button class="tab" data-spec="msk">🦴 MSK 300–399</button><button class="tab" data-spec="mat">👁️ Mắt 400–499</button><button class="tab" data-spec="vuspk">🌸 Vú & SPK 500–599</button><button class="tab" data-spec="nhi">👶 Nhi 600–699</button><button class="tab" data-spec="dauco">👃 Đầu Cổ 700–</button><button class="tab" data-spec="tim">❤️ Tim 800–</button><button class="tab" data-spec="canthiep">🧰 Can thiệp 900–</button></div>
+<div class="tabs" id="tabs"><button class="tab on" data-spec="">🌐 Tất cả</button><button class="tab" data-spec="nguc">🫁 Ngực</button><button class="tab" data-spec="bung">🩺 Bụng</button><button class="tab" data-spec="thankinh">🧠 TK &amp; Cổ</button><button class="tab" data-spec="msk">🦴 MSK</button><button class="tab" data-spec="mat">👁️ Mắt</button><button class="tab" data-spec="vuspk">🌸 Vú &amp; SPK</button><button class="tab" data-spec="nhi">👶 Nhi</button><button class="tab" data-spec="dauco">👃 Đầu Cổ</button><button class="tab" data-spec="tim">❤️ Tim</button><button class="tab" data-spec="canthiep">🧰 Can thiệp</button><button class="tab" data-spec="khac">🧩 Khác</button></div>
 <div class="chips" id="chips"><button class="chip on" data-score="">🏷️ Tất cả</button>
 <button class="chip" data-score="LI-RADS">LI-RADS</button>
 <button class="chip" data-score="Lung-RADS">Lung-RADS</button>
@@ -427,18 +442,8 @@ footer{margin-top:24px;font-size:13px;color:var(--muted)}
 <button class="chip extra" data-score="tegmento-vermian-angle">tegmento-vermian-angle</button>
 <button class="chip extra" data-score="tieu-cau">tieu-cau</button>
 <button class="chip extra" data-score="ventriculomegaly">ventriculomegaly</button>
-<button class="chip extra" data-score="z-score">z-score</button></div>
-<div class="row">
-<select id="fChieu"><option value="">— Lọc chiều 1–4 —</option><option value="pattern">1. Mẫu hình+Vị trí</option><option value="score">2. Phân độ &amp; điểm</option><option value="anatomy">3. Giải phẫu &amp; biến thể</option><option value="protocol">4. Protocol &amp; tình cờ</option></select>
-<select id="fLearn" title="Lọc theo tiến độ học — tick ✓ trên mỗi thẻ để đánh dấu"><option value="">🎓 Tiến độ: tất cả</option><option value="no">📖 Chưa học</option><option value="yes">✅ Đã học</option></select>
-<select id="fOverview" title="Nhảy nhanh tới bài tổng quan của từng hệ"><option value="">📚 Bài tổng quan hệ (10)</option><option value="view.html?b=001-tong-quan-he-nguc&f=lesson.md">001 · Hệ Ngực</option><option value="view.html?b=100-tong-quan-he-bung&f=lesson.md">100 · Hệ Bụng</option><option value="view.html?b=200-tong-quan-he-than-kinh&f=lesson.md">200 · Hệ Thần kinh</option><option value="view.html?b=300-tong-quan-he-co-xuong-khop&f=lesson.md">300 · Hệ Cơ – Xương – Khớp</option><option value="view.html?b=400-tong-quan-mat-thi-giac&f=lesson.md">400 · Mắt &amp; thị giác</option><option value="view.html?b=500-tong-quan-vu-san-phu-khoa&f=lesson.md">500 · Hệ Vú &amp; Sản Phụ khoa</option><option value="view.html?b=600-tong-quan-nhi-khoa&f=lesson.md">600 · Hệ Nhi khoa</option><option value="view.html?b=700-head-neck-overview&f=lesson.md">700 · Đầu Mặt Cổ &amp; mạc cổ sâu</option><option value="view.html?b=800-cardiovascular-overview&f=lesson.md">800 · Tim mạch</option><option value="view.html?b=901-ir-overview&f=lesson.md">901 · Điện quang Can thiệp</option></select>
-<button class="iconbtn" id="reset">✖ Xóa lọc</button>
-<button class="iconbtn" id="expLearn" title="Xuất tiến độ đã học dạng base64 để dùng ở trình duyệt khác">⤓ Xuất</button>
-<button class="iconbtn" id="impLearn" title="Nhập tiến độ đã học (base64) — hợp nhất với hiện tại">⤒ Nhập</button>
-<button class="iconbtn" id="clearLearn" title="Xóa toàn bộ đánh dấu đã học">🗑 Xóa</button>
-<span id="syncMsg" class="syncmsg"></span>
-<span id="count"></span> <span id="progress"></span>
-</div>
+<button class="chip extra" data-score="z-score">z-score</button><button class="chip" id="chipsMore" style="display:none;border-style:dashed">+ thẻ khác</button></div>
+<div id="chipsHint" class="syncmsg" style="margin:-2px 0 8px">Chọn một chuyên mục (Ngực, Bụng, Mắt…) để hiện thẻ phân độ / RADS của riêng chuyên mục đó.</div>
 <div class="grid" id="grid">
 <div class="card" data-id="001" data-spec="nguc" data-scores="" data-cert="tong-hop-y-van" data-tags="tong-quan" data-search="001 001 — Tổng quan hệ Ngực / Chest overview tong-quan 001-tong-quan-he-nguc"><a href="view.html?b=001-tong-quan-he-nguc&f=lesson.md"><img loading="lazy" src="001-tong-quan-he-nguc/images/composite_dongdac-vs-xep.jpg" alt="001 — Tổng quan hệ Ngực / Chest overview"></a><div class="cid">001 · NGUC</div><a class="ctitle" href="view.html?b=001-tong-quan-he-nguc&f=lesson.md">001 — Tổng quan hệ Ngực / Chest overview</a><br><span class="tag">tong-quan</span><span class="cert">Tổng hợp y văn</span><p>📚 Bài tổng quan hệ: bảng DDx bắt buộc + bài liên quan chéo.</p><a href="view.html?b=001-tong-quan-he-nguc&f=lesson.md">Bài học</a> · <a href="view.html?b=001-tong-quan-he-nguc&f=sources.md" target="_blank" rel="noopener">Nguồn</a> <button class="learn" data-learn="001" title="Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)">✓ Đã học</button></div>
 <div class="card" data-id="010" data-spec="nguc" data-scores="" data-cert="tong-hop-y-van" data-tags="pattern:binh-thuong vung:nguc anatomy:nguc" data-search="010 010 — Giải phẫu ngực cắt lớp &amp; biến thể / Cross-sectional chest anatomy pattern:binh-thuong vung:nguc anatomy:nguc 010-giai-phau-nguc-cat-lop"><a href="view.html?b=010-giai-phau-nguc-cat-lop&f=lesson.md"><img loading="lazy" src="010-giai-phau-nguc-cat-lop/images/010_binhthuong_XR_Wikimedia-Ptrump-CCBYSA40.jpg" alt="X-quang ngực bình thường"></a><div class="cid">010 · NGUC</div><a class="ctitle" href="view.html?b=010-giai-phau-nguc-cat-lop&f=lesson.md">010 — Giải phẫu ngực cắt lớp &amp; biến thể / Cross-sectional chest anatomy</a><br><span class="tag">pattern:binh-thuong</span> <span class="tag">vung:nguc</span> <span class="tag">anatomy:nguc</span><span class="cert">Tổng hợp y văn</span><p>Biến thể bình thường (normal variant) + cạm bẫy (pitfall).</p><a href="view.html?b=010-giai-phau-nguc-cat-lop&f=lesson.md">Bài học</a> · <a href="view.html?b=010-giai-phau-nguc-cat-lop&f=sources.md" target="_blank" rel="noopener">Nguồn</a> <button class="learn" data-learn="010" title="Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)">✓ Đã học</button></div>
@@ -1067,6 +1072,53 @@ var q = document.getElementById("q"), grid = document.getElementById("grid"),
     tview = document.getElementById("tview"), progress = document.getElementById("progress"),
     cards = Array.prototype.slice.call(grid.children),
     spec = "", score = "", chieu = "", learnState = "";
+// ── Tabs gọn (icon + tên + số bài) & chips chỉ hiện theo chuyên mục ──
+var tabsBox = document.getElementById("tabs"), chipsBox = document.getElementById("chips"),
+    chipsHint = document.getElementById("chipsHint"), chipsMore = document.getElementById("chipsMore"),
+    CHIP_LIMIT = 14, chipsExpanded = false;
+Array.prototype.forEach.call(tabsBox.querySelectorAll(".tab"), function(b){ b.dataset.label = b.textContent.trim(); });
+function refreshTabs(){
+  var cnt = {};
+  cards.forEach(function(c){ var s = c.dataset.spec; if (s) cnt[s] = (cnt[s] || 0) + 1; });
+  Array.prototype.forEach.call(tabsBox.querySelectorAll(".tab"), function(b){
+    var sp = b.dataset.spec, n = sp ? (cnt[sp] || 0) : cards.length;
+    b.innerHTML = b.dataset.label + ' <span class="n">' + n + '</span>';
+  });
+}
+function refreshChips(){
+  if (!spec) {
+    chipsBox.classList.remove("show");
+    if (chipsHint) chipsHint.style.display = "";
+    if (chipsMore) chipsMore.style.display = "none";
+    return;
+  }
+  if (chipsHint) chipsHint.style.display = "none";
+  chipsBox.classList.add("show");
+  var allowed = {};
+  cards.forEach(function(c){
+    if (c.dataset.spec !== spec) return;
+    (c.dataset.scores || "").split(/\s+/).forEach(function(s){ if (s) allowed[s] = 1; });
+  });
+  var shown = [];
+  Array.prototype.forEach.call(chipsBox.querySelectorAll(".chip"), function(ch){
+    var sc = ch.dataset.score;
+    if (!sc) return;                       // chip "Tất cả" luôn hiện
+    if (!allowed[sc]) { ch.classList.remove("on"); ch.style.display = "none"; return; }
+    shown.push(ch);
+  });
+  var needMore = shown.length > CHIP_LIMIT;
+  shown.forEach(function(ch, i){
+    ch.style.display = (needMore && !chipsExpanded && i >= CHIP_LIMIT) ? "none" : "";
+  });
+  if (chipsMore) {
+    if (needMore) {
+      chipsMore.style.display = "";
+      chipsMore.textContent = chipsExpanded ? "− thu gọn" : "+ " + (shown.length - CHIP_LIMIT) + " thẻ khác";
+    } else {
+      chipsMore.style.display = "none";
+    }
+  }
+}
 var learned = (function(){ try { return JSON.parse(localStorage.getItem("rad-learned") || "{}") || {}; } catch(e){ return {}; } })();
 function saveLearned(){ try { localStorage.setItem("rad-learned", JSON.stringify(learned)); } catch(e){} }
 function isLearned(id){ return !!learned[id]; }
@@ -1150,13 +1202,19 @@ q.addEventListener("input", filt);
 document.getElementById("tabs").addEventListener("click", function(e){
   var b = e.target.closest(".tab"); if(!b) return;
   spec = b.dataset.spec;
-  Array.prototype.forEach.call(this.children, function(x){ x.classList.toggle("on", x === b); });
+  score = "";
+  chipsExpanded = false;
+  Array.prototype.forEach.call(tabsBox.querySelectorAll(".tab"), function(x){ x.classList.toggle("on", x === b); });
+  Array.prototype.forEach.call(chipsBox.querySelectorAll(".chip"), function(x){ x.classList.toggle("on", !x.dataset.score); });
+  refreshChips();
   filt();
 });
 document.getElementById("chips").addEventListener("click", function(e){
+  var more = e.target.closest("#chipsMore");
+  if (more) { chipsExpanded = !chipsExpanded; refreshChips(); return; }
   var b = e.target.closest(".chip"); if(!b) return;
   score = b.dataset.score;
-  Array.prototype.forEach.call(this.children, function(x){ x.classList.toggle("on", x === b); });
+  Array.prototype.forEach.call(chipsBox.querySelectorAll(".chip"), function(x){ x.classList.toggle("on", x === b); });
   filt();
 });
 document.getElementById("fChieu").addEventListener("change", function(e){ chieu = e.target.value; filt(); });
@@ -1172,10 +1230,12 @@ tview.addEventListener("click", function(e){
 });
 document.getElementById("reset").addEventListener("click", function(){
   q.value = ""; spec = ""; score = ""; chieu = ""; learnState = "";
+  chipsExpanded = false;
   document.getElementById("fChieu").value = "";
   document.getElementById("fLearn").value = "";
-  var t = document.getElementById("tabs").children; for (var i=0;i<t.length;i++) t[i].classList.toggle("on", i===0);
-  var c = document.getElementById("chips").children; for (var j=0;j<c.length;j++) c[j].classList.toggle("on", j===0);
+  var t = tabsBox.querySelectorAll(".tab"); for (var i=0;i<t.length;i++) t[i].classList.toggle("on", i===0);
+  var c = chipsBox.querySelectorAll(".chip"); for (var j=0;j<c.length;j++) c[j].classList.toggle("on", j===0);
+  refreshChips();
   filt(); q.focus();
 });
 document.getElementById("expLearn").addEventListener("click", exportLearn);
@@ -1214,6 +1274,8 @@ document.getElementById("theme").addEventListener("click", function(){
 });
 cards.forEach(applyLearn);
 updateProgress();
+refreshTabs();
+refreshChips();
 filt();
 </script>
 </body>
