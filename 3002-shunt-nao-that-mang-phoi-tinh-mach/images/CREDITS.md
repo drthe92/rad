@@ -11,6 +11,7 @@
 | 3002_tran-dich-sau-vpl_XR_PMC2930656-Fig2.jpg | Küpeli E et al., *Ann Thorac Med* 2010, PMC2930656 Fig. 2 | CC BY 4.0 | Nữ 75 tuổi, VPL sau khi VPS nhiễm trùng; X-quang ngực: **tràn dịch màng phổi trái lượng lớn** sau đặt shunt (bệnh nhân 2 trong bài) |
 | 3002_ULD-CT-vpl_CT_PMC8236421-Fig5.jpg | Ryan DJ et al., *Eur Radiol Exp* 2021, PMC8236421 Fig. 5 | CC BY 4.0 | (a) X-quang ngực: đầu catheter VPL (mũi tên đôi) vùng giữa phổi phải; (b, c) CT liều cực thấp đa bình diện: catheter trong **khoang màng phổi**, đầu tận trên thùy trên phổi phải, không tràn khí |
 | 3002_viem-noi-tam-mac_TEE_PMC11830242-Fig1.jpg | Passey S et al., *JACC Case Rep* 2025, PMC11830242 Fig. 1 | CC BY-NC-ND 4.0 | Siêu âm tim qua thực quản: (A, B) **sùi 11 mm di động trên van ba lá**; (C) khối nhỏ ở đầu catheter VA tại ngã ba tĩnh mạch chủ trên–nhĩ phải |
+| 3002_song-sinh-ton_PMC10973063-Fig1.jpg | Childs Nerv Syst 2024, PMC10973063 Fig. 1 | CC BY 4.0 | Đường sống shunt theo thời gian: liền = VA, đứt = VPL; 62,1/48,3/34,5/31,0% (VPL) và 72,7/59,1/50,0/50,0% (VA) ở 3/6/12/18 tháng |
 
 - **Kiểm chứng tác giả:** Singh A (PMC13437215), Küpeli E (PMC2930656), Ryan DJ (PMC8236421), Passey S (PMC11830242) — đối chiếu `authorString` Europe PMC ngày 2026-10-27.
 - Ảnh CC BY-NC-ND: **không crop, không ghép, không thêm chú thích** lên ảnh.

@@ -22,10 +22,13 @@
 | 16 | The Radiology Assistant | Hydrocephalus / shunt imaging | https://radiologyassistant.nl/ | dẫn link | không tải (ảnh theo điều khoản trang) |
 | 17 | Radiopaedia.org | Ventriculopleural shunt (cases) | https://radiopaedia.org/search?q=ventriculopleural+shunt | CC BY-NC-SA (từng ca) | không tải (đã đủ ảnh Europe PMC) |
 | 18 | AuntMinnie | Case of the Day — shunt complications | https://www.auntminnie.com/ | paywall — **chỉ dẫn link** | **không tải** |
+| 7 | Childs Nerv Syst (Childs Nerv Syst 2024) | Analysis of non-ventriculoperitoneal shunts at Red Cross War Memorial Children’s Hospital | https://europepmc.org/article/MED/PMC10973063 · PMCID PMC10973063 | CC BY 4.0 | `images/3002_song-sinh-ton_PMC10973063-Fig1.jpg` (đường sống shunt VA/VPL) |
+| 8 | ERJ Open Res (2024) | Clinical overview of the physiology and pathophysiology of pleural fluid movement: a narrative review | https://europepmc.org/article/MED/PMC11440405 · PMCID PMC11440405 | CC BY-NC 4.0 | không tải ảnh (chỉ dùng số: sinh dịch 0,01 mL/kg/giờ, trần bạch mạch 0,28 mL/kg/giờ, áp lực màng phổi âm ở FRC) |
 
 ## Ghi chú giấy phép
 - Ảnh **CC BY-NC-ND 4.0** dùng **nguyên bản** — không crop, không ghép, không thêm chữ lên ảnh.
 - Ảnh **CC BY / CC BY-NC 4.0** cũng dùng nguyên bản để thống nhất; bài **không có composite** vì trộn giấy phép ND.
 - Số liệu đọc từ **bài gốc** (Results/Discussion), không lấy từ abstract: tràn dịch có triệu chứng 20% (Hoffman, 59 ca), 4,5% (Megison, 88 ca), 24% biến chứng chung, 1/52 ca phải sửa vì tràn dịch khi có van chống siphon; ULD-CT 0,16 mSv vs 0,25 mSv.
 - **Kiểm chứng tác giả:** Singh A (PMC13437215), Küpeli E (PMC2930656), Ryan DJ (PMC8236421), Passey S (PMC11830242), Kim YH (PMC7607039), Kendirlioglu BC (PMC13591038), Norager NH (PMC12377171), Gościniak P (PMC8877788), Gopal VV (PMC4802946), Udayakumaran S (PMC11875709), Liang SQ (PMC11669209), Katsevman GA (PMC6909168), Abdalla AA (PMC7954663), Olakorede I (PMC11822472), Yamada S (PMC10166604) — đối chiếu `authorString` Europe PMC ngày 2026-10-27.
-- Số **chưa rõ** đã ghi rõ trong bài: không có thang phân độ riêng cho VPL/VA; ngưỡng thể tích dịch màng phổi phải chọc hút không được nêu trong nguồn đã đọc.
+- Số **chưa rõ** đã ghi rõ trong bài: không có thang phân độ riêng cho VPL/VA; **ngưỡng thể tích tuyệt đối** phải chọc hút không được nêu trong nguồn đã đọc — loạt 2024 chỉ phân tầng theo **triệu chứng** (18,8% không triệu chứng theo dõi, 15,6% có triệu chứng phải mổ lại).
+- **Bổ sung 2026-10-28:** loạt **32 VPL / 25 VA ở 43 trẻ** (PMC10973063) và tổng quan sinh lý màng phổi (PMC11440405) — dùng để định lượng **trần hấp thu** và **ngưỡng bỏ VPL**; tên tác giả PMC10973063 đối chiếu `authorString` Europe PMC ngày 2026-10-28 ().

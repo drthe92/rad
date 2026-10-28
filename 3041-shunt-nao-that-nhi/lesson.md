@@ -190,6 +190,7 @@ flowchart TD
 - [3037 – Nhiễm trùng não thất & nhiễm trùng EVD](../3037-nhiem-trung-nao-that-evd/lesson.md)
 - [3034 – Chảy máu não thất & não úng thủy sau xuất huyết](../3034-chay-mau-nao-that-ivh-nao-ung-thuy/lesson.md)
 - [093 – Hội chứng tĩnh mạch chủ trên](../093-hoi-chung-tinh-mach-chu-tren/lesson.md)
+- [3043 – Hẹp–tắc tĩnh mạch chủ trên lành tính ở trẻ sau catheter trung tâm](../3043-hep-tinh-mach-chu-tren-tre/lesson.md) (đánh giá SVC trước khi đặt VA)
 - [254 – Giãn tủy sau chấn thương tủy sống](../254-gian-tuy-sau-chan-thuong-tuy-song/lesson.md)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
