@@ -834,5 +834,4 @@
 - 2026-10-28 — flip #404→6100; append #1046 (6122 TAI) + #1047 (6123 rối loạn nuốt/hít sặc sau mở khí quản) — check_duplicates exit 0.
 - 2026-10-28 — viết **1802** (theo dõi dài hạn sau PPHN: NDI 25%/bại não 3,8%/SNHL 6,4%/IQ<70 9,2%, ASQ-3 47,3% bất thường, OR 1,1 mỗi 1% giảm SpO₂, RVSP 4×TRV²+RAP, BPD-PH 6–38% tử vong) + **6101** (xẹp phổi một bên tái diễn: TBM 24,69%, nội soi bỏ sót 35%, dị vật 43,7% phế quản gốc phải, CXR Se 94,9%/CT Se 63,2%).
 - 2026-10-28 — flip #332→1802, #405→6101; append #1048 (6125 siêu âm phổi) + #1049 (6126 plastic bronchitis) — check_duplicates exit 0.
-
 - 2026-10-28: viết **1806** (viêm phổi do xạ sau TARE) + **6103** (toxo & Zika bào thai); flip #409, #942 → xong; append #1050 (6106 rubella), #1051 (6109 giang mai) — đã check_duplicates. Ảnh: 3 (1806) + 4 (6103), CC BY/CC BY-NC, 1 ảnh ND nguyên bản.

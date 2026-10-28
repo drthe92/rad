@@ -375,7 +375,6 @@
 | 1050 | 6128 | **Rubella bẩm sinh (congenital rubella)**: tam chứng Gregg (đục thủy tinh thể, điếc tiếp nhận, bệnh tim bẩm sinh), **giảm sản động mạch phổi/hẹp ĐMP nhánh**, "muối tiêu" võng mạc, vôi hóa não & dãn não thất; **PCR dịch ối/nước mũi họng**, IgM sơ sinh, khi nào theo dõi thính lực – mắt – tim kéo dài | 6103 vừa chốt **toxo vs Zika** và nêu rubella chỉ như một hàng TORCH; **rubella là nguyên nhân duy nhất có tổn thương TIM đặc trưng (hẹp ĐMP nhánh) + đục thủy tinh thể**, khác hoàn toàn toxo/Zika/CMV về hình ảnh và lịch theo dõi (điếc tiến triển, hẹp mạch tái phát) → bỏ sót = trẻ điếc/mù muộn không hồi phục; nối 6103/6102/600 | chờ viết (ID đề xuất **6128** — nhi/sản; nối 6103/6102) |
 | 1051 | 6127 | **Giang mai bẩm sinh (congenital syphilis)**: **viêm xương sụn (osteochondritis) – periostitis – pseudoparalysis** ở chi, hủy xương mũi (snuffles), **viêm màng não – dãn não thất**, pneumonitis alba; **VDRL/RPR + TPHA/FTA-abs mẹ và con**, khi nào điều trị penicillin và theo dõi 6–12 tháng | 6103 mới chốt nhóm TORCH **không bao gồm giang mai** dù đây là nguyên nhân **tổn thương xương–sụn sơ sinh rõ nhất** và **vẫn còn bùng phát ở nhiều nơi**; hình ảnh X-quang chi (vệt đặc đầu xương, bong màng xương) khác hẳn các nhiễm bào thai khác → bỏ sót = tàn phế chi và viêm màng não; nối 6103/630/691 | chờ viết (ID đề xuất **6127** — nhi/MSK; nối 6103/630) |
 
-
 ## Danh mục đã xong (ID | chủ đề ngắn) — dùng đối chiếu trùng
 
 | ID | Chủ đề |
