@@ -822,3 +822,5 @@
 - Flip #1035/#1036 → xong; append #1037 (6122 giả phình mạch tạng) + #1038 (6119 THA tồn lưu sau can thiệp) — đã check_duplicates.
 - 2026-10-28 · viết **3023** (ù tai mạch đập: bảng gộp 620 ca, hẹp cảnh 15,8%/dAVF 7,4%/IIH 13,4%; MRI+MRA→HRCT→DSA; stent xoang hết PT 90%) + **3046** (giả phình ICA vỡ vào xoang bướm: lồi ICA 26,3%, CBS 0,8%, tử vong > 50% nếu không điều trị; 4 ảnh CC BY/CC BY-NC, không composite).
 - 2026-10-28 · BACKLOG: flip #1004→3023, #940→3046 (ID 250 đã dùng cho lao tủy); thêm #1039 (3050 iatrogenic ICA injury) + #1040 (3051 máu tụ tổ chức hóa xoang bướm) — đã check_duplicates exit 0.
+- 2026-10-28 — viết **405** (PPS: phù đĩa thị giả, hắc mạc 300 µm, PPA 100%, diễn tiến tự nhiên) + **3005** (SGH: rít hai thì, CECT 118–300 HU, propranolol 80%); verify PASS 5/5 · 632 bài/632 card · 118 chờ viết.
+- 2026-10-28 — flip #941/#400 → xong; append #966 (3007 hẹp khí quản sau NKQ) + #967 (3008 u máu gan nhũ nhi) — đã check_duplicates.

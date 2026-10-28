@@ -155,6 +155,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 1403 | [Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt thể thủy tinh — chọn theo 4A/4B/5, kết cục & biến chứng](1403-phau-thuat-rop-giai-doan-4-5/lesson.md) | `pattern:bong-vong-mac` `pattern:co-keo` `pattern:rop` `vung:vong-mac` `vung:dich-kinh` `score:ICROP` `protocol:phau-thuat-rop` `incidentaloma:rop` |
 | 1404 | [Biến chứng mạn của tiêm anti-VEGF nội dịch kính: teo hoàng điểm 79,8%/10 năm, rách RPE 1,9–7% (PED > 400 µm), tăng nhãn áp kéo dài & đáp ứng kém](1404-bien-chung-man-anti-vegf/lesson.md) | `pattern:bien-chung-sau-tiem` `pattern:teo-hoang-diem` `pattern:tang-nhan-ap` `vung:hoang-diem` `vung:vong-mac` `protocol:OCT` `protocol:anti-VEGF` `score:IOP` |
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
+| 405 | [PPS: phù đĩa thị giả, túi dịch quanh đĩa, hắc mạc > 300 µm, PPA 100%, theo dõi tự nhiên (10/14 không triệu chứng, IN −40,75 µm/2 năm), eplerenone/PDT/micropulse](405-pachychoroid-quanh-dia-thi-pps/lesson.md) | `pattern:phu-dia-thi` `pattern:hac-mac-day` `pattern:dich-voi-hoang-diem` `pattern:bo-hoang-diem` `vung:dia-thi` `vung:hoang-diem` `vung:hac-mac` `score:CT-300um` `protocol:OCT-EDI` `protocol:FA-ICGA` `protocol:OCTA` |
 
 ## Hệ Bụng (dải 100, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
@@ -617,6 +618,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 685 | [Theo dõi dài hạn & ngừng thuốc sau bóc tách động mạch cổ ở trẻ: tái thông – giả phình, tầm soát bệnh mô liên kết & tư vấn thể thao](685-theo-doi-ngung-thuoc-sau-boc-tach-dong-mach-co-o-tre/lesson.md) | `pattern:boc-tach-mach` `pattern:hep-tac-mach` `pattern:gia-phinh-mach` `pattern:tai-thong-mach` `vung:mach-co-dau-co` `vung:nao-nhi` `protocol:CTA-co` `protocol:MRA-co` `protocol:MRI-thanh-mach` |
 | 380 | [Bệnh xơ cứng củ ở trẻ: bản đồ tổn thương đa cơ quan & lịch tầm soát](380-benh-xo-cung-cu-o-tre/lesson.md) | `pattern:ton-thuong-da-co-quan` `pattern:not` `pattern:nang` `vung:nao` `vung:than` `vung:tim` `vung:phoi` `protocol:MRI-nao` `protocol:MRI-bung` `protocol:HRCT` `incidentaloma:AML` |
 | 6102 | [Nhiễm CMV bào thai: vôi hóa quanh não thất, thiểu sản tiểu não mắc phải vs di truyền & tư vấn tiền sản](6102-nhiem-cmv-bao-thai/lesson.md) | `pattern:voi-hoa-quanh-nao-that` `pattern:bat-thuong-vo-nao` `pattern:thi-u-san-tieu-nao` `vung:nao-thai` `vung:nhau-thai` `protocol:MRI-thai` `protocol:sieua-am-thai` |
+| 3005 | [U máu dưới thanh môn ở nhũ nhi: rít hai thì + u máu vùng râu, CECT 118–300 HU, propranolol 80% đủ, TASE khi kháng trị](3005-u-mau-duoi-thanh-mon-nhu-nhi/lesson.md) | `pattern:rit-thi-hit-vao` `pattern:rit-hai-thi` `pattern:khoi-duoi-thanh-mon` `pattern:u-mau` `vung:duong-tho` `vung:thanh-quan` `vung:co` `anatomy:thanh-quan` `protocol:noi-soi-ong-mem` `protocol:CT-co-can-quang` `protocol:propranolol` |
 
 ## Đầu Mặt Cổ (dải 700) & Tim mạch (800) & Can thiệp (900)
 | ID | Bài | Tags 4 chiều |

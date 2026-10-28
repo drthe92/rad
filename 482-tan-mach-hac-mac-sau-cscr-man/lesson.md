@@ -165,6 +165,7 @@ flowchart TD
 - [445 – Bong võng mạc](../445-bong-vong-mac/lesson.md) (phân biệt bong thanh dịch và bong do rách)
 - [444 – Tắc mạch võng mạc](../444-tac-mach-vong-mac/lesson.md) (mờ mắt đột ngột không đau)
 - [484 – Nhiễm độc võng mạc do hydroxychloroquine](../484-nhiem-doc-vong-mac-hydroxychloroquine/lesson.md) (bệnh hắc mạc–võng mạc do thuốc)
+- [405 – Hội chứng pachychoroid quanh đĩa thị (PPS)](../405-pachychoroid-quanh-dia-thi-pps/lesson.md) (dịch quanh đĩa, phù đĩa thị giả, ngưỡng hắc mạc 300 µm)
 - [400 – Tổng quan Mắt & thị giác](../400-tong-quan-mat-thi-giac/lesson.md)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
