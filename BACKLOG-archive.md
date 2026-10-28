@@ -814,3 +814,7 @@
 2026-10-28: 1024 → bài 3043 (hẹp SVC lành tính ở trẻ sau catheter; SIR 1–4; stent lớn theo trẻ; vỡ SVC 1–2%); append 3044/6109.
 2026-10-28: 1025 → bài 3044 (CVC ở trẻ: carina = T4 98% nhũ nhi; đầu catheter 10 mm (4–15) dưới carina; > 22 mm = nhĩ phải; TTE 91% so TEE; ECG lòng mạch 39,29% vẫn quá sâu; huyết khối CVC 26,60%); 4 ảnh (CC BY ×3 + CC BY-NC-ND, không composite).
 2026-10-28: 1026 → bài 6111 (RVT sơ sinh: 2,2/100.000 sinh sống, 13/100.000 đẻ non; thận trái 2,8 lần; RI 0,88; teo thận 67–90,9%; THA 38,8%/11,1 năm; tiêu sợi huyết chảy máu 75% vs 0%); 5 ảnh CC BY; append 6112/3045.
+
+## 2026-10-28 — lượt worker: 6112 + 3045
+- **6112** (xuất huyết thượng thận sơ sinh): 5 ảnh CC BY/CC BY-NC-SA, không composite (figure gốc đã là panel theo ngày); số chốt 0,2–0,55%, hết 20–165 ngày, LDH 667 vs 299 U/L.
+- **3045** (catheter rốn UVC/UAC): 5 ảnh CC BY 4.0; số chốt di lệch 50–90%/72 giờ, PVT 19%, POCUS Se 93,3%, UAC > 5 ngày AOR 3,8; flip #1027/#1028, append #1029 (6113)/#1030 (6114).
