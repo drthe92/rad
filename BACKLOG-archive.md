@@ -803,3 +803,5 @@
 
 - 2026-10-27 · 3034 IVH & não úng thủy sau xuất huyết: Graeb 0–12/mGS 0–32; CLEAR III mRS 48% vs 45%, tử vong 18% vs 29%; nội soi rửa shunt 13% vs 26%; EVDAI 14%/12%. 3 ảnh CC BY-NC (PMC8918245, PMC4956778).
 - 2026-10-27 · 3035 HIE sau ngừng tim: DWI < 6 giờ 0/46 ca HSI có kết cục tốt; PV650 > 28,8%; GWR 0,72 → 0,81; dự báo đa phương thức ≥ 72 giờ (ERC/ESICM 2025). 3 ảnh CC BY-NC-ND (PMC6231053, PMC12751271), không composite.
+- 2026-10-28 · 3036 myoclonus sau ngừng tim: CPC 1–2 9,8/5,8/5,7/82,0% theo 4 thực thể; nền EEG 1,6% vs 22,3%; HIBI lan rộng OR 12,8 (83% vs 27%); cut-off DWI 1,495/ADC 0,735; κ = −0,05 cho kiểu myoclonus. 3 ảnh (CC BY ×2, CC BY-NC-ND ×1), không composite.
+- 2026-10-28 · 3037 ventriculitis/EVD: mủ DWI sáng/ADC tối (DNT tự do thì không); ERI 8,6%, đổi EVD HR 3,13, AI-EVD OR 0,43; CSF WBC AUC 0,828; KS 10–14/21 ngày; không lấy DNT hằng ngày. 3 ảnh CC BY. Flip 1017/1018, thêm 3038/3039.
