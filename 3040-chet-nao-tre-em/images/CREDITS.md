@@ -1,0 +1,15 @@
+# CREDITS — ảnh bài 3040 (Chẩn đoán chết não ở trẻ em và sơ sinh)
+
+Mỗi ảnh ghi rõ: file trong repo, hình gốc, bài gốc (PMCID), giấy phép, thay đổi phái sinh (nếu có).
+
+| File | Hình gốc | Bài gốc | Giấy phép | Phái sinh |
+|---|---|---|---|---|
+| `3040_chet-nao-tre_CTA_PMC11945848-F2.jpg` | Figure 2 — “CTA images were taken with the brain death protocol of a 13-year-old boy who was brain dead. (A) Axial pre-contrast CT image shows cerebral edema with the disappearance of the ventricles and flattening of the subarachnoid sulci. (B) … arterial-phase (20th second) … opacification of superficial temporal artery … (C) … venous-phase image (60th second). … absence of opacification of the bilateral MCA and branches. (D) … absence of opacification of the ICV and SPV.” | Tomography 2025, PMCID **PMC11945848** — https://europepmc.org/article/PMC/PMC11945848 | **CC BY 4.0** | **Không đổi nội dung** (giữ nguyên 4 ô A–D và nhãn mạch); chỉ đặt tên file theo quy ước repo |
+| `3040_chet-nao-tre_CTA-Khuyet-so_PMC11945848-F3.jpg` | Figure 3 — “(A) Craniectomy defect is visualized in VR images. (B) A lack of opacification is observed in the SPV and ICV during the venous phase. (C) However, persistent opacification of the right MCA-M4 segment is noted (white arrow). (D) Brain perfusion was absent on scintigraphy …” | Tomography 2025, PMCID **PMC11945848** — https://europepmc.org/article/PMC/PMC11945848 | **CC BY 4.0** | **Không đổi nội dung** (giữ nguyên 4 ô A–D) |
+| `3040_chet-nao-tre_CTA-Am-tinh-gia_PMC11945848-F5.jpg` | Figure 5 — “CTA was performed in a 1-year-old boy with clinically confirmed brain death who did not meet the criteria for brain death. (A) Arterial-phase image and (B,C) Venous-phase images reveal an absence of opacification in the branches of the MCAs. Conversely, opacification of the SPV is seen (red arrow).” | Tomography 2025, PMCID **PMC11945848** — https://europepmc.org/article/PMC/PMC11945848 | **CC BY 4.0** | **Không đổi nội dung** (giữ nguyên 3 ô A–C) |
+| `3040_chet-nao-tre_Doppler-hoc-mat_PMC13117453-F2.jpg` | Figure 2 — “Representative orbital spectral Doppler waveforms illustrating the high-resistance pattern associated with brain death. (A) Short systolic spike with marked loss of diastolic flow. (B) Alternating/reversed flow pattern. The colored boxes indicate the spectral Doppler sample volume placement at the level of the ophthalmic artery.” | J Clin Med 2026, PMCID **PMC13117453** — https://europepmc.org/article/PMC/PMC13117453 | **CC BY 4.0** | **Không đổi nội dung** (giữ nguyên 2 ô A–B + hộp màu cửa sổ Doppler) |
+
+## Ghi chú
+- Cả **4 ảnh đều CC BY 4.0** → được phép chuyển định dạng/trích dẫn kèm ghi nguồn; bài **giữ nguyên khung nhiều ô** (A–D) để người đọc tự đối chiếu nhãn mạch, **không crop**.
+- **Không tạo composite**: 3 ảnh CTA thuộc 3 bối cảnh khác nhau (dương tính chuẩn ở trẻ 13 tuổi / khuyết sọ gây âm tính giả / trẻ 1 tuổi còn ngấm SPV), 1 ảnh Doppler khác modality.
+- **Tên tác giả KHÔNG ghi** trong file ảnh; attribution dùng **tạp chí + năm + PMCID** (đối chiếu Europe PMC ngày 2026-10-28).
