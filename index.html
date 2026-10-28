@@ -13,7 +13,6 @@ html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
 body{font-family:system-ui,-apple-system,sans-serif;max-width:1100px;margin:0 auto;padding:0 16px 16px;line-height:1.5;background:var(--bg);color:var(--fg);overflow-wrap:break-word}
 header.sticky{position:sticky;top:0;background:var(--bg);padding:12px 0 8px;z-index:10;border-bottom:1px solid var(--line)}
 h1{font-size:20px;margin:0}
-.sub{font-size:13px;color:var(--muted);margin:2px 0 8px}
 .searchrow{display:flex;gap:8px}
 /* mobile: ô tìm kiếm được tách ra khỏi header (xem JS) và ghim ở đỉnh */
 .searchrow.stickybar{position:sticky;top:0;z-index:30;background:var(--bg);border-bottom:1px solid var(--line);margin:0 -12px;padding:8px 12px;box-shadow:0 2px 6px rgba(0,0,0,.06)}
@@ -58,7 +57,6 @@ footer{margin-top:24px;font-size:13px;color:var(--muted)}
   /* Header cuộn đi; chỉ ô tìm kiếm dính (tách khỏi header bằng JS) */
   header.sticky{position:static;padding:8px 0 6px;box-shadow:none}
   h1{font-size:17px;line-height:1.35}
-  .sub{font-size:12px;margin:2px 0 6px}
   #q{font-size:16px;padding:9px 8px}
   .searchrow{gap:6px}
   .iconbtn{padding:0 10px;font-size:15px}
@@ -82,7 +80,6 @@ footer{margin-top:24px;font-size:13px;color:var(--muted)}
 <body>
 <header class="sticky">
 <h1>rad.matcauvong.com — Thư viện Chẩn đoán hình ảnh thực chiến</h1>
-<p class="sub">Hub tra cứu 4 chiều (616 bài): (1) Mẫu hình + Vị trí · (2) Phân độ &amp; điểm · (3) Giải phẫu &amp; biến thể · (4) Protocol &amp; tình cờ. Việt hóa 100% — thuật ngữ Anh trong ngoặc ở lần đầu.</p>
 <div class="row">
 <div class="filters">
 <select id="fChieu"><option value="">— Lọc chiều 1–4 —</option><option value="pattern">1. Mẫu hình+Vị trí</option><option value="score">2. Phân độ &amp; điểm</option><option value="anatomy">3. Giải phẫu &amp; biến thể</option><option value="protocol">4. Protocol &amp; tình cờ</option></select>
