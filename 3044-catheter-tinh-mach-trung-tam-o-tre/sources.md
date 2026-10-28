@@ -1,0 +1,31 @@
+# Nguồn gốc — 3044 Catheter tĩnh mạch trung tâm ở trẻ: chọn đường vào, xác nhận đầu catheter, biến chứng sớm
+
+> Quét ngày 2026-10-28 trên Europe PMC (`OPEN_ACCESS:Y`, cú pháp `FIG:"..."`). Đọc toàn văn phần phương pháp–kết quả–bảng. Kiểm tra giấy phép **từng bài, từng hình** trước khi tải. **Tên tác giả không ghi** — attribution dùng **tạp chí + năm + PMCID** (chưa đối chiếu từng tên với PMCID).
+
+| # | Nguồn | Nội dung dùng trong bài | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Paediatr Anaesth 2025 — siêu âm tim qua thành ngực định vị đầu CVC ở trẻ, lấy siêu âm qua thực quản làm chuẩn | **150 trẻ 0–14 tuổi**; TTE đúng CAJ **91% (136/150; 95% CI 85–94%)**; **96% ở 0–3 tháng**, **70% ở 13–14 tuổi**; TEE là chuẩn vàng | https://europepmc.org/article/PMC/PMC11883508 | **CC BY-NC-ND 4.0** | 1 ảnh (Figure 1 — nguyên bản) |
+| 2 | Sci Rep 2022 — đốt sống ngực T4 làm mốc độ sâu catheter cảnh trong phải ở nhũ nhi | **95 nhũ nhi 1–12 tháng**; carina ngang **T4 ở 98% (93/95)**, T3 ở **2%**; khoảng cách đầu catheter–carina **10 mm (4–15 mm)**; **6,3% (6/95) > 22 mm dưới carina** = có thể đã vào nhĩ phải | https://europepmc.org/article/PMC/PMC9418216 | **CC BY 4.0** | 1 ảnh (Figure 1) |
+| 3 | Medicine (Baltimore) 2023 — yếu tố nguy cơ biến chứng PICC ở trẻ | **584 trẻ**, biến chứng **7,88% (46/584)**; **OR**: chọc nhiều lần **10,115**, rỉ máu điểm chọc **9,217**, thời gian lưu **6,390**, dinh dưỡng tĩnh mạch **2,593**, loại catheter **8,588** | https://europepmc.org/article/PMC/PMC10545263 | **CC BY-NC 4.0** | 1 ảnh (Figure 1) |
+| 4 | Transl Pediatr 2022 — huyết khối liên quan CVC ở trẻ nhập viện | **594 trẻ**, huyết khối **26,60% (158/594)**; tích lũy **15 ngày 30,81%**, **45 ngày 46,27%**; **vận động chi HR 0,660** là yếu tố bảo vệ | https://europepmc.org/article/PMC/PMC9732607 | CC BY-NC-ND 4.0 (không dùng ảnh) | dẫn link |
+| 5 | Res Pract Thromb Haemost 2024 — gộp 105 bài/20,7 triệu trẻ về huyết khối thuyên tắc tại bệnh viện | **4,1% (95% CI 2,9–5,2)** trẻ nhập viện; **CVC** nằm trong nhóm yếu tố nguy cơ được xác định | https://europepmc.org/article/PMC/PMC11470410 | CC BY 4.0 (không dùng ảnh) | dẫn link |
+| 6 | Front Pediatr 2026 — ca siêu âm tại giường ở NICU (sơ sinh sốc) | Ca **UVC đầu ở bờ trên T7**, **dịch màng tim 0,577 cm**, **chọc dẫn lưu màng tim**; dùng làm ca minh họa chèn ép tim do catheter rốn | https://europepmc.org/article/PMC/PMC13275663 | **CC BY 4.0** | 1 ảnh (Figure 2) |
+| 7 | J Indian Assoc Pediatr Surg 2011 — biến chứng tức thì của chọc mạch trung tâm qua da ở trẻ | **103 catheter/70 trẻ**; **41 biến chứng tức thì (39,8%)**, **75,6% ở sơ sinh**; **tràn khí 1,5%**, **tràn dịch màng phổi 1,5%**, **thoát dịch dưới da 1,5%**; thành công **92,9%**; thành công lần đầu **70,7% (sơ sinh) / 79,3% (không sơ sinh)**; không tử vong do thủ thuật | https://europepmc.org/article/PMC/PMC3221157 | CC BY-NC-SA 3.0 (không dùng ảnh) | dẫn link |
+| 8 | Ann Noninvasive Electrocardiol 2022 — ECG lòng mạch định vị PICC ở trẻ ung thư | **62 trẻ**; **90,32% (56/62) có sóng P đặc trưng**; trong số đó **58,93% đúng vị trí**, **39,29% (22/56) quá sâu**, **1 ca ngoài tĩnh mạch chủ trên**; 6 ca không có sóng P → **4 ca lạc sang tĩnh mạch đối diện** | https://europepmc.org/article/PMC/PMC9296801 | CC BY 4.0 (không dùng ảnh) | dẫn link |
+| 9 | Pediatr Cardiol 2025 — gộp 13 RCT/1.060 trẻ so sánh siêu âm với sờ nắn | Động mạch: thành công **RR 1,31**, lần đầu **RR 1,88**; tĩnh mạch: thành công **RR 1,13 (0,98–1,30, NS)**, lần đầu **RR 1,53 (NS)**; **giảm số lần chọc MD −1,34**, **giảm thời gian MD −4,13 phút** | https://europepmc.org/article/PMC/PMC12296815 | CC BY 4.0 (không dùng ảnh) | dẫn link |
+| 10 | Health Sci Rep 2025 — lạc hướng PICC trái so với phải | **2.451 lượt PICC**, lạc hướng **12,32% (302/2.451)**; trước ghép cặp trái **11,58%** vs phải **15,66%** (p = 0,018), sau ghép cặp **12,66% vs 13,70%** (p = 0,181); bên phải **ăn sâu hơn 30 mm vs 16,5 mm**; học viên **chọc lại 22,22% vs 5,05%** | https://europepmc.org/article/PMC/PMC12358927 | CC BY 4.0 (không dùng ảnh) | dẫn link |
+| 11 | BMC Pediatr 2026 — tổng quan có hệ thống mô hình dự báo biến chứng CVC ở trẻ | **15 nghiên cứu**; CLABSI **AUC 0,793–0,812**; huyết khối **AUC 0,74–0,957**; phần lớn **nguy cơ thiên lệch cao** (PROBAST) | https://europepmc.org/article/PMC/PMC13255339 | CC BY 4.0 (không dùng ảnh) | dẫn link |
+
+## Ghi chú giấy phép
+- **4 ảnh đã dùng:** Figure 1 của PMC11883508 (**CC BY-NC-ND 4.0 — nguyên bản, không crop/ghép/chú thích đè**), Figure 1 của PMC9418216 (**CC BY 4.0**), Figure 1 của PMC10545263 (**CC BY-NC 4.0**), Figure 2 của PMC13275663 (**CC BY 4.0**).
+- **Không tạo composite:** một ảnh là **ND** (cấm phái sinh) và bốn ảnh thuộc **bốn bệnh cảnh khác nhau** (nhũ nhi, trẻ mổ tim, đoàn hệ PICC, sơ sinh non tháng) → ghép sẽ gây hiểu sai.
+- **Tên tác giả KHÔNG ghi**: attribution dùng **tạp chí + năm + PMCID** (đối chiếu Europe PMC ngày 2026-10-28).
+- Ảnh tải từ bản công khai của PMC (`cdn.ncbi.nlm.nih.gov/pmc/blobs/...`), đúng file của figure trong bài gốc.
+
+## Điểm cần phản biện (fidelity + critique)
+1. **Mốc T4 là dữ liệu nhũ nhi 1–12 tháng**, không phải trẻ lớn: ở trẻ 13–14 tuổi TTE chỉ đạt **70%**, và mốc đốt sống phải đọc lại theo tuổi — bài không suy rộng mốc T4 cho mọi lứa tuổi.
+2. **"91% đúng CAJ" là của TTE so với TEE**, không phải so với X-quang; X-quang **không thể** là chuẩn vàng vì không thấy trực tiếp CAJ.
+3. **Sóng P trên ECG lòng mạch không đủ để chốt**: trong chính bài 62 trẻ, **39,29%** ca có sóng P vẫn quá sâu trên phim — bài dùng con số này để **phản biện**, không dùng ECG thay phim.
+4. **Tỷ lệ huyết khối 26,60% là của một trung tâm** (siêu âm Doppler hằng tuần, 594 trẻ, thời gian lưu trung vị 10 ngày) — cao hơn nhiều so với con số "huyết khối có triệu chứng" trong y văn; bài ghi rõ đây là **huyết khối phát hiện bằng sàng lọc**, phần lớn không triệu chứng.
+5. **Ca chèn ép tim là ca nguyên văn duy nhất** trong bài — không suy ra tần suất; bài ghi rõ nhãn "ca nguyên văn" ngay dưới đáp án.
+6. **Không đưa ngưỡng "rút bao nhiêu cm" theo guideline** vì chưa kiểm chứng được bản gốc; bài chỉ nêu nguyên tắc **rút 1–2 cm rồi kiểm lại** như thực hành tại chỗ, và ghi rõ đó là **suy luận thực hành**.

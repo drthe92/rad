@@ -812,3 +812,5 @@
 - 2026-10-28 · 3041 shunt VA: meta 9 nghiên cứu/3.197 ca tắc OR 0,49, nhiễm 1,02, tử vong 1,93 (ns); huyết khối 0,3% lâm sàng vs 60% tử thiết, PE 3,2% vs 50–100%, PH 0,3% vs 6,3%; viêm thận 0,8% (79 ca, chỉ KS 0/9 hồi phục); JVP 12–13 mmHg gây tăng ICP; rút shunt + 6 tuần KS. 3 ảnh (CC BY, CC BY-NC, CC BY-NC-ND), không composite. Flip 1021/1022, thêm 3042/3043.
 2026-10-28: 1023 (VPL) → gộp nâng cấp bài 3002 (loạt 32 VPL: sống 5 vs 13,5 tháng; trần bạch mạch 0,28 mL/kg/giờ; ống ngực KHÔNG hút) — không tạo 3042 để tránh trùng 3002.
 2026-10-28: 1024 → bài 3043 (hẹp SVC lành tính ở trẻ sau catheter; SIR 1–4; stent lớn theo trẻ; vỡ SVC 1–2%); append 3044/6109.
+2026-10-28: 1025 → bài 3044 (CVC ở trẻ: carina = T4 98% nhũ nhi; đầu catheter 10 mm (4–15) dưới carina; > 22 mm = nhĩ phải; TTE 91% so TEE; ECG lòng mạch 39,29% vẫn quá sâu; huyết khối CVC 26,60%); 4 ảnh (CC BY ×3 + CC BY-NC-ND, không composite).
+2026-10-28: 1026 → bài 6111 (RVT sơ sinh: 2,2/100.000 sinh sống, 13/100.000 đẻ non; thận trái 2,8 lần; RI 0,88; teo thận 67–90,9%; THA 38,8%/11,1 năm; tiêu sợi huyết chảy máu 75% vs 0%); 5 ảnh CC BY; append 6112/3045.
