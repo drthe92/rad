@@ -144,6 +144,7 @@ flowchart TD
 - [121 – LI-RADS: đọc đáp ứng điều trị (LR-TR) trên CT/MRI](../121-khoi-gan-LIRADS/lesson.md)
 - [127 – Gan tim & tăng áp cửa do tắc nghẽn dòng ra](../127-gan-tim-suy-tim-phai/lesson.md)
 - [930 – Ung thư gan: TACE, RFA và nguyên lý can thiệp](../930-hepatic-oncology-tace-rfa/lesson.md)
+- [1806 – Viêm phổi do xạ sau TARE: kính mờ quanh rốn phổi & ngưỡng liều phổi](../1806-viem-phoi-do-xa-sau-tare/lesson.md)
 
 ## Ảnh
 - `1801_REILD_CT_JKSRadiol2025-f1.jpg` — Kim GM, *J Korean Soc Radiol* 2025, PMC12328914 Fig. 1, **CC BY-NC 4.0**.

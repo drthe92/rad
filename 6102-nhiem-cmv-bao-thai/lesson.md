@@ -165,5 +165,6 @@ flowchart TD
 - [655 — HIE sơ sinh + Chiari/Dandy-Walker/bất sản thể chai](../655-hie-so-sinh-va-di-dang-bam-sinh-than-kinh/lesson.md)
 - [657 — Dị tật hố sau khác: Joubert & rhombencephalosynapsis](../657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md)
 - [566 — Song thai: xác định màng đệm/màng ối & TTTS/TAPS](../566-song-thai-chorionicity-TTTS-TAPS/lesson.md)
+- [6103 — Nhiễm Toxoplasma và Zika bào thai: vôi hóa rải rác vs ranh giới vỏ–chất trắng](../6103-nhiem-toxoplasma-va-zika-bao-thai/lesson.md)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
