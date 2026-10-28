@@ -835,3 +835,5 @@
 - 2026-10-28 — viết **1802** (theo dõi dài hạn sau PPHN: NDI 25%/bại não 3,8%/SNHL 6,4%/IQ<70 9,2%, ASQ-3 47,3% bất thường, OR 1,1 mỗi 1% giảm SpO₂, RVSP 4×TRV²+RAP, BPD-PH 6–38% tử vong) + **6101** (xẹp phổi một bên tái diễn: TBM 24,69%, nội soi bỏ sót 35%, dị vật 43,7% phế quản gốc phải, CXR Se 94,9%/CT Se 63,2%).
 - 2026-10-28 — flip #332→1802, #405→6101; append #1048 (6125 siêu âm phổi) + #1049 (6126 plastic bronchitis) — check_duplicates exit 0.
 - 2026-10-28: viết **1806** (viêm phổi do xạ sau TARE) + **6103** (toxo & Zika bào thai); flip #409, #942 → xong; append #1050 (6106 rubella), #1051 (6109 giang mai) — đã check_duplicates. Ảnh: 3 (1806) + 4 (6103), CC BY/CC BY-NC, 1 ảnh ND nguyên bản.
+- 2026-10-28 — 1626 tái phát vòm âm đạo sau xạ trị cổ tử cung: T2+DWI 92,1% chính xác (PPV 100%) vs T2+DCE 80%; PET/CT Se 98,2%/Sp 90,9%; mổ vét 5 năm ~49%, xạ lại 34%.
+- 2026-10-28 — flip #943 (1626) → xong; append #1052 (1663 gãy xương cùng sau xạ), #1053 (1664 hạch cạnh ĐMC tái phát).
