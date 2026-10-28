@@ -1,0 +1,25 @@
+# Nguồn gốc — 6115-tang-ap-cua-phia-trai-tac-tinh-mach-lach
+
+> Tăng áp cửa phía trái (sinistral/left-sided portal hypertension) do tắc tĩnh mạch lách ở trẻ: giãn tĩnh mạch dạ dày đơn độc, lách to, tĩnh mạch cửa chính thông; săn sóc keo, đốt lách từng phần, cắt lách. Quét Europe PMC ngày 2026-10-28 (cú pháp `TITLE_ABS:"sinistral portal hypertension" AND OPEN_ACCESS:Y`, `"splenic vein thrombosis" AND children`).
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Surgery Case Reports 2024 | Left-sided portal hypertension caused by a solid pseudopapillary neoplasm of pancreas tail: a pediatric case report — bé gái **12 tuổi**, hẹp tĩnh mạch lách, cắt lách sau 9 tháng — **PMC11551083** | https://europepmc.org/article/PMC/PMC11551083 | CC BY 4.0 | `images/6115_tang-ap-cua-trai_CT_PMC11551083-F2.jpg` (Fig. 2) |
+| 2 | Cureus 2026 | A Rare Pediatric Intraductal Papillary Mucinous Neoplasm Presenting as a Pancreatic Pseudocyst With Splenic Vein Thrombosis and Gastric Variceal Hemorrhage — bé gái **15 tuổi** — **PMC13282029** | https://europepmc.org/article/PMC/PMC13282029 | CC BY 4.0 | `images/6115_tang-ap-cua-trai_MRI_PMC13282029-F2.jpg` (Figure 2) |
+| 3 | Am J Case Rep 2022 | Two Pediatric Patients with Splanchnic Venous Thrombosis as a Complication of Acute Pancreatitis Successfully Treated with LMWH and Rivaroxaban — **PMC9706476** | https://europepmc.org/article/PMC/PMC9706476 | CC BY-NC-ND 4.0 | `images/6115_tang-ap-cua-trai_CT_PMC9706476-F1.jpg` (Figure 1) — **nguyên bản, không phái sinh** |
+| 4 | Cureus 2022 | Acute Pediatric Pancreatitis Presenting with Splenic Vein Thrombosis — trẻ 11 tuổi — **PMC9506509** | https://europepmc.org/article/PMC/PMC9506509 | CC BY 4.0 | Không tải (chỉ dùng số liệu nguy cơ chảy máu ~4% và 5%) |
+| 5 | BMC Gastroenterology 2026 | Long-term outcomes and bleeding risk factors in pancreatic portal hypertension: a retrospective cohort study — **207 bệnh nhân**, theo dõi trung vị 34,1 tháng — **PMC13112925** | https://europepmc.org/article/PMC/PMC13112925 | CC BY-NC-ND 4.0 | Không tải (hình là đường Kaplan–Meier, chỉ dùng số) |
+| 6 | Digestive Diseases 2024 | Management of Sinistral Portal Hypertension after Pancreaticoduodenectomy — **PMC10997249** | https://europepmc.org/article/PMC/PMC10997249 | CC BY 4.0 | Không tải (hình là angiogram/CEUS của 1 ca người lớn, không thuộc phạm vi bài nhi) |
+| 7 | Frontiers in Radiology 2026 | Partial splenic embolization as management of portal hypertension-related hypersplenism in pediatric patients — **12 trẻ 8–15 tuổi** — **PMC13038971** | https://europepmc.org/article/PMC/PMC13038971 | CC BY 4.0 | Không tải (hình là biểu đồ paired line, không cần) |
+| 8 | Pakistan Journal of Medical Sciences 2018 | Safety of endoscopic N-Butyl-2 Cyanoacrylate injection for the treatment of bleeding gastric varices in children — **30 trẻ** — **PMC6290215** | https://europepmc.org/article/PMC/PMC6290215 | CC BY 3.0 | Không tải (ảnh nội soi 1 ca, không cần) |
+| 9 | Endoscopy International Open 2016 | Endoscopic management of bleeding gastric varices with N-butyl, 2-cyanoacrylate glue injection in children with non-cirrhotic portal hypertension — **28 trẻ** — **PMC5066454** | https://europepmc.org/article/PMC/PMC5066454 | Giấy phép không ghi rõ trong bản XML — **chỉ dùng số liệu, không tải ảnh** | Không tải (hình là sơ đồ kỹ thuật tiêm) |
+| 10 | Frontiers in Gastroenterology 2026 | The challenging diagnosis of sinistral portal hypertension in a patient with liver cirrhosis: a case report and literature review — **PMC13135999** | https://europepmc.org/article/PMC/PMC13135999 | CC BY 4.0 | Không tải (chỉ dùng cho mục cạm bẫy "xơ gan + huyết khối tĩnh mạch lách") |
+
+## Ghi chú giấy phép và phản biện nguồn
+- **3 ảnh đã tải**: **2 ảnh CC BY 4.0** (PMC11551083, PMC13282029) + **1 ảnh CC BY-NC-ND 4.0** (PMC9706476). Ảnh ND **giữ nguyên bản**, không crop, không ghép, không chú thích đè.
+- **Không tạo composite**: 3 ảnh thuộc **3 bệnh nhi khác nhau** (u tụy, nang tụy/IPMN, viêm tụy cấp) → ghép cạnh nhau dễ khiến người đọc tưởng cùng một ca.
+- **Tên tác giả KHÔNG ghi**: attribution dùng **tạp chí + năm + PMCID** (đối chiếu Europe PMC ngày 2026-10-28).
+- **Phản biện 1:** con số **"chảy máu do varices dạ dày ~4%"** là từ **loạt theo dõi người lớn** được Cureus 2022 dẫn lại, không phải từ đoàn hệ nhi; vì vậy bài nêu **cả** con số **11,6% thô / ~30% tích lũy 3 năm** của đoàn hệ 207 bệnh nhân để người đọc thấy **dải nguy cơ rộng**.
+- **Phản biện 2:** loạt **PSE ở trẻ (PMC13038971)** có **12 bệnh nhân, không có ca nào do huyết khối tĩnh mạch lách** (tác giả ghi rõ **0 ca splenic vein thrombosis**) → bài chỉ dùng PSE như **lựa chọn giữ lách trong tăng áp cửa nói chung**, không khẳng định hiệu quả riêng cho LSPH.
+- **Phản biện 3:** khuyến cáo kháng đông trong huyết khối tĩnh mạch tạng do viêm tụy **chưa có thử nghiệm ngẫu nhiên ở trẻ**; tổng quan hệ thống ở người lớn **không chứng minh lợi ích thường quy** — bài ghi rõ đây là **quyết định cá thể hóa**.
+- Ảnh tải từ **PMC Open Access subset** (`pmc-oa-opendata.s3.amazonaws.com`), đúng file figure gốc của bài.

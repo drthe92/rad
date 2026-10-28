@@ -821,3 +821,5 @@
 
 2026-10-28: 1029 → bài 6113 (huyết khối ĐM chủ sau UAC: 8–20%/gộp 8,2%, vị trí cao 44%, UL-UAC 0/235, heparin dự phòng không giảm huyết khối; 3 ảnh: 1 CC BY-NC-ND + 2 CC BY, không composite).
 2026-10-28: 1030 → bài 6114 (EHPVO sau UVC: PVT 19%, giãn TM 97% ở 5,5 tuổi, 58% chảy máu, biliopathy 45,2%, Meso-Rex 83% thông; 5 ảnh CC BY/CC BY-NC; flip #1029/#1030, append #1031 6115/#1032 6117).
+2026-10-28: 1031 → bài 6115 (tăng áp cửa phía trái do tắc TM lách: varices dạ dày đơn độc 92,3%, chảy máu 11,6%/~30% sau 3 năm, keo 93,9% vs 79,5%, PSE 40% lách; 3 ảnh: 2 CC BY + 1 CC BY-NC-ND, không composite).
+2026-10-28: 1032 → bài 6117 (THA do mạch máu thận sau huyết khối sơ sinh: thận chênh ≥ 1 cm, 28% chỉ thấy trên chụp mạch, khỏi 57,1% sau nong nhiều lần, stent hẹp lại 35,5% vs 17,4%; 4 ảnh: 2 CC BY + 2 CC BY-NC-ND; flip #1031/#1032, append #1033 6116/#1034 6120).
