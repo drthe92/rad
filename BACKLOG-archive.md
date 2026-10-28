@@ -824,3 +824,5 @@
 - 2026-10-28 · BACKLOG: flip #1004→3023, #940→3046 (ID 250 đã dùng cho lao tủy); thêm #1039 (3050 iatrogenic ICA injury) + #1040 (3051 máu tụ tổ chức hóa xoang bướm) — đã check_duplicates exit 0.
 - 2026-10-28 — viết **405** (PPS: phù đĩa thị giả, hắc mạc 300 µm, PPA 100%, diễn tiến tự nhiên) + **3005** (SGH: rít hai thì, CECT 118–300 HU, propranolol 80%); verify PASS 5/5 · 632 bài/632 card · 118 chờ viết.
 - 2026-10-28 — flip #941/#400 → xong; append #966 (3007 hẹp khí quản sau NKQ) + #967 (3008 u máu gan nhũ nhi) — đã check_duplicates.
+- 2026-10-28 — viết **3047** (hẹp sau NKQ: 172 trẻ, 85,3% dưới thanh môn, 37,2% độ 3–4; CT gộp Se 91,5%/CTVB 92%; nong bóng 65–86%, sớm < 30 ngày tới 100% vs mạn ~39%; PCTR 90–96%) + **3048** (IHH: 87 trẻ, AFP 76.818 vs 627, u > 4 cm 5,7%, shunt RVOT 18→9 mmHg, 64 ca suy giáp LT4 24 mcg/kg/ngày) — 6 ảnh (3 CC BY-NC-ND, 3 CC BY), không composite.
+- 2026-10-28 — flip #966/#967 → xong (ID thực tế 3047/3048); append #1040 (3049 hẹp tái phát sau LTR/PCTR) + #1041 (3052 CH RICH/NICH; 3050/3051 đã có đề xuất) — check_duplicates exit 0.
