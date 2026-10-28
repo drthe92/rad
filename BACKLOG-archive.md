@@ -805,3 +805,6 @@
 - 2026-10-27 · 3035 HIE sau ngừng tim: DWI < 6 giờ 0/46 ca HSI có kết cục tốt; PV650 > 28,8%; GWR 0,72 → 0,81; dự báo đa phương thức ≥ 72 giờ (ERC/ESICM 2025). 3 ảnh CC BY-NC-ND (PMC6231053, PMC12751271), không composite.
 - 2026-10-28 · 3036 myoclonus sau ngừng tim: CPC 1–2 9,8/5,8/5,7/82,0% theo 4 thực thể; nền EEG 1,6% vs 22,3%; HIBI lan rộng OR 12,8 (83% vs 27%); cut-off DWI 1,495/ADC 0,735; κ = −0,05 cho kiểu myoclonus. 3 ảnh (CC BY ×2, CC BY-NC-ND ×1), không composite.
 - 2026-10-28 · 3037 ventriculitis/EVD: mủ DWI sáng/ADC tối (DNT tự do thì không); ERI 8,6%, đổi EVD HR 3,13, AI-EVD OR 0,43; CSF WBC AUC 0,828; KS 10–14/21 ngày; không lấy DNT hằng ngày. 3 ảnh CC BY. Flip 1017/1018, thêm 3038/3039.
+
+- 2026-10-28 · 3038 chết não: test ngưng thở PaCO₂ ≥ 60/↑20 + pH < 7,30; tiên quyết 36,5 °C, 5 chu kỳ bán thải, 24 giờ sau ấm; CTA 52–97%/100% (cũ) vs tiến cứu 75,5–87,3%/89,7–91,0%; CTP toàn não 93,6/92,3%, thân não 98,5/74,4%; Đức 1.272 CTA (89,3% dương); trẻ ICV–SPV 88,4%; stasis filling 34%. 4 ảnh CC BY.
+- 2026-10-28 · 3039 shunt VP: nang giả 1–4,5%, ngoại hóa vs đổi vị trí tái phát 24,1 vs 25,0% (NS); nhiễm 390 ca: CRP OR 64,1, cấy 85,7%, CoNS 55%; nhiễm shunt 9,6%; tuổi < 6 tháng RR 33,06; hai thì giảm tái nhiễm, KS 10–14/21 ngày. 4 ảnh CC BY. Flip 1019/1020, thêm 3040/3041.
