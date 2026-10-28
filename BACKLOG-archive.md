@@ -830,3 +830,5 @@
 - 2026-10-28 — flip #401/#402 → xong; append #1042 (3007 STEP/LILT & cai PN) + #1043 (383 bệnh gân hamstring gần) — check_duplicates exit 0.
 - 2026-10-28 — viết **1703** (dính khớp TDH bẩm sinh: MIO 3 mm lúc 5 ngày, cầu xương mỏm vẹt–gò má trên CT 3D, type IV 1,9 mm/lùi hàm 86%, Sawhney/He, tái dính trẻ 37,9% vs 21,1%) + **304** (đau sau cắt xương cụt: 70% hài lòng/13% không, VAS 79,1→78,5, phim đứng–ngồi, trượt sau 22,1%, nhiễm 5–15%, block/RFA 50–80%) — 4 ảnh CC BY + 1 sơ đồ CC0.
 - 2026-10-28 — flip #403→1703, #331→304; append #1044 (1707 trật khớp TDH) + #1045 (1708 gãy lồi cầu ở trẻ) — check_duplicates exit 0.
+- 2026-10-28 — viết **6100** (chăm sóc & cai ống mở khí quản ở trẻ: u hạt 81,0%, rơi ống 13,6%, sụp trên lỗ mở 55%/73,7% ở 5 năm, chữ A 18%, cai ống 21–91%, PSG oAHI 1,7 vs 5,4/giờ, rò khí–da 49% phải mổ, X-quang–nội soi không tương quan) — 3 ảnh CC BY 4.0 + 1 composite.
+- 2026-10-28 — flip #404→6100; append #1046 (6122 TAI) + #1047 (6123 rối loạn nuốt/hít sặc sau mở khí quản) — check_duplicates exit 0.
