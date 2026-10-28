@@ -818,3 +818,6 @@
 ## 2026-10-28 — lượt worker: 6112 + 3045
 - **6112** (xuất huyết thượng thận sơ sinh): 5 ảnh CC BY/CC BY-NC-SA, không composite (figure gốc đã là panel theo ngày); số chốt 0,2–0,55%, hết 20–165 ngày, LDH 667 vs 299 U/L.
 - **3045** (catheter rốn UVC/UAC): 5 ảnh CC BY 4.0; số chốt di lệch 50–90%/72 giờ, PVT 19%, POCUS Se 93,3%, UAC > 5 ngày AOR 3,8; flip #1027/#1028, append #1029 (6113)/#1030 (6114).
+
+2026-10-28: 1029 → bài 6113 (huyết khối ĐM chủ sau UAC: 8–20%/gộp 8,2%, vị trí cao 44%, UL-UAC 0/235, heparin dự phòng không giảm huyết khối; 3 ảnh: 1 CC BY-NC-ND + 2 CC BY, không composite).
+2026-10-28: 1030 → bài 6114 (EHPVO sau UVC: PVT 19%, giãn TM 97% ở 5,5 tuổi, 58% chảy máu, biliopathy 45,2%, Meso-Rex 83% thông; 5 ảnh CC BY/CC BY-NC; flip #1029/#1030, append #1031 6115/#1032 6117).
