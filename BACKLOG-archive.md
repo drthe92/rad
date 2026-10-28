@@ -789,23 +789,18 @@
 - 2026-10-27 · 3021 tăng áp lực nội sọ thứ phát (thuốc/thiếu máu/OSA): tetracycline OR 2,40, thiếu máu 47,5%, OSA 42,4%; flip 1001/1002, append 3022/3023.
 - 2026-10-27 · 3022 chọc dò tủy sống trên nền kháng đông/rối loạn đông máu: 2 ảnh CC BY 4.0 + 1 composite; máu tụ 0,20% vs 0,23% nhưng chọc ra máu 36,8–43,7% khi INR ≥ 1,5; 37 ca máu tụ trong màng cứng (54% < 24 giờ, 54,1% ở ngực); tiểu cầu AABB 50/Anh 40/Đức 20.
 - 2026-10-27 · Verify PASS 5/5 (597 bài / 597 card, parity 0, legacy warn 15); flip #1003 → xong, append #1005 (3024 LP quanh rTPA) + #1006 (3025 đảo ngược kháng đông trong XHN) — đã check_duplicates.
-
 ## 2026-10-27 — lượt worker (3024, 3025)
 - Viết **3024** (chọc dò quanh tiêu sợi huyết & lấy huyết khối) + **3025** (đảo ngược kháng đông trong ICH); 3 + 2 ảnh (CC BY 4.0 ×4, CC BY-NC-ND ×1) — **không tạo composite** vì có ảnh ND.
 - Nguồn mới đáng chú ý: ANNEXA-I hậu kiểm NCCT (PMC13688066), meta spot sign (PMC13433554), bảng liều + **andexanet rút khỏi Mỹ 22/12/2025** (PMC13110298), guideline Nhật 2019 (PMC6923159); INCH/PATCH chỉ trích abstract.
 - 2026-10-27 · worker: viết 3026 (tụt não nghịch lý, 429 ca/13 PH, ICP 1–3 mmHg) + 3027 (CAA, Boston 2.0 Se 74,8%/Sp 84,6%, tái phát 7,4–8,5%/năm, LAAO HR 0,33); 7 ảnh CC BY; verify 5/5 · 601 bài/601 card.
-
 - 2026-10-27 · worker: viết **3028** (vá sọ sau mở sọ giảm áp: MBSC 43 ca/8 sống, biến chứng 25–50%, ≤ 90 ngày SMD 0,52, tháng đầu tử vong RR 2,9) + **3029** (ARIA: ARIA-E 12,6%/24,0%, ARIA-H 17,3%/31,4%, APOE ε4/ε4 32,6%, loại trừ > 4 vi chảy máu/cSS); 8 ảnh CC BY −NC/−ND; verify 5/5 · 603 bài/603 card; flip #1009/#1010, append #1011 (3030 SDH mạn) + #1012 (3031 PRES).
-
 - 2026-10-27 · worker: viết **3030** (CSDH: ngưỡng > 10 mm/> 5 mm, tồn dư ≥ 19 HU OR 1,9, màng ngoài 74% vs màng trong 42%, EMBOLISE 4,1% vs 11,3%, STEM 16% vs 36%) + **3031** (PRES: ADC tăng, xuất huyết 17%, thể trung tâm 13%, MAP 105–125); 8 ảnh CC BY −NC/−ND; verify 5/5 · 605 bài/605 card; flip #1011/#1012, append #1013 (3032 NPH) + #1014 (3033 Wernicke).
 - 2026-10-27: viết **3032** (iNPH: DESH, EI/z-EI/góc thể chai, tap 30 mL, PENS 2025, quá dẫn lưu) + **3033** (Wernicke: thể vú–quanh cống, Caine, MRI Se 53%, liều thiamin).
 - 2026-10-27: ảnh 4+4 (CC BY/CC BY-NC/CC BY-NC-ND); loại hình đáy mắt PMC7335288 vì in lại từ Elsevier ngoài giấy phép CC; flip 1013/1014, thêm 3034/3035.
-
 - 2026-10-27 · 3034 IVH & não úng thủy sau xuất huyết: Graeb 0–12/mGS 0–32; CLEAR III mRS 48% vs 45%, tử vong 18% vs 29%; nội soi rửa shunt 13% vs 26%; EVDAI 14%/12%. 3 ảnh CC BY-NC (PMC8918245, PMC4956778).
 - 2026-10-27 · 3035 HIE sau ngừng tim: DWI < 6 giờ 0/46 ca HSI có kết cục tốt; PV650 > 28,8%; GWR 0,72 → 0,81; dự báo đa phương thức ≥ 72 giờ (ERC/ESICM 2025). 3 ảnh CC BY-NC-ND (PMC6231053, PMC12751271), không composite.
 - 2026-10-28 · 3036 myoclonus sau ngừng tim: CPC 1–2 9,8/5,8/5,7/82,0% theo 4 thực thể; nền EEG 1,6% vs 22,3%; HIBI lan rộng OR 12,8 (83% vs 27%); cut-off DWI 1,495/ADC 0,735; κ = −0,05 cho kiểu myoclonus. 3 ảnh (CC BY ×2, CC BY-NC-ND ×1), không composite.
 - 2026-10-28 · 3037 ventriculitis/EVD: mủ DWI sáng/ADC tối (DNT tự do thì không); ERI 8,6%, đổi EVD HR 3,13, AI-EVD OR 0,43; CSF WBC AUC 0,828; KS 10–14/21 ngày; không lấy DNT hằng ngày. 3 ảnh CC BY. Flip 1017/1018, thêm 3038/3039.
-
 - 2026-10-28 · 3038 chết não: test ngưng thở PaCO₂ ≥ 60/↑20 + pH < 7,30; tiên quyết 36,5 °C, 5 chu kỳ bán thải, 24 giờ sau ấm; CTA 52–97%/100% (cũ) vs tiến cứu 75,5–87,3%/89,7–91,0%; CTP toàn não 93,6/92,3%, thân não 98,5/74,4%; Đức 1.272 CTA (89,3% dương); trẻ ICV–SPV 88,4%; stasis filling 34%. 4 ảnh CC BY.
 - 2026-10-28 · 3039 shunt VP: nang giả 1–4,5%, ngoại hóa vs đổi vị trí tái phát 24,1 vs 25,0% (NS); nhiễm 390 ca: CRP OR 64,1, cấy 85,7%, CoNS 55%; nhiễm shunt 9,6%; tuổi < 6 tháng RR 33,06; hai thì giảm tái nhiễm, KS 10–14/21 ngày. 4 ảnh CC BY. Flip 1019/1020, thêm 3040/3041.
 - 2026-10-28 · 3040 chết não trẻ em: ≤ 30 ngày khám cách 24 giờ, > 30 ngày 12 giờ, đẻ non không chẩn đoán; apnea PaCO₂ ≥ 60/↑20, ECMO giảm sweep 0,05 L/min mỗi 5 phút; meta 39 bài/866 ca HMPAO 0,99/0,97 (bằng chứng thấp); CTA 43 trẻ ICV–SPV 88,4% (khuyết sọ 68,4% với A60-V60); Doppler hốc mắt OA-RI ≥ 0,77 AUC 0,99; krait bite giả chết não hồi phục. 4 ảnh CC BY.
@@ -814,11 +809,9 @@
 2026-10-28: 1024 → bài 3043 (hẹp SVC lành tính ở trẻ sau catheter; SIR 1–4; stent lớn theo trẻ; vỡ SVC 1–2%); append 3044/6109.
 2026-10-28: 1025 → bài 3044 (CVC ở trẻ: carina = T4 98% nhũ nhi; đầu catheter 10 mm (4–15) dưới carina; > 22 mm = nhĩ phải; TTE 91% so TEE; ECG lòng mạch 39,29% vẫn quá sâu; huyết khối CVC 26,60%); 4 ảnh (CC BY ×3 + CC BY-NC-ND, không composite).
 2026-10-28: 1026 → bài 6111 (RVT sơ sinh: 2,2/100.000 sinh sống, 13/100.000 đẻ non; thận trái 2,8 lần; RI 0,88; teo thận 67–90,9%; THA 38,8%/11,1 năm; tiêu sợi huyết chảy máu 75% vs 0%); 5 ảnh CC BY; append 6112/3045.
-
 ## 2026-10-28 — lượt worker: 6112 + 3045
 - **6112** (xuất huyết thượng thận sơ sinh): 5 ảnh CC BY/CC BY-NC-SA, không composite (figure gốc đã là panel theo ngày); số chốt 0,2–0,55%, hết 20–165 ngày, LDH 667 vs 299 U/L.
 - **3045** (catheter rốn UVC/UAC): 5 ảnh CC BY 4.0; số chốt di lệch 50–90%/72 giờ, PVT 19%, POCUS Se 93,3%, UAC > 5 ngày AOR 3,8; flip #1027/#1028, append #1029 (6113)/#1030 (6114).
-
 2026-10-28: 1029 → bài 6113 (huyết khối ĐM chủ sau UAC: 8–20%/gộp 8,2%, vị trí cao 44%, UL-UAC 0/235, heparin dự phòng không giảm huyết khối; 3 ảnh: 1 CC BY-NC-ND + 2 CC BY, không composite).
 2026-10-28: 1030 → bài 6114 (EHPVO sau UVC: PVT 19%, giãn TM 97% ở 5,5 tuổi, 58% chảy máu, biliopathy 45,2%, Meso-Rex 83% thông; 5 ảnh CC BY/CC BY-NC; flip #1029/#1030, append #1031 6115/#1032 6117).
 2026-10-28: 1031 → bài 6115 (tăng áp cửa phía trái do tắc TM lách: varices dạ dày đơn độc 92,3%, chảy máu 11,6%/~30% sau 3 năm, keo 93,9% vs 79,5%, PSE 40% lách; 3 ảnh: 2 CC BY + 1 CC BY-NC-ND, không composite).
@@ -827,3 +820,5 @@
 2026-10-28: 1034 → bài 6120 (u tụy ở trẻ: SPN 0,1–0,2/1 triệu trẻ/năm, Nhật 213 ca SPN 77%, T1 sáng do máu, vôi hóa 30%, Ki-67 5% vs 30% PB, cắt thân–đuôi giữ lách 9/12, vỡ u 28,6% tái phát; 4 ảnh CC BY; flip #1033/#1034, append #1035 6118/#1036 6121; thêm 61xx vào SPEC_OVERRIDE tab Nhi).
 - 2026-10-28: viết 6118 (MAS: Doppler ~400 cm/s, 66% hẹp ĐM thận, nong bóng can thiệp lại 67%/5 năm, bắc cầu chủ–chủ 55–64%) + 6121 (POPF: amylase > 3× ULN từ POD 3, trẻ POPF 11%/CR 3,4%, 2 CR-POPF đều ở u đầu tụy) — 7 ảnh CC BY 4.0.
 - Flip #1035/#1036 → xong; append #1037 (6122 giả phình mạch tạng) + #1038 (6119 THA tồn lưu sau can thiệp) — đã check_duplicates.
+- 2026-10-28 · viết **3023** (ù tai mạch đập: bảng gộp 620 ca, hẹp cảnh 15,8%/dAVF 7,4%/IIH 13,4%; MRI+MRA→HRCT→DSA; stent xoang hết PT 90%) + **3046** (giả phình ICA vỡ vào xoang bướm: lồi ICA 26,3%, CBS 0,8%, tử vong > 50% nếu không điều trị; 4 ảnh CC BY/CC BY-NC, không composite).
+- 2026-10-28 · BACKLOG: flip #1004→3023, #940→3046 (ID 250 đã dùng cho lao tủy); thêm #1039 (3050 iatrogenic ICA injury) + #1040 (3051 máu tụ tổ chức hóa xoang bướm) — đã check_duplicates exit 0.
