@@ -142,6 +142,8 @@ flowchart TD
 ## Bài liên quan chéo
 - [1697 – Hội chứng tăng đông của Cushing: VTE chu phẫu và dự phòng kháng đông](../1697-cushing-tang-dong-vte/lesson.md)
 - [1696 – Bệnh Cushing do u tuyến yên: MRI 3T động học, BIPSS, Nelson](../1696-benh-cushing-u-tuyen-yen/lesson.md)
+- [1699 – Bệnh Cushing ở trẻ em: chậm tăng trưởng + tăng cân](../1699-benh-cushing-tre-em/lesson.md)
+- [1700 – Hội chứng Cushing chu kỳ: dao động cortisol và bẫy xét nghiệm âm giả](../1700-cushing-chu-ky/lesson.md)
 - [155 – Thượng thận tình cờ](../155-thuong-than-tinh-co/lesson.md)
 - [194 – Cushing do u vỏ thượng thận ở trẻ: chuẩn bị chu phẫu](../194-cushing-u-vo-thuong-than-tre-chu-phau/lesson.md)
 - [246 – Hội chứng Sheehan: hoại tử tuyến yên sau sinh](../246-hoi-chung-sheehan-hoai-tu-tuyen-yen-sau-sinh/lesson.md)

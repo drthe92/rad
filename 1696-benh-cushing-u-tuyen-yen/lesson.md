@@ -135,6 +135,8 @@ flowchart TD
 ## Bài liên quan chéo
 - [1694 – Cushing do glucocorticoid ngoại sinh: thượng thận teo hai bên và cai thuốc](../1694-cushing-do-glucocorticoid-ngoai-sinh/lesson.md)
 - [1697 – Hội chứng tăng đông của Cushing: VTE chu phẫu](../1697-cushing-tang-dong-vte/lesson.md)
+- [1699 – Bệnh Cushing ở trẻ em: chậm tăng trưởng + tăng cân, MRI 3T, BIPSS](../1699-benh-cushing-tre-em/lesson.md)
+- [1700 – Hội chứng Cushing chu kỳ: dao động cortisol và bẫy xét nghiệm âm giả](../1700-cushing-chu-ky/lesson.md)
 - [245 – U tuyến yên chảy máu/nhồi máu (pituitary apoplexy)](../245-u-tuyen-yen-chay-mau-nhoi-mau-pituitary-apoplexy/lesson.md)
 - [246 – Hội chứng Sheehan: hoại tử tuyến yên sau sinh](../246-hoi-chung-sheehan-hoai-tu-tuyen-yen-sau-sinh/lesson.md)
 - [155 – Thượng thận tình cờ](../155-thuong-than-tinh-co/lesson.md)

@@ -872,3 +872,7 @@
 ## Nhật ký worker
 - 2026-10-29 — viết **1694** (Cushing do glucocorticoid ngoại sinh) + **1696** (bệnh Cushing do u tuyến yên): 4 ảnh (CC BY, CC BY-NC, CC BY-NC-ND, CC BY-NC-SA), không composite; verify **6/6 PASS** (668 bài/668 card, parity 0).
 - 2026-10-29 — flip **#1074/#1075 → xong**; append **#1076 (ID 1699, Cushing ở trẻ)** + **#1077 (ID 1700, Cushing chu kỳ)** — đã `check_duplicates` exit 0; BACKLOG.md phình **~354 KB** → chạy `split_backlog.py --auto`.
+
+## 2026-10-29 — lượt worker: 1699 + 1700
+- Viết **1699** (Cushing trẻ em: MRI 3 mm, X-quang xẹp T9/L2/L3 + T-score −4,9, BIPSS theo tuổi) và **1700** (Cushing chu kỳ: UFC 2.342,7→48,7→1.113,6, cortisol tóc 1 cm/tháng, BIPSS âm giả khi eucortisolemia); 4+4 ảnh PMC (CC BY / CC BY-NC / 2 ND — không composite), verify PASS 6/6.
+- Flip #1076/#1077 → xong; append #1078 (1704 ACTH lạc chỗ ẩn) + #1079 (1705 ĐTĐ nhạt sau TSS) — đã check_duplicates.
