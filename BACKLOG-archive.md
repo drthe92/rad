@@ -865,3 +865,6 @@
 ## Nhật ký worker — 2026-10-29 (đợt 3)
 - **195** (đột quỵ cấp ở PPGL chưa cắt u): 3 ảnh CC BY 4.0 (PMC13236608), không composite; **194** (Cushing do u vỏ thượng thận ở trẻ): 2 ảnh CC BY 4.0 (PMC10702754, PMC13433170).
 - Flip #958/#959 → xong; append 2 khoảng trống: **196** (PPGL ở thai kỳ), **1697** (tăng đông trong Cushing) — đã check_duplicates.
+## Nhật ký worker — 2026-10-29 (đợt 4)
+- **1697** (tăng đông của Cushing): 2 ảnh CC BY/CC BY-NC 3.0 (PMC4237579, PMC4170165), không composite; **169** nâng cấp: +6 bullet số liệu 2021–2025 + 1 ảnh MRI thai 11 tuần 5 ngày (PMC10941258, CC BY 4.0).
+- Flip #1072 (gộp vào 169, không tạo ID trùng)/#1073 → xong; append 2 khoảng trống: **1695** (Cushing ngoại sinh), **1696** (Cushing do u tuyến yên/BIPSS) — đã check_duplicates; verify PASS 6/6 (666 bài/666 card).

@@ -16,6 +16,8 @@
 | 10 | Europe PMC / Journal of Clinical Medicine (review) | Pathogenic MAX Variant in Bilateral Adrenal Paragangliomas: The Dilemma of Cortical-Sparing Surgery. 2025 (PMC12723551) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12723551/ | **CC BY 4.0** | Không lấy ảnh; cạm bẫy tái phát sau bảo tồn vỏ (1 năm) |
 | 11 | Radiopaedia | Pheochromocytoma / paraganglioma — case index (chỉ mở từng ca) | https://radiopaedia.org/articles/phaeochromocytoma | CC BY-NC-SA (từng ca) | Dẫn link — không scrape hàng loạt |
 | 12 | AuntMinnie | Adrenal mass — Case of the Day | https://www.auntminnie.com/ | Paywall / điều khoản trang | **Chỉ dẫn link, không tải** |
+| 13 | Europe PMC / JCEM Case Reports | Pheochromocytoma Diagnosed During First Trimester of Pregnancy. JCEM Case Rep 2024 (PMC10941258). *Tên tác giả chưa đối chiếu — ghi tạp chí + năm + PMCID* | https://pmc.ncbi.nlm.nih.gov/articles/PMC10941258/ | **CC BY 4.0** | `images/169_pheo-thai_MRI_PMC10941258-F1-CCBY.jpg` + ca: nữ 33 tuổi, 11 tuần 5 ngày, khối 4 cm sát IVC, normetanephrine 2.141,8 pg/mL, mổ nội soi 18 tuần 1 ngày; tần suất 1/15.000–1/54.000 |
+| 14 | Europe PMC / Frontiers in Oncology | Deng S, Li F, Tian J, Sun C, Zhang Y. What should we focus on in pregnancy complicated by pheochromocytoma? a bibliometric analysis (1990–2024). Front Oncol 2025;15:1557376 (PMC12312014) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12312014/ | **CC BY 4.0** | Không lấy ảnh; số liệu: UKOSS 0,000351%, Thụy Điển 0,000478%, Mayo 0,006612%; MRI 90–100% vs siêu âm 54%; mổ 14–23 tuần, biến cố 3,8–4,5%; 70% cắt u lúc sinh/sau sinh; doxazosin tỉ lệ thai/mẹ 0,8 |
 
 ## Ghi chú giấy phép
 - **CC BY 4.0** (PMC11368778, PMC9884650, PMC13135459, PMC13271840, PMC12723551): dùng/ghép được khi ghi nguồn.

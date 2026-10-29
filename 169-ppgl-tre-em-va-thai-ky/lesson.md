@@ -31,6 +31,18 @@ certainty: tong-hop-y-van
 - **Số liệu u:** trung vị **> 5 cm**; **60–70%** một bên, **8%** hai bên, **18%** PGL đơn độc, **2,5–5%** nhiều PGL. **66%** ca được xét nghiệm gen có **đột biến dòng mầm** (SDHB 19%, VHL 13%, RET 19%).
 - **Nguyên tắc hình ảnh:** **MRI bụng–khung chậu không gadolinium** là lựa chọn; **MIBG/PET chống chỉ định trong thai** (có thể làm sau sinh nếu nghi hai bên/đa ổ/di căn).
 
+#### 1.1b. Số liệu cập nhật 2021–2025 (bổ sung, đã đối chiếu PMCID)
+
+- **Tần suất theo sổ bộ dân số (chính xác hơn "1/15.000–1/300.000"):** **UKOSS 10/2.852.099 = 0,000351%**; **Thụy Điển 21/4.390.869 = 0,000478%**; **Mayo Clinic 2/30.246 = 0,006612%** — tức khoảng **1/15.000 đến 1/285.000 thai kỳ**, dao động theo cách chọn mẫu (PMC12312014). Một số bài vẫn dùng **1/15.000–1/54.000 thai kỳ/năm** (PMC10941258).
+- **Tử vong theo thời điểm chẩn đoán (Bancos 2021, *Lancet Diabetes Endocrinol*, 232 nữ/249 thai, 1980–2019):** tử vong mẹ **1%**, tử vong thai **9%**, **6,5%** mẹ có biến chứng tim nặng do catecholamine. **31,3%** chỉ được chẩn đoán **sau sinh**; trong nhóm đó tử vong mẹ **3,9%** so với **0%** khi chẩn đoán trước sinh — chẩn đoán trước sinh là yếu tố quyết định nhất. Tổng quan 135 ca: tử vong mẹ **8%**, thai **17%** (PMC10990643).
+- **Giá trị hình ảnh (số cụ thể):** **MRI phát hiện u thượng thận ở cuối thai kỳ 90–100%**, **siêu âm chỉ 54%** — vì thế **không được "yên tâm" khi siêu âm bình thường** ở tam cá nguyệt 3 (PMC12312014).
+- **Thời điểm mổ (số cụ thể):** **~70%** ca được cắt u **lúc sinh hoặc sau sinh**; nếu chẩn đoán **trước 24 tuần** và u không kiểm soát được bằng thuốc → **mổ nội soi 14–23 tuần**; biến cố mẹ–thai ở nhóm mổ trước sinh **3,8% (3/78) đến 4,5% (4/88)** (PMC12312014).
+- **Chẹn alpha trong thai:** **doxazosin** có tỉ lệ nồng độ thai/mẹ **0,8** và **chưa có ca hạ huyết áp sơ sinh** nào được báo cáo; **phenoxybenzamine** qua nhau thai rõ hơn (có ca hạ HA/suy hô hấp sơ sinh) — vẫn dùng được nhưng phải báo sơ sinh. Đích huyết áp theo ESC/ESH trong thai: **< 140/90 mmHg**.
+- **Mô hình bệnh án trong thực hành (ca PMC10941258):** nữ 33 tuổi, **11 tuần 5 ngày**, khối cạnh thượng thận phải **4 cm** sát tĩnh mạch chủ dưới, **normetanephrine huyết tương 2.141,8 pg/mL** (giới hạn 0–150,6), normetanephrine niệu **1.739 µg/24 giờ**; phenoxybenzamine **10 mg × 2/ngày** không đủ → chuyển **doxazosin 2 mg + metoprolol 12,5 mg × 2/ngày**, **cắt nội soi ở 18 tuần 1 ngày**.
+
+![MRI bụng thai 11 tuần 5 ngày: khối cạnh thượng thận phải 4 cm sát tĩnh mạch chủ dưới, thận phải teo](images/169_pheo-thai_MRI_PMC10941258-F1-CCBY.jpg)
+*Hình A (axial): khối 4 cm cạnh thượng thận phải (mũi tên đỏ) **sát tĩnh mạch chủ dưới**. Hình B (coronal): khối nằm **trên thận phải teo** (mũi tên xanh) — gợi ý u cận hạch/khối chèn ép lâu ngày. Đây là **MRI không gadolinium** ở tam cá nguyệt 1, đúng là modality nên dùng. Nguồn: JCEM Case Reports 2024 (PMC10941258), CC BY 4.0, nguyên bản.*
+
 ## 2. Mẫu hình + chẩn đoán phân biệt theo vị trí (Gamut)
 
 - **Khối thượng thận ở trẻ — 6 nhóm chính:**
