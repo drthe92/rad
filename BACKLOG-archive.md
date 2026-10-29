@@ -880,3 +880,5 @@
 ## 2026-10-29 — lượt worker: 1695 + 1406
 - Viết **1695** (²²⁵Ac-DOTATATE sau ¹⁷⁷Lu ở PPGL: Krenning ≥ 3, 100 kBq/kg q8 tuần, trần 44 MBq/liều, DCR 87,5%/kháng ¹⁷⁷Lu 66,6%, eGFR −8,4 mL/phút/năm) và **1406** (tái bong sau mổ ROP: 94,2%→88,2% và 63,6%→30,3% sau 9,27 năm, type 2 = 10/13 bong lại, mổ lại 8–23%).
 - Flip #960/#373 → xong; append #1080 (1412 RRD muộn ở ROP hồi phục) + #1081 (1711 dosimetry hạt alpha) — đã check_duplicates.
+- 2026-10-29 (worker rad-backlog): viết **1405** (lác ngoài thứ phát sau mổ lác trong: 95,9%→54,9% thành công động học 1→10 năm, over-minus 80,63% nhưng góc trở lại, 1 mm MR ≈ 3,5 PD; 3 ảnh PMC13524386/PMC8772490/PMC12640464) + **1412** (khúc xạ lý liệt ở trẻ Down/bại não/tự kỷ: tropicamide thay cyclopentolate, bias 2 máy −2,12→−1,37 D, keratoconus 15% mắt Down 9–18 tuổi; 3 ảnh CC BY 4.0).
+- 2026-10-29: #961 đổi ID đề xuất 1404→**1412** (1404 đã có bài biến chứng anti-VEGF); #1080 đổi 1412→**1415** để tránh trùng; append 2 khoảng trống mới 1413 (tụt/mất cơ MR, MRI hốc mắt) + 1414 (sàng lọc keratoconus ở Down, tomography + CXL).
