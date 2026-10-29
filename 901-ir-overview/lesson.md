@@ -22,6 +22,8 @@ certainty: tong-hop-y-van
 | Đáp ứng sau TACE/đốt (Treatment response) | Gan (liver) | U sống (viable) vs viêm xung huyết vs Lipiodol | Margin 5–10 mm; mạch > 3 mm = heat-sink; LR-TR Viable/Equivocal/Nonviable | `930`, `121` |
 | An toàn bức xạ (Radiation dose) | Phòng CT fluoroscopy/DSA | Tán xạ ngược vs tới, liều da bệnh nhân, liều nhân viên | DAP > 500 Gy·cm², air kerma > 5 Gy, chiếu > 60 phút = ngưỡng cảnh báo; áo chì 0,5 mm Pb giảm ~97%; CTF ít liều hơn DSA **9,1 lần** | `932` |
 | Nang giáp có triệu chứng (Cystic thyroid nodule) | Tuyến giáp (thyroid) | Nang thuần, nang ưu thế dịch, nang keo đặc, ung thư có thành phần nang | Dịch > 50% thể tích + FNA lành tính; VRR > 50% = thành công; khàn tiếng 0,53% | `1622`, `230` |
+| Nhân giáp ĐẶC lành tính (Solid benign nodule) | Tuyến giáp (thyroid) | RFA vs MWA vs PEI vs mổ; nhân đặc-ưu thế dịch | Bethesda II + > 2 cm đang lớn; VRR 12 tháng **−86% (RFA)/−80% (MWA)**; **IAR ≥ 49%** (AUC 0,87) và **≥ 73%** (AUC 0,84); biến chứng nặng **1,35%** | `1629`, `1622` |
+| Sốc phản vệ trong can thiệp nang sán (Hydatid anaphylaxis) | Gan/phúc mạc (liver) | Dịch nang sán vs cản quang vs vasovagal vs sốc nhiễm trùng | Mày đay + co thắt phế quản/tụt HA trong **5–30 phút**; vỡ nang **3–17%**, phản vệ sau vỡ **~2%**; nang **≥ 7,8 cm** (AUC 0,83); adrenalin **0,5 mg IM** lặp mỗi **5 phút** | `934`, `139`, `933` |
 
 ## Bài liên quan chéo
 - [900 – Đại cương IR & sinh thiết](../900-ir-fundamentals-biopsy/lesson.md) *(đã có)*
@@ -29,6 +31,9 @@ certainty: tong-hop-y-van
 - [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) (LR-TR sau TACE)
 - [932 – An toàn bức xạ trong can thiệp CT/DSA](../932-an-toan-buc-xa-ct-dsa/lesson.md) *(đã có)*
 - [1622 – Đốt cồn nang giáp lành tính](../1622-dot-con-nang-giap-pei/lesson.md) *(đã có)*
+- [1629 – Đốt nhiệt nhân giáp lành tính đặc (RFA/MWA)](../1629-dot-nhiet-nhan-giap-lanh-tinh-dac/lesson.md) *(đã có)*
+- [934 – Sốc phản vệ do vỡ nang sán khi can thiệp](../934-soc-phan-ve-do-vo-nang-san/lesson.md) *(đã có)*
+- [933 – Sốc phản vệ & PC-AKI do thuốc cản quang](../933-an-toan-thuoc-can-quang/lesson.md) *(đã có)*
 
 ## Quy hoạch Master Curriculum Can thiệp (900–999)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -39,5 +44,7 @@ certainty: tong-hop-y-van
 - 920 – Nút mạch Cầm máu: Tiêu hóa, Ho máu & Chấn thương Tạng *(đã có — [bài học](../920-vascular-embolization-gi-bleed/lesson.md))*
 - 930 – Can thiệp Ung thư Gan: TACE, RFA/MWA & LI-RADS TRA *(đã có — [bài học](../930-hepatic-oncology-tace-rfa/lesson.md))*
 - 931 – Takayasu: nong/stent & phẫu thuật bắc cầu — chọn bệnh nhân theo hoạt tính viêm, theo dõi tái hẹp *(đã có — [bài học](../931-takayasu-can-thiep-noi-mach-va-phau-thuat/lesson.md))*
+- 934 – Sốc phản vệ do vỡ nang sán khi can thiệp (PAIR, chọc hút, mổ) *(đã có — [bài học](../934-soc-phan-ve-do-vo-nang-san/lesson.md))*
+- 1629 – Đốt nhiệt nhân giáp lành tính đặc: RFA & MWA *(đã có — [bài học](../1629-dot-nhiet-nhan-giap-lanh-tinh-dac/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -160,6 +160,7 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [230 – Tuyến giáp ACR TI-RADS & hạch cổ](../230-tuyen-giap-hach-co/lesson.md) (phân tầng nhân giáp trước can thiệp)
+- [1629 – Đốt nhiệt nhân giáp lành tính ĐẶC (RFA/MWA): IAR, hydrodissection & ngưỡng đốt lại](../1629-dot-nhiet-nhan-giap-lanh-tinh-dac/lesson.md) (bài song song: nhân đặc)
 - [929 – Gây xơ hóa nang qua da](../929-xo-hoa-nang-qua-da/lesson.md) (nguyên lý cồn/chất xơ hóa, khác biệt nang giáp)
 - [901 – Tổng quan Điện quang Can thiệp](../901-ir-overview/lesson.md) (an toàn thủ thuật, đáp ứng)
 - [932 – An toàn bức xạ trong can thiệp](../932-an-toan-buc-xa-ct-dsa/lesson.md) (thủ thuật dưới siêu âm: không liều)

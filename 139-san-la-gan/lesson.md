@@ -245,6 +245,7 @@ flowchart TD
 - [131 – Tắc mật](../131-tac-mat/lesson.md)
 - [621 – Nang sán lá phổi ở trẻ](../621-nang-san-la-phoi-o-tre/lesson.md)
 - [632 – Theo dõi dài hạn & dự phòng tái phát nang sán: huyết thanh, albendazole chu kỳ, PAIR, sốc phản vệ](../632-theo-doi-dai-han-nang-san-tai-phat/lesson.md) (bài tiếp theo: sau điều trị)
+- [934 – Sốc phản vệ do vỡ nang sán khi can thiệp: phân tầng nguy cơ & phác đồ tại bàn chọc](../934-soc-phan-ve-do-vo-nang-san/lesson.md) (phía phòng can thiệp)
 - [900 – Đại cương can thiệp](../900-ir-fundamentals-biopsy/lesson.md) (dẫn lưu/PAIR)
 
 ## Ảnh

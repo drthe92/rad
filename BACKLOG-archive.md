@@ -888,3 +888,6 @@
 - Append #1086 (1416 glôcôm do dầu silicone) + #1087 (1417 khi nào giữ dầu vĩnh viễn) — đã check_duplicates.
 - 2026-10-29 (worker rad-backlog): viết **1808** (sirolimus ở dị dạng bạch huyết phức tạp — VASE 132 ca: 85% cải thiện, độc tính 96%/độ 3–4 18%, ngừng hẳn 8%, tái phát 54% sau ngừng, 36% dùng lại; đích nồng độ 10–13/6–10/2–6 ng/mL; PR ≥ 20% thể tích nhưng chỉ 43,7% giảm kích thước; 2 MRI + 1 biểu đồ + composite CC BY 4.0).
 - Append #1088 (1822 DCMRL) + #1089 (1823 trametinib/MEK) — đã check_duplicates; đổi từ 1815/1816 vì 2 ID đó đã nằm trong BACKLOG (#989/#990).
+
+- 2026-10-29 · viết **934** (sốc phản vệ do vỡ nang sán khi can thiệp): WHO-IWGE chọn PAIR > 5 cm; vỡ 3–17%, phản vệ sau vỡ ~2%, 3/104 ca; nang ≥ 7,8 cm AUC 0,828, IL-4 ≥ 415,67 ng/mL AUC 0,926; adrenalin 0,5 mg IM lặp 5 phút, theo dõi 2 pha 12–24 h.
+- 2026-10-29 · viết **1629** (RFA/MWA nhân giáp đặc lành tính): VRP 12 tháng −86%/−80%; 883 nhân sau 1 lần RFA VRR 69,1% → 86,2% (5 năm), tái phát 17,3%, đốt lại 1,2%; IAR ≥ 49%/≥ 73%; append gap 940 (AFTN) + 941 (cận giáp).
