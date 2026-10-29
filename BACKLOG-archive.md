@@ -852,31 +852,21 @@
 - 2026-10-29: append #1064 (1672 u máu bánh nhau) + #1065 (1673 truyền máu trong tử cung) — đã check_duplicates exit 0.
 - 2026-10-29: viết **307** (VCF sau SBRT — 10%/11%–21%, BED3 ≥104 Gy, nomogram 2/21/58%; ảnh PMC6378905 CC BY-NC-ND + PMC13140028 CC BY) và **1638** (giảm thai chọn lọc RFA/BCC — sống 78,76–87,5%, PPROM 12–18%, KCl không dùng trong MC; ảnh PMC6044223 CC BY-NC + composite).
 - 2026-10-29: append #1066 (308 MRONJ) + #1067 (1674 chửa sẹo mổ lấy thai) — đã check_duplicates; đổi đề xuất #1060 từ 1638 → **1675** để tránh trùng ID đã dùng.
-
-## Nhật ký worker — 2026-10-29
 - 6702 (theo dõi sau mổ nốt phổi ở trẻ): 4 ảnh + 1 composite CC BY 4.0 (PMC12717017, PMC13313816, PMC10927334); verify PASS 5/5 (659 bài/659 card).
 - Append 2 khoảng trống: 6129 (đốt nhiệt phổi ở trẻ), 6130 (viêm phổi do thuốc ở trẻ sarcoma) — đã check_duplicates.
 - 2026-10-29: viết **6106** (AAK: Lagali, LSCT/PKP/KPro, cataract) — 5 ảnh (3 CC BY-NC, 2 CC BY 4.0), không composite; **6703** (anthracycline cardiomyopathy: GLS/CTRCD/MRI tim) — 3 ảnh (2 CC BY-NC-ND, 1 CC BY 4.0).
 - 2026-10-29: ID 6105 trong BACKLOG đã bị dùng (hoại tử xương ALL) → AAK chuyển sang **6106** sau check_duplicates; append 6109 (scleral lens) + 6704 (bệnh cơ tim do xạ).
-
-## Nhật ký worker — 2026-10-29 (đợt 2)
 - **6131** (kính scleral): 3 ảnh (1 CC BY-NC-ND, 2 CC BY 4.0), không composite; **6704** (bệnh cơ tim do xạ): 3 ảnh (1 CC BY-NC-ND, 1 CC BY-NC, 1 CC BY 4.0).
 - Append 2 khoảng trống: **6132** (viêm giác mạc do kính tiếp xúc), **6705** (bệnh van tim do xạ) — đã check_duplicates; verify PASS 6/6 (663 bài/663 card).
-## Nhật ký worker — 2026-10-29 (đợt 3)
 - **195** (đột quỵ cấp ở PPGL chưa cắt u): 3 ảnh CC BY 4.0 (PMC13236608), không composite; **194** (Cushing do u vỏ thượng thận ở trẻ): 2 ảnh CC BY 4.0 (PMC10702754, PMC13433170).
 - Flip #958/#959 → xong; append 2 khoảng trống: **196** (PPGL ở thai kỳ), **1697** (tăng đông trong Cushing) — đã check_duplicates.
-## Nhật ký worker — 2026-10-29 (đợt 4)
 - **1697** (tăng đông của Cushing): 2 ảnh CC BY/CC BY-NC 3.0 (PMC4237579, PMC4170165), không composite; **169** nâng cấp: +6 bullet số liệu 2021–2025 + 1 ảnh MRI thai 11 tuần 5 ngày (PMC10941258, CC BY 4.0).
 - Flip #1072 (gộp vào 169, không tạo ID trùng)/#1073 → xong; append 2 khoảng trống: **1695** (Cushing ngoại sinh), **1696** (Cushing do u tuyến yên/BIPSS) — đã check_duplicates; verify PASS 6/6 (666 bài/666 card).
-
-## Nhật ký worker
 - 2026-10-29 — viết **1694** (Cushing do glucocorticoid ngoại sinh) + **1696** (bệnh Cushing do u tuyến yên): 4 ảnh (CC BY, CC BY-NC, CC BY-NC-ND, CC BY-NC-SA), không composite; verify **6/6 PASS** (668 bài/668 card, parity 0).
 - 2026-10-29 — flip **#1074/#1075 → xong**; append **#1076 (ID 1699, Cushing ở trẻ)** + **#1077 (ID 1700, Cushing chu kỳ)** — đã `check_duplicates` exit 0; BACKLOG.md phình **~354 KB** → chạy `split_backlog.py --auto`.
-
 ## 2026-10-29 — lượt worker: 1699 + 1700
 - Viết **1699** (Cushing trẻ em: MRI 3 mm, X-quang xẹp T9/L2/L3 + T-score −4,9, BIPSS theo tuổi) và **1700** (Cushing chu kỳ: UFC 2.342,7→48,7→1.113,6, cortisol tóc 1 cm/tháng, BIPSS âm giả khi eucortisolemia); 4+4 ảnh PMC (CC BY / CC BY-NC / 2 ND — không composite), verify PASS 6/6.
 - Flip #1076/#1077 → xong; append #1078 (1704 ACTH lạc chỗ ẩn) + #1079 (1705 ĐTĐ nhạt sau TSS) — đã check_duplicates.
-
 ## 2026-10-29 — lượt worker: 1695 + 1406
 - Viết **1695** (²²⁵Ac-DOTATATE sau ¹⁷⁷Lu ở PPGL: Krenning ≥ 3, 100 kBq/kg q8 tuần, trần 44 MBq/liều, DCR 87,5%/kháng ¹⁷⁷Lu 66,6%, eGFR −8,4 mL/phút/năm) và **1406** (tái bong sau mổ ROP: 94,2%→88,2% và 63,6%→30,3% sau 9,27 năm, type 2 = 10/13 bong lại, mổ lại 8–23%).
 - Flip #960/#373 → xong; append #1080 (1412 RRD muộn ở ROP hồi phục) + #1081 (1711 dosimetry hạt alpha) — đã check_duplicates.
@@ -888,6 +878,5 @@
 - Append #1086 (1416 glôcôm do dầu silicone) + #1087 (1417 khi nào giữ dầu vĩnh viễn) — đã check_duplicates.
 - 2026-10-29 (worker rad-backlog): viết **1808** (sirolimus ở dị dạng bạch huyết phức tạp — VASE 132 ca: 85% cải thiện, độc tính 96%/độ 3–4 18%, ngừng hẳn 8%, tái phát 54% sau ngừng, 36% dùng lại; đích nồng độ 10–13/6–10/2–6 ng/mL; PR ≥ 20% thể tích nhưng chỉ 43,7% giảm kích thước; 2 MRI + 1 biểu đồ + composite CC BY 4.0).
 - Append #1088 (1822 DCMRL) + #1089 (1823 trametinib/MEK) — đã check_duplicates; đổi từ 1815/1816 vì 2 ID đó đã nằm trong BACKLOG (#989/#990).
-
 - 2026-10-29 · viết **934** (sốc phản vệ do vỡ nang sán khi can thiệp): WHO-IWGE chọn PAIR > 5 cm; vỡ 3–17%, phản vệ sau vỡ ~2%, 3/104 ca; nang ≥ 7,8 cm AUC 0,828, IL-4 ≥ 415,67 ng/mL AUC 0,926; adrenalin 0,5 mg IM lặp 5 phút, theo dõi 2 pha 12–24 h.
 - 2026-10-29 · viết **1629** (RFA/MWA nhân giáp đặc lành tính): VRP 12 tháng −86%/−80%; 883 nhân sau 1 lần RFA VRR 69,1% → 86,2% (5 năm), tái phát 17,3%, đốt lại 1,2%; IAR ≥ 49%/≥ 73%; append gap 940 (AFTN) + 941 (cận giáp).
