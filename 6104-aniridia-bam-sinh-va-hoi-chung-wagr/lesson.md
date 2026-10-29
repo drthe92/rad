@@ -168,6 +168,7 @@ flowchart TD
 - [639 – Khối thận đặc ở trẻ: Wilms vs CMN vs RCC](../639-khoi-than-o-tre-wilms-cmn-rcc/lesson.md)
 - [651 – Đánh giá đáp ứng & theo dõi sau điều trị Wilms](../651-danh-gia-dap-ung-sau-dieu-tri-wilms/lesson.md)
 - [6700 – Biến chứng muộn & chuyển tiếp ở người sống sót sau Wilms](../6700-di-chung-muon-sau-wilms-va-chuyen-tiep/lesson.md)
+- [6106 – Bệnh giác mạc do aniridia (AAK): phân độ Lagali, ghép tế bào gốc vùng rìa, KPro & thời điểm mổ thể thủy tinh](../6106-benh-giac-mac-do-aniridia-dieu-tri-va-phuc-hoi-be-mat/lesson.md)
 - [442 – Glaucoma trên OCT](../442-glaucoma-OCT/lesson.md)
 - [451 – Hệ thống mắt: tiếp cận hình ảnh](../451-he-thong-mat/lesson.md)
 - [483 – Sàng lọc thị lực trẻ mầm non](../483-sang-loc-thi-luc-tre-mam-non/lesson.md)

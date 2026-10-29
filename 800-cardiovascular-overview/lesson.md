@@ -26,6 +26,7 @@ certainty: tong-hop-y-van
 - [070 – PE & ĐMC cấp](../070-thuyen-tac-phoi-dmc-cap/lesson.md) *(giữ nguyên dải Ngực)*
 - [810 – Vành & CAD-RADS](../810-coronary-cta-cadrads/lesson.md) *(đã có)*
 - [820 – MRI tim LGE](../820-cardiac-mri-lge-mapping/lesson.md) *(đã có)*
+- [6703 – Bệnh cơ tim do anthracycline ở người sống sót ung thư nhi: GLS, CTRCD, MRI tim & ngưỡng điều trị](../6703-benh-co-tim-do-anthracycline-o-nguoi-song-sot-ung-thu-nhi/lesson.md) *(mới)*
 
 ## Quy hoạch Master Curriculum Tim mạch (800–899)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.

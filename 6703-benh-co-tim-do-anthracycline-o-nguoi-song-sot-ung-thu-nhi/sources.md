@@ -1,0 +1,22 @@
+# Nguồn gốc — 6703-benh-co-tim-do-anthracycline-o-nguoi-song-sot-ung-thu-nhi
+
+> Bệnh cơ tim do anthracycline ở người sống sót ung thư nhi: cơ chế, phân tầng nguy cơ IGHG, định nghĩa CTRCD (ESC 2022/CTCAE), GLS, MRI tim (T1/T2/ECV/LGE), điều trị và theo dõi thai kỳ. Ngày quét: 2026-10-29. Kiểm chứng giấy phép từng ảnh trước khi tải.
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / JACC Case Reports | Chedid M, Barrett C, Sun M, Lesser A, Hryniewicz K. Late Anthracycline Cardiotoxicity Mimicking Arrhythmogenic Cardiomyopathy in a Young Adult. JACC Case Rep 2026;31:110273 (PMC13699096) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13699096/ | **CC BY-NC-ND 4.0** | `images/6703_ca-GLS_...-Fig1.webp`, `images/6703_ca-CMR-LGE-midmyocardial_...-Fig2.webp` — ca nguyên văn: 26 tuổi, Burkitt lymphoma ở 5 tuổi, **doxorubicin 120 mg/m²**, EF 55–60%, **GLS −15%**, CMR EF 56%/RVEF 49%, **LGE giữa thành vách + bám thất phải**, ECV 20% |
+| 2 | Europe PMC / Journal of Echocardiography | Tanaka H, Fukuda Y, Yamada H, et al.; Guideline Committee of the Japanese Society of Echocardiography. Practical guidance for echocardiography for cancer therapy-related cardiac dysfunction: 2026 focused update. J Echocardiogr 2026;24:123–140 (PMC13222306) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13222306/ | **CC BY 4.0** | `images/6703_phan-tang-nguy-co_...-Fig2.jpg` (phân tầng nguy cơ + lịch siêu âm); định nghĩa CTRCD nhẹ/trung bình/nặng, CTCAE v6, ngưỡng ΔGLS > 15%, mốc 250 mg/m², lịch theo chu kỳ |
+| 3 | Europe PMC / JACC CardioOncology | Leerink JM, de Baat EC, Feijen EAM, et al. Cardiac Disease in Childhood Cancer Survivors: Risk Prediction, Prevention, and Surveillance. JACC CardioOncol 2020;2:363–378 (PMC8352294) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8352294/ | **CC BY-NC-ND 4.0** | Không lấy ảnh; dịch tễ (suy tim 4,8% đến 45 tuổi; LATER 10,6%; CAD 5,3%; loạn nhịp 1,3%), phân tầng IGHG, ngưỡng GLS > 15% / < 8%, dexrazoxane, PREVENT/COG ALTE1621 |
+| 4 | Europe PMC / BMC Medical Imaging | Motevalli M, Deilami T, Kia YM, Poopak A, Houshmand G. Beyond ejection fraction: cardiac magnetic resonance imaging in anthracycline cardiotoxicity. BMC Med Imaging 2025;25:478 (PMC12628630) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12628630/ | **CC BY 4.0** | Không lấy ảnh (hình tổng hợp dạng bảng, không cần); tổng quan hệ thống: **T1/T2/ECV tăng dù không có LGE**; ECV và strain còn bất thường nhiều năm; 249 người sống sót: LV dysfunction 69,9%, RV 21,7% |
+| 5 | Europe PMC / Journal of Cardiovascular Development and Disease | Bansal N, Hazim CF, Badillo S, et al. Maternal Cardiovascular Outcomes of Pregnancy in Childhood, Adolescent, and Young Adult Cancer Survivors. J Cardiovasc Dev Dis 2022;9:373 (PMC9695103) | https://pmc.ncbi.nlm.nih.gov/articles/PMC9695103/ | **CC BY 4.0** | Không lấy ảnh; khuyến cáo siêu âm trước khi có thai, nguy cơ suy tim khi đã có độc tính tim, đội đa chuyên khoa |
+| 6 | European Society of Cardiology (ESC 2022) | 2022 ESC Guidelines on cardio-oncology. Eur Heart J 2022;43:4229–4361 | https://doi.org/10.1093/eurheartj/ehac244 | Không OA toàn văn | Không lấy ảnh; định nghĩa CTRCD và ngưỡng điều trị được trích qua PMC13222306 (không đọc trực tiếp toàn văn — ghi rõ để tránh gán sai) |
+| 7 | Bài nội bộ | 6700 — Biến chứng muộn & chuyển tiếp ở người sống sót sau Wilms | https://rad.matcauvong.com/6700-di-chung-muon-sau-wilms-va-chuyen-tiep/lesson.md | — | Khung chuyển tiếp người sống sót nhi |
+| 8 | Bài nội bộ | 820 — MRI tim: LGE & mapping | https://rad.matcauvong.com/820-cardiac-mri-lge-mapping/lesson.md | — | Vật lý T1/T2/ECV, kỹ thuật LGE |
+| 9 | Radiopaedia | Anthracycline cardiotoxicity — case index | https://radiopaedia.org/articles/anthracycline-cardiotoxicity | CC BY-NC-SA (từng ca) | **Chỉ dẫn link**, không scrape |
+| 10 | AuntMinnie | Cardiac imaging — Case of the Day | https://www.auntminnie.com/ | Paywall | Không tải, chỉ dẫn link |
+
+## Ghi chú giấy phép
+- **CC BY 4.0** (PMC13222306, PMC12628630, PMC9695103): dùng/ghép được khi ghi nguồn.
+- **CC BY-NC-ND 4.0** (PMC13699096, PMC8352294): dùng phi thương mại, **giữ nguyên bản — không crop/ghép/chỉnh sửa**; bài này **không tạo composite**.
+- Tên tác giả lấy theo `authorString` đối chiếu trực tiếp PMCID qua Europe PMC (không bịa tên/niên đại).
+- **ESC 2022**: không truy cập toàn văn trong lượt này; mọi ngưỡng ESC được trích **gián tiếp** qua PMC13222306 và ghi rõ trong bài — không gán số liệu chưa kiểm chứng cho ESC.
