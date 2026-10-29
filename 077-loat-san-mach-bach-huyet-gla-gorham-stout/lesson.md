@@ -144,6 +144,7 @@ flowchart TD
 - [078 – Dưỡng trấp ổ bụng](../078-duong-trap-o-bung/lesson.md)
 - [079 – Tràn dịch dưỡng trấp (chylothorax)](../079-tran-dich-duong-trap-chylothorax/lesson.md)
 - [696 – LAM: nang phổi lan tỏa, VEGF-D & sirolimus](../696-lam-nang-phoi-lan-toa/lesson.md)
+- [1808 – Sirolimus: theo dõi nồng độ đáy, độc tính và khi nào ngừng](../1808-sirolymus-di-dang-bach-huyet-theo-doi-ngung-thuoc/lesson.md)
 - [380 – Bệnh xơ cứng củ ở trẻ (TSC)](../380-benh-xo-cung-cu-o-tre/lesson.md)
 - [377 – U bao dây thần kinh dạng đám rối & MPNST ở NF1](../377-u-than-kinh-dang-dam-roi-va-mpnst-nf1/lesson.md)
 
