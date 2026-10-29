@@ -176,6 +176,7 @@ certainty: tong-hop-y-van
 - [1404 – Biến chứng mạn của tiêm anti-VEGF: tăng nhãn áp kéo dài, teo hoàng điểm, rách RPE, xơ hóa & đáp ứng kém](../1404-bien-chung-man-anti-vegf/lesson.md) *(mới)*
 - [486 – Lác trong điều tiết sau khi đeo kính: 5 kiểu còn lác, lăng kính, kính hai tròng & ngưỡng mổ](../486-lac-trong-dieu-tiet-theo-doi-sau-kinh/lesson.md) *(mới)*
 - [1403 – Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt thể thủy tinh](../1403-phau-thuat-rop-giai-doan-4-5/lesson.md) *(mới)*
+- [1406 – Tái bong & co kéo sau mổ ROP 4–5: phân biệt co kéo – rách mới – xuất tiết, khi nào mổ lại](../1406-tai-bong-co-keo-sau-mo-rop/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -263,6 +264,7 @@ certainty: tong-hop-y-van
 - 486 – Lác trong điều tiết sau khi đeo kính: 5 kiểu còn lác (5P), ngưỡng mổ **> 15 PD**, lăng kính **≤ 20 PD** (thành công 30,6%), kính hai tròng khi AC/A cao, nhược thị tái phát 12,74% *(đã có — [bài học](../486-lac-trong-dieu-tiet-theo-doi-sau-kinh/lesson.md))*
 - 489 – Loạn dưỡng hoa văn & teo võng mạc ngoài DI TRUYỀN (PRPH2, RP1L1/OMD, sector) vs độc tính thuốc: **EZ dày 42–44 µm** so với chứng ~17 µm, **PSPD 47,2%**, OMD mất ~1 dòng ETDRS/2 năm, ngưỡng ngừng HCQ *(mới — [bài học](../489-loan-duong-hoa-van-vs-doc-tinh-thuoc/lesson.md))*
 - 1403 – Phẫu thuật ROP giai đoạn 4–5: đai củng mạc khi 4A co kéo ngoại vi, LSV khi 4A/4B, LV khi stage 5/màng dày; thành công **~90% → 57–79% → 25–33%**, cận thị nặng sau mổ *(đã có — [bài học](../1403-phau-thuat-rop-giai-doan-4-5/lesson.md))*
+- 1406 – Tái bong & co kéo sau mổ ROP 4–5: thành công **94,2% → 88,2%** (4A) và **63,6% → 30,3%** (stage 5) sau 9 năm; mổ lại **8–23%**; **type 2 success** ở stage 5 = **10/13** bong lại *(mới — [bài học](../1406-tai-bong-co-keo-sau-mo-rop/lesson.md))*
 - 490 – Bệnh võng mạc ĐTĐ trong THAI KỲ: lịch NICE 28 tuần/16–20 tuần, ADA mỗi tam cá nguyệt; **không DR + HbA1c < 53 mmol/mol → 0/175 STDR**; PRP là ưu tiên, anti-VEGF tránh tam cá nguyệt 1; nguy cơ đến 12 tháng sau sinh *(mới — [bài học](../490-vong-mac-dai-thao-duong-trong-thai-ky/lesson.md))*
 - 493 – U lympho nguyên phát hắc mạc: dày hắc mạc 830–920 µm, **hồi âm thấp**, đốm giảm huỳnh quang ICGA 100%, trễ chẩn đoán 2 năm, sinh thiết 27G, EBRT sống còn 2 năm 94% *(mới — [bài học](../493-u-lympho-nguyen-phat-hac-mac/lesson.md))*
 - 494 – Độc thần kinh của methotrexate sau điều trị PVRL/PCNSL: **DWI sáng + ADC tối + T2 thường bình thường + không ngấm**; phân độ **CTCAE v5.0** & hình ảnh **0–3**; tích luỹ **29,2% ở 2 năm**, **IT MTX HR 4,50**, trung vị **3,0 tháng** *(mới — [bài học](../494-doc-than-kinh-methotrexate/lesson.md))*

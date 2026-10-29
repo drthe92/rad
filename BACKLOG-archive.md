@@ -876,3 +876,7 @@
 ## 2026-10-29 — lượt worker: 1699 + 1700
 - Viết **1699** (Cushing trẻ em: MRI 3 mm, X-quang xẹp T9/L2/L3 + T-score −4,9, BIPSS theo tuổi) và **1700** (Cushing chu kỳ: UFC 2.342,7→48,7→1.113,6, cortisol tóc 1 cm/tháng, BIPSS âm giả khi eucortisolemia); 4+4 ảnh PMC (CC BY / CC BY-NC / 2 ND — không composite), verify PASS 6/6.
 - Flip #1076/#1077 → xong; append #1078 (1704 ACTH lạc chỗ ẩn) + #1079 (1705 ĐTĐ nhạt sau TSS) — đã check_duplicates.
+
+## 2026-10-29 — lượt worker: 1695 + 1406
+- Viết **1695** (²²⁵Ac-DOTATATE sau ¹⁷⁷Lu ở PPGL: Krenning ≥ 3, 100 kBq/kg q8 tuần, trần 44 MBq/liều, DCR 87,5%/kháng ¹⁷⁷Lu 66,6%, eGFR −8,4 mL/phút/năm) và **1406** (tái bong sau mổ ROP: 94,2%→88,2% và 63,6%→30,3% sau 9,27 năm, type 2 = 10/13 bong lại, mổ lại 8–23%).
+- Flip #960/#373 → xong; append #1080 (1412 RRD muộn ở ROP hồi phục) + #1081 (1711 dosimetry hạt alpha) — đã check_duplicates.
