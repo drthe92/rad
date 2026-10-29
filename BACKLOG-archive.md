@@ -848,6 +848,7 @@
 - 2026-10-29 — flip #947 → 1628, #948 → 1632; append #1060 (1638 vô kinh trung ương/MRI tuyến yên), #1061 (1639 OHSS); verify PASS 5/5, 652 bài/652 card.
 ## 2026-10-29 — lượt worker (1633, 1634)
 - **1633** viêm bàng quang xạ chảy máu nặng (Droller, alum/formalin/HBOT/nút mạch) + **1634** hẹp cổ tử cung & ứ máu sau xạ (MRI T1/DWI, chọc hút, xơ hóa ethanol) — 2 ảnh + 3 ảnh, CC BY-NC-SA 4.0 / CC BY-NC 4.0 / CC BY 4.0, không composite. Flip #949/#950; append #1062 (1670 rò chậu–niệu quản) & #1063 (1671 ứ máu tuổi dậy thì).
-
 - 2026-10-29: viết 1635 (PPROM sau can thiệp, rò trocar, MRI/US PMC13202899) + 1637 (TAPS sau laser, MCA-PSV, sổ bộ 164/370 ca) — 2 ảnh/bài, CC BY 4.0.
 - 2026-10-29: append #1064 (1672 u máu bánh nhau) + #1065 (1673 truyền máu trong tử cung) — đã check_duplicates exit 0.
+- 2026-10-29: viết **307** (VCF sau SBRT — 10%/11%–21%, BED3 ≥104 Gy, nomogram 2/21/58%; ảnh PMC6378905 CC BY-NC-ND + PMC13140028 CC BY) và **1638** (giảm thai chọn lọc RFA/BCC — sống 78,76–87,5%, PPROM 12–18%, KCl không dùng trong MC; ảnh PMC6044223 CC BY-NC + composite).
+- 2026-10-29: append #1066 (308 MRONJ) + #1067 (1674 chửa sẹo mổ lấy thai) — đã check_duplicates; đổi đề xuất #1060 từ 1638 → **1675** để tránh trùng ID đã dùng.
