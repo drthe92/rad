@@ -882,3 +882,5 @@
 - Flip #960/#373 → xong; append #1080 (1412 RRD muộn ở ROP hồi phục) + #1081 (1711 dosimetry hạt alpha) — đã check_duplicates.
 - 2026-10-29 (worker rad-backlog): viết **1405** (lác ngoài thứ phát sau mổ lác trong: 95,9%→54,9% thành công động học 1→10 năm, over-minus 80,63% nhưng góc trở lại, 1 mm MR ≈ 3,5 PD; 3 ảnh PMC13524386/PMC8772490/PMC12640464) + **1412** (khúc xạ lý liệt ở trẻ Down/bại não/tự kỷ: tropicamide thay cyclopentolate, bias 2 máy −2,12→−1,37 D, keratoconus 15% mắt Down 9–18 tuổi; 3 ảnh CC BY 4.0).
 - 2026-10-29: #961 đổi ID đề xuất 1404→**1412** (1404 đã có bài biến chứng anti-VEGF); #1080 đổi 1412→**1415** để tránh trùng; append 2 khoảng trống mới 1413 (tụt/mất cơ MR, MRI hốc mắt) + 1414 (sàng lọc keratoconus ở Down, tomography + CXL).
+- 2026-10-29 (worker rad-backlog): viết **1814** (rò mật sau cắt gan: 5–15%, cohort 862 ca 16,9%/7,0% B/C, CE-MRCP κ 0,85–0,88, độ C OR tử vong 35,7, EUS-TD ca ống đứt 1,7 mm) — flip #962 → xong. ID đề xuất 1807 đã dùng (bóc tách ĐMC) → dùng 1814.
+- Append #1084 (1815 rò mật–màng phổi sau cắt gan) + #1085 (1816 PHLF: ISGLS, FLR, 50-50 criteria) — đã check_duplicates.
