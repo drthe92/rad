@@ -868,3 +868,7 @@
 ## Nhật ký worker — 2026-10-29 (đợt 4)
 - **1697** (tăng đông của Cushing): 2 ảnh CC BY/CC BY-NC 3.0 (PMC4237579, PMC4170165), không composite; **169** nâng cấp: +6 bullet số liệu 2021–2025 + 1 ảnh MRI thai 11 tuần 5 ngày (PMC10941258, CC BY 4.0).
 - Flip #1072 (gộp vào 169, không tạo ID trùng)/#1073 → xong; append 2 khoảng trống: **1695** (Cushing ngoại sinh), **1696** (Cushing do u tuyến yên/BIPSS) — đã check_duplicates; verify PASS 6/6 (666 bài/666 card).
+
+## Nhật ký worker
+- 2026-10-29 — viết **1694** (Cushing do glucocorticoid ngoại sinh) + **1696** (bệnh Cushing do u tuyến yên): 4 ảnh (CC BY, CC BY-NC, CC BY-NC-ND, CC BY-NC-SA), không composite; verify **6/6 PASS** (668 bài/668 card, parity 0).
+- 2026-10-29 — flip **#1074/#1075 → xong**; append **#1076 (ID 1699, Cushing ở trẻ)** + **#1077 (ID 1700, Cushing chu kỳ)** — đã `check_duplicates` exit 0; BACKLOG.md phình **~354 KB** → chạy `split_backlog.py --auto`.
