@@ -17,12 +17,11 @@ CERT_LABEL = {"tong-hop-y-van": "Tổng hợp y văn",
 OV_DESC = "📚 Bài tổng quan hệ: bảng DDx bắt buộc + bài liên quan chéo."
 REQUIRED_SCORES = ["LI-RADS", "Lung-RADS", "BI-RADS", "O-RADS", "TI-RADS",
                    "PI-RADS", "Bosniak", "ASPECTS", "Atlanta"]
-TABS = [("", "🌐 Tất cả"), ("nguc", "🫁 Ngực 000–099"),
-        ("bung", "🩺 Bụng 100–199"), ("thankinh", "🧠 TK & Cổ 200–299"),
-        ("msk", "🦴 MSK 300–399"), ("mat", "👁️ Mắt 400–499"),
-        ("vuspk", "🌸 Vú & SPK 500–599"), ("nhi", "👶 Nhi 600–699"),
-        ("dauco", "👃 Đầu Cổ 700–"), ("tim", "❤️ Tim 800–"),
-        ("canthiep", "🧰 Can thiệp 900–")]
+# Nhãn tab gọn: icon + tên chuyên mục; số bài do JS đếm từ thẻ (refreshTabs).
+TABS = [("", "🌐 Tất cả"), ("nguc", "🫁 Ngực"), ("bung", "🩺 Bụng"),
+        ("thankinh", "🧠 TK & Cổ"), ("msk", "🦴 MSK"), ("mat", "👁️ Mắt"),
+        ("vuspk", "🌸 Vú & SPK"), ("nhi", "👶 Nhi"), ("dauco", "👃 Đầu Cổ"),
+        ("tim", "❤️ Tim"), ("canthiep", "🧰 Can thiệp"), ("khac", "🧩 Khác")]
 
 
 def spec_of(uid):
@@ -80,7 +79,7 @@ def curated_copy(index_text):
     return cards
 
 
-def main():
+def build_page():
     root = Path(".")
     # Chỉ nhận bài "hoàn chỉnh" (có lesson.md + sources.md theo bất biến repo);
     # bài đang viết dở (chưa có sources.md) sẽ không lên hub tới khi hoàn tất.
@@ -135,9 +134,9 @@ def main():
 
     present = sorted({s for _, tags in recs for t in tags
                       for s in ([t.split(":", 1)[1]] if t.startswith("score:") else [])})
-    chips = ['<button class="chip on" data-score="">🏷️ Tất cả</button>']
-    chips += [f'<button class="chip" data-score="{s}">{s}</button>'
-              for s in REQUIRED_SCORES if s in present]
+    # Nút "Tất cả" + nút mở rộng nằm trong template; ở đây chỉ sinh chip score.
+    chips = [f'<button class="chip" data-score="{s}">{s}</button>'
+             for s in REQUIRED_SCORES if s in present]
     chips += [f'<button class="chip extra" data-score="{s}">{s}</button>'
               for s in present if s not in REQUIRED_SCORES]
     tabs = "".join(f'<button class="tab{" on" if not v else ""}" data-spec="{v}">{lab}</button>'
@@ -147,9 +146,26 @@ def main():
     page = (page.replace("__TABS__", tabs).replace("__CHIPS__", "\n".join(chips))
                 .replace("__OVSELECT__", ov_select).replace("__CARDS__", "\n".join(card_html))
                 .replace("__N__", str(len(card_html))))
-    root.joinpath("index.html").write_text(page, encoding="utf-8")
-    print(f"index.html: {len(card_html)} thẻ, {len(chips)} chips, score tags: {present}")
+    return page, len(card_html), len(chips), present
+
+
+def main(argv=None):
+    import sys
+    argv = sys.argv[1:] if argv is None else argv
+    page, ncards, nchips, present = build_page()
+    target = Path("index.html")
+    if "--check" in argv:
+        cur = target.read_text(encoding="utf-8") if target.exists() else ""
+        if cur != page:
+            print("BUILD_INDEX FAIL: index.html KHÔNG khớp tools/hub_template.html")
+            print("  → chạy: python3 tools/build_index.py  (và không sửa tay index.html)")
+            return 1
+        print(f"BUILD_INDEX OK: index.html khớp template ({ncards} thẻ, {nchips} chips)")
+        return 0
+    target.write_text(page, encoding="utf-8")
+    print(f"index.html: {ncards} thẻ, {nchips} chips, score tags: {present}")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

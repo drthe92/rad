@@ -22,7 +22,7 @@ Phạm vi thay đổi: `git status --short` + `git diff --name-only`.
 |---|---|
 | `*/lesson.md` mới/sửa | `check_duplicates.py` trước → `verify_all.py` |
 | `*/images/**`, `*/sources.md` | `verify_all.py` + đọc CREDITS của bài |
-| `index.html` | `verify_all.py`; xem `index_cards`, `lessons_missing_card` |
+| `index.html` / `tools/hub_template.html` | `verify_all.py` (cổng `hub` = `build_index.py --check`); xem `index_cards`, `lessons_missing_card` |
 | `README.md`, `BACKLOG.md` | `verify_all.py`; xem `lessons_total`, `backlog_*` |
 | `tools/**` | chạy script trên ≥5 bài mẫu + `verify_all.py` |
 | chỉ docs/AGENTS | `git diff --stat`; `verify_all.py --only lint` nếu chạm bài |

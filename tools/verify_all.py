@@ -36,6 +36,8 @@ GATES = {
     "lint": ["tools/lint_repo.py"],
     "mermaid": ["tools/fix_mermaid.py", "--check"],
     "authors": ["tools/check_credits_authors.py"],
+    # index.html phải khớp tools/hub_template.html (chặn sửa tay / ghi đè UI)
+    "hub": ["tools/build_index.py", "--check"],
 }
 ALL_CHECKS = list(GATES) + ["index"]
 

@@ -119,7 +119,7 @@ Thứ tự nguồn và luật license: theo bảng nguồn trong `AGENTS.md` và
 
 - Bài tổng quan của hệ: thêm hàng DDx / link bài mới (nếu có).
 - `README.md`: thêm dòng ID (kiểm không lặp ID).
-- `index.html`: thêm card + thumbnail (hoặc chạy `tools/build_index.py` nếu định dạng đã ổn).
+- `index.html`: **BẮT BUỘC** chạy `python3 tools/build_index.py` sau khi thêm bài — file này sinh từ `tools/hub_template.html`, **không sửa tay** (sửa tay bị lượt sau ghi đè + cổng `hub` FAIL). Đổi UI (tabs/chips/filter/responsive) → sửa `tools/hub_template.html`.
 - `BACKLOG.md`: flip mục vừa viết sang `xong` (kèm số liệu chính, ngắn).
 
 ## 8. Verify (không được bỏ)
