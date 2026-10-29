@@ -885,3 +885,5 @@
 - 2026-10-29 (worker rad-backlog): viết **6109** (NIV tại nhà quanh mổ ở trẻ) + **935** (DRL can thiệp nhi) — 6 ảnh CC BY/CC BY-NC, 2 sơ đồ Mermaid; flip #963→6109, #973→935; append #1806 (6119 mở khí quản tại nhà) + #1807 (937 SSDE/CT nhi).
 - 2026-10-29 worker: viết **1659** (di căn màng não – nội tủy) — grade MRI-LMD 1–6 + Evans = 0–9, CSF ≥ 10 mL/type I–II, 3 ảnh CC BY 4.0 (PMC13407076) + composite di căn vs sarcoid; verify PASS 6/6.
 - 2026-10-29 worker: flip #978 → xong; append #1094 (1661 Ommaya) + #1095 (1662 RANO-LM), đã check_duplicates.
+- 2026-10-29 worker: viết **1639** (đau xương do di căn) + **1407** (CNV trên loạn dưỡng hoa văn PRPH2) — 1639: 8 Gy×1 = 20–30 Gy, đáp ứng 60%/hoàn toàn 25%, SBRT hoàn toàn 48% vs 18%, SINS/Mirels (PPV 10–32%), ⁸⁹Sr/¹⁵³Sm/²²³Ra, đốt u + cement (rò 11%); 1407: CNV 5/29 (17%), PED "nằm thấp" vẫn là CNV, 3 mũi ranibizumab CMT 323→247 µm, foveal crack sign 8/56; 8 ảnh CC BY.
+- 2026-10-29 worker: flip #977→1639 và #345b→1407; append #1096 (1678 plexopathy do ung thư) + #1097 (1679 CTIBL), đã check_duplicates; verify PASS 6/6 (686 bài/686 card).
