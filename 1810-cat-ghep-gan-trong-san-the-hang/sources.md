@@ -1,0 +1,32 @@
+# Nguồn gốc — 1810 Cắt gan & ghép gan trong sán thể hang (AE)
+
+> Truy cập 2026-10-29. Nguồn lấy từ PMC (full-text XML + bản ghi Europe PMC); **kiểm giấy phép từng bài trước khi tải**. Tác giả ghi theo `authorString` của PMCID — không suy đoán.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép | Tải về? |
+|---|---|---|---|---|---|
+| 1 | *Emerg Infect Dis* | **Deibel A, Kindler Y, Mita R et al.** — "Comprehensive Survival Analysis of Alveolar Echinococcosis Patients, University Hospital Zurich, 1973–2022" (2025) — **334 ca**; mổ **151 (45,2%)**, mổ chữa khỏi **126**, **R0 105 (83,3%)**, **R1 21 (16,7%)**; tái phát **13/126 (10,3%)** (**8/21 R1** vs **5/105 R0**); **ABZ 79 tháng (R1) vs 26 tháng (R0)**; **ghép gan 3/334 (0,9%)**, 1 ca vì AE; không điều trị **90% tử vong trong 10 năm** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12044251/ | Public domain (US Government) | text |
+| 2 | *Pathogens* | **Rrupa D, Kaiser C, Melloul E et al.** — "Long-Term Outcomes After Hepatectomy for AE in Immunosuppressed Patients" (2026) — **195 ca**; **R0 77%/70%**; **ABZ 24 tháng** nếu R0; tái phát **10/195**, **2 năm 1%**; RFS **212 vs 206 tháng**, OS **236 vs 210 tháng**; **rò mật 8% vs 17%**; tử vong 90 ngày **2% vs 0%**; suy giảm miễn dịch **HR 1,4 (p = 0,626)** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13414700/ | CC BY 4.0 | text (không dùng ảnh) |
+| 3 | *Parasite* | **Calame P, Richou C, Blagosklonov O et al.** — "Is a shortened postoperative albendazole duration after curative surgery for AE possible? Results from a prospective multicenter study" (2025) — **15 ca**; **10 ca ngừng ABZ trung vị 14 tháng** khi PET/CT + MRI âm ở năm 1; **không tái phát trong 47 tháng**; recEm18 âm không bắt buộc | https://pmc.ncbi.nlm.nih.gov/articles/PMC12625319/ | CC BY 4.0 | text |
+| 4 | *Euro Surveill* | **Knapp J, Demonmerot F, Gbaguidi-Haore H et al.** — "Epidemiological and clinical characteristics of patients in the alveolar echinococcosis registry, France, 1982–2021" (2025) — **906 ca**; mổ **44,4%**; cắt gan chữa khỏi **31,7% → 89,4%**; **ghép gan 17,4% → 2,4%**; benzimidazole **SHR 0,43** (0,28–0,66) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12355909/ | CC BY 4.0 | text |
+| 5 | *Front Oncol* | **Tian F, Zhou Y, Wang J et al.** — "Diagnosis and treatment of hepatic hilar lymph node metastasis in hepatic AE: a real-world single-center experience" (2026) — yếu tố dự báo: **đường kính hạch, vôi hóa nốt, không ngấm**; **AUC 0,895/0,817**; cắt gan + nạo hạch **an toàn**, DFS không khác (p = 0,920); bỏ hạch nhiễm làm tăng tái phát | https://pmc.ncbi.nlm.nih.gov/articles/PMC12867826/ | CC BY 4.0 | 1 ảnh (Fig. 2) |
+| 6 | *Infect Dis Poverty* | **Wang X, Xiao ZJ, Xue CZ et al.** — "Clinical confirmation of an infection with E. multilocularis (Mongolian genotype): first case report … Inner Mongolia" (2025) — nữ **58 tuổi**, tổn thương **> 10 cm**, đã **ghép gan**, **tử vong sau mổ**; bạch cầu ái toan **0,90 × 10⁹/L** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12288280/ | CC BY 4.0 | 1 ảnh (Fig. 1) |
+| 7 | *Pathogens* | **Zorena K, Sulima M, Szostakowska B et al.** — "Profile of Cytokines … Advanced Liver AE and Non-Optimal Antiparasitic Treatment: Four-Year Follow-Up" (2025) — nam **50 tuổi**, nông dân vùng dịch tễ; **ABZ 400 mg × 2/ngày, 28 ngày rồi nghỉ 14 ngày**; CT năm 3 còn thành phần dịch + vôi hóa | https://pmc.ncbi.nlm.nih.gov/articles/PMC12567464/ | CC BY 4.0 | 1 ảnh (Fig. 3) |
+| 8 | *BMC Gastroenterol* | **Wang XS, Zheng HB, Zhu HH, Feng JG** — "Ex vivo liver resection combined with autologous liver transplantation in advanced AE at high altitude" (2025) — **19 ca ELRA**: biến chứng **84,2%**, tử vong chu phẫu **15,8%**, mổ **840 phút**, mất máu **2.000 mL**, không tái phát ở **16 ca** sống trong **595 ngày** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12822204/ | CC BY-NC-ND 4.0 | text (không dùng ảnh) |
+| 9 | *Cureus* | **Premec H, Barišić-Jaman M, Dinjar Kujundžić P et al.** — "AE Mimicking Perihilar Cholangiocarcinoma Leading to Liver Transplant: A Case Report" (2025) — nam **32 tuổi**, AE rốn gan giống Klatskin, cholangitis tái diễn → **ghép gan**, kết cục tốt | https://pmc.ncbi.nlm.nih.gov/articles/PMC12459208/ | CC BY-NC-ND 4.0 | text |
+| 10 | *Curr Opin Infect Dis* | **Stojković M, Junghanss T, Gehling KG** — "Alveolar echinococcosis" (2026) — ghép gan là **biện pháp cuối**, tổn dư không phải chống chỉ định; theo dõi hình ảnh **3 tháng rồi mỗi năm đến 10 năm**; TDM **4 giờ sau uống**, tuần **4-8-12**; ngừng khi **ALT > 3×** hoặc suy tủy | https://pmc.ncbi.nlm.nih.gov/articles/PMC13566459/ | CC BY-NC-ND 4.0 | text |
+| 11 | *BMC Infect Dis* | **Hu Q, Chen S, Fan Y et al.** — "Kidney invasion 2 years following liver transplantation for hepatic AE" (2023) — tái phát/di căn sau ghép; dùng đối chiếu nguy cơ sau ghép | https://pmc.ncbi.nlm.nih.gov/articles/PMC10638689/ | CC BY 4.0 | text |
+| 12 | Radiopaedia | Trang tìm kiếm "alveolar echinococcosis" — **chỉ dẫn link**, không tải ảnh | https://radiopaedia.org/search?q=alveolar+echinococcosis | Theo điều khoản trang (đa số CC BY-NC-SA) | Không |
+
+## Ghi chú giấy phép
+- **CC BY 4.0** (PMC13414700, PMC12625319, PMC12355909, PMC12867826, PMC12288280, PMC12567464, PMC10638689): dùng text + ảnh, **được tạo phái sinh** (ảnh ghép) nếu ghi công và giữ giấy phép.
+- **Public domain** (PMC12044251, xuất bản của chính phủ Hoa Kỳ): dùng text tự do, có trích dẫn.
+- **CC BY-NC-ND 4.0** (PMC12822204, PMC12459208, PMC13566459): **chỉ dùng text**, không tải ảnh, không tạo phái sinh.
+- Ảnh **không bị crop**; chỉ letterbox nền đen + dải attribution (`tools/make_composite.py`).
+- Tên tác giả đọc từ `authorString` của bản ghi PMCID (Europe PMC) và đối chiếu PMCID; **không suy đoán**.
+
+## Số liệu định lượng chính (đối chiếu nguồn)
+- **Kết quả phẫu thuật:** R0 **83,3%** (Zurich), tái phát **10,3%** toàn nhóm mổ chữa khỏi; **R1 38,1% vs R0 4,8%** — nguồn #1; R0 **70–77%**, tái phát 2 năm **1%** — nguồn #2.
+- **ABZ:** **24 tháng** sau R0 — nguồn #2; **rút ngắn còn 14 tháng** ở 10/15 ca khi PET+MRI âm — nguồn #3; TDM tuần **4-8-12** — nguồn #10.
+- **Ghép gan:** **3/334 (0,9%)** — nguồn #1; **17,4% → 2,4%** theo thời gian — nguồn #4; ELRA **19 ca**, tử vong chu phẫu **15,8%** — nguồn #8.
+- **Theo dõi:** hình ảnh **3 tháng rồi hằng năm đến 10 năm**; **recEm18** song song — nguồn #10.
+- **Chưa rõ:** ngưỡng thể tích gan còn lại (FLR) tối thiểu cho cắt gan trong AE chưa có trong các nguồn đã đọc; tỷ lệ tái phát sau ghép đồng loài hiện đại (các đoàn hệ lớn trước 2010) chưa đối chiếu toàn văn.
