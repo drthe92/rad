@@ -165,6 +165,7 @@ flowchart TD
 - [925 – Dẫn lưu đường mật trước mổ](../925-dan-luu-duong-mat-truoc-phau-thuat/lesson.md)
 - [929 – Gây xơ hóa nang qua da](../929-xo-hoa-nang-qua-da/lesson.md) (thủ thuật dưới CT/siêu âm)
 - [930 – TACE, đốt & LR-TR](../930-hepatic-oncology-tace-rfa/lesson.md) (can thiệp gan, nhiều lần chiếu)
+- [935 – Tối ưu liều can thiệp NHI: DRL theo cân nặng](../935-toi-uu-lieu-can-thiep-nhi-drl/lesson.md) (DRL nhi, preset theo cân nặng, liều tích lũy)
 
 ## Ảnh
 - Ảnh tải từ bài full-text mở (Europe PMC); nguồn + giấy phép từng file ở `images/CREDITS.md`. Ảnh **CC BY-NC** dùng **nguyên bản**, không ghép; ảnh **CC BY** được ghép bằng `tools/make_composite.py` (letterbox, giữ aspect).
