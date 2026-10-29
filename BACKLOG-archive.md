@@ -841,3 +841,4 @@
 - 2026-10-29 — flip #944 (191), #945 (1645), #407 (077 đã có sẵn — sót flip); append #1054 (1641 rò trực tràng–âm đạo), #1055 (1642 hẹp niệu quản sau vá/xạ) — check_duplicates exit 0.
 - 2026-10-29 — viết **1811** (loét dạ dày–tá tràng do trào ngược vi cầu không đích sau TACE/TARE; ID 1805 trong bảng đã bị dùng → cấp 1811): loét do xạ TARE 1,9–3,2%, muộn 1–12 tháng, 6% mổ, β 2,5/10–11 mm, bán rã 64 giờ; TACE biến chứng ĐM 1,1–7,2% (62% <72 giờ); ca coil GDA+vị phải vẫn loét; 4 ảnh CC BY (2 ca, PMC12516094 + PMC5925165).
 - 2026-10-29 — flip #408 → xong; dời ID đề xuất của #406 (1811 → 1817 vì 1811 đã dùng); append #1056 (1818 hẹp do xạ), #1057 (1819 giả phình GDA sau can thiệp) — check_duplicates exit 0.
+- 2026-10-29 — viết **1630** (khối phần phụ nghi ác trong thai: BOT 88 vs 48 mm, IOTA SR 91,7/73,5%, O-RADS 0–5, xoắn 1–28%, mổ tam cá nguyệt 2, >18 tuần khó tiếp cận, hóa trị sau 14 tuần; ca 21 tuổi dysgerminoma LDH 847) — 2 ảnh CC BY PMC13462065.
