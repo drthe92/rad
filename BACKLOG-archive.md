@@ -846,3 +846,5 @@
 - 2026-10-29 — flip #333 → 1631, #946 → 109; append #1058 (1667 tắc ruột non do dính ở thai phụ), #1059 (1668 viêm ruột thừa < 3 tuổi/sơ sinh) — check_duplicates exit 0. verify PASS 5/5 (650 bài/650 card, parity 0, warn 15 legacy).
 - 2026-10-29 — viết **1628** (POI sau bóc endometrioma hai bên: AMH −38%, hai bên POI 2,9 lần, POI sau mổ 2,4–13%, ESHRE FSH > 25 ×2, HT 75–100 µg đến 51 tuổi, DXA) + **1632** (OTC: > 200 trẻ sinh sống, 95% phục hồi nội tiết 2–7 tháng, 25–40% có thai, dải vỏ 1–1,5 mm, MRD bạch cầu 8,4%/ALL 30%).
 - 2026-10-29 — flip #947 → 1628, #948 → 1632; append #1060 (1638 vô kinh trung ương/MRI tuyến yên), #1061 (1639 OHSS); verify PASS 5/5, 652 bài/652 card.
+## 2026-10-29 — lượt worker (1633, 1634)
+- **1633** viêm bàng quang xạ chảy máu nặng (Droller, alum/formalin/HBOT/nút mạch) + **1634** hẹp cổ tử cung & ứ máu sau xạ (MRI T1/DWI, chọc hút, xơ hóa ethanol) — 2 ảnh + 3 ảnh, CC BY-NC-SA 4.0 / CC BY-NC 4.0 / CC BY 4.0, không composite. Flip #949/#950; append #1062 (1670 rò chậu–niệu quản) & #1063 (1671 ứ máu tuổi dậy thì).
