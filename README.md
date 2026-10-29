@@ -356,6 +356,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 254 | [Giãn tủy sau chấn thương tủy sống: xấu đi sau giai đoạn ổn định, khoang T2 = DNT; bóc dính, S-S bypass, shunt](254-gian-tuy-sau-chan-thuong-tuy-song/lesson.md) | `pattern:gian-tuy` `pattern:viem-tuy` `vung:tuy-song` `protocol:MRI-tuy-co-gadolinium` `protocol:MRI-dong-hoc-csf` |
 | 657 | [Dị tật hố sau: Joubert & rhombencephalosynapsis](657-di-dang-ho-sau-joubert-rhombencephalo/lesson.md) | `pattern:di-dang-ho-sau` `pattern:rang-ham` `vung:tieu-nao` `vung:nao-nhi` `protocol:MRI-nao-nhi` |
 | 208 | [Rò dịch não tủy qua xương đá ở trẻ: chảy dịch tai, viêm màng não tái diễn & khi nào vá](208-ro-dich-nao-tuy-xuong-da/lesson.md) | `pattern:ro-dich-nao-tuy` `pattern:vo-xuong-da` `pattern:chay-dich-tai` `vung:xuong-thai-duong` `vung:tai-giua` `score:House-Brackmann` `protocol:HRCT-lat-mong` `protocol:MRI-T2-CISS` |
+| 1659 | [Di căn màng não – nội tủy (LM): ngấm màng mềm theo rãnh, grade MRI-LMD 1–6, CSF ≥ 10 mL, type I/II EANO–ESMO & điều trị nội tủy](1659-di-can-mang-nao-noi-tuy/lesson.md) | `pattern:ngam-mang-nao` `pattern:ngam-mang-tuy` `pattern:not-mang-nao` `pattern:giay-day-than-kinh` `pattern:ung-thuy-nao` `pattern:gia-ung-thu` `vung:nao` `vung:cot-song` `vung:ong-song` `score:MRI-LMD-grade` `score:Evans` `score:LM-molGPA` `score:RANO-LM` `protocol:MRI-3D-T1C` `protocol:FLAIR-sau-tiem` `protocol:MRI-toan-truc` `protocol:DNT-te-bao` `incidentaloma:ngam-mang-nao` |
 
 ## Hệ Cơ – Xương – Khớp (dải 300, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |

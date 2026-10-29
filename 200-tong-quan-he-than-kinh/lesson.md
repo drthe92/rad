@@ -160,6 +160,7 @@ certainty: tong-hop-y-van
 - [1782 – Phình mạch nội sọ trong moyamoya: thân vs bàng hệ, tầm soát DSA 3D & chảy máu muộn sau tái thông](../1782-phinh-mach-trong-moyamoya/lesson.md) *(mới — nối 1780/207/248)*
 - [1795 – Xuất huyết & vi chảy máu trong moyamoya ở trẻ: SWI/T2*, phân biệt với aspirin & EDAS sớm](../1795-xuat-huyet-vi-chay-mau-moyamoya-o-tre/lesson.md) *(mới — nối 1782/681/660)*
 - [207 – Phình mạch nội sọ chưa vỡ: PHASES/ELAPSS/UIATS, ngấm thành HR-vwMRI & quyết định điều trị](../207-phinh-mach-noi-so-chua-vo/lesson.md) *(mới)*
+- [1659 – Di căn màng não – nội tủy (LM): ngấm màng mềm theo rãnh vs màng cứng, grade MRI-LMD 1–6, CSF ≥ 10 mL & type I/II EANO–ESMO](../1659-di-can-mang-nao-noi-tuy/lesson.md) *(mới)*
 
 ## Quy hoạch Master Curriculum Hệ Thần kinh (200–249)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số. Giữ nguyên 100% ID `211, 212, 213` đã tạo.
