@@ -862,3 +862,6 @@
 ## Nhật ký worker — 2026-10-29 (đợt 2)
 - **6131** (kính scleral): 3 ảnh (1 CC BY-NC-ND, 2 CC BY 4.0), không composite; **6704** (bệnh cơ tim do xạ): 3 ảnh (1 CC BY-NC-ND, 1 CC BY-NC, 1 CC BY 4.0).
 - Append 2 khoảng trống: **6132** (viêm giác mạc do kính tiếp xúc), **6705** (bệnh van tim do xạ) — đã check_duplicates; verify PASS 6/6 (663 bài/663 card).
+## Nhật ký worker — 2026-10-29 (đợt 3)
+- **195** (đột quỵ cấp ở PPGL chưa cắt u): 3 ảnh CC BY 4.0 (PMC13236608), không composite; **194** (Cushing do u vỏ thượng thận ở trẻ): 2 ảnh CC BY 4.0 (PMC10702754, PMC13433170).
+- Flip #958/#959 → xong; append 2 khoảng trống: **196** (PPGL ở thai kỳ), **1697** (tăng đông trong Cushing) — đã check_duplicates.
