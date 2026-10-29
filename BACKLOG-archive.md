@@ -852,3 +852,7 @@
 - 2026-10-29: append #1064 (1672 u máu bánh nhau) + #1065 (1673 truyền máu trong tử cung) — đã check_duplicates exit 0.
 - 2026-10-29: viết **307** (VCF sau SBRT — 10%/11%–21%, BED3 ≥104 Gy, nomogram 2/21/58%; ảnh PMC6378905 CC BY-NC-ND + PMC13140028 CC BY) và **1638** (giảm thai chọn lọc RFA/BCC — sống 78,76–87,5%, PPROM 12–18%, KCl không dùng trong MC; ảnh PMC6044223 CC BY-NC + composite).
 - 2026-10-29: append #1066 (308 MRONJ) + #1067 (1674 chửa sẹo mổ lấy thai) — đã check_duplicates; đổi đề xuất #1060 từ 1638 → **1675** để tránh trùng ID đã dùng.
+
+## Nhật ký worker — 2026-10-29
+- 6702 (theo dõi sau mổ nốt phổi ở trẻ): 4 ảnh + 1 composite CC BY 4.0 (PMC12717017, PMC13313816, PMC10927334); verify PASS 5/5 (659 bài/659 card).
+- Append 2 khoảng trống: 6129 (đốt nhiệt phổi ở trẻ), 6130 (viêm phổi do thuốc ở trẻ sarcoma) — đã check_duplicates.
