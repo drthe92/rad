@@ -136,6 +136,7 @@ certainty: tong-hop-y-van
 - [460 – Can thiệp](../460-can-thiep-mat/lesson.md) *(mới)*
 - [6104 – Aniridia bẩm sinh & hội chứng WAGR: gen 11p13, glaucoma, AAK & tầm soát Wilms](../6104-aniridia-bam-sinh-va-hoi-chung-wagr/lesson.md) *(mới)*
 - [6106 – Bệnh giác mạc do aniridia (AAK): phân độ Lagali, LSCT/PKP/KPro & thời điểm mổ thể thủy tinh](../6106-benh-giac-mac-do-aniridia-dieu-tri-va-phuc-hoi-be-mat/lesson.md) *(mới)*
+- [6131 – Kính scleral trong bệnh bề mặt nhãn cầu nặng: vault 200–350 µm trên AS-OCT, Dk/t 85–160, phù 0,88% (lành) vs 7,2% (sau ghép), tân mạch SJS thoái triển sau 8 tháng](../6131-kinh-scleral-benh-be-mat-nhan-cau/lesson.md) *(mới)*
 - [462 – U lympho nội nhãn (PVRL) vs viêm màng bồ đào giả danh: IL-10/MYD88 + PET-CT](../462-u-lympho-noi-nhan-PVRL/lesson.md) *(mới)*
 - [463 – Viêm nội nhãn nội sinh do nấm (Candida/Aspergillus): "fluff ball" & "chuỗi ngọc trai"](../463-viem-noi-nhan-noi-sinh-nam/lesson.md) *(mới)*
 - [473 – U lympho T/NK nội nhãn & u lympho thứ phát ở mắt: IL-10 không cứu được bạn, EBER mới là chốt](../473-u-lympho-T-NK-va-u-lympho-thu-phat-o-mat/lesson.md) *(mới)*

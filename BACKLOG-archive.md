@@ -858,3 +858,7 @@
 - Append 2 khoảng trống: 6129 (đốt nhiệt phổi ở trẻ), 6130 (viêm phổi do thuốc ở trẻ sarcoma) — đã check_duplicates.
 - 2026-10-29: viết **6106** (AAK: Lagali, LSCT/PKP/KPro, cataract) — 5 ảnh (3 CC BY-NC, 2 CC BY 4.0), không composite; **6703** (anthracycline cardiomyopathy: GLS/CTRCD/MRI tim) — 3 ảnh (2 CC BY-NC-ND, 1 CC BY 4.0).
 - 2026-10-29: ID 6105 trong BACKLOG đã bị dùng (hoại tử xương ALL) → AAK chuyển sang **6106** sau check_duplicates; append 6109 (scleral lens) + 6704 (bệnh cơ tim do xạ).
+
+## Nhật ký worker — 2026-10-29 (đợt 2)
+- **6131** (kính scleral): 3 ảnh (1 CC BY-NC-ND, 2 CC BY 4.0), không composite; **6704** (bệnh cơ tim do xạ): 3 ảnh (1 CC BY-NC-ND, 1 CC BY-NC, 1 CC BY 4.0).
+- Append 2 khoảng trống: **6132** (viêm giác mạc do kính tiếp xúc), **6705** (bệnh van tim do xạ) — đã check_duplicates; verify PASS 6/6 (663 bài/663 card).

@@ -217,6 +217,7 @@ certainty: tong-hop-y-van
 - [651 – Đánh giá đáp ứng & theo dõi sau điều trị Wilms (thể tích 500 cm³, DWI/ADC, tái phát)](../651-danh-gia-dap-ung-sau-dieu-tri-wilms/lesson.md) *(đã có)*
 - [6700 – Biến chứng muộn & chuyển tiếp sau Wilms: CKD/eGFR, bệnh cơ tim do anthracycline, vẹo cột sống sau xạ, ung thư thứ hai](../6700-di-chung-muon-sau-wilms-va-chuyen-tiep/lesson.md) *(mới)*
 - [6703 – Bệnh cơ tim do anthracycline ở người sống sót ung thư nhi: GLS vs LVEF, CTRCD, MRI tim (T1/ECV/LGE), ngưỡng điều trị & thai kỳ](../6703-benh-co-tim-do-anthracycline-o-nguoi-song-sot-ung-thu-nhi/lesson.md) *(mới)*
+- [6704 – Bệnh cơ tim do xạ ở người sống sót ung thư nhi: trường chiếu quyết định hình ảnh, MHD 15/30 Gy, ECV +0,136%/Gy, LGE vùng > 30 Gy, GLS giảm dù MHD 12,17 Gy](../6704-benh-co-tim-do-xa-o-nguoi-song-sot-ung-thu-nhi/lesson.md) *(mới)*
 - [6104 – Aniridia bẩm sinh & hội chứng WAGR: glaucoma, AAK & tầm soát Wilms](../6104-aniridia-bam-sinh-va-hoi-chung-wagr/lesson.md) *(mới)*
 - [654 – Tổn thương não sơ sinh KHÔNG do ngạt (hạ đường huyết, vàng nhân)](../654-ton-thuong-nao-so-sinh-khong-do-ngat/lesson.md) *(đã có)*
 - [652 – Đột quỵ & bệnh mạch máu não ở trẻ (moyamoya, FCA, viêm mạch, CVST)](../652-dot-quy-mach-mau-nao-nhi-moyamoya-viem-mach/lesson.md) *(đã có)*
