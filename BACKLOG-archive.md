@@ -886,3 +886,5 @@
 - Append #1084 (1815 rò mật–màng phổi sau cắt gan) + #1085 (1816 PHLF: ISGLS, FLR, 50-50 criteria) — đã check_duplicates.
 - 2026-10-29 (worker rad-backlog): viết **1410** (lấy dầu silicone & dầu tồn lưu: nhũ tương hóa 13,2 ± 4,8 tháng, giọt < 1 µm vô hình trên đèn khe nhưng 90,9- 2026-10-29 (worker rad-backlog): viết **1410** (lấy dầu silicone & dầu tồn lưu: nhũ tương hóa 13,2 ± 4,8 tháng, giọt < 1 µm vô hình trên đèn khe nhưng 90,9% thấy trên OCT, bong tái phát 14,9–22,4%/OR 4,8, rửa PFCL 85%; 5 ảnh PMC11232747/PMC4052149/PMC11543845/PMC11321828) — flip #412 → xong.
 - Append #1086 (1416 glôcôm do dầu silicone) + #1087 (1417 khi nào giữ dầu vĩnh viễn) — đã check_duplicates.
+- 2026-10-29 (worker rad-backlog): viết **1808** (sirolimus ở dị dạng bạch huyết phức tạp — VASE 132 ca: 85% cải thiện, độc tính 96%/độ 3–4 18%, ngừng hẳn 8%, tái phát 54% sau ngừng, 36% dùng lại; đích nồng độ 10–13/6–10/2–6 ng/mL; PR ≥ 20% thể tích nhưng chỉ 43,7% giảm kích thước; 2 MRI + 1 biểu đồ + composite CC BY 4.0).
+- Append #1088 (1822 DCMRL) + #1089 (1823 trametinib/MEK) — đã check_duplicates; đổi từ 1815/1816 vì 2 ID đó đã nằm trong BACKLOG (#989/#990).
