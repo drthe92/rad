@@ -179,6 +179,7 @@ certainty: tong-hop-y-van
 - [486 – Lác trong điều tiết sau khi đeo kính: 5 kiểu còn lác, lăng kính, kính hai tròng & ngưỡng mổ](../486-lac-trong-dieu-tiet-theo-doi-sau-kinh/lesson.md) *(mới)*
 - [1403 – Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt thể thủy tinh](../1403-phau-thuat-rop-giai-doan-4-5/lesson.md) *(mới)*
 - [1406 – Tái bong & co kéo sau mổ ROP 4–5: phân biệt co kéo – rách mới – xuất tiết, khi nào mổ lại](../1406-tai-bong-co-keo-sau-mo-rop/lesson.md) *(mới)*
+- [1410 – Lấy dầu silicone & dầu tồn lưu: nhũ tương hóa, giọt tăng phản xạ trên OCT/AS-OCT, bong tái phát sau lấy dầu & kỹ thuật rửa PFCL](../1410-lay-dau-silicone-va-dau-ton-luu/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.

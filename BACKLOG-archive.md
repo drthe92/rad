@@ -884,3 +884,5 @@
 - 2026-10-29: #961 đổi ID đề xuất 1404→**1412** (1404 đã có bài biến chứng anti-VEGF); #1080 đổi 1412→**1415** để tránh trùng; append 2 khoảng trống mới 1413 (tụt/mất cơ MR, MRI hốc mắt) + 1414 (sàng lọc keratoconus ở Down, tomography + CXL).
 - 2026-10-29 (worker rad-backlog): viết **1814** (rò mật sau cắt gan: 5–15%, cohort 862 ca 16,9%/7,0% B/C, CE-MRCP κ 0,85–0,88, độ C OR tử vong 35,7, EUS-TD ca ống đứt 1,7 mm) — flip #962 → xong. ID đề xuất 1807 đã dùng (bóc tách ĐMC) → dùng 1814.
 - Append #1084 (1815 rò mật–màng phổi sau cắt gan) + #1085 (1816 PHLF: ISGLS, FLR, 50-50 criteria) — đã check_duplicates.
+- 2026-10-29 (worker rad-backlog): viết **1410** (lấy dầu silicone & dầu tồn lưu: nhũ tương hóa 13,2 ± 4,8 tháng, giọt < 1 µm vô hình trên đèn khe nhưng 90,9- 2026-10-29 (worker rad-backlog): viết **1410** (lấy dầu silicone & dầu tồn lưu: nhũ tương hóa 13,2 ± 4,8 tháng, giọt < 1 µm vô hình trên đèn khe nhưng 90,9% thấy trên OCT, bong tái phát 14,9–22,4%/OR 4,8, rửa PFCL 85%; 5 ảnh PMC11232747/PMC4052149/PMC11543845/PMC11321828) — flip #412 → xong.
+- Append #1086 (1416 glôcôm do dầu silicone) + #1087 (1417 khi nào giữ dầu vĩnh viễn) — đã check_duplicates.
