@@ -898,3 +898,7 @@
 ## 2026-10-30 — lượt worker: 259 + 1662
 - Viết **259** SMART (latency 1–37 năm/trung bình 9,5; co giật 70–82%; ngấm vỏ–màng mềm đúng trường chiếu; DWI T2 shine-through; ASL giảm→tăng; corticoid + chụp lại 4–12 tuần) — 4 ảnh + 1 composite, CC BY/CC BY-NC-ND.
 - Viết **1662** độc tính asparaginase trong ENKTL (viêm tụy 7,5% MESA; hạ fibrinogen 11–28,8%; huyết khối 3,5% P-GDP; CVST 5–17 ngày sau PEG-ASP; tụy to lan tỏa = EUS-FNB) — 6 ảnh + 2 composite; flip #411/#413; append #1078 (261) + #1079 (1663).
+
+## 2026-10-30 — lượt worker
+- Viết **261** (RIL: 54,3%, tích lũy 21/42/48%, Scheltens ≥ 10) + **1680** (HTG-AP: TG ≥ 11,3 mmol/L, hoại tử 29,5→85,7%, insulin 0,1–0,3, TPE ASFA III); 3 ảnh + 1 composite/bài, chứng từ CC BY/CBY-NC rõ.
+- Flip #1078/#1079 → xong; append **262** (mạch lớn do xạ) + **1683** (hoại tử tụy nhiễm khuẩn, step-up); cập nhật 200/100/README/index.
