@@ -84,6 +84,7 @@ certainty: tong-hop-y-van
 - 750 – Bản đồ Hạch cổ (I–VII) & ACR NI-RADS *(đã có — [bài học](../750-cervical-lymph-nodes-nirads/lesson.md))*
 - 743 – Chảy máu cam nặng/tái diễn ở trẻ: nội soi, CTA, DSA & nút mạch (JNA, HHT), Fisch *(đã có — [bài học](../743-chay-mau-cam-nang-o-tre/lesson.md))*
 - 744 – Chảy máu cam ở trẻ có rối loạn đông máu: xét nghiệm, desmopressin/TXA & ngưỡng truyền *(đã có — [bài học](../744-chay-mau-cam-tre-roi-loan-dong-mau/lesson.md))*
+- 745 – HHT ở trẻ: Curaçao (kém tin cậy ở trẻ), tầm soát PAVM (TTCE/CT, ngưỡng động mạch nuôi ≥ 3 mm) & bAVM (MRI/MRA → DSA), bậc thang chảy máu cam (ESS) *(mới — [bài học](../745-hht-o-tre-tam-soat-avm-phoi-nao/lesson.md))*
 - 253 – Viêm xương nền sọ GIỮA không do tai (CSBO): clivus/lồi cầu, **CT âm tính không loại trừ**, MRI T1FS+Gd, sinh thiết sâu, kháng sinh ≥ 6 tuần *(đã có — dải 200, nội dung đầu cổ — [bài học](../253-viem-xuong-nen-so-giua-khong-do-tai/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

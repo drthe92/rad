@@ -146,6 +146,7 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [741 – Dị dạng mạch máu đầu–cổ ở trẻ](../741-di-dang-mach-mau-dau-co-o-tre/lesson.md) (AVM, u mạch, phân loại ISSVA)
+- [745 – HHT ở trẻ: tầm soát AVM phổi–não, Curaçao & điều trị chảy máu cam](../745-hht-o-tre-tam-soat-avm-phoi-nao/lesson.md) (bài **bệnh học** của HHT — bài 743 chỉ là tiếp cận triệu chứng)
 - [249 – Rò động mạch cảnh–xoang hang sau chấn thương](../249-ro-dong-mach-canh-xoang-hang-chan-thuong/lesson.md) (chảy máu mũi ồ ạt do nguồn cảnh trong)
 - [700 – Tổng quan đầu–cổ](../700-head-neck-overview/lesson.md)
 - [750 – Hạch cổ & NI-RADS](../750-cervical-lymph-nodes-nirads/lesson.md) (đánh giá hạch trong u mũi hầu)
