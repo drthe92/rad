@@ -889,16 +889,15 @@
 - 2026-10-29 worker: flip #977→1639 và #345b→1407; append #1096 (1678 plexopathy do ung thư) + #1097 (1679 CTIBL), đã check_duplicates; verify PASS 6/6 (686 bài/686 card).
 - 2026-10-30 worker: viết **3004** (HSCT ở trẻ CMMRD: thay khoang tạo máu, không giảm u đặc) + **1408** (anti-VEGF thai kỳ/cho bú: chọn theo Fc) — verify PASS 6/6, 688 bài/688 card.
 - 2026-10-30 worker: flip #344b→3004 và #395b→1408; append #1098 (3007 PTLD sau ghép) + #1099 (1413 HA/biến cố tim mạch sau anti-VEGF), đã check_duplicates.
-
 ## 2026-10-30 — lượt worker: 1409
 - Viết **1409** bệnh võng mạc do xạ (45–55 Gy/≥1/2 võng mạc → RR 53%; 20 Gy/2×10 Gy → RON sau 18 tháng; anti-VEGF dự phòng OR 0,50; aflibercept CMT 484→327 µm); 5 ảnh Europe PMC, verify PASS 6/6, 689 bài/689 card, flip #395c, append 1418/1419.
 - 2026-10-30: bài **1425** (viêm nội nhãn sau tiêm nội nhãn) — 0,033–0,081%/mũi, vancomycin 1 mg + ceftazidime 2,2 mg, EVS/CEVE, 3 ảnh (2 CC BY-NC-ND + 1 CC BY).
 - 2026-10-30: flip #410 (ID 1651→1425 vì trùng); append #1102 (1426) + #1103 (1427), đã check_duplicates.
-
 ## 2026-10-30 — lượt worker: 259 + 1662
 - Viết **259** SMART (latency 1–37 năm/trung bình 9,5; co giật 70–82%; ngấm vỏ–màng mềm đúng trường chiếu; DWI T2 shine-through; ASL giảm→tăng; corticoid + chụp lại 4–12 tuần) — 4 ảnh + 1 composite, CC BY/CC BY-NC-ND.
 - Viết **1662** độc tính asparaginase trong ENKTL (viêm tụy 7,5% MESA; hạ fibrinogen 11–28,8%; huyết khối 3,5% P-GDP; CVST 5–17 ngày sau PEG-ASP; tụy to lan tỏa = EUS-FNB) — 6 ảnh + 2 composite; flip #411/#413; append #1078 (261) + #1079 (1663).
-
 ## 2026-10-30 — lượt worker
 - Viết **261** (RIL: 54,3%, tích lũy 21/42/48%, Scheltens ≥ 10) + **1680** (HTG-AP: TG ≥ 11,3 mmol/L, hoại tử 29,5→85,7%, insulin 0,1–0,3, TPE ASFA III); 3 ảnh + 1 composite/bài, chứng từ CC BY/CBY-NC rõ.
 - Flip #1078/#1079 → xong; append **262** (mạch lớn do xạ) + **1683** (hoại tử tụy nhiễm khuẩn, step-up); cập nhật 200/100/README/index.
+- 2026-10-30 worker: viết **262** (bệnh mạch lớn do xạ) — 3 ca + 1 ca cơ chế, 7 ảnh/1 composite; verify PASS 6/6, 695 bài/695 card.
+- 2026-10-30 worker: flip #1080 → xong; append #1104 (263 cảnh ngoài sọ do xạ) + #1105 (264 u màng não do xạ).
