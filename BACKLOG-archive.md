@@ -922,3 +922,5 @@
 ## 2026-10-30 — lượt worker: 255 + 257
 - Viết **255** (màng nhện lưng/scalpel: 9 ảnh + 1 composite) và **257** (RROC/OKM, artifact MRA: 6 ảnh + 1 composite) → verify PASS 6/6, 709 bài/709 card.
 - Flip #964→257, #966→255; append 2 khoảng trống mới **266** (WEB/BOSS) và **267** (presyrinx) — đã `check_duplicates` exit 0.
+- 2026-10-30: viết **938** (AEF nguyên phát/sau EVAR; 7 ảnh + 1 composite, CC BY) và **256** (nhồi máu tủy sau mổ/stent ĐMC; 7 ảnh + 1 composite, CC BY/NC-ND/NC-SA) — flip #965/#967, append #1082 (939 aortocaval) + #1083 (264 xạ tủy).
+- 2026-10-30: cập nhật bảng DDx 200 + 901, README, hub; verify trước commit.

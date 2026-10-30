@@ -19,6 +19,7 @@ certainty: tong-hop-y-van
 | Nguy cơ chảy máu & Cửa sổ chọc (Access safety) | Điểm chọc (puncture site) | Nguy cơ thấp/cao (SIR), thượng vị dưới, liên sườn | INR < 1,8–2,0 + TC > 20–50k (thấp); INR < 1,5 + TC > 50k (cao); 1 Fr = 0,33 mm | `900` |
 | Ổ dịch cần dẫn lưu (Drainage) | Ổ bụng/mật/thận (abdomen) | Áp-xe, tắc mật, ứ nước (PTBD/PCN) | Seldinger vs trocar; Brödel 20–30°; chọc cao xuyên hoành = biliothorax | `910` |
 | Chảy máu hoạt tính (Active bleeding) | Tiêu hóa/phổi/tạng (bleeding) | Thoát mạch vs giả phình vs sỏi/clip giả | CTA 0,3–0,5 vs DSA 0,5–1 mL/phút; thiếu non-contrast = nhầm sỏi/clip | `920` |
+| **Rò ĐMC–ruột sau mổ/EVAR (AEF)** | ĐMC bụng–tá tràng D3/D4; ĐMC ngực–thực quản | **AEF nguyên phát** · **thứ phát type I/II** · nhiễm graft không rò · giả phình miệng nối | **Khí trong túi/quanh graft + ruột dính + thoát cản quang = AEF** (máu báo **52–75%**, tam chứng **6–12%**; CTA chỉ **47,8%**, EVAR cầm máu **7% vs 34%** tử vong, nhiễm muộn **42% vs 19%**); **khí đơn độc sau mổ mới = chưa chốt** | `938` |
 | Đáp ứng sau TACE/đốt (Treatment response) | Gan (liver) | U sống (viable) vs viêm xung huyết vs Lipiodol | Margin 5–10 mm; mạch > 3 mm = heat-sink; LR-TR Viable/Equivocal/Nonviable | `930`, `121` |
 | An toàn bức xạ (Radiation dose) | Phòng CT fluoroscopy/DSA | Tán xạ ngược vs tới, liều da bệnh nhân, liều nhân viên | DAP > 500 Gy·cm², air kerma > 5 Gy, chiếu > 60 phút = ngưỡng cảnh báo; áo chì 0,5 mm Pb giảm ~97%; CTF ít liều hơn DSA **9,1 lần** | `932` |
 | Nang giáp có triệu chứng (Cystic thyroid nodule) | Tuyến giáp (thyroid) | Nang thuần, nang ưu thế dịch, nang keo đặc, ung thư có thành phần nang | Dịch > 50% thể tích + FNA lành tính; VRR > 50% = thành công; khàn tiếng 0,53% | `1622`, `230` |
@@ -30,6 +31,7 @@ certainty: tong-hop-y-van
 - [920 – Nút mạch cầm máu](../920-vascular-embolization-gi-bleed/lesson.md) *(đã có)*
 - [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) (LR-TR sau TACE)
 - [932 – An toàn bức xạ trong can thiệp CT/DSA](../932-an-toan-buc-xa-ct-dsa/lesson.md) *(đã có)*
+- [938 – Rò động mạch chủ–ruột (AEF): khí trong túi/quanh graft, máu báo, EVAR cầu nối rồi mổ triệt để](../938-ro-dong-mach-chu-ruot/lesson.md) *(mới — nối 170/172/148)*
 - [1622 – Đốt cồn nang giáp lành tính](../1622-dot-con-nang-giap-pei/lesson.md) *(đã có)*
 - [1629 – Đốt nhiệt nhân giáp lành tính đặc (RFA/MWA)](../1629-dot-nhiet-nhan-giap-lanh-tinh-dac/lesson.md) *(đã có)*
 - [934 – Sốc phản vệ do vỡ nang sán khi can thiệp](../934-soc-phan-ve-do-vo-nang-san/lesson.md) *(đã có)*
