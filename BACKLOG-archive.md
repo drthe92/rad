@@ -926,6 +926,7 @@
 - 2026-10-30: cập nhật bảng DDx 200 + 901, README, hub; verify trước commit.
 - Viết **939** (ACF: IVC ngấm thì động mạch, sốc hiếm, thận giảm ngấm hồi phục) + **268** (RIM: BED5 55,4 Gy/2 Gy, 4 ca "dưới ngưỡng" vẫn bị, PET âm) — 6 ảnh + 2 composite CC BY 4.0; verify PASS 6/6 (713 bài/713 card).
 - Flip #1082/#1083 → xong; append #1112 (942 aortoureteric fistula) + #1113 (269 xạ lại tủy).
-
 2026-10-30 · **1713** cholesteatoma xương đá ở trẻ: DWI sáng/ADC tối (759–1.370 ×10⁻⁶ mm²/s) + T1 tối; Sanna I–V (loạt 160 ca: I 50,0%); dây VII giải ép < 12 tháng H-B I–II 100% (22/22); 3 ảnh + 1 composite (CC BY 4.0 + CC BY-NC-SA 4.0).
 2026-10-30 · Append 2 khoảng trống mới (**1715** rò dịch não tủy sau mổ xương đá, **1716** viêm đỉnh xương đá/Gradenigo) — đã qua `check_duplicates.py`.
+2026-10-30 · **196** HPS tồn tại sau ghép gan: PaO₂ −3,7 mmHg/năm trước ghép → **+6,5 mmHg/tháng**, trung vị **149 ngày** bình thường hoá; **pRH 12%**, NO hít 20 ppm → SpO₂ 100% trong 30 phút; 3 ảnh + 2 đồ thị + 1 composite (CC BY 4.0 + CC BY-NC-ND, nguyên bản).
+2026-10-30 · **192** splenosis sau cắt lách: **67%** sau vỡ lách, **63%** ca trong gan từng bị mổ; CEUS ngấm **≥ 5 phút** (lách 99% ở phút 5) + ⁹⁹ᵐTc-HDRBC; 4 ảnh + 1 composite CC BY 4.0; flip #394/#395 → xong; append **1821** (viêm phổi mTOR) + **1822** (hẹp TM cửa sau ghép).
