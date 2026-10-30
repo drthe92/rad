@@ -97,6 +97,7 @@ certainty: tong-hop-y-van
 | Màng dịch kính | Nhãn cầu (globe) | Bong võng mạc, XH dịch kính, bong hắc mạc | V/Y dính đĩa = võng mạc; aftermovement = máu; T-sign = hắc mạc | [411](../411-sieu-am-nhan-cau/lesson.md) |
 
 ## Bài liên quan chéo
+- [1408 – Anti-VEGF nội dịch kính trong THAI KỲ & cho con bú: chọn theo Fc, không theo giá](../1408-anti-vegf-thai-ky-cho-con-bu/lesson.md) *(mới — ranibizumab 48 kDa/không Fc/t½ 6 giờ vs bevacizumab 149 kDa/21 ngày, máu mẹ 15,35 vs sữa 3,14 ng/mL, sảy thai 12% trong nền 10–20%, pump-and-dump 3 ngày; nối 490/488/481)*
 - [410 – Giải phẫu hốc mắt](../410-giai-phau-hoc-mat/lesson.md)
 - [420 – Vỡ sàn hốc mắt](../420-vo-san-hoc-mat/lesson.md)
 - [421 – Lồi mắt Graves](../421-loi-mat-Graves/lesson.md)
