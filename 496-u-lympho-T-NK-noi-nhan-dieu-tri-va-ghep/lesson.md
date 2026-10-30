@@ -186,5 +186,7 @@ flowchart TD
 - [491 – PVRL: theo dõi & tái phát](../491-pvrl-theo-doi-tai-phat/lesson.md)
 - [494 – Độc thần kinh methotrexate](../494-doc-than-kinh-methotrexate/lesson.md)
 - [474 – Kháng nấm nội nhãn: chọn thuốc theo loài](../474-khang-nam-noi-nhan-chon-thuoc-theo-loai/lesson.md)
+- [1662 – Độc tính asparaginase trong ENKTL: viêm tụy hoại tử, huyết khối xoang, giữ–ngừng–tái dùng](../1662-doc-tinh-asparaginase-trong-enktl/lesson.md)
+- [684 – Tăng triglyceride do asparaginase/pegaspargase ở trẻ ALL](../684-tang-triglyceride-asparaginase-all-nhi/lesson.md)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
