@@ -892,3 +892,5 @@
 
 ## 2026-10-30 — lượt worker: 1409
 - Viết **1409** bệnh võng mạc do xạ (45–55 Gy/≥1/2 võng mạc → RR 53%; 20 Gy/2×10 Gy → RON sau 18 tháng; anti-VEGF dự phòng OR 0,50; aflibercept CMT 484→327 µm); 5 ảnh Europe PMC, verify PASS 6/6, 689 bài/689 card, flip #395c, append 1418/1419.
+- 2026-10-30: bài **1425** (viêm nội nhãn sau tiêm nội nhãn) — 0,033–0,081%/mũi, vancomycin 1 mg + ceftazidime 2,2 mg, EVS/CEVE, 3 ảnh (2 CC BY-NC-ND + 1 CC BY).
+- 2026-10-30: flip #410 (ID 1651→1425 vì trùng); append #1102 (1426) + #1103 (1427), đã check_duplicates.
