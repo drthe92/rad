@@ -932,3 +932,5 @@
 2026-10-30 · **192** splenosis sau cắt lách: **67%** sau vỡ lách, **63%** ca trong gan từng bị mổ; CEUS ngấm **≥ 5 phút** (lách 99% ở phút 5) + ⁹⁹ᵐTc-HDRBC; 4 ảnh + 1 composite CC BY 4.0; flip #394/#395 → xong; append **1821** (viêm phổi mTOR) + **1822** (hẹp TM cửa sau ghép).
 - 2026-10-30 · viết **1690** (Paget núm vú: nhũ ảnh âm ~50%, MRI tìm bệnh ẩn 50%, CK7+/p63−) + **1691** (Mondor: ống không xẹp/không dòng, tự khỏi 4–8 tuần, 12,7% có ung thư vú kèm) — 12 ảnh + 1 composite, CC BY & CC BY-NC-ND.
 - 2026-10-30 · flip #T1690/#T1691 → xong; append #1084 (1692 u tuyến núm) + #1085 (1693 Trousseau/thrombophlebitis migrans), đã check_duplicates.
+- 2026-10-30: viết **1692** (u tuyến núm vú) + **1693** (thrombophlebitis migrans/Trousseau) — 4 ảnh/bài + 1 composite, CC BY & CC BY-NC (nguyên bản); nguồn: PRSGO 2024 (387 ca), Insights Imaging 2025, Front Oncol 2024, Turk J Surg 2025, J Clin Med 2026, RPTM 2024, Cureus 2024/2019.
+- 2026-10-30: flip #1084/#1085 → xong; append 2 mục mới **1706** (Trousseau thể động mạch/NBTE) + **1707** (chảy dịch núm một ống), đã qua `check_duplicates`.

@@ -1,0 +1,12 @@
+# Ảnh — 1692-u-tuyen-num-vu
+
+| File | Nguồn | Giấy phép (license) | Link gốc |
+|---|---|---|---|
+| `1692_u-tuyen-num-vu_US-da-phuong-thuc_PMC11538075.jpg` | Lu J, Zhang J, Wu T, Ma Y, Zhou P., *Front Oncol* 2024, Fig. 1 — (A) khối giảm âm 8 × 6 mm trong núm trái; (B) mạch máu phong phú; (C) đàn hồi cứng hơn mô quanh; (D) CEUS ngấm mạnh, bờ rõ | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC11538075/ |
+| `1692_u-tuyen-num-vu_Mammography-sinh-thiet_PMC11933581.jpg` | Pitarch M, Alcantara R, Comerma L và cs., *Insights Imaging* 2025, Fig. 7 — (a) nhũ ảnh: núm trái to/bất đối xứng (vòng tròn); (b) siêu âm: không ổ khu trú; (c) sinh thiết punch: biểu bì nguyên (mũi tên) + tăng sinh tuyến đặc, cơ biểu mô còn (sao) | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC11933581/ |
+| `1692_u-tuyen-num-vu_Clinical-US-Mammo_PMC12687395.jpg` | Güzelyüz B, Papila B, Gündoğdu C, Büyükbayram H., *Turk J Surg* 2025, Fig. 1 — (a) nam 41 tuổi: núm trái to, đỏ, trợt, rỉ dịch; (b) siêu âm: núm 6 × 9 mm, ống giãn 2,2 mm có chất đặc; (c) nhũ ảnh: vùng đậm khu trú trong núm | CC BY-NC 4.0 (nguyên bản, không cắt/ghép) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12687395/ |
+| `1692_u-tuyen-num-vu_HE_PMC7358932.jpg` | Abdulwaasey M, Tariq MU, Minhas K, Kayani N., *Cureus* 2020, Fig. 1 — (A) NA nông (mũi tên dài) + ung thư xâm lấn sâu (mũi tên ngắn); (B) hình nhú; (C) tăng sinh; (D) ổ xâm lấn | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC7358932/ |
+| `composite_sieu-am-vs-nhu-anh.jpg` | Ảnh ghép letterbox từ Fig. 1 (PMC11538075) + Fig. 7 (PMC11933581): siêu âm đa phương thức vs nhũ ảnh + sinh thiết punch | CC BY 4.0 (tác phẩm phái sinh theo CC BY) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11538075/ · https://pmc.ncbi.nlm.nih.gov/articles/PMC11933581/ |
+
+Quy tắc: chỉ tải khi giấy phép cho phép. **CC BY 4.0** → được ghép letterbox (giữ nguyên tỷ lệ, không crop/kéo giãn), dải đen ghi tên bệnh + attribution, tạo bằng `tools/make_composite.py`. **CC BY-NC 4.0** → nhúng **nguyên bản**, không cắt/không ghép (an toàn hơn cả khi bài gốc không ghi ND).
+Tên tác giả đối chiếu trực tiếp `authorString` qua Europe PMC: PMC11538075 = Lu J, Zhang J, Wu T, Ma Y, Zhou P.; PMC11933581 = Pitarch M, Alcantara R, Comerma L, Vázquez de Las Heras I, Azcona J, Wiedemann A, Prutki M, Fallenberg EM.; PMC12687395 = Güzelyüz B, Papila B, Gündoğdu C, Büyükbayram H.; PMC7358932 = Abdulwaasey M, Tariq MU, Minhas K, Kayani N.

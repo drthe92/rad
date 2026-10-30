@@ -21,12 +21,14 @@ certainty: tong-hop-y-van
 | Hẹp van ĐMC (TAVI planning) | Van ĐMC (aortic valve) | Hẹp van thoái hóa, van 2 lá, thấp | Annulus thì 30–40%; vành < 10–12 mm + xoang < 30 mm = tắc vành; ĐM đùi > 5,5–6 mm | `830` |
 | Phình ĐMC bụng & Endoleak (AAA/EVAR) | ĐMC bụng (abdominal aorta) | Endoleak I–V, nội mạc, PAD (TASC/GLASS) | Nam > 5,5 cm / nữ > 5,0 cm / > 0,5 cm-6th; CT 3 pha (muộn 70–120s); thiếu pha muộn = sót type II | `840`, `170` |
 | Hẹp mạch tầm trung: chuỗi hạt & hẹp khu trú (FMD) | Động mạch thận – cảnh trong – tạng – ĐMC (medium-sized arteries) | FMD đa ổ · FMD khu trú · xơ vữa (ostial) · Takayasu · loạn sản do NF1 · Williams/Alagille · SAM · RCVS · sóng đứng | **FMD thận 4–6%; hẹp hai bên 24–78% ở trẻ; bóc tách cảnh 13,9% (≥ 3 vùng mạch OR 2,49); phình nội sọ 7%; ĐMC 10%; nong bóng có lợi 48,5–100%, tái hẹp 17–41% (stent 35,5% vs 17,4% → tránh stent khi trẻ lớn)** | `850`, `931`, `247`, `248` |
+| Huyết khối tĩnh mạch nông KHÔNG giãn tĩnh mạch / Thrombophlebitis migrans (Trousseau) | Tĩnh mạch nông chi dưới, thành ngực–thân (superficial veins) | SVT không giãn (Trousseau) · SVT trên giãn tĩnh mạch · DVT lan · Behçet · Buerger · APS/tăng đông · SVT nhiễm khuẩn · do catheter · Mondor | **> 3 cm tới SFJ/SPJ mới xét NSAID; < 3 cm hoặc có DVT = kháng đông liều điều trị; ≥ 5 cm → fondaparinux 2,5 mg × 45 ngày (0,9% vs 5,9%) hoặc rivaroxaban 10 mg**; **NVV: DVT 24,6%, PE 4,7%, tăng đông 76%, u 8,7%**; **cờ đỏ tầm soát u: hai bên RR 8,38 · nhiều trục RR 2,42 · < 3 cm RR 2,01 · lan nhanh RR 5,75** | `1693`, `1691`, `070` |
 
 ## Bài liên quan chéo
 - [070 – PE & ĐMC cấp](../070-thuyen-tac-phoi-dmc-cap/lesson.md) *(giữ nguyên dải Ngực)*
 - [810 – Vành & CAD-RADS](../810-coronary-cta-cadrads/lesson.md) *(đã có)*
 - [820 – MRI tim LGE](../820-cardiac-mri-lge-mapping/lesson.md) *(đã có)*
 - [6703 – Bệnh cơ tim do anthracycline ở người sống sót ung thư nhi: GLS, CTRCD, MRI tim & ngưỡng điều trị](../6703-benh-co-tim-do-anthracycline-o-nguoi-song-sot-ung-thu-nhi/lesson.md) *(mới)*
+- [1693 – Thrombophlebitis migrans (Trousseau) & SVT không giãn tĩnh mạch: ngưỡng 3 cm/5 cm, kiểm soát u ẩn](../1693-thrombophlebitis-migrans-trousseau/lesson.md) *(mới)*
 
 ## Quy hoạch Master Curriculum Tim mạch (800–899)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
