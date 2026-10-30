@@ -906,3 +906,6 @@
 - Viết **1644** ĐTN trung ương ở trẻ (copeptin < 6,5 pmol/L Se/Sp 100%; cuống yên ≥ 6,5 mm; 50% cuống dày là ung thư; "vô căn" sau MRI 6 tháng × 2–3 năm) — 4 ảnh + 1 composite CC BY 4.0; verify PASS 6/6, 697 bài.
 - 2026-10-30: xong 1704 (COM+cholesteatoma ở trẻ có CI; HRCT → CWU/CWD/STP, STP 348 ca biến chứng 1,7%, tái phát 13% ở trẻ) + 6122 (giả phình mạch tạng sau viêm tụy ở trẻ; CTA–DSA κ 0,29, TAE 86,5%).
 - 2026-10-30: thêm 2 hàng chờ 1713 (cholesteatoma xương đá) + 6135 (viêm tụy cấp ở trẻ INSPPIRE) — ID 1705/6123 đã bị hàng cũ chiếm.
+## 2026-10-30 — lượt worker: 1641 + 1642
+- Viết **1641** OPMD/OPDM vs CPEO (PABPN1 GCN; OPMD gốc chi 80%, khởi phát ~53 tuổi, nuốt khó 96,8%; OPDM ngọn chi 77%, cẳng chân > đùi, DWI viền vỏ–tủy ở OPDM3; CK 110 U/L vẫn bệnh cơ; CP bar 53%) — 1 ảnh CC BY 4.0 + 1 sơ đồ CC0.
+- Viết **1642** sa tạng chậu tái phát sau colpocleisis (4,2% [76/1.810]; bung 57,6% · đường hầm 15,2% · enterocele 27,3%; giải phẫu 94,8% vs hài lòng 77,5%; repeat colpocleisis 18/24) — 2 ảnh CC BY 4.0 + 1 sơ đồ CC0; verify PASS 6/6, 701 bài.

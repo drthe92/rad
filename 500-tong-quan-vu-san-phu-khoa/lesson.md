@@ -138,6 +138,7 @@ certainty: tong-hop-y-van
 - [532 – U xơ tử cung trong thai kỳ & thoái triển đỏ: T1/T2/SWI, đau cấp & đường sinh](../532-u-xo-trong-thai-ky-thoai-trien-do/lesson.md) *(đã có)*
 - [553 – Đảo ngược tử cung DO SINH: 4 độ, Johnson/O'Sullivan/Huntington–Haultain, phòng ngừa](../553-dao-nguoc-tu-cung-do-sinh/lesson.md) *(đã có)*
 - [1640 – Xoắn tử cung trong thai kỳ: ngưỡng > 45°, dấu "whirlpool" ở eo & cổ tử cung lệch trục trên MRI](../1640-xoan-tu-cung-trong-thai-ky/lesson.md) *(mới)*
+- [1642 – Sa tạng chậu tái phát sau colpocleisis: 3 cơ chế (bung 57,6% · đường hầm 15,2% · enterocele 27,3%), tái phát 4,2% (76/1.810), MRD theo PCL & chọn mổ lại](../1642-sa-tang-chau-tai-phat-sau-colpocleisis/lesson.md) *(mới — thành công giải phẫu 94,8% vs hài lòng 77,5%; repeat colpocleisis 18/24; nối 1612/561/590)*
 - [1624 – Polyp nhau & khối trong buồng tử cung sau sinh/sảy: hCG âm không loại trừ, phân độ mạch 0–3+ & UAE trước TCR](../1624-polyp-nhau-khoi-buong-tu-cung-sau-sinh/lesson.md) *(mới)*
 - [518 – Morcellation & leiomyomatosis peritonealis disseminata (LPD)](../518-morcellation-LPD/lesson.md) *(đã có)*
 - [528 – Dị dạng tử cung bẩm sinh: vách ngăn vs hai sừng (ESHRE/ESGE & ASRM)](../528-di-dang-tu-cung-bam-sinh-ESHRE-ESGE/lesson.md) *(đã có)*

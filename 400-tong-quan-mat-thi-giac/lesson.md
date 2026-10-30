@@ -99,6 +99,7 @@ certainty: tong-hop-y-van
 | Màng dịch kính | Nhãn cầu (globe) | Bong võng mạc, XH dịch kính, bong hắc mạc | V/Y dính đĩa = võng mạc; aftermovement = máu; T-sign = hắc mạc | [411](../411-sieu-am-nhan-cau/lesson.md) |
 
 ## Bài liên quan chéo
+- [1641 – OPMD & OPDM so với CPEO: sụp mi + liệt nhãn cầu + nuốt khó; OPMD gốc chi 80% (~53 tuổi), OPDM ngọn chi 77% (cẳng chân > đùi), DWI viền vỏ–tủy ở OPDM3](../1641-opmd-opdm-va-cpeo/lesson.md) *(mới — 10/13 PABPN1 93,1%; nuốt khó 96,8%; CK 110 IU/L; cricopharyngeal bar 53%; nối 498/477/421)*
 - [1409 – Bệnh võng mạc do xạ sau xạ trị u nội nhãn/hốc mắt: phân biệt tổn thương do xạ với tái phát u](../1409-benh-vong-mac-do-xa-sau-xa-tri/lesson.md) *(mới — 45–55 Gy vào ≥ 1/2 võng mạc → RR 53%; xạ toàn não trung vị 40,7 Gy vẫn gây bệnh; 20 Gy/2 lần × 10 Gy → RON sau 18 tháng; dự phòng anti-VEGF OR 0,50; aflibercept CMT 484→327 µm; nối 493/1404/1408)*
 - [1408 – Anti-VEGF nội dịch kính trong THAI KỲ & cho con bú: chọn theo Fc, không theo giá](../1408-anti-vegf-thai-ky-cho-con-bu/lesson.md) *(mới — ranibizumab 48 kDa/không Fc/t½ 6 giờ vs bevacizumab 149 kDa/21 ngày, máu mẹ 15,35 vs sữa 3,14 ng/mL, sảy thai 12% trong nền 10–20%, pump-and-dump 3 ngày; nối 490/488/481)*
 - [410 – Giải phẫu hốc mắt](../410-giai-phau-hoc-mat/lesson.md)
