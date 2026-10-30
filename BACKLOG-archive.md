@@ -930,3 +930,5 @@
 2026-10-30 · Append 2 khoảng trống mới (**1715** rò dịch não tủy sau mổ xương đá, **1716** viêm đỉnh xương đá/Gradenigo) — đã qua `check_duplicates.py`.
 2026-10-30 · **196** HPS tồn tại sau ghép gan: PaO₂ −3,7 mmHg/năm trước ghép → **+6,5 mmHg/tháng**, trung vị **149 ngày** bình thường hoá; **pRH 12%**, NO hít 20 ppm → SpO₂ 100% trong 30 phút; 3 ảnh + 2 đồ thị + 1 composite (CC BY 4.0 + CC BY-NC-ND, nguyên bản).
 2026-10-30 · **192** splenosis sau cắt lách: **67%** sau vỡ lách, **63%** ca trong gan từng bị mổ; CEUS ngấm **≥ 5 phút** (lách 99% ở phút 5) + ⁹⁹ᵐTc-HDRBC; 4 ảnh + 1 composite CC BY 4.0; flip #394/#395 → xong; append **1821** (viêm phổi mTOR) + **1822** (hẹp TM cửa sau ghép).
+- 2026-10-30 · viết **1690** (Paget núm vú: nhũ ảnh âm ~50%, MRI tìm bệnh ẩn 50%, CK7+/p63−) + **1691** (Mondor: ống không xẹp/không dòng, tự khỏi 4–8 tuần, 12,7% có ung thư vú kèm) — 12 ảnh + 1 composite, CC BY & CC BY-NC-ND.
+- 2026-10-30 · flip #T1690/#T1691 → xong; append #1084 (1692 u tuyến núm) + #1085 (1693 Trousseau/thrombophlebitis migrans), đã check_duplicates.
