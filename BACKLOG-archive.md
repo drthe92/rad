@@ -934,3 +934,6 @@
 - 2026-10-30 · flip #T1690/#T1691 → xong; append #1084 (1692 u tuyến núm) + #1085 (1693 Trousseau/thrombophlebitis migrans), đã check_duplicates.
 - 2026-10-30: viết **1692** (u tuyến núm vú) + **1693** (thrombophlebitis migrans/Trousseau) — 4 ảnh/bài + 1 composite, CC BY & CC BY-NC (nguyên bản); nguồn: PRSGO 2024 (387 ca), Insights Imaging 2025, Front Oncol 2024, Turk J Surg 2025, J Clin Med 2026, RPTM 2024, Cureus 2024/2019.
 - 2026-10-30: flip #1084/#1085 → xong; append 2 mục mới **1706** (Trousseau thể động mạch/NBTE) + **1707** (chảy dịch núm một ống), đã qua `check_duplicates`.
+
+- 2026-10-30 — Viết **6135** (viêm tụy cấp ở trẻ): INSPPIRE 2/3, US 40,5% vs MRI 60% (41% MRI dương mà US âm), CT ≥ 72 giờ, APFC/ANC vs pseudocyst/WON mốc 4 tuần, ARP 18%/CP 10%, LAMS 90,9%; 3 ảnh CC BY/CC BY-NC. Verify PASS 5/5, 721 bài/721 card.
+- Backlog: flip #1083 → xong; append #1116 (6136 viêm tụy do thuốc) + #1117 (6137 nang ống mật chủ), đã check_duplicates exit 0.
