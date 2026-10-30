@@ -917,6 +917,8 @@
 ## 2026-10-30 — lượt worker: 117 + 745
 - Viết **117** tương tác thuốc & TDM tacrolimus (CYP3A5 expresser 10 vs 5 mg/ngày, đạt đích 14 vs 7,5 ngày; HCT 16,4% → C0 3,2 nhưng C_std 7,0, r = 0,74; diltiazem ×2 · voriconazole ×3,16 · fluconazole −33% CL · letermovir ×2,2 · nước bưởi AUC +28%; ritonavir C0 > 90 → phenytoin → 2,9) — 3 ảnh + 1 composite CC BY.
 - Viết **745** HHT ở trẻ (PAVM 30–50%, nút mạch khi ĐM nuôi ≥ 3 mm, tái thông trẻ tới 70%; bAVM 14% khi tầm soát, vỡ 20%, MRA không kết luận → DSA; ESS 0–10/MID 0,71, bậc thang giữ ẩm → TXA/đốt → bevacizumab → bịt mũi 83%) — 6 ảnh + 1 composite, thêm link 743/700; append 118 + 746.
-
 - 2026-10-30: viết **1411** (tăng nhãn áp do corticoid nội nhãn) + **209** (bệnh chất trắng do độc chất); ảnh CC BY từ Europe PMC, composite 2 tấm; verify PASS.
 - Backlog: flip #421/#422 → xong; đổi ID đề xuất hàng #964 209→257 (tránh trùng); append #1102 (265 N2O) + #1103 (1413 DSAEK sau implant).
+## 2026-10-30 — lượt worker: 255 + 257
+- Viết **255** (màng nhện lưng/scalpel: 9 ảnh + 1 composite) và **257** (RROC/OKM, artifact MRA: 6 ảnh + 1 composite) → verify PASS 6/6, 709 bài/709 card.
+- Flip #964→257, #966→255; append 2 khoảng trống mới **266** (WEB/BOSS) và **267** (presyrinx) — đã `check_duplicates` exit 0.
