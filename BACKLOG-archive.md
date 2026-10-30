@@ -904,3 +904,5 @@
 ## 2026-10-30 — lượt worker: 1683 + 1644
 - Viết **1683** hoại tử tụy nhiễm khuẩn/step-up (khí đặc hiệu cao–nhạy thấp; hoãn ≥ 4 tuần, POINTER 2,6 vs 4,4; PCD 12–14→20 Fr; 72 giờ; PANTER 44% vs 73%; giả phình vỡ > 50%) — 4 ảnh + 1 composite CC BY 4.0.
 - Viết **1644** ĐTN trung ương ở trẻ (copeptin < 6,5 pmol/L Se/Sp 100%; cuống yên ≥ 6,5 mm; 50% cuống dày là ung thư; "vô căn" sau MRI 6 tháng × 2–3 năm) — 4 ảnh + 1 composite CC BY 4.0; verify PASS 6/6, 697 bài.
+- 2026-10-30: xong 1704 (COM+cholesteatoma ở trẻ có CI; HRCT → CWU/CWD/STP, STP 348 ca biến chứng 1,7%, tái phát 13% ở trẻ) + 6122 (giả phình mạch tạng sau viêm tụy ở trẻ; CTA–DSA κ 0,29, TAE 86,5%).
+- 2026-10-30: thêm 2 hàng chờ 1713 (cholesteatoma xương đá) + 6135 (viêm tụy cấp ở trẻ INSPPIRE) — ID 1705/6123 đã bị hàng cũ chiếm.
