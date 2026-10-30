@@ -909,3 +909,6 @@
 ## 2026-10-30 — lượt worker: 1641 + 1642
 - Viết **1641** OPMD/OPDM vs CPEO (PABPN1 GCN; OPMD gốc chi 80%, khởi phát ~53 tuổi, nuốt khó 96,8%; OPDM ngọn chi 77%, cẳng chân > đùi, DWI viền vỏ–tủy ở OPDM3; CK 110 U/L vẫn bệnh cơ; CP bar 53%) — 1 ảnh CC BY 4.0 + 1 sơ đồ CC0.
 - Viết **1642** sa tạng chậu tái phát sau colpocleisis (4,2% [76/1.810]; bung 57,6% · đường hầm 15,2% · enterocele 27,3%; giải phẫu 94,8% vs hài lòng 77,5%; repeat colpocleisis 18/24) — 2 ảnh CC BY 4.0 + 1 sơ đồ CC0; verify PASS 6/6, 701 bài.
+## 2026-10-30 — lượt worker: 260 + 1643
+- Viết **260** hẹp cảnh do xạ đầu cổ (hẹp có ý nghĩa RR 7,06; CCA 31,16 vs 6,9 mm; loét 14/26; CAS 77,1%; stent ngắn lại 24 giờ; tầm soát DUS 1 năm → 3–5 năm) — 2 ảnh CC BY-NC-ND, không ghép.
+- Viết **1643** glaucoma sau mổ đục thể thủy tinh bẩm sinh (3,3–25,5%; IATS 17→22%; ACD OR 5,8; iris cắm cao OR 3,40; góc mổ 360° tới 93%) — 2 ảnh UBM CC BY; thêm 2 hàng chờ 263 (carotid web) + 264 (CHS sau can thiệp cảnh).

@@ -166,6 +166,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 421 | [Lồi mắt Graves](421-loi-mat-Graves/lesson.md) | `pattern:loi-mat` `vung:hoc-mat` |
 | 405 | [PPS: phù đĩa thị giả, túi dịch quanh đĩa, hắc mạc > 300 µm, PPA 100%, theo dõi tự nhiên (10/14 không triệu chứng, IN −40,75 µm/2 năm), eplerenone/PDT/micropulse](405-pachychoroid-quanh-dia-thi-pps/lesson.md) | `pattern:phu-dia-thi` `pattern:hac-mac-day` `pattern:dich-voi-hoang-diem` `pattern:bo-hoang-diem` `vung:dia-thi` `vung:hoang-diem` `vung:hac-mac` `score:CT-300um` `protocol:OCT-EDI` `protocol:FA-ICGA` `protocol:OCTA` |
 
+| 1643 | [Glaucoma sau mổ đục thể thủy tinh bẩm sinh: 3,3–25,5% (IATS 22% ở 10 năm, 41% nghi), mổ < 9 tháng nguy cơ 7,2 lần, ACD 2,76 vs 3,08 mm (OR 5,8), UBM iris cắm cao OR 3,40](1643-glaucoma-sau-mo-duc-thuy-tinh-the-bam-sinh/lesson.md) | `pattern:tang-nhan-ap` `pattern:goc-mo` `pattern:goc-dong` `pattern:di-lenh-IOL` `pattern:loi-dia-thi` `vung:mat` `vung:tien-phong` `score:CRN` `score:IATS-risk` `protocol:do-nhan-ap` `protocol:UBM` `protocol:AS-OCT` `protocol:OCT-ONH` `protocol:sieu-am-B` |
+
 ## Hệ Bụng (dải 100, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
 |---|---|---|
@@ -367,6 +369,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 1659 | [Di căn màng não – nội tủy (LM): ngấm màng mềm theo rãnh, grade MRI-LMD 1–6, CSF ≥ 10 mL, type I/II EANO–ESMO & điều trị nội tủy](1659-di-can-mang-nao-noi-tuy/lesson.md) | `pattern:ngam-mang-nao` `pattern:ngam-mang-tuy` `pattern:not-mang-nao` `pattern:giay-day-than-kinh` `pattern:ung-thuy-nao` `pattern:gia-ung-thu` `vung:nao` `vung:cot-song` `vung:ong-song` `score:MRI-LMD-grade` `score:Evans` `score:LM-molGPA` `score:RANO-LM` `protocol:MRI-3D-T1C` `protocol:FLAIR-sau-tiem` `protocol:MRI-toan-truc` `protocol:DNT-te-bao` `incidentaloma:ngam-mang-nao` |
 | 261 | [Bệnh não chất trắng do xạ trị (RIL): FLAIR đối xứng quanh não thất, không ngấm/không choán chỗ, teo não, 54,3% sống dài, Scheltens ≥ 10, đừng sinh thiết & đừng gọi tái phát](261-benh-nao-chat-trang-do-xa-tri/lesson.md) | `pattern:roi-loan-chat-trang` `pattern:doi-xung` `pattern:teo-nao` `pattern:khong-ngam-thuoc` `vung:chat-trang-quanh-nao-that` `vung:nao` `score:Fazekas` `score:Scheltens` `protocol:MRI-nao` `protocol:MRI-DSC-MRS` `protocol:danh-gia-nhan-thuc` `incidentaloma:khong` |
 | 262 | [Bệnh mạch máu LỚN do xạ trị (hẹp–tắc kiểu moyamoya): hẹp dài–nhẵn–không vôi, thành mạch ngấm đồng tâm, 0,2/1,3/4,4% ở 30/45/54 Gy, nhồi máu ranh giới & CVR type III](262-benh-mach-mau-lon-do-xa-tri-moyamoya/lesson.md) | `pattern:hep-mach` `pattern:tac-mach` `pattern:ngam-thanh-mach` `pattern:nhoi-mau-phan-thuy` `pattern:bang-he-moyamoya` `vung:da-giac-willis` `vung:dong-mach-canh-trong` `vung:nao` `score:Suzuki` `score:CVR` `score:Rogg` `protocol:MRI-MRA-TOF` `protocol:HR-vwMRI` `protocol:CTA-DSA` `protocol:CTP-Diamox` `protocol:ASL` |
+
+| 260 | [Bệnh mạch cảnh do xạ đầu cổ (RICS): hẹp dài 31,2 mm ở CCA (vs 6,9 mm xơ vữa), ít vôi–nhiều xơ, loét 54%, RR hẹp có ý nghĩa 7,06, tầm soát DUS từ 1 năm, ưu tiên CAS](260-hep-dong-mach-canh-do-xa/lesson.md) | `pattern:hep-mach` `pattern:tac-mach` `pattern:hep-dai-doan` `pattern:it-voi-hoa` `pattern:loet-mang-xo-vua` `pattern:nhieu-o` `vung:dong-mach-canh` `vung:dau-co` `score:NASCET` `score:PSV-DUS` `protocol:SA-Doppler` `protocol:CTA-MRA` `protocol:MRI-mang-xo-den` `protocol:DSA` |
 
 ## Hệ Cơ – Xương – Khớp (dải 300, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
