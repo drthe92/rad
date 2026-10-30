@@ -901,3 +901,6 @@
 - Flip #1078/#1079 → xong; append **262** (mạch lớn do xạ) + **1683** (hoại tử tụy nhiễm khuẩn, step-up); cập nhật 200/100/README/index.
 - 2026-10-30 worker: viết **262** (bệnh mạch lớn do xạ) — 3 ca + 1 ca cơ chế, 7 ảnh/1 composite; verify PASS 6/6, 695 bài/695 card.
 - 2026-10-30 worker: flip #1080 → xong; append #1104 (263 cảnh ngoài sọ do xạ) + #1105 (264 u màng não do xạ).
+## 2026-10-30 — lượt worker: 1683 + 1644
+- Viết **1683** hoại tử tụy nhiễm khuẩn/step-up (khí đặc hiệu cao–nhạy thấp; hoãn ≥ 4 tuần, POINTER 2,6 vs 4,4; PCD 12–14→20 Fr; 72 giờ; PANTER 44% vs 73%; giả phình vỡ > 50%) — 4 ảnh + 1 composite CC BY 4.0.
+- Viết **1644** ĐTN trung ương ở trẻ (copeptin < 6,5 pmol/L Se/Sp 100%; cuống yên ≥ 6,5 mm; 50% cuống dày là ung thư; "vô căn" sau MRI 6 tháng × 2–3 năm) — 4 ảnh + 1 composite CC BY 4.0; verify PASS 6/6, 697 bài.
