@@ -889,3 +889,6 @@
 - 2026-10-29 worker: flip #977→1639 và #345b→1407; append #1096 (1678 plexopathy do ung thư) + #1097 (1679 CTIBL), đã check_duplicates; verify PASS 6/6 (686 bài/686 card).
 - 2026-10-30 worker: viết **3004** (HSCT ở trẻ CMMRD: thay khoang tạo máu, không giảm u đặc) + **1408** (anti-VEGF thai kỳ/cho bú: chọn theo Fc) — verify PASS 6/6, 688 bài/688 card.
 - 2026-10-30 worker: flip #344b→3004 và #395b→1408; append #1098 (3007 PTLD sau ghép) + #1099 (1413 HA/biến cố tim mạch sau anti-VEGF), đã check_duplicates.
+
+## 2026-10-30 — lượt worker: 1409
+- Viết **1409** bệnh võng mạc do xạ (45–55 Gy/≥1/2 võng mạc → RR 53%; 20 Gy/2×10 Gy → RON sau 18 tháng; anti-VEGF dự phòng OR 0,50; aflibercept CMT 484→327 µm); 5 ảnh Europe PMC, verify PASS 6/6, 689 bài/689 card, flip #395c, append 1418/1419.
