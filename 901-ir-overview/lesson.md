@@ -20,6 +20,7 @@ certainty: tong-hop-y-van
 | Ổ dịch cần dẫn lưu (Drainage) | Ổ bụng/mật/thận (abdomen) | Áp-xe, tắc mật, ứ nước (PTBD/PCN) | Seldinger vs trocar; Brödel 20–30°; chọc cao xuyên hoành = biliothorax | `910` |
 | Chảy máu hoạt tính (Active bleeding) | Tiêu hóa/phổi/tạng (bleeding) | Thoát mạch vs giả phình vs sỏi/clip giả | CTA 0,3–0,5 vs DSA 0,5–1 mL/phút; thiếu non-contrast = nhầm sỏi/clip | `920` |
 | **Rò ĐMC–ruột sau mổ/EVAR (AEF)** | ĐMC bụng–tá tràng D3/D4; ĐMC ngực–thực quản | **AEF nguyên phát** · **thứ phát type I/II** · nhiễm graft không rò · giả phình miệng nối | **Khí trong túi/quanh graft + ruột dính + thoát cản quang = AEF** (máu báo **52–75%**, tam chứng **6–12%**; CTA chỉ **47,8%**, EVAR cầm máu **7% vs 34%** tử vong, nhiễm muộn **42% vs 19%**); **khí đơn độc sau mổ mới = chưa chốt** | `938` |
+| **Rò ĐMC–tĩnh mạch chủ (ACF)** | ĐMC bụng dưới thận ↔ IVC | **ACF do phình** · ACF sau EVAR (endoleak II muộn) · **rò ĐMC–TM thận** · rò ĐM chậu–TM chậu · trào ngược từ nhĩ phải | **IVC ngấm ĐỒNG THỜI với ĐMC ở thì động mạch (25–35 giây)** + mất mặt phẳng mỡ + gián đoạn vôi hóa; **sốc hiếm** (máu vẫn trong lòng mạch); thận giảm ngấm do **tăng áp TM thận**, hồi phục sau bít rò; ACF **< 1%** AAA, **2–6,7%** phình vỡ, tử vong **22–51%** | `939` |
 | Đáp ứng sau TACE/đốt (Treatment response) | Gan (liver) | U sống (viable) vs viêm xung huyết vs Lipiodol | Margin 5–10 mm; mạch > 3 mm = heat-sink; LR-TR Viable/Equivocal/Nonviable | `930`, `121` |
 | An toàn bức xạ (Radiation dose) | Phòng CT fluoroscopy/DSA | Tán xạ ngược vs tới, liều da bệnh nhân, liều nhân viên | DAP > 500 Gy·cm², air kerma > 5 Gy, chiếu > 60 phút = ngưỡng cảnh báo; áo chì 0,5 mm Pb giảm ~97%; CTF ít liều hơn DSA **9,1 lần** | `932` |
 | Nang giáp có triệu chứng (Cystic thyroid nodule) | Tuyến giáp (thyroid) | Nang thuần, nang ưu thế dịch, nang keo đặc, ung thư có thành phần nang | Dịch > 50% thể tích + FNA lành tính; VRR > 50% = thành công; khàn tiếng 0,53% | `1622`, `230` |
@@ -32,6 +33,7 @@ certainty: tong-hop-y-van
 - [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) (LR-TR sau TACE)
 - [932 – An toàn bức xạ trong can thiệp CT/DSA](../932-an-toan-buc-xa-ct-dsa/lesson.md) *(đã có)*
 - [938 – Rò động mạch chủ–ruột (AEF): khí trong túi/quanh graft, máu báo, EVAR cầu nối rồi mổ triệt để](../938-ro-dong-mach-chu-ruot/lesson.md) *(mới — nối 170/172/148)*
+- [939 – Rò động mạch chủ–tĩnh mạch chủ (ACF): IVC ngấm thì động mạch, suy tim cung lượng cao, thận giảm ngấm](../939-ro-dong-mach-chu-tinh-mach-chu/lesson.md) *(mới — nối 938/170/172)*
 - [1622 – Đốt cồn nang giáp lành tính](../1622-dot-con-nang-giap-pei/lesson.md) *(đã có)*
 - [1629 – Đốt nhiệt nhân giáp lành tính đặc (RFA/MWA)](../1629-dot-nhiet-nhan-giap-lanh-tinh-dac/lesson.md) *(đã có)*
 - [934 – Sốc phản vệ do vỡ nang sán khi can thiệp](../934-soc-phan-ve-do-vo-nang-san/lesson.md) *(đã có)*

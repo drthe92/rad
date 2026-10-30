@@ -924,3 +924,5 @@
 - Flip #964→257, #966→255; append 2 khoảng trống mới **266** (WEB/BOSS) và **267** (presyrinx) — đã `check_duplicates` exit 0.
 - 2026-10-30: viết **938** (AEF nguyên phát/sau EVAR; 7 ảnh + 1 composite, CC BY) và **256** (nhồi máu tủy sau mổ/stent ĐMC; 7 ảnh + 1 composite, CC BY/NC-ND/NC-SA) — flip #965/#967, append #1082 (939 aortocaval) + #1083 (264 xạ tủy).
 - 2026-10-30: cập nhật bảng DDx 200 + 901, README, hub; verify trước commit.
+- Viết **939** (ACF: IVC ngấm thì động mạch, sốc hiếm, thận giảm ngấm hồi phục) + **268** (RIM: BED5 55,4 Gy/2 Gy, 4 ca "dưới ngưỡng" vẫn bị, PET âm) — 6 ảnh + 2 composite CC BY 4.0; verify PASS 6/6 (713 bài/713 card).
+- Flip #1082/#1083 → xong; append #1112 (942 aortoureteric fistula) + #1113 (269 xạ lại tủy).
