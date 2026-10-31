@@ -969,7 +969,8 @@
 - 2026-10-31 flip #979/#980 → xong; append #1144 (097 BAA) + #1145 (099 hẹp TM phổi) — đã check_duplicates exit 0.
 - 2026-10-31: viết 1812 (rOSA sau AT; Down 54–68%, AT khỏi 6–33%, OAHI 25,55→3,20→10,37) + 1813 (GCF 4,5–58%, iohexol, OTSC 61,9% vs mổ 100%).
 - 2026-10-31: verify PASS 6/6 (751 bài/751 card); append 1829 buried bumper, 1830 OSA Prader–Willi.
-
 ## 2026-10-31 — lượt worker
 - Viết **098** (barotrauma/tràn khí áp lực ở bệnh nhân thở máy) + **1904** (thuyên tắc phổi nhiễm khuẩn từ ổ tĩnh mạch bụng–chậu); flip #983/#985 → xong; append #1086 (3049 chuỗi xương con) + #1087 (3050 vỡ khí quản).
 - Ghi chú: #984 trong hàng chờ đề xuất ID **3048** nhưng ID đã dùng (u máu gan ở nhũ nhi) → chuyển sang **3049**; ảnh 4 bài gốc đều CC BY/CC BY-NC, không dùng ảnh AuntMinnie.
+- 2026-10-31 worker: viết **6119** (hẹp lại 15% sau mổ vs 35% sau can thiệp qua da; can thiệp lại 13,3%/10 năm; PWV 6,8 vs 5,4 m/s; ca 4,05 m/s/65,65 mmHg → 1,51 m/s/9,17 mmHg) + **3050** (ICA 0,2–1,4% EEA vs 3–8% mổ hở; tử vong chu phẫu 10%; Type III 27 ca; stent phủ 13/15 bít ngay).
+- 2026-10-31 flip #1038/#1039 → xong; append #1146 (6142 nhiễm trùng stent) + #1147 (3059 thiếu máu não sau bít mẹ) — đã check_duplicates exit 0.

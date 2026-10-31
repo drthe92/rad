@@ -1,0 +1,19 @@
+# Nguồn gốc — 3050-ton-thuong-dong-mach-canh-trong-trong-mo-noi-soi
+
+> Tổn thương động mạch cảnh trong cấp trong mổ nội soi mũi xoang/nền sọ: nhận diện, chèn ép có kiểm soát, phân loại Type I–III, CTA/DSA, stent phủ vs bít mẹ, và khi nào được tiếp tục cuộc mổ. Quét Europe PMC ngày 2026-10-31 (cú pháp `FIG:"internal carotid artery injury" AND OPEN_ACCESS:Y`, `TITLE_ABS:"carotid injury" AND "endoscopic"`).
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Frontiers in Neurology 2021 | The Clinical Efficacy Analysis of Treatment With a Willis Covered Stent in Traumatic Pseudoaneurysm of the Internal Carotid Artery — **15 bệnh nhân** (13 nam, tuổi TB **39,0 ± 10,7**), giả phình **7,5 ± 2,2 mm**, **13/15 bít ngay**, **2 endoleak**, theo dõi **5,8 ± 1,2 tháng**, **13/14 mRS 0–1**; ca **vỡ ICA trong mổ u tuyến yên** và ca **giả phình sau mổ u màng não** — **PMC8526539** | https://europepmc.org/article/PMC/PMC8526539 | CC BY | `images/3050_ton-thuong-ica_DSA_PMC8526539-F2.jpg` (Figure 2), `...-F3.jpg` (Figure 3) |
+| 2 | Journal of Otolaryngology – Head & Neck Surgery 2022 | Development of a management protocol for internal carotid artery injury during endoscopic surgery: a modified Delphi method — quy trình **Alert–Control–Transfer**, **tử vong chu phẫu 10%**, tần suất **0,4–3%**, **64%** trung tâm chưa có quy trình, **20,6%** phẫu thuật viên gặp tai biến trong 12 tháng, **50,9%** trong mổ u tuyến yên, đoạn **cạnh yên 39%** — **PMC9331087** | https://europepmc.org/article/PMC/PMC9331087 | CC BY 4.0 | `images/3050_ton-thuong-ica_SoDo_PMC9331087-F3.jpg` (Fig. 3 — thẻ quy trình) |
+| 3 | Surgical Neurology International 2020 | Classification of internal carotid artery injuries during endoscopic endonasal approaches to the skull base — **Type I–III + 6 subtype**, **68 ca** trong y văn 1990–2020 (**4 tử vong, 5 di chứng**), **Type III 27 ca** tiên lượng xấu nhất, tần suất **0,2–1,4%** (EEA) vs **3–8%** (mổ hở), **BTO âm + bít mẹ: đột quỵ 26%, tử vong 12%** — **PMC7656006** | https://europepmc.org/article/PMC/PMC7656006 | CC BY-NC-SA 4.0 | Không tải (hình là sơ đồ phân loại; bài đã dùng sơ đồ quy trình của nguồn 2) |
+
+## Ghi chú giấy phép và phản biện nguồn
+- **3 ảnh đã tải: 2 CC BY + 1 CC BY 4.0** → dùng học tập, ghi nguồn đầy đủ; **không crop, không ghép, không thêm chữ**.
+- **Tên tác giả KHÔNG ghi**: attribution dùng **tạp chí + năm + PMCID** (đối chiếu Europe PMC `authorString` ngày 2026-10-31).
+- **Không tạo composite:** 3 ảnh thuộc **3 bối cảnh khác nhau** (vỡ trong mổ u tuyến yên; giả phình sau mổ u màng não; sơ đồ quy trình) — ghép sẽ khiến người đọc tưởng cùng một ca.
+- **Phản biện 1:** tần suất **0,4–3%** (PMC9331087) và **0,2–1,4%** (PMC7656006) **không mâu thuẫn** — khác quần thể (mổ nội soi nền sọ mở rộng vs tổng hợp mọi EEA) và khác cách định nghĩa "tổn thương ICA"; bài ghi **cả hai khoảng** thay vì chọn một con số.
+- **Phản biện 2:** loạt **15 ca stent phủ** là **hồi cứu, một trung tâm, không nhóm chứng, theo dõi chỉ 5,8 tháng** → **không kết luận được về độ bền dài hạn**; bài nêu rõ và không dùng để khuyến cáo stent cho mọi tổn thương.
+- **Phản biện 3:** con số **"BTO âm + bít mẹ: đột quỵ 26%, tử vong 12%"** là **tổng hợp từ y văn cũ**, không phải RCT; dùng để nhấn mạnh **không xem BTO là bảo đảm**, không dùng để tính nguy cơ tuyệt đối cho từng bệnh nhân.
+- **Phản biện 4:** các bước **"giữ nguyên bấc khi chuyển"**, **"không rút bấc ngoài phòng can thiệp"**, **"dừng cuộc mổ"** là **nguyên tắc/kinh điển + suy luận từ cơ chế**, được ghi rõ trong bài là suy luận — **không gán cho một nghiên cứu cụ thể** vì chưa có thử nghiệm đối chứng.
+- Ảnh tải từ **Europe PMC full-text figure package** (`https://www.ebi.ac.uk/europepmc/webservices/rest/{PMCID}/supplementaryFiles`), đúng file figure gốc.

@@ -1,0 +1,16 @@
+# CREDITS — ảnh bài 3050 (Tổn thương động mạch cảnh trong cấp trong mổ nội soi mũi xoang & nền sọ)
+
+Mỗi ảnh ghi rõ: file trong repo, hình gốc, bài gốc (PMCID), giấy phép, thay đổi phái sinh (nếu có).
+
+| File | Hình gốc | Bài gốc | Giấy phép | Phái sinh |
+|---|---|---|---|---|
+| `3050_ton-thuong-ica_DSA_PMC8526539-F3.jpg` | Figure 3 — "Invasive pituitary adenoma and intraoperative internal carotid artery rupture (A). Anterior MRI sagittal image, which showed pituitary adenoma; (B,C) DSA image of the ophthalmic segment of internal carotid artery rupture, which showed contrast agent spillage from the rupture to the arachnoid membrane; (D) maximum intensity projection showed good apposition of the Willis covered stent; (E) successful repair of the internal carotid artery after stent implantation; (F) postoperative MRI suggesting tumor resection" | Frontiers in Neurology 2021, PMCID **PMC8526539** — https://europepmc.org/article/PMC/PMC8526539 | **CC BY** | Nguyên bản (giữ nhãn A–F và mũi tên vàng của tác giả) |
+| `3050_ton-thuong-ica_DSA_PMC8526539-F2.jpg` | Figure 2 — "A 51-year-old male with intraoperative internal carotid artery injury of right sphenoid clival meningioma and postoperative secondary right internal carotid cavernous pseudoaneurysm before and after interventional therapy (A). Enhanced MRI revealed that the tumor wrapped the right internal carotid artery. (B) A DSA-3D lateral image showed pseudoaneurysm of the posterior wall of the cavernous sinus of the right internal carotid artery. (C) The pseudoaneurysm disappeared after stent treatment. (D) Measurement of the diameter of the parent artery; (E) Maximum intensity projection showed that the stent opened completely. (F) Postoperative dual-volume imaging showed that the stent graft had good compatibility and that the vessel was patent" | Frontiers in Neurology 2021, PMCID **PMC8526539** — https://europepmc.org/article/PMC/PMC8526539 | **CC BY** | Nguyên bản (giữ nhãn A–F của tác giả) |
+| `3050_ton-thuong-ica_SoDo_PMC9331087-F3.jpg` | Figure 3 — "Final protocol for management of intra-operative internal carotid artery injury during endonasal endoscopic surgery. Orng© represents Ontario's provincial medical transportation service for critically ill patients" | Journal of Otolaryngology – Head & Neck Surgery 2022, PMCID **PMC9331087** — https://europepmc.org/article/PMC/PMC9331087 | **CC BY 4.0** | Nguyên bản (giữ logo University of Toronto và toàn bộ nội dung thẻ quy trình của tác giả) |
+
+## Ghi chú
+- **1 ảnh CC BY + 1 ảnh CC BY 4.0 từ PMC8526539/PMC9331087** → dùng học tập, ghi nguồn đầy đủ; **không crop, không ghép, không thêm chữ**.
+- **Sơ đồ quy trình (PMC9331087)** là **hình của tác giả**, có **logo University of Toronto** — giữ nguyên để trung thành nguồn, không xóa logo.
+- **Không tạo ảnh ghép (composite):** 3 ảnh thuộc **3 bối cảnh khác nhau** (vỡ ICA trong mổ u tuyến yên; giả phình sau mổ u màng não; thẻ quy trình), ghép cạnh nhau sẽ gây hiểu nhầm cùng một ca.
+- **Tên tác giả KHÔNG ghi**: attribution dùng **tạp chí + năm + PMCID** (đối chiếu Europe PMC ngày 2026-10-31).
+- Ảnh tải từ **Europe PMC full-text figure package** (`https://www.ebi.ac.uk/europepmc/webservices/rest/{PMCID}/supplementaryFiles`), đúng file figure gốc.
