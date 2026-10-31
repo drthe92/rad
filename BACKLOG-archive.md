@@ -957,3 +957,6 @@
 - 2026-10-31: viết 1422 (hvKP bacteremia không ổ gan) — 4 ảnh + composite CC BY 4.0/CC BY-NC 4.0; flip #426/#427, append #1128 (1785) + #1129 (3055).
 - 2026-10-31 (worker): viết **1423** (độc tính MTX nội tủy: 7,6% trẻ ALL, DWI chừa vỏ/không lãnh thổ, viêm màng não hóa học 24% BC hạt, quá liều 240 mg, cấm leucovorin IT; 4 ảnh CC BY 4.0) + **1797** (vi chảy máu/hang mạch sau xạ: 86,1% medulloblastoma, Zabramski IV 93,6%, 43% ở 10 năm, 3/79 mổ; 4 ảnh CC BY/CC BY-NC 4.0). Verify PASS 6/6.
 - Flip #428/#429 → xong; append #1130 (1430 ICANS) + #1131 (1828 vôi hóa não do xạ) — đã check_duplicates.
+
+## Nhật ký 2026-10-31
+- Viết 6136 (viêm tụy do thuốc ở trẻ: Badalov/Naranjo, valproate CTSI 10/10, AAP 10,23%) + 6137 (nang ống mật chủ: Todani, MRCP, CC vs CBA AUC 0,990, ung thư sau mổ 1,6/3,9/11,3%) — 7 ảnh CC BY/CC BY-NC-ND; flip #1116/#1117; append #1132/#1133 (AIP trẻ, sỏi mật trẻ).
