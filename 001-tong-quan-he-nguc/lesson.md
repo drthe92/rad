@@ -69,6 +69,7 @@ certainty: tong-hop-y-van
 - [084 – Viêm phổi thở máy (VAP): X-quang/CT, cấy định lượng & bó dự phòng vi hít sặc](../084-viem-phoi-tho-may/lesson.md) *(mới)*
 - [087 – Viêm phổi do hít dầu hỏa/hydrocarbon ở trẻ: cơ chế hoá học, mốc thời gian & ba việc không được làm](../087-viem-phoi-hit-dau-hoa-hydrocarbon/lesson.md) *(mới)*
 - [088 – Áp-xe phổi & mủ màng phổi sau VAP: ngưỡng dẫn lưu, tPA–DNase & khi nào mổ](../088-apxe-phoi-mu-mang-phoi-sau-vap/lesson.md) *(mới)*
+- [090 – Bỏng hít đường thở ở trẻ: X-quang sớm bình thường, phù dưới thanh môn 4–5 mm, BWT > 3,0 mm, nội soi độ 0–IV, COHb bán thải 250 → 40–60 phút](../090-bong-hit-duong-tho-o-tre/lesson.md) *(mới — nối 087/088/084/3047)*
 - [079 – Tràn dịch dưỡng trấp (chylothorax): TG 110, lymphangiography & bậc thang điều trị](../079-tran-dich-duong-trap-chylothorax/lesson.md) *(mới)*
 - [049 – Theo dõi dài hạn sau cắt thùy phổi bẩm sinh ở trẻ](../049-theo-doi-sau-cat-thuy-phoi-bam-sinh/lesson.md) *(mới)*
 - [047 – Vẹo cột sống & biến dạng lồng ngực sau mở ngực ở trẻ](../047-veo-cot-song-sau-mo-nguc/lesson.md) *(mới)*

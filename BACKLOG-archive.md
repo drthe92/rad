@@ -951,3 +951,5 @@
 - Flip #421 → xong; append #1124 (1684 rò trực tràng–âm đạo) + #1125 (1685 dị vật âm đạo không rò), đã check_duplicates.
 - 2026-10-31: viết **1705** (LUTD 19,6% sau cắt SCT; PVR/compliance/DLPP; tủy bám thấp; TAI→ACE; 5 ảnh CC BY/CC BY-NC) và **1783** (CVST sau chấn thương đầu nhi: 28% TBI kín, NCCT 61 HU, CTV 20–25 s, chống đông ngày 7 khi có ICH; 4 ảnh).
 - 2026-10-31: verify PASS 6/6 (732 bài/732 card, parity 0, authors PASS); flip #422/#423 → xong; append #1126 (1706), #1127 (090) — đã check_duplicates.
+- 2026-10-31 (worker): viết **1706** (túi thừa bàng quang: VCUG voiding 100% vs SA 60%/CT 70%/MRI 70%, 90% cạnh lỗ niệu quản, Hutch+VUR, Mickey Mouse; 6 ảnh CC BY-NC-ND) và **090** (bỏng hít trẻ: BWT > 3,0 mm Se 79%/Sp 96%, nội soi 0–IV, COHb bán thải 250→40–60 phút, Poiseuille; 4 ảnh CC BY/CC BY-NC-SA).
+- Flip #424/#425 → xong; append #1051 (1719 bàng quang đôi/vách/nang niệu rốn) + #1052 (1720 cyanid khói lửa) — đã check_duplicates.
