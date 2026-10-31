@@ -981,3 +981,7 @@
 
 - 2026-10-31: viết **3008** (trật chuỗi xương con sau vỡ xương thái dương ở trẻ; 4 ảnh + 1 composite, CC BY 4.0) và **1905** (biến chứng/an toàn PIPAC; 3 ảnh CC BY/CC BY-NC). `verify_all` PASS 6/6 · 759 bài/759 card · parity 0.
 - 2026-10-31: flip #984/#986 → xong; **gộp #1086 (ID 3056) vào 3008** (chủ đề trùng, không tạo ID mới); append #1150 (3061 – di căn lỗ trocar) + #1149 (3055 – viêm màng não tái diễn & dị tật tai trong), đã chạy check_duplicates.
+
+## Nhật ký 2026-10-31
+- **1660** stent niệu quản lưu quên & kết vôi: 3 ảnh + 1 composite CC BY 4.0; verify PASS 6/6 (760 bài/760 card); flip #987 → xong; append 1721/1722.
+- Guard acquire/release OK; cây sạch, pull "Already up to date"; không stash.
