@@ -953,6 +953,7 @@
 - 2026-10-31: verify PASS 6/6 (732 bài/732 card, parity 0, authors PASS); flip #422/#423 → xong; append #1126 (1706), #1127 (090) — đã check_duplicates.
 - 2026-10-31 (worker): viết **1706** (túi thừa bàng quang: VCUG voiding 100% vs SA 60%/CT 70%/MRI 70%, 90% cạnh lỗ niệu quản, Hutch+VUR, Mickey Mouse; 6 ảnh CC BY-NC-ND) và **090** (bỏng hít trẻ: BWT > 3,0 mm Se 79%/Sp 96%, nội soi 0–IV, COHb bán thải 250→40–60 phút, Poiseuille; 4 ảnh CC BY/CC BY-NC-SA).
 - Flip #424/#425 → xong; append #1051 (1719 bàng quang đôi/vách/nang niệu rốn) + #1052 (1720 cyanid khói lửa) — đã check_duplicates.
-
 - 2026-10-31: viết 1784 (CHS sau tái thông moyamoya) — 4 ảnh + composite CC BY 4.0; verify PASS 6/6.
 - 2026-10-31: viết 1422 (hvKP bacteremia không ổ gan) — 4 ảnh + composite CC BY 4.0/CC BY-NC 4.0; flip #426/#427, append #1128 (1785) + #1129 (3055).
+- 2026-10-31 (worker): viết **1423** (độc tính MTX nội tủy: 7,6% trẻ ALL, DWI chừa vỏ/không lãnh thổ, viêm màng não hóa học 24% BC hạt, quá liều 240 mg, cấm leucovorin IT; 4 ảnh CC BY 4.0) + **1797** (vi chảy máu/hang mạch sau xạ: 86,1% medulloblastoma, Zabramski IV 93,6%, 43% ở 10 năm, 3/79 mổ; 4 ảnh CC BY/CC BY-NC 4.0). Verify PASS 6/6.
+- Flip #428/#429 → xong; append #1130 (1430 ICANS) + #1131 (1828 vôi hóa não do xạ) — đã check_duplicates.
