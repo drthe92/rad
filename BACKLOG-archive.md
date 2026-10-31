@@ -945,3 +945,7 @@
 ## 2026-10-31 — lượt worker (1655, 1656)
 - **1655 BIA-SCC**: 20 năm tiềm tàng, 80% implant nguyên vỏ, 18/18 ca không dịch trên hình ảnh, tế bào vảy = cờ đỏ; 2 composite CC BY 4.0.
 - **1656 rách vỏ/gel bleed**: linguine/stepladder/snowstorm, snowstorm ≠ ngoài bao (72,1% vs 19,8%), US hạch 87,5% vs MRI 20%.
+
+## 2026-10-31 — lượt worker (1686, 1687)
+- **1686 hạch chứa silicone/siliconoma**: SLA 5,83% (3,86% implant nguyên), nách 72%/trung thất trong 21%/thượng đòn 19%, snowstorm Se 87,5%/Sp 100%, PET dương giả, FNA → core biopsy; 5 ảnh + 1 composite CC BY 4.0.
+- **1687 hoại tử mỡ sau tái tạo vú**: 12,5–23,6% (vạt)/7,3–82,9% (AFT), tan 45,9 tháng & 61,9% < 5 mm/10 năm, không mạch/không ngấm = BI-RADS 2; 4 ảnh + 1 composite CC BY 4.0. Flip #1086/#1087; append #1122 (1688 siliconoma lan xa) + #1123 (1689 nhiễm trùng vạt); sửa ID trùng 1686/1687 ở 2 hàng cũ → 1717/1718.
