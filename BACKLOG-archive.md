@@ -960,3 +960,7 @@
 - Viết 6136 (viêm tụy do thuốc ở trẻ: Badalov/Naranjo, valproate CTSI 10/10, AAP 10,23%) + 6137 (nang ống mật chủ: Todani, MRCP, CC vs CBA AUC 0,990, ung thư sau mổ 1,6/3,9/11,3%) — 7 ảnh CC BY/CC BY-NC-ND; flip #1116/#1117; append #1132/#1133 (AIP trẻ, sỏi mật trẻ).
 - 2026-10-31 — bài 1798 (Funaki/ChA, 5 ảnh CC BY & CC BY-NC): ChA 13,1 vs 1,3%/năm; PA tồn tại aHR 4,11; verify PASS.
 - 2026-10-31 — bài 1908 (ISMAD/mesenteric, 7 ảnh; ID 1903 đã dùng → 1908): CTA Se 92,0/Sp 98,8; cut-off 66,8%; verify PASS.
+
+## Nhật ký worker — 2026-10-31
+- Viết **1817** (đau bụng cấp ở thai phụ: MRI không cản từ): SA 77%/75%, MRI Se 91,8%/Sp 97,9%, ruột thừa > 7 mm, liều thai ≤ 50 mGy vs CT ~25 mGy (13 với AEC); 6 ảnh + 1 composite CC BY 4.0 (PMC10528125); verify PASS 6/6 (743 bài/743 card, parity 0).
+- Flip #406/1811→1817 xong; append **1818** (sỏi niệu quản ở thai: JJ vs nephrostomy) + **1819** (viêm túi mật cấp ở thai: mổ nội soi theo quý, MRCP).

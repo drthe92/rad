@@ -176,6 +176,7 @@ certainty: tong-hop-y-van
 - [1605 – Endometrioma trước khi mang thai: mổ dự phòng hay theo dõi](../1605-endometrioma-tu-van-tien-san/lesson.md) *(đã có)*
 - [1606 – Endometrioma tái phát ở người hiếm muộn: mổ lại hay đi thẳng IVF](../1606-tai-phat-endometrioma-mo-lai-hay-ivf/lesson.md) *(đã có)*
 - [1604 – Thai kỳ sau điều trị chửa ở sẹo mổ lấy thai: tái phát, PAS & kết cục sinh sản](../1604-thai-ky-sau-chua-seo-mo-lay-thai/lesson.md) *(đã có)*
+- [1817 – Đau bụng cấp ở thai phụ: protocol MRI không cản từ (ruột thừa > 7 mm, Se 91,8%/Sp 97,9%, liều CT thai ~25 mGy)](../1817-dau-bung-cap-thai-phu-mri/lesson.md) *(mới)*
 - [1631 – Thai tiếp tục sau chửa ở sẹo mổ lấy thai: niche/RMT, lịch TVUS–MRI, khi nào chấm dứt](../1631-thai-tiep-tuc-sau-chua-seo-mo-lay-thai/lesson.md) *(mới)*
 - [545 – MR động học sàn chậu (sa theo khoang, PCL/H/M)](../545-sa-san-chau-MR-defecography/lesson.md) *(đã có)*
 - [546 – Loạn vận động tống phân (anismus / dyssynergic defecation)](../546-loan-van-dong-tong-phan-anismus/lesson.md) *(đã có)*
