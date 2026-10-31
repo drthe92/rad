@@ -985,3 +985,5 @@
 ## Nhật ký 2026-10-31
 - **1660** stent niệu quản lưu quên & kết vôi: 3 ảnh + 1 composite CC BY 4.0; verify PASS 6/6 (760 bài/760 card); flip #987 → xong; append 1721/1722.
 - Guard acquire/release OK; cây sạch, pull "Already up to date"; không stash.
+- **1657 + 1661** UAVM/EMV (PSV 25–110, RI 0,27–0,75; UAE 71–93%) + lạc nội mạc niệu quản (74 ca, 16,1% mất chức năng thận): 7 ảnh + 2 composite CC BY 4.0/CC BY-NC; verify PASS 6/6 (762 bài/762 card).
+- Guard acquire/release OK; cây sạch, pull "Already up to date"; flip #988/#978 → xong; append 1658/1663 (đã check_duplicates).

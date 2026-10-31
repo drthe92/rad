@@ -1,0 +1,23 @@
+# Nguồn gốc — 1661 (Lạc nội mạc tử cung niệu quản)
+
+> Tổng hợp y văn mở (Europe PMC / PMC): 1 đoàn hệ 74 ca theo dõi trung vị 9 năm, 1 bài tổng quan MRI–mô bệnh có ảnh, 1 loạt 3 ca can thiệp, và 5 ca nguyên văn. Ngày quét: 2026-10-31.
+> Chủ đề **không có thử nghiệm lâm sàng**; bằng chứng là ca báo cáo, loạt ca và nghiên cứu hồi cứu.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | BMC Women's Health 2026 — PMC13637158 | Tang X et al. Clinical features and long-term surgical outcomes of ureteral endometriosis with hydroureteronephrosis (74 ca; **25,7%** có triệu chứng niệu; **82,4%** ngoại lai/**17,6%** nội lai; đoạn xa **86,5%**; hai bên **18,9%**; xạ hình **68,9%** giảm chức năng, **16,1%** mất chức năng; bóc dính tái phát **7,4%**/trung vị 15 tháng, rò **1,9%**; cắt đoạn: OR mổ lạc nội mạc trước **4,413**, stent thất bại **7,833**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13637158/ | CC BY-NC-ND (không dùng ảnh) | không tải (chỉ trích số) |
+| 2 | Insights into Imaging 2018 — PMC5893487 | Foti PV et al. Endometriosis: clinical features, MR imaging findings and pathologic correlation (bảng vị trí: bàng quang **85%**, niệu quản **9%**, thận **4%**, niệu đạo **2%**; niệu quản **0,01–1%**; T2 nốt tối bờ gai; T1 sau gadolinium 10 phút để vẽ niệu quản; tổn thương niệu quản do mổ phụ khoa **1–10%**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC5893487/ | CC BY 4.0 | `images/1661_lac-noi-mac-nieu-quan_MRI-t2_PMC5893487-F10.jpg`, `images/1661_lac-noi-mac-nieu-quan_MRI-t1-tiem_PMC5893487-F2.jpg` |
+| 3 | J Int Med Res 2025 — PMC11869247 | Qu R et al. Unilateral ureteral endometriosis masquerading as a ureteral tumor and resulting in complete loss of renal function (bệnh nhân ngoài 50 tuổi; ứ nước phải nặng; nốt **1,2 × 2,1 × 2,4 cm** mức S1/S2; cắt thận–niệu quản) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11869247/ | CC BY-NC | `images/1661_lac-noi-mac-nieu-quan_CT_PMC11869247-F1.jpg` |
+| 4 | Clin Med Insights Case Rep 2026 — PMC13379677 | El Breidi S et al. Right-Sided Mixed Intrinsic and Extrinsic Ureteral Endometriosis Leading to a Nonfunctioning Kidney (39 tuổi; soi niệu quản không thực hiện được; xạ hình **thận phải mất chức năng**; mô bệnh hỗn hợp nội lai + ngoại lai, viêm thận mạn giai đoạn cuối) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13379677/ | CC BY-NC (không dùng ảnh) | không tải |
+| 5 | Res Rep Urol 2025 — PMC12506785 | Al Ayoubi O et al. Ureteral Endometriosis Presenting as Recurrent Hydronephrosis (35 tuổi; **thận trái mất chức năng 4 năm không triệu chứng**; stent phải rồi cấy lại niệu quản) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12506785/ | CC BY-NC (không dùng ảnh) | không tải |
+| 6 | Urol Case Rep 2024 — PMC11350447 | Li J et al. A case report of ureteral endometriosis with severe hydronephrosis (UE chiếm **~5%** lạc nội mạc đường niệu; tuổi hay gặp **30–35**; mất chức năng thận im lặng; thuốc không hiệu quả) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11350447/ | CC BY-NC-ND (không dùng ảnh) | không tải |
+| 7 | Radiol Case Rep 2012 — PMC4899875 | Gudla VR, Tangudu S. Postmenopausal endometriosis with ureteric involvement (lạc nội mạc niệu quản ở hậu mãn kinh, mất chức năng thận im lặng) | https://pmc.ncbi.nlm.nih.gov/articles/PMC4899875/ | CC BY-NC-ND (không dùng ảnh) | không tải |
+| 8 | Case Rep Obstet Gynecol 2019 — PMC6590549 | Osaku D et al. Retroperitoneal Endometrioid Carcinoma Arising from Ureteral Endometriosis (ung thư biểu mô nội mạc phát sinh trên lạc nội mạc niệu quản) | https://pmc.ncbi.nlm.nih.gov/articles/PMC6590549/ | CC BY (không dùng ảnh) | không tải |
+| 9 | Front Surg 2018 — PMC6131650 | Giannini A et al. Robotic Approach to Ureteral Endometriosis (các bước bóc nốt ngoại lai — tham khảo kỹ thuật) | https://pmc.ncbi.nlm.nih.gov/articles/PMC6131650/ | CC BY (không dùng ảnh) | không tải |
+| 10 | Radiopaedia | Ureteral endometriosis / hydronephrosis — tham khảo dấu hiệu | https://radiopaedia.org/articles/ureteric-endometriosis | CC BY-NC-SA — chỉ dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Ảnh tải về: **CC BY 4.0** (PMC5893487 — được ghép) và **CC BY-NC** (PMC11869247 — giữ nguyên bản).
+- Ảnh composite là **tác phẩm phái sinh** từ 2 hình CC BY 4.0 của **cùng một bài** → vẫn CC BY 4.0, ghi rõ nguồn trong dải đen + CREDITS.
+- Không scrape Radiopaedia; chỉ dẫn link.
+- Tên tác giả đối chiếu trực tiếp Europe PMC (`authorString`) theo PMCID: PMC13637158 → **Tang X**; PMC5893487 → **Foti PV**; PMC11869247 → **Qu R**; PMC13379677 → **El Breidi S**; PMC12506785 → **Al Ayoubi O**; PMC11350447 → **Li J**; PMC4899875 → **Gudla VR**; PMC6590549 → **Osaku D**; PMC6131650 → **Giannini A**.
