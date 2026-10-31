@@ -182,5 +182,6 @@ flowchart TD
 - [147 – Sốt kéo dài & ổ nhiễm ẩn trong bụng](../147-sot-keo-dai-fuo-o-nhiem-an-trong-bung/lesson.md)
 - [163 – Pylephlebitis & huyết khối tĩnh mạch mạc treo](../163-pylephlebitis-huyet-khoi-tm-mac-treo/lesson.md)
 - [475 – Viêm nội nhãn nội sinh do vi khuẩn](../475-viem-noi-nhan-noi-sinh-vi-khuan/lesson.md)
+- [1422 – hvKP bacteremia KHÔNG có ổ gan: bản đồ ổ di căn ẩn & tầm soát mắt–não–phổi](../1422-hvkp-khong-o-gan-va-di-can-an/lesson.md)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

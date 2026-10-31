@@ -174,6 +174,7 @@ certainty: tong-hop-y-van
 - [1780 – Chọn kỹ thuật tái thông moyamoya ở trẻ: EDAS/EDAMS vs STA–MCA vs EDMS](../1780-chon-ky-thuat-tai-thong-moyamoya-o-tre/lesson.md) *(đã có)*
 - [1782 – Phình mạch nội sọ trong moyamoya: thân vs bàng hệ, tầm soát DSA 3D & chảy máu muộn sau tái thông](../1782-phinh-mach-trong-moyamoya/lesson.md) *(mới — nối 1780/207/248)*
 - [1795 – Xuất huyết & vi chảy máu trong moyamoya ở trẻ: SWI/T2*, phân biệt với aspirin & EDAS sớm](../1795-xuat-huyet-vi-chay-mau-moyamoya-o-tre/lesson.md) *(mới — nối 1782/681/660)*
+- [1784 – Hội chứng tưới máu quá mức (CHS) sau tái thông moyamoya: ASL/CTP, ΔCBF > 43,48, phân biệt chảy máu – nhồi máu](../1784-hoi-chung-tuoi-mau-qua-muc-sau-tai-thong-moyamoya/lesson.md) *(mới — nối 1780/1782/207)*
 - [207 – Phình mạch nội sọ chưa vỡ: PHASES/ELAPSS/UIATS, ngấm thành HR-vwMRI & quyết định điều trị](../207-phinh-mach-noi-so-chua-vo/lesson.md) *(mới)*
 - [1659 – Di căn màng não – nội tủy (LM): ngấm màng mềm theo rãnh vs màng cứng, grade MRI-LMD 1–6, CSF ≥ 10 mL & type I/II EANO–ESMO](../1659-di-can-mang-nao-noi-tuy/lesson.md) *(mới)*
 
