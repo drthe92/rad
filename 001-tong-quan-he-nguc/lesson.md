@@ -57,6 +57,8 @@ certainty: tong-hop-y-van
 | **Hạch trung thất tồn dư sau hóa–miễn dịch** | Trung thất – rốn phổi | Di căn tồn dư (ypN+), xơ–hyalin hóa sau điều trị, phản ứng dạng sarcoid do ICI, giả tiến triển, lao/nấm | **Hạch > 5 mm trục ngắn + còn FDG = phải chọc lại**; teo + vôi + không FDG = xơ; **đối xứng 2 bên + bối cảnh ICI = sarcoid-like**; **ΔSUVmax ≥ 53,1%** = giả tiến triển | [046](../046-tai-phan-giai-doan-trung-that-sau-hoa-mien-dich/lesson.md) |
 | **Hẹp/tắc tĩnh mạch chủ trên** (SVCS) | Trung thất trước | U xâm lấn (K phổi tế bào nhỏ, lymphoma), huyết khối quanh catheter/đầu dây, xơ hóa trung thất, hẹp sau xạ, bướu giáp sau xương ức, phình/bóc tách ĐMC | **Diện tích SVC < 1,07 cm²**; **khuyết thuốc + dị vật trong lòng = huyết khối**; mô mềm ép từ ngoài = u; **triệu chứng KHÔNG tương quan % hẹp khi đã có bàng hệ** | [093](../093-hoi-chung-tinh-mach-chu-tren/lesson.md) |
 | **Túi cản quang trong hang/nốt + ho ra máu** | Phổi (thùy trên) | Rasmussen trong hang lao, phình giả sau hoại tử/aspergillus, iatrogenic, phình thật ĐM phổi, phình ĐM phế quản | **Túi nối nhánh ĐM phổi = Rasmussen**; **28,6% không thấy trên chụp ĐM phổi** → phải chụp hệ thống; **túi ≥ 8 mm + hang ≥ 30 mm + mPAP cao = nguy cơ vỡ** | [094](../094-phinh-gia-rasmussen-nut-mach-dong-mach-phoi/lesson.md) |
+| **Phù tay + bàng hệ thành ngực ở bệnh nhân lọc máu** | Tĩnh mạch trung tâm (dưới đòn–cánh tay đầu–SVC) | Hẹp do catheter/pacemaker, hẹp de novo do lưu lượng AVF cao, hội chứng lồng ngực thoát, xơ hóa trung thất sau xạ, hội chứng SVC do u | **Catheter dưới đòn: 47,8% vs 22,0% (p = 0,02)**; **≥ 4 lần catheter: 53,8%**; siêu âm trực tiếp chỉ thấy **27,78%** → dùng phổ tĩnh mạch nách (CVSI > 7,13) hoặc **dấu LTP trên CT liều thấp (Se 94,1%, NPV 96,3%)** | [095](../095-hep-tac-tinh-mach-trung-tam-loc-mau/lesson.md) |
+| **Khối cản quang cạnh rốn phổi + huyết khối trong lòng** | ĐM phổi (thân/nhánh) | Phình thật (thoái hóa, tăng áp phổi, bệnh mô liên kết), Behçet/H–S, phình giả nhiễm trùng/iatrogenic, Rasmussen, CTEPH | **ĐM phổi chính bình thường ~25 mm, bách phân vị 90 ở nữ 27 mm**; **< 45 mm chưa gọi phình**; can thiệp khi **> 55 mm / tăng > 5 mm trong 6 tháng / PAP > 50 mmHg**; **ngấm thuốc thành kéo dài = Ragab's sign** | [096](../096-phinh-dong-mach-phoi-that-hughes-stovin/lesson.md) |
 | **Hang có mức khí–dịch / tụ dịch khu trú sau VAP** | Phổi + khoang màng phổi (vùng phụ thuộc) | Áp-xe phổi · mủ màng phổi · tràn dịch cạnh phổi phức tạp · viêm phổi hoại tử · lao/nấm · xẹp phổi | **Mức khí–dịch dài BẰNG NHAU trên 2 bình diện + góc nhọn = áp-xe**; **split pleura + góc tù + vỏ ≥ 2 cm = mủ màng phổi**; **pH < 7,2 = dẫn lưu**; **hang ≥ 4 cm + tiếp xúc 1/3 ngoài = dẫn lưu xuyên thành** | [088](../088-apxe-phoi-mu-mang-phoi-sau-vap/lesson.md) |
 
 ## Bài liên quan chéo
@@ -115,6 +117,8 @@ certainty: tong-hop-y-van
 - [092 – Suy thượng thận & suy tuyến yên do ICI quanh mổ](../092-suy-thuong-than-suy-tuyen-yen-quanh-mo/lesson.md) *(mới: cortisol < 3 µg/dL, liều 100 mg + 200 mg/24h, MRI tuyến yên, xuất huyết thượng thận)*
 - [093 – Hội chứng tĩnh mạch chủ trên (SVCS)](../093-hoi-chung-tinh-mach-chu-tren/lesson.md) *(mới: diện tích SVC < 1,07 cm², Stanford–Doty, Kishi ≥ 4 → stent, covered stent tái phát 29,4% vs 60%, tamponade 0,1–1,8%)*
 - [094 – Ho ra máu từ động mạch phổi: Rasmussen & nút mạch phổi](../094-phinh-gia-rasmussen-nut-mach-dong-mach-phoi/lesson.md) *(mới: vỡ 42%, túi 8,1 vs 6,0 mm, mPAP 23,9 vs 19,2 mmHg, 28,6% không thấy trên chụp ĐM phổi, HR 3,43 nếu bỏ sót)*
+- [095 – Hẹp/tắc tĩnh mạch trung tâm ở bệnh nhân lọc máu](../095-hep-tac-tinh-mach-trung-tam-loc-mau/lesson.md) *(mới: catheter dưới đòn 47,8% vs 22,0%, ≥ 4 lần catheter 53,8%, siêu âm trực tiếp chỉ 27,78%, CVSI 7,13/AUC 0,965, stent phủ 84% ở 24 tháng)*
+- [096 – Phình động mạch phổi thật & Hughes–Stovin](../096-phinh-dong-mach-phoi-that-hughes-stovin/lesson.md) *(mới: ĐM phổi bình thường ~25 mm, < 45 mm chưa gọi phình, mổ khi > 55 mm hoặc tăng > 5 mm/6 tháng, H–S < 100 ca, tử vong 25%, 8/8 ca ức chế miễn dịch sống)*
 
 ## Quy hoạch toàn diện Hệ Ngực (Master Curriculum 001–080)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
@@ -136,6 +140,8 @@ certainty: tong-hop-y-van
 - 092 – Suy thượng thận & suy tuyến yên do ICI quanh mổ: sàng lọc cortisol/ACTH, liều chu phẫu, MRI tuyến yên, xuất huyết thượng thận sau CABG *(đã có — [bài học](../092-suy-thuong-than-suy-tuyen-yen-quanh-mo/lesson.md))*
 - 093 – Hội chứng tĩnh mạch chủ trên (SVCS): CTV trong lòng vs ngoài lòng, Stanford–Doty I–IV, Kishi, stent có màng che, biến chứng tamponade *(đã có — [bài học](../093-hoi-chung-tinh-mach-chu-tren/lesson.md))*
 - 094 – Ho ra máu từ động mạch phổi: phình giả Rasmussen, phân loại Shin A–D, coil/stent-assisted, nguy cơ vỡ theo Laplace *(đã có — [bài học](../094-phinh-gia-rasmussen-nut-mach-dong-mach-phoi/lesson.md))*
+- 095 – Hẹp/tắc tĩnh mạch trung tâm ở bệnh nhân lọc máu: catheter/pacemaker, Doppler CVSI, dấu LTP, PTA vs stent phủ, HeRO *(đã có — [bài học](../095-hep-tac-tinh-mach-trung-tam-loc-mau/lesson.md))*
+- 096 – Phình ĐM phổi thật & Hughes–Stovin: ngưỡng 45/55 mm, tăng > 5 mm/6 tháng, Ragab's sign, ức chế miễn dịch trước can thiệp *(đã có — [bài học](../096-phinh-dong-mach-phoi-that-hughes-stovin/lesson.md))*
 
 **02x — Nốt, Khối & Hang**
 - [020 – Nốt phổi đơn độc](../020-not-phoi/lesson.md) *(đã có)*

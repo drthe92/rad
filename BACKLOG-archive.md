@@ -968,3 +968,5 @@
 - 2026-10-31: flip #948/#949 → xong; append #1088 (6140 lỏng vô khuẩn) + #1089 (6141 vôi hóa quanh khớp), đã check_duplicates exit 0.
 
 - 2026-10-31: viết **415** (phổ nhãn cầu nhỏ–coloboma: Ida Mann/Gopal, RD 2,4–47,5%, 7 ảnh+1 composite CC BY) và **416** (dị tật tiền phòng: Peters glaucoma 0/52/75%, ARS 50–70%, phân độ nặng I–IV, 7 ảnh+1 composite CC BY). Cả 2 qua check_duplicates; flip #868/#869, append #1142 (417 Morning Glory) + #1143 (418 nanophthalmos).
+- 2026-10-31 worker: viết 095 (CVS lọc máu: catheter dưới đòn 47,8% vs 22,0%, CVSI 7,13/AUC 0,965, stent phủ 84% ở 24 tháng) + 096 (PAA thật/H–S: < 45 mm chưa gọi phình, mổ khi > 55 mm hoặc > 5 mm/6 tháng, 8/8 ca ức chế miễn dịch sống); 11 ảnh + 2 composite.
+- 2026-10-31 flip #979/#980 → xong; append #1144 (097 BAA) + #1145 (099 hẹp TM phổi) — đã check_duplicates exit 0.
