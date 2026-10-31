@@ -1,0 +1,25 @@
+# Nguồn gốc — 1908-thieu-mau-mac-treo-va-boc-tach-dong-mach-tang (thiếu máu mạc treo & bóc tách động mạch tạng)
+
+> Quét ngày 2026-10-31: Europe PMC (`"acute mesenteric ischemia" AND pneumatosis AND meta-analysis AND OPEN_ACCESS:Y`; `FIG:"superior mesenteric artery dissection" AND OPEN_ACCESS:Y`; `FIG:"chronic mesenteric ischemia" AND OPEN_ACCESS:Y`), đối chiếu toàn văn các bài open access. Chủ đề **FMD** đã có bài riêng **850** — ở đây chỉ dùng để phân biệt, không lặp lại nội dung.
+
+| # | Nguồn | Tiêu đề | Link gốc | Giấy phép | Ảnh đã tải |
+|---|---|---|---|---|---|
+| 1 | Sci Rep 2025 (PMC11928508) | *Radiological diagnosis of acute mesenteric ischemia in adult patients: a systematic review and meta-analysis* | https://pmc.ncbi.nlm.nih.gov/articles/PMC11928508/ | **CC BY-NC-ND 4.0** | (số liệu Se/Sp/OR; không lấy ảnh) |
+| 2 | Interventional Radiology 2025 (PMC12078030) | *Computed Tomography Imaging of Acute Mesenteric Ischemia for Interventional Radiology* | https://pmc.ncbi.nlm.nih.gov/articles/PMC12078030/ | **CC BY-NC 4.0** | `images/1908_huyet-khoi-SMA_CT_PMC12078030-Fig2.jpg` + `..._khi-trong-thanh-ruot_...-Fig7.jpg` + `..._dien-tien-ruot-thieu-mau_...-Fig6.jpg` |
+| 3 | J Clin Med 2024 (PMC10931623) | *Revascularization Strategies for Acute and Chronic Mesenteric Ischemia: A Narrative Review* | https://pmc.ncbi.nlm.nih.gov/articles/PMC10931623/ | **CC BY 4.0** | (dịch tễ, tử vong, nguyên nhân; không lấy ảnh) |
+| 4 | Ann Med Surg 2022 (PMC9422046) | *Chronic mesenteric ischemia: Diagnosis & management* | https://pmc.ncbi.nlm.nih.gov/articles/PMC9422046/ | **CC BY-NC-ND 4.0** | `images/1908_chien-luoc-CMI_so-do_PMC9422046-Fig1.jpg` |
+| 5 | Jpn J Radiol 2026 (PMC13624004) | *Computed tomography predictors of failure of conservative management in isolated superior mesenteric artery dissection* | https://pmc.ncbi.nlm.nih.gov/articles/PMC13624004/ | **CC BY 4.0** | `images/1908_boc-tach-SMA_DSA-CT_PMC13624004-Fig3.jpg` + `..._ROC-hep-long-that_...-Fig2.jpg` |
+| 6 | JACC Asia 2026 (PMC13458913) | *Beyond Classification: Rethinking Risk Stratification in Isolated Superior Mesenteric Artery Dissection* | https://pmc.ncbi.nlm.nih.gov/articles/PMC13458913/ | **CC BY-NC-ND 4.0** | (phân loại Tan, C-statistic 0,750; không lấy ảnh) |
+| 7 | Cureus 2023 (PMC10781897) | *A Case Report on Fibromuscular Dysplasia With Extrarenal Involvement* | https://pmc.ncbi.nlm.nih.gov/articles/PMC10781897/ | **CC BY 4.0** | `images/1908_FMD-chuoi-hat_CTA_PMC10781897-Fig1.jpg` |
+| 8 | Cureus 2025 (PMC12205474) | *Endovascular Versus Open Surgical Approaches for Acute Mesenteric Ischemia: A Systematic Review of Outcomes* | https://pmc.ncbi.nlm.nih.gov/articles/PMC12205474/ | **CC BY 4.0** | (tử vong 24,9% vs 39,3%; không lấy ảnh) |
+
+## Số liệu chính đã dùng (đối chiếu bài gốc)
+
+- **Dịch tễ & tiên lượng (PMC10931623):** tắc động mạch **67–95%** ca thiếu máu mạc treo cấp; tử vong **30–70%**; **mỗi 6 giờ chậm gấp đôi tử vong**; tổn thương đại tràng kèm theo **~28%** (hay gặp đại tràng phải); lactate bình thường **không loại trừ**.
+- **Độ chính xác hình ảnh (PMC11928508, 95 bài, 14 meta-analysis):** CTA chẩn đoán thiếu máu mạc treo cấp **Se 92,0% (86,3–95,5) / Sp 98,8% (95,1–99,8)**, 12 nghiên cứu/2.028 ca; **mất/giảm ngấm thành ruột Se 57,9%/Sp 90,8%, OR 14,3**; **thành ruột dày Se 56,4%/Sp 63,4%, OR 3,1**; **khí trong thành ruột** Se **27,0%/Sp 98,2%** (thiếu máu mạc treo cấp) và Se **44,8%/Sp 84,1%, OR 2,36** (hoại tử xuyên thành); **thành ruột mỏng** Se **33,6%/Sp 98,0%** (hoại tử xuyên thành).
+- **CTA theo thì & cửa sổ (PMC12078030):** huyết khối tăng đậm độ rõ trên **WW 120** (và **WW 80**); khí trong thành đọc trên **WL 0/WW 450** và **cửa sổ phổi WL −500/WW 1.500**; **dual-energy** (ảnh monoenergetic + bản đồ iodine) giúp đánh giá ngấm thành ruột khách quan hơn.
+- **CMI (PMC9422046):** xơ vữa mạc treo **6–29%**; **tam chứng chỉ đủ ở 20%**; **thân tạng tăng lưu lượng 5 ± 1 phút**, **SMA 41 ± 4 phút**; CTA **Se 100%/Sp 95%**, Doppler **Se 72–100%/Sp 77–90%**; không điều trị **tử vong 5 năm gần 100%**; nội mạch giảm triệu chứng **86–96%** ở 5–10 năm, **tái hẹp tới 40%**, Doppler theo dõi **3–6 tháng/lần**.
+- **ISMAD (PMC13624004):** 32 bệnh nhân, tuổi trung vị **56,7** (41–81), nam **81,3%**; **0,01–0,09%** trong tử thiết; hẹp lòng thật **100% vs 55%** (thất bại vs thành công); **cut-off 66,8%**, **AUC 0,855** (0,71–0,99), **Se 100%/Sp 65,2%**, **NPV 1,00**; **cung Riolan 9/9 vs 12/23**.
+- **Phân loại Tan (PMC13458913):** 156 bệnh nhân/3 trung tâm, 8 hệ phân loại; **Tan C-statistic 0,750**; **type L = bóc tách > 5 cm**, **type S = hẹp lòng thật > 80%**.
+- **Can thiệp nội mạch vs mổ mở (PMC12205474):** 6 nghiên cứu/951 ca; Beaulieu 2014 (679 ca): tử vong **24,9% vs 39,3%** (p = 0,01), nằm viện **12,9 vs 17,1 ngày** (p = 0,006); Arthurs: **OR 0,10** ở thể huyết khối; cắt ruột ngắn hơn (trung vị **0 vs 155 cm**).
+- **FMD (PMC10781897):** hình **chuỗi hạt** ở động mạch thận và mạc treo kèm **phình động mạch thận** — dùng làm hình đối chiếu; chi tiết bệnh học/điều trị ở bài **850**.

@@ -176,6 +176,7 @@ certainty: tong-hop-y-van
 - [1782 – Phình mạch nội sọ trong moyamoya: thân vs bàng hệ, tầm soát DSA 3D & chảy máu muộn sau tái thông](../1782-phinh-mach-trong-moyamoya/lesson.md) *(mới — nối 1780/207/248)*
 - [1795 – Xuất huyết & vi chảy máu trong moyamoya ở trẻ: SWI/T2*, phân biệt với aspirin & EDAS sớm](../1795-xuat-huyet-vi-chay-mau-moyamoya-o-tre/lesson.md) *(mới — nối 1782/681/660)*
 - [1797 – Vi chảy máu & hang mạch do xạ trị sọ ở trẻ: Zabramski, MARS, SWI 23,7 tháng, tích lũy 43% ở 10 năm, khi nào mổ](../1797-vi-chay-mau-hang-mach-sau-xa/lesson.md) *(mới — nối 1795/204/261)*
+- [1798 – Bàng hệ quanh não thất (Funaki 0–2) & giãn AChA: ChA 13,1 vs 1,3%/năm, aHR 0,33 khi bắc cầu, PA tồn tại aHR 4,11, phình bàng hệ 2,7%](../1798-phan-do-bang-he-quanh-nao-that-funaki-va-gian-dong-mach-mang-mach-truoc/lesson.md) *(mới — nối 1795/1782/1780)*
 - [1423 – Độc tính methotrexate nội tủy: viêm màng não hóa học, bệnh não chất trắng cấp & ức chế tủy](../1423-doc-tinh-methotrexate-noi-tuy/lesson.md) *(mới — nối 494/1421/462)*
 - [1784 – Hội chứng tưới máu quá mức (CHS) sau tái thông moyamoya: ASL/CTP, ΔCBF > 43,48, phân biệt chảy máu – nhồi máu](../1784-hoi-chung-tuoi-mau-qua-muc-sau-tai-thong-moyamoya/lesson.md) *(mới — nối 1780/1782/207)*
 - [207 – Phình mạch nội sọ chưa vỡ: PHASES/ELAPSS/UIATS, ngấm thành HR-vwMRI & quyết định điều trị](../207-phinh-mach-noi-so-chua-vo/lesson.md) *(mới)*
