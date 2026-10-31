@@ -966,3 +966,5 @@
 - Flip #406/1811→1817 xong; append **1818** (sỏi niệu quản ở thai: JJ vs nephrostomy) + **1819** (viêm túi mật cấp ở thai: mổ nội soi theo quý, MRCP).
 - 2026-10-31: viết 6134 (osteopetrosis; ID 6109 trong BACKLOG đã dùng cho NIV tại nhà → đổi 6134) + 6110 (PJI sau THA ở người trẻ); 13 ảnh CC BY/CC BY-NC/CC BY-NC-ND, không composite (có ảnh ND).
 - 2026-10-31: flip #948/#949 → xong; append #1088 (6140 lỏng vô khuẩn) + #1089 (6141 vôi hóa quanh khớp), đã check_duplicates exit 0.
+
+- 2026-10-31: viết **415** (phổ nhãn cầu nhỏ–coloboma: Ida Mann/Gopal, RD 2,4–47,5%, 7 ảnh+1 composite CC BY) và **416** (dị tật tiền phòng: Peters glaucoma 0/52/75%, ARS 50–70%, phân độ nặng I–IV, 7 ảnh+1 composite CC BY). Cả 2 qua check_duplicates; flip #868/#869, append #1142 (417 Morning Glory) + #1143 (418 nanophthalmos).
