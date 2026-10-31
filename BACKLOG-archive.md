@@ -960,13 +960,12 @@
 - Viết 6136 (viêm tụy do thuốc ở trẻ: Badalov/Naranjo, valproate CTSI 10/10, AAP 10,23%) + 6137 (nang ống mật chủ: Todani, MRCP, CC vs CBA AUC 0,990, ung thư sau mổ 1,6/3,9/11,3%) — 7 ảnh CC BY/CC BY-NC-ND; flip #1116/#1117; append #1132/#1133 (AIP trẻ, sỏi mật trẻ).
 - 2026-10-31 — bài 1798 (Funaki/ChA, 5 ảnh CC BY & CC BY-NC): ChA 13,1 vs 1,3%/năm; PA tồn tại aHR 4,11; verify PASS.
 - 2026-10-31 — bài 1908 (ISMAD/mesenteric, 7 ảnh; ID 1903 đã dùng → 1908): CTA Se 92,0/Sp 98,8; cut-off 66,8%; verify PASS.
-
-## Nhật ký worker — 2026-10-31
 - Viết **1817** (đau bụng cấp ở thai phụ: MRI không cản từ): SA 77%/75%, MRI Se 91,8%/Sp 97,9%, ruột thừa > 7 mm, liều thai ≤ 50 mGy vs CT ~25 mGy (13 với AEC); 6 ảnh + 1 composite CC BY 4.0 (PMC10528125); verify PASS 6/6 (743 bài/743 card, parity 0).
 - Flip #406/1811→1817 xong; append **1818** (sỏi niệu quản ở thai: JJ vs nephrostomy) + **1819** (viêm túi mật cấp ở thai: mổ nội soi theo quý, MRCP).
 - 2026-10-31: viết 6134 (osteopetrosis; ID 6109 trong BACKLOG đã dùng cho NIV tại nhà → đổi 6134) + 6110 (PJI sau THA ở người trẻ); 13 ảnh CC BY/CC BY-NC/CC BY-NC-ND, không composite (có ảnh ND).
 - 2026-10-31: flip #948/#949 → xong; append #1088 (6140 lỏng vô khuẩn) + #1089 (6141 vôi hóa quanh khớp), đã check_duplicates exit 0.
-
 - 2026-10-31: viết **415** (phổ nhãn cầu nhỏ–coloboma: Ida Mann/Gopal, RD 2,4–47,5%, 7 ảnh+1 composite CC BY) và **416** (dị tật tiền phòng: Peters glaucoma 0/52/75%, ARS 50–70%, phân độ nặng I–IV, 7 ảnh+1 composite CC BY). Cả 2 qua check_duplicates; flip #868/#869, append #1142 (417 Morning Glory) + #1143 (418 nanophthalmos).
 - 2026-10-31 worker: viết 095 (CVS lọc máu: catheter dưới đòn 47,8% vs 22,0%, CVSI 7,13/AUC 0,965, stent phủ 84% ở 24 tháng) + 096 (PAA thật/H–S: < 45 mm chưa gọi phình, mổ khi > 55 mm hoặc > 5 mm/6 tháng, 8/8 ca ức chế miễn dịch sống); 11 ảnh + 2 composite.
 - 2026-10-31 flip #979/#980 → xong; append #1144 (097 BAA) + #1145 (099 hẹp TM phổi) — đã check_duplicates exit 0.
+- 2026-10-31: viết 1812 (rOSA sau AT; Down 54–68%, AT khỏi 6–33%, OAHI 25,55→3,20→10,37) + 1813 (GCF 4,5–58%, iohexol, OTSC 61,9% vs mổ 100%).
+- 2026-10-31: verify PASS 6/6 (751 bài/751 card); append 1819 buried bumper, 1820 OSA Prader–Willi.

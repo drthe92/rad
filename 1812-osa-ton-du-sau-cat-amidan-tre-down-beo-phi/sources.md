@@ -1,0 +1,29 @@
+# Nguồn gốc — 1812 Ngưng thở khi ngủ tắc nghẽn tồn dư sau cắt amidan–VA ở trẻ
+
+> Quét 2026-10-31: Europe PMC (`TITLE:"adenotonsillectomy" AND TITLE:"residual" AND OPEN_ACCESS:Y`; `"Down syndrome" AND "residual" AND "sleep apnea" AND OPEN_ACCESS:Y`; `TITLE:"adenoid" AND "nasopharyngeal ratio" AND OPEN_ACCESS:Y`; `"drug-induced sleep endoscopy" AND children AND OPEN_ACCESS:Y`), lọc giấy phép từng bài, đối chiếu **PMCID + `authorString`** qua Europe PMC REST. Không scrape Radiopaedia; AuntMinnie chỉ dẫn link.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / *Medicina (Kaunas)* | **Stockunaite P, Oboleviciene G, Miseviciene V, Gurskis V** — "Risk Factors of Residual Obstructive Sleep Apnea After Adenotonsillectomy in Children: Systematic Review" (2026): 13 nghiên cứu; rOSA **18,6–85,0%**; béo phì **23,0–72,8%**, đêm đầu **85%**; Down **54–68%**; tuổi **< 3** và **> 7**; hen; yếu tố xã hội | https://pmc.ncbi.nlm.nih.gov/articles/PMC13027964/ | CC BY 4.0 (không dùng ảnh) | không tải (chỉ số liệu) |
+| 2 | Europe PMC / *Braz J Otorhinolaryngol* | **Costa Gomes S, Abari J, Franckx H, Reynders M, Vanderstraeten V, Peeters L, Cools W, Foulon I** — "Long-term outcome after adenotonsillectomy in Down Syndrome with OSAS" (2026): n = 25; OAHI **25,55 ± 19,70 → 3,20 ± 3,38 → 10,37 ± 11,76**; rOSA **28%** ngắn hạn, **44%** dài hạn; AT khỏi **6–33%** ở Down vs **~79%** chung; OSA ở Down **57–82,3%**; ngưng thở trung ương tăng sau mổ | https://pmc.ncbi.nlm.nih.gov/articles/PMC13563574/ | CC BY 4.0 | `images/1812_oahi-truoc-sau_Dothi_PMC13563574.jpg` (Fig. 1) |
+| 3 | Europe PMC / *Ann Otol Rhinol Laryngol* | **Finnegan E, Campos L, Mulcahy A, Doody J** — "Lingual Tonsillectomy for Resistant Obstructive Sleep Apnea in Children with Down Syndrome: A Systematic Review and Meta-Analysis" (2026): 3 loạt/68 trẻ; **OAHI −8,20** (KTC −13,46 đến −2,94), **AHI −2,97** (−8,88 đến 2,94), **SpO₂ nadir +4,58%** (2,73–6,43) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13125704/ | CC BY 4.0 (không dùng ảnh) | không tải (chỉ số liệu) |
+| 4 | Europe PMC / *Life (Basel)* | **Soršáková A, Durdikova A, Durdik P, Sulov J, Dvorska D, Banovcin P, Jesenak M** — "Polysomnographic Profile and Clinical Phenotypes of OSA in Association with Residual Sleep Apnea in Children" (2025): n = 34; rOSA **24/34 (70,6%)**; kiểu hình người lớn **16/20 (80,0%)** vs kinh điển **8/14 (57,1%)**; nặng **17,6%**, vừa **20,6%**, nhẹ **32,4%**; AHI **6,67 ± 9,17** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12387549/ | CC BY 4.0 (không dùng ảnh) | không tải (chỉ số liệu) |
+| 5 | Europe PMC / *BMC Pediatr* | **Zarei E, Anamoradi A, Bayazian G, Chavoshi T** — "Assessing pediatric adenoid hypertrophy: a study on the reliability of radiographic vs. endoscopic techniques" (2026): n = 48; **Fujioka cutoff 1,5 — Se 100%/Sp 52,9%**; **Cohen 3,5 — Se 83,3%/Sp 75,0%**; **r = 0,670/0,458**; DISE độ I–IV **12,5/22,9/47,9/16,7%** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12990599/ | **CC BY-NC-ND 4.0** | `images/1812_fujioka-cohen_Xquang_PMC12990599.jpg` (Fig. 1, nguyên bản) |
+| 6 | Europe PMC / *J Clin Med* | **Manycz PO, Morawska-Kochman M, Zieliński J** — "Drug-Induced Sleep Endoscopy in Pediatric Obstructive Sleep Apnea: Clinical Applications, Classification Systems, and Anesthetic Considerations" (2026): DISE đổi kế hoạch **30–60%**; sau AT: **VA 54,5%, trên thanh môn 48,5%, đáy lưỡi 45,5%**; VOTE **65,1%**; **PedDISE-8 ICC 0,67–0,88/0,71–0,87**; phẫu thuật đáy lưỡi **AHI ↓ ~50%**, nadir **+~3%** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13566038/ | CC BY 4.0 (không dùng ảnh) | không tải (chỉ số liệu) |
+| 7 | Europe PMC / *Cureus* | **Freitas S, Cruz AS, Costa IE, Alves P, Gomes C** — "Precision in Pediatric Obstructive Sleep Apnea: Preventing Unnecessary Surgery Using Drug-Induced Sleep Endoscopy" (2026): ca bé gái **10 tuổi, BMI 31,04**, **OAHI 15**, **SpO₂ nadir 85%**, DISE **sụp nắp thanh môn đơn độc**, hết khi xoay đầu; **không cắt amidan–VA** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13378873/ | CC BY 4.0 | `images/1812_dise-sup-epiglot_Noisoi_PMC13378873.jpg` (Fig. 1) |
+| 8 | Repo nội bộ | **1803 — OSA ở trẻ bệnh phổi mạn**: ngưỡng OAHI, hypoxic burden **r = 0,801/AUC 0,888**, tăng áp phổi sau cắt amidan | ../1803-ngung-tho-khi-ngu-tac-nghen-tre-benh-phoi-man/lesson.md | nội bộ | — |
+| 9 | Repo nội bộ | **686 — Tăng áp phổi nhi**, **694 — laryngomalacia**, **602 — TBM**, **3047 — hẹp khí quản mắc phải** | ../686-tang-ap-luc-dong-mach-phoi-benh-phoi-man-nhi/lesson.md | nội bộ | — |
+| 10 | Radiopaedia | Obstructive sleep apnoea in children — mô tả tham khảo | https://radiopaedia.org/articles/obstructive-sleep-apnoea | dẫn link | không tải |
+| 11 | AuntMinnie | Case of the Day — tham khảo | https://www.auntminnie.com/ | paywall — chỉ dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Ảnh **CC BY 4.0** (PMC13563574, PMC13378873): được dùng/định dạng lại khi ghi nguồn; bài **không dùng thương mại**.
+- Ảnh **CC BY-NC-ND 4.0** (PMC12990599): **nguyên bản**, **không crop, không ghép, không chỉnh sửa**.
+- Không tạo composite từ ảnh **ND**; đồ thị OAHI được chuyển từ webp sang jpg, **không cắt/ghép**.
+
+## Phản biện / giới hạn nguồn
+- Phần lớn là **nghiên cứu quan sát, cỡ mẫu nhỏ**; chỉ 1 tổng quan hệ thống (13 nghiên cứu) và 1 meta-analysis (3 loạt/68 trẻ). **Không có RCT** cho chiến lược mổ theo DISE ở trẻ.
+- **Ngưỡng rOSA khác nhau** (AHI > 1; OAHI > 1; AHI > 1,5; OAHI > 2) → tỷ lệ 18,6–85,0% không so sánh trực tiếp.
+- **Thời điểm PSG lặp** không đồng nhất (1,5–24 tháng); ngưỡng "3–6 tháng" là khuyến cáo thực hành, **chưa có thử nghiệm xác định**.
+- Ca DISE (PMC13378873) là **ca nguyên văn**, không đại diện mọi trẻ béo phì; dùng để minh họa **thay đổi kế hoạch mổ**.
+- Số liệu **tuổi < 3 và > 7** lấy từ tổng quan; bài không đưa ngưỡng tuổi tuyệt đối cho mọi quần thể.
