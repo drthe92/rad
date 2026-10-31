@@ -968,4 +968,4 @@
 - 2026-10-31 worker: viết 095 (CVS lọc máu: catheter dưới đòn 47,8% vs 22,0%, CVSI 7,13/AUC 0,965, stent phủ 84% ở 24 tháng) + 096 (PAA thật/H–S: < 45 mm chưa gọi phình, mổ khi > 55 mm hoặc > 5 mm/6 tháng, 8/8 ca ức chế miễn dịch sống); 11 ảnh + 2 composite.
 - 2026-10-31 flip #979/#980 → xong; append #1144 (097 BAA) + #1145 (099 hẹp TM phổi) — đã check_duplicates exit 0.
 - 2026-10-31: viết 1812 (rOSA sau AT; Down 54–68%, AT khỏi 6–33%, OAHI 25,55→3,20→10,37) + 1813 (GCF 4,5–58%, iohexol, OTSC 61,9% vs mổ 100%).
-- 2026-10-31: verify PASS 6/6 (751 bài/751 card); append 1819 buried bumper, 1820 OSA Prader–Willi.
+- 2026-10-31: verify PASS 6/6 (751 bài/751 card); append 1829 buried bumper, 1830 OSA Prader–Willi.
