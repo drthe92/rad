@@ -964,3 +964,5 @@
 ## Nhật ký worker — 2026-10-31
 - Viết **1817** (đau bụng cấp ở thai phụ: MRI không cản từ): SA 77%/75%, MRI Se 91,8%/Sp 97,9%, ruột thừa > 7 mm, liều thai ≤ 50 mGy vs CT ~25 mGy (13 với AEC); 6 ảnh + 1 composite CC BY 4.0 (PMC10528125); verify PASS 6/6 (743 bài/743 card, parity 0).
 - Flip #406/1811→1817 xong; append **1818** (sỏi niệu quản ở thai: JJ vs nephrostomy) + **1819** (viêm túi mật cấp ở thai: mổ nội soi theo quý, MRCP).
+- 2026-10-31: viết 6134 (osteopetrosis; ID 6109 trong BACKLOG đã dùng cho NIV tại nhà → đổi 6134) + 6110 (PJI sau THA ở người trẻ); 13 ảnh CC BY/CC BY-NC/CC BY-NC-ND, không composite (có ảnh ND).
+- 2026-10-31: flip #948/#949 → xong; append #1088 (6140 lỏng vô khuẩn) + #1089 (6141 vôi hóa quanh khớp), đã check_duplicates exit 0.
