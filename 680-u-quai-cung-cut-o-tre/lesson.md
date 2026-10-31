@@ -174,6 +174,7 @@ flowchart TD
 - [630 – U bụng nhi: neuroblastoma vs Wilms](../630-u-bung-nhi-neuroblastoma-vs-wilms/lesson.md)
 - [635 – Dị tật tiết niệu nhi: SFU, VUR, PUV](../635-di-tat-tiet-nieu-nhi-SFU-VUR-PUV/lesson.md) (chèn ép đường tiểu dưới)
 - [645 – Vỡ khung chậu ở trẻ](../645-vo-khung-chau-o-tre/lesson.md) (đau vùng cùng cụt sau chấn thương)
+- [1705 – Theo dõi tiết niệu – đại tiện dài hạn sau cắt u quái cùng cụt](../1705-theo-doi-tiet-nieu-dai-tien-sau-cat-u-quai-cung-cut/lesson.md) (LUTD 19,6%, bàng quang thần kinh, tủy bám thấp, bón/ACE)
 
 ## Ảnh
 - `680_u-quai-cung-cut_US-thai_PMC13257435-Fig1-CCBY.jpg` — siêu âm thai, CC BY 4.0.

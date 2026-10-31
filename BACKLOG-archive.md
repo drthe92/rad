@@ -949,3 +949,5 @@
 ## 2026-10-31 — lượt worker (1682)
 - **1682 rò bàng quang–âm đạo ở trẻ**: dị vật/vaginolith (sỏi bàng quang 30 mm, vaginolith 53×29×33 mm), khuyết thành 6×5 mm trên T2 sagittal, chỉ hiện ở thì đi tiểu; VVR 12–15% là kẻ bắt chước; vá 2 lớp ± mạc nối, ống thông 22 ngày, tái phát 10–30%; 5 ảnh + 1 composite CC BY/CC BY-NC-ND.
 - Flip #421 → xong; append #1124 (1684 rò trực tràng–âm đạo) + #1125 (1685 dị vật âm đạo không rò), đã check_duplicates.
+- 2026-10-31: viết **1705** (LUTD 19,6% sau cắt SCT; PVR/compliance/DLPP; tủy bám thấp; TAI→ACE; 5 ảnh CC BY/CC BY-NC) và **1783** (CVST sau chấn thương đầu nhi: 28% TBI kín, NCCT 61 HU, CTV 20–25 s, chống đông ngày 7 khi có ICH; 4 ảnh).
+- 2026-10-31: verify PASS 6/6 (732 bài/732 card, parity 0, authors PASS); flip #422/#423 → xong; append #1126 (1706), #1127 (090) — đã check_duplicates.

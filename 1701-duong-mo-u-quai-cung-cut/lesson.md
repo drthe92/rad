@@ -206,6 +206,7 @@ flowchart TD
 - [672 – Biến chứng muộn sau tái tạo bàng quang](../672-bien-chung-muon-sau-tai-tao-bang-quang/lesson.md) — xử trí khi có bí tiểu/tiểu không tự chủ sau mổ.
 - [646 – Hội chứng khoang bụng ở trẻ](../646-hoi-chung-khoang-bung-o-tre/lesson.md) — biến chứng áp lực sau mổ lớn ở sơ sinh.
 - [1681 – Di chứng muộn niệu–sinh dục ở bé gái sau chấn thương khung chậu](../1681-di-chung-muon-nieu-sinh-duc-be-gai-sau-chan-thuong-khung-chau/lesson.md) — bảo tồn chức năng vùng chậu, đối chiếu cách tiếp cận khung chậu ở trẻ.
+- [1705 – Theo dõi tiết niệu – đại tiện dài hạn sau cắt u quái cùng cụt](../1705-theo-doi-tiet-nieu-dai-tien-sau-cat-u-quai-cung-cut/lesson.md) — **sau mổ**: LUTD 19,6%, bàng quang thần kinh, tủy bám thấp, bậc thang TAI → ACE.
 
 ## Ảnh
 

@@ -213,6 +213,7 @@ flowchart TD
 - [223 – Chấn thương tủy sống: ASIA & SCIWORA](../223-chan-thuong-tuy-so/lesson.md) (chấn thương thần kinh trục)
 - [231 – BCVI & vỡ sọ tiến triển ở trẻ](../231-ton-thuong-mach-mau-nao-chan-thuong-va-vo-so-tien-trien/lesson.md) (biến chứng mạch máu – xương sọ)
 - [232 – Chấn thương đầu nhẹ & concussion ở trẻ](../232-chan-thuong-dau-nhe-concussion-o-tre/lesson.md) (PECARN, quan sát, quay lại học/thể thao)
+- [1783 – Huyết khối xoang tĩnh mạch não sau chấn thương đầu ở trẻ](../1783-huyet-khoi-xoang-sau-chan-thuong-dau-tre/lesson.md) (vỡ xương bắt ngang xoang, NCCT 61 HU, CTV 20–25 giây)
 
 ## Ảnh
 - `images/224_chan-thuong-so-nao-nhi_MRI_PMC11193985-Fig1-contusion-CCBYNC.jpg` — đụng dập vỏ não (CC BY-NC 3.0).

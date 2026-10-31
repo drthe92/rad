@@ -215,6 +215,7 @@ flowchart TD
 - [219 – PRES & RCVS](../219-pres-rcvs/lesson.md) — phù mạch không hạn chế khuếch tán, phân biệt với nhồi máu tĩnh mạch.
 - [684 – Tăng triglyceride do asparaginase ở trẻ ALL](../684-tang-triglyceride-asparaginase-all-nhi/lesson.md) — cùng nhóm "trẻ ung thư có biến chứng huyết khối do thuốc".
 - [238 – Lemierre & huyết khối tĩnh mạch cảnh trong](../238-lemierre-huyet-khoi-tm-canh-trong/lesson.md) — huyết khối tĩnh mạch lan từ ổ nhiễm trùng vùng cổ.
+- [1783 – Huyết khối xoang sau chấn thương đầu ở trẻ](../1783-huyet-khoi-xoang-sau-chan-thuong-dau-tre/lesson.md) — **nhánh chấn thương**: vỡ xương bắt ngang xoang, NCCT 61 HU, CTV 20–25 giây, chống đông khi có xuất huyết nội sọ.
 
 ## Ảnh
 
