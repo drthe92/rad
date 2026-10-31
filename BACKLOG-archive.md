@@ -937,3 +937,5 @@
 
 - 2026-10-30 — Viết **6135** (viêm tụy cấp ở trẻ): INSPPIRE 2/3, US 40,5% vs MRI 60% (41% MRI dương mà US âm), CT ≥ 72 giờ, APFC/ANC vs pseudocyst/WON mốc 4 tuần, ARP 18%/CP 10%, LAMS 90,9%; 3 ảnh CC BY/CC BY-NC. Verify PASS 5/5, 721 bài/721 card.
 - Backlog: flip #1083 → xong; append #1116 (6136 viêm tụy do thuốc) + #1117 (6137 nang ống mật chủ), đã check_duplicates exit 0.
+- 2026-10-31 — Viết **1649** (di căn buồng trứng–phần phụ do ung thư vú): khối ĐẶC AUC 0,99 > "hai bên" 0,59; 5/6 ca ILC bị mổ oan; GATA-3+/PAX8−; sống sau di căn 28 tháng — và **1648** (di căn gan ở ung thư vú): CT Se 73–75% (đồng tỷ trọng), u máu ADC cao, mỡ gan < 40 HU, pseudocirrhosis 389 ca (giãn TM 24,2%, sống 7,6 tháng); 6 ảnh + 2 composite CC BY. Verify PASS 6/6, 723 bài/723 card.
+- Backlog: flip #423/#424 → xong; append #1118 (1732 độc tính gan CDK4/6–T-DXd) + #1119 (1733 nốt FNH-like sau hóa trị), đã check_duplicates exit 0.
