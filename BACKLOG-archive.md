@@ -941,3 +941,7 @@
 - Backlog: flip #423/#424 → xong; append #1118 (1732 độc tính gan CDK4/6–T-DXd) + #1119 (1733 nốt FNH-like sau hóa trị), đã check_duplicates exit 0.
 - 2026-10-31 — Viết **936** (phản ứng da muộn nặng sau cản quang: AGEP/DRESS/SJS-TEN; 4 ảnh + 1 composite CC BY) và **1650** (gãy sườn/xương đòn sau xạ; 6 ảnh + 1 composite CC BY/CC BY-NC). Verify PASS 6/6, 725 bài/725 card.
 - Backlog: flip #425/#426 → xong; append #1120 (943 viêm cơ tim DRESS) + #1121 (384 sarcoma do xạ), đã check_duplicates exit 0.
+
+## 2026-10-31 — lượt worker (1655, 1656)
+- **1655 BIA-SCC**: 20 năm tiềm tàng, 80% implant nguyên vỏ, 18/18 ca không dịch trên hình ảnh, tế bào vảy = cờ đỏ; 2 composite CC BY 4.0.
+- **1656 rách vỏ/gel bleed**: linguine/stepladder/snowstorm, snowstorm ≠ ngoài bao (72,1% vs 19,8%), US hạch 87,5% vs MRI 20%.
