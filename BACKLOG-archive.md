@@ -978,3 +978,6 @@
 ## 2026-10-31 — worker rad-backlog
 - 6142 (nhiễm trùng/di trú/gãy stent mạch ở trẻ): 4 ảnh CC BY-NC-ND/CC BY-NC/CC BY; xong #1146.
 - 3059 (thiếu máu sau bít ICA): 4 ảnh CC BY-NC-ND/CC BY-NC/CC BY-NC; xong #1147; append #1088 (3060 — CHS sau tái thông mạch cảnh).
+
+- 2026-10-31: viết **3008** (trật chuỗi xương con sau vỡ xương thái dương ở trẻ; 4 ảnh + 1 composite, CC BY 4.0) và **1905** (biến chứng/an toàn PIPAC; 3 ảnh CC BY/CC BY-NC). `verify_all` PASS 6/6 · 759 bài/759 card · parity 0.
+- 2026-10-31: flip #984/#986 → xong; **gộp #1086 (ID 3056) vào 3008** (chủ đề trùng, không tạo ID mới); append #1150 (3061 – di căn lỗ trocar) + #1149 (3055 – viêm màng não tái diễn & dị tật tai trong), đã chạy check_duplicates.
