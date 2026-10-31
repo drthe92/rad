@@ -939,3 +939,5 @@
 - Backlog: flip #1083 → xong; append #1116 (6136 viêm tụy do thuốc) + #1117 (6137 nang ống mật chủ), đã check_duplicates exit 0.
 - 2026-10-31 — Viết **1649** (di căn buồng trứng–phần phụ do ung thư vú): khối ĐẶC AUC 0,99 > "hai bên" 0,59; 5/6 ca ILC bị mổ oan; GATA-3+/PAX8−; sống sau di căn 28 tháng — và **1648** (di căn gan ở ung thư vú): CT Se 73–75% (đồng tỷ trọng), u máu ADC cao, mỡ gan < 40 HU, pseudocirrhosis 389 ca (giãn TM 24,2%, sống 7,6 tháng); 6 ảnh + 2 composite CC BY. Verify PASS 6/6, 723 bài/723 card.
 - Backlog: flip #423/#424 → xong; append #1118 (1732 độc tính gan CDK4/6–T-DXd) + #1119 (1733 nốt FNH-like sau hóa trị), đã check_duplicates exit 0.
+- 2026-10-31 — Viết **936** (phản ứng da muộn nặng sau cản quang: AGEP/DRESS/SJS-TEN; 4 ảnh + 1 composite CC BY) và **1650** (gãy sườn/xương đòn sau xạ; 6 ảnh + 1 composite CC BY/CC BY-NC). Verify PASS 6/6, 725 bài/725 card.
+- Backlog: flip #425/#426 → xong; append #1120 (943 viêm cơ tim DRESS) + #1121 (384 sarcoma do xạ), đã check_duplicates exit 0.

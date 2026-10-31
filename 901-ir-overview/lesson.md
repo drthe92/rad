@@ -49,6 +49,7 @@ certainty: tong-hop-y-van
 - 930 – Can thiệp Ung thư Gan: TACE, RFA/MWA & LI-RADS TRA *(đã có — [bài học](../930-hepatic-oncology-tace-rfa/lesson.md))*
 - 931 – Takayasu: nong/stent & phẫu thuật bắc cầu — chọn bệnh nhân theo hoạt tính viêm, theo dõi tái hẹp *(đã có — [bài học](../931-takayasu-can-thiep-noi-mach-va-phau-thuat/lesson.md))*
 - 934 – Sốc phản vệ do vỡ nang sán khi can thiệp (PAIR, chọc hút, mổ) *(đã có — [bài học](../934-soc-phan-ve-do-vo-nang-san/lesson.md))*
+- 936 – Phản ứng da **muộn nặng** sau cản quang: AGEP, DRESS, SJS/TEN — nhận diện, lịch test dị ứng, tiền mê không phòng được *(đã có — [bài học](../936-phan-ung-da-muon-nang-sau-can-quang/lesson.md))*
 - 1629 – Đốt nhiệt nhân giáp lành tính đặc: RFA & MWA *(đã có — [bài học](../1629-dot-nhiet-nhan-giap-lanh-tinh-dac/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
