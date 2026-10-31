@@ -989,3 +989,7 @@
 - Guard acquire/release OK; cây sạch, pull "Already up to date"; flip #988/#978 → xong; append 1658/1663 (đã check_duplicates).
 - **1717** vỡ tử cung trên sẹo mổ lấy thai: 0,3–0,7% (mổ chủ động < 0,02%), prostaglandin aOR 2,58 vs bóng chèn 0,99, LUS 2,3 mm/RMT 1,9 mm nhưng AUC 0,60–0,61, 22,7% không đau; 5 ảnh (2 CC BY-NC-ND nguyên bản, 3 CC BY); verify PASS 6/6 (763 bài/763 card); flip #979 → xong; append 1725/1726 (đã check_duplicates; 1720/1721 đã bị chiếm nên đổi số).
 - Guard acquire/release OK; cây sạch, pull "Already up to date"; không stash.
+
+## Nhật ký 2026-10-31 (worker rad-backlog)
+- Viết 1725 (previable PPROM trên sẹo mổ lấy thai: latency 92 ngày, IUFD 27%, kháng sinh +14,7 ngày) + 1726 (thai sau vỡ tử cung: tái phát 10%, 0% đoạn dưới vs 8,6% ngoài đoạn dưới, ACOG 36–38⁶⁄₇ tuần); flip #979/#980, append #1155/#1156 (1727 sẹo myomectomy, 1728 chảy máu sau vỡ tử cung).
+- 6 ảnh CC BY/CC BY-NC-ND (3+3), 0 composite; cập nhật overview 500, README, index (765 thẻ).
