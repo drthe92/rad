@@ -974,3 +974,7 @@
 - Ghi chú: #984 trong hàng chờ đề xuất ID **3048** nhưng ID đã dùng (u máu gan ở nhũ nhi) → chuyển sang **3049**; ảnh 4 bài gốc đều CC BY/CC BY-NC, không dùng ảnh AuntMinnie.
 - 2026-10-31 worker: viết **6119** (hẹp lại 15% sau mổ vs 35% sau can thiệp qua da; can thiệp lại 13,3%/10 năm; PWV 6,8 vs 5,4 m/s; ca 4,05 m/s/65,65 mmHg → 1,51 m/s/9,17 mmHg) + **3050** (ICA 0,2–1,4% EEA vs 3–8% mổ hở; tử vong chu phẫu 10%; Type III 27 ca; stent phủ 13/15 bít ngay).
 - 2026-10-31 flip #1038/#1039 → xong; append #1146 (6142 nhiễm trùng stent) + #1147 (3059 thiếu máu não sau bít mẹ) — đã check_duplicates exit 0.
+
+## 2026-10-31 — worker rad-backlog
+- 6142 (nhiễm trùng/di trú/gãy stent mạch ở trẻ): 4 ảnh CC BY-NC-ND/CC BY-NC/CC BY; xong #1146.
+- 3059 (thiếu máu sau bít ICA): 4 ảnh CC BY-NC-ND/CC BY-NC/CC BY-NC; xong #1147; append #1088 (3060 — CHS sau tái thông mạch cảnh).
