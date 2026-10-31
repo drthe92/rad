@@ -987,3 +987,5 @@
 - Guard acquire/release OK; cây sạch, pull "Already up to date"; không stash.
 - **1657 + 1661** UAVM/EMV (PSV 25–110, RI 0,27–0,75; UAE 71–93%) + lạc nội mạc niệu quản (74 ca, 16,1% mất chức năng thận): 7 ảnh + 2 composite CC BY 4.0/CC BY-NC; verify PASS 6/6 (762 bài/762 card).
 - Guard acquire/release OK; cây sạch, pull "Already up to date"; flip #988/#978 → xong; append 1658/1663 (đã check_duplicates).
+- **1717** vỡ tử cung trên sẹo mổ lấy thai: 0,3–0,7% (mổ chủ động < 0,02%), prostaglandin aOR 2,58 vs bóng chèn 0,99, LUS 2,3 mm/RMT 1,9 mm nhưng AUC 0,60–0,61, 22,7% không đau; 5 ảnh (2 CC BY-NC-ND nguyên bản, 3 CC BY); verify PASS 6/6 (763 bài/763 card); flip #979 → xong; append 1725/1726 (đã check_duplicates; 1720/1721 đã bị chiếm nên đổi số).
+- Guard acquire/release OK; cây sạch, pull "Already up to date"; không stash.
