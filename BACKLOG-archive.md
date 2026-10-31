@@ -934,18 +934,18 @@
 - 2026-10-30 · flip #T1690/#T1691 → xong; append #1084 (1692 u tuyến núm) + #1085 (1693 Trousseau/thrombophlebitis migrans), đã check_duplicates.
 - 2026-10-30: viết **1692** (u tuyến núm vú) + **1693** (thrombophlebitis migrans/Trousseau) — 4 ảnh/bài + 1 composite, CC BY & CC BY-NC (nguyên bản); nguồn: PRSGO 2024 (387 ca), Insights Imaging 2025, Front Oncol 2024, Turk J Surg 2025, J Clin Med 2026, RPTM 2024, Cureus 2024/2019.
 - 2026-10-30: flip #1084/#1085 → xong; append 2 mục mới **1706** (Trousseau thể động mạch/NBTE) + **1707** (chảy dịch núm một ống), đã qua `check_duplicates`.
-
 - 2026-10-30 — Viết **6135** (viêm tụy cấp ở trẻ): INSPPIRE 2/3, US 40,5% vs MRI 60% (41% MRI dương mà US âm), CT ≥ 72 giờ, APFC/ANC vs pseudocyst/WON mốc 4 tuần, ARP 18%/CP 10%, LAMS 90,9%; 3 ảnh CC BY/CC BY-NC. Verify PASS 5/5, 721 bài/721 card.
 - Backlog: flip #1083 → xong; append #1116 (6136 viêm tụy do thuốc) + #1117 (6137 nang ống mật chủ), đã check_duplicates exit 0.
 - 2026-10-31 — Viết **1649** (di căn buồng trứng–phần phụ do ung thư vú): khối ĐẶC AUC 0,99 > "hai bên" 0,59; 5/6 ca ILC bị mổ oan; GATA-3+/PAX8−; sống sau di căn 28 tháng — và **1648** (di căn gan ở ung thư vú): CT Se 73–75% (đồng tỷ trọng), u máu ADC cao, mỡ gan < 40 HU, pseudocirrhosis 389 ca (giãn TM 24,2%, sống 7,6 tháng); 6 ảnh + 2 composite CC BY. Verify PASS 6/6, 723 bài/723 card.
 - Backlog: flip #423/#424 → xong; append #1118 (1732 độc tính gan CDK4/6–T-DXd) + #1119 (1733 nốt FNH-like sau hóa trị), đã check_duplicates exit 0.
 - 2026-10-31 — Viết **936** (phản ứng da muộn nặng sau cản quang: AGEP/DRESS/SJS-TEN; 4 ảnh + 1 composite CC BY) và **1650** (gãy sườn/xương đòn sau xạ; 6 ảnh + 1 composite CC BY/CC BY-NC). Verify PASS 6/6, 725 bài/725 card.
 - Backlog: flip #425/#426 → xong; append #1120 (943 viêm cơ tim DRESS) + #1121 (384 sarcoma do xạ), đã check_duplicates exit 0.
-
 ## 2026-10-31 — lượt worker (1655, 1656)
 - **1655 BIA-SCC**: 20 năm tiềm tàng, 80% implant nguyên vỏ, 18/18 ca không dịch trên hình ảnh, tế bào vảy = cờ đỏ; 2 composite CC BY 4.0.
 - **1656 rách vỏ/gel bleed**: linguine/stepladder/snowstorm, snowstorm ≠ ngoài bao (72,1% vs 19,8%), US hạch 87,5% vs MRI 20%.
-
 ## 2026-10-31 — lượt worker (1686, 1687)
 - **1686 hạch chứa silicone/siliconoma**: SLA 5,83% (3,86% implant nguyên), nách 72%/trung thất trong 21%/thượng đòn 19%, snowstorm Se 87,5%/Sp 100%, PET dương giả, FNA → core biopsy; 5 ảnh + 1 composite CC BY 4.0.
 - **1687 hoại tử mỡ sau tái tạo vú**: 12,5–23,6% (vạt)/7,3–82,9% (AFT), tan 45,9 tháng & 61,9% < 5 mm/10 năm, không mạch/không ngấm = BI-RADS 2; 4 ảnh + 1 composite CC BY 4.0. Flip #1086/#1087; append #1122 (1688 siliconoma lan xa) + #1123 (1689 nhiễm trùng vạt); sửa ID trùng 1686/1687 ở 2 hàng cũ → 1717/1718.
+## 2026-10-31 — lượt worker (1682)
+- **1682 rò bàng quang–âm đạo ở trẻ**: dị vật/vaginolith (sỏi bàng quang 30 mm, vaginolith 53×29×33 mm), khuyết thành 6×5 mm trên T2 sagittal, chỉ hiện ở thì đi tiểu; VVR 12–15% là kẻ bắt chước; vá 2 lớp ± mạc nối, ống thông 22 ngày, tái phát 10–30%; 5 ảnh + 1 composite CC BY/CC BY-NC-ND.
+- Flip #421 → xong; append #1124 (1684 rò trực tràng–âm đạo) + #1125 (1685 dị vật âm đạo không rò), đã check_duplicates.
