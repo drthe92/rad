@@ -1013,3 +1013,6 @@
 - **2026-11-01** — viết **3070** (tiêm dây thanh ở trẻ: 0,1–0,6 mL; 83,9% cải thiện nuốt nhưng nhóm chứng 82% vs 60%, p = 0,24; CaHA tránh < 12 tháng; thyroplasty sau dậy thì) và **3071** (u máu loét 15,8%; môi dưới 30%/hậu môn–sinh dục 50%; propranolol 17,9 vs 27,7 ngày; timolol ≤ 3 mm; sẹo OR 21,6 khi ≥ 3 cm²).
 - **2026-11-01** — flip #1812/#1813 → xong; append #1814 (3072 rebound propranolol) + #1815 (3073 LUMBAR) đã check_duplicates; 5 ảnh CC BY + 1 CC BY-NC-ND, không composite.
 - 2026-11-01 (turn 2 bài): **3072** tái phát u máu sau ngừng propranolol (gộp 20%, hồi quy ≥ 90% → 5,3% vs 26,9%; duy trì 3 tháng OR 1,86) + **3073** LUMBAR (21/41 = 51,2% có bất thường tủy, siêu âm Se 50%, 91/91 chạm đường giữa); 8 ảnh CC BY/BY-NC; verify PASS 6/6 — 790 bài/790 card.
+
+- **2026-11-01** — viết **3053** (STEP/LILT ở trẻ SBS: lòng 3,5–4 cm, giữ 2 cm, dài thêm 50–75%, cai PN 42–73%, sổ bộ 47% trung vị 21 tháng, tử vong 11%; bilirubin trực tiếp cao + ruột ngắn dự báo thất bại) và **383** (PHT: gân chung 4–6 mm/bán màng 5–7 mm, MRI gấp hông 90° lộ thêm 71%, VISA-H 49,8 → 73,9 sau 52 tuần, collagen 57 vs 72 ngày).
+- **2026-11-01** — flip #1042/#1043 → xong; append #1819 (384 rách/đứt gân gốc) + #1820 (1684 SBS người lớn) đã check_duplicates; 8 ảnh (6 CC BY, 2 CC BY-NC, 1 CC BY-NC-ND), không composite.
