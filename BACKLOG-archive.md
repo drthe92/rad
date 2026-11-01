@@ -1016,3 +1016,5 @@
 
 - **2026-11-01** — viết **3053** (STEP/LILT ở trẻ SBS: lòng 3,5–4 cm, giữ 2 cm, dài thêm 50–75%, cai PN 42–73%, sổ bộ 47% trung vị 21 tháng, tử vong 11%; bilirubin trực tiếp cao + ruột ngắn dự báo thất bại) và **383** (PHT: gân chung 4–6 mm/bán màng 5–7 mm, MRI gấp hông 90° lộ thêm 71%, VISA-H 49,8 → 73,9 sau 52 tuần, collagen 57 vs 72 ngày).
 - **2026-11-01** — flip #1042/#1043 → xong; append #1819 (384 rách/đứt gân gốc) + #1820 (1684 SBS người lớn) đã check_duplicates; 8 ảnh (6 CC BY, 2 CC BY-NC, 1 CC BY-NC-ND), không composite.
+- **2026-11-01** — viết **6124** (TRAIN: cấy TA dương 25–87%, Se 27%/Sp 85%; BrighT STAR; 542 đợt/365 trẻ ngưng KS sớm 7,0 vs 8,6 ngày, tử vong 0,9%; KS trung vị 7 ngày; 3 ảnh CC BY + 1 CC BY-NC + 1 CC BY-NC-ND nguyên bản)
+- **2026-11-01** — viết **6123** (nuốt/hít sặc + ống mở khí quản: 37% → 91%, aspiration loãng 28% vs đặc 17%, thử ăn PAS 8 → 6, viêm phổi 30% vs 47,1%; amylase khí quản; rò khí–thực quản trên VFSS + CT nằm sấp; 2 ảnh + 1 composite CC BY)
