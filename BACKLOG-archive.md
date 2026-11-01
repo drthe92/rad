@@ -1003,3 +1003,5 @@
 - 2026-11-01: flip #1152/#1154 → xong; append #1163 (1917 AMR) + #1164 (1918 CMV) đã check_duplicates.
 - 2026-11-01: viết **1907** (CEPS/Abernethy: type I → ghép gan, type II → bít; nốt gan 65%, PAH tử vong 50%; ngưỡng chẹn bóng ≥ 24–32 mmHg → bít nhiều thì; 12,9 → 17,5 / 15,9 → 17,1 mmHg; cửa 9,3 → 11,6 mm ở 36 tháng).
 - 2026-11-01: viết **3007** (ETV ở trẻ: gộp 73,4%/8.409 ca; ETVSS 0–100; < 6 tháng 11,1% vs 84,8%; FOHR ≤ 0,56 85,4%; thất bại ETV → shunt 22,26% vs ETV lại 74,98%; flow void giả); flip #978/#991, append #1806 (1919) + #1807 (3065) đã check_duplicates.
+- 2026-11-01: viết **3051** (máu tụ tổ chức hóa xoang bướm: 5 ca, 3/5 mất thị lực, 0/3 hồi phục; viền T2 tối = hemosiderin; mòn xương kiểu tái tạo; lấy toàn bộ + đốt mạch nuôi) — 4 ảnh CC BY 4.0 + CC BY 3.0; flip #1040(3051) → xong, append #1808 (3066) + #1809 (3067) đã check_duplicates.
+- 2026-11-01: viết **3011** (hẹp niệu quản ghép 0,6–10,5% & rò 0–9,3%; CT niệu đồ ngược dòng 5–7%/240 mL/1,25 mm; nong < 1 cm vs tạo hình > 3 cm; robot 97% sạch stent 18 tháng) — 4 ảnh CC BY 4.0 + CC BY-NC 4.0; flip #992 → xong.
