@@ -160,6 +160,7 @@ flowchart TD
 - [172 – Theo dõi & biến chứng sau can thiệp bóc tách ĐMC bụng](../172-theo-doi-sau-can-thiep-boc-tach-dmc-bung/lesson.md)
 - [170 – Phình ĐMC bụng: chỉ định can thiệp & theo dõi](../170-phinh-DMC-bung/lesson.md)
 - [645 – Vỡ khung chậu ở trẻ: chảy máu, nút mạch và cố định](../645-vo-khung-chau-o-tre/lesson.md)
+- [1816 – REBOA: bóng chèn nội mạch ĐMC — zone I < 30 phút, zone III < 60 phút, zone II là vùng cấm](../1816-reboa-bong-chen-noi-mach-chu/lesson.md)
 - [930 – Ung thư gan: TACE, RFA và nguyên lý can thiệp](../930-hepatic-oncology-tace-rfa/lesson.md)
 
 ## Ảnh
