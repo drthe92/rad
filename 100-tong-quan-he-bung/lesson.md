@@ -255,6 +255,7 @@ certainty: tong-hop-y-van
 - 1901 – Hội chứng Budd–Chiari: "flip-flop", hạch đuôi phì đại, mạng nhện tĩnh mạch & bậc thang nong bóng → TIPS → ghép gan *(mới — [bài học](../1901-hoi-chung-budd-chiari/lesson.md))*
 - 1902 – Bệnh não gan thể ẩn/tối thiểu: MRI bình thường không loại trừ, T1 globus pallidus (0,994), thể tích gan & ngưỡng test *(mới — [bài học](../1902-benh-nao-gan-an-tinh/lesson.md))*
 - 1907 – Shunt cửa–chủ lớn KHÔNG xơ gan (CEPS/Abernethy): type I/II, nốt gan **65%**, PAH **tử vong 50%**, **ngưỡng áp lực chẹn bóng ≥ 24–32 mmHg → bít nhiều thì** *(mới — [bài học](../1907-shunt-cua-chu-lon-khong-xo-gan/lesson.md))*
+- 1711 – Dosimetry cá thể hóa ²²⁵Ac: chụp **²²¹Fr 218 keV (11,4%)** + **²¹³Bi 440 keV (25,9%)** ở **4/24/168 giờ**; ACTION-1 **thận 22,3 Gy & tủy 1,1 Gy RBE=5 sau 4 chu kỳ** (¹⁷⁷Lu tương đương **19,4/1,0 Gy**), u **488–8.775 mGy/MBq**; **recoil 100–200 keV** làm hạt nhân con rời chelator; ngưỡng dừng **chưa có tiền cứu** *(mới — [bài học](../1711-dosimetry-ca-the-hoa-ac225/lesson.md))*
 
 **Sốt kéo dài & ổ nhiễm ẩn (đa khoang)**
 - 147 – Sốt kéo dài không rõ nguyên nhân (FUO) & ổ nhiễm ẩn trong bụng: tiếp cận hình ảnh theo bậc *(đã có — [bài học](../147-sot-keo-dai-fuo-o-nhiem-an-trong-bung/lesson.md))*

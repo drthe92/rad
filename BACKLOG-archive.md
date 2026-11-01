@@ -1026,3 +1026,5 @@
 - 2026-11-01: append #1106b→1738 (ngộ độc CO do khói lửa ở trẻ) và #1107b→1739 (blast lung ở trẻ), đã check_duplicates; ID 1679 (CTIBL) đã có trong hàng chờ nên không append trùng
 
 - 2026-11-01: viết **1664** (hạch cạnh ĐMC tái phát sau xạ — Node-RADS, SBRT 30 Gy/5, OS 42,9 tháng) + **1665** (rò trực tràng–âm đạo — D₂cm³ ≥ 75 Gy → 12,5- 2026-11-01: viết **1664** (hạch cạnh ĐMC tái phát sau xạ — Node-RADS, SBRT 30 Gy/5, OS 42,9 tháng) + **1665** (rò trực tràng–âm đạo — D₂cm³ ≥ 75 Gy → 12,5%, UCAE 96,8%); append 1676/1677 (đã check_duplicates).
+- 2026-11-01: viết **1415** (bong võng mạc muộn ở ROP hồi phục: rách 11–31%/bong 15–39%, PAR > 2 DD 31,65–100% sau anti-VEGF, SB thất bại 33%/PPV 100%, cuối 73% sau 2,3 lần mổ; 2 ảnh CC BY-NC-ND) + **1711** (dosimetry ²²⁵Ac: ²²¹Fr 218 keV/²¹³Bi 440 keV tại 4-24-168 giờ, ACTION-1 thận 22,3 Gy & tủy 1,1 Gy RBE=5/4 chu kỳ, u 488–8.775 mGy/MBq; 3 ảnh CC BY 4.0); flip #1080/#1081 → xong.
+- 2026-11-01: append #1825→1429 (màng ối bịt lỗ hoàng điểm thứ phát sau mổ ROP) và #1826→1712 (suy tủy do ²²⁵Ac: CTCAE, G-CSF, ngưỡng dừng), đã check_duplicates exit 0.
