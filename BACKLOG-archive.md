@@ -1030,3 +1030,5 @@
 - 2026-11-01: append #1825→1429 (màng ối bịt lỗ hoàng điểm thứ phát sau mổ ROP) và #1826→1712 (suy tủy do ²²⁵Ac: CTCAE, G-CSF, ngưỡng dừng), đã check_duplicates exit 0.
 - 2026-11-01: viết **1819** (chảy máu tiêu hóa muộn do giả phình GDA/tụy–tá tràng: 4–17% sau viêm tụy, ~3,5 tuần, CTA 95%, nút mạch 93,48%, sentinel bleed) + **gộp #1818 vào 1811** (hẹp xơ thực quản sau TARE: 3→16 tháng, SPECT nhạy 13%, RBES 14–15 mm, EUS-GJ >95%) — không tạo ID trùng.
 - 2026-11-01: append #1827→1831 (coil migration/erosion sau nút mạch tạng) và #1828→1832 (EUS-guided coil+glue cho giả phình tạng), đã check_duplicates exit 0.
+- 2026-11-01 — viết **1831** (coil migration/erosion: 13 ngày–34 tháng, rò SAA–đại tràng 45 cm, 7 ca/7 ảnh) + **1832** (EUS coil+glue: 122 ca, lâm sàng 94,25%, biến chứng 11,54%, rò cast keo–tá tràng; 8 ảnh).
+- 2026-11-01 — verify PASS 6/6 (807 bài/807 card, parity 0); BACKLOG flip 1827/1828 → xong, append 1833/1834.
