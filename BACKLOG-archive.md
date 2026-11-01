@@ -1010,3 +1010,5 @@
 
 - **2026-11-01** — viết **3068** (liệt dây thanh sau mổ đường thở ở trẻ: 24% sau đóng ống động mạch, LUS hai bên chỉ 3/6, LEMG PPV 90,9%/NPV 55,6%) và **3069** (an toàn propranolol: < 45 mg/dL, < 100 lần/phút, MAP < bách phân vị 10; < 90 ngày & < 5 kg).
 - **2026-11-01** — flip #1810/#1811 → xong; append #1812 (3070 tiêm làm đầy dây thanh) + #1813 (3071 u máu nhũ nhi loét); verify PASS 6/6, 786 bài/786 card, parity 0, 15 cảnh báo legacy, BACKLOG không tách (script báo không có gì để tách).
+- **2026-11-01** — viết **3070** (tiêm dây thanh ở trẻ: 0,1–0,6 mL; 83,9% cải thiện nuốt nhưng nhóm chứng 82% vs 60%, p = 0,24; CaHA tránh < 12 tháng; thyroplasty sau dậy thì) và **3071** (u máu loét 15,8%; môi dưới 30%/hậu môn–sinh dục 50%; propranolol 17,9 vs 27,7 ngày; timolol ≤ 3 mm; sẹo OR 21,6 khi ≥ 3 cm²).
+- **2026-11-01** — flip #1812/#1813 → xong; append #1814 (3072 rebound propranolol) + #1815 (3073 LUMBAR) đã check_duplicates; 5 ảnh CC BY + 1 CC BY-NC-ND, không composite.
