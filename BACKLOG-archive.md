@@ -1001,3 +1001,5 @@
 - 2026-11-01: flip #1150/#1151 → xong; append #1152 (1915 hẹp ĐM gan ở trẻ) + #1154 (1916 ACR sau ghép gan), đã check_duplicates.
 - 2026-11-01: viết 1915 (hẹp ĐM gan ở trẻ sau ghép: HAS 1,2%/HAT 3,6%, PTA 24% vs stent 53%, stent không lớn theo trẻ) + 1916 (ACR: Banff RAI, ADC 1,133, LSM 12,2 kPa, PBV <20; 79% đáp ứng corticoid) — 8 ảnh PMC, verify PASS 5/5.
 - 2026-11-01: flip #1152/#1154 → xong; append #1163 (1917 AMR) + #1164 (1918 CMV) đã check_duplicates.
+- 2026-11-01: viết **1907** (CEPS/Abernethy: type I → ghép gan, type II → bít; nốt gan 65%, PAH tử vong 50%; ngưỡng chẹn bóng ≥ 24–32 mmHg → bít nhiều thì; 12,9 → 17,5 / 15,9 → 17,1 mmHg; cửa 9,3 → 11,6 mm ở 36 tháng).
+- 2026-11-01: viết **3007** (ETV ở trẻ: gộp 73,4%/8.409 ca; ETVSS 0–100; < 6 tháng 11,1% vs 84,8%; FOHR ≤ 0,56 85,4%; thất bại ETV → shunt 22,26% vs ETV lại 74,98%; flow void giả); flip #978/#991, append #1806 (1919) + #1807 (3065) đã check_duplicates.
