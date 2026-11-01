@@ -1007,3 +1007,6 @@
 - 2026-11-01: viết **3011** (hẹp niệu quản ghép 0,6–10,5% & rò 0–9,3%; CT niệu đồ ngược dòng 5–7%/240 mL/1,25 mm; nong < 1 cm vs tạo hình > 3 cm; robot 97% sạch stent 18 tháng) — 4 ảnh CC BY 4.0 + CC BY-NC 4.0; flip #992 → xong.
 - 2026-11-01: viết **3049** (hẹp tái phát sau tạo hình–cắt nối: mô hạt miệng nối 40,5%, tái hẹp sẹo 5,4%, nong lặp 51,6–59,2%; 44 trẻ cai ống 70,5%, nhiễm 20,5% toàn ở nhóm có stent; LT-Mold 93% cai ống; VHI 27,5→54,9→22,2) — 4 ảnh CC BY/CC BY 4.0/CC BY-NC 4.0; flip #1040(3049) → xong.
 - 2026-11-01: viết **3052** (CHH một ổ: focal = CHH, GLUT1 âm; RICH −80%/12 tháng, NICH ≥ 18 tháng có lớn muộn 110→153 mL; > 4,85 cm dự báo suy tim AUC 0,859/Se 100%; sirolimus −84%) — 4 ảnh CC BY 4.0 + CC BY-NC-ND 4.0; flip #1041(3052), append #1810 (3068) + #1811 (3069).
+
+- **2026-11-01** — viết **3068** (liệt dây thanh sau mổ đường thở ở trẻ: 24% sau đóng ống động mạch, LUS hai bên chỉ 3/6, LEMG PPV 90,9%/NPV 55,6%) và **3069** (an toàn propranolol: < 45 mg/dL, < 100 lần/phút, MAP < bách phân vị 10; < 90 ngày & < 5 kg).
+- **2026-11-01** — flip #1810/#1811 → xong; append #1812 (3070 tiêm làm đầy dây thanh) + #1813 (3071 u máu nhũ nhi loét); verify PASS 6/6, 786 bài/786 card, parity 0, 15 cảnh báo legacy, BACKLOG không tách (script báo không có gì để tách).
