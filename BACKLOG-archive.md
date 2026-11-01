@@ -989,3 +989,5 @@
 - 6 ảnh CC BY/CC BY-NC-ND (3+3), 0 composite; cập nhật overview 500, README, index (765 thẻ).
 - Viết 1707 (trật khớp TMJ ở trẻ: 2,5–25/100.000/năm, trật mạn nắn kín 21,4% vs mở 76,4%; 4,9 vs 14,8 tháng; trật lên hố sọ 100% mổ mở sau 22 ngày) + 1708 (gãy lồi cầu: đầu 40–70% gãy hàm trẻ, bỏ sót 14,8%, góc ≥ 90° biến chứng 42,9%, OR 1,27/10°).
 - 5+5 ảnh CC BY 4.0, 0 composite; README + index (767 thẻ); verify PASS 6/6; flip #1044/#1045, append #1157 (1709 chấn thương răng) + #1158 (1710 gãy gò má).
+- 2026-11-01: viết 3009 (dò bàng quang–ruột/da sau tăng dung tích: khí+phân trong bàng quang, CT cystography bơm ngược, dò miệng nối 4,5%, rò da 5% lành sau 21 ngày, thủng 2–13%/tử vong 25%, bảo tồn 94%) + 3010 (hẹp miệng nối UVJ: ứ nước ≠ tắc, tắc 0,6%, Whitaker > 15 cmH₂O, < 3 cm nong vs > 3 cm tái tạo). 3+4 ảnh CC BY/CC BY-NC-ND, 0 composite.
+- 2026-11-01: flip #404/#405 → xong; append #1159 (3042 xuất huyết mảnh ghép ruột) + #1160 (3060 thoát vị nội/cạnh lỗ thông); thêm 3009/3010 vào bảng DDx + link overview 600, README, SPEC_OVERRIDE hub.
