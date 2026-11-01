@@ -1024,3 +1024,5 @@
 - 2026-11-01: append #1104b→1736 (hội chứng nhân đôi đuôi) và #1105b→1737 (cấy ốc tai điện tử ở trẻ điếc do TORCH), đã check_duplicates exit 0.
 - 2026-11-01: viết **1720** (ngộ độc cyanid do khói lửa ở trẻ: lactat 16 mmol/L + PaO₂ thường + CT bình thường, hydroxocobalamin 70 mg/kg max 5 g, gộp 512 ca sống 66,0%, chromaturia 2,9%; 4 ảnh + 1 composite CC BY 4.0) + **1718** (gãy xương cùng sau xạ: gộp 17%, SUVmax 2,45/SUR-BP 1,46, HU 36,8 vs 78,0, liều ≥ 38 Gy, MRI Se 95,3%/Sp 92,8%; 5 ảnh + 1 composite CC BY 4.0); flip #1052×2
 - 2026-11-01: append #1106b→1738 (ngộ độc CO do khói lửa ở trẻ) và #1107b→1739 (blast lung ở trẻ), đã check_duplicates; ID 1679 (CTIBL) đã có trong hàng chờ nên không append trùng
+
+- 2026-11-01: viết **1664** (hạch cạnh ĐMC tái phát sau xạ — Node-RADS, SBRT 30 Gy/5, OS 42,9 tháng) + **1665** (rò trực tràng–âm đạo — D₂cm³ ≥ 75 Gy → 12,5- 2026-11-01: viết **1664** (hạch cạnh ĐMC tái phát sau xạ — Node-RADS, SBRT 30 Gy/5, OS 42,9 tháng) + **1665** (rò trực tràng–âm đạo — D₂cm³ ≥ 75 Gy → 12,5%, UCAE 96,8%); append 1676/1677 (đã check_duplicates).
