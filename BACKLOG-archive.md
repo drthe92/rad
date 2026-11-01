@@ -999,3 +999,5 @@
 - 2026-11-01: đổi ID trùng trong hàng chờ (1909/1910 trùng do 2 dòng khác chủ đề) → **1911** viêm đại tràng thiếu máu, **1912** phình động mạch tạng; append #1150 (1913 hẹp/huyết khối động mạch gan sau ghép) + #1151 (1914 EAD/PGF) đã check_duplicates; cập nhật DDx + link overview 100, README, index (774 thẻ); verify PASS 6/6.
 - 2026-11-01: viết 1913 (hẹp/huyết khối ĐM gan sau ghép: Dodd RI<0,5 · SAT>0,08s · PSV>200 cm/s; RI>0,8 ở ~50% 3 ngày đầu; stent RR 0,57) + 1914 (EAD/PNF: Olthoff; CĐHA chỉ loại trừ; bright band; HOPE EAD RR 0,54) — 14 ảnh CC BY/CC BY-NC, 1 composite.
 - 2026-11-01: flip #1150/#1151 → xong; append #1152 (1915 hẹp ĐM gan ở trẻ) + #1154 (1916 ACR sau ghép gan), đã check_duplicates.
+- 2026-11-01: viết 1915 (hẹp ĐM gan ở trẻ sau ghép: HAS 1,2%/HAT 3,6%, PTA 24% vs stent 53%, stent không lớn theo trẻ) + 1916 (ACR: Banff RAI, ADC 1,133, LSM 12,2 kPa, PBV <20; 79% đáp ứng corticoid) — 8 ảnh PMC, verify PASS 5/5.
+- 2026-11-01: flip #1152/#1154 → xong; append #1163 (1917 AMR) + #1164 (1918 CMV) đã check_duplicates.
