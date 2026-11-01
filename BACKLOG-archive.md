@@ -974,22 +974,18 @@
 - Ghi chú: #984 trong hàng chờ đề xuất ID **3048** nhưng ID đã dùng (u máu gan ở nhũ nhi) → chuyển sang **3049**; ảnh 4 bài gốc đều CC BY/CC BY-NC, không dùng ảnh AuntMinnie.
 - 2026-10-31 worker: viết **6119** (hẹp lại 15% sau mổ vs 35% sau can thiệp qua da; can thiệp lại 13,3%/10 năm; PWV 6,8 vs 5,4 m/s; ca 4,05 m/s/65,65 mmHg → 1,51 m/s/9,17 mmHg) + **3050** (ICA 0,2–1,4% EEA vs 3–8% mổ hở; tử vong chu phẫu 10%; Type III 27 ca; stent phủ 13/15 bít ngay).
 - 2026-10-31 flip #1038/#1039 → xong; append #1146 (6142 nhiễm trùng stent) + #1147 (3059 thiếu máu não sau bít mẹ) — đã check_duplicates exit 0.
-
 ## 2026-10-31 — worker rad-backlog
 - 6142 (nhiễm trùng/di trú/gãy stent mạch ở trẻ): 4 ảnh CC BY-NC-ND/CC BY-NC/CC BY; xong #1146.
 - 3059 (thiếu máu sau bít ICA): 4 ảnh CC BY-NC-ND/CC BY-NC/CC BY-NC; xong #1147; append #1088 (3060 — CHS sau tái thông mạch cảnh).
-
 - 2026-10-31: viết **3008** (trật chuỗi xương con sau vỡ xương thái dương ở trẻ; 4 ảnh + 1 composite, CC BY 4.0) và **1905** (biến chứng/an toàn PIPAC; 3 ảnh CC BY/CC BY-NC). `verify_all` PASS 6/6 · 759 bài/759 card · parity 0.
 - 2026-10-31: flip #984/#986 → xong; **gộp #1086 (ID 3056) vào 3008** (chủ đề trùng, không tạo ID mới); append #1150 (3061 – di căn lỗ trocar) + #1149 (3055 – viêm màng não tái diễn & dị tật tai trong), đã chạy check_duplicates.
-
-## Nhật ký 2026-10-31
 - **1660** stent niệu quản lưu quên & kết vôi: 3 ảnh + 1 composite CC BY 4.0; verify PASS 6/6 (760 bài/760 card); flip #987 → xong; append 1721/1722.
 - Guard acquire/release OK; cây sạch, pull "Already up to date"; không stash.
 - **1657 + 1661** UAVM/EMV (PSV 25–110, RI 0,27–0,75; UAE 71–93%) + lạc nội mạc niệu quản (74 ca, 16,1% mất chức năng thận): 7 ảnh + 2 composite CC BY 4.0/CC BY-NC; verify PASS 6/6 (762 bài/762 card).
 - Guard acquire/release OK; cây sạch, pull "Already up to date"; flip #988/#978 → xong; append 1658/1663 (đã check_duplicates).
 - **1717** vỡ tử cung trên sẹo mổ lấy thai: 0,3–0,7% (mổ chủ động < 0,02%), prostaglandin aOR 2,58 vs bóng chèn 0,99, LUS 2,3 mm/RMT 1,9 mm nhưng AUC 0,60–0,61, 22,7% không đau; 5 ảnh (2 CC BY-NC-ND nguyên bản, 3 CC BY); verify PASS 6/6 (763 bài/763 card); flip #979 → xong; append 1725/1726 (đã check_duplicates; 1720/1721 đã bị chiếm nên đổi số).
 - Guard acquire/release OK; cây sạch, pull "Already up to date"; không stash.
-
-## Nhật ký 2026-10-31 (worker rad-backlog)
 - Viết 1725 (previable PPROM trên sẹo mổ lấy thai: latency 92 ngày, IUFD 27%, kháng sinh +14,7 ngày) + 1726 (thai sau vỡ tử cung: tái phát 10%, 0% đoạn dưới vs 8,6% ngoài đoạn dưới, ACOG 36–38⁶⁄₇ tuần); flip #979/#980, append #1155/#1156 (1727 sẹo myomectomy, 1728 chảy máu sau vỡ tử cung).
 - 6 ảnh CC BY/CC BY-NC-ND (3+3), 0 composite; cập nhật overview 500, README, index (765 thẻ).
+- Viết 1707 (trật khớp TMJ ở trẻ: 2,5–25/100.000/năm, trật mạn nắn kín 21,4% vs mở 76,4%; 4,9 vs 14,8 tháng; trật lên hố sọ 100% mổ mở sau 22 ngày) + 1708 (gãy lồi cầu: đầu 40–70% gãy hàm trẻ, bỏ sót 14,8%, góc ≥ 90° biến chứng 42,9%, OR 1,27/10°).
+- 5+5 ảnh CC BY 4.0, 0 composite; README + index (767 thẻ); verify PASS 6/6; flip #1044/#1045, append #1157 (1709 chấn thương răng) + #1158 (1710 gãy gò má).
