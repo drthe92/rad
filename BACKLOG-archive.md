@@ -1032,3 +1032,5 @@
 - 2026-11-01: append #1827→1831 (coil migration/erosion sau nút mạch tạng) và #1828→1832 (EUS-guided coil+glue cho giả phình tạng), đã check_duplicates exit 0.
 - 2026-11-01 — viết **1831** (coil migration/erosion: 13 ngày–34 tháng, rò SAA–đại tràng 45 cm, 7 ca/7 ảnh) + **1832** (EUS coil+glue: 122 ca, lâm sàng 94,25%, biến chứng 11,54%, rò cast keo–tá tràng; 8 ảnh).
 - 2026-11-01 — verify PASS 6/6 (807 bài/807 card, parity 0); BACKLOG flip 1827/1828 → xong, append 1833/1834.
+- 2026-11-01 — viết **1833** (vascular plug mạch tạng: quá cỡ 30–50% theo IFU chứ không phải 10–20%, AVP-2/4 thực tế 53%/60%, 1 plug vs 4,6 coil, coil-in-plug 40 mạch/619 ngày 0 tái thông, ca 16 mm/8 mm trôi ĐMC; 4 ảnh) + **1834** (PES vs áp-xe: 24–72 giờ/WBC giảm vs 1–2 tuần/WBC tăng, PES 58,9–72,5%, áp-xe gan 0,2–6% nhưng 12–86% sau can thiệp đường mật, khí sau nút mạch bình thường, không dẫn lưu ổ nhồi máu vô khuẩn; 3 ảnh).
+- 2026-11-01 — verify PASS 6/6 (809 bài/809 card, parity 0, authors PASS); BACKLOG flip 1829/1830 → xong, append 1835 (thiếu máu ruột sau nút mạch mạc treo) + 1836 (rò động–tĩnh mạch tạng), check_duplicates exit 0.
