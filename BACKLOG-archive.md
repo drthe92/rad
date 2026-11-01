@@ -1020,3 +1020,5 @@
 - **2026-11-01** — viết **6123** (nuốt/hít sặc + ống mở khí quản: 37% → 91%, aspiration loãng 28% vs đặc 17%, thử ăn PAS 8 → 6, viêm phổi 30% vs 47,1%; amylase khí quản; rò khí–thực quản trên VFSS + CT nằm sấp; 2 ảnh + 1 composite CC BY)
 - 2026-11-01: viết **6126** (plastic bronchitis, 5+2 ảnh) + **6127** (giang mai bẩm sinh, 3 ảnh); gộp #1048 vào bài 605 (LUS/BPD) vì trùng phạm vi; verify PASS 6/6 (796 bài/796 card, parity 0), backlog chờ viết 131.
 - 2026-11-01: append #1823→6145 (viêm phổi MP nặng/kháng macrolide) và #1824→6146 (sàng lọc–điều trị giang mai thai kỳ), đã check_duplicates exit 0.
+- 2026-11-01: viết **6128** (rubella bẩm sinh: 90% lây dọc ≤12 tuần, tim 98,2%/điếc 75,6%/đục TTT 53,0%, PDA tubular 16% vs 3%, "muối tiêu" không giảm thị lực; 4 ảnh CC BY) + **1719** (bàng quang đôi & niệu rốn: vách trong vs Hutch, dọc:vành 2,5:1, dị tật 90/42/15%, nang nhiễm tự khỏi 79,6%; 5 ảnh).
+- 2026-11-01: append #1104b→1736 (hội chứng nhân đôi đuôi) và #1105b→1737 (cấy ốc tai điện tử ở trẻ điếc do TORCH), đã check_duplicates exit 0.

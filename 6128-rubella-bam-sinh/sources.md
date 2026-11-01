@@ -1,0 +1,32 @@
+# Nguồn gốc — 6128 Rubella bẩm sinh (congenital rubella syndrome)
+
+> Quét 2026-11-01: Europe PMC (`FIG:"congenital rubella"`, `FIG:"salt-and-pepper retinopathy"`, `FIG:"congenital rubella" AND FIG:"cataract"`, `rubella pregnancy transmission`), lọc `OPEN_ACCESS:Y`, đối chiếu **PMCID** và **giấy phép từng bài**. Không scrape Radiopaedia; AuntMinnie chỉ dẫn link.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / *Int J Infect Dis* 2023 | Mô hình hóa gánh nặng CRS toàn cầu 1996–2019 (PMC10689248): **32.000 ca CRS sinh năm 2019** (KTC 13.000–60.000) vs **100.000 năm 2010**; **−73% từ 1996**; châu Phi **64/100.000** trẻ sinh sống, Đông Địa Trung Hải **27/100.000**, các vùng có vaccine **< 1/100.000** | https://pmc.ncbi.nlm.nih.gov/articles/PMC10689248/ | CC BY 4.0 (không dùng ảnh) | không tải (chỉ số liệu) |
+| 2 | Europe PMC / *Euro Surveill* 2018 | Giám sát Anh 2003–2016 (PMC5954604): **31 nhiễm rubella trong thai kỳ = 0,23/100.000 thai kỳ**, **5 CRS**, 3 nhiễm bẩm sinh không CRS; **9/12 ca CRS nhiễm trước 16 tuần**; **8 trẻ khoẻ** sau phơi nhiễm **> 16 tuần** | https://pmc.ncbi.nlm.nih.gov/articles/PMC5954604/ | CC BY 4.0 (không dùng ảnh) | không tải (chỉ số liệu) |
+| 3 | Europe PMC / *BMJ Paediatr Open* 2020 | Loạt **115 ca CRS** Bangladesh (PMC7692988): **tim 98,2%** (PDA 76,5%, hẹp van ĐM 38,2%, hẹp nhánh ĐMP 14,7%, VSD 2,6%, ASD 8,6%, hẹp eo 5,2%) · **điếc 75,6%** · **đầu nhỏ 68,6%** · **đục thủy tinh thể 53,0%**; tuổi chẩn đoán **trung vị 2 tuổi**; IgG **91,3%**, IgM **8,6%**; "rubella facies": mặt tam giác 82,6%, trán rộng 76,5%, xoáy tóc 80%, mũi cao 65,2%; **65,2% mẹ không nhớ nhiễm** | https://pmc.ncbi.nlm.nih.gov/articles/PMC7692988/ | CC BY 4.0 (không dùng ảnh) | không tải (chỉ số liệu) |
+| 4 | Europe PMC / *Sci Rep* 2019 | Loạt **108 trẻ CRS** Việt Nam + so sánh **50 CRS-PDA vs 290 không CRS** (PMC6863812): tim **99%**, đục thủy tinh thể **72%**, giảm thính lực **7%**; CRS-PDA **cân nặng sinh thấp hơn**, **hẹp phổi/hẹp van ĐMC nhiều hơn**, **áp lực ĐMP và ĐMC cao hơn (p < 0,001)**; **PDA tubular 16% vs 3% (p = 0,020)** | https://pmc.ncbi.nlm.nih.gov/articles/PMC6863812/ | **CC BY 4.0** | `images/6128_rubella_Angio-PDA_PMC6863812-F4.jpg` |
+| 5 | Europe PMC / *Int J Telemed Appl* 2014 | Sàng lọc **320 học sinh** Cameroon (PMC4262751): **28 ca probable (10,2%)**, 104 nghi ngờ (37,8%); IgG rubella dương **48,7%** ở nhóm khiếm thính vs **7,4%** nhóm nghe bình thường (p < 0,0001); **bệnh võng mạc sắc tố 29 ca**, **96,6% trong nhóm khiếm thính**, **89,7% hai bên** | https://pmc.ncbi.nlm.nih.gov/articles/PMC4262751/ | **CC BY** | `images/6128_rubella_Fundus_PMC4262751-F1.jpg` |
+| 6 | Europe PMC / *J Clin Med* 2025 | Tổng quan CRS (PMC12156454): lây dọc **tới 90% trong 12 tuần đầu**, **> 80% 3 tháng đầu**, giảm giữa thai kỳ, **gần 100% cuối thai kỳ**; nhiễm mẹ **25–50% không triệu chứng**; ủ bệnh **14–21 ngày**, lây mạnh **−7 đến +7 ngày** quanh phát ban; bảng biểu hiện lâm sàng (cataract, điếc, PDA/hẹp ĐMP, bệnh võng mạc sắc tố, vàng da, giảm tiểu cầu) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12156454/ | **CC BY 4.0** | `images/6128_rubella_US-Prenatal_PMC12156454-F1.jpg` |
+| 7 | Europe PMC / *BMC Pediatr* 2022 | Ca nguyên văn Indonesia (PMC9745697): **đục thủy tinh thể hai bên ở trẻ 4 tuổi 3 tháng**; RT-PCR + giải trình tự gen (1E) từ mẫu bệnh phẩm | https://pmc.ncbi.nlm.nih.gov/articles/PMC9745697/ | **CC BY 4.0** | `images/6128_rubella_Eye_PMC9745697-F1.jpg` |
+| 8 | Europe PMC / *Emerg Infect Dis* 2018 | Ca CRS nhập khẩu Hoa Kỳ 2017 (PMC5875265): **đục thủy tinh thể mắt trái**, trẻ **4 tuần tuổi**, mẹ sinh ngoài Hoa Kỳ | https://pmc.ncbi.nlm.nih.gov/articles/PMC5875265/ | CC BY 4.0 / tác phẩm chính phủ Hoa Kỳ (không dùng ảnh) | không tải (chỉ bối cảnh) |
+| 9 | Europe PMC / *Can Commun Dis Rep* 2024 | 2 ca CRS Canada + **bảng tiêu chuẩn ca bệnh** nhóm A/nhóm B (PMC11323722) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11323722/ | CC BY 4.0 (không dùng ảnh) | không tải (chỉ tiêu chuẩn ca) |
+| 10 | Europe PMC / *Lancet Reg Health Southeast Asia* 2026 | Giám sát Ấn Độ (PMC13546868): **6,5%** ca nghi CRS được xác nhận bằng xét nghiệm; tỉ lệ xác nhận **24,9% (2017) → 2,5% (2025)**; **giảm thính lực 11,2%** trong nhóm nghi | https://pmc.ncbi.nlm.nih.gov/articles/PMC13546868/ | CC BY 4.0 (không dùng ảnh) | không tải (chỉ số liệu) |
+| 11 | Repo nội bộ | **6102 — CMV bào thai**, **6103 — Toxo và Zika bào thai** (cùng bảng TORCH) | ../6102-nhiem-cmv-bao-thai/lesson.md | nội bộ | — |
+| 12 | Radiopaedia | Congenital rubella syndrome — mô tả tham khảo | https://radiopaedia.org/articles/congenital-rubella-syndrome | dẫn link | không tải |
+| 13 | AuntMinnie | Case of the Day (tham khảo) | https://www.auntminnie.com/ | paywall — chỉ dẫn link | không tải |
+
+## Ghi chú giấy phép
+- Ảnh dùng: **CC BY** (PMC4262751) và **CC BY 4.0** (PMC12156454, PMC9745697, PMC6863812) — ghi nguồn đầy đủ, phi thương mại.
+- Tác giả: ghi theo **tạp chí + năm + PMCID**, **không nêu tên tác giả** (tránh gán sai tên); đối chiếu PMCID ngày 2026-11-01.
+- Ảnh tải từ **PMC** bằng đường dẫn `articles/instance/<PMC-number>/bin/<file>` — đúng file figure gốc, không qua trung gian.
+- **Không tạo ảnh ghép**: 4 ảnh thuộc **4 bệnh nhân khác nhau** và 4 modality khác nhau (đáy mắt, ảnh lâm sàng mắt, siêu âm thai, chụp mạch) — ghép sẽ làm sai bối cảnh ca.
+
+## Phản biện / giới hạn nguồn
+- Tần suất từng dấu **lấy từ loạt 115 ca Bangladesh** (nơi không có vaccine, chẩn đoán muộn) — **không suy ra** cho nơi có tiêm chủng; các loạt khác (108 trẻ Việt Nam) có **đục thủy tinh thể 72%** nhưng **giảm thính lực chỉ 7%** vì **không sàng lọc thính lực hệ thống** → con số điếc phản ánh **cách phát hiện**, không phải sinh lý bệnh.
+- Ngưỡng "90% trong 12 tuần đầu" là **số tổng hợp từ tổng quan** (PMC12156454), không phải từ một đoàn hệ tiến cứu duy nhất; các bảng kinh điển khác chia mốc 11/13/16/20 tuần với số khác nhau — bài **chỉ dùng mốc 12/16/20 tuần** đã có nguồn trực tiếp.
+- **9/12 ca CRS nhiễm trước 16 tuần** là số của **giám sát Anh 2003–2016** trên 12 ca — cỡ mẫu rất nhỏ, dùng làm **định hướng**, không phải tỷ lệ chính xác.
+- Số **6,5% xác nhận** ở Ấn Độ phụ thuộc **định nghĩa "ca nghi"** rất rộng (8.953 ca) — không so sánh trực tiếp với tần suất CRS trong dân số.
+- Bài **không** đưa "ngưỡng kích thước ống động mạch" hay "ngưỡng hẹp nhánh ĐMP" vì nguồn không có cut-off được kiểm chứng; các số 6,8/4,2/7,7 mm là **số đo một ca** trong hình, không phải ngưỡng.
