@@ -436,4 +436,7 @@ certainty: tong-hop-y-van
 **650–669 (tiếp) — Cột sống – Tiết niệu Nhi (theo dõi dài hạn)**
 - 668 – Theo dõi dài hạn sau tháo căng tủy & bàng quang thần kinh: tái căng (retethering — so phim nền, ~3,2%/năm tới 57% ở 18 năm), urodynamics/video-urodynamics (áp lực > 40 cm H₂O = bàng quang đe dọa), VUR (ISRSC I–V) & bảo tồn chức năng thận (siêu âm động RPD ≥ 5 mm, DMSA sẹo thận) *(đã có — [bài học](../668-theo-doi-sau-thao-cang-tuy-bang-quang-than-kinh/lesson.md))*
 
+**Ngộ độc – hô hấp cấp cứu nhi (mới)**
+- 1720 – Ngộ độc cyanid do khói lửa ở trẻ: **lactat 16 mmol/L + PaO₂ bình thường + gradient A–V hẹp** mà **CT ngực/CT sọ BÌNH THƯỜNG**; **hydroxocobalamin 70 mg/kg (tối đa 5 g)/15 phút**, **không dùng nitrit**; gộp **512 ca: sống ra viện 66,0%**, **chromaturia 2,9%**, **AKI 38 ca/5 nghiên cứu**; nhiễu xét nghiệm so màu (creatinin, amylase, co-oximetry) *(đã có — [bài học](../1720-ngo-doc-cyanid-khoi-lua-o-tre/lesson.md))*
+
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
