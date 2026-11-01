@@ -8,9 +8,11 @@ Mỗi ảnh ghi rõ: file trong repo, hình gốc, bài gốc (PMCID), giấy ph
 | `1811_hcc-CT_PMC12516094-F1.jpg` | Fig. 1 — "Triphasic liver protocol CT with IV contrast demonstrating an arterially enhancing lesion in hepatic segment VII… (A) arterial phase… (B) portal venous…" | Cureus 2025, PMCID **PMC12516094** — https://pmc.ncbi.nlm.nih.gov/articles/PMC12516094/ | **CC BY 4.0** | Nguyên bản (giữ nhãn A–B) |
 | `1811_loet-tieu-hoa-ENDO_PMC5925165-F1.jpg` | Fig. 1 — "Endoscopic image showing diffuse, severe gastric ulceration" | Case Reports in Immunology 2018, PMCID **PMC5925165** — https://pmc.ncbi.nlm.nih.gov/articles/PMC5925165/ | **CC BY** | Nguyên bản (giữ khung ảnh gốc) |
 | `1811_loet-tieu-hoa-HISTO_PMC5925165-F2.jpg` | Fig. 2 — "(a) Low-power gastric histology showing multiple black yttrium-90 spheres. (b) High-power histology showing a typical black gastric yttrium-90 sphere" | Case Reports in Immunology 2018, PMCID **PMC5925165** — https://pmc.ncbi.nlm.nih.gov/articles/PMC5925165/ | **CC BY** | Nguyên bản (giữ nhãn a–b) |
+| `1811_hep-xa-tri-ENDO_PMC13658084-F1.jpg` | Fig. 1 (A–E) | *Front Oncol* 2026, PMCID **PMC13658084** — https://pmc.ncbi.nlm.nih.gov/articles/PMC13658084/ | **CC BY 4.0** | Nguyên bản (giữ nhãn A–E): nội soi trước Y-90 và sau 3/7/12/16 tháng |
+| `1811_hep-xa-tri-SPECT_PMC13658084-F2.jpg` | Fig. 2 (A–D) | *Front Oncol* 2026, PMCID **PMC13658084** — https://pmc.ncbi.nlm.nih.gov/articles/PMC13658084/ | **CC BY 4.0** | Nguyên bản: 99mTc-MAA SPECT/CT trước và bremsstrahlung SPECT/CT sau điều trị |
 
 ## Ghi chú
-- Cả 4 ảnh đều **CC BY / CC BY 4.0**: dùng cho học tập, ghi nguồn đầy đủ.
+- Cả 6 ảnh đều **CC BY / CC BY 4.0**: dùng cho học tập, ghi nguồn đầy đủ.
 - **Không tạo ảnh ghép**: ảnh thuộc **2 bệnh nhân** và **3 loại hình** (nội soi, CT, mô bệnh) — ghép sẽ gây hiểu sai là cùng một ca.
 - **Không dùng Fig. 3 của PMC5925165** (hình vẽ của *Frontiers in Oncology*, "reproduced with permission") — không thuộc CC BY.
 - **Tên tác giả KHÔNG ghi**: attribution dùng **tạp chí + năm + PMCID** (đối chiếu Europe PMC ngày 2026-10-29) để tránh gán sai tên.

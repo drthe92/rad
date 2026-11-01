@@ -1,16 +1,16 @@
 ---
 unit_id: "1811"
 subspecialty: "Can thiệp – Tiêu hóa (Interventional Radiology & Gastrointestinal)"
-anatomical_location: "dạ dày – tá tràng (gastroduodenal) sau can thiệp mạch gan"
-primary_pattern: "loét/thiếu máu niêm mạc khu trú theo lãnh thổ nhánh động mạch (arterial-territory mucosal ulceration)"
-tags: [pattern:loet-da-day, pattern:thieu-mau-niem-mac, vung:da-day, vung:ta-trang, protocol:DSA-CBCT, score:CTCAE, incidentaloma:khong]
+anatomical_location: "thực quản xa – dạ dày – tá tràng (distal esophagus – gastroduodenal) sau can thiệp mạch gan"
+primary_pattern: "loét/thiếu máu niêm mạc và hẹp xơ khu trú theo lãnh thổ nhánh động mạch (arterial-territory ulceration & stricture)"
+tags: [pattern:loet-da-day, pattern:thieu-mau-niem-mac, pattern:hep-long, pattern:xo-hoa-sau-xa, vung:da-day, vung:ta-trang, vung:thuc-quan, protocol:DSA-CBCT, protocol:noi-soi-tieu-hoa, score:CTCAE, incidentaloma:khong]
 certainty: tong-hop-y-van
 ---
 
-# 1811 — Loét dạ dày–tá tràng do trào ngược vi cầu KHÔNG ĐÍCH sau TACE/TARE: đọc vị trí loét để tìm nhánh động mạch tội phạm
+# 1811 — Loét & HẸP thực quản–dạ dày–tá tràng do trào ngược vi cầu KHÔNG ĐÍCH sau TACE/TARE: đọc vị trí tổn thương để tìm nhánh động mạch tội phạm
 
-**Tags:** `pattern:loet-da-day` `pattern:thieu-mau-niem-mac` `vung:da-day` `vung:ta-trang` `protocol:DSA-CBCT` `score:CTCAE` `incidentaloma:khong`
-**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — tổng quan biến chứng can thiệp mạch gan (PMC12328914, PMC12835986) + 2 ca nguyên văn có ảnh nội soi/mô bệnh (PMC12516094, PMC5925165). Số nào nguồn không nêu thì ghi "chưa rõ", không suy diễn; chỗ hai nguồn lệch nhau thì ghi cả hai.
+**Tags:** `pattern:loet-da-day` `pattern:thieu-mau-niem-mac` `pattern:hep-long` `pattern:xo-hoa-sau-xa` `vung:thuc-quan` `vung:da-day` `vung:ta-trang` `protocol:DSA-CBCT` `protocol:noi-soi-tieu-hoa` `score:CTCAE` `incidentaloma:khong`
+**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — tổng quan biến chứng can thiệp mạch gan (PMC12328914, PMC12835986) + 3 ca nguyên văn có ảnh nội soi/mô bệnh (PMC12516094, PMC5925165, PMC13658084) + tổng quan điều trị hẹp lành tính kháng trị (PMC13623199, PMC12957609, PMC13183003). Số nào nguồn không nêu thì ghi "chưa rõ", không suy diễn; chỗ hai nguồn lệch nhau thì ghi cả hai.
 
 ## 1. Tổng quan bệnh học – cơ chế hình ảnh
 
@@ -22,6 +22,9 @@ certainty: tong-hop-y-van
   - **TARE:** biến chứng tiêu hóa **có triệu chứng 1,9–3,2%**; biến cố độ ≥ 3 (gồm loét) **1,4% với vi cầu nhựa vs 0,1% với vi cầu thủy tinh**; **6%** bệnh nhân bị ảnh hưởng cuối cùng **phải mổ**; triệu chứng sớm **2–3 tuần**, loét/hẹp muộn **1–12 tháng**; hội chứng sau can thiệp (post-radioembolization syndrome) gặp **20–70%** — đây là "bóng ma" che mất chẩn đoán.
   - **TACE:** biến chứng **động mạch** gộp **1,1–7,2%**, phân bố theo thời gian **62% trong 72 giờ đầu**, **28% trong 1–4 tuần**, **10% sau 1 tháng**; yếu tố nguy cơ gồm **lipiodol > 20 mL**, **u ≥ 5 cm**, **xơ gan Child–Pugh B/C**, **TACE lặp lại**, **tiền sử mổ bụng** (dính → bàng hệ) và **không dùng kỹ thuật siêu chọn lọc** (trung tâm dùng siêu chọn lọc có tỷ lệ biến chứng thấp hơn rõ).
   - **Không có ngưỡng liều hấp thụ thành dạ dày/tá tràng được kiểm chứng** để "bảo đảm an toàn": chưa rõ — cần tra. Vì vậy mọi khuyến cáo đều là **kỹ thuật** (chọn lọc, CBCT, coil, bơm chậm), không phải ngưỡng số.
+  - **Bremsstrahlung SPECT sau bơm không đủ nhạy để trấn an:** trong loạt có ca hẹp thực quản muộn, độ nhạy của bremsstrahlung SPECT **dự báo loét tiêu hóa chỉ 13%** (PMC13658084).
+- **Tổn thương không chỉ ở dạ dày–tá tràng — mà cả THỰC QUẢN XA:** nhánh **thực quản của động mạch vị trái** nuôi **thực quản dưới – tâm vị**, nên vi cầu bơm qua nhánh vị trái có **đường giải phẫu trực tiếp** vào thành thực quản. Ca nguyên văn (PMC13658084): bơm **3 GBq** qua nhánh vị trái + **0,5 GBq** qua nhánh gan trái → **3 tháng** loét thâm nhiễm 1/2 chu vi → **7 tháng** loét chu vi tới tâm vị → **12 tháng** hẹp có loét → **16 tháng** hẹp loét nặng, **ống soi không qua được**, phải **nong bóng**. Đây là **hẹp xơ do xạ**, không phải loét đơn thuần.
+- **Vì sao hẹp đến MUỘN:** nguyên bào sợi cơ tăng sinh + collagen hóa cần nhiều tuần–nhiều tháng mới co lòng ống; vì vậy **nội soi 3 tháng chỉ thấy loét KHÔNG loại trừ hẹp** về sau.
 - **Vì sao CT ít giá trị, nội soi là chuẩn:** niêm mạc mỏng, ổ loét nông nên CT thường chỉ thấy **dày thành khu trú**, **mất lớp niêm mạc**, ít dịch trong lòng, hoặc **hơi trong thành** khi đã hoại tử/thủng. Chẩn đoán xác định nằm ở **nội soi + sinh thiết**: vi cầu hiện trên H&E là **hạt tròn, đồng kích thước, bắt màu tím/đen**, nằm trong mao mạch của mô hoại tử — ca PMC12516094 thấy vi cầu trong **cả niêm mạc dạ dày và tá tràng**.
 
 ## 2. Mẫu hình + chẩn đoán phân biệt theo vị trí (gamut)
@@ -30,6 +33,7 @@ certainty: tong-hop-y-van
 - **Mẫu hình B — loét/hoại tử niêm mạc sớm 3 ngày–4 tuần sau TACE hoặc DEB-TACE, có thể kèm chấm thiếu máu lan rộng:** loét thiếu máu do trào ngược hạt/thuốc.
 - **Mẫu hình C — loét rộng gây hẹp lòng (luminal narrowing), ống soi chuẩn không qua được:** loét xơ hẹp muộn; ca PMC12516094 phải dùng **ống soi nhi** để tới tá tràng.
 - **Mẫu hình D — dày thành + hơi trong thành + dịch tự do:** loét thủng/hoại tử — cấp cứu ngoại khoa.
+- **Mẫu hình E — HẸP XƠ THỰC QUẢN XA (hoặc môn vị) tiến triển qua nhiều tháng, không có khối:** khó nuốt/nuốt đau (odynophagia) khởi phát **3 tháng** sau TARE, nặng dần; nội soi nhiều lần thấy **loét bờ phẳng → vòng xơ đối xứng → ống soi không qua** (PMC13658084). Đây là thể **hẹp lành tính do xạ**, khác loét đơn thuần ở chỗ **di chứng xơ hóa là chính**.
 - **Gamut theo VỊ TRÍ (đọc vị trí loét để đoán nhánh tội phạm):**
   - **Bờ cong nhỏ / thân vị** → **động mạch vị phải** (thường xuất phát từ động mạch gan riêng hoặc gan trái) — nhánh hay bị bỏ sót nhất khi lập kế hoạch.
   - **Hang vị + hành tá tràng / D1–D2** → **GDA**, **supraduodenal**, **nhánh tá tụy**.
@@ -48,6 +52,7 @@ certainty: tong-hop-y-van
 | **Ung thư dạ dày xâm lấn/loét ác tính** | Bờ nổi, đáy hoại tử, **dày thành > 1 cm** trên CT, hạch, mất lớp niêm mạc | **Bờ gồ, dày thành không đều + hạch + sinh thiết ác tính** | **Niêm mạc quanh loét mỏng – phù đều, không khối, sinh thiết âm tính** → không phải ung thư | Sinh thiết nhiều mảnh, CT/EUS |
 | **Viêm tụy cấp do trào ngược** (cùng cơ chế, hay đi kèm) | Tụy phù/to, dịch quanh tụy, amylase/lipase **> 3× ULN** | **Đau lan sau lưng + enzyme tụy > 3× ULN + phù tụy** | Enzyme bình thường, đau khu trú thượng vị → không phải | Amylase/lipase, CT bụng |
 | **Hội chứng sau can thiệp (post-embolization syndrome)** | Sốt nhẹ, buồn nôn, đau thượng vị **1–5 ngày**, tự hết; **20–70%** sau TARE | **Đau giảm dần trong 1 tuần + không thiếu máu + không nôn kéo dài** | **Đau tăng dần > 2 tuần, nôn, sụt cân, thiếu máu** → không phải hội chứng đơn thuần, phải nội soi | Theo dõi 1–2 tuần; nội soi nếu kéo dài |
+| **Hẹp xơ do xạ (thực quản dưới / môn vị)** | Vòng xơ **đối xứng, nhẵn**, không khối; hẹp tiến triển **1–12 tháng** (tới **16 tháng**), ống soi có thể không qua | **Tiền sử TARE + hẹp muộn tiến triển + không khối/hạch + đúng vùng nhánh bơm** | Có **khối ngoài lòng, hạch, thành dày bất đối xứng** → nghĩ u tái phát/xâm lấn | Nội soi + CT/MRI; **nong bóng ± triamcinolone** chẩn đoán và điều trị |
 
 ## 4. Protocol chụp + phân độ
 
@@ -60,6 +65,13 @@ certainty: tong-hop-y-van
 - **Phân độ CTCAE v5 (dùng để báo cáo và quyết định mức điều trị):** độ 2 = loét có triệu chứng cần can thiệp y khoa (PPI liều cao, dinh dưỡng); độ 3 = nhập viện, **nuôi ăn tĩnh mạch/qua ống xa**, can thiệp; độ 4 = thủng/đe dọa tính mạng, mổ cấp cứu; độ 5 = tử vong.
 - **Điều trị:** **PPI liều cao + sucralfate**, tránh NSAID, hoãn hóa trị để loét lành; **nuôi ăn qua ống xuống đoạn ruột xa hoặc TPN** khi không ăn được; **mổ 6%** ca bị ảnh hưởng. **PPI dự phòng cho mọi ca KHÔNG có chỉ định** (không có bằng chứng giảm loét do xạ).
 - **Không có thử nghiệm ngẫu nhiên** so sánh các phác đồ — mọi khuyến nghị điều trị hiện dựa trên ca bệnh và sinh lý bệnh: **chưa rõ**.
+- **Điều trị HẸP (khác điều trị loét — cần thang bậc có ngưỡng):**
+  - **Định nghĩa hẹp kháng trị (RBES):** **không đạt đường kính 14–15 mm** sau nhiều lần nong (định nghĩa phổ biến nhất trong 18 nghiên cứu) hoặc nong lặp lại không đạt tiêu chí; **30–40%** ca hẹp tái phát rơi vào nhóm này (PMC13623199).
+  - **Nong bóng ± tiêm triamcinolone:** bậc 1 cho hẹp do xạ; ca hẹp thực quản sau Y-90 **giảm hẹp rõ và cải thiện khó nuốt** sau nong bóng (PMC13658084).
+  - **Kết quả nội soi điều trị RBES (18 nghiên cứu):** kỹ thuật **84,1%**, lâm sàng **58,1%**; nhóm **không miệng nối** (gồm hẹp do xạ) kỹ thuật **80,0%**, biến chứng **11,3%**, lâm sàng **61,1%** → **thành công kỹ thuật cao nhưng duy trì lâm sàng chỉ ~60%** (PMC13623199).
+  - **Hẹp môn vị kháng trị:** **EUS-guided gastrojejunostomy (EUS-GJ)** — thành công kỹ thuật/lâm sàng **> 95%**, ít tái phát hơn stent (PMC12957609); stent phủ toàn phần chỉ nên **tạm thời** (nguy cơ di trú).
+  - **Tắc hoàn toàn:** nong **hai chiều (CARD — combined antegrade and retrograde dilatation)**, có thể **bỏ được phụ thuộc mở dạ dày ra da** (PMC13183003).
+  - **Không đạt mục tiêu sau 2–3 lần nong, hoặc tái hẹp nhanh:** chuyển **stent/cắt xơ nội soi/phẫu thuật** — đừng nong vô hạn.
 
 ```mermaid
 flowchart TD
@@ -90,7 +102,10 @@ flowchart TD
 - **Cạm bẫy 5 — hạt DEB không cản quang:** trên fluoroscopy, trào ngược của DEB **không nhìn thấy**; chỉ đánh giá được bằng **CBCT/CT sau** (vùng thiếu tưới máu) và bằng lâm sàng.
 - **Cạm bẫy 6 — tử vong không phải do loét mà do mất bù xơ gan:** ca PMC12516094 chết vì **Child–Pugh B → C, nhiễm trùng, DIC**, không phải vì chảy máu ổ loét. Ở bệnh nhân xơ gan, **nuôi ăn kém + loét = bệnh cảnh toàn thân**, cần dinh dưỡng và theo dõi chức năng gan song song.
 - **Biến thể bình thường:** viêm dạ dày/loét nông **không triệu chứng**, tự lành trong **2–4 tuần**, chỉ thấy khi nội soi vì lý do khác — theo dõi, không can thiệp.
-- **Lưu ý trung thực nguồn:** ca PMC12516094 ghi **72 tuổi ở phần tóm tắt** nhưng **74 tuổi ở phần ca bệnh** — bài gốc tự mâu thuẫn, không phải lỗi phiên giải; ghi cả hai khi trích.
+- **Cạm bẫy 7 — kết luận "chưa hẹp" quá sớm:** hẹp xơ tiến triển **nhiều tháng sau loét** (tới **16 tháng**); nội soi ở tháng 3 chỉ thấy loét **không loại trừ** hẹp về sau. Bệnh nhân **khó nuốt mới xuất hiện** sau 6–12 tháng là diễn tiến tự nhiên của bệnh, không phải "bệnh mới".
+- **Cạm bẫy 8 — nhầm hẹp xơ do xạ với u tái phát/xâm lấn:** hẹp xơ **đối xứng, không khối, không hạch**; nhầm sẽ dẫn tới **tăng liều hóa trị/xạ** vô ích trong khi cần **nong bóng**.
+- **Cạm bẫy 9 — sinh thiết âm không loại trừ lạc vị vi cầu:** ca PMC13658084 có **4 lần nội soi kèm sinh thiết đều không thấy vi cầu** (vi cầu thưa, lấy mẫu ngẫu nhiên); chẩn đoán vẫn dựa vào **bối cảnh + vị trí + diễn tiến** (và hoạt độ mờ cạnh thành trên bremsstrahlung SPECT).
+- **Lưu ý trung thực nguồn:** ca PMC12516094 ghi **72 tuổi ở phần tóm tắt** nhưng **74 tuổi ở phần ca bệnh** — bài gốc tự mâu thuẫn, không phải lỗi phiên giải; ghi cả hai khi trích. Ca PMC13658084 cũng **không chứng minh tuyệt đối** vi cầu trong thành thực quản (sinh thiết âm, SPECT chỉ "mờ, khó phân biệt với hoạt độ gan") — bài gốc tự nêu hạn chế này.
 
 ## 6. Tự lượng giá — Blind Quiz
 
@@ -139,6 +154,26 @@ flowchart TD
 - Ghi chú: **không có ngưỡng liều** nào thay thế được ba bước kỹ thuật trên (chưa rõ ngưỡng thành dạ dày/tá tràng).
 - Nguồn ảnh: Cureus 2025 (PMC12516094), Fig. 1, **CC BY 4.0** — nguyên bản.
 </details>
+
+**Ca 4 — Nam 47 tuổi, HCC đa ổ, TARE qua nhánh động mạch vị trái; 3 tháng sau khó nuốt, tăng dần trong 1 năm.**
+
+![Ca 4 — nội soi thực quản dưới: loét rồi hẹp theo thời gian](images/1811_hep-xa-tri-ENDO_PMC13658084-F1.jpg)
+
+- Gợi ý lâm sàng: nuốt đau, không sốt; không có khối trên CT ngực–bụng.
+- Câu hỏi: mô tả diễn tiến tổn thương qua các mốc? Vì sao hẹp lại xuất hiện muộn? Hai chẩn đoán phải loại trừ và ngưỡng can thiệp?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- Dấu hiệu (findings): **3 tháng** (B) loét thâm nhiễm 1/2 chu vi; **7 tháng** (C) loét **chu vi** lan tới tâm vị; **12 tháng** (D) hẹp có loét; **16 tháng** (E) hẹp loét nặng, **ống soi không qua được**.
+- Chẩn đoán (diagnosis): **hẹp xơ thực quản dưới do xạ sau TARE** — vi cầu qua **nhánh thực quản của động mạch vị trái**.
+- Vì sao muộn: xơ hóa myofibroblast/collagen tiến triển **nhiều tháng sau loét**; đây là quy luật, không phải "bệnh mới".
+- Loại trừ: **u xâm lấn/tái phát** (không khối/hạch), **hẹp do TKI (lenvatinib)** — ca gốc dùng đồng thời nên **không loại trừ tuyệt đối**.
+- Xử trí: **nong bóng** (ca gốc cải thiện khó nuốt); kháng trị khi **không đạt 14–15 mm** → **stent phủ/cắt xơ/EUS-GJ nếu ở môn vị**; mổ khi thủng hoặc thất bại.
+- Nguồn ảnh: *Front Oncol* 2026 (PMC13658084), Fig. 1 — **CC BY 4.0**.
+</details>
+
+![Bremsstrahlung SPECT/CT sau bơm: hoạt độ mờ cạnh thành thực quản](images/1811_hep-xa-tri-SPECT_PMC13658084-F2.jpg)
+*Bremsstrahlung SPECT/CT sau Y-90: mũi tên đỏ chỉ hoạt độ **mờ, khó tách khỏi hoạt độ gan** cạnh thành thực quản dưới — minh họa vì sao hình ảnh **không đủ** để loại trừ lạc vị (độ nhạy dự báo loét chỉ **13%**). Nguồn: Front Oncol 2026 (PMC13658084), Fig. 2, CC BY 4.0.*
 
 ![Mô bệnh: vi cầu 90Y trong niêm mạc dạ dày](images/1811_loet-tieu-hoa-HISTO_PMC5925165-F2.jpg)
 *Hạt vi cầu tròn, đồng kích thước, bắt màu đen trên H&E trong mao mạch niêm mạc — dấu hiệu **chốt nguyên nhân** khi nội soi thấy loét ở bệnh nhân đã can thiệp mạch gan. Nguồn: Case Reports in Immunology 2018 (PMC5925165), Fig. 2, CC BY.*

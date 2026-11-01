@@ -243,6 +243,7 @@ certainty: tong-hop-y-van
 - 179 – Hoại tử ống mật & cholangiopathy thiếu máu sau TACE/TARE/RFA: ống mật "giả giãn", biloma & dẫn lưu *(đã có — [bài học](../179-bien-chung-duong-mat-sau-can-thiep-u-gan/lesson.md))*
 - 180 – Viêm túi mật thiếu máu sau TACE/TARE: lipiodol trong thành trên CBCT, ngưỡng thành 4 mm & khi nào dẫn lưu/cắt túi mật *(đã có — [bài học](../180-viem-tui-mat-thieu-mau-sau-tace/lesson.md))*
 - 1811 – Loét dạ dày–tá tràng do trào ngược vi cầu KHÔNG ĐÍCH sau TACE/TARE: loét do xạ 1,9–3,2%, muộn 1–12 tháng, 6% phải mổ, coil GDA/vị phải không bảo đảm, chốt bằng vi cầu trong mô bệnh *(mới — [bài học](../1811-loet-da-day-ta-trang-sau-tace-tare/lesson.md))*
+- 1819 – Chảy máu tiêu hóa MUỘN do giả phình động mạch tạng (GDA/tụy–tá tràng): 4–17% sau viêm tụy, ~3,5 tuần, CTA nhạy 95%, sentinel bleed, nút mạch *(mới — [bài học](../1819-chay-mau-muon-gia-phinh-mach-tang/lesson.md))*
 - 1801 – REILD sau TARE Y-90: cổ trướng – vàng da 4–8 tuần, teo gan & phân biệt với tiến triển u *(đã có — [bài học](../1801-benh-gan-do-thuyen-tac-phong-xa-reild/lesson.md))*
 - 181 – BRTO/RTO cho giãn tĩnh mạch dạ dày: nhánh thoát (Kiyosue), Hirota, PARTO/CARTO, cạm bẫy *(đã có — [bài học](../181-brto-thuyen-tac-nguoc-tm-than-trai-gian-tm-da-day/lesson.md))*
 - 182 – Biến chứng SỚM sau TIPS: thủng bao gan, hemobilia, endotipsitis, suy tim cung lượng cao *(đã có — [bài học](../182-bien-chung-som-sau-tips/lesson.md))*

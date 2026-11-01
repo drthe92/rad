@@ -36,6 +36,8 @@ certainty: tong-hop-y-van
 - [939 – Rò động mạch chủ–tĩnh mạch chủ (ACF): IVC ngấm thì động mạch, suy tim cung lượng cao, thận giảm ngấm](../939-ro-dong-mach-chu-tinh-mach-chu/lesson.md) *(mới — nối 938/170/172)*
 - [1622 – Đốt cồn nang giáp lành tính](../1622-dot-con-nang-giap-pei/lesson.md) *(đã có)*
 - [1629 – Đốt nhiệt nhân giáp lành tính đặc (RFA/MWA)](../1629-dot-nhiet-nhan-giap-lanh-tinh-dac/lesson.md) *(đã có)*
+- [1819 – Chảy máu tiêu hóa muộn do giả phình động mạch tạng (GDA/tụy–tá tràng): sentinel bleed = CTA ngay, nút mạch 93,5% lâm sàng](../1819-chay-mau-muon-gia-phinh-mach-tang/lesson.md) *(mới — nối 920/135/930)*
+- [1811 – Loét & hẹp thực quản–dạ dày–tá tràng do vi cầu lạc vị sau TACE/TARE: hẹp muộn 1–12 tháng, nong bóng → stent/EUS-GJ](../1811-loet-da-day-ta-trang-sau-tace-tare/lesson.md) *(đã có — bổ sung nhánh hẹp)*
 - [934 – Sốc phản vệ do vỡ nang sán khi can thiệp](../934-soc-phan-ve-do-vo-nang-san/lesson.md) *(đã có)*
 - [933 – Sốc phản vệ & PC-AKI do thuốc cản quang](../933-an-toan-thuoc-can-quang/lesson.md) *(đã có)*
 

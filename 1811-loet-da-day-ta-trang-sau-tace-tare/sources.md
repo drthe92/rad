@@ -11,10 +11,15 @@
 | 5 | Radiopaedia | Mô tả tham khảo "Gastroduodenal ulceration — post radioembolization" | https://radiopaedia.org/articles/gastroduodenal-ulceration | dẫn link | không tải |
 | 6 | AuntMinnie | Case of the Day (tham khảo) | https://www.auntminnie.com/ | paywall — **chỉ dẫn link** | không tải |
 | 7 | Repo nội bộ | **180 – viêm túi mật thiếu máu sau TACE** (cùng cơ chế), **1806 – viêm phổi do xạ sau TARE**, **1807 – bóc tách ĐMC bụng sau thủ thuật**, **920 – nút mạch chảy máu tiêu hóa** | ../180-viem-tui-mat-thieu-mau-sau-tace/lesson.md | nội bộ | — |
+| 8 | Europe PMC / *Front Oncol* 2026;16:1928806 | Ca nguyên văn (**PMC13658084**): nam **47 tuổi**, HCC đa ổ, Y90-SIRT **3 GBq** qua nhánh động mạch vị trái + **0,5 GBq** nhánh gan trái; khó nuốt 3 tháng → **16 tháng** hẹp loét nặng, ống soi không qua; nong bóng cải thiện; **bremsstrahlung SPECT độ nhạy dự báo loét tiêu hóa chỉ 13%**; sinh thiết 4 lần không thấy vi cầu | https://pmc.ncbi.nlm.nih.gov/articles/PMC13658084/ | **CC BY 4.0** | `images/1811_hep-xa-tri-ENDO_PMC13658084-F1.jpg` (Fig. 1), `images/1811_hep-xa-tri-SPECT_PMC13658084-F2.jpg` (Fig. 2) |
+| 9 | Europe PMC / *Arq Gastroenterol* 2026;63:e26027 | Tổng quan hệ thống (**PMC13623199**): hẹp lành tính kháng trị **30–40%**; định nghĩa kháng trị phổ biến = **không đạt 14–15 mm**; 18 nghiên cứu, kỹ thuật **84,1%**, lâm sàng **58,1%**; nhóm không miệng nối (gồm do xạ) kỹ thuật **80,0%**, biến chứng **11,3%**, lâm sàng **61,1%** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13623199/ | CC BY 4.0 | không dùng ảnh |
+| 10 | Europe PMC / review 2026 | Benign gastric outlet obstruction (**PMC12957609**): **EUS-GJ** thành công kỹ thuật/lâm sàng **> 95%**, ít tái phát hơn stent; stent phủ toàn phần nguy cơ di trú | https://pmc.ncbi.nlm.nih.gov/articles/PMC12957609/ | CC BY-NC-ND 4.0 | không dùng ảnh |
+| 11 | Europe PMC / *ACG Case Rep J* 2026;13(5):e02087 | Nong hai chiều (**CARD**) cho tắc thực quản hoàn toàn do xạ hóa trị (**PMC13183003**): bỏ được phụ thuộc mở dạ dày ra da ở 1 ca, ca còn lại tái hẹp phải làm lại | https://pmc.ncbi.nlm.nih.gov/articles/PMC13183003/ | CC BY 4.0 | không dùng ảnh |
 
 ## Ghi chú giấy phép
 - Ảnh **CC BY 4.0** (PMC12516094) và **CC BY** (PMC5925165): dùng được cho học tập, ghi nguồn đầy đủ; **không tạo ảnh ghép** vì 4 ảnh thuộc **2 bệnh nhân khác nhau và 2 modality khác nhau** (nội soi, CT, mô bệnh).
 - **Không dùng Fig. 3 của PMC5925165** (hình vẽ "aberrant microsphere deposition" **reproduced with permission of Frontiers in Oncology**) — đây là ảnh của bên thứ ba, không thuộc giấy phép CC BY của bài.
+- 2 ảnh mới của **PMC13658084** là **CC BY 4.0**, không có thành phần bên thứ ba; vẫn **không tạo ảnh ghép** vì thuộc bệnh nhân khác với ảnh cũ (ghép 2 ca khác nhau dễ gây hiểu sai là một ca).
 - **Tên tác giả KHÔNG ghi**: attribution dùng **tạp chí + năm + PMCID** (đối chiếu Europe PMC ngày 2026-10-29) để tránh gán sai tên.
 - Ảnh tải từ **PMC** (blob `cdn.ncbi.nlm.nih.gov`), đúng file figure gốc của bài.
 
