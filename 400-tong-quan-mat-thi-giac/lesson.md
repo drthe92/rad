@@ -193,6 +193,8 @@ certainty: tong-hop-y-van
 - [1403 – Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt thể thủy tinh](../1403-phau-thuat-rop-giai-doan-4-5/lesson.md) *(mới)*
 - [1406 – Tái bong & co kéo sau mổ ROP 4–5: phân biệt co kéo – rách mới – xuất tiết, khi nào mổ lại](../1406-tai-bong-co-keo-sau-mo-rop/lesson.md) *(mới)*
 - [1410 – Lấy dầu silicone & dầu tồn lưu: nhũ tương hóa, giọt tăng phản xạ trên OCT/AS-OCT, bong tái phát sau lấy dầu & kỹ thuật rửa PFCL](../1410-lay-dau-silicone-va-dau-ton-luu/lesson.md) *(mới)*
+- [1416 – Glôcôm do dầu silicone: pupillary block vs bít bè do nhũ tương, lấy dầu – van – CPC](../1416-glaucom-do-dau-silicone/lesson.md) *(mới)*
+- [1417 – Khi nào giữ dầu silicone vĩnh viễn: chọn ca, theo dõi dầu tồn lưu & dầu đục](../1417-giu-dau-silicone-vinh-vien/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.

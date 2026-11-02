@@ -1,0 +1,32 @@
+# Nguồn — 1416 Glôcôm do dầu silicone
+
+> Quét 2026-11-02 qua Europe PMC (`TITLE:"silicone oil" AND TITLE:glaucoma AND OPEN_ACCESS:Y`, 17 kết quả; `"silicone oil glaucoma" AND OPEN_ACCESS:Y`, 18 kết quả; `FIG:"silicone oil emulsification" AND OPEN_ACCESS:Y`, 10 kết quả). Đối chiếu `authorString`/PMCID trước khi ghi tên tác giả. Kiểm giấy phép từng ảnh trước khi tải.
+
+## Nguồn chính (số liệu định lượng dùng trong bài)
+
+1. **Tổng quan phẫu thuật glôcôm do dầu (62 bài, 1986–2022):** Cornacel C, Dumitrescu OM, Zaharia AC, Pirvulescu RA, Munteanu M, Tataru CP, Istrate S. *Surgical Treatment in Silicone Oil-Associated Glaucoma.* Diagnostics (Basel) 2022;12(4):1005. https://pmc.ncbi.nlm.nih.gov/articles/PMC9031548/ — **CC BY 4.0**. Số liệu: tăng nhãn áp sau PPV + dầu **2,2–56%**; **70%** glôcôm sau PPV + dầu quy cho dầu (Honavar); nhũ tương hóa **0,7–56%**; nguy cơ tăng áp dai dẳng **4,7 lần** so với BSS/SF6 (Lyssek-Boroń); iridectomy đóng lại **11–32%**; tháo dầu đơn thuần **62%**/24 tháng (Budenz), **57,1%** (Nguyen), **45,5%** (Honavar), **1/11** (Moisseiev); thất bại nhóm tháo dầu đơn thuần do nhãn áp không kiểm soát **92%**, nhóm phối hợp do hạ áp quá mức **75%**; cắt bè **40%/60%** (Errico); van dẫn lưu **62–80%**/12–24 tháng, hạ áp quá mức **tới 50%**; TSCPC **44–81,8%**, hạ áp quá mức **5,6–13,2%**, mất cảm giác sáng **56%** (Sivagnanavel); GATT **31 ± 4,1 → 15,6 ± 4,6** và **32,7 ± 5,1 → 13,6 ± 1,8 mmHg**, thành công **93,3%**; SLT giảm **~20%**/1 năm, thành công **59,5%**.
+
+2. **Tổng quan tăng nhãn áp sau bơm dầu:** Nicolai M, Lassandro N, Franceschi A, Rosati A, De Turris S, Pelliccioni P, Pirani V, Mariotti C. *Intraocular Pressure Rise Linked to Silicone Oil in Retinal Surgery: A Review.* Vision (Basel) 2020;4(3):E36. https://pmc.ncbi.nlm.nih.gov/articles/PMC7558829/ — **CC BY 4.0**. Số liệu: tăng áp sớm **3–40%**; glôcôm muộn **3–30%** (loạt cũ **20–50%**); nhãn áp **14,7 → 21,8 mmHg sau 3 giờ → 26,0 mmHg sau 48 giờ**; Jabbour: **48%** tăng áp, **61,5%** trong tuần 1, **28,7%** tuần 1–6, **9,8%** sau 6 tuần; tích lũy 1 năm **28,4%**; nhãn áp **> 25 mmHg ở 73%** ca giảm thị lực; xuất huyết tiền phòng **39%**; sức căng mặt phân cách dầu–nước **≈ 35 mN/m**; cơ chế **pupillary block** và **silicomacrophage**.
+
+3. **Tổng quan nhũ tương hóa + OCT:** Łątkowska M, Gajdzis M, Kaczmarek R. *Emulsification of Silicone Oils: Altering Factors and Possible Complications—A Narrative Review.* J Clin Med 2024;13(8):2407. https://pmc.ncbi.nlm.nih.gov/articles/PMC11051299/ — **CC BY 4.0**. Dùng Hình 2: (a) giọt tăng phản xạ trên đĩa thị; (b) giọt tăng phản xạ nội võng mạc; tổng quan về yếu tố thúc đẩy nhũ tương hóa và biến chứng (tăng nhãn áp, bệnh giác mạc, biến đổi võng mạc).
+
+4. **Ca pupillary block ngày 2, xử trí tại đèn khe:** Takagi K, Sugihara K, Murakami K, Tanito M. *Slit-Lamp Management of Silicone Oil-Induced Pupillary Block After Vitrectomy.* Cureus 2025;17(9):e95016. https://pmc.ncbi.nlm.nih.gov/articles/PMC12548765/ — **CC BY 4.0**. Ca: nam **51 tuổi**, bệnh võng mạc đái tháo đường tăng sinh, phaco + PPV + dầu; **ngày 1** dầu trong tiền phòng nhưng nhãn áp và độ sâu tiền phòng bình thường; **ngày 2** block đồng tử, **nhãn áp 60 mmHg**, tiền phòng dẹt; bơm viscoelastic + ấn mống mắt + **iridotomy xuyên giác mạc bằng lưỡi MVR** → hết block, nhãn áp bình thường; **ngày 3** dầu còn trong tiền phòng nhưng góc mở.
+
+5. **So sánh Ahmed vs EX-PRESS ở glôcôm do nhũ tương hóa (23 mắt):** Qian Z, Xu K, Kong X, Xu H. *Ahmed Glaucoma Valves versus EX-PRESS Devices in Glaucoma Secondary to Silicone Oil Emulsification.* J Ophthalmol 2018;2018:8539689. https://pmc.ncbi.nlm.nih.gov/articles/PMC6031208/ — **CC BY 4.0**. Thành công 1 năm: **AGV 78,6% (11/14) vs EX-PRESS 33,3% (3/9)**, p < 0,05; toàn nhóm **60,9% (14/23)**.
+
+6. **Cắt bè vs Ex-PRESS (26 mắt, RCT):** Errico D, Scrimieri FL, Riccardi R, Iarossi G. *Trabeculectomy Versus Ex-Press Glaucoma Filtration Device in Silicomacrophagocytic Open Angle Glaucoma Secondary to Silicone Oil Emulsification.* Middle East Afr J Ophthalmol 2016;23(2):177–182. https://pmc.ncbi.nlm.nih.gov/articles/PMC4845615/ — **CC BY-NC-SA 3.0**. Thành công 2 năm: Ex-PRESS **73%** hoàn toàn/**81,8%** có thuốc; cắt bè **40%**/**60%**; nhãn áp **33 ± 6,4 → 17,8 ± 6,2 mmHg** (Ex-PRESS).
+
+7. **Viscotrabeculotomy + rửa tiền phòng vs Ahmed (43 mắt):** Elwehidy AS, Bayoumi NHL, Abdelkader A, Badawi AE. *Viscotrabeculotomy with anterior chamber irrigation versus Ahmed glaucoma valve implantation for surgical management of glaucoma after silicone oil removal.* Arq Bras Oftalmol 2023;86(3):223–231. https://pmc.ncbi.nlm.nih.gov/articles/PMC11826558/ — **CC BY 4.0**. Nhãn áp **35,5 ± 2,6 → 16,9 ± 0,7** (viscotrabeculotomy) và **35,5 ± 2,4 → 17,9 ± 0,9 mmHg** (Ahmed), p < 0,0001.
+
+8. **Quang đông thể mi slow-coag (18 mắt):** Khodeiry MM, Liu X, Sheheitli H, Sayed MS, Lee RK. *Slow Coagulation Transscleral Cyclophotocoagulation for Postvitrectomy Patients With Silicone Oil-induced Glaucoma.* J Glaucoma 2021;30(9):789–794. https://pmc.ncbi.nlm.nih.gov/articles/PMC8404953/ — **CC BY-NC-ND 4.0**. Nhãn áp **29,7 ± 9,6 → 14,6 ± 6,5 mmHg** lúc 12 tháng (p < 0,001); thuốc **4,2 ± 0,9 → 1,9 ± 1,3**; năng lượng **1.250 mW × 4 giây**; theo dõi **16,3 ± 3,5 tháng**.
+
+9. **Ca pupillary block do bọt dầu không nhũ tương ở mắt còn thể thủy tinh (đối chiếu):** Al-Habsi SH, Al-Abri MS. *Pupillary block glaucoma due to anterior migration of nonemulsified silicone oil in a phakic patient: A case report.* Oman J Ophthalmol 2023;16(1):110–112. https://pmc.ncbi.nlm.nih.gov/articles/PMC10062094/ — **CC BY-NC-SA 4.0**. Ca: nam **24 tuổi**, **2 tuần** sau PPV + dầu, nhãn áp **67 mmHg**, 2 bọt dầu ở bờ đồng tử; thất bại nội khoa → **PPV + lấy dầu + rửa tiền phòng**.
+
+## Số liệu kế thừa từ bài 1410 (không tải lại ảnh)
+- Bong tái phát sau lấy dầu **14,9–22,4%** (y văn **5–31,4%**), tiền sử mổ thất bại **OR 4,8** — PMC11321828, PMC11325823, PMC12516905, PMC13019722 (chi tiết ở `1410-lay-dau-silicone-va-dau-ton-luu/sources.md`).
+- Nhũ tương hóa khởi phát **13,2 ± 4,8 tháng** (sớm **2 tháng**); giọt **< 1 µm** dưới giới hạn đèn khe; **90,9%** mắt có dầu thấy giọt trên OCT; confocal bất thường nội mô **tới 75%** khi có dầu tiền phòng — PMC11232747, PMC4052149, PMC11543845, PMC13169982.
+
+## Ghi chú giấy phép
+- Ảnh tải từ PMC open access; ghi từng file trong `images/CREDITS.md`.
+- Radiopaedia / AuntMinnie / Retina Image Bank / EyeWiki: **chỉ dẫn link**, không tải.
+- Số liệu từ nguồn **CC BY-NC-ND** (PMC8404953) chỉ dùng để dẫn số, **không lấy ảnh**.
