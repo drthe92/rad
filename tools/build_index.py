@@ -192,7 +192,10 @@ CLASSIFY_4D = {
 RECLASS = {
     "205": "dauco", "208": "dauco", "230": "dauco", "233": "dauco", "235": "dauco",
     "236": "dauco", "237": "dauco", "238": "dauco", "244": "dauco",
-    "478": "dauco", "497": "dauco", "1649": "spk", "558": "msk", "3023": "dauco", "3046": "dauco", "3050": "dauco",
+    "478": "dauco", "497": "dauco", "1649": "spk", "558": "msk",
+    # Ưu tiên chuyên ngành MẮT: bài có tổn thương mắt chính (kể cả nhi khoa / thần kinh - nhãn khoa)
+    "1641": "mat", "3018": "mat", "3021": "mat", "6104": "mat",
+    "6106": "mat", "6131": "mat", "6132": "mat", "3023": "dauco", "3046": "dauco", "3050": "dauco",
 }
 # Bài "Vú & SPK" cũ → tách: Vú (breast) vs Sản – Phụ khoa
 BREAST_TOKENS = {"vu", "num-vu", "hach-nach", "ho-nach", "tuyen-vu", "implant-nguc"}

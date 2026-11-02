@@ -44,6 +44,9 @@
 - Quy tắc ảnh (image rule): tải về nếu giấy phép cho phép (ghi nguồn + giấy phép từng ảnh trong `images/CREDITS.md`), không tải được thì dẫn link. AuntMinnie: chỉ dẫn link. Tên file: `NNN_slug_Modality_SourceID.jpg` (vd `020_not-phoi_CT_Radiopaedia-rIDxxxxx.jpg`). Ảnh ghép đối chiếu: `images/composite_*.jpg` tạo bằng `tools/make_composite.py` (Pillow letterbox nền đen — KHÔNG crop/kéo giãn, giữ aspect gốc — + dải đen `[Tên bệnh - chuỗi xung] + attribution`), nhúng vào mục (3).
 - **Trung thực nguồn ảnh (bắt buộc):** CẤM bịa tên tác giả/niên đại. Chỉ ghi tên tác giả đầu tiên khi đọc trực tiếp từ bài gốc (đối chiếu PMID/PMCID); nếu không chắc thì ghi `Tạp chí Năm (PMCID)` **không kèm tên tác giả**. Ghi sai tác giả = lỗi trung thực nguồn (đã gặp: 120/434/525/655 — Balci/Bass/Solanki/Saxena/Martinello đều sai so với PMCID).
 - Blind Quiz ngay trên trang tĩnh: mỗi ca đặt ảnh + câu hỏi gợi mở ở NGOÀI, giấu findings + chẩn đoán trong `<details><summary>` (xem template mục 6). Không cần app/Streamlit phase này.
+- **Ưu tiên chuyên ngành Mắt**: bài có tổn thương/bệnh mắt là trọng tâm → luôn xếp tab **Mắt**, kể cả bài nhi khoa
+  (aniridia, kính scleral, viêm giác mạc) hay thần kinh–nhãn khoa (IIH, OPMD). Bài TMH thuần (thính lực, ốc tai,
+  xoang, tuyến giáp) → **Đầu Cổ**, không để trong Mắt.
 - **Không có chuyên mục "Khác"**: mỗi bài phải vào đúng 1 hệ. Bài ID 4 chữ số (dải tràn) được phân loại
   trong `CLASSIFY_4D` của `tools/build_index.py`, hoặc tự động theo tag `vung:`; nếu chưa phân loại được,
   `build_index.py` **DỪNG** và liệt kê ID — không được để bài rơi vào "Khác".
