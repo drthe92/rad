@@ -1,0 +1,22 @@
+# Nguồn gốc — 1821-suy-gan-sau-cat-gan
+
+> Suy gan sau cắt gan (PHLF): định nghĩa ISGLS, 50-50, thể tích gan còn lại (FLR/sFLR), KGR, MRI gan mật (FLIS/HUI), mebrofenin, PVE/LVD/ALPPS. Quét Europe PMC ngày 2026-11-02 (`FIG:"post-hepatectomy liver failure" AND OPEN_ACCESS:Y` — 91 kết quả; bổ sung truy vấn FLR/volumetry, ALPPS, mebrofenin, 50-50).
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / *Ann Med Surg* 2018 (PMC6120608) | Post hepatectomy liver failure – A comprehensive review of current concepts and controversies — định nghĩa ISGLS (INR + bilirubin từ POD 5, độ A/B/C, tử vong **0% → 54%**), **50-50** (PT < 50%, bilirubin > 50 µmol/L POD 5 → tử vong **59% vs 1,2%**, chính xác **97,7%**), Mullen (**> 120 µmol/L**), Hyder | https://pmc.ncbi.nlm.nih.gov/articles/PMC6120608/ | CC BY-NC-ND | không tải ảnh (dùng số liệu) |
+| 2 | Europe PMC / *World J Hepatol* 2022 (PMC9714434) | Volume and flow modulation strategies to mitigate post-hepatectomy liver failure — **FLR/TLV < 25%** (gan lành) và **> 40%** (gan bệnh); PHLF **1–35%**, tử vong chu phẫu tới **40–60%**; **LVD vs PVE 59% vs 48%** và **61% vs 29%**; **KGR 3,5 vs 2,5 sFLR/tuần** | https://pmc.ncbi.nlm.nih.gov/articles/PMC9714434/ | CC BY | không tải ảnh |
+| 3 | Europe PMC / *Cancers* 2025 (PMC12222409) | Augmenting the Future Liver Remnant Prior to Major Hepatectomy — **sFLR 20/30/40%** theo nhu mô; **TELV theo BSA (Vauthey)**; **KGR ≥ 2%/tuần** (Shindoh); **PVE**: tăng **36% ± 18**, biến chứng **2,2%**, tử vong thủ thuật **0%**, **~20%** không mổ được; **ALPPS vs TSH: 68% ± 38 vs 36% ± 18, KGR 14,1 vs 6,1, sFLR 30% ở 92% vs 47%, mổ được 92% vs 57%, tử vong 90 ngày 8,3% vs 6,1%** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12222409/ | CC BY | không tải ảnh |
+| 4 | Europe PMC / *Healthcare* 2025 (PMC11898974) | ALPPS in Infants with Large Hepatic Tumor — nhũ nhi **6,2 kg, 67 cm**; **FLR 99,77 cm³ / ETLV 400,77 cm³ = 24%**; ngày 7 **173,79 cm³ (+74,1%) = 43%**; thì hai ngày 8; ra viện ngày 15; **u nguyên bào cơ vân ác tính** | https://pmc.ncbi.nlm.nih.gov/articles/PMC11898974/ | CC BY 4.0 | `images/1821_..._CT_PMC11898974-Fig5.jpg`, `...-Fig7.jpg` |
+| 5 | Europe PMC / *Front Oncol* 2026 (PMC13357168) | Preoperative evaluation of PHLF based on gadoxetic acid-enhanced MRI — ROI trên nhu mô gan còn lại ở **pha gan mật**, mô hình RLE-TBil (12 mô hình, AUC ≥ 0,9 nhóm tốt nhất) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13357168/ | CC BY | `images/1821_..._MRI-PT_PMC13357168-Fig2.jpg` |
+| 6 | Europe PMC / *J Hepatocell Carcinoma* 2025 (PMC12283857) | Functional Liver Imaging Score to Predict Clinically Significant PHLF — **885 ca HCC**; FLIS **0–6** (3 miền × 0–2); PHLF B–C **7,7% / 7,2%**; **AUC 0,746 / 0,717**; dự báo tử vong 90 ngày **AUC 0,704** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12283857/ | CC BY-NC | không tải ảnh |
+| 7 | Europe PMC / *BJS Open* 2025 (PMC12120443) | Magnetic resonance-derived hepatic uptake index (HUI) — **292 ca cắt gan lớn**, PHLF nặng **8,6%**; **HUI AUC 0,758** vs **sFLR 0,628**; **HUI + MELD 3 = 0,803** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12120443/ | CC BY | không tải ảnh |
+| 8 | Europe PMC / *EJNMMI Res* 2024 (PMC10927876) | Decreased mebrofenin uptake in non-colorectal liver tumors — ngưỡng **FLR 2,69%/min/m²** (de Graaf 2010), xác nhận ở **98 ca ALPPS** (Tomassini 2020); NCRLT **1,51 vs CRLM 2,49 %/min/m²** | https://pmc.ncbi.nlm.nih.gov/articles/PMC10927876/ | CC BY | không tải ảnh |
+| 9 | Europe PMC / *BJS Open* 2023 (PMC10727470) | Severe pleural effusion after hepatectomy — **4.715 ca**: tràn dịch nặng phải dẫn lưu **5,3%**, trung vị **ngày 7**; dùng cho mục cạm bẫy "cổ trướng/tràn dịch ≠ suy gan" (cũng là nguồn của bài 1820) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10727470/ | CC BY | không tải ảnh |
+| 10 | Europe PMC / *Ann Surg* 2025 (PMC12038414) | Multivariable prognostic models for PHLF: updated systematic review — bảng mô hình, tỷ lệ biến cố **4,7–43,1%** tùy định nghĩa; dùng để nêu **định nghĩa khác nhau làm tỷ lệ khác nhau** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12038414/ | CC BY-NC | không tải ảnh |
+
+## Ghi chú giấy phép
+- Ghi rõ giấy phép **từng ảnh** trong `images/CREDITS.md`; ảnh **CC BY 4.0** dùng kèm ghi công.
+- Ảnh ghép do `tools/make_composite.py` tạo từ 2 ảnh CC BY 4.0 (PMC11898974), giữ aspect, dải attribution.
+- Tên tác giả: chỉ ghi khi đã đối chiếu PMCID ↔ authorString; trong bài dùng dạng `Tạp chí Năm (PMCID)`.
+- Kiểm giấy phép từng file ngày 2026-11-02 (Europe PMC `license`).

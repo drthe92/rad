@@ -1058,3 +1058,5 @@
 - 2026-11-02: viết **1413** (tụt/mất cơ trực trong: 3 hình thái lost/slipped/stretched; AS-OCT 5/6, ±1 mm 78,7%, đổi quyết định mổ 39,2%; không thăm dò mù) — 3 ảnh CC BY/CC BY-NC-SA/CC BY-NC-ND.
 - 2026-11-02: viết **1414** (keratoconus ở Down: CCT 479 vs 536 µm, Kmax 49,2 vs 45,8 D, BAD-D 2,5; 15% mắt/9–18 tuổi, ≥ 3/4 tham số; CXL 8 mắt 0 biến chứng; DALK sống 67–85%; RMS HOA ICC 42,86) — 4 ảnh + 1 composite (CC BY 4.0 + CC BY-NC 4.0).
 - 2026-11-02: viết **1820** (rò mật–màng phổi: tràn dịch sau cắt gan 18,4–54,5%, nặng 5,3%, ngày 7; bilirubin dịch/máu > 1, > 4 tuần sau ghép; MRCP âm không loại trừ; 2.600 mL mủ → mật, rút ống ngày 23) — 4 ảnh + 1 composite; flip #1083/#1084; append #1853 (1438) + #1854 (1821) đã check_duplicates.
+- 2026-11-02: viết **1821** (PHLF: ISGLS A/B/C 0→54%, 50-50 59% vs 1,2%, sFLR 20/30/40%, 25%/40%, KGR ≥ 2%/tuần, HUI 0,758 vs 0,628, FLIS 0,746, ALPPS +68% vs +36%; ca nhũ nhi FLR 24%→43%) — 3 ảnh + 1 composite CC BY 4.0
+- 2026-11-02: viết **1822** (DCMRL 70 ca: 92,9/81,8/94,1%, ống ngực 78,6% vs 50%, 47,7% can thiệp được, 90,3% vs 62,5%; rò phút 12–20; THRIVE 3,0/1,5 ms) — 4 ảnh + 1 composite CC BY/CC BY-NC
