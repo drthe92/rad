@@ -197,7 +197,7 @@ RECLASS = {
     "1641": "mat", "3018": "mat", "3021": "mat", "6104": "mat",
     "6106": "mat", "6131": "mat", "6132": "mat", "658": "mat", "1422": "mat",
     # bài vật lý/protocol liều (đi cùng nhóm 932/935/937)
-    "9420": "canthiep", "9421": "canthiep", "3023": "dauco", "3046": "dauco", "3050": "dauco",
+    "9420": "canthiep", "9421": "canthiep", "1679": "msk", "3023": "dauco", "3046": "dauco", "3050": "dauco",
 }
 # Bài "Vú & SPK" cũ → tách: Vú (breast) vs Sản – Phụ khoa
 BREAST_TOKENS = {"vu", "num-vu", "hach-nach", "ho-nach", "tuyen-vu", "implant-nguc"}

@@ -1076,3 +1076,4 @@
 - 9421: CBCT nha khoa nhi; ED 9,26–300 µSv, giáp 1,24 mGy, FOV lớn 79,3% phát hiện ngoài ROI; chắn bismuth không hiệu quả.
 - 1677: RANO-LM (NANO-LM 14 mục + DNT + MRI-LMD grade 1–6, ICC 0,953; CSF nhạy 50–60%→80%).
 - 1678: đau xâm lấn đám rối — u vs xạ; LSP 124 ca (xạ 12,1%), RIBP 1,2%, theo dõi 4–8 tuần + EMG myokymia.
+- 1679: CTIBL — HU L1 ≤ 95,5 (Se 84,6/Sp 86,4), ADT hút xương −4,4%/12 tháng, denosumab > alendronate về gãy lún.
