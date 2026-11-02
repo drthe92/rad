@@ -1040,3 +1040,6 @@
 - 2026-11-02: viết 1669 (OHSS: 20–33% nhẹ, 3–8% trung bình–nặng, VTE 0,1–0,5%, 3 ảnh) + 1670 (UAF: tử vong 7–23%, CT nhạy 27–55%, 4 ảnh); verify 5/5.
 - 2026-11-02: flip #1061/#1062; append 2 gap mới 1742 (xoắn buồng trứng trên OHSS) và 1743 (huyết khối xoang/cảnh trong OHSS) — đã check_duplicates.
 - 2026-11-02: bài **1671** (ứ máu âm đạo–tử cung ở trẻ vị thành niên) — 3 ảnh CC BY 4.0, verify PASS; flip #1063, append #1837 (1744), #1838 (1745).
+
+- 2026-11-02: viết **1672** (u máu bánh nhau lớn — ngưỡng 4,7 cm, > 9 cm nặng, can thiệp 31,2% tử vong chu sinh/57,3% hết phù) + **1673** (truyền máu trong tử cung — Hct < 30%, 2,1% biến chứng/lần, IHUV 2% vs quai tự do 13,3%); 6 ảnh CC BY/CC BY-NC-ND, 0 composite vì ND.
+- 2026-11-02: flip #1064/#1065 → xong; append **1746** (hội chứng gương) + **1747** (FMH) đã check_duplicates; build_index 818 thẻ, parity 0.
