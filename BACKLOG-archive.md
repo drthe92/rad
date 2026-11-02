@@ -1051,3 +1051,5 @@
 - Viết 1431 (CPC mắt bơm dầu: slow-coag/micropulse/CW) + 1432 (thay dầu silicone: thiếu thể tích, nhũ tương, PFCL–dầu); 9 ảnh + 1 composite + 1 sơ đồ CC0; flip #1831/#1832, append #1841/#1842.
 - 2026-11-02: viết **1433** (viêm nội nhãn mắt bơm dầu: cấy âm 62%, lấy dầu muộn → 2 teo nhãn, lấy dầu 2 tuần → 6/9; PK q3/q2 ngày) + **1434** (hạ áp sau CPC & rách thể mi: 5,3%, atropine 6,3%, argon 7/7, cyclopexy 50%/lần; UBM là chốt); 7 ảnh CC BY/CC BY-NC/CC BY-NC-ND, không composite vì có ND.
 - 2026-11-02: flip #1841/#1842 → xong; append #1843 (1435 phù hoàng điểm sau CPC) + #1844 (1436 rách thể mi sau MIGS/Yamane) — đã check_duplicates; verify PASS 6/6, 825 bài/825 card, parity 0.
+2026-11-02 · 6129 đốt nhiệt nốt phổi ở trẻ: 91 ca hepatoblastoma (31 RFA vs 60 mổ), DCR 96,43% vs 96,67%, viêm phổi 19,35% vs 96,67%, biên ≥ 5 mm OR 0,06; 2 ảnh + 1 composite CC BY.
+2026-11-02 · 6130 viêm phổi do thuốc ở trẻ sarcoma: 6 mẫu hình CT, bleomycin 10–20% (tử vong 1–3%), ALL nhi 6,82%, DLCO giảm 39% ở người sống sót; 4 ảnh + 1 composite CC BY.
