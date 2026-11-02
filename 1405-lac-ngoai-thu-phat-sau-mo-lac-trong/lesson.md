@@ -178,6 +178,7 @@ flowchart TD
 - [469 – Lác & nhược thị ở trẻ sinh non/ROP](../469-lac-nhuoc-thi-tre-sinh-non-rop/lesson.md) (bịt mắt/atropine)
 - [477 – Bệnh thị giác hai mắt](../477-benh-ty-the-thi-giac-tai/lesson.md) (lập thể và dung hợp)
 - [1412 – Đo khúc xạ lý liệt ở trẻ có nhu cầu đặc biệt](../1412-do-khuc-xa-ly-liet-tre-dac-biet/lesson.md) (Down, bại não, tự kỷ — nhóm P4)
+- [1413 – Tụt/mất cơ trực trong sau mổ lác: MRI/AS-OCT định vị, khi nào mổ lại](../1413-tut-mat-co-truc-trong-sau-mo-lac/lesson.md) (biến cố cấp tính 2 tuần đầu, khác sẹo giãn muộn)
 
 ## Ảnh
 - Ảnh lấy từ **Europe PMC/PMC** (bản open access), giữ **nguyên bản**, **không crop/ghép** (2/3 ảnh là CC BY-NC-SA/CC BY-NC-ND).

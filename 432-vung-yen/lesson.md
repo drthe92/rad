@@ -130,6 +130,7 @@ flowchart TD
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
 - [430 – Đường thị giác](../430-duong-thi-giac/lesson.md) (giao thoa)
 - [431 – U thần kinh thị](../431-u-than-kinh-thi/lesson.md) (chèn ép thần kinh thị)
+- [1710 – Đái tháo nhạt trung ương sau mổ tuyến yên: tam pha, điểm sáng thùy sau trên T1, desmopressin](../1710-dai-thao-nhat-trung-uong-sau-mo-tuyen-yen/lesson.md)
 - [218 – Thoát vị não & úng thủy](../218-thoat-vi-nao-ung-thuy/lesson.md) (hiệu ứng choán chỗ nội sọ)
 
 ## Ảnh

@@ -74,5 +74,6 @@ certainty: tong-hop-y-van
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
 - [410 – Giải phẫu hốc mắt](../410-giai-phau-hoc-mat/lesson.md) (cơ thẳng dưới)
 - [421 – Lồi mắt Graves](../421-loi-mat-Graves/lesson.md) (lồi mắt không chấn thương)
+- [1413 – Tụt/mất cơ trực trong sau mổ lác: MRI/AS-OCT định vị, khi nào mổ lại](../1413-tut-mat-co-truc-trong-sau-mo-lac/lesson.md)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

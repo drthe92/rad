@@ -1046,7 +1046,6 @@
 - 2026-11-02: **1066 (308 MRONJ)** và **1067 (1674 CSP)** hóa ra đã có bài **6108** và **552** — `check_duplicates` bỏ sót vì khác tên; đánh dấu gộp, không tạo bài trùng. Ghi chú: **AAOMS 2022 chỉ có độ 0–3**, dòng đề bài "0–4" là sai.
 - 2026-11-02: viết **1416** (glôcôm do dầu silicone: pupillary block 60–67 mmHg vs nhũ tương 0,7–56%, cắt bè 40–60% · van 62–80% · CPC 44–81,8%) + **1417** (giữ dầu vĩnh viễn: retinectomy tái phát 33,3%, dầu đục sau 1 năm → nhãn áp 48); 7 ảnh + 1 composite (CC BY 4.0 + 1 ảnh CC BY-NC-ND nguyên bản).
 - 2026-11-02: flip #1086/#1087 → xong; append **1418** (CPC ở mắt có dầu) + **1419** (thay dầu silicone) đã check_duplicates; build_index 821 thẻ.
-
 ## 2026-11-02 — worker rad-backlog
 - Viết 1431 (CPC mắt bơm dầu: slow-coag/micropulse/CW) + 1432 (thay dầu silicone: thiếu thể tích, nhũ tương, PFCL–dầu); 9 ảnh + 1 composite + 1 sơ đồ CC0; flip #1831/#1832, append #1841/#1842.
 - 2026-11-02: viết **1433** (viêm nội nhãn mắt bơm dầu: cấy âm 62%, lấy dầu muộn → 2 teo nhãn, lấy dầu 2 tuần → 6/9; PK q3/q2 ngày) + **1434** (hạ áp sau CPC & rách thể mi: 5,3%, atropine 6,3%, argon 7/7, cyclopexy 50%/lần; UBM là chốt); 7 ảnh CC BY/CC BY-NC/CC BY-NC-ND, không composite vì có ND.
@@ -1055,3 +1054,5 @@
 2026-11-02 · 6130 viêm phổi do thuốc ở trẻ sarcoma: 6 mẫu hình CT, bleomycin 10–20% (tử vong 1–3%), ALL nhi 6,82%, DLCO giảm 39% ở người sống sót; 4 ảnh + 1 composite CC BY.
 - 2026-11-02: viết **6705** (bệnh van do xạ: canxi vành trước/AMC, mổ lại 17%, TAVI 5 năm 11,7% vs 12,5%, van cơ học 11,0 vs sinh học 10,9 năm) + **1709** (ACTH lạc chỗ ẩn: u ẩn 15%, SSTR PET 57–82%, BLA 27,2%); flip #1071/#1078; append #1847 (6706 mạch vành do xạ) + #1848 (1748 Cushing tái phát) đã check_duplicates.
 - 2026-11-02: viết **1429** (lỗ hoàng điểm thứ phát sau mổ ROP/bong: màng ối đóng 91–100% nhưng chỉ 66% cải thiện thị lực; ILM mất → không vạt ILM; MLD 715 µm; trôi graft 6%) + **1729** (suy tủy ²²⁵Ac-PSMA: độ ≥3 thiếu máu 9–13%, G3 21,1% ở đoàn hệ dài; liều tủy 0,16 Gy RBE=5/200 µCi; Hb nền HR 0,16; PSMA-TV HR 3,4); flip #1825/#1826; append #1849 (1837 dầu tiền phòng) + #1850 (1838 khô miệng ²²⁵Ac) — đã check_duplicates; 8 ảnh (5 CC BY, 3 CC BY-NC-ND), không composite vì có ND.
+- 2026-11-02: viết **1710** (ĐTNN sau mổ tuyến yên: DI 20%, thoáng qua 27,6%, tam pha 1/58; nhi 69,7% và tam pha 54,8%; PPBS 2–8 mm ở 95,9%, mất rồi tái hiện; desmopressin 0,05 mg) — 3 ảnh CC BY.
+- 2026-11-02: viết **1413** (tụt/mất cơ trực trong: 3 hình thái lost/slipped/stretched; AS-OCT 5/6, ±1 mm 78,7%, đổi quyết định mổ 39,2%; không thăm dò mù) — 3 ảnh CC BY/CC BY-NC-SA/CC BY-NC-ND.
