@@ -1064,3 +1064,5 @@
 - 2026-11-02: append #1857 (968 AIT type 1/2) + #1858 (972 bướu giáp thòng trung thất) — đã check_duplicates.
 - 2026-11-02: viết **1823** (trametinib trong dị dạng bạch huyết RAS/MAPK) — 6 nhũ nhi Noonan 0,02 mg/kg/ngày (5/6 rút ống dẫn lưu sau 6 tuần, ống ngực vẫn bất thường), 7 nhũ nhi CCLA 0,01 mg/kg/ngày (6/7 rút ống 5–13 ngày), TRAM-01 0,025/0,032 mg/kg/ngày, rhabdomyolysis CK 332→2.247 U/L; 5 ảnh + 1 composite (CC BY/CC BY-NC); verify PASS 6/6, 839 bài/839 card.
 - 2026-11-02: append 2 khoảng trống 6144 (chylopericardium ở trẻ) + 6143 (PLE do bạch huyết ở trẻ), đã check_duplicates exit 0.
+- 2026-11-02: viết **941** (đốt nhiệt tuyến cận giáp; PTH washout/4D-CT; 6 ảnh CC BY) và **1824** (rò mật–phế quản; 5 ảnh, 1 NC-ND); verify PASS 6/6, 841 bài/841 card; backlog chờ viết 130.
+- 2026-11-02: không append mục mới (2 ID dự kiến 937/6133 đã có hàng chờ) — tránh tăng backlog_duplicate_ids.

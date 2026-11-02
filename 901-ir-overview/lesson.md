@@ -40,6 +40,8 @@ certainty: tong-hop-y-van
 - [1629 – Đốt nhiệt nhân giáp lành tính đặc (RFA/MWA)](../1629-dot-nhiet-nhan-giap-lanh-tinh-dac/lesson.md) *(đã có)*
 - [940 – Nhân giáp ĐỘC (toxic adenoma/AFTN): RFA–MWA vs I-131 vs mổ](../940-dot-nhiet-nhan-giap-doc-aftn-rfa-vs-i131/lesson.md) *(mới — nối 1629/230)*
 - [940 – Nhân giáp ĐỘC (toxic adenoma/AFTN): RFA–MWA vs I-131 vs mổ](../940-dot-nhiet-nhan-giap-doc-aftn-rfa-vs-i131/lesson.md) *(mới — nối 1629/1622/230)*
+- [941 – Đốt nhiệt tuyến cận giáp (adenoma): PTH washout, 4D-CT & ranh giới với đốt nhầm nhân giáp](../941-dot-tuyen-can-giap/lesson.md) *(mới — nối 940/1629/230)*
+- [1824 – Rò mật–phế quản (bronchobiliary fistula): biliptysis, giải áp mật → bít phế quản → mổ](../1824-ro-mat-phe-quan/lesson.md) *(mới — nối 1820/930/934)*
 - [1819 – Chảy máu tiêu hóa muộn do giả phình động mạch tạng (GDA/tụy–tá tràng): sentinel bleed = CTA ngay, nút mạch 93,5% lâm sàng](../1819-chay-mau-muon-gia-phinh-mach-tang/lesson.md) *(mới — nối 920/135/930)*
 - [1811 – Loét & hẹp thực quản–dạ dày–tá tràng do vi cầu lạc vị sau TACE/TARE: hẹp muộn 1–12 tháng, nong bóng → stent/EUS-GJ](../1811-loet-da-day-ta-trang-sau-tace-tare/lesson.md) *(đã có — bổ sung nhánh hẹp)*
 - [934 – Sốc phản vệ do vỡ nang sán khi can thiệp](../934-soc-phan-ve-do-vo-nang-san/lesson.md) *(đã có)*

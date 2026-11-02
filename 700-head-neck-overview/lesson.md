@@ -59,6 +59,7 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [230 – Tuyến giáp TI-RADS](../230-tuyen-giap-hach-co/lesson.md) *(giữ nguyên dải 200)*
 - [1622 – Đốt cồn nang giáp lành tính](../1622-dot-con-nang-giap-pei/lesson.md) *(đã có)*
+- [941 – Đốt nhiệt tuyến cận giáp: PTH washout, 4D-CT & bẫy “đốt nhầm nhân giáp”](../941-dot-tuyen-can-giap/lesson.md) *(mới)*
 - [710 – Mũi xoang & OMC](../710-sinonasal-ct-anatomy/lesson.md) *(đã có)*
 - [730 – Nhiễm trùng cổ sâu](../730-deep-neck-infections/lesson.md) *(đã có)*
 - [741 – Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR](../741-di-dang-mach-mau-dau-co-o-tre/lesson.md) *(đã có)*
@@ -84,6 +85,7 @@ certainty: tong-hop-y-van
 - 740 – Tuyến nước bọt: U hỗn hợp, Warthin & Ác tính *(đã có — [bài học](../740-salivary-gland-tumors/lesson.md))*
 - 741 – Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR *(đã có — [bài học](../741-di-dang-mach-mau-dau-co-o-tre/lesson.md))*
 - 750 – Bản đồ Hạch cổ (I–VII) & ACR NI-RADS *(đã có — [bài học](../750-cervical-lymph-nodes-nirads/lesson.md))*
+- 941 – Đốt nhiệt tuyến cận giáp (adenoma): PTH washout, 4D-CT, đốt cồn/nhiệt & bẫy đốt nhầm nhân giáp *(mới — [bài học](../941-dot-tuyen-can-giap/lesson.md))*
 - 743 – Chảy máu cam nặng/tái diễn ở trẻ: nội soi, CTA, DSA & nút mạch (JNA, HHT), Fisch *(đã có — [bài học](../743-chay-mau-cam-nang-o-tre/lesson.md))*
 - 744 – Chảy máu cam ở trẻ có rối loạn đông máu: xét nghiệm, desmopressin/TXA & ngưỡng truyền *(đã có — [bài học](../744-chay-mau-cam-tre-roi-loan-dong-mau/lesson.md))*
 - 745 – HHT ở trẻ: Curaçao (kém tin cậy ở trẻ), tầm soát PAVM (TTCE/CT, ngưỡng động mạch nuôi ≥ 3 mm) & bAVM (MRI/MRA → DSA), bậc thang chảy máu cam (ESS) *(mới — [bài học](../745-hht-o-tre-tam-soat-avm-phoi-nao/lesson.md))*
