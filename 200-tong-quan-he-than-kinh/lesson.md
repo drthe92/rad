@@ -183,6 +183,7 @@ certainty: tong-hop-y-van
 - [1784 – Hội chứng tưới máu quá mức (CHS) sau tái thông moyamoya: ASL/CTP, ΔCBF > 43,48, phân biệt chảy máu – nhồi máu](../1784-hoi-chung-tuoi-mau-qua-muc-sau-tai-thong-moyamoya/lesson.md) *(mới — nối 1780/1782/207)*
 - [207 – Phình mạch nội sọ chưa vỡ: PHASES/ELAPSS/UIATS, ngấm thành HR-vwMRI & quyết định điều trị](../207-phinh-mach-noi-so-chua-vo/lesson.md) *(mới)*
 - [1659 – Di căn màng não – nội tủy (LM): ngấm màng mềm theo rãnh vs màng cứng, grade MRI-LMD 1–6, CSF ≥ 10 mL & type I/II EANO–ESMO](../1659-di-can-mang-nao-noi-tuy/lesson.md) *(mới)*
+- [1676 – Bồn Ommaya: vị trí đầu catheter, biến chứng & kiểm tra chức năng bằng cản quang](../1676-bon-ommaya-vi-tri-catheter/lesson.md) *(mới — đầu catheter sừng trán 96%/thân 4%, nhiễm 5–8%, lạc 3/68 freehand; bơm cản quang phân biệt tắc/rò)*
 
 ## Quy hoạch Master Curriculum Hệ Thần kinh (200–249)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số. Giữ nguyên 100% ID `211, 212, 213` đã tạo.

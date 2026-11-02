@@ -198,6 +198,7 @@ flowchart TD
 </details>
 
 ## Bài liên quan chéo
+- [1676 – Đặt bồn Ommaya: vị trí catheter, biến chứng & kiểm tra bồn bằng cản quang](../1676-bon-ommaya-vi-tri-catheter/lesson.md) *(thủ thuật của chính đường đưa thuốc)*
 - [213 – U não](../213-u-nao/lesson.md)
 - [214 – Nhiễm trùng thần kinh trung ương](../214-nhiem-trung-tktw/lesson.md)
 - [218 – Thoát vị não & não úng thủy (thang Evans)](../218-thoat-vi-nao-ung-thuy/lesson.md)
