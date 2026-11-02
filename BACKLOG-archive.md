@@ -1068,3 +1068,5 @@
 - 2026-11-02: không append mục mới (2 ID dự kiến 937/6133 đã có hàng chờ) — tránh tăng backlog_duplicate_ids.
 - 2026-11-02: viết **1825** (SFSS: GRWR ≥0,8%/GV-SLV ≥40% → <10%; PVP >20 mmHg → PIM; PVF 250–300 mL/phút/100 g; 18,2% vẫn độ B/C dù cắt lách; sai số thể tích CT 12,7–17,1%; tách HVOO gradient >3 mmHg và cướp máu lách) — 5 ảnh (4 CC BY, 1 CC BY-NC-ND); flip #1093.
 - 2026-11-02: **6133 gộp vào 6100** (chăm sóc tại nhà: ID = tuổi/4+4, thay ống đầu ngày 5–7, định kỳ 2–3 tuần, 421 trẻ X-quang thường quy chỉ 3 ca bất thường, sụp trên lỗ mở 57,3%); append #1115 (1826 hẹp ĐM gan) + #1116 (6139 loét quanh lỗ mở), đã check_duplicates exit 0.
+- 2026-11-02: viết **937** (liều CT ở trẻ: SSDE cao hơn CTDIvol trung vị 88%, DRL bụng 1,4–4,7 mGy/SSDE 4,1–7,2 mGy, auto prescription −40–48%, lệch tâm 3.394 mGy·cm >10× trung vị; 4 ảnh, 2 NC-ND) — verify PASS 6/6, 843 bài/843 card.
+- 2026-11-02: append 2 khoảng trống 9420 (bảo vệ thủy tinh thể/tuyến giáp trong CT sọ–cổ trẻ) + 9421 (CBCT nón nha khoa ở trẻ), đã check_duplicates exit 0.

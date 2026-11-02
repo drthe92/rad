@@ -446,4 +446,7 @@ certainty: tong-hop-y-van
 **Tiêu hóa – bụng cấp nhi (mới)**
 - 1668 – Viêm ruột thừa ở trẻ dưới 3 tuổi và sơ sinh: **thủng 100% (< 2 tuổi) · 83,3% (2–3 tuổi) · 47,3% (> 5 tuổi)**, tử vong **78% (1901–1975) → 23% (1990–2014)**; **NA 0,04–0,2%**, nam:nữ **≈ 3:1**; **chướng bụng 52,2%**, ấn đau **chỉ 8,7%**, **NEC đồng thời 20,3%**; **WBC bình thường 17,4%**, **CRP tăng 85,5%**; siêu âm: **ruột thừa thấy được 65%**, **< 4 mm là bình thường**, bệnh **4,6 ± 1,8 mm**, **hơi tự do 20% (trước gan)**, **phát hiện thủng 75%**; **40/69 ca (58%) điều trị bảo tồn** trong loạt hồi cứu nhưng **không có RCT** *(đã có — [bài học](../1668-viem-ruot-thua-o-tre-duoi-3-tuoi/lesson.md))*
 
+**Vật lý – an toàn bức xạ nhi (mới)**
+- 937 – Liều CT ở trẻ: **SSDE = CTDIvol × hệ số kích thước** (TG-204 thân, TG-293 đầu), **SSDE cao hơn CTDIvol trung vị 88% (IQR 66–112%)**, **Deff vs Dw lệch ~10,08%**; **DRL bụng–chậu 5/15/30/50/80 kg = 1,4/2,2/2,7/4,0/4,7 mGy** và **SSDE DRL 4,1/5,0/5,7/7,1/7,2 mGy**; **auto prescription giảm 48,2% (0–1 tuổi)**; **lệch tâm → DLP 3.394 mGy·cm, > 10× trung vị**; **không cộng thô CTDIvol/SSDE để tính liều tích lũy** *(mới — [bài học](../937-lieu-ct-tre-ssde-drl/lesson.md))* *(nối 932/935/605)*
+
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

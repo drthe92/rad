@@ -150,6 +150,7 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [932 – An toàn bức xạ trong CT và DSA](../932-an-toan-buc-xa-ct-dsa/lesson.md)
+- [937 – Liều CT ở trẻ: SSDE, DRL nhi & liều tích lũy](../937-lieu-ct-tre-ssde-drl/lesson.md) *(CT, không phải fluoroscopy)*
 - [900 – Nền tảng can thiệp: sinh thiết & dẫn lưu](../900-ir-fundamentals-biopsy/lesson.md)
 - [600 – Tổng quan Nhi khoa: ALARA và thể tích phổi sơ sinh](../600-tong-quan-nhi-khoa/lesson.md)
 
