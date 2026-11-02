@@ -21,7 +21,7 @@ REQUIRED_SCORES = ["LI-RADS", "Lung-RADS", "BI-RADS", "O-RADS", "TI-RADS",
 TABS = [("", "🌐 Tất cả"), ("nguc", "🫁 Ngực"), ("bung", "🩺 Bụng"),
         ("thankinh", "🧠 TK & Cổ"), ("msk", "🦴 MSK"), ("mat", "👁️ Mắt"),
         ("vuspk", "🌸 Vú & SPK"), ("nhi", "👶 Nhi"), ("dauco", "👃 Đầu Cổ"),
-        ("tim", "❤️ Tim"), ("canthiep", "🧰 Can thiệp"), ("khac", "🧩 Khác")]
+        ("tim", "❤️ Tim"), ("canthiep", "🧰 Can thiệp")]
 
 
 def spec_of(uid):
@@ -35,6 +35,261 @@ def spec_of(uid):
 
 # ID 4 chữ số là dải tràn (overflow) — gán phân hệ thủ công cho đúng tab.
 SPEC_OVERRIDE = {"6104": "nhi", "6105": "nhi", "6107": "nhi", "6108": "nhi", "6110": "nhi", "6134": "nhi", "6111": "nhi", "6112": "nhi", "6113": "nhi", "6114": "nhi", "6115": "nhi", "6116": "nhi", "6117": "nhi", "6120": "nhi", "6118": "nhi", "6121": "nhi", "1601": "vuspk", "1602": "vuspk", "1604": "vuspk", "1605": "vuspk", "1606": "vuspk", "1607": "vuspk", "1608": "bung", "1609": "vuspk", "1628": "vuspk", "1632": "vuspk", "1630": "vuspk", "1610": "vuspk", "1611": "vuspk", "1636": "vuspk", "1780": "nhi", "1801": "bung", "1803": "nhi", "1805": "nhi", "6102": "nhi", "6103": "nhi", "6701": "nhi", "1622": "dauco", "1633": "bung", "1634": "vuspk", "1635": "vuspk", "1637": "vuspk", "3003": "thankinh", "1627": "mat", "1613": "vuspk", "1614": "vuspk", "1600": "vuspk", "1690": "vuspk", "1691": "vuspk", "1692": "vuspk", "1693": "tim", "1408": "mat", "3004": "nhi", "1618": "vuspk", "1901": "bung", "1902": "bung", "1903": "bung", "1904": "bung", "1905": "bung", "1906": "bung", "1907": "bung", "1623": "vuspk", "1615": "msk", "1626": "vuspk", "1664": "vuspk", "1665": "vuspk", "1616": "vuspk", "1782": "nhi", "1420": "mat", "1421": "mat", "1410": "mat", "1795": "nhi", "1620": "vuspk", "1621": "vuspk", "1624": "vuspk", "1625": "nhi", "1640": "vuspk", "1804": "nhi", "1806": "bung", "1807": "bung", "1809": "bung", "1810": "bung", "3001": "nhi", "3002": "thankinh", "3012": "thankinh", "3013": "thankinh", "3014": "thankinh", "3015": "thankinh", "3016": "thankinh", "3017": "msk", "3018": "thankinh", "3019": "msk", "3020": "thankinh", "3021": "thankinh", "3022": "thankinh", "3024": "thankinh", "3025": "thankinh", "3026": "thankinh", "3027": "thankinh", "3030": "thankinh", "3031": "thankinh", "3032": "thankinh", "3033": "thankinh", "3034": "thankinh", "3035": "thankinh", "3036": "thankinh", "3037": "thankinh", "3038": "thankinh", "3039": "thankinh", "3040": "thankinh", "3041": "thankinh", "3043": "thankinh", "3023": "thankinh", "3046": "thankinh", "3005": "nhi", "3006": "nhi", "3009": "nhi", "3010": "nhi", "3047": "nhi", "3048": "nhi", "1703": "nhi", "1802": "nhi", "6101": "nhi", "6119": "nhi", "3050": "thankinh", "3008": "nhi", "1657": "vuspk", "1661": "vuspk", "1717": "vuspk", "1815": "nhi", "1816": "canthiep", "3011": "bung", "3051": "dauco", "3049": "nhi", "3052": "nhi", "3068": "nhi", "3069": "nhi", "3070": "nhi", "3071": "nhi", "1672": "vuspk", "1673": "vuspk"}
+
+
+# ── Phân loại bài ID 4 chữ số (dải tràn) ──────────────────────────────────
+# Đã rà tay 141 bài từng nằm ở "Khác" (2026-11). Bài mới ID 4 chữ số:
+# hoặc thêm vào CLASSIFY_4D, hoặc gắn tag `vung:` khớp VUNG_SPEC; nếu không
+# build_index.py sẽ DỪNG và liệt kê bài chưa phân loại (không được để "Khác").
+CLASSIFY_4D = {
+    "1402": "mat",
+    "1403": "mat",
+    "1404": "mat",
+    "1405": "mat",
+    "1406": "mat",
+    "1407": "mat",
+    "1409": "mat",
+    "1411": "mat",
+    "1412": "mat",
+    "1413": "mat",
+    "1414": "mat",
+    "1415": "mat",
+    "1416": "mat",
+    "1417": "mat",
+    "1422": "bung",
+    "1423": "thankinh",
+    "1425": "mat",
+    "1429": "mat",
+    "1431": "mat",
+    "1432": "mat",
+    "1433": "mat",
+    "1434": "mat",
+    "1603": "vuspk",
+    "1612": "vuspk",
+    "1617": "thankinh",
+    "1619": "vuspk",
+    "1629": "dauco",
+    "1631": "vuspk",
+    "1638": "vuspk",
+    "1639": "msk",
+    "1641": "thankinh",
+    "1642": "vuspk",
+    "1643": "mat",
+    "1644": "nhi",
+    "1645": "vuspk",
+    "1648": "bung",
+    "1649": "vuspk",
+    "1650": "msk",
+    "1651": "msk",
+    "1652": "msk",
+    "1653": "vuspk",
+    "1654": "vuspk",
+    "1655": "vuspk",
+    "1656": "vuspk",
+    "1659": "thankinh",
+    "1660": "bung",
+    "1662": "bung",
+    "1666": "bung",
+    "1667": "bung",
+    "1668": "nhi",
+    "1669": "vuspk",
+    "1670": "bung",
+    "1671": "vuspk",
+    "1675": "thankinh",
+    "1680": "bung",
+    "1681": "vuspk",
+    "1682": "nhi",
+    "1683": "bung",
+    "1686": "vuspk",
+    "1687": "vuspk",
+    "1694": "bung",
+    "1695": "canthiep",
+    "1696": "thankinh",
+    "1697": "thankinh",
+    "1699": "thankinh",
+    "1700": "thankinh",
+    "1701": "nhi",
+    "1702": "nhi",
+    "1704": "dauco",
+    "1705": "nhi",
+    "1706": "nhi",
+    "1707": "dauco",
+    "1708": "dauco",
+    "1709": "thankinh",
+    "1710": "thankinh",
+    "1711": "canthiep",
+    "1713": "dauco",
+    "1718": "msk",
+    "1719": "nhi",
+    "1720": "nhi",
+    "1725": "vuspk",
+    "1726": "vuspk",
+    "1729": "canthiep",
+    "1781": "thankinh",
+    "1783": "thankinh",
+    "1784": "thankinh",
+    "1796": "vuspk",
+    "1797": "thankinh",
+    "1798": "thankinh",
+    "1808": "canthiep",
+    "1811": "bung",
+    "1812": "nhi",
+    "1813": "nhi",
+    "1814": "bung",
+    "1817": "bung",
+    "1819": "bung",
+    "1820": "bung",
+    "1821": "bung",
+    "1822": "canthiep",
+    "1831": "canthiep",
+    "1832": "canthiep",
+    "1833": "canthiep",
+    "1834": "canthiep",
+    "1908": "bung",
+    "1909": "bung",
+    "1910": "bung",
+    "1913": "bung",
+    "1914": "bung",
+    "1915": "bung",
+    "1916": "bung",
+    "3007": "thankinh",
+    "3028": "thankinh",
+    "3029": "thankinh",
+    "3044": "nhi",
+    "3045": "nhi",
+    "3053": "nhi",
+    "3059": "thankinh",
+    "3072": "nhi",
+    "3073": "nhi",
+    "6100": "nhi",
+    "6106": "nhi",
+    "6109": "nhi",
+    "6122": "nhi",
+    "6123": "nhi",
+    "6124": "nhi",
+    "6126": "nhi",
+    "6127": "nhi",
+    "6128": "nhi",
+    "6129": "nhi",
+    "6130": "nhi",
+    "6131": "nhi",
+    "6132": "nhi",
+    "6135": "nhi",
+    "6136": "nhi",
+    "6137": "nhi",
+    "6142": "nhi",
+    "6700": "nhi",
+    "6702": "nhi",
+    "6703": "nhi",
+    "6704": "nhi",
+    "6705": "nhi",
+}
+
+VUNG_SPEC = {
+    # mắt
+    "vong-mac": "mat", "hac-vong-mac": "mat", "vong-mac-hac-mac": "mat", "mat": "mat",
+    "hoc-mat": "mat", "nhan-cau": "mat", "nhan-cau-hoc-mat": "mat", "hoang-diem": "mat",
+    "giac-mac": "mat", "gai-thi": "mat", "than-kinh-thi": "mat", "the-thuy-tinh": "mat",
+    "tien-phong": "mat", "goc-tien-phong": "mat", "hac-mac": "mat", "be-mat-nhan-cau": "mat",
+    "cung-mac": "mat", "o-mat": "mat", "mi": "mat", "the-mi": "mat", "dich-kinh": "mat",
+    # đầu cổ
+    "dau-mat-co": "dauco", "xuong-mat": "dauco", "so-mat": "dauco", "ham-mat": "dauco",
+    "ham-duoi": "dauco", "loi-cau-ham-duoi": "dauco", "xuong-ham": "dauco",
+    "khop-thai-duong-ham": "dauco", "mui": "dauco", "xoang": "dauco", "tuyen-giap": "dauco",
+    "tuyen-bot": "dauco", "tuyen-mang-tai": "dauco", "tuyen-nuoc-bot": "dauco",
+    "xuong-thai-duong": "dauco", "xuong-da": "dauco", "tai-giua": "dauco", "tai-trong": "dauco",
+    "tai": "dauco", "oc-tai": "dauco", "ong-tai-ngoai": "dauco", "ong-tai-trong": "dauco",
+    "co": "dauco", "co-sau": "dauco", "co-canh": "dauco", "mach-co": "dauco",
+    "mach-co-dau-co": "dauco", "dau-co": "dauco", "hong": "dauco", "hau-mieng": "dauco",
+    "thanh-quan": "dauco", "duong-nuot": "dauco", "duong-tho-tren": "dauco",
+    "clivus": "dauco", "xuong-cham": "dauco",
+    # tim
+    "tim": "tim", "tim-phai": "tim", "cotim": "tim", "vanh": "tim", "van-tim": "tim",
+    "mach-tim": "tim", "mong-tim": "tim", "dong-mach-chu-nguc": "tim", "mang-tim": "tim",
+    # ngực
+    "phoi": "nguc", "phe-quan": "nguc", "trung-that": "nguc", "long-nguc": "nguc",
+    "thanh-nguc": "nguc", "mang-phoi": "nguc", "mong-phoi": "nguc", "hoanh": "nguc",
+    "co-hoanh": "nguc", "khi-quan": "nguc", "duong-tho": "nguc", "mach-nguc": "nguc",
+    "ron-phoi": "nguc", "dong-mach-phoi": "nguc",
+    # vú & sản phụ khoa
+    "vu": "vuspk", "num-vu": "vuspk", "tu-cung": "vuspk", "co-tu-cung": "vuspk",
+    "buong-tu-cung": "vuspk", "seo-tu-cung": "vuspk", "eo-tu-cung": "vuspk",
+    "tu-cung-phan-phu": "vuspk", "buong-trung": "vuspk", "phan-phu": "vuspk",
+    "thai": "vuspk", "thai-nhi": "vuspk", "thai-ky": "vuspk", "nao-thai": "vuspk",
+    "than-thai": "vuspk", "banh-nhau": "vuspk", "nhau-thai": "vuspk", "am-dao": "vuspk",
+    "am-ho": "vuspk", "sinh-duc": "vuspk", "sinh-duc-nu": "vuspk", "sinh-mon": "vuspk",
+    "san-chau": "vuspk", "day-chau": "vuspk", "manh-oi": "vuspk", "roi": "vuspk",
+    "tieu-khung": "vuspk", "chau": "vuspk", "hach-chau": "vuspk", "ho-nach": "vuspk",
+    "hach-nach": "vuspk", "duong-vat": "vuspk",
+    # bụng – tiêu hóa – gan mật – tụy – tiết niệu
+    "gan": "bung", "duong-mat": "bung", "duong-mat-trong-gan": "bung", "gan-mat": "bung",
+    "tui-mat": "bung", "tuy": "bung", "tuy-ta-trang": "bung", "ta-trang": "bung",
+    "lach": "bung", "ruot": "bung", "ruot-non": "bung", "ruot-thua": "bung",
+    "dai-trang": "bung", "da-day": "bung", "thuc-quan": "bung", "phuc-mac": "bung",
+    "hau-phuc-mac": "bung", "o-bung": "bung", "o-bung-tren": "bung", "tieu-hoa": "bung",
+    "ong-tieu-hoa": "bung", "mach-cua": "bung", "tm-cua": "bung", "tm-gan": "bung",
+    "tinh-mach-cua": "bung", "DMC-bung": "bung", "dong-mach-chu-bung": "bung",
+    "dong-mach-chu": "bung", "dong-mach-chau": "bung", "tinh-mach-chu-duoi": "bung",
+    "tm-chu-duoi": "bung", "than": "bung", "than-ghep": "bung", "tiet-nieu": "bung",
+    "nieu-quan": "bung", "bang-quang": "bung", "nieu-dao": "bung",
+    "tuyen-tien-liet": "bung", "tien-liet-tuyen": "bung", "truc-trang": "bung",
+    "hau-mon": "bung", "truc-trang-hau-mon": "bung", "ho-chau": "bung", "bung": "bung",
+    "ben-bung": "bung", "thanh-bung": "bung", "ron-bung": "bung", "sau-phuc-mac": "bung",
+    "quanh-manh-ghep": "bung", "dong-mach-gan": "bung", "dong-mach-than": "bung",
+    "tinh-mach-lach": "bung", "chuyen-hoa-lipid": "bung", "bung-tiet-nieu": "bung",
+    # thần kinh
+    "nao": "thankinh", "nao-that": "thankinh", "so-nao": "thankinh", "vo-nao": "thankinh",
+    "tieu-nao": "thankinh", "than-nao": "thankinh", "nao-tuy": "thankinh",
+    "nen-so": "thankinh", "goc-cau-tieu-nao": "thankinh", "mach-nao": "thankinh",
+    "tuy-song": "thankinh", "ong-song": "thankinh", "cot-song": "thankinh",
+    "tu": "thankinh", "thoat-vi": "thankinh", "tuyen-yen": "thankinh", "ho-yen": "thankinh",
+    "cuong-tuyen-yen": "thankinh", "giao-thoa": "thankinh", "xoang-tinh-mach": "thankinh",
+    "xoang-hang": "thankinh", "hach-canh-dmc": "thankinh", "quanh-nao-that": "thankinh",
+    "chat-trang": "thankinh", "dam-roi": "thankinh", "dam-roi-canh-tay": "thankinh",
+    "than-kinh-ngoai-bien": "thankinh", "ban-cau-dai-nao": "thankinh",
+    # cơ xương khớp
+    "xuong": "msk", "xuong-tre-em": "msk", "co-xuong": "msk", "co-xuong-khop": "msk",
+    "co-xuong-khop-nhi": "msk", "khop": "msk", "co-chan": "msk", "chi-tren": "msk",
+    "chi-duoi": "msk", "vai": "msk", "cung-cut": "msk", "xuong-cut": "msk",
+    "mo-mem": "msk", "phan-mem": "msk", "da-mo-mem": "msk", "cot-song-that-lung": "msk",
+    "tuy-that-lung": "msk", "duoi-ngua": "msk", "xuong-dai": "msk", "xuong-don": "msk",
+    "suon": "msk", "dinh-suon": "msk", "khung-chau": "msk", "khop-hang": "msk",
+    "khop-goi": "msk", "khop-vai": "msk", "cot-song-cung-cut": "msk",
+}
+# tag có hậu tố "-nhi" nhưng vùng là của người lớn: bỏ hậu tố rồi tra lại
+for _k in list(VUNG_SPEC):
+    if _k.endswith("-nhi"):
+        VUNG_SPEC.setdefault(_k[:-4], VUNG_SPEC[_k])
+
+SUB_SPEC = [
+    ("mat", r"\beye\b|ophthalm"),
+    ("vuspk", r"obgyn|breast|gyn|obstetric|sản|vú"),
+    ("thankinh", r"neuro"),
+    ("nguc", r"\bchest\b|thorac|hô hấp"),
+    ("bung", r"abdom|\bGI\b|gastro|hepat|genitourin|transplant|tiêu hóa|gan mật|niệu"),
+    ("msk", r"musculoskelet|\bMSK\b|orthop|cơ xương"),
+    ("dauco", r"head[_ &]?neck|\bENT\b|otol|salivary|thyroid|tai mũi họng|đầu cổ"),
+    ("tim", r"cardi|tim mạch"),
+    ("canthiep", r"\bIR\b|interventional|can thiệp"),
+    ("nhi", r"pediat|paediat|\bnhi\b|sơ sinh"),
+]
+
+
+def spec_for(uid, tags):
+    """Phân loại chuyên mục: ID 3 số theo dải; ID 4 số theo bảng đã rà / tag vùng / subspecialty."""
+    uid = str(uid)
+    if len(uid) <= 3:
+        return spec_of(uid)
+    if uid in CLASSIFY_4D:
+        return CLASSIFY_4D[uid]
+    if uid in SPEC_OVERRIDE:
+        return SPEC_OVERRIDE[uid]
+    if uid.startswith("6"):
+        return "nhi"
+    for tok in re.findall(r"vung:([A-Za-z0-9_.-]+)", tags):
+        if tok in VUNG_SPEC:
+            return VUNG_SPEC[tok]
+    return ""
 
 
 def frontmatter(path):
@@ -89,12 +344,14 @@ def build_page():
     old = root.joinpath("index.html").read_text(encoding="utf-8") if root.joinpath("index.html").exists() else ""
     keep = curated_copy(old)
 
-    recs, card_html, overviews = [], [], []
+    recs, card_html, overviews, unclassified = [], [], [], []
     for d in dirs:
         fm = frontmatter(f"{d}/lesson.md")
         tags = [t.strip() for t in fm["tags"].strip("[]").split(",") if t.strip()]
         uid = fm["unit_id"]
-        spec = SPEC_OVERRIDE.get(uid, spec_of(uid))
+        spec = spec_for(uid, fm["tags"])
+        if not spec:
+            unclassified.append(uid)
         scores = [t.split(":", 1)[1] for t in tags if t.startswith("score:")]
         cert = CERT_LABEL.get(fm["certainty"], fm["certainty"])
         k = keep.get(d, {})
@@ -126,6 +383,11 @@ def build_page():
             vi = vi[:1].upper() + vi[1:]
             overviews.append((uid, d, f"{uid} · {vi}"))
 
+    if unclassified:
+        print("BUILD_INDEX FAIL: chưa phân loại chuyên mục cho:", ", ".join(unclassified))
+        print("  → thêm ID vào CLASSIFY_4D trong tools/build_index.py (hoặc gắn tag vung: hợp lệ)")
+        return None, 0, 0, []
+
     ov_options = ['<option value="">📚 Bài tổng quan hệ (' + str(len(overviews)) + ")</option>"]
     ov_options += [f'<option value="view.html?b={d}&f=lesson.md">{html.escape(label)}</option>'
                    for _, d, label in sorted(overviews)]
@@ -153,6 +415,8 @@ def main(argv=None):
     import sys
     argv = sys.argv[1:] if argv is None else argv
     page, ncards, nchips, present = build_page()
+    if page is None:
+        return 1
     target = Path("index.html")
     if "--check" in argv:
         cur = target.read_text(encoding="utf-8") if target.exists() else ""

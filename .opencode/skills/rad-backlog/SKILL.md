@@ -119,6 +119,8 @@ Thứ tự nguồn và luật license: theo bảng nguồn trong `AGENTS.md` và
 
 - Bài tổng quan của hệ: thêm hàng DDx / link bài mới (nếu có).
 - `README.md`: thêm dòng ID (kiểm không lặp ID).
+- Bài có **ID 4 chữ số** (dải tràn): phải vào đúng hệ — thêm ID vào `CLASSIFY_4D` trong `tools/build_index.py`
+  (hoặc gắn `vung:` khớp `VUNG_SPEC`). Không có chuyên mục "Khác"; thiếu phân loại thì `build_index.py` DỪNG.
 - `index.html`: **BẮT BUỘC** chạy `python3 tools/build_index.py` sau khi thêm bài — file này sinh từ `tools/hub_template.html`, **không sửa tay** (sửa tay bị lượt sau ghi đè + cổng `hub` FAIL). Đổi UI (tabs/chips/filter/responsive) → sửa `tools/hub_template.html`.
 - `BACKLOG.md`: flip mục vừa viết sang `xong` (kèm số liệu chính, ngắn).
 
