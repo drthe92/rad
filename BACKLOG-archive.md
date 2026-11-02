@@ -1070,3 +1070,6 @@
 - 2026-11-02: **6133 gộp vào 6100** (chăm sóc tại nhà: ID = tuổi/4+4, thay ống đầu ngày 5–7, định kỳ 2–3 tuần, 421 trẻ X-quang thường quy chỉ 3 ca bất thường, sụp trên lỗ mở 57,3%); append #1115 (1826 hẹp ĐM gan) + #1116 (6139 loét quanh lỗ mở), đã check_duplicates exit 0.
 - 2026-11-02: viết **937** (liều CT ở trẻ: SSDE cao hơn CTDIvol trung vị 88%, DRL bụng 1,4–4,7 mGy/SSDE 4,1–7,2 mGy, auto prescription −40–48%, lệch tâm 3.394 mGy·cm >10× trung vị; 4 ảnh, 2 NC-ND) — verify PASS 6/6, 843 bài/843 card.
 - 2026-11-02: viết **1676** (bồn Ommaya: đầu catheter sừng trán 96%/thân 4%, nhiễm 5–8%, lạc 3/68 freehand, tụ dịch dưới màng cứng ngày 7 & bơm cản quang chứng minh không rò; 4 ảnh CC BY) — verify PASS 6/6, 844 bài/844 card; append 2 khoảng trống 9420 (bảo vệ thủy tinh thể/tuyến giáp trong CT sọ–cổ trẻ) + 9421 (CBCT nón nha khoa ở trẻ), check_duplicates exit 0.
+
+## Nhật ký 2026-11-03 (goal mode)
+- 9420: bảo vệ thủy tinh thể/tuyến giáp CT sọ–cổ nhi; nghiêng ≥ +5° → −87%, 25,9 vs 1,5 mGy, bismuth+AEC+OBTCM 71/59%; append 9422, 9423.
