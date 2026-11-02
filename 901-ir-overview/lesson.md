@@ -25,6 +25,8 @@ certainty: tong-hop-y-van
 | An toàn bức xạ (Radiation dose) | Phòng CT fluoroscopy/DSA | Tán xạ ngược vs tới, liều da bệnh nhân, liều nhân viên | DAP > 500 Gy·cm², air kerma > 5 Gy, chiếu > 60 phút = ngưỡng cảnh báo; áo chì 0,5 mm Pb giảm ~97%; CTF ít liều hơn DSA **9,1 lần** | `932` |
 | Nang giáp có triệu chứng (Cystic thyroid nodule) | Tuyến giáp (thyroid) | Nang thuần, nang ưu thế dịch, nang keo đặc, ung thư có thành phần nang | Dịch > 50% thể tích + FNA lành tính; VRR > 50% = thành công; khàn tiếng 0,53% | `1622`, `230` |
 | Nhân giáp ĐẶC lành tính (Solid benign nodule) | Tuyến giáp (thyroid) | RFA vs MWA vs PEI vs mổ; nhân đặc-ưu thế dịch | Bethesda II + > 2 cm đang lớn; VRR 12 tháng **−86% (RFA)/−80% (MWA)**; **IAR ≥ 49%** (AUC 0,87) và **≥ 73%** (AUC 0,84); biến chứng nặng **1,35%** | `1629`, `1622` |
+| **Nhân giáp ĐỘC/tự chủ (Toxic adenoma/AFTN)** | Tuyến giáp (thyroid) — nhân nóng đơn độc hoặc đa nhân | **STA** · **TMG** · nhân tiền độc · Graves · viêm giáp · TSHoma | **RFA STA khỏi 72% (1 lần)/81% (2 lần) vs TMG 25–33%**; **> 2,1 kJ/mL → 91% vs 44%**; **I-131: suy giáp 10–30%/1 năm, 30–60%/20 năm**; mổ: hormon thay thế tới **59%** sau lobectomy; nhân nóng vẫn có **8,5% ung thư/UMP** trong đoàn hệ xạ hình | `940`, `1629` |
+| **Nhân giáp ĐỘC/tự chủ (Toxic adenoma/AFTN)** | Tuyến giáp (thyroid) | **STA** vs **TMG** vs nhân nóng có ổ lạnh; RFA vs I-131 vs mổ | **STA khỏi 72% sau 1 lần, 81% sau 2 lần; TMG chỉ 25–33%**; năng lượng **> 2,1 kJ/mL** → khỏi **91% vs 44%**; I-131 gây suy giáp **10–30%/1 năm, 30–60%/20 năm**; nhân nóng vẫn có ung thư **8,5% (4/82)** | `940`, `1629`, `230` |
 | Sốc phản vệ trong can thiệp nang sán (Hydatid anaphylaxis) | Gan/phúc mạc (liver) | Dịch nang sán vs cản quang vs vasovagal vs sốc nhiễm trùng | Mày đay + co thắt phế quản/tụt HA trong **5–30 phút**; vỡ nang **3–17%**, phản vệ sau vỡ **~2%**; nang **≥ 7,8 cm** (AUC 0,83); adrenalin **0,5 mg IM** lặp mỗi **5 phút** | `934`, `139`, `933` |
 
 ## Bài liên quan chéo
@@ -36,6 +38,8 @@ certainty: tong-hop-y-van
 - [939 – Rò động mạch chủ–tĩnh mạch chủ (ACF): IVC ngấm thì động mạch, suy tim cung lượng cao, thận giảm ngấm](../939-ro-dong-mach-chu-tinh-mach-chu/lesson.md) *(mới — nối 938/170/172)*
 - [1622 – Đốt cồn nang giáp lành tính](../1622-dot-con-nang-giap-pei/lesson.md) *(đã có)*
 - [1629 – Đốt nhiệt nhân giáp lành tính đặc (RFA/MWA)](../1629-dot-nhiet-nhan-giap-lanh-tinh-dac/lesson.md) *(đã có)*
+- [940 – Nhân giáp ĐỘC (toxic adenoma/AFTN): RFA–MWA vs I-131 vs mổ](../940-dot-nhiet-nhan-giap-doc-aftn-rfa-vs-i131/lesson.md) *(mới — nối 1629/230)*
+- [940 – Nhân giáp ĐỘC (toxic adenoma/AFTN): RFA–MWA vs I-131 vs mổ](../940-dot-nhiet-nhan-giap-doc-aftn-rfa-vs-i131/lesson.md) *(mới — nối 1629/1622/230)*
 - [1819 – Chảy máu tiêu hóa muộn do giả phình động mạch tạng (GDA/tụy–tá tràng): sentinel bleed = CTA ngay, nút mạch 93,5% lâm sàng](../1819-chay-mau-muon-gia-phinh-mach-tang/lesson.md) *(mới — nối 920/135/930)*
 - [1811 – Loét & hẹp thực quản–dạ dày–tá tràng do vi cầu lạc vị sau TACE/TARE: hẹp muộn 1–12 tháng, nong bóng → stent/EUS-GJ](../1811-loet-da-day-ta-trang-sau-tace-tare/lesson.md) *(đã có — bổ sung nhánh hẹp)*
 - [934 – Sốc phản vệ do vỡ nang sán khi can thiệp](../934-soc-phan-ve-do-vo-nang-san/lesson.md) *(đã có)*
