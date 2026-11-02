@@ -1037,3 +1037,5 @@
 - 2026-11-01: flip #1055/#1058 → xong; append #1833→1837 (hẹp niệu quản thận ghép) + #1834→1838 (thoát vị nội sau RYGB), đã check_duplicates.
 - 2026-11-02: viết **1668** (viêm ruột thừa < 3 tuổi/sơ sinh — thủng 100% < 2 tuổi, NA 0,04–0,2%, siêu âm thấy 65%, < 4 mm bình thường, NEC đồng thời 20,3%) và **1675** (vô kinh trung ương trên MRI — prolactin > 250 µg/L, 3 vs 10 cm³, cuống dày + mất chấm sáng = viêm, empty sella 2–35%).
 - 2026-11-02: flip #1059/#1060 → xong; append #1833→1740 (Amyand hernia) + #1834→1741 (Kallmann/hành khứu giác), đã check_duplicates.
+- 2026-11-02: viết 1669 (OHSS: 20–33% nhẹ, 3–8% trung bình–nặng, VTE 0,1–0,5%, 3 ảnh) + 1670 (UAF: tử vong 7–23%, CT nhạy 27–55%, 4 ảnh); verify 5/5.
+- 2026-11-02: flip #1061/#1062; append 2 gap mới 1742 (xoắn buồng trứng trên OHSS) và 1743 (huyết khối xoang/cảnh trong OHSS) — đã check_duplicates.
