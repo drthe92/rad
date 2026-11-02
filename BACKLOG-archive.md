@@ -1074,3 +1074,4 @@
 ## Nhật ký 2026-11-03 (goal mode)
 - 9420: bảo vệ thủy tinh thể/tuyến giáp CT sọ–cổ nhi; nghiêng ≥ +5° → −87%, 25,9 vs 1,5 mGy, bismuth+AEC+OBTCM 71/59%; append 9422, 9423.
 - 9421: CBCT nha khoa nhi; ED 9,26–300 µSv, giáp 1,24 mGy, FOV lớn 79,3% phát hiện ngoài ROI; chắn bismuth không hiệu quả.
+- 1677: RANO-LM (NANO-LM 14 mục + DNT + MRI-LMD grade 1–6, ICC 0,953; CSF nhạy 50–60%→80%).
