@@ -1039,3 +1039,4 @@
 - 2026-11-02: flip #1059/#1060 → xong; append #1833→1740 (Amyand hernia) + #1834→1741 (Kallmann/hành khứu giác), đã check_duplicates.
 - 2026-11-02: viết 1669 (OHSS: 20–33% nhẹ, 3–8% trung bình–nặng, VTE 0,1–0,5%, 3 ảnh) + 1670 (UAF: tử vong 7–23%, CT nhạy 27–55%, 4 ảnh); verify 5/5.
 - 2026-11-02: flip #1061/#1062; append 2 gap mới 1742 (xoắn buồng trứng trên OHSS) và 1743 (huyết khối xoang/cảnh trong OHSS) — đã check_duplicates.
+- 2026-11-02: bài **1671** (ứ máu âm đạo–tử cung ở trẻ vị thành niên) — 3 ảnh CC BY 4.0, verify PASS; flip #1063, append #1837 (1744), #1838 (1745).
