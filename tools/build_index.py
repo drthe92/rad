@@ -131,6 +131,7 @@ CLASSIFY_4D = {
     "1796": "vuspk",
     "1797": "thankinh",
     "1798": "thankinh",
+    "1823": "canthiep",
     "1808": "canthiep",
     "1811": "bung",
     "1812": "nhi",

@@ -1062,3 +1062,5 @@
 - 2026-11-02: viết **1822** (DCMRL 70 ca: 92,9/81,8/94,1%, ống ngực 78,6% vs 50%, 47,7% can thiệp được, 90,3% vs 62,5%; rò phút 12–20; THRIVE 3,0/1,5 ms) — 4 ảnh + 1 composite CC BY/CC BY-NC
 - 2026-11-02: viết **940** (AFTN: STA khỏi 72%/81% vs TMG 25–33%; >2,1 kJ/mL → 91% vs 44%; I-131 suy giáp 10–30%/1 năm; mổ hormon tới 59%; nhân nóng vẫn 8,5% ung thư) — 2 ảnh CC BY 4.0; flip #1090.
 - 2026-11-02: append #1857 (968 AIT type 1/2) + #1858 (972 bướu giáp thòng trung thất) — đã check_duplicates.
+- 2026-11-02: viết **1823** (trametinib trong dị dạng bạch huyết RAS/MAPK) — 6 nhũ nhi Noonan 0,02 mg/kg/ngày (5/6 rút ống dẫn lưu sau 6 tuần, ống ngực vẫn bất thường), 7 nhũ nhi CCLA 0,01 mg/kg/ngày (6/7 rút ống 5–13 ngày), TRAM-01 0,025/0,032 mg/kg/ngày, rhabdomyolysis CK 332→2.247 U/L; 5 ảnh + 1 composite (CC BY/CC BY-NC); verify PASS 6/6, 839 bài/839 card.
+- 2026-11-02: append 2 khoảng trống 6144 (chylopericardium ở trẻ) + 6143 (PLE do bạch huyết ở trẻ), đã check_duplicates exit 0.
