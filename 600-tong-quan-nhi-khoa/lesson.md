@@ -439,4 +439,7 @@ certainty: tong-hop-y-van
 **Ngộ độc – hô hấp cấp cứu nhi (mới)**
 - 1720 – Ngộ độc cyanid do khói lửa ở trẻ: **lactat 16 mmol/L + PaO₂ bình thường + gradient A–V hẹp** mà **CT ngực/CT sọ BÌNH THƯỜNG**; **hydroxocobalamin 70 mg/kg (tối đa 5 g)/15 phút**, **không dùng nitrit**; gộp **512 ca: sống ra viện 66,0%**, **chromaturia 2,9%**, **AKI 38 ca/5 nghiên cứu**; nhiễu xét nghiệm so màu (creatinin, amylase, co-oximetry) *(đã có — [bài học](../1720-ngo-doc-cyanid-khoi-lua-o-tre/lesson.md))*
 
+**Tiêu hóa – bụng cấp nhi (mới)**
+- 1668 – Viêm ruột thừa ở trẻ dưới 3 tuổi và sơ sinh: **thủng 100% (< 2 tuổi) · 83,3% (2–3 tuổi) · 47,3% (> 5 tuổi)**, tử vong **78% (1901–1975) → 23% (1990–2014)**; **NA 0,04–0,2%**, nam:nữ **≈ 3:1**; **chướng bụng 52,2%**, ấn đau **chỉ 8,7%**, **NEC đồng thời 20,3%**; **WBC bình thường 17,4%**, **CRP tăng 85,5%**; siêu âm: **ruột thừa thấy được 65%**, **< 4 mm là bình thường**, bệnh **4,6 ± 1,8 mm**, **hơi tự do 20% (trước gan)**, **phát hiện thủng 75%**; **40/69 ca (58%) điều trị bảo tồn** trong loạt hồi cứu nhưng **không có RCT** *(đã có — [bài học](../1668-viem-ruot-thua-o-tre-duoi-3-tuoi/lesson.md))*
+
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

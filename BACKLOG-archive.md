@@ -1035,3 +1035,5 @@
 - 2026-11-01 — verify PASS 6/6 (809 bài/809 card, parity 0, authors PASS); BACKLOG flip 1829/1830 → xong, append 1835 (thiếu máu ruột sau nút mạch mạc treo) + 1836 (rò động–tĩnh mạch tạng), check_duplicates exit 0.
 - 2026-11-01: viết **1666** (hẹp niệu quản sau vá rò/sau xạ — RIUS 0,4–2,7%, nong bóng tái phát 5/5, nội soi 59% → 47% tái tạo, nghỉ niệu quản 13,4→4,6%) và **1667** (tắc ruột non do dính ở thai phụ — 52,1% quý 3, mổ 82,5%, MRI SSFSE/HASTE, gastrografin 90,5% vs 59,1%).
 - 2026-11-01: flip #1055/#1058 → xong; append #1833→1837 (hẹp niệu quản thận ghép) + #1834→1838 (thoát vị nội sau RYGB), đã check_duplicates.
+- 2026-11-02: viết **1668** (viêm ruột thừa < 3 tuổi/sơ sinh — thủng 100% < 2 tuổi, NA 0,04–0,2%, siêu âm thấy 65%, < 4 mm bình thường, NEC đồng thời 20,3%) và **1675** (vô kinh trung ương trên MRI — prolactin > 250 µg/L, 3 vs 10 cm³, cuống dày + mất chấm sáng = viêm, empty sella 2–35%).
+- 2026-11-02: flip #1059/#1060 → xong; append #1833→1740 (Amyand hernia) + #1834→1741 (Kallmann/hành khứu giác), đã check_duplicates.
