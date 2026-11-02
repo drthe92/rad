@@ -1053,3 +1053,4 @@
 - 2026-11-02: flip #1841/#1842 → xong; append #1843 (1435 phù hoàng điểm sau CPC) + #1844 (1436 rách thể mi sau MIGS/Yamane) — đã check_duplicates; verify PASS 6/6, 825 bài/825 card, parity 0.
 2026-11-02 · 6129 đốt nhiệt nốt phổi ở trẻ: 91 ca hepatoblastoma (31 RFA vs 60 mổ), DCR 96,43% vs 96,67%, viêm phổi 19,35% vs 96,67%, biên ≥ 5 mm OR 0,06; 2 ảnh + 1 composite CC BY.
 2026-11-02 · 6130 viêm phổi do thuốc ở trẻ sarcoma: 6 mẫu hình CT, bleomycin 10–20% (tử vong 1–3%), ALL nhi 6,82%, DLCO giảm 39% ở người sống sót; 4 ảnh + 1 composite CC BY.
+- 2026-11-02: viết **6705** (bệnh van do xạ: canxi vành trước/AMC, mổ lại 17%, TAVI 5 năm 11,7% vs 12,5%, van cơ học 11,0 vs sinh học 10,9 năm) + **1709** (ACTH lạc chỗ ẩn: u ẩn 15%, SSTR PET 57–82%, BLA 27,2%); flip #1071/#1078; append #1847 (6706 mạch vành do xạ) + #1848 (1748 Cushing tái phát) đã check_duplicates.

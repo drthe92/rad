@@ -272,7 +272,8 @@ certainty: tong-hop-y-van
 - [651 – Đánh giá đáp ứng & theo dõi sau điều trị Wilms (thể tích 500 cm³, DWI/ADC, tái phát)](../651-danh-gia-dap-ung-sau-dieu-tri-wilms/lesson.md) *(đã có)*
 - [6700 – Biến chứng muộn & chuyển tiếp sau Wilms: CKD/eGFR, bệnh cơ tim do anthracycline, vẹo cột sống sau xạ, ung thư thứ hai](../6700-di-chung-muon-sau-wilms-va-chuyen-tiep/lesson.md) *(mới)*
 - [6703 – Bệnh cơ tim do anthracycline ở người sống sót ung thư nhi: GLS vs LVEF, CTRCD, MRI tim (T1/ECV/LGE), ngưỡng điều trị & thai kỳ](../6703-benh-co-tim-do-anthracycline-o-nguoi-song-sot-ung-thu-nhi/lesson.md) *(mới)*
-- [6704 – Bệnh cơ tim do xạ ở người sống sót ung thư nhi: trường chiếu quyết định hình ảnh, MHD 15/30 Gy, ECV +0,136%/Gy, LGE vùng > 30 Gy, GLS giảm dù MHD 12,17 Gy](../6704-benh-co-tim-do-xa-o-nguoi-song-sot-ung-thu-nhi/lesson.md) *(mới)*
+- [6704 – Bệnh cơ tim do xạ ở người sống sót ung thư nhi: trường chiếu quyết định hình ảnh, MHD 15/30 Gy, ECV +0,136%/Gy, LGE vùng > 30 Gy, GLS giảm dù MHD 12,17 Gy](../6704-benh-co-tim-do-xa-o-nguoi-song-sot-ung-thu-nhi/lesson.md)
+- [6705 – Bệnh van tim do xạ: canxi vành trước/AMC + "ĐMC sứ", mổ lại 17% vs 3,7%, TAVI 5 năm không thua SAVR (11,7% vs 12,5%), van cơ học vs sinh học 11,0 vs 10,9 năm](../6705-benh-van-tim-do-xa-o-nguoi-song-sot-ung-thu/lesson.md) *(mới)*
 - [6129 – Đốt nhiệt qua da nốt phổi ở trẻ khi không mổ được: ≤ 5 nốt/3 cm, biên ≥ 5 mm (OR 0,06), tràn khí 37–44%, DCR 96,43%, khí mạch hệ thống](../6129-dot-nhiet-phoi-o-tre-khi-khong-mo-duoc/lesson.md) *(mới — nối 6702/6701/381)*
 - [6130 – Viêm phổi do thuốc trên CT theo dõi ở trẻ sarcoma: 6 mẫu hình OP/NSIP/DAD/HP/eosinophilic/leak, mờ di chuyển ≠ di căn, chẩn đoán loại trừ](../6130-viem-phoi-do-thuoc-tre-sarcoma/lesson.md) *(mới — nối 6702/6700/6701)*
 - [6104 – Aniridia bẩm sinh & hội chứng WAGR: glaucoma, AAK & tầm soát Wilms](../6104-aniridia-bam-sinh-va-hoi-chung-wagr/lesson.md) *(mới)*
