@@ -169,6 +169,7 @@ flowchart TD
 - [1410 – Lấy dầu silicone & dầu tồn lưu: nhũ tương hóa, giọt tăng phản xạ trên OCT, bong tái phát](../1410-lay-dau-silicone-va-dau-ton-luu/lesson.md)
 - [1417 – Khi nào GIỮ dầu silicone vĩnh viễn: chọn ca, theo dõi dầu tồn lưu](../1417-giu-dau-silicone-vinh-vien/lesson.md)
 - [1432 – Thay dầu silicone: bơm thiếu thể tích, nhũ tương nặng, độ nhớt 1.000 vs 5.000 cS](../1432-thay-dau-silicone/lesson.md)
+- [1434 – Hạ nhãn áp sau quang đông thể mi & rách thể mi: phân biệt suy thể mi với khe thông tiền phòng–khoang trên hắc mạc](../1434-ha-nhan-ap-rach-the-mi-sau-quang-dong/lesson.md)
 - [442 – Glôcôm trên OCT: RNFL/GCC và đánh giá tổn thương thị thần kinh](../442-glaucoma-OCT/lesson.md)
 - [1411 – Tăng nhãn áp do corticoid nội nhãn: DEX-I, implant lạc tiền phòng](../1411-tang-nhan-ap-do-corticoid-noi-nhan/lesson.md)
 

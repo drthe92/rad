@@ -170,6 +170,7 @@ flowchart TD
 - [1417 – Khi nào GIỮ dầu silicone vĩnh viễn: chọn ca, theo dõi dầu tồn lưu](../1417-giu-dau-silicone-vinh-vien/lesson.md)
 - [1416 – Glôcôm do dầu silicone: pupillary block, bít bè do nhũ tương, lấy dầu – van – CPC](../1416-glaucom-do-dau-silicone/lesson.md)
 - [1431 – Quang đông thể mi ở mắt bơm dầu: slow-coag, micropulse hay CW “pop”](../1431-quang-dong-the-mi-mat-bom-dau/lesson.md)
+- [1433 – Viêm nội nhãn ở mắt bơm dầu silicone: chẩn đoán bị che, cấy dầu–dịch, lấy dầu hay giữ](../1433-viem-noi-nhan-mat-bom-dau/lesson.md)
 - [445 – Bong võng mạc: tiếp cận chẩn đoán và xử trí](../445-bong-vong-mac/lesson.md)
 - [1402 – Bong võng mạc sau viêm nội nhãn: chọn dầu hay khí](../1402-bong-vong-mac-sau-viem-noi-nhan/lesson.md)
 

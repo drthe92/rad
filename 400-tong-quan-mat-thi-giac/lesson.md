@@ -197,6 +197,8 @@ certainty: tong-hop-y-van
 - [1417 – Khi nào giữ dầu silicone vĩnh viễn: chọn ca, theo dõi dầu tồn lưu & dầu đục](../1417-giu-dau-silicone-vinh-vien/lesson.md) *(mới)*
 - [1431 – Quang đông thể mi ở mắt bơm dầu: slow-coag 1.250 mW × 4 giây (72,2%) vs micropulse 31,3% duty (73%) vs CW “pop”; lặp tia và ngưỡng hạ áp quá mức](../1431-quang-dong-the-mi-mat-bom-dau/lesson.md) *(mới)*
 - [1432 – Thay dầu silicone: bơm thiếu thể tích 58%, nhũ tương tới 70% sau 6 tháng, dầu đục; trao đổi PFCL–dầu và chọn 1.000 vs 5.000 cSt](../1432-thay-dau-silicone/lesson.md) *(mới)*
+- [1433 – Viêm nội nhãn ở mắt bơm dầu silicone: mủ tiền phòng bị che, cấy dầu–dịch (âm 62%), lấy dầu muộn → teo nhãn; kháng sinh lặp q2–3 ngày](../1433-viem-noi-nhan-mat-bom-dau/lesson.md) *(mới)*
+- [1434 – Hạ nhãn áp sau quang đông thể mi & rách thể mi: phân biệt suy thể mi với khe thông tiền phòng–khoang trên hắc mạc; UBM, atropine–laser–cyclopexy](../1434-ha-nhan-ap-rach-the-mi-sau-quang-dong/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
