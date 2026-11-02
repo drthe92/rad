@@ -113,7 +113,7 @@ flowchart TD
 
 ### 4.3 Dự phòng và điều trị có số liệu
 
-- **Dự phòng:** GnRH antagonist (OR **0,61**, KTC 0,51–0,72; 36 RCT/7.944 ca), **GnRH agonist trigger** (OR **0,15**, KTC 0,05–0,47; 8 RCT/989 ca), **đông lạnh toàn bộ phôi**, **cabergoline 0,5 mg/ngày × 8 ngày** (OR **0,32**, KTC 0,23–0,44; 10 RCT/1.202 ca), kích thích nhẹ (RR **0,26**, KTC 0,14–0,49) (PMC10360244). **GnRH agonist trigger không loại trừ hoàn toàn OHSS** — vẫn có ca nặng sau trigger đơn thuần (PMC11485447).
+- **Dự phòng:** GnRH antagonist (OR **0,61**, KTC 0,51–0,72; 36 RCT/7.944 ca), **GnRH agonist trigger** (OR **0,15**, KTC 0,05–0,47; 8 RCT/989 ca), **đông lạnh toàn bộ phôi**, **đồng vận dopamine (cabergoline 0,5 mg/ngày × 8 ngày)** (OR **0,32**, KTC 0,23–0,44; 10 RCT/1.202 ca), kích thích nhẹ (RR **0,26**, KTC 0,14–0,49) (PMC10360244). **GnRH agonist trigger không loại trừ hoàn toàn OHSS** — vẫn có ca nặng sau trigger đơn thuần (PMC11485447).
 - **Điều trị:** bù dịch tinh thể (không dùng albumin thường quy), **chọc dịch ổ bụng qua ngả âm đạo** khi cổ trướng chèn ép/hô hấp, **dẫn lưu màng phổi** khi tràn dịch gây suy hô hấp, **kháng đông dự phòng** ở thể nặng/nhập viện (LMWH), **không mổ** trừ khi xoắn/vỡ.
 - **Theo dõi tại nhà:** cân nặng mỗi ngày, vòng bụng, lượng nước tiểu, Hct/creatinin mỗi **48–72 giờ**; nhập viện ngay khi **tăng cân > 1 kg/ngày**, **nước tiểu < 500 mL/ngày**, khó thở hoặc đau ngực.
 

@@ -126,7 +126,7 @@ flowchart TD
 
 ![Ca 1 — CTA: lỗ rò 6 mm từ ĐM chậu ngoài vào niệu quản](images/1670_ro-DM-chau-nieu-quan_CTA_PMC9746699-f2.jpg)
 
-- Câu hỏi: Dấu hiệu chốt trên CTA? Vì sao CT không cản quang trước đó có thể âm tính? Xử trí cấp cứu?
+- Câu hỏi: Dấu hiệu chốt trên CTA? Vì sao CT thường âm tính trong UAF? Xử trí cấp cứu?
 
 <details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
 
