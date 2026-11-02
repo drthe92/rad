@@ -1078,3 +1078,4 @@
 - 1678: đau xâm lấn đám rối — u vs xạ; LSP 124 ca (xạ 12,1%), RIBP 1,2%, theo dõi 4–8 tuần + EMG myokymia.
 - 1679: CTIBL — HU L1 ≤ 95,5 (Se 84,6/Sp 86,4), ADT hút xương −4,4%/12 tháng, denosumab > alendronate về gãy lún.
 - 3054: PTLD trẻ sau ghép — PET 95–100% Se, EBV âm vẫn có PTLD, sinh thiết là chốt.
+- 1424: tăng HA/biến cố toàn thân sau anti-VEGF — HA lúc tiêm +25,7 mmHg (13,6% urgency), đoàn hệ Pháp aRR 0,96, nhưng eGFR −5/6 tháng & UACR +11,5; TMA 6–11 tháng.
