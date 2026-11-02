@@ -19,8 +19,8 @@ REQUIRED_SCORES = ["LI-RADS", "Lung-RADS", "BI-RADS", "O-RADS", "TI-RADS",
                    "PI-RADS", "Bosniak", "ASPECTS", "Atlanta"]
 # Nhãn tab gọn: icon + tên chuyên mục; số bài do JS đếm từ thẻ (refreshTabs).
 TABS = [("", "🌐 Tất cả"), ("nguc", "🫁 Ngực"), ("bung", "🩺 Bụng"),
-        ("thankinh", "🧠 TK & Cổ"), ("msk", "🦴 MSK"), ("mat", "👁️ Mắt"),
-        ("vuspk", "🌸 Vú & SPK"), ("nhi", "👶 Nhi"), ("dauco", "👃 Đầu Cổ"),
+        ("thankinh", "🧠 Thần kinh"), ("msk", "🦴 MSK"), ("mat", "👁️ Mắt"),
+        ("vu", "🌸 Vú"), ("spk", "🤰 Sản – Phụ khoa"), ("nhi", "👶 Nhi"), ("dauco", "👃 Đầu Cổ"),
         ("tim", "❤️ Tim"), ("canthiep", "🧰 Can thiệp")]
 
 
@@ -188,6 +188,26 @@ CLASSIFY_4D = {
     "6705": "nhi",
 }
 
+# Rà tay 2026-11: bài Tai–Mũi–Họng nằm lẫn ở Mắt / Thần kinh → Đầu Cổ (TMH)
+RECLASS = {
+    "205": "dauco", "208": "dauco", "230": "dauco", "233": "dauco", "235": "dauco",
+    "236": "dauco", "237": "dauco", "238": "dauco", "244": "dauco",
+    "478": "dauco", "497": "dauco", "1649": "spk", "558": "msk", "3023": "dauco", "3046": "dauco", "3050": "dauco",
+}
+# Bài "Vú & SPK" cũ → tách: Vú (breast) vs Sản – Phụ khoa
+BREAST_TOKENS = {"vu", "num-vu", "hach-nach", "ho-nach", "tuyen-vu", "implant-nguc"}
+BREAST_TITLE = r"vú|breast|implant|bi-rads|nhũ|pash|bia-alcl|mammo"
+
+
+def split_vuspk(uid, tags, title):
+    if uid == "500":            # bài tổng quan chung cho cả 2 chuyên khoa
+        return "spk"
+    toks = set(re.findall(r"vung:([A-Za-z0-9_.-]+)", tags))
+    if toks & BREAST_TOKENS or re.search(BREAST_TITLE, title, re.I):
+        return "vu"
+    return "spk"
+
+
 VUNG_SPEC = {
     # mắt
     "vong-mac": "mat", "hac-vong-mac": "mat", "vong-mac-hac-mac": "mat", "mat": "mat",
@@ -278,21 +298,29 @@ SUB_SPEC = [
 ]
 
 
-def spec_for(uid, tags):
-    """Phân loại chuyên mục: ID 3 số theo dải; ID 4 số theo bảng đã rà / tag vùng / subspecialty."""
+def spec_for(uid, tags, title=""):
+    """Phân loại chuyên mục: ID 3 số theo dải; ID 4 số theo bảng đã rà / tag vùng / subspecialty.
+    Sau cùng tách "vú" ↔ "sản – phụ khoa" (trước đây gộp chung "Vú & SPK")."""
     uid = str(uid)
-    if len(uid) <= 3:
-        return spec_of(uid)
-    if uid in CLASSIFY_4D:
-        return CLASSIFY_4D[uid]
-    if uid in SPEC_OVERRIDE:
-        return SPEC_OVERRIDE[uid]
-    if uid.startswith("6"):
-        return "nhi"
-    for tok in re.findall(r"vung:([A-Za-z0-9_.-]+)", tags):
-        if tok in VUNG_SPEC:
-            return VUNG_SPEC[tok]
-    return ""
+    if uid in RECLASS:
+        spec = RECLASS[uid]
+    elif len(uid) <= 3:
+        spec = spec_of(uid)
+    elif uid in CLASSIFY_4D:
+        spec = CLASSIFY_4D[uid]
+    elif uid in SPEC_OVERRIDE:
+        spec = SPEC_OVERRIDE[uid]
+    elif uid.startswith("6"):
+        spec = "nhi"
+    else:
+        spec = ""
+        for tok in re.findall(r"vung:([A-Za-z0-9_.-]+)", tags):
+            if tok in VUNG_SPEC:
+                spec = VUNG_SPEC[tok]
+                break
+    if spec == "vuspk":
+        spec = split_vuspk(uid, tags, title)
+    return spec
 
 
 def frontmatter(path):
@@ -352,13 +380,13 @@ def build_page():
         fm = frontmatter(f"{d}/lesson.md")
         tags = [t.strip() for t in fm["tags"].strip("[]").split(",") if t.strip()]
         uid = fm["unit_id"]
-        spec = spec_for(uid, fm["tags"])
+        k = keep.get(d, {})
+        title = k.get("title") or fm["h1"]
+        spec = spec_for(uid, fm["tags"], title)
         if not spec:
             unclassified.append(uid)
         scores = [t.split(":", 1)[1] for t in tags if t.startswith("score:")]
         cert = CERT_LABEL.get(fm["certainty"], fm["certainty"])
-        k = keep.get(d, {})
-        title = k.get("title") or fm["h1"]
         desc = k.get("desc") or OV_DESC
         img = k.get("img") or ((f"{d}/{fm['thumb']}", title) if fm["thumb"] else None)
         search = f"{uid} {title} {' '.join(tags)} {d}"
