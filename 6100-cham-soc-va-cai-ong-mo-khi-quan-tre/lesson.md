@@ -10,7 +10,7 @@ certainty: tong-hop-y-van
 # 6100 — Chăm sóc, biến chứng & cai ống mở khí quản ở trẻ / Pediatric tracheostomy: complications, surveillance imaging and decannulation
 
 **Tags:** `pattern:hep-duong-tho` `pattern:u-hat` `vung:duong-tho-nhi` `vung:co` `protocol:CT-co-nguc` `protocol:X-quang-nguc`
-**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — ghép số liệu từ các đoàn hệ mở: 175 trẻ theo dõi nội soi sau mở khí quản (Suresh R và cs., *Laryngoscope Investig Otolaryngol* 2024, PMC10866584); 126 trẻ về u hạt và biến chứng sớm (Reddy PD và cs., *Am J Otolaryngol* 2024); 68 trẻ < 2 tuổi về cỡ ống và khoảng cách tới carina (Eljamri S và cs., *Otolaryngol Head Neck Surg* 2025, PMC12461770); tổng quan hệ thống 24 giao thức cai ống/1.395 trẻ (Verma R và cs., *Pediatr Pulmonol* 2021); cùng ca nguyên văn bỏng đường thở có ảnh CT/nội soi (Benjamin P và cs., *Cureus* 2026, PMC13484941) và ca tắc ống do vảy tiết (Akhtar AB và cs., *Cureus* 2022, PMC9375839). Không gắn một bệnh án đơn lẻ cho phần số liệu.
+**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — ghép số liệu từ các đoàn hệ mở: 175 trẻ theo dõi nội soi sau mở khí quản (Suresh R và cs., *Laryngoscope Investig Otolaryngol* 2024, PMC10866584); 126 trẻ về u hạt và biến chứng sớm (Reddy PD và cs., *Am J Otolaryngol* 2024); 68 trẻ < 2 tuổi về cỡ ống và khoảng cách tới carina (Eljamri S và cs., *Otolaryngol Head Neck Surg* 2025, PMC12461770); tổng quan hệ thống 24 giao thức cai ống/1.395 trẻ (Verma R và cs., *Pediatr Pulmonol* 2021); cùng ca nguyên văn bỏng đường thở có ảnh CT/nội soi (Benjamin P và cs., *Cureus* 2026, PMC13484941) và ca tắc ống do vảy tiết (Akhtar AB và cs., *Cureus* 2022, PMC9375839). **Bổ sung 2026-11-02 (mục 4–5):** 255 trẻ về sụp trên lỗ mở (PMC12369399, CC BY-NC-ND), tổng quan kỹ thuật mở khí quản ở trẻ có X-quang sau đặt ống và công thức cỡ ống (PMC12109619, CC BY 4.0), cập nhật cai ống/đổi ống (PMC8047564), khảo sát 138 bác sĩ về lần thay ống đầu và biến chứng (PMC13015836), tổng quan hệ thống 49 nghiên cứu về biến chứng/tử vong (PMC9615521, CC BY 4.0) và đoàn hệ về thời điểm đổi ống (PMC11226274, CC BY 4.0). Không gắn một bệnh án đơn lẻ cho phần số liệu.
 
 ## 1. Tổng quan bệnh học – cơ chế hình ảnh: vì sao "ống nhỏ đi 0,5 mm" đổi hẳn sinh lý
 
@@ -50,7 +50,13 @@ certainty: tong-hop-y-van
 
 - **X-quang ngực/ngực–cổ thẳng:** phim **đầu tiên sau đặt ống 24 giờ** và **sau mỗi lần đổi cỡ ống**. Trên 68 trẻ < 2 tuổi, **khoảng cách từ lỗ mở đến carina** tương quan với **cân nặng (ρ = 0,403; p = 0,0007)** mạnh hơn **tuổi (ρ = 0,291; p = 0,02)** — nên chọn cỡ/độ dài ống **theo cân nặng** ở nhóm này.
 - **Cạm bẫy định lượng quan trọng:** đo **khoảng cách đầu ống–carina trên X-quang KHÔNG tương quan với đo qua nội soi/soi khí quản** (Eljamri 2025, Fig 1) — X-quang dùng để **loại trừ lệch vị trí thô**, không dùng để "đo chính xác" độ sâu. **Khoảng cách ống–carina càng ngắn** thì **biến cố nặng càng nhiều (p = 0,03)**; biến cố nặng (rơi ống/tử vong) gặp **24% (16/68)**, biến cố nhẹ **27,9% (19/68)**.
-- **CT cổ–ngực xoắn ốc, lát ≤ 1 mm, không cần cản quang** khi nghi **hẹp/u hạt/sụp** hoặc trước khi quyết định **nong bóng – cắt nối**. Với hẹp động: **CT 2 thì hít vào – thở ra** (hoặc CT 4D) để phân biệt **malacia** với **hẹp cố định**.
+- **Chọn cỡ ống — công thức và độ sâu (dùng cả ở nhà):** trẻ **> 1 tuổi**: **ID (mm) = tuổi/4 + 4** (công thức tương đương cho kết quả giống); với ống **có bóng**, công thức Motoyama cho ống nội khí quản **ID = 3,5 + tuổi/4** được dùng để **ước lượng** cỡ ống mở khí quản (PMC12109619; PMC8047564). Đầu ống nằm **1–2 cm trên carina** (tương đương **2–3 vòng sụn**) và **đuôi ống ≥ 2 cm dưới lỗ mở**; ống **quá ngắn → dễ rơi**, **quá dài → cọ vào thành sau/carina gây ho dai dẳng** (PMC12109619).
+- **Nhịp thay ống (phần "tại nhà" hay bị bỏ):** lần thay đầu tiên **ngày 5–7** sau mổ — khảo sát 138 bác sĩ tai mũi họng nhi: **54,7% thay ngày 5**, **27,3% ngày 7**; các đoàn hệ và 1 RCT cho thấy thay sớm **ngày 2–4** cũng an toàn (PMC13015836; PMC11226274). Sau đó **2–3 tuần/lần** (trung bình **29 ngày**) làm **giảm rõ u hạt**, nhưng thực tế các trung tâm dùng **2 tuần đến 60–90 ngày** vì thiếu bằng chứng; u hạt gặp **34–77%** trong y văn (PMC11226274). **Biến chứng của chính lần thay ống: tạo đường hầm giả 46%, chảy máu 41%** (PMC13015836) → luôn có **ống cùng cỡ + ống nhỏ hơn 0,5 mm, đèn soi, người thứ hai** tại chỗ.
+- **Số liệu để tư vấn gia đình trước khi về nhà:** mở khí quản chiếm **~0,2%** các đợt nằm viện nhi; **tử vong chung 10–20%** (do bệnh nền), còn **tử vong do chính ống tới 6%**, chủ yếu do **tắc ống** và **rơi ống**; gộp 49 nghiên cứu: biến chứng **40%**, **u hạt 20,4%**, **rò khí–da 9,5%**, **rơi ống 8,3%**, **tắc ống 8%** (PMC8047564; PMC9615521).
+- **CT cổ–ngực xoắn ốc, lát ≤ 1 mm, không cần cản quang** khi nghi **hẹp/u hạt/sụp** hoặc trước khi quyết định **nong bóng – cắt nối**.
+
+![X-quang ngực–cổ thẳng 4 giờ sau đặt ống ở trẻ](images/6133_tre-mo-khi-quan_XR_PMC12109619-f16.jpg)
+*Ống mở khí quản nằm **giữa lòng khí quản, đầu ống còn trên carina** (đúng vị trí); ống nối và dây cố định tạo bóng mờ hai bên cổ. Phim này dùng để **loại trừ lệch vị trí thô và tràn khí**, không dùng để đo chính xác độ sâu (đo trên X-quang **không tương quan** với nội soi). Nguồn: *Children (Basel)* 2025 (PMC12109619), Fig. 16 — CC BY 4.0, nguyên bản.* Với hẹp động: **CT 2 thì hít vào – thở ra** (hoặc CT 4D) để phân biệt **malacia** với **hẹp cố định**.
 - **Nội soi là "gold standard" của cai ống:** **96% (23/24)** giao thức trong tổng quan 1.395 trẻ dùng **nội soi đường thở** trước cai; **83% bịt ống (capping)**, **58% hạ cỡ ống (downsizing)**, **8% ống có lỗ (fenestration)**; đo trao đổi khí bằng **đa ký giấc ngủ 72%**, **oximetry 56%**, **khí máu 17%**, **capnography 17%**.
 - **Đa ký giấc ngủ (PSG) khi bịt ống — ngưỡng định lượng:** nhóm được cai có **oAHI 1,7 vs 5,4 sự kiện/giờ (p = 0,03)**, **RDI 2,4 vs 7,6 (p = 0,006)**, **EtCO₂ đỉnh 50,0 vs 58,7 torr (p = 0,009)**; **83% (38/46)** được cai sau PSG. Không có biến chứng sau cai trước khi ra viện.
 - **Quy trình cai ống theo bước (tổng hợp giao thức):**
@@ -78,6 +84,11 @@ flowchart TD
 - **Cạm bẫy 3 — hẹp "động" bị bỏ sót trên CT tĩnh:** chụp lúc **thở máy áp lực dương** sẽ **"giằng" đường thở mở ra**; muốn thấy **malacia/sụp trên lỗ mở** phải chụp **thì thở ra** hoặc **nội soi khi trẻ thở tự nhiên** (bài học từ 602).
 - **Cạm bẫy 4 — bỏ sót tầng thứ hai:** ca bỏng đường thở có **cả hẹp dưới thanh môn 97% và dính dây thanh 99%**; sửa một tầng vẫn không cai được ống. Vì vậy **nội soi toàn bộ từ thanh môn đến carina** là bắt buộc, không chỉ nhìn qua ống.
 - **Cạm bẫy 5 — rò khí–da bị coi là "lỗ mở chưa lành":** **49% (63/129)** trẻ phải **đóng rò bằng phẫu thuật**; yếu tố nguy cơ: **đặt ống lúc nhỏ hơn, thời gian có ống dài hơn, có TBM**.
+- **Cạm bẫy 6 — chụp X-quang thường quy "cho đủ hồ sơ":** trong **421 trẻ** được chụp X-quang ngực thường quy sau mở khí quản, chỉ **3 ca** có **khí trong mô mềm/tràn khí**, và **cả 3 đều đã bị nghi trên lâm sàng trước khi chụp** (PMC8047564). Vì vậy chỉ chụp khi **thở qua ống kém, chảy máu lỗ mở, hoặc khó thay ống** — không chụp định kỳ vô cớ, và **không bao giờ dùng "phim bình thường" để trấn an khi trẻ thở xấu**.
+- **Cạm bẫy 7 — sụp trên lỗ mở "mọc muộn" sau nhiều tháng:** ở **255 trẻ**, **146 (57,3%)** có sụp trên lỗ mở sau **10,7 ± 12,6 tháng**; trẻ mở khí quản **< 6 tháng tuổi** có **OR 2,07**, kèm **hẹp dưới thanh môn OR 2,96**, **phù thanh–dưới thanh môn OR 2,4** (PMC12369399). Vì vậy một trẻ "vẫn ổn" 6 tháng đầu **vẫn phải nội soi lại** trước khi thử bịt ống.
+
+![Sụp thành trước trên lỗ mở sau khi rút ống](images/6133_tre-mo-khi-quan_Noi-soi_PMC12369399-f1.jpg)
+*Nội soi sau khi rút ống: **thành trước trên lỗ mở lồi vào lòng**, để lại khe hẹp hình liềm — đây là **sụp trên lỗ mở (suprastomal collapse)**, nguyên nhân hay gặp nhất làm **thất bại lần bịt ống đầu**. Nguồn: *Laryngoscope Investig Otolaryngol* 2025 (PMC12369399), Fig. 1 — CC BY-NC-ND 4.0, **nguyên bản, không cắt/ghép**.*
 
 ## 6. Tự lượng giá — Blind Quiz
 
@@ -137,6 +148,8 @@ flowchart TD
 ## Ảnh
 - `images/composite_hep-duoi-thanh-mon.jpg` — ghép CT ngang + CT dọc + nội soi, Benjamin 2026 (PMC13484941), CC BY 4.0.
 - `images/6100_cai-ong-mo-khi-quan_Anh_Cureus-PMC9375839-Fig1.jpg` — Akhtar 2022 (PMC9375839), CC BY 4.0.
+- `images/6133_tre-mo-khi-quan_XR_PMC12109619-f16.jpg` — *Children (Basel)* 2025 (PMC12109619), CC BY 4.0 (X-quang 4 giờ sau đặt ống).
+- `images/6133_tre-mo-khi-quan_Noi-soi_PMC12369399-f1.jpg` — *Laryngoscope Investig Otolaryngol* 2025 (PMC12369399), CC BY-NC-ND 4.0 (sụp trên lỗ mở).
 - Nguồn, giấy phép từng ảnh: `images/CREDITS.md`.
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

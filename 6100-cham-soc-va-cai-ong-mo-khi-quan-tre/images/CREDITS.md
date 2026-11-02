@@ -8,4 +8,7 @@
 | `6100_cai-ong-mo-khi-quan_Anh_Cureus-PMC9375839-Fig1.jpg` | Akhtar AB và cs., *Cureus* 2022, Fig. 1 — lòng ống mở khí quản bị bít bởi vảy tiết, chỉ còn vài lỗ thông khí | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC9375839/ |
 | `composite_hep-duoi-thanh-mon.jpg` | Ghép từ 3 ảnh trên (Fig. 2 + Fig. 3 + Fig. 1, Benjamin 2026) bằng `tools/make_composite.py` — letterbox nền đen, không crop/kéo giãn | CC BY 4.0 (tác phẩm phái sinh, ghi công tác giả gốc) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13484941/ |
 
-Quy tắc: chỉ tải khi giấy phép cho phép. AuntMinnie chỉ dẫn link. Ảnh CC BY-NC-ND (Suresh 2024, PMC10866584) **không** được tải/ghép — chỉ dùng số liệu.
+| `6133_tre-mo-khi-quan_XR_PMC12109619-f16.jpg` | *Children (Basel)* 2025, Fig. 16 — "X-ray 4 h after cannula placement": ống mở khí quản giữa lòng khí quản, đầu ống trên carina | CC BY 4.0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12109619/ |
+| `6133_tre-mo-khi-quan_Noi-soi_PMC12369399-f1.jpg` | *Laryngoscope Investig Otolaryngol* 2025, Fig. 1 — "Suprastomal collapse (tracheostomy tube removed)" | CC BY-NC-ND 4.0 (**nguyên bản, không cắt/ghép**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12369399/ |
+
+Quy tắc: chỉ tải khi giấy phép cho phép. AuntMinnie chỉ dẫn link. Ảnh CC BY-NC-ND (Suresh 2024, PMC10866584 và **PMC12369399**) **không** được cắt/ghép — ảnh PMC12369399 chỉ hiển thị **nguyên bản**; bài 6100 (nội soi) chỉ dùng số liệu.
