@@ -1046,3 +1046,6 @@
 - 2026-11-02: **1066 (308 MRONJ)** và **1067 (1674 CSP)** hóa ra đã có bài **6108** và **552** — `check_duplicates` bỏ sót vì khác tên; đánh dấu gộp, không tạo bài trùng. Ghi chú: **AAOMS 2022 chỉ có độ 0–3**, dòng đề bài "0–4" là sai.
 - 2026-11-02: viết **1416** (glôcôm do dầu silicone: pupillary block 60–67 mmHg vs nhũ tương 0,7–56%, cắt bè 40–60% · van 62–80% · CPC 44–81,8%) + **1417** (giữ dầu vĩnh viễn: retinectomy tái phát 33,3%, dầu đục sau 1 năm → nhãn áp 48); 7 ảnh + 1 composite (CC BY 4.0 + 1 ảnh CC BY-NC-ND nguyên bản).
 - 2026-11-02: flip #1086/#1087 → xong; append **1418** (CPC ở mắt có dầu) + **1419** (thay dầu silicone) đã check_duplicates; build_index 821 thẻ.
+
+## 2026-11-02 — worker rad-backlog
+- Viết 1431 (CPC mắt bơm dầu: slow-coag/micropulse/CW) + 1432 (thay dầu silicone: thiếu thể tích, nhũ tương, PFCL–dầu); 9 ảnh + 1 composite + 1 sơ đồ CC0; flip #1831/#1832, append #1841/#1842.

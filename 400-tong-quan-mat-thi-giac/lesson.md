@@ -195,6 +195,8 @@ certainty: tong-hop-y-van
 - [1410 – Lấy dầu silicone & dầu tồn lưu: nhũ tương hóa, giọt tăng phản xạ trên OCT/AS-OCT, bong tái phát sau lấy dầu & kỹ thuật rửa PFCL](../1410-lay-dau-silicone-va-dau-ton-luu/lesson.md) *(mới)*
 - [1416 – Glôcôm do dầu silicone: pupillary block vs bít bè do nhũ tương, lấy dầu – van – CPC](../1416-glaucom-do-dau-silicone/lesson.md) *(mới)*
 - [1417 – Khi nào giữ dầu silicone vĩnh viễn: chọn ca, theo dõi dầu tồn lưu & dầu đục](../1417-giu-dau-silicone-vinh-vien/lesson.md) *(mới)*
+- [1431 – Quang đông thể mi ở mắt bơm dầu: slow-coag 1.250 mW × 4 giây (72,2%) vs micropulse 31,3% duty (73%) vs CW “pop”; lặp tia và ngưỡng hạ áp quá mức](../1431-quang-dong-the-mi-mat-bom-dau/lesson.md) *(mới)*
+- [1432 – Thay dầu silicone: bơm thiếu thể tích 58%, nhũ tương tới 70% sau 6 tháng, dầu đục; trao đổi PFCL–dầu và chọn 1.000 vs 5.000 cSt](../1432-thay-dau-silicone/lesson.md) *(mới)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
