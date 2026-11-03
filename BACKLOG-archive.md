@@ -1122,3 +1122,5 @@
 
 - **1768 (2026-11-03)**: "Cổ đông cứng" sau xạ & đường thở khó — ORN-DAS 0–7 (AUC 0,76; ≥ 4 PPV 64,3%), DL FPS 54,2% vs 79,5%, FOI 28,8% vs 9,4%; 6 ảnh (5 CC BY, 1 CC BY-NC); phản biện: xạ thực quản 96,4% lần đầu.
 - Append 1769 (FONA ở cổ xạ) + 1770 (tắc hai TM cảnh trong) — đã check_duplicates.
+- 2026-11-03 · 1769 FONA cổ đã xạ: màng giáp nhẫn **8,7 → 7,5 mm**, da–màng **11,7 → 10,2 mm** (n = 231); CICO **bougie 83% vs cannula 18%**; cricothyroidotomy chuyển tiếp → hẹp **13,0%**; LCRN **4,3%**.
+- 2026-11-03 · 1770 tắc IJV hai bên: mảnh trái **48,4%** không bàng hệ; **CTV tắc giả 4/4**; stent **95,5%/30,5 tháng**; Frisén **2 → 1**.
