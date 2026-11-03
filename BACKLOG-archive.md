@@ -1070,8 +1070,6 @@
 - 2026-11-02: **6133 gộp vào 6100** (chăm sóc tại nhà: ID = tuổi/4+4, thay ống đầu ngày 5–7, định kỳ 2–3 tuần, 421 trẻ X-quang thường quy chỉ 3 ca bất thường, sụp trên lỗ mở 57,3%); append #1115 (1826 hẹp ĐM gan) + #1116 (6139 loét quanh lỗ mở), đã check_duplicates exit 0.
 - 2026-11-02: viết **937** (liều CT ở trẻ: SSDE cao hơn CTDIvol trung vị 88%, DRL bụng 1,4–4,7 mGy/SSDE 4,1–7,2 mGy, auto prescription −40–48%, lệch tâm 3.394 mGy·cm >10× trung vị; 4 ảnh, 2 NC-ND) — verify PASS 6/6, 843 bài/843 card.
 - 2026-11-02: viết **1676** (bồn Ommaya: đầu catheter sừng trán 96%/thân 4%, nhiễm 5–8%, lạc 3/68 freehand, tụ dịch dưới màng cứng ngày 7 & bơm cản quang chứng minh không rò; 4 ảnh CC BY) — verify PASS 6/6, 844 bài/844 card; append 2 khoảng trống 9420 (bảo vệ thủy tinh thể/tuyến giáp trong CT sọ–cổ trẻ) + 9421 (CBCT nón nha khoa ở trẻ), check_duplicates exit 0.
-
-## Nhật ký 2026-11-03 (goal mode)
 - 9420: bảo vệ thủy tinh thể/tuyến giáp CT sọ–cổ nhi; nghiêng ≥ +5° → −87%, 25,9 vs 1,5 mGy, bismuth+AEC+OBTCM 71/59%; append 9422, 9423.
 - 9421: CBCT nha khoa nhi; ED 9,26–300 µSv, giáp 1,24 mGy, FOV lớn 79,3% phát hiện ngoài ROI; chắn bismuth không hiệu quả.
 - 1677: RANO-LM (NANO-LM 14 mục + DNT + MRI-LMD grade 1–6, ICC 0,953; CSF nhạy 50–60%→80%).
@@ -1079,26 +1077,20 @@
 - 1679: CTIBL — HU L1 ≤ 95,5 (Se 84,6/Sp 86,4), ADT hút xương −4,4%/12 tháng, denosumab > alendronate về gãy lún.
 - 3054: PTLD trẻ sau ghép — PET 95–100% Se, EBV âm vẫn có PTLD, sinh thiết là chốt.
 - 1424: tăng HA/biến cố toàn thân sau anti-VEGF — HA lúc tiêm +25,7 mmHg (13,6% urgency), đoàn hệ Pháp aRR 0,96, nhưng eGFR −5/6 tháng & UACR +11,5; TMA 6–11 tháng.
-
 - 2026-11-03: viết **1418** (phù hoàng điểm do xạ kháng anti-VEGF: DEX vs FAc; CEA; IOP) + **1419** (bệnh võng mạc do xạ ở trẻ: 40–50 Gy, plaque 45 Gy, 23,4 Gy thoáng qua); 8 ảnh OA, verify PASS 6/6 (853 bài/853 card); append 2 gap 1435/1436.
 - 2026-11-03: viết **1426** (viêm nội nhãn sau tiêm tái phát/không đáp ứng; 3 ảnh CC BY) + **1730** (DPDS; 3 ảnh CC BY-ND/NC-ND). #1103/1427 bị trùng 461 → chuyển thành nâng cấp 461.
 - 2026-11-03: append 2 khoảng trống mới #1843 (masquerade nội nhãn, ID 1435) + #1844 (cổ trướng tụy, ID 1736), đều đã check_duplicates exit 0.
-
 ## 2026-11-03 — worker rad-backlog (2 bài)
 - **1435** u lympho nội nhãn giả viêm màng bồ đào (mắt): IL-10/IL-6, ISOLD, sIL-2R huyết thanh vô dụng; 5 ảnh CC BY; nối 1425/1426/492.
 - **1736** cổ trướng tụy & rò tụy nội bộ (bụng): amylase dịch báng > 1.000 + SAAG < 1,1, stent bắc qua rò OR 6,5, scalloping gan; 5 ảnh; nối 1730/1683/135.
-
 ## 2026-11-03 — worker rad-backlog (1 bài)
 - **1436** VKH (mắt/hắc mạc–miễn dịch): SRD hai bên 96,4%, BALAD 48,2% (OR 12,04 xơ hóa / 14,78 sunset glow), SFCT 220–360 → 940/898 → 347/447 µm; cửa sổ 2–4 tuần; 7 ảnh CC BY 4.0; nối 1435/492/411. Flip #1861, append #1863/#1864 (check_duplicates 0).
-
-## Nhật ký 2026-11-03 (lượt worker)
 - Viết **1737** (rò tụy–màng phổi) + **1437** (viêm màng bồ đào do ICI/VKH-like); verify PASS 6/6, 860 bài/860 card; flip #1862/#1863.
 - Append #1865 → 1738 (rò tụy–phế quản) + #1866 → 1450 (glôcôm do corticoid khi điều trị irAE mắt), đều đã check_duplicates.
 - 2026-11-03: viết **1438** viêm màng bồ đào giao cảm (SO) — 5 ảnh + 1 composite CC BY 4.0, 861 bài/861 card; flip #1864; append #1867→1443, #1868→1444 (đã check_duplicates).
 - 2026-11-03: verify PASS 6/6 (selfcheck/lint/mermaid/authors/hub/index); parity +0; chờ viết 126; selfcheck warn 15 legacy.
 - 2026-11-03 — **264** U màng não do xạ: 251 ca (tiềm tàng 22,9 ± 11,4 năm; nhiều ổ 11,9%; tái phát 18,3%; độ I 140/205), DCOG-LATER 12,4%/40 năm, CCSS 5,6% tới 40 tuổi; 3 ảnh CC BY/CC BY-NC-ND. Europe PMC REST 503 → CREDITS ghi "Tạp chí Năm (PMCID)" không kèm tên.
 - 2026-11-03 — **265** Ngộ độc khí cười: B₁₂ bình thường 95% nhưng Hcy/MMA tăng 100%; Hcy Se 95%/Sp 13%; MRI "chữ V ngược" 60–73%; 3 ảnh CC BY/CC BY-NC; flip #1102 → xong, append #1869 (270 thiếu đồng) + #1870 (272 sarcoma sọ do xạ).
-
 - 2026-11-03: viết 263 (CBS sau xạ cổ; 5 ảnh + 1 composite CC BY) và 1731 (u mầm nội sọ ở trẻ; 5 ảnh + 1 composite CC BY); verify 5/5 PASS; append 1751/1752 (đã check_duplicates).
 - 2026-11-03 — **1751** LCH vùng dưới đồi–tuyến yên ở trẻ: 4,46/1 triệu trẻ/năm; cuống yên ≥ 3 mm/≥ 4 mm, ≥ 6,5 mm + ĐTĐ nhạt + ≥ 2 thiếu hụt → nguy cơ u; AVD 69%, bất thường cuống/thùy sau 73%; ưu tiên sinh thiết ngoài sọ; MAPKi 94,4%; ND-LCH 10%; 4 ảnh + 1 composite (CC BY/CC BY-NC).
 - 2026-11-03: verify PASS 6/6 (selfcheck/lint/mermaid/authors/hub/index); parity +0; 866 bài/866 card; flip #1865→1751; append #1871→1753, #1872→1754 (đã check_duplicates).
@@ -1106,3 +1098,5 @@
 - 2026-11-03 — **1754** Hội chứng dưới đồi ở trẻ: aHO (+1,0 SDS/12 tháng, ≥ 24 tháng, ≥ +2,0 SDS); HS 52,5% (n=120), REE < 90% ở 67,2%, HLS r = 0,34/0,40, mất khát Na 158; setmelanotide −16,5% vs +3,3%; 5 ảnh + 1 composite CC BY; verify PASS 6/6, parity +0, flip #1871/#1872 → xong.
 - 2026-11-03 worker: viết **1755** (hạ Na sau mổ vùng trên yên — SIADH vs CSWS; 72,8% hạ Na, ba pha 57,4%, FEurate > 11% sau sửa Na = CSWS) — 4 ảnh + 1 composite CC BY 4.0; verify PASS 6/6 (870 bài/870 card, parity 0).
 - 2026-11-03 worker: viết **1756** (hội chứng gian não ở nhũ nhi; 96% BMI < P5, rung giật nhãn cầu 43%, chậm chẩn đoán 11 tháng, BMI SDS −2,64 → +5,75) — append 2 gap 1757/1758 (đã check_duplicates).
+- 2026-11-03 · lượt worker: viết **1757** (hạ Na muộn sau xuất viện) + **1758** (OPG–NF1) — 6 ảnh CC BY 4.0 gốc + 2 composite; flip #1875/#1876 → xong, append #1877/#1878 (đã check_duplicates).
+- 2026-11-03 · verify PASS 6/6 (872 bài / 872 card, parity 0, 15 cảnh báo legacy); hub sinh lại từ build_index.py; CLASSIFY_4D thêm 1757→nhi, 1758→mat.
