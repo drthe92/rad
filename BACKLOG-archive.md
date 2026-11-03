@@ -1110,4 +1110,4 @@
 
 ## 2026-11-03 — lượt worker: 1764
 - Viết **1764 – Bệnh thần kinh V3 sau xạ trị đầu cổ** (6 ảnh + 1 composite CC BY 4.0; 13 nguồn, 6 bài OA); flip #1110c → xong, append 2 khoảng trống (**1765** hạ thiệt sau xạ, **1766** first bite — đã check_duplicates).
-- verify: chờ chạy `verify_all.py`; số liệu chính: CNP 30,9% (98/317), tiềm tàng 7,6 năm, V3 Dmax 66 Gy/D1cc 62,7 Gy.
+- verify: **VERIFY PASS 6/6** — 876 bài / 876 card, parity +0, selfcheck warn 15 legacy; số liệu chính: CNP 30,9% (98/317), tiềm tàng 7,6 năm, V3 Dmax 66 Gy/D1cc 62,7 Gy.
