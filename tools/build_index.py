@@ -124,6 +124,7 @@ CLASSIFY_4D = {
     "1709": "thankinh",
     "1710": "thankinh",
     "1684": "dauco",
+    "1685": "msk",
     "1711": "canthiep",
     "1713": "dauco",
     "1718": "msk",

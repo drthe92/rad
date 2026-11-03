@@ -65,6 +65,7 @@ certainty: tong-hop-y-van
 - [307 – Gãy xẹp đốt sống sau SBRT: dự đoán, phân biệt với tái phát & khi nào bơm xi măng](../307-gay-xep-dot-song-sau-sbrt/lesson.md) *(mới — 10% xẹp, 1 năm 11%/3 năm 21%, BED3 ≥ 104 Gy, sụp mâm HR 4,16, nomogram 2/21/58%)*
 - [3019 – Thuyên tắc phổi do xi măng sau bơm đốt sống: CT > 500 HU dạng nhánh, trung tâm vs ngoại vi, chống đông – lấy dị vật](../3019-thuyen-tac-phoi-do-xi-mang-cement/lesson.md) *(mới — biến chứng của 3017; nối 091/094)*
 - [1639 – Đau xương do di căn: chọn 8 Gy × 1 / 20 Gy–30 Gy, SBRT, đồng vị hay tạo hình đốt sống](../1639-dau-xuong-di-can-xa-tri-giam-dau/lesson.md) *(mới — SINS/Mirels/Bilsky, đáp ứng đau 60%, SBRT hoàn toàn 48% vs 18%, ⁸⁹Sr/¹⁵³Sm/²²³Ra, đốt u + cement; nối 178/306/307/3017)*
+- [1685 – Bệnh cơ do statin & bệnh cơ hoại tử tự miễn (anti-HMGCR): myalgia 5–20% (CK bình thường), bệnh cơ 1–5% (CK > 4 × ULN), tiêu cơ vân < 0,1% (CK > 10 × ULN); anti-HMGCR 2,9/triệu người–năm và 20,4–24,1/triệu người dùng statin; MRI khoang sau đùi + cơ khép = IMNM, khoang trước = DM](../1685-benh-co-do-statin-imnm/lesson.md) *(mới — "phù là bệnh đang chạy, thay mỡ là di chứng"; nối 1641/370/375)*
 
 ## Quy hoạch Master Curriculum Hệ Cơ – Xương – Khớp (300–380)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.

@@ -1124,3 +1124,5 @@
 - Append 1769 (FONA ở cổ xạ) + 1770 (tắc hai TM cảnh trong) — đã check_duplicates.
 - 2026-11-03 · 1769 FONA cổ đã xạ: màng giáp nhẫn **8,7 → 7,5 mm**, da–màng **11,7 → 10,2 mm** (n = 231); CICO **bougie 83% vs cannula 18%**; cricothyroidotomy chuyển tiếp → hẹp **13,0%**; LCRN **4,3%**.
 - 2026-11-03 · 1770 tắc IJV hai bên: mảnh trái **48,4%** không bàng hệ; **CTV tắc giả 4/4**; stent **95,5%/30,5 tháng**; Frisén **2 → 1**.
+- 2026-11-03 · **1685** bệnh cơ do statin & anti-HMGCR IMNM: myalgia **5–20%** (CK bình thường) · bệnh cơ **1–5%** (CK > 4×ULN) · tiêu cơ vân **< 0,1%** (CK > 10×ULN); anti-HMGCR **2,9/triệu người–năm**, **20,4–24,1**/triệu người dùng statin, CK đỉnh **7.020 U/L**, sức cơ bình thường **46,2%**; MRI **khoang sau + cơ khép** = IMNM vs **khoang trước** = DM; 5 ảnh (3 BY-NC-ND, 1 BY, 1 BY-NC); flip #1107 → xong.
+- 2026-11-03 · **270** carotid web (263 đã dùng → đổi 270): **9,58%** ESUS, **13%** thể ẩn < 60 tuổi, tái phát **17% vs 3%** (HR 5,0), bỏ sót khi EVT **35,3%**, SCORE-WEB **AUC 0,824**; 4 ảnh (2 BY-NC, 2 BY); flip #1108 → xong; append **1773** (bóc tách cảnh cổ) + **1774** (bệnh cơ corticoid/ICU) — đã check_duplicates.
