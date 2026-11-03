@@ -1087,3 +1087,6 @@
 ## 2026-11-03 — worker rad-backlog (2 bài)
 - **1435** u lympho nội nhãn giả viêm màng bồ đào (mắt): IL-10/IL-6, ISOLD, sIL-2R huyết thanh vô dụng; 5 ảnh CC BY; nối 1425/1426/492.
 - **1736** cổ trướng tụy & rò tụy nội bộ (bụng): amylase dịch báng > 1.000 + SAAG < 1,1, stent bắc qua rò OR 6,5, scalloping gan; 5 ảnh; nối 1730/1683/135.
+
+## 2026-11-03 — worker rad-backlog (1 bài)
+- **1436** VKH (mắt/hắc mạc–miễn dịch): SRD hai bên 96,4%, BALAD 48,2% (OR 12,04 xơ hóa / 14,78 sunset glow), SFCT 220–360 → 940/898 → 347/447 µm; cửa sổ 2–4 tuần; 7 ảnh CC BY 4.0; nối 1435/492/411. Flip #1861, append #1863/#1864 (check_duplicates 0).
