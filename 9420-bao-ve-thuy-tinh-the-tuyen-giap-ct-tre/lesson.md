@@ -136,6 +136,13 @@ Tấm chắn làm suy giảm chùm tia → **AEC tăng mAs** để giữ độ n
 **Giới hạn trường chiếu**: bắt đầu từ **đỉnh phổi/carina** theo chỉ định, không lấy trọn cổ. Nghiên cứu 1.306 ca cho thấy tuyến giáp nằm trong trường **99,8%** và trọn tuyến **76,9%** — đây là lỗi protocol, không phải hạn chế kỹ thuật. Kèm preset theo cân nặng và IR.
 </details>
 
+## Bài liên quan chéo
+
+- **937** — Liều CT ở trẻ — SSDE thay CTDIvol, DRL nhi: nền tảng đo và so sánh liều trước khi bàn che chắn.
+- **935** — Tối ưu liều can thiệp nhi — DRL theo kích thước cơ thể: cùng nguyên tắc cá thể hóa theo cân nặng/tuổi.
+- **9421** — CBCT nón trong nha khoa – chỉnh nha trẻ: thiết bị khác nhưng cùng bài toán FOV – cơ quan nguy cơ.
+- **932** — An toàn bức xạ trong can thiệp dưới CT/DSA: khung chung về che chắn và liều thủ tục.
+
 ---
 
 *Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn. Bài tổng hợp từ y văn mở; số liệu phantom/mô phỏng không thay thế đo liều tại cơ sở.*

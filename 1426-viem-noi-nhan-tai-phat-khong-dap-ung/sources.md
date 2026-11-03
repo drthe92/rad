@@ -5,7 +5,7 @@
 ## Ca nguyên văn có ảnh (dùng ảnh)
 
 - **Frontiers in Medicine 2026** — "Delayed-onset and recurrent infectious endophthalmitis after intravitreal dexamethasone implant". PMCID **PMC13683054**. **CC BY 4.0**.
-  - Nam 51 tuổi, uviết trước tiêm tái diễn; **implant dexamethasone 0,7 mg** ngày 20/11/2025.
+  - Nam 51 tuổi, uviêm trước tiêm tái diễn; **implant dexamethasone 0,7 mg** ngày 20/11/2025.
   - **Viêm nội nhãn khởi phát muộn 33 ngày** sau implant; **mNGS dịch tiền phòng: *S. epidermidis* 24.904 reads (99,96%)**, không gen kháng.
   - **PPV khẩn 28/12/2025 lấy implant**; **mủ tiền phòng tái phát 20 ngày sau PPV (17/01/2026)**; thị lực cuối **20/33**, không tái phát tới 09/2026.
   - **Dùng 2 ảnh** (Figure 4 timeline, Figure 2 siêu âm Doppler màu).

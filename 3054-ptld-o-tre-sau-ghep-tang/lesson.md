@@ -111,6 +111,12 @@ flowchart TD
 Vì **PTLD EBV âm tồn tại** (đặc biệt thể muộn 5–10 năm) và EBV-DNA có thể tăng do nhiễm EBV không có PTLD. Cần **hình ảnh + mô học**, EBV-DNA chỉ là một thành phần theo dõi.
 </details>
 
+## Bài liên quan chéo
+
+- **116** — Nhiễm trùng nang gan ở người ghép thận: chẩn đoán phân biệt khối/mảnh ghép sau ghép tạng.
+- **1906** — Hẹp dòng ra tĩnh mạch gan sau ghép gan: biến chứng mạch máu mảnh ghép, khác PTLD.
+- **496** — U lympho T/NK nội nhãn — điều trị và ghép: nhóm bệnh lympho và bối cảnh ghép tế bào gốc.
+
 ---
 
 *Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn. PTLD là chẩn đoán mô học; bài tổng hợp từ đồng thuận nhi và ca lâm sàng.*

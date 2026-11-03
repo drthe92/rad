@@ -68,7 +68,7 @@ Mẫu hình chốt: **mắt đã được chọc–tiêm kháng sinh (hoặc PPV
 | **Biofilm trên implant/IOL** | Viêm **khu trú quanh implant/vỏ bao**, mủ tái phát **nhiều tuần** | **Implant/IOL còn tại chỗ + tái phát cùng kiểu**; mNGS/PCR dương | Không có vật liệu, một đợt duy nhất → không phải biofilm | **Lấy implant**; PPV + cắt bao sau |
 | **Nấm (Candida/Aspergillus)** | Viêm **khu trú, "fluff ball"**, đốm rời trên B-scan; tiến triển **chậm** | **> 2 tuần + tổn thương khu trú + yếu tố nguy cơ** | Khởi phát < 72 giờ, mủ lan tỏa → nghĩ vi khuẩn | Cấy nấm, β-D-glucan; **amphotericin B 5 µg/0,1 mL** |
 | **Viêm vô khuẩn/độc** | Mủ mỏng, đau ít, đục dịch kính lan tỏa **đối xứng** | **24–48 giờ + cấy âm + giảm nhanh với corticoid** | **Mủ đặc + đau tăng + tái phát sau PPV** → không phải vô khuẩn | Theo dõi 24–48 giờ; loại trừ nhiễm trước |
-| **Masquerade (uviết/u lympho)** | Viêm tiền phòng ± dịch kính, **không mủ đặc**, có thể hai bên | **Tiền sử uviết/u lympho + tái diễn cùng kiểu + cấy âm nhiều lần** | **Mủ mới + đau + một bên sau tiêm** → không phải masquerade | Tế bào học dịch kính; đáp ứng corticoid |
+| **Masquerade (uviêm/u lympho)** | Viêm tiền phòng ± dịch kính, **không mủ đặc**, có thể hai bên | **Tiền sử uviêm/u lympho + tái diễn cùng kiểu + cấy âm nhiều lần** | **Mủ mới + đau + một bên sau tiêm** → không phải masquerade | Tế bào học dịch kính; đáp ứng corticoid |
 
 ## 4. Protocol chụp + phân tầng xử trí
 
@@ -126,7 +126,7 @@ flowchart TD
 
 ## 6. Tự lượng giá — Blind Quiz
 
-**Ca 1 — Nam 51 tuổi, uviết trước tiêm tái diễn, tiêm implant dexamethasone 0,7 mg; 33 ngày sau đau, mủ tiền phòng; đã PPV lấy implant và dùng kháng sinh toàn thân.**
+**Ca 1 — Nam 51 tuổi, uviêm trước tiêm tái diễn, tiêm implant dexamethasone 0,7 mg; 33 ngày sau đau, mủ tiền phòng; đã PPV lấy implant và dùng kháng sinh toàn thân.**
 
 ![Ca 1 — dòng thời gian diễn tiến](images/1426_viem-noi-nhan-tai-phat_Timeline_PMC13683054.webp)
 

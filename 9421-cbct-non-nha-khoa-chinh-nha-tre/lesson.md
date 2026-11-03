@@ -125,6 +125,12 @@ flowchart TD
 **Không thường quy.** Nghiên cứu tấm chắn bismuth trong panorama **không thấy khác biệt có ý nghĩa** (PMC12774883); đồng thuận châu Âu cũng không khuyến cáo che chắn tiếp xúc. Giảm liều thật đến từ **chọn FOV nhỏ, đúng chỉ định, tránh chụp lại**.
 </details>
 
+## Bài liên quan chéo
+
+- **9420** — Bảo vệ thủy tinh thể và tuyến giáp trong CT sọ–cổ ở trẻ: cùng nhóm protocol nhi, khác thiết bị và FOV.
+- **937** — Liều CT ở trẻ — SSDE, DRL nhi và theo dõi liều tích lũy: cách chuẩn hóa liều theo kích thước cơ thể.
+- **700** — Tổng quan Đầu Mặt Cổ và mạc cổ sâu: giải phẫu vùng hàm mặt – cổ liên quan trường chiếu.
+
 ---
 
 *Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn. Số liệu liều phụ thuộc máy và protocol địa phương; cần DRL riêng của cơ sở.*

@@ -139,6 +139,12 @@ flowchart TD
 Vì "giảm" không đo được giữa các lần/người đánh giá. NANO-LM chuẩn hóa **14 lĩnh vực, 0–2 điểm**, kèm ghi nhận steroid/giảm đau/chống nôn và di chứng nền → giảm bất đồng, cho phép so sánh và phát hiện **xấu đi ở một lĩnh vực** mà cảm giác chung vẫn "ổn".
 </details>
 
+## Bài liên quan chéo
+
+- **1659** — Di căn màng não – nội tủy: nền tảng hình ảnh và sinh học của bệnh màng não.
+- **1676** — Đặt bồn Ommaya và điều trị nội tủy: đường lấy dịch não tủy/điều trị nội tủy khi theo dõi RANO-LM.
+- **1678** — Đau do xâm lấn đám rối thần kinh: biến chứng thần kinh khác của ung thư lan, dễ nhầm với LM.
+
 ---
 
 *Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn. RANO-LM/NANO-LM là đồng thuận đang hoàn thiện; số liệu đáp ứng từ các nghiên cứu riêng lẻ, không phải so sánh trực tiếp.*

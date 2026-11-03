@@ -127,6 +127,12 @@ flowchart TD
 Đó là **phù cơ do mất thần kinh (denervation)**, không phải viêm cơ/di căn cơ. Phải **truy tìm tổn thương thần kinh** dọc đám rối/ rễ (MRI neurography + EMG), và **không sinh thiết cơ**.
 </details>
 
+## Bài liên quan chéo
+
+- **1617** — Bệnh đám rối cánh tay do xạ (RIBP): bản chất và diễn tiến của tổn thương do xạ.
+- **377** — U bao dây thần kinh dạng đám rối và MPNST trong NF1: nhóm u thần kinh ngoại biên xâm lấn đám rối.
+- **1677** — RANO-LM — đánh giá đáp ứng di căn màng não: chẩn đoán phân biệt khi u lan theo rễ vào ống sống.
+
 ---
 
 *Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn. Bài tổng hợp từ ca lâm sàng/loạt hồi cứu; quyết định sinh thiết hay theo dõi phải cá thể hóa theo tiền sử xạ và diễn tiến.*

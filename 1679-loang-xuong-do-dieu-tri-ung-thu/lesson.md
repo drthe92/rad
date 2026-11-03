@@ -126,6 +126,12 @@ flowchart TD
 **Không ngừng đột ngột** — nguy cơ bùng phát mất xương và gãy lún dồn dập. Cần kế hoạch: liều cuối + thuốc nối (bisphosphonate) và theo dõi DXA; quyết định bởi bác sĩ chuyên khoa xương.
 </details>
 
+## Bài liên quan chéo
+
+- **3017** — Gãy nén đốt sống do loãng xương — vertebroplasty: xử trí cấp khi đã có gãy lún.
+- **1650** — Gãy xương sườn và xương đòn sau xạ trị: gãy do xạ, cần phân biệt với gãy suy yếu.
+- **1639** — Đau xương do di căn — chọn xạ trị hay SBRT: kiểm soát đau, không nhầm đau di căn với gãy suy yếu.
+
 ---
 
 *Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn. Ngưỡng HU/điều trị thay đổi theo hướng dẫn địa phương; bài không thay thế tư vấn chuyên khoa xương–nội tiết.*
