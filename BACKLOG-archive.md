@@ -1100,29 +1100,24 @@
 - 2026-11-03 worker: viết **1756** (hội chứng gian não ở nhũ nhi; 96% BMI < P5, rung giật nhãn cầu 43%, chậm chẩn đoán 11 tháng, BMI SDS −2,64 → +5,75) — append 2 gap 1757/1758 (đã check_duplicates).
 - 2026-11-03 · lượt worker: viết **1757** (hạ Na muộn sau xuất viện) + **1758** (OPG–NF1) — 6 ảnh CC BY 4.0 gốc + 2 composite; flip #1875/#1876 → xong, append #1877/#1878 (đã check_duplicates).
 - 2026-11-03 · verify PASS 6/6 (872 bài / 872 card, parity 0, 15 cảnh báo legacy); hub sinh lại từ build_index.py; CLASSIFY_4D thêm 1757→nhi, 1758→mat.
-
 - **2026-11-03** — viết **1752** (suy tuyến yên sau xạ sọ ở trẻ) + **1684** (nuốt khó sau xạ đầu cổ); flip #1866/#1106 → xong; 1684 lấy ID cột bảng (ghi chú cũ 1734 đã trùng) và dời mục ruột ngắn người lớn 1684 → **1740** để hết trùng ID.
 - Ảnh: 1752 dùng forest plot + hồi quy đỉnh GH (CC BY 4.0, PMC12243098) + liều tuyến yên (CC BY-NC-ND, PMC8184512); 1684 dùng OAR/NTCP (CC BY 4.0, PMC6610668) + PAS (CC BY 4.0, PMC12025715); verify PASS 6/6.
-
 ## 2026-11-03 — lượt worker: 1761
 - Viết **1761 – Trismus sau xạ trị đầu cổ** (6 ảnh + 1 composite CC BY 4.0; 9 nguồn OA); flip #1110b → xong, append 2 khoảng trống mới (**1762** V3 sau xạ, **1763** xơ hóa mô mềm cổ — đã check_duplicates).
 - verify: **VERIFY PASS 6/6** — 875 bài / 875 card, parity +0, selfcheck warn 15 legacy, backlog chờ 126 → 127 (flip 1, append 2).
-
 ## 2026-11-03 — lượt worker: 1764
 - Viết **1764 – Bệnh thần kinh V3 sau xạ trị đầu cổ** (6 ảnh + 1 composite CC BY 4.0; 13 nguồn, 6 bài OA); flip #1110c → xong, append 2 khoảng trống (**1765** hạ thiệt sau xạ, **1766** first bite — đã check_duplicates).
 - verify: **VERIFY PASS 6/6** — 876 bài / 876 card, parity +0, selfcheck warn 15 legacy; số liệu chính: CNP 30,9% (98/317), tiềm tàng 7,6 năm, V3 Dmax 66 Gy/D1cc 62,7 Gy.
-
 ## 2026-11-03 — lượt worker: 1763
 - Viết **1763 – Xơ hóa mô mềm cổ sau xạ & hội chứng vai–cổ** (6 ảnh + 1 composite; CC BY / CC BY-NC / CC BY-NC-ND; 15 nguồn, 6 bài OA có ảnh); flip #1110d → xong, append 2 khoảng trống (**1767** phù bạch mạch đầu–cổ, **1768** cổ đông cứng & đường thở — đã check_duplicates; 1765/1766 đã bị dùng ở #1116/#1117 nên né).
 - verify: **VERIFY PASS 6/6** — 877 bài / 877 card, parity +0, selfcheck warn 15 legacy; số liệu chính: xơ hóa cổ 30–50% (69,4% NPC), SWE 46,98 vs 28,10 kPa, TD50 da 40,2 vs 8,4 Gy, vai 96,3 vs 65,3.
-
-## Nhật ký worker
 - 2026-11-03 — viết **1767** (phù bạch mạch đầu–cổ ngoài sau xạ: 70/34% ở 360 ngày, phù mặt ≥ 2 29,9%, level IV 58,7 Gy, vòng cổ ICC 0,958–0,994 vs bì 0,136–0,354); 7 ảnh + 1 composite; verify PASS 6/6 (878 bài/878 card).
 - 2026-11-03 — flip 1110e → xong; append 1769 (rò dưỡng chấp cổ) + 1770 (carotid blowout), đã check_duplicates.
-
 - **1768 (2026-11-03)**: "Cổ đông cứng" sau xạ & đường thở khó — ORN-DAS 0–7 (AUC 0,76; ≥ 4 PPV 64,3%), DL FPS 54,2% vs 79,5%, FOI 28,8% vs 9,4%; 6 ảnh (5 CC BY, 1 CC BY-NC); phản biện: xạ thực quản 96,4% lần đầu.
 - Append 1769 (FONA ở cổ xạ) + 1770 (tắc hai TM cảnh trong) — đã check_duplicates.
 - 2026-11-03 · 1769 FONA cổ đã xạ: màng giáp nhẫn **8,7 → 7,5 mm**, da–màng **11,7 → 10,2 mm** (n = 231); CICO **bougie 83% vs cannula 18%**; cricothyroidotomy chuyển tiếp → hẹp **13,0%**; LCRN **4,3%**.
 - 2026-11-03 · 1770 tắc IJV hai bên: mảnh trái **48,4%** không bàng hệ; **CTV tắc giả 4/4**; stent **95,5%/30,5 tháng**; Frisén **2 → 1**.
 - 2026-11-03 · **1685** bệnh cơ do statin & anti-HMGCR IMNM: myalgia **5–20%** (CK bình thường) · bệnh cơ **1–5%** (CK > 4×ULN) · tiêu cơ vân **< 0,1%** (CK > 10×ULN); anti-HMGCR **2,9/triệu người–năm**, **20,4–24,1**/triệu người dùng statin, CK đỉnh **7.020 U/L**, sức cơ bình thường **46,2%**; MRI **khoang sau + cơ khép** = IMNM vs **khoang trước** = DM; 5 ảnh (3 BY-NC-ND, 1 BY, 1 BY-NC); flip #1107 → xong.
 - 2026-11-03 · **270** carotid web (263 đã dùng → đổi 270): **9,58%** ESUS, **13%** thể ẩn < 60 tuổi, tái phát **17% vs 3%** (HR 5,0), bỏ sót khi EVT **35,3%**, SCORE-WEB **AUC 0,824**; 4 ảnh (2 BY-NC, 2 BY); flip #1108 → xong; append **1773** (bóc tách cảnh cổ) + **1774** (bệnh cơ corticoid/ICU) — đã check_duplicates.
+- 2026-11-03: viết **1773** (bóc tách cảnh cổ) — 4,69/100.000 người–năm, tái phát 2,4%/năm (CADISS), TREAT-CAD 23% vs 15%, T1 VISTA Se 95,2%/Sp 100%; 4 ảnh (CC BY/CC BY-NC-ND); flip #1128.
+- 2026-11-03: viết **1774** (CIM/CIP + bệnh cơ corticoid) — ICU-AW 43%, STIR phù cơ Se 100%/Sp 85,7% so với GBS, MRC < 48, PENT Se 94%/Sp 91%; 3 ảnh; flip #1129; append 1775/1776 (đã check_duplicates).
