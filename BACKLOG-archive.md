@@ -1081,3 +1081,5 @@
 - 1424: tăng HA/biến cố toàn thân sau anti-VEGF — HA lúc tiêm +25,7 mmHg (13,6% urgency), đoàn hệ Pháp aRR 0,96, nhưng eGFR −5/6 tháng & UACR +11,5; TMA 6–11 tháng.
 
 - 2026-11-03: viết **1418** (phù hoàng điểm do xạ kháng anti-VEGF: DEX vs FAc; CEA; IOP) + **1419** (bệnh võng mạc do xạ ở trẻ: 40–50 Gy, plaque 45 Gy, 23,4 Gy thoáng qua); 8 ảnh OA, verify PASS 6/6 (853 bài/853 card); append 2 gap 1435/1436.
+- 2026-11-03: viết **1426** (viêm nội nhãn sau tiêm tái phát/không đáp ứng; 3 ảnh CC BY) + **1730** (DPDS; 3 ảnh CC BY-ND/NC-ND). #1103/1427 bị trùng 461 → chuyển thành nâng cấp 461.
+- 2026-11-03: append 2 khoảng trống mới #1843 (masquerade nội nhãn, ID 1435) + #1844 (cổ trướng tụy, ID 1736), đều đã check_duplicates exit 0.
