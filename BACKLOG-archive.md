@@ -1100,3 +1100,5 @@
 - 2026-11-03 — **265** Ngộ độc khí cười: B₁₂ bình thường 95% nhưng Hcy/MMA tăng 100%; Hcy Se 95%/Sp 13%; MRI "chữ V ngược" 60–73%; 3 ảnh CC BY/CC BY-NC; flip #1102 → xong, append #1869 (270 thiếu đồng) + #1870 (272 sarcoma sọ do xạ).
 
 - 2026-11-03: viết 263 (CBS sau xạ cổ; 5 ảnh + 1 composite CC BY) và 1731 (u mầm nội sọ ở trẻ; 5 ảnh + 1 composite CC BY); verify 5/5 PASS; append 1751/1752 (đã check_duplicates).
+- 2026-11-03 — **1751** LCH vùng dưới đồi–tuyến yên ở trẻ: 4,46/1 triệu trẻ/năm; cuống yên ≥ 3 mm/≥ 4 mm, ≥ 6,5 mm + ĐTĐ nhạt + ≥ 2 thiếu hụt → nguy cơ u; AVD 69%, bất thường cuống/thùy sau 73%; ưu tiên sinh thiết ngoài sọ; MAPKi 94,4%; ND-LCH 10%; 4 ảnh + 1 composite (CC BY/CC BY-NC).
+- 2026-11-03: verify PASS 6/6 (selfcheck/lint/mermaid/authors/hub/index); parity +0; 866 bài/866 card; flip #1865→1751; append #1871→1753, #1872→1754 (đã check_duplicates).
