@@ -1121,3 +1121,7 @@
 - 2026-11-03 · **270** carotid web (263 đã dùng → đổi 270): **9,58%** ESUS, **13%** thể ẩn < 60 tuổi, tái phát **17% vs 3%** (HR 5,0), bỏ sót khi EVT **35,3%**, SCORE-WEB **AUC 0,824**; 4 ảnh (2 BY-NC, 2 BY); flip #1108 → xong; append **1773** (bóc tách cảnh cổ) + **1774** (bệnh cơ corticoid/ICU) — đã check_duplicates.
 - 2026-11-03: viết **1773** (bóc tách cảnh cổ) — 4,69/100.000 người–năm, tái phát 2,4%/năm (CADISS), TREAT-CAD 23% vs 15%, T1 VISTA Se 95,2%/Sp 100%; 4 ảnh (CC BY/CC BY-NC-ND); flip #1128.
 - 2026-11-03: viết **1774** (CIM/CIP + bệnh cơ corticoid) — ICU-AW 43%, STIR phù cơ Se 100%/Sp 85,7% so với GBS, MRC < 48, PENT Se 94%/Sp 91%; 3 ảnh; flip #1129; append 1775/1776 (đã check_duplicates).
+
+## 2026-11-03 — worker rad-backlog (lượt 271)
+- Viết **271** Hội chứng tăng tưới máu não sau can thiệp cảnh (CHS) — ID 264 đã bị u màng não do xạ chiếm nên đổi sang 271; 4 ảnh (CC BY 4.0 ×1, CC BY-NC-SA ×1, CC BY-NC-ND ×2), không tạo composite vì có ảnh ND.
+- Flip #1109 → xong; append 2 khoảng trống mới **274** (OIS/glôcôm tân mạch sau tái thông) + **275** (động kinh sau can thiệp cảnh), đã check_duplicates; `split_backlog --auto` báo "không có gì để tách" dù BACKLOG.md 649 KB (toàn bộ nằm trong bảng, không có ghi chú dài).
