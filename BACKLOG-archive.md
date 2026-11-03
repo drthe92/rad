@@ -1100,3 +1100,6 @@
 - 2026-11-03 worker: viết **1756** (hội chứng gian não ở nhũ nhi; 96% BMI < P5, rung giật nhãn cầu 43%, chậm chẩn đoán 11 tháng, BMI SDS −2,64 → +5,75) — append 2 gap 1757/1758 (đã check_duplicates).
 - 2026-11-03 · lượt worker: viết **1757** (hạ Na muộn sau xuất viện) + **1758** (OPG–NF1) — 6 ảnh CC BY 4.0 gốc + 2 composite; flip #1875/#1876 → xong, append #1877/#1878 (đã check_duplicates).
 - 2026-11-03 · verify PASS 6/6 (872 bài / 872 card, parity 0, 15 cảnh báo legacy); hub sinh lại từ build_index.py; CLASSIFY_4D thêm 1757→nhi, 1758→mat.
+
+- **2026-11-03** — viết **1752** (suy tuyến yên sau xạ sọ ở trẻ) + **1684** (nuốt khó sau xạ đầu cổ); flip #1866/#1106 → xong; 1684 lấy ID cột bảng (ghi chú cũ 1734 đã trùng) và dời mục ruột ngắn người lớn 1684 → **1740** để hết trùng ID.
+- Ảnh: 1752 dùng forest plot + hồi quy đỉnh GH (CC BY 4.0, PMC12243098) + liều tuyến yên (CC BY-NC-ND, PMC8184512); 1684 dùng OAR/NTCP (CC BY 4.0, PMC6610668) + PAS (CC BY 4.0, PMC12025715); verify PASS 6/6.
