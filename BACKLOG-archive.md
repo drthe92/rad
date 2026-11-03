@@ -1096,3 +1096,5 @@
 - Append #1865 → 1738 (rò tụy–phế quản) + #1866 → 1450 (glôcôm do corticoid khi điều trị irAE mắt), đều đã check_duplicates.
 - 2026-11-03: viết **1438** viêm màng bồ đào giao cảm (SO) — 5 ảnh + 1 composite CC BY 4.0, 861 bài/861 card; flip #1864; append #1867→1443, #1868→1444 (đã check_duplicates).
 - 2026-11-03: verify PASS 6/6 (selfcheck/lint/mermaid/authors/hub/index); parity +0; chờ viết 126; selfcheck warn 15 legacy.
+- 2026-11-03 — **264** U màng não do xạ: 251 ca (tiềm tàng 22,9 ± 11,4 năm; nhiều ổ 11,9%; tái phát 18,3%; độ I 140/205), DCOG-LATER 12,4%/40 năm, CCSS 5,6% tới 40 tuổi; 3 ảnh CC BY/CC BY-NC-ND. Europe PMC REST 503 → CREDITS ghi "Tạp chí Năm (PMCID)" không kèm tên.
+- 2026-11-03 — **265** Ngộ độc khí cười: B₁₂ bình thường 95% nhưng Hcy/MMA tăng 100%; Hcy Se 95%/Sp 13%; MRI "chữ V ngược" 60–73%; 3 ảnh CC BY/CC BY-NC; flip #1102 → xong, append #1869 (270 thiếu đồng) + #1870 (272 sarcoma sọ do xạ).
