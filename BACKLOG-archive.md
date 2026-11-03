@@ -1119,3 +1119,6 @@
 ## Nhật ký worker
 - 2026-11-03 — viết **1767** (phù bạch mạch đầu–cổ ngoài sau xạ: 70/34% ở 360 ngày, phù mặt ≥ 2 29,9%, level IV 58,7 Gy, vòng cổ ICC 0,958–0,994 vs bì 0,136–0,354); 7 ảnh + 1 composite; verify PASS 6/6 (878 bài/878 card).
 - 2026-11-03 — flip 1110e → xong; append 1769 (rò dưỡng chấp cổ) + 1770 (carotid blowout), đã check_duplicates.
+
+- **1768 (2026-11-03)**: "Cổ đông cứng" sau xạ & đường thở khó — ORN-DAS 0–7 (AUC 0,76; ≥ 4 PPV 64,3%), DL FPS 54,2% vs 79,5%, FOI 28,8% vs 9,4%; 6 ảnh (5 CC BY, 1 CC BY-NC); phản biện: xạ thực quản 96,4% lần đầu.
+- Append 1769 (FONA ở cổ xạ) + 1770 (tắc hai TM cảnh trong) — đã check_duplicates.
