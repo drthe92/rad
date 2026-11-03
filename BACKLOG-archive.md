@@ -1094,3 +1094,5 @@
 ## Nhật ký 2026-11-03 (lượt worker)
 - Viết **1737** (rò tụy–màng phổi) + **1437** (viêm màng bồ đào do ICI/VKH-like); verify PASS 6/6, 860 bài/860 card; flip #1862/#1863.
 - Append #1865 → 1738 (rò tụy–phế quản) + #1866 → 1450 (glôcôm do corticoid khi điều trị irAE mắt), đều đã check_duplicates.
+- 2026-11-03: viết **1438** viêm màng bồ đào giao cảm (SO) — 5 ảnh + 1 composite CC BY 4.0, 861 bài/861 card; flip #1864; append #1867→1443, #1868→1444 (đã check_duplicates).
+- 2026-11-03: verify PASS 6/6 (selfcheck/lint/mermaid/authors/hub/index); parity +0; chờ viết 126; selfcheck warn 15 legacy.
