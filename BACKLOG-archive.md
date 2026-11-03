@@ -1090,3 +1090,7 @@
 
 ## 2026-11-03 — worker rad-backlog (1 bài)
 - **1436** VKH (mắt/hắc mạc–miễn dịch): SRD hai bên 96,4%, BALAD 48,2% (OR 12,04 xơ hóa / 14,78 sunset glow), SFCT 220–360 → 940/898 → 347/447 µm; cửa sổ 2–4 tuần; 7 ảnh CC BY 4.0; nối 1435/492/411. Flip #1861, append #1863/#1864 (check_duplicates 0).
+
+## Nhật ký 2026-11-03 (lượt worker)
+- Viết **1737** (rò tụy–màng phổi) + **1437** (viêm màng bồ đào do ICI/VKH-like); verify PASS 6/6, 860 bài/860 card; flip #1862/#1863.
+- Append #1865 → 1738 (rò tụy–phế quản) + #1866 → 1450 (glôcôm do corticoid khi điều trị irAE mắt), đều đã check_duplicates.
