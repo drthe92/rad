@@ -1115,3 +1115,7 @@
 ## 2026-11-03 — lượt worker: 1763
 - Viết **1763 – Xơ hóa mô mềm cổ sau xạ & hội chứng vai–cổ** (6 ảnh + 1 composite; CC BY / CC BY-NC / CC BY-NC-ND; 15 nguồn, 6 bài OA có ảnh); flip #1110d → xong, append 2 khoảng trống (**1767** phù bạch mạch đầu–cổ, **1768** cổ đông cứng & đường thở — đã check_duplicates; 1765/1766 đã bị dùng ở #1116/#1117 nên né).
 - verify: **VERIFY PASS 6/6** — 877 bài / 877 card, parity +0, selfcheck warn 15 legacy; số liệu chính: xơ hóa cổ 30–50% (69,4% NPC), SWE 46,98 vs 28,10 kPa, TD50 da 40,2 vs 8,4 Gy, vai 96,3 vs 65,3.
+
+## Nhật ký worker
+- 2026-11-03 — viết **1767** (phù bạch mạch đầu–cổ ngoài sau xạ: 70/34% ở 360 ngày, phù mặt ≥ 2 29,9%, level IV 58,7 Gy, vòng cổ ICC 0,958–0,994 vs bì 0,136–0,354); 7 ảnh + 1 composite; verify PASS 6/6 (878 bài/878 card).
+- 2026-11-03 — flip 1110e → xong; append 1769 (rò dưỡng chấp cổ) + 1770 (carotid blowout), đã check_duplicates.
