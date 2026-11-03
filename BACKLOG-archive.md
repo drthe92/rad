@@ -1107,3 +1107,7 @@
 ## 2026-11-03 — lượt worker: 1761
 - Viết **1761 – Trismus sau xạ trị đầu cổ** (6 ảnh + 1 composite CC BY 4.0; 9 nguồn OA); flip #1110b → xong, append 2 khoảng trống mới (**1762** V3 sau xạ, **1763** xơ hóa mô mềm cổ — đã check_duplicates).
 - verify: **VERIFY PASS 6/6** — 875 bài / 875 card, parity +0, selfcheck warn 15 legacy, backlog chờ 126 → 127 (flip 1, append 2).
+
+## 2026-11-03 — lượt worker: 1764
+- Viết **1764 – Bệnh thần kinh V3 sau xạ trị đầu cổ** (6 ảnh + 1 composite CC BY 4.0; 13 nguồn, 6 bài OA); flip #1110c → xong, append 2 khoảng trống (**1765** hạ thiệt sau xạ, **1766** first bite — đã check_duplicates).
+- verify: chờ chạy `verify_all.py`; số liệu chính: CNP 30,9% (98/317), tiềm tàng 7,6 năm, V3 Dmax 66 Gy/D1cc 62,7 Gy.
