@@ -53,7 +53,7 @@ Mẫu hình chốt: **mắt đã được chọc–tiêm kháng sinh (hoặc PPV
 
 - **0–48 giờ, không cải thiện:** **ổ kín chưa mở** (mủ fibrin), **vi khuẩn kháng vancomycin** (*Enterococcus*, VRSA), **gram âm kháng ceftazidime**, hoặc **chẩn đoán sai** (viêm màng bồ đào bùng phát).
 - **48 giờ–2 tuần, cải thiện rồi xấu lại:** **biofilm trên IOL/implant/vỏ bao**, **mảnh hoại tử còn sót**, **áp-xe dịch kính khu trú**.
-- **2–12 tuần, khởi phát muộn:** **implant dexamethasone** (32G–22G), ***Cutibacterium acnes***, **nấm** (*Candida*, *Aspergillus*).
+- **2–12 tuần, khởi phát muộn:** **implant dexamethasone** (kim **22G**, lớn hơn 30–32G của anti-VEGF), ***Cutibacterium acnes***, **nấm** (*Candida*, *Aspergillus*).
 - **Hàng tháng–hàng năm, "mắc lại":** **đợt nhiễm mới** do tiêm lại — **1,5% (8/535)** bệnh nhân có tiền sử viêm nội nhãn bị đợt thứ hai sau khi đã hết viêm hoàn toàn; ca nguyên văn thứ hai cách **2 năm**, cùng mắt, sau aflibercept.
 - **Bệnh cảnh giả (masquerade):** **bùng phát viêm màng bồ đào**, **u lympho nội nhãn**, **hoại tử u**, **dị vật/mảnh thể thủy tinh** — không đau nhiều, **không đáp ứng kháng sinh**, tái diễn cùng kiểu.
 
