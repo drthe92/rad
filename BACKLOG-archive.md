@@ -1083,3 +1083,7 @@
 - 2026-11-03: viết **1418** (phù hoàng điểm do xạ kháng anti-VEGF: DEX vs FAc; CEA; IOP) + **1419** (bệnh võng mạc do xạ ở trẻ: 40–50 Gy, plaque 45 Gy, 23,4 Gy thoáng qua); 8 ảnh OA, verify PASS 6/6 (853 bài/853 card); append 2 gap 1435/1436.
 - 2026-11-03: viết **1426** (viêm nội nhãn sau tiêm tái phát/không đáp ứng; 3 ảnh CC BY) + **1730** (DPDS; 3 ảnh CC BY-ND/NC-ND). #1103/1427 bị trùng 461 → chuyển thành nâng cấp 461.
 - 2026-11-03: append 2 khoảng trống mới #1843 (masquerade nội nhãn, ID 1435) + #1844 (cổ trướng tụy, ID 1736), đều đã check_duplicates exit 0.
+
+## 2026-11-03 — worker rad-backlog (2 bài)
+- **1435** u lympho nội nhãn giả viêm màng bồ đào (mắt): IL-10/IL-6, ISOLD, sIL-2R huyết thanh vô dụng; 5 ảnh CC BY; nối 1425/1426/492.
+- **1736** cổ trướng tụy & rò tụy nội bộ (bụng): amylase dịch báng > 1.000 + SAAG < 1,1, stent bắc qua rò OR 6,5, scalloping gan; 5 ảnh; nối 1730/1683/135.
