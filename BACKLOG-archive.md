@@ -1111,3 +1111,7 @@
 ## 2026-11-03 — lượt worker: 1764
 - Viết **1764 – Bệnh thần kinh V3 sau xạ trị đầu cổ** (6 ảnh + 1 composite CC BY 4.0; 13 nguồn, 6 bài OA); flip #1110c → xong, append 2 khoảng trống (**1765** hạ thiệt sau xạ, **1766** first bite — đã check_duplicates).
 - verify: **VERIFY PASS 6/6** — 876 bài / 876 card, parity +0, selfcheck warn 15 legacy; số liệu chính: CNP 30,9% (98/317), tiềm tàng 7,6 năm, V3 Dmax 66 Gy/D1cc 62,7 Gy.
+
+## 2026-11-03 — lượt worker: 1763
+- Viết **1763 – Xơ hóa mô mềm cổ sau xạ & hội chứng vai–cổ** (6 ảnh + 1 composite; CC BY / CC BY-NC / CC BY-NC-ND; 15 nguồn, 6 bài OA có ảnh); flip #1110d → xong, append 2 khoảng trống (**1767** phù bạch mạch đầu–cổ, **1768** cổ đông cứng & đường thở — đã check_duplicates; 1765/1766 đã bị dùng ở #1116/#1117 nên né).
+- verify: **VERIFY PASS 6/6** — 877 bài / 877 card, parity +0, selfcheck warn 15 legacy; số liệu chính: xơ hóa cổ 30–50% (69,4% NPC), SWE 46,98 vs 28,10 kPa, TD50 da 40,2 vs 8,4 Gy, vai 96,3 vs 65,3.
