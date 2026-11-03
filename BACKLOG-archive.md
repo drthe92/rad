@@ -1103,3 +1103,7 @@
 
 - **2026-11-03** — viết **1752** (suy tuyến yên sau xạ sọ ở trẻ) + **1684** (nuốt khó sau xạ đầu cổ); flip #1866/#1106 → xong; 1684 lấy ID cột bảng (ghi chú cũ 1734 đã trùng) và dời mục ruột ngắn người lớn 1684 → **1740** để hết trùng ID.
 - Ảnh: 1752 dùng forest plot + hồi quy đỉnh GH (CC BY 4.0, PMC12243098) + liều tuyến yên (CC BY-NC-ND, PMC8184512); 1684 dùng OAR/NTCP (CC BY 4.0, PMC6610668) + PAS (CC BY 4.0, PMC12025715); verify PASS 6/6.
+
+## 2026-11-03 — lượt worker: 1761
+- Viết **1761 – Trismus sau xạ trị đầu cổ** (6 ảnh + 1 composite CC BY 4.0; 9 nguồn OA); flip #1110b → xong, append 2 khoảng trống mới (**1762** V3 sau xạ, **1763** xơ hóa mô mềm cổ — đã check_duplicates).
+- verify: **VERIFY PASS 6/6** — 875 bài / 875 card, parity +0, selfcheck warn 15 legacy, backlog chờ 126 → 127 (flip 1, append 2).
