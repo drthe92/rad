@@ -1079,3 +1079,5 @@
 - 1679: CTIBL — HU L1 ≤ 95,5 (Se 84,6/Sp 86,4), ADT hút xương −4,4%/12 tháng, denosumab > alendronate về gãy lún.
 - 3054: PTLD trẻ sau ghép — PET 95–100% Se, EBV âm vẫn có PTLD, sinh thiết là chốt.
 - 1424: tăng HA/biến cố toàn thân sau anti-VEGF — HA lúc tiêm +25,7 mmHg (13,6% urgency), đoàn hệ Pháp aRR 0,96, nhưng eGFR −5/6 tháng & UACR +11,5; TMA 6–11 tháng.
+
+- 2026-11-03: viết **1418** (phù hoàng điểm do xạ kháng anti-VEGF: DEX vs FAc; CEA; IOP) + **1419** (bệnh võng mạc do xạ ở trẻ: 40–50 Gy, plaque 45 Gy, 23,4 Gy thoáng qua); 8 ảnh OA, verify PASS 6/6 (853 bài/853 card); append 2 gap 1435/1436.
