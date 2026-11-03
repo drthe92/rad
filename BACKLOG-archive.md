@@ -1104,3 +1104,5 @@
 - 2026-11-03: verify PASS 6/6 (selfcheck/lint/mermaid/authors/hub/index); parity +0; 866 bài/866 card; flip #1865→1751; append #1871→1753, #1872→1754 (đã check_duplicates).
 - 2026-11-03 — **1753** LINH ở trẻ: anti-rabphilin-3A Se 100% (mô bệnh)/76% (lâm sàng)/88,9% (LINH+LPH), dương giả u mầm + 5/41 người khỏe; ngưỡng cuống yên 3/4 mm, sinh thiết ≥ 6,5–7 mm, 4/9 ca sinh thiết lần 2; tự hết 4–5 tháng & 9 tháng; 3 ảnh + 1 composite CC BY.
 - 2026-11-03 — **1754** Hội chứng dưới đồi ở trẻ: aHO (+1,0 SDS/12 tháng, ≥ 24 tháng, ≥ +2,0 SDS); HS 52,5% (n=120), REE < 90% ở 67,2%, HLS r = 0,34/0,40, mất khát Na 158; setmelanotide −16,5% vs +3,3%; 5 ảnh + 1 composite CC BY; verify PASS 6/6, parity +0, flip #1871/#1872 → xong.
+- 2026-11-03 worker: viết **1755** (hạ Na sau mổ vùng trên yên — SIADH vs CSWS; 72,8% hạ Na, ba pha 57,4%, FEurate > 11% sau sửa Na = CSWS) — 4 ảnh + 1 composite CC BY 4.0; verify PASS 6/6 (870 bài/870 card, parity 0).
+- 2026-11-03 worker: viết **1756** (hội chứng gian não ở nhũ nhi; 96% BMI < P5, rung giật nhãn cầu 43%, chậm chẩn đoán 11 tháng, BMI SDS −2,64 → +5,75) — append 2 gap 1757/1758 (đã check_duplicates).
