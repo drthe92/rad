@@ -132,6 +132,7 @@ CLASSIFY_4D = {
     "1726": "vuspk",
     "1729": "canthiep",
     "1730": "bung",
+    "1731": "nhi",
     "1736": "bung",
     "1737": "bung",
     "1781": "thankinh",
