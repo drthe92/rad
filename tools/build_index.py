@@ -170,6 +170,7 @@ CLASSIFY_4D = {
     "1820": "bung",
     "1821": "bung",
     "1825": "bung",
+    "1828": "thankinh",
     "1822": "canthiep",
     "1831": "canthiep",
     "1832": "canthiep",

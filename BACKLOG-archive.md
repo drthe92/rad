@@ -1164,3 +1164,5 @@
 - 2026-11-04 · flip #1129 → xong; append #1165 (3077 áp-xe túi tinh) + #1166 (3078 nang utricle/Müllerian) — đã check_duplicates; verify PASS 6/6, 913 bài/913 card.
 - 2026-11-04 · worker: viết **1430** (ICANS sau CAR-T: 20–>60%, độ ≥3 10–30%, MRI bình thường ~2/3, phù lan tỏa = độ 4, dex 10–20 mg q6h, tocilizumab không dùng đơn độc; 6 ảnh CC BY-NC 4.0).
 - 2026-11-04 · flip #1130 → xong; append #1894 (1446 MNT BCMA muộn) + #1895 (1447 giảm IgG/nhiễm muộn) — đã check_duplicates.
+- 2026-11-04 · worker: viết **1828** (vôi hóa não do xạ trị ở trẻ: 54 Gy → dấu hiệu sau 4 năm, triệu chứng 13–14 năm; 4,5 Gy ở Fanconi vẫn vôi hóa; 85% vi chảy máu sau 18–24 Gy, 24 vs 18 Gy RR 5,0; QSM χ âm = canxi; 5 ảnh CC BY/CC BY-NC/CC BY-NC-ND).
+- 2026-11-04 · worker: viết **6145** (P-AIP: 37 trẻ, IBD 62,2%, IgG4 chỉ tăng 15,2%, men tụy bình thường 46–57%, lui bệnh 83,8%, tự khỏi 24,3%, tái phát 17–25%, cắt tụy 2,7%; 4 ảnh CC BY/CC BY-NC); flip #1131/#1132 → xong; append #1896 (6146 viêm tụy mạn trẻ) + #1897 (6151 hạch vôi hóa sau lymphoma) — đã check_duplicates; đổi ID trùng #1161 1828→1840, #1823 6145→6150.
