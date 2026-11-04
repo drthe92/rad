@@ -1140,3 +1140,5 @@
 - 2026-11-04 — flip 1111/267 → xong; sửa ID trùng **270 → 280** (thiếu đồng, 270 đã có bài carotid web); append **281** (thoái hóa tủy kết hợp bán cấp do thiếu B12), check_duplicates exit 0.
 - 2026-11-04 — viết **269** (xạ lại tủy sống): ngưỡng Sahgal **≥ 5 tháng / tổng < 70 Gy / đợt mới < 25 Gy**, điểm Nieder, 32 ca tổng Dmax **80,7 Gy** (tới 114,79) không RM, ca 3 đợt T8 tổng **42,78 Gy**, tử vong do **rò thực quản**; 4 ảnh CC BY (PMC9869751, PMC11139739).
 - 2026-11-04 — flip 1113/269 → xong; append **1843** (rễ–đám rối do xạ) + **1844** (rò/hoại tử thực quản do xạ), check_duplicates exit 0.
+- 2026-11-04 · worker: viết **942** (AUF: CTA thì động mạch + DSA 69%/100% khi kéo stent; tử vong 10–20%, 22% nếu sốc) và **1715** (rò DNT sau xuyên mê đạo: thể bên 62,5% tự khỏi vs thể giữa 0,6% phải mổ lại; viêm màng não 3%→14%). Verify PASS 6/6, 897 bài/897 card.
+- 2026-11-04 · flip #1112/#1114 → xong; append 2 gap mới #1165 (944 nhiễm stent-graft) + #1166 (1721 rò DNT nền sọ trước ẩn), đã check_duplicates exit 0.
