@@ -263,6 +263,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 168 | [U tủy thượng thận & u cận hạch (pheochromocytoma/paraganglioma)](168-pheo-paraganglioma/lesson.md) | `pattern:khoi-thuong-than` `pattern:paraganglioma` `vung:thuong-than` `vung:paraganglia` `protocol:MIBG-DOTATATE` `incidentaloma:u-thuong-than` |
 | 169 | [PPGL ở trẻ em & trong thai kỳ: di truyền, bảo tồn vỏ thượng thận, alpha-block](169-ppgl-tre-em-va-thai-ky/lesson.md) | `pattern:khoi-thuong-than` `pattern:u-tang-mach` `pattern:di-truyen` `vung:thuong-than` `vung:o-bung-nhi` `score:PASS` `protocol:MRI-khong-gadolinium-thai` `incidentaloma:u-thuong-than` |
 | 158 | [Tiền liệt tuyến PI-RADS](158-tien-liet-tuyen-PIRADS/lesson.md) | `score:PI-RADS` |
+| 3055 | [Áp-xe tuyến tiền liệt: ổ mủ 0–20 HU, ADC 0,61–0,63 chồng lấp ung thư, > 2 cm/bóc nắp, khí = cấp cứu](3055-ap-xe-tuyen-tien-liet/lesson.md) | `pattern:ap-xe` `pattern:o-dich` `vung:tien-liet-tuyen` `protocol:CT-bung-co-can-quang` `protocol:MRI-tien-liet` `protocol:TRUS` |
 | 159 | [Bàng quang VI-RADS & UTUC](159-bang-quang-virads-u-duong-nieu-tren/lesson.md) | `score:VI-RADS` |
 | 160 | [Bụng cấp cứu GI](160-bung-cap-GI/lesson.md) | `protocol:CT-bung-cap` |
 | 161 | [Viêm ruột thừa cấp: tiếp cận CT/siêu âm, ngưỡng 6 mm & dấu hiệu phức tạp](161-viem-ruot-thua-cap/lesson.md) | `pattern:quai-ruot-gian` `pattern:tham-nhiem-mo` `vung:ho-chau-phai` `protocol:CT-bung-co-can-quang` `protocol:sieu-am-chen-ep` `score:Alvarado` |

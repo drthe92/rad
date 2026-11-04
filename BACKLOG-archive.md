@@ -1160,3 +1160,5 @@
 - 2026-11-04: flip #1831/#1832 → xong; append 2 mục #1136 (hẹp ruột do thiếu máu) + #1137 (SAE chấn thương lách), đã check_duplicates.
 - 2026-11-04: viết **1735** (dị vật âm đạo ở trẻ chưa rò — siêu âm 55,6–79,9%, X-quang 33,3%, vaginolith; 4 ảnh CC BY 4.0 + composite) + **1785** (động kinh sau tái thông moyamoya — cơn sớm 5,0%, nhồi máu OR 12,89, re-build up, 23,44% còn cơn; 4 ảnh CC BY 4.0 + composite).
 - 2026-11-04: dọn hàng chờ trùng (1706/090 đã có bài; 1664/1665 chuẩn hoá); append 1738 (TSS do băng vệ sinh) + 1786 (động kinh sau đột quỵ ở trẻ) — đều qua check_duplicates.
+- 2026-11-04 · worker: viết **3055** (áp-xe tuyến tiền liệt: 0,5% nhiễm khuẩn niệu, 12,4%/822 viêm cấp nhập viện, tử vong 8,8%; ADC 0,61–0,63 chồng lấp ung thư; > 2 cm bóc nắp tái phát 4% vs 31,6%; khí thũng tử vong 25%; 4 ảnh CC BY/CC BY 2.5/CC BY-NC/CC BY-NC-ND).
+- 2026-11-04 · flip #1129 → xong; append #1165 (3077 áp-xe túi tinh) + #1166 (3078 nang utricle/Müllerian) — đã check_duplicates; verify PASS 6/6, 913 bài/913 card.

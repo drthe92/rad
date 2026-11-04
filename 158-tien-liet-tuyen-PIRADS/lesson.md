@@ -100,6 +100,7 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [100 – Tổng quan Bụng](../100-tong-quan-he-bung/lesson.md)
+- [3055 – Áp-xe tuyến tiền liệt](../3055-ap-xe-tuyen-tien-liet/lesson.md) (kẻ bắt chước PI-RADS 4–5: ổ dịch ADC rất thấp + vỏ ngấm thuốc; sốt/48 giờ)
 - [150 – Bosniak](../150-nang-than-Bosniak/lesson.md) (logic RADS)
 - [155 – Thượng thận](../155-thuong-than-tinh-co/lesson.md) (washout)
 
