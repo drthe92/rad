@@ -68,6 +68,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 084 | [Viêm phổi thở máy (VAP): X-quang/CT, cấy định lượng & bó dự phòng vi hít sặc ở ICU](084-viem-phoi-tho-may/lesson.md) | `pattern:dong-dac` `pattern:hang` `vung:phoi` `score:CPIS` `protocol:X-quang-tai-giuong` `protocol:CT-lat-mong` `protocol:cay-dinh-luong` `incidentaloma:xep-phoi` |
 | 087 | [Viêm phổi do hít dầu hỏa/hydrocarbon ở trẻ: cơ chế hoá học, mốc thời gian trên phim & ba việc không được làm](087-viem-phoi-hit-dau-hoa-hydrocarbon/lesson.md) | `pattern:dong-dac` `pattern:thamnhiem` `vung:phoi` `protocol:X-quang-som` `protocol:CT-nguc` `incidentaloma:khong` |
 | 088 | [Áp-xe phổi & mủ màng phổi sau viêm phổi thở máy (VAP): ngưỡng dẫn lưu, tiêu sợi huyết & khi nào mổ](088-apxe-phoi-mu-mang-phoi-sau-vap/lesson.md) | `pattern:hang` `pattern:mu-mang-phoi` `pattern:tran-dich-khu-tru` `vung:phoi` `vung:mang-phoi` `score:Light-criteria` `protocol:CT-nguc-can-quang` `protocol:dan-luu-mang-phoi` |
+| 1826 | [Viêm phổi do thuốc ức chế mTOR (sirolimus/everolimus): 22,9% trên CT, 1,7% nặng (OR 3,36), X-quang có thể bình thường, ngừng thuốc → hồi phục 68%, tái phát 14%](1826-viem-phoi-do-thuoc-uc-che-mtor/lesson.md) | `pattern:kinh-mo` `pattern:dong-dac` `pattern:vien-kinh-mo` `pattern:day-ke` `vung:phoi` `protocol:CT-nguc-lat-mong` `protocol:BAL` `incidentaloma:to-thuoc` |
 
 ## Quy ước
 Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nhãn: ca nguyên văn / tổng hợp y văn / suy luận.

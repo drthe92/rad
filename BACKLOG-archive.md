@@ -1142,3 +1142,5 @@
 - 2026-11-04 — flip 1113/269 → xong; append **1843** (rễ–đám rối do xạ) + **1844** (rò/hoại tử thực quản do xạ), check_duplicates exit 0.
 - 2026-11-04 · worker: viết **942** (AUF: CTA thì động mạch + DSA 69%/100% khi kéo stent; tử vong 10–20%, 22% nếu sốc) và **1715** (rò DNT sau xuyên mê đạo: thể bên 62,5% tự khỏi vs thể giữa 0,6% phải mổ lại; viêm màng não 3%→14%). Verify PASS 6/6, 897 bài/897 card.
 - 2026-11-04 · flip #1112/#1114 → xong; append 2 gap mới #1165 (944 nhiễm stent-graft) + #1166 (1721 rò DNT nền sọ trước ẩn), đã check_duplicates exit 0.
+- 2026-11-04 · worker: viết **1826** (viêm phổi do mTOR: 22,9% trên CT, 1,7% nặng OR 3,36, khởi phát 3,6 tháng, X-quang có thể bình thường, ngừng thuốc → 68% hồi phục, tái phát 14%); 6 ảnh + 1 composite (CC BY / CC BY-NC).
+- 2026-11-04 · flip #T196A → xong; **1716 gộp vào 237** (trùng chủ đề — 237 đã có đủ số liệu + ảnh PMC12428227, không tạo ID trùng); append 2 gap mới #1167 (1788 PJP ngoài HIV) + #1168 (1789 CMV ở người ghép), check_duplicates exit 0.
