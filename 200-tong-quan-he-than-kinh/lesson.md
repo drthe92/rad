@@ -197,6 +197,7 @@ certainty: tong-hop-y-van
 - [1798 – Bàng hệ quanh não thất (Funaki 0–2) & giãn AChA: ChA 13,1 vs 1,3%/năm, aHR 0,33 khi bắc cầu, PA tồn tại aHR 4,11, phình bàng hệ 2,7%](../1798-phan-do-bang-he-quanh-nao-that-funaki-va-gian-dong-mach-mang-mach-truoc/lesson.md) *(mới — nối 1795/1782/1780)*
 - [1423 – Độc tính methotrexate nội tủy: viêm màng não hóa học, bệnh não chất trắng cấp & ức chế tủy](../1423-doc-tinh-methotrexate-noi-tuy/lesson.md) *(mới — nối 494/1421/462)*
 - [1784 – Hội chứng tưới máu quá mức (CHS) sau tái thông moyamoya: ASL/CTP, ΔCBF > 43,48, phân biệt chảy máu – nhồi máu](../1784-hoi-chung-tuoi-mau-qua-muc-sau-tai-thong-moyamoya/lesson.md) *(mới — nối 1780/1782/207)*
+- [1785 – Động kinh sau tái thông moyamoya ở trẻ: cơn sớm 5,0%, nhồi máu OR 12,89, EEG "re-build up" & 23,44% còn cơn](../1785-dong-kinh-sau-tai-thong-moyamoya-o-tre/lesson.md) *(mới — nối 1784/1780/1795)*
 - [207 – Phình mạch nội sọ chưa vỡ: PHASES/ELAPSS/UIATS, ngấm thành HR-vwMRI & quyết định điều trị](../207-phinh-mach-noi-so-chua-vo/lesson.md) *(mới)*
 - [1659 – Di căn màng não – nội tủy (LM): ngấm màng mềm theo rãnh vs màng cứng, grade MRI-LMD 1–6, CSF ≥ 10 mL & type I/II EANO–ESMO](../1659-di-can-mang-nao-noi-tuy/lesson.md) *(mới)*
 - [1676 – Bồn Ommaya: vị trí đầu catheter, biến chứng & kiểm tra chức năng bằng cản quang](../1676-bon-ommaya-vi-tri-catheter/lesson.md) *(mới — đầu catheter sừng trán 96%/thân 4%, nhiễm 5–8%, lạc 3/68 freehand; bơm cản quang phân biệt tắc/rò)*

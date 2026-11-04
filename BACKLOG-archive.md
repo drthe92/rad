@@ -1158,3 +1158,5 @@
 - 2026-11-04 · worker: viết **1734** (rò trực tràng–âm đạo ở trẻ: ARM 1/4.000–1/5.000, MRI 93,33% vs colostogram 76,9%, P–P > 1 cm, rò HIV tái phát 44%, TSARP 83,3%); flip #1123/#1124; append #1892 (1739) + #1893 (1698); verify PASS 6/6, 908 bài/908 card.
 - 2026-11-04: viết **1835** (thiếu máu ruột sau nút mạch mạc treo; 4 ảnh: 2 CC BY 4.0 + 2 CC BY-NC 3.0) và **1836** (rò động–tĩnh mạch tạng; 5 ảnh CC BY 4.0) — nối 1834/1833/1819/920; verify 5/5.
 - 2026-11-04: flip #1831/#1832 → xong; append 2 mục #1136 (hẹp ruột do thiếu máu) + #1137 (SAE chấn thương lách), đã check_duplicates.
+- 2026-11-04: viết **1735** (dị vật âm đạo ở trẻ chưa rò — siêu âm 55,6–79,9%, X-quang 33,3%, vaginolith; 4 ảnh CC BY 4.0 + composite) + **1785** (động kinh sau tái thông moyamoya — cơn sớm 5,0%, nhồi máu OR 12,89, re-build up, 23,44% còn cơn; 4 ảnh CC BY 4.0 + composite).
+- 2026-11-04: dọn hàng chờ trùng (1706/090 đã có bài; 1664/1665 chuẩn hoá); append 1738 (TSS do băng vệ sinh) + 1786 (động kinh sau đột quỵ ở trẻ) — đều qua check_duplicates.
