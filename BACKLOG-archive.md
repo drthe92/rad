@@ -1173,3 +1173,6 @@
 ## Nhật ký worker 2026-11-04 (lượt 3)
 - Viết **1912** (phình động mạch tạng: giả phình can thiệp mọi cỡ; lách > 3 cm, gan/thân tạng > 2 cm, thận > 3 cm, SMA + thai mọi cỡ; vỡ ở thai mẹ ~75–80%/thai > 90%; nút mạch khi vỡ 4,1% vs mổ 31%; nhồi máu lách 37,5%; "vỡ hai lần" 12–21%) — 7 ảnh + 1 composite.
 - Viết **1818** (sỏi niệu quản ở thai: 0,49% = 1/204, ứ nước Sp 1,5%, URS sạch sỏi 91%/biến chứng ~1% vs JJ stent 45%, stent đổi 4–6 tuần, EAU 2025 URS hàng đầu) — 6 ảnh + 1 composite; flip #1135/#1140 → xong; append #1198 (1921) + #1199 (1922).
+
+- **2026-11-04** — bài **1921** (ASB + viêm thận–bể thận cấp ở thai): 6 ảnh + 1 composite CC BY 4.0 (PMC12374602, PMC13063533); flip #1198 → xong, append #1200/#1201 (1923 áp-xe thận, 1924 urosepsis) sau check_duplicates.
+- Lượt này cây sạch, `git pull --rebase` "Already up to date"; không dùng stash; verify 6 cổng PASS.
