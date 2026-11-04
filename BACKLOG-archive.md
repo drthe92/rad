@@ -1134,3 +1134,5 @@
 - BACKLOG: flip 1101b/746 → xong; append 1110q (1786 vGaM sơ sinh) + 1110r (1787 AVM não trẻ đã vỡ), đều check_duplicates exit 0.
 - Viết **118** (DOAC + CNI ở người ghép tạng): 3 ảnh CC BY (PMC13509657 sơ đồ DDI, PMC12076264 CT 2 thì, PMC10570330 Doppler RI 0,94); **266** (theo dõi sau WEB/BOSS): 4 ảnh (2 CC BY PMC13009025, 2 CC BY-NC PMC13217054 + PMC13217109), không composite.
 - BACKLOG: flip 1100b/118 + 1110/266 → xong; append 1110s (3063 Contour nội túi) + 1110t (1835 huyết khối mảnh ghép tụy), đều check_duplicates exit 0.
+- 2026-11-04 — viết **1428** (implant dexamethasone lạc tiền phòng / phù giác mạc mất bù): lạc **1,6%** số lần tiêm (**4,8%** ở mắt PPV), **37,5% phải ghép giác mạc**, **3/32 tái lạc**; 4 ảnh CC BY/CC BY-NC từ Europe PMC supplementaryFiles (HTML bin trả 403/404).
+- 2026-11-04 — append gap mới **1442** (mảnh thể thủy tinh còn sót, nối 1428/1411) + **1445** (bong mảnh ghép DSAEK/DMEK & rebubble, nối 1428/1410), đã check_duplicates exit 0.
