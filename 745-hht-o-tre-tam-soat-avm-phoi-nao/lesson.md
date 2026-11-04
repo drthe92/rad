@@ -284,6 +284,7 @@ flowchart TD
 - [091 – Ho ra máu ồ ạt & nút mạch động mạch phế quản](../091-ho-ra-mau-oat-nut-mach-dong-mach-phe-quan/lesson.md)
 - [020 – Nốt phổi & Fleischner](../020-not-phoi/lesson.md) — nốt ở trẻ **không** áp Fleischner
 - [212 – Xuất huyết não](../212-xuat-huyet-so-nao/lesson.md) — biến cố của bAVM
+- [746 – CM-AVM (RASA1/EPHB4)](../746-cm-avm-rasa1-ephb4/lesson.md) — **hàng phân biệt ngược chiều**: mảng đỏ nhiều ổ + shunt não–tủy nhưng **KHÔNG có PAVM** (đừng tầm soát phổi–gan như HHT)
 
 ## Ảnh
 - Tên file: `745_*_Modality_SourceID`; nguồn + giấy phép từng ảnh trong `images/CREDITS.md`.

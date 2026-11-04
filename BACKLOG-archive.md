@@ -1132,3 +1132,7 @@
 ## Nhật ký worker 2026-11-04 (lượt 2)
 - Viết **276** (CRAO): 5 ảnh PMC11329807 CC BY-NC-SA, 3 nguồn số liệu (PMC11329807, PMC10348395, PMC6405587); **277 gộp vào 435** (đã có bài GCA/AAION đầy đủ, không tạo ID trùng) + thêm 1 câu cạm bẫy CRAO-in-GCA và link chéo.
 - BACKLOG: flip 1110m/1110n → xong; append 1110o (278 OAO) + 1110p (279 PAMM); thêm 276 vào Danh mục đã xong. Verify PASS 6/6 (889 bài / 889 card).
+
+## Nhật ký worker 2026-11-04 (lượt 3)
+- Viết **746** (CM-AVM RASA1/EPHB4): 5 ảnh + 1 composite (PMC12705803, PMC13302150, PMC13065680 CC BY; PMC12591897 CC BY-NC-ND); **sửa giả định của đề bài** (CM-AVM không có PAVM, khác HHT) và ghi rõ chọn mẫu 148 ca.
+- BACKLOG: flip 1101b/746 → xong; append 1110q (1786 vGaM sơ sinh) + 1110r (1787 AVM não trẻ đã vỡ), đều check_duplicates exit 0.
