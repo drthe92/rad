@@ -1138,3 +1138,5 @@
 - 2026-11-04 — append gap mới **1442** (mảnh thể thủy tinh còn sót, nối 1428/1411) + **1445** (bong mảnh ghép DSAEK/DMEK & rebubble, nối 1428/1410), đã check_duplicates exit 0.
 - 2026-11-04 — viết **267** (presyrinx / phù tủy hồi phục trước giãn tủy): 5 ca Fischbein 5/5 hồi phục sau giải áp, 6 trẻ Chiari (3/3 hết sau mổ), ca nhi 6 → 7,25 → 10 tuổi vẫn thành syrinx; 5 ảnh + 1 composite (PMC11337934 CC BY-NC-ND, PMC8942189 CC BY-NC-SA, PMC5832398 CC BY 3.0).
 - 2026-11-04 — flip 1111/267 → xong; sửa ID trùng **270 → 280** (thiếu đồng, 270 đã có bài carotid web); append **281** (thoái hóa tủy kết hợp bán cấp do thiếu B12), check_duplicates exit 0.
+- 2026-11-04 — viết **269** (xạ lại tủy sống): ngưỡng Sahgal **≥ 5 tháng / tổng < 70 Gy / đợt mới < 25 Gy**, điểm Nieder, 32 ca tổng Dmax **80,7 Gy** (tới 114,79) không RM, ca 3 đợt T8 tổng **42,78 Gy**, tử vong do **rò thực quản**; 4 ảnh CC BY (PMC9869751, PMC11139739).
+- 2026-11-04 — flip 1113/269 → xong; append **1843** (rễ–đám rối do xạ) + **1844** (rò/hoại tử thực quản do xạ), check_duplicates exit 0.
