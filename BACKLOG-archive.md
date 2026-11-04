@@ -1128,3 +1128,7 @@
 
 - 2026-11-04 — worker: viết **274** (OIS + NVG sau tái thông cảnh) và **275** (động kinh sau CEA/CAS); 12 ảnh (11 CC BY, 2 CC BY-NC — 7 và 5 ảnh/bài), verify PASS 5/5; nguồn chính PMC12890682, PMC12049290, PMC5192319, PMC12126846 / PMC11840276, PMC11835061, PMC12580545.
 - 2026-11-04 — append 2 khoảng trống mới (276 CRAO cấp, 277 GCA mắt) đã check_duplicates exit 0.
+
+## Nhật ký worker 2026-11-04 (lượt 2)
+- Viết **276** (CRAO): 5 ảnh PMC11329807 CC BY-NC-SA, 3 nguồn số liệu (PMC11329807, PMC10348395, PMC6405587); **277 gộp vào 435** (đã có bài GCA/AAION đầy đủ, không tạo ID trùng) + thêm 1 câu cạm bẫy CRAO-in-GCA và link chéo.
+- BACKLOG: flip 1110m/1110n → xong; append 1110o (278 OAO) + 1110p (279 PAMM); thêm 276 vào Danh mục đã xong. Verify PASS 6/6 (889 bài / 889 card).

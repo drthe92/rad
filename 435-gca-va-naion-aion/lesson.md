@@ -121,6 +121,7 @@ flowchart TD
 - **Cho NAION dùng corticoid liều cao là sai** — vô ích, hại (đái tháo đường, loãng xương); **phẫu thuật giải ép thần kinh thị (IONDT) không có lợi, có thể hại**.
 - **NAION tái phát:** cùng mắt **3–8%**, mắt đối diện **15–24% trong 5 năm** — tầm soát và kiểm soát yếu tố nguy cơ mạch máu.
 - **Tránh bẫy "phù đĩa = phù đĩa do tăng áp lực nội sọ"**: ở người > 50 phù đĩa một bên cấp, thiếu máu đứng đầu danh sách, không mặc định IIH.
+- **GCA có thể đến bằng CRAO đơn thuần, KHÔNG có phù đĩa:** "điểm đỏ anh đào + võng mạc trắng đục" ở người > 50 tuổi **vẫn phải hỏi đau hàm/đau đầu + ESR/CRP** và **dùng steroid liều cao ngay** nếu nghi — bỏ sót thì **mắt thứ hai mất trong vòng 1 tuần**. Chi tiết chẩn đoán – phân độ OCT – cửa sổ 4,5 giờ: xem bài 276.
 
 ## 6. Tự lượng giá — Blind Quiz
 
@@ -183,6 +184,7 @@ flowchart TD
 - [433 – Phù đĩa thị vs drusen](../433-phu-dia-thi-drusen/lesson.md) (phù đĩa thật vs giả phù; IIH)
 - [434 – Teo thị do độc–chuyển hóa & LHON](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) (tiếp cận teo thị 2 bên)
 - [444 – Tắc mạch võng mạc](../444-tac-mach-vong-mac/lesson.md) (CRAO — biểu hiện khác của GCA)
+- [276 – Tắc động mạch trung tâm võng mạc cấp (CRAO)](../276-tac-dong-mach-trung-tam-vong-mac/lesson.md) (CRAO do GCA vs CRAO thường; cửa sổ 4,5 giờ, OCT, workup đột quỵ)
 - [451 – Biểu hiện mắt của bệnh hệ thống](../451-he-thong-mat/lesson.md) (viêm mạch, ANCA)
 
 ## Ảnh
