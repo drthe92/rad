@@ -1144,3 +1144,6 @@
 - 2026-11-04 · flip #1112/#1114 → xong; append 2 gap mới #1165 (944 nhiễm stent-graft) + #1166 (1721 rò DNT nền sọ trước ẩn), đã check_duplicates exit 0.
 - 2026-11-04 · worker: viết **1826** (viêm phổi do mTOR: 22,9% trên CT, 1,7% nặng OR 3,36, khởi phát 3,6 tháng, X-quang có thể bình thường, ngừng thuốc → 68% hồi phục, tái phát 14%); 6 ảnh + 1 composite (CC BY / CC BY-NC).
 - 2026-11-04 · flip #T196A → xong; **1716 gộp vào 237** (trùng chủ đề — 237 đã có đủ số liệu + ảnh PMC12428227, không tạo ID trùng); append 2 gap mới #1167 (1788 PJP ngoài HIV) + #1168 (1789 CMV ở người ghép), check_duplicates exit 0.
+
+- 2026-11-04 · worker: viết **1827** (hẹp tĩnh mạch cửa sau ghép gan: 7,6% 67/884, PSV > 125 cm/s, gradient ≥ 5 mmHg, nong bóng 81,25%, hẹp lại 18,75%) + **1712** (Trousseau động mạch/NBTE: 163 ca, tử vong 30%, enoxaparin 3,4% vs warfarin 16,0%); verify **PASS 6/6**, 900 bài/900 card, parity 0, 135 chờ viết.
+- Ghi chú: 2 hàng backlog 1664/1665 ở đầu bảng đã có bài từ 2026-11-01 nhưng chưa flip — cần rà lại khi chạm; BACKLOG ID trùng 8 ID cũ (1828/6145/6146/6143/6144/1738/1439/1440) chưa xử lý.
