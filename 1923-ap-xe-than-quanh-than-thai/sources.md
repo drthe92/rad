@@ -1,0 +1,25 @@
+# Nguồn gốc — 1923-ap-xe-than-quanh-than-thai
+
+> Áp-xe thận và áp-xe quanh thận ở thai phụ/sau sinh — quét nguồn mở ngày **2026-11-04**. Số nào nguồn không nêu ghi "chưa rõ".
+
+| # | Nguồn (tác giả đầu / tạp chí / năm) | Tiêu đề / nội dung dùng | Link gốc | Giấy phép | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Eze IE et al., *Cureus* 2023;15(2):e35610 | Large Renal Abscess in Pregnancy: Case Report of a Rare Finding — ca 36 tuổi, áp-xe **13,8 × 12,2 × 11,6 cm** phát hiện **sau sinh**, 730 mL mủ, 46.840 WBC/mm³, *E. coli* đa kháng, dẫn lưu 10 F + ceftriaxone 14 ngày | https://europepmc.org/article/MED/37007389 (PMC10063324) | **CC BY 4.0** | `images/1923_ap-xe-than-lon_CT_PMC10063324-Fig1.jpg`, `...-Fig2.jpg`, `images/composite_ap-xe-than-CT.jpg` |
+| 2 | Rahoui M et al., *Urol Case Rep* 2022;44:102126 | Pyelonephritis complicated by a perirenal abscess in a pregnant woman: Exceptional cause of fetal death in utero — thai 24 tuần, **CRP 284 mg/L**, creatinin **212 µmol/L**, cấy nước tiểu âm, **áp-xe quanh thận 7 cm**, thai chết lưu | https://europepmc.org/article/MED/35734613 (PMC9207609) | **CC BY-NC-ND 4.0** | `images/1923_ap-xe-quanh-than_CT_PMC9207609-Fig1.jpg` (nguyên bản) |
+| 3 | Ngene MA et al., *Radiol Case Rep* 2024;19(11):5404–5409 | Infected calyceal diverticulum in pregnancy: A rare case — thai 15 tuần 4 ngày, tổn thương **6,9 × 6,8 × 3,7 cm**, MRI thấy **cổ thông đài thận**, dẫn lưu 16 tuần, sinh 3.379 g ở 40 tuần | https://europepmc.org/article/MED/39328944 (PMC11403430) | **CC BY-NC-ND 4.0** | `images/1923_tui-than-nhiem-trung_US_PMC11403430-Fig1.jpg` (nguyên bản) |
+| 4 | Latcu S et al., *Diagnostics* 2026;16(20):3334 | Pyonephrosis — An Updated Morphological Glimpse into the Contemporary Management — cơ chế lan mủ, đậm độ dịch mủ so với nước tiểu, giới hạn của ngưỡng HU/ADC | https://europepmc.org/article/PMC/PMC13703377 | **CC BY 4.0** | `images/1923_sinh-mu-than_SODO_PMC13703377-Fig1.webp` |
+| 5 | Ko MC et al., *Clinics* 2013;68(8):1109–1114 | Effect of diabetes on mortality and length of hospital stay in patients with renal or perinephric abscess — **2.192 ca**; tử vong **2,6%**; kháng sinh đơn thuần **74,8%**, dẫn lưu qua da **14,6%**, mổ **6,3%**, cắt thận **4,3%**; ổ **< 3 cm** ổn định có thể chỉ kháng sinh | https://europepmc.org/article/MED/24037006 (PMC3752624) | **CC BY-NC 3.0** | Không tải ảnh; dùng số liệu |
+| 6 | Kijima H et al., *Cureus* 2024;16(12):e74943 | Emphysematous Pyelonephritis at 29 Weeks of Gestation — EPN tử vong **~25%**, **95%** ĐTĐ, **25–75%** tắc nghẽn; Huang II khỏi với kháng sinh | https://europepmc.org/article/PMC/PMC11693407 | **CC BY 4.0** | Không dùng ảnh trong bài này (ảnh dùng ở bài 1924); chỉ dùng số liệu |
+| 7 | Schröder C et al., *Arch Gynecol Obstet* 2024;309(3):987–992 | Psoas abscess in pregnancy: a review — **< 12 ca**, xuất hiện **13–39 tuần**, **sốt vắng mặt ở hơn một nửa**, ca **20 × 10 cm** dẫn lưu dưới siêu âm | https://europepmc.org/article/MED/37632514 (PMC10867082) | **CC BY 4.0** | Không tải ảnh; dùng số liệu |
+| 8 | Radu V et al., *Medicina* 2023;59(11):1972 | Factors Associated with Increased Risk of Urosepsis during Pregnancy — thiếu máu **69,7% vs 50,0%**, ứ nước độ 2–3 **81,8% vs 52,8%** | https://europepmc.org/article/MED/38004021 (PMC10673142) | **CC BY 4.0** | Không tải ảnh; dùng số liệu |
+| 9 | Benea A et al., *J Clin Med* 2025;14(23):8546 | Time to Decompression in Obstructive Urosepsis — không giải áp **19,2% vs 8,82%** tử vong; trễ ≥ 2 ngày **aOR 1,29** | https://europepmc.org/article/PMC/PMC12693273 | **CC BY 4.0** | Không tải ảnh; dùng số liệu |
+| 10 | Sun J et al., *Front Pediatr* 2025;13:1407437 | Pediatric renal abscess: clinical analysis and literature review — **12 ca, tất cả ổ < 3 cm** khỏi với kháng sinh đơn thuần | https://europepmc.org/article/PMC/PMC12066547 | **CC BY 4.0** | Không tải ảnh; dùng số liệu (chỉ nêu là dữ liệu nhi) |
+| 11 | ACOG Committee Opinion 723 (2017) | Guidelines for Diagnostic Imaging During Pregnancy and Lactation — nguy cơ thai nhi **< 50 mGy** rất thấp; không khảo sát đơn lẻ nào vượt **100 mGy** | https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/09/guidelines-for-diagnostic-imaging-during-pregnancy-and-lactation | dẫn link | Không tải; dùng ngưỡng liều |
+| 12 | EAU Guidelines on Urological Infections 2025 | Nguyên tắc giải áp khẩn cấp trong hệ thống niệu bị tắc nhiễm trùng | https://uroweb.org/guidelines/urological-infections | dẫn link | Không tải; đối chiếu khuyến cáo |
+
+## Ghi chú giấy phép
+- Ảnh dùng trong bài: **PMC10063324 (CC BY 4.0)**, **PMC9207609 (CC BY-NC-ND 4.0)**, **PMC11403430 (CC BY-NC-ND 4.0)**, **PMC13703377 (CC BY 4.0)**.
+- `images/composite_ap-xe-than-CT.jpg` ghép từ **2 hình của PMC10063324 (CC BY 4.0)** bằng `tools/make_composite.py` (letterbox nền đen + dải attribution), giữ CC BY 4.0.
+- **CC BY-NC-ND:** ảnh của PMC9207609 và PMC11403430 được dùng **nguyên bản**, không crop/ghép/chỉnh sửa.
+- Không tải ảnh từ PMC3752624 (CC BY-NC), PMC10867082/PMC10673142/PMC12693273/PMC12066547 (chỉ dùng số liệu).
+- Không dùng ảnh Radiopaedia/AuntMinnie/Eurorad cho bài này.

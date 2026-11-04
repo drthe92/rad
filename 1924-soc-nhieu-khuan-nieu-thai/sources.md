@@ -1,0 +1,23 @@
+# Nguồn gốc — 1924-soc-nhieu-khuan-nieu-thai
+
+> Sốc nhiễm khuẩn từ đường niệu ở thai phụ — quét nguồn mở ngày **2026-11-04**. Số nào nguồn không nêu ghi "chưa rõ".
+
+| # | Nguồn (tác giả đầu / tạp chí / năm) | Tiêu đề / nội dung dùng | Link gốc | Giấy phép | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Radu V et al., *Medicina* 2023;59(11):1972 | Factors Associated with Increased Risk of Urosepsis during Pregnancy and Treatment Outcomes — **66 urosepsis/164 nhiễm khuẩn niệu trên**; thiếu máu **OR 2,62**, ứ nước độ 2–3 **OR 6,58**, sốt > 38 °C **OR 11,61**; can thiệp niệu **87,9% vs 36%**; thai suy phải chuyển **22,7% vs 1,2%**; stent di trú **6,1% vs 0,6%** | https://europepmc.org/article/MED/38004021 (PMC10673142) | **CC BY 4.0** | Không dùng ảnh; dùng số liệu |
+| 2 | Radu VD et al., *Medicina* 2023;59(12):2129 | Pregnancy Outcomes in Patients with Urosepsis and Uncomplicated UTIs — 183 thai; ối vỡ non **aOR 5,59**, sinh non **aOR 2,47**, nhập NICU tăng | https://europepmc.org/article/MED/38138232 (PMC10744995) | **CC BY 4.0** | Không dùng ảnh; dùng số liệu |
+| 3 | Chaudhary M et al., *Cureus* 2026;18(9):e115985 | Comparison of SOFA, qSOFA, omSOFA, omqSOFA in High-Risk Obstetric Patients — 188 thai, **15 tử vong**; **SOFA AUC 0,97**; **qSOFA 0,76**; **omSOFA 0,93**; **omqSOFA 0,79** | https://europepmc.org/article/PMC/PMC13650759 | **CC BY 4.0** | `images/1924_ROC-score_SODO_PMC13650759-Fig1.webp` |
+| 4 | Chowdhury S et al., *Cureus* 2026;18(10):e118251 | When Hydronephrosis Was Not Physiological: Septic Shock Secondary to Obstructive Uropathy in Pregnancy — thai 30 tuần, **sỏi khúc nối**, lactate **3,7 → 11**, pH **7,20**, creatinin **139 → 618 µmol/L**, sốc, DIC, ICU | https://europepmc.org/article/PMC/PMC13722354 | **CC BY 4.0** | `images/1924_tac-nieu-quan_CT_PMC13722354-Fig2.webp`, `1924_giau-nuoc-than_CT_PMC13722354-Fig3.webp`, `1924_giau-nuoc-than_US_PMC13722354-Fig1.webp`, `1924_sau-dat-stent_CT_PMC13722354-Fig4.webp`, `images/composite_truoc-sau-dat-stent-CT.jpg` |
+| 5 | Kijima H et al., *Cureus* 2024;16(12):e74943 | Emphysematous Pyelonephritis at 29 Weeks of Gestation — EPN **Huang II**, *E. coli*, kháng sinh đơn thuần, nằm **52 ngày**, sinh 39 tuần **3.382 g**; EPN tử vong **~25%**, **95%** ĐTĐ | https://europepmc.org/article/PMC/PMC11693407 | **CC BY 4.0** | `images/1924_EPN-thai_US_PMC11693407-Fig2.jpg`, `1924_EPN-thai_MRI_PMC11693407-Fig3.jpg` |
+| 6 | Benea A et al., *J Clin Med* 2025;14(23):8546 | Time to Decompression in Obstructive Urosepsis from Ureteral Calculi — trễ **≥ 2 ngày aOR 1,29**; không giải áp **19,2% vs 8,82%**; **≤ 48 giờ 0,16% vs 0,47%**; stent **≤ 6 giờ** giảm thời gian nằm | https://europepmc.org/article/PMC/PMC12693273 | **CC BY 4.0** | Không dùng ảnh; dùng số liệu |
+| 7 | Latcu S et al., *Diagnostics* 2026;16(20):3334 | Pyonephrosis — Narrative Review — cơ chế lan mủ, cấy dịch đài–bể vs bàng quang, giới hạn ngưỡng HU/ADC, giải áp khẩn | https://europepmc.org/article/PMC/PMC13703377 | **CC BY 4.0** | `images/1924_pyonephrosis_CT_PMC13703377-Fig3.webp` |
+| 8 | DeYoung TH et al., *Am J Perinatol* 2019 | Pyelonephritis in Pregnancy: Relationship of Fever and Maternal Morbidity — **86/110 không sốt**; MEWC dương → ICU **aOR 16,54** | https://europepmc.org/article/MED/31754550 (PMC6864490) | **CC BY-NC-ND 4.0** | Không tải ảnh; dùng số liệu (đã dẫn trong bài 1921) |
+| 9 | Evans L et al., *Crit Care Med* 2021 (Surviving Sepsis Campaign 2021) | Kháng sinh trong 1 giờ khi sốc/nghi sepsis; bù dịch 30 mL/kg; norepinephrine; nuôi cấy trước kháng sinh nếu không trì hoãn > 45 phút | https://doi.org/10.1097/CCM.0000000000005337 | dẫn link | Không tải; dùng khuyến cáo |
+| 10 | EAU Guidelines on Urological Infections 2025 | Giải áp khẩn cấp hệ thống niệu tắc nhiễm trùng; chọn PCN/stent | https://uroweb.org/guidelines/urological-infections | dẫn link | Không tải; đối chiếu |
+| 11 | ACOG Committee Opinion 723 (2017) | Diagnostic Imaging During Pregnancy and Lactation — nguy cơ thai nhi **< 50 mGy** rất thấp | https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/09/guidelines-for-diagnostic-imaging-during-pregnancy-and-lactation | dẫn link | Không tải; dùng ngưỡng liều |
+
+## Ghi chú giấy phép
+- Ảnh dùng trong bài: **PMC13650759, PMC13722354, PMC11693407, PMC13703377 — đều CC BY 4.0** → được tải, ghép (trừ ảnh CC BY-NC-ND không dùng).
+- `images/composite_truoc-sau-dat-stent-CT.jpg` ghép từ **Figs. 2 và 4 của PMC13722354 (CC BY 4.0)** bằng `tools/make_composite.py` (letterbox nền đen + dải attribution), giữ CC BY 4.0.
+- Không tải ảnh từ PMC10673142, PMC10744995, PMC12693273, PMC6864490 (chỉ dùng số liệu).
+- Không dùng ảnh Radiopaedia/AuntMinnie/Eurorad cho bài này.
