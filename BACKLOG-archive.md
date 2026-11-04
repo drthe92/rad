@@ -1136,3 +1136,5 @@
 - BACKLOG: flip 1100b/118 + 1110/266 → xong; append 1110s (3063 Contour nội túi) + 1110t (1835 huyết khối mảnh ghép tụy), đều check_duplicates exit 0.
 - 2026-11-04 — viết **1428** (implant dexamethasone lạc tiền phòng / phù giác mạc mất bù): lạc **1,6%** số lần tiêm (**4,8%** ở mắt PPV), **37,5% phải ghép giác mạc**, **3/32 tái lạc**; 4 ảnh CC BY/CC BY-NC từ Europe PMC supplementaryFiles (HTML bin trả 403/404).
 - 2026-11-04 — append gap mới **1442** (mảnh thể thủy tinh còn sót, nối 1428/1411) + **1445** (bong mảnh ghép DSAEK/DMEK & rebubble, nối 1428/1410), đã check_duplicates exit 0.
+- 2026-11-04 — viết **267** (presyrinx / phù tủy hồi phục trước giãn tủy): 5 ca Fischbein 5/5 hồi phục sau giải áp, 6 trẻ Chiari (3/3 hết sau mổ), ca nhi 6 → 7,25 → 10 tuổi vẫn thành syrinx; 5 ảnh + 1 composite (PMC11337934 CC BY-NC-ND, PMC8942189 CC BY-NC-SA, PMC5832398 CC BY 3.0).
+- 2026-11-04 — flip 1111/267 → xong; sửa ID trùng **270 → 280** (thiếu đồng, 270 đã có bài carotid web); append **281** (thoái hóa tủy kết hợp bán cấp do thiếu B12), check_duplicates exit 0.
