@@ -61,6 +61,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 078 | [Dưỡng trấp ổ bụng (chylous ascites): TG 110, lymphangiography & bậc thang điều trị](078-duong-trap-o-bung/lesson.md) | `pattern:dich-bang` `vung:bung` `anatomy:ong-nguc` `protocol:lymphangiography` `score:TG-110` `incidentaloma:dich-bang` |
 | 042 | [U màng phổi](042-mang-phoi-u/lesson.md) | `pattern:u-mang-phoi` `vung:mang-phoi` |
 | 045 | [Thành ngực & hoành](045-thanh-nguc-hoanh/lesson.md) | `pattern:ngoai-mang-phoi` |
+| 384 | [Sarcoma do xạ sau xạ trị ngực: khối mô mềm/phá xương mới trong trường chiếu, phân biệt xơ hóa & gãy sườn do xạ](384-sarcoma-do-xa-sau-xa-tri-nguc/lesson.md) | `pattern:gia-u` `pattern:tieu-xuong` `pattern:phu-tuy-xuong` `vung:thanh-nguc` `vung:suon` `vung:phoi` `protocol:CT-nguc` `protocol:MRI-xuong` `protocol:PET-FDG` |
 | 041 | [Tràn khí màng phổi](041-tran-khi-mang-phoi/lesson.md) | `pattern:tran-khi` `vung:mang-phoi` |
 | 081 | [Sặc & rối loạn nuốt (VFSS/FEES, viêm phổi hít sặc, sonde dạ dày)](081-sac-va-roi-loan-nuot/lesson.md) | `pattern:sac-hit-sac` `pattern:roi-loan-nuot` `vung:duong-nuot` `vung:thanh-quan` `vung:phe-quan` `vung:phoi` `score:PAS` `score:Hyodo` `protocol:VFSS` `protocol:FEES` `protocol:sonde-da-day` `incidentaloma:viem-phoi-hit-sac` |
 | 082 | [Bại não & an toàn nuốt ở trẻ (GMFCS, VFSS/FEES, ngưỡng chuyển sang ống)](082-bai-nao-an-toan-nuot/lesson.md) | `pattern:hit-sac` `pattern:sac-tham-lang` `pattern:roi-loan-nuot` `vung:duong-nuot` `vung:thanh-quan` `vung:phoi` `score:PAS` `score:GMFCS` `protocol:VFSS` `protocol:FEES` `protocol:IDDSI` |
@@ -754,6 +755,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 800 | [Tổng quan Tim mạch](800-cardiovascular-overview/lesson.md) | Tổng quan, bảng DDx |
 | 810 | [Vành CAD-RADS](810-coronary-cta-cadrads/lesson.md) | `score:CAD-RADS` |
 | 820 | [MRI tim LGE](820-cardiac-mri-lge-mapping/lesson.md) | `score:Lake-Louise` |
+| 943 | [Viêm cơ tim do DRESS: tầm soát tim bằng troponin/ECG, MRI tim và tái phát khi giảm corticoid](943-viem-co-tim-do-dress/lesson.md) | `pattern:LGE-cotim` `pattern:phu-co` `pattern:tran-dich-mang-tim` `vung:cotim` `score:Lake-Louise` `score:RegiSCAR` `protocol:MRI-tim` `protocol:tiem-can-quang` |
 | 900 | [Đại cương IR](900-ir-fundamentals-biopsy/lesson.md) | `score:SIR` |
 | 901 | [Tổng quan IR](901-ir-overview/lesson.md) | Tổng quan, bảng DDx |
 | 920 | [Nút mạch](920-vascular-embolization-gi-bleed/lesson.md) | `pattern:nut-mach` |

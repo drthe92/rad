@@ -65,6 +65,7 @@ certainty: tong-hop-y-van
 | **Kính mờ hai bên đối xứng ở người ghép tạng / dùng thuốc ức chế miễn dịch** | Phổi – mô kẽ (dưới phổi, ngoại vi) | Viêm phổi do mTOR (sirolimus/everolimus) · *Pneumocystis* · CMV · phù do chức năng mảnh ghép · xuất huyết phế nang · tái phát u | **X-quang có thể BÌNH THƯỜNG** → chỉ CT trả lời; **khởi phát 0,8–50 tháng sau thuốc, nồng độ thuốc bình thường không loại trừ**; **hồi phục sau ngừng thuốc (68%)** là chốt chẩn đoán | [1826](../1826-viem-phoi-do-thuoc-uc-che-mtor/lesson.md) |
 
 ## Bài liên quan chéo
+- [384 – Sarcoma do xạ sau xạ trị ngực: khối mới trong trường chiếu, phân biệt xơ hóa/gãy sườn do xạ](../384-sarcoma-do-xa-sau-xa-tri-nguc/lesson.md) *(mới — thành ngực + phổi sau xạ)*
 - [1826 – Viêm phổi do thuốc ức chế mTOR: 23% gặp trên CT, 1,7% nặng, ngừng thuốc là điều trị](../1826-viem-phoi-do-thuoc-uc-che-mtor/lesson.md) *(mới — cùng nhóm "kính mờ hai bên" với 017/196)*
 - [048 – Hội chứng lồng ngực không đủ (TIS) & VEPTR: SAL, nong 6 tháng/lần, thời điểm ngừng](../048-hoi-chung-long-nguc-khong-du-tis-veptr/lesson.md) *(mới)*
 - [043 – Chăm sóc hô hấp quanh mổ & cai máy ở trẻ TIS/EOS: FVC/AVR, PSG, ngưỡng rút ống–NIV, BL/TBV](../043-cham-soc-ho-hap-quanh-mo-tis-eos/lesson.md) *(mới)*

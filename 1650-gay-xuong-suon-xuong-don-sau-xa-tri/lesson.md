@@ -191,6 +191,7 @@ flowchart TD
 ## Bài liên quan chéo
 - [300 – Tổng quan hệ Cơ xương khớp](../300-tong-quan-he-co-xuong-khop/lesson.md)
 - [331 – Di căn xương & đa u tủy](../331-u-ac-nguoi-lon/lesson.md) (đối chiếu chính: phá xương + mô mềm)
+- [384 – Sarcoma do xạ sau xạ trị ngực](../384-sarcoma-do-xa-sau-xa-tri-nguc/lesson.md) (chiều ngược lại: khối mô mềm + phá xương thật)
 - [330 – Tiếp cận u xương theo Lodwick & vùng chuyển tiếp](../330-tiep-can-u-xuong-va-dont-touch/lesson.md) (vùng chuyển tiếp hẹp/rộng)
 - [1617 – Xơ hóa mô mềm sau xạ thành ngực](../1617-benh-dam-roi-can-tay-do-xa/lesson.md) (cùng bối cảnh xạ thành ngực)
 - [1618 – Di căn da thành ngực](../1618-di-can-da-thanh-nguc-ung-thu-vu/lesson.md) (phân biệt tổn thương thành ngực)

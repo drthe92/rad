@@ -238,6 +238,7 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [933 – Sốc phản vệ & bệnh thận do thuốc cản quang](../933-an-toan-thuoc-can-quang/lesson.md) (phản ứng **tức thời** trong 1 giờ — bài phải đọc trước)
+- [943 – Viêm cơ tim do DRESS](../943-viem-co-tim-do-dress/lesson.md) (tổn thương tim — nguyên nhân tử vong sớm của DRESS)
 - [932 – An toàn bức xạ trong can thiệp dưới CT/DSA](../932-an-toan-buc-xa-ct-dsa/lesson.md) (cùng nhóm an toàn phòng can thiệp)
 - [910 – Dẫn lưu áp-xe, PTBD & thận qua da](../910-abscess-biliary-nephrostomy/lesson.md) (cản quang lặp lại nhiều lần)
 - [920 – Nút mạch cầm máu](../920-vascular-embolization-gi-bleed/lesson.md) (tiêm động mạch, liều cao)

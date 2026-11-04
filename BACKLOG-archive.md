@@ -1144,11 +1144,11 @@
 - 2026-11-04 · flip #1112/#1114 → xong; append 2 gap mới #1165 (944 nhiễm stent-graft) + #1166 (1721 rò DNT nền sọ trước ẩn), đã check_duplicates exit 0.
 - 2026-11-04 · worker: viết **1826** (viêm phổi do mTOR: 22,9% trên CT, 1,7% nặng OR 3,36, khởi phát 3,6 tháng, X-quang có thể bình thường, ngừng thuốc → 68% hồi phục, tái phát 14%); 6 ảnh + 1 composite (CC BY / CC BY-NC).
 - 2026-11-04 · flip #T196A → xong; **1716 gộp vào 237** (trùng chủ đề — 237 đã có đủ số liệu + ảnh PMC12428227, không tạo ID trùng); append 2 gap mới #1167 (1788 PJP ngoài HIV) + #1168 (1789 CMV ở người ghép), check_duplicates exit 0.
-
 - 2026-11-04 · worker: viết **1827** (hẹp tĩnh mạch cửa sau ghép gan: 7,6% 67/884, PSV > 125 cm/s, gradient ≥ 5 mmHg, nong bóng 81,25%, hẹp lại 18,75%) + **1712** (Trousseau động mạch/NBTE: 163 ca, tử vong 30%, enoxaparin 3,4% vs warfarin 16,0%); verify **PASS 6/6**, 900 bài/900 card, parity 0, 135 chờ viết.
 - Ghi chú: 2 hàng backlog 1664/1665 ở đầu bảng đã có bài từ 2026-11-01 nhưng chưa flip — cần rà lại khi chạm; BACKLOG ID trùng 8 ID cũ (1828/6145/6146/6143/6144/1738/1439/1440) chưa xử lý.
 - 2026-11-04 · worker: viết **1714** (chảy dịch núm một ống: ung thư 3–23%, cytology âm giả 65%, galactography 77,4/75,7%, MRI NPV 97,1%, ductoscopy 95,3%, mổ ống dẫn chỉ 8,1% ung thư khi hình ảnh âm) + **1732** (DILI do CDK4/6i & T-DXd: ribociclib 9,2%/G3–4 31%, di căn gan HR 2,159, gan mỡ 3,536, T-DXd AST 28%/ALT 23%, ROR 2,51); 5 ảnh + 2 composite CC BY 4.0.
 - 2026-11-04 · flip #1117/#1118 → xong; append 2 gap mới #1886 (1790 bùng phát HBV) + #1887 (1791 ung thư vú nam), check_duplicates exit 0; verify PASS 6/6, 902 bài/902 card, parity 0, 133 chờ viết.
-
 2026-11-04 (worker) — bài **1733** FNH-like sau hóa trị: 38 bệnh nhân/63 nốt, HBP tăng 78,8
 2026-11-04 (worker) — bài **1733** FNH-like sau hóa trị: 38 bệnh nhân/63 nốt, HBP tăng 78,8% & viền tăng 57,6%, washout 0/63; 42% nốt to lên. Flip #1119; append #1888 (1792 lách to/giảm tiểu cầu do oxaliplatin) + #1889 (1793 FNH-like ở trẻ). VERIFY PASS 6/6, 903 bài/903 card, parity 0.
+- 2026-11-04 · worker: viết **943** (viêm cơ tim do DRESS: tim 4–21%, tử vong 45%/42 ca, 29% xuất hiện muộn 13–371 ngày, LGE 93%, ANEM LGE 32,1% vs 14,5%, T2 map 68 ms, tái phát khi PSL 25 mg).
+- 2026-11-04 · worker: viết **384** (sarcoma do xạ ngực: 0,9% sarcoma, 0,15% sau xạ, tiềm tàng 12,1 năm, 5 năm 44,7%, cắt R0 65% vs 0%); flip #1120/#1121 → xong; append #1890 (1842 takotsubo) + #1891 (1843 ICI myocarditis); verify PASS 6/6, 905 bài/905 card.
