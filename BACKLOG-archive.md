@@ -1152,3 +1152,5 @@
 2026-11-04 (worker) — bài **1733** FNH-like sau hóa trị: 38 bệnh nhân/63 nốt, HBP tăng 78,8% & viền tăng 57,6%, washout 0/63; 42% nốt to lên. Flip #1119; append #1888 (1792 lách to/giảm tiểu cầu do oxaliplatin) + #1889 (1793 FNH-like ở trẻ). VERIFY PASS 6/6, 903 bài/903 card, parity 0.
 - 2026-11-04 · worker: viết **943** (viêm cơ tim do DRESS: tim 4–21%, tử vong 45%/42 ca, 29% xuất hiện muộn 13–371 ngày, LGE 93%, ANEM LGE 32,1% vs 14,5%, T2 map 68 ms, tái phát khi PSL 25 mg).
 - 2026-11-04 · worker: viết **384** (sarcoma do xạ ngực: 0,9% sarcoma, 0,15% sau xạ, tiềm tàng 12,1 năm, 5 năm 44,7%, cắt R0 65% vs 0%); flip #1120/#1121 → xong; append #1890 (1842 takotsubo) + #1891 (1843 ICI myocarditis); verify PASS 6/6, 905 bài/905 card.
+- 2026-11-04 · bài **1688** siliconoma lan xa ngoài vùng vú (7 ảnh: 4 CC BY + 3 CC BY-NC-ND) · verify PASS 6/6 · 906 bài/906 card · 137 chờ viết
+- 1688: 3 ca nguyên văn + 3 nguồn số liệu; flip #1122 → xong; append #1160 (1698 SES), #1161 (1663 ASIA)
