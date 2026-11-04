@@ -15,7 +15,7 @@ certainty: tong-hop-y-van
 ## Bảng so sánh phân biệt bắt buộc (Hệ Bụng)
 | Mẫu hình (pattern) | Vị trí (location) | Gamut chính (DDx) | Phân biệt nhanh (Chốt định lượng/động học) | Bài chi tiết |
 |---|---|---|---|---|
-| Khối ngấm thuốc mạnh thì ĐM (Hypervascular) | Gan (liver) | HCC, FNH, Adenoma, Hemangioma | Thải thuốc (washout) + vỏ = HCC; Sẹo T2 sáng ngấm muộn + giữ thuốc Primovist = FNH; Ngấm nốt ngoại vi hướng tâm = Hemangioma | `120`, `121`, `122` |
+| Khối ngấm thuốc mạnh thì ĐM (Hypervascular) | Gan (liver) | HCC, FNH, Adenoma, Hemangioma | Thải thuốc (washout) + vỏ = HCC; Sẹo T2 sáng ngấm muộn + giữ thuốc Primovist = FNH; Ngấm nốt ngoại vi hướng tâm = Hemangioma; Nốt MỚI nhỏ, nhiều ổ, sau oxaliplatin = FNH-like (`1733`) | `120`, `121`, `122`, `1733` |
 | Nang gan (một/nhiều) | Gan (nang) | Nang gan đơn thuần, PLD (ADPKD/ADPLD), bệnh Caroli, u mô đệm đường mật (von Meyenburg), di căn nang, **nang sán (CE1–CE5)**, MCN-L | Dịch thuần nhất + 0–15 HU + không ngấm = nang đơn thuần; **≥ 10 nang gan + nang thận = PLD**; **nốt < 1,5 cm T2 "trời sao" + không thông mật = von Meyenburg**; **giãn đường mật thông cây mật + central dot = Caroli**; **màng tách/nang con/vôi hóa vỏ = nang sán**; **vách ngấm + nữ trung niên + nang lớn = MCN-L** | `123`, `126`, `139`, `129` |
 | **Nang gan NHIỄM TRÙNG** trong gan đa nang | Gan (nang) | Nhiễm trùng nang, xuất huyết nang, áp-xe gan, u hoại tử, viêm đường mật | **Sốt + CRP > 50 mg/L + ổ FDG trong nang = nhiễm trùng** (PET dương 96%; CT chỉ gợi ý 39%); **T1 sáng + không ngấm FDG = xuất huyết cũ**; **DWI sáng/ADC thấp = mủ**; kháng sinh **≥ 28 ngày** giảm tái phát (OR 0,12); **ở người ghép thận: ciprofloxacin 4,2% / trimethoprim 12,2% vào nang vs piperacillin 0,3%, chỉ 9% ca phải giảm IS (116)** | `104`, `116`, `157`, `164` |
 | Khối giảm đậm độ / Ngấm thuốc viền (Hypovascular / Rim) | Gan | Di căn (đại-trực tràng, dạ dày), CCC đường mật, Áp-xe gan | Ngấm viền + thải ngoại vi + co kéo bao gan = CCC (LR-M); Dấu bia bắn đôi (double target) + sốt = Áp-xe | `120`, `121` |
@@ -150,6 +150,7 @@ certainty: tong-hop-y-van
 </details>
 
 ## Bài liên quan chéo
+- [1733 – Nốt FNH-like sau hóa trị: **38 bệnh nhân/63 nốt**, xuất hiện **30,4 tháng** sau hóa trị (oxaliplatin **36,0** vs cyclophosphamide **12,9**), nhiều nốt **55,3%**, **11,5 mm**, ngấm động mạch **63/63** nhưng **washout 0/63**, HBP tăng tín hiệu **78,8%**/viền tăng **57,6%**, **42%** nốt to lên — "di căn giả" trên MRI gan mật](../1733-not-tai-tao-fnh-like-sau-hoa-tri/lesson.md) *(mới — nối 1648/1910/122)*
 - [118 – Kháng đông DOAC ở người ghép tạng dùng ức chế calcineurin: tương tác P-gp/CYP3A4, ngưỡng ngừng thuốc quanh sinh thiết & CTA 2 thì phát hiện chảy máu hoạt động](../118-doac-ghep-tang-uc-che-calcineurin/lesson.md) *(mới — nối 117/116/172)*
 - [1906 – Hẹp dòng ra tĩnh mạch gan sau ghép gan (HVOO): chênh áp **≥ 5 mmHg**, tỉ lệ vận tốc **> 4:1**, phổ một pha chỉ **66,2%**; nong bóng trẻ **12,0 ± 8,8 → 1,1 ± 1,5 mmHg** nhưng tái hẹp **33–47%**, stent 5 năm **72%/94%**](../1906-hep-dong-ra-tm-gan-sau-ghep-gan/lesson.md) *(mới — nối 1901/127/133)*
 - [1909 – Hẹp–tắc tĩnh mạch cửa sau ghép gan: PVS **2–14%** (trẻ **7,58%**), tỉ lệ vận tốc **3,21 → 1,01**, gradient **> 5 mmHg**, nong bóng đơn thuần **81,25%**, tái hẹp **18,75%**, **PVDr OR 5,7**](../1909-hep-tinh-mach-cua-sau-ghep-gan/lesson.md) *(mới — nối 1906/124/176)*

@@ -1149,3 +1149,6 @@
 - Ghi chú: 2 hàng backlog 1664/1665 ở đầu bảng đã có bài từ 2026-11-01 nhưng chưa flip — cần rà lại khi chạm; BACKLOG ID trùng 8 ID cũ (1828/6145/6146/6143/6144/1738/1439/1440) chưa xử lý.
 - 2026-11-04 · worker: viết **1714** (chảy dịch núm một ống: ung thư 3–23%, cytology âm giả 65%, galactography 77,4/75,7%, MRI NPV 97,1%, ductoscopy 95,3%, mổ ống dẫn chỉ 8,1% ung thư khi hình ảnh âm) + **1732** (DILI do CDK4/6i & T-DXd: ribociclib 9,2%/G3–4 31%, di căn gan HR 2,159, gan mỡ 3,536, T-DXd AST 28%/ALT 23%, ROR 2,51); 5 ảnh + 2 composite CC BY 4.0.
 - 2026-11-04 · flip #1117/#1118 → xong; append 2 gap mới #1886 (1790 bùng phát HBV) + #1887 (1791 ung thư vú nam), check_duplicates exit 0; verify PASS 6/6, 902 bài/902 card, parity 0, 133 chờ viết.
+
+2026-11-04 (worker) — bài **1733** FNH-like sau hóa trị: 38 bệnh nhân/63 nốt, HBP tăng 78,8
+2026-11-04 (worker) — bài **1733** FNH-like sau hóa trị: 38 bệnh nhân/63 nốt, HBP tăng 78,8% & viền tăng 57,6%, washout 0/63; 42% nốt to lên. Flip #1119; append #1888 (1792 lách to/giảm tiểu cầu do oxaliplatin) + #1889 (1793 FNH-like ở trẻ). VERIFY PASS 6/6, 903 bài/903 card, parity 0.
