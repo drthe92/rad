@@ -150,6 +150,7 @@ certainty: tong-hop-y-van
 </details>
 
 ## Bài liên quan chéo
+- [118 – Kháng đông DOAC ở người ghép tạng dùng ức chế calcineurin: tương tác P-gp/CYP3A4, ngưỡng ngừng thuốc quanh sinh thiết & CTA 2 thì phát hiện chảy máu hoạt động](../118-doac-ghep-tang-uc-che-calcineurin/lesson.md) *(mới — nối 117/116/172)*
 - [1906 – Hẹp dòng ra tĩnh mạch gan sau ghép gan (HVOO): chênh áp **≥ 5 mmHg**, tỉ lệ vận tốc **> 4:1**, phổ một pha chỉ **66,2%**; nong bóng trẻ **12,0 ± 8,8 → 1,1 ± 1,5 mmHg** nhưng tái hẹp **33–47%**, stent 5 năm **72%/94%**](../1906-hep-dong-ra-tm-gan-sau-ghep-gan/lesson.md) *(mới — nối 1901/127/133)*
 - [1909 – Hẹp–tắc tĩnh mạch cửa sau ghép gan: PVS **2–14%** (trẻ **7,58%**), tỉ lệ vận tốc **3,21 → 1,01**, gradient **> 5 mmHg**, nong bóng đơn thuần **81,25%**, tái hẹp **18,75%**, **PVDr OR 5,7**](../1909-hep-tinh-mach-cua-sau-ghep-gan/lesson.md) *(mới — nối 1906/124/176)*
 - [1910 – Hội chứng tắc xoang gan (SOS/VOD): **66%** ca "probable" **không vàng da**, HBP **lưới > 50% = nặng**, MRE cut-off **2,82 kPa**, defibrotide **6,25 mg/kg q6h ≥ 21 ngày**](../1910-hoi-chung-tac-xoang-gan-sos/lesson.md) *(mới — nối 1906/1909/149)*

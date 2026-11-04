@@ -142,6 +142,7 @@ certainty: tong-hop-y-van
 - [255 – Màng nhện lưng & dấu "scalpel": tủy ngực đẩy ra trước, syrinx thứ phát, cắt màng là chữa khỏi](../255-mang-nhen-lung-dorsal-scalpel-sign/lesson.md) *(mới — nối 254/226/220)*
 - [256 – Nhồi máu tủy sau mổ/đặt stent ĐMC: Adamkiewicz trái 74% ở T9–T10, DWI sớm, owl's eyes, MAP 85–90 & DNT < 10 mmHg](../256-nhoi-mau-tuy-sau-phau-thuat-dong-mach-chu/lesson.md) *(mới — nối 226/254/258)*
 - [257 – Theo dõi & tái phát sau can thiệp túi phình não: RROC/OKM, coil compaction, artifact MRA](../257-theo-doi-tai-phat-sau-can-thiep-tui-phinh/lesson.md) *(mới — nối 207/241/248)*
+- [266 – Theo dõi sau WEB: thang BOSS riêng, co rút lưới, HR-CTA 85,2% và bẫy BOSS 0′](../266-theo-doi-sau-web-tui-phinh/lesson.md) *(mới — nối 257/207/248)*
 - [258 – Áp-xe ngoài màng cứng & nhiễm trùng ống sống do loét tì đè cùng cụt: MRI + DWI, ASIA, mổ ≤ 12 giờ](../258-apxe-ngoai-mang-cung-loet-ti-de-cung-cut/lesson.md) *(mới — nối 309/222/254)*
 - [3012 – Áp-xe ngoài màng cứng sau gây tê/gây mê ngoài màng cứng: catheter 51 giờ, sốt muộn, khí ngoài màng cứng giả áp-xe](../3012-apxe-ngoai-mang-cung-sau-gay-te-ngoai-mang-cung/lesson.md) *(mới — nối 258/222/228)*
 - [3013 – Hội chứng đuôi ngựa sau mổ cột sống: máu tụ–phù–mủ–đĩa tái phát, PVR > 200 mL, mổ lại < 24–48 giờ](../3013-hoi-chung-duoi-ngua-sau-mo-cot-song/lesson.md) *(mới — nối 228/258/3012)*
