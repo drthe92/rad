@@ -1169,3 +1169,7 @@
 
 ## Nhật ký worker 2026-11-04 (lượt 2)
 - Viết **6146** (sỏi túi mật/sỏi OMC ở trẻ) + **1911** (viêm đại tràng thiếu máu); flip #1133/#1134 → xong; append #1898 (1920, huyết khối TM mạc treo) + #1899 (6147, sỏi mật ở trẻ tan máu) — đã check_duplicates.
+
+## Nhật ký worker 2026-11-04 (lượt 3)
+- Viết **1912** (phình động mạch tạng: giả phình can thiệp mọi cỡ; lách > 3 cm, gan/thân tạng > 2 cm, thận > 3 cm, SMA + thai mọi cỡ; vỡ ở thai mẹ ~75–80%/thai > 90%; nút mạch khi vỡ 4,1% vs mổ 31%; nhồi máu lách 37,5%; "vỡ hai lần" 12–21%) — 7 ảnh + 1 composite.
+- Viết **1818** (sỏi niệu quản ở thai: 0,49% = 1/204, ứ nước Sp 1,5%, URS sạch sỏi 91%/biến chứng ~1% vs JJ stent 45%, stent đổi 4–6 tuần, EAU 2025 URS hàng đầu) — 6 ảnh + 1 composite; flip #1135/#1140 → xong; append #1198 (1921) + #1199 (1922).
