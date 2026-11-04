@@ -112,6 +112,7 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [209 – Bệnh chất trắng do độc chất (heroin "chasing the dragon", metronidazole, 5-FU/capecitabine)](../209-benh-chat-trang-do-doc-chat/lesson.md) *(mới — nối 206/215/1421)*
 - [211 – Đột quỵ não](../211-dot-quy-nao/lesson.md) *(đã có)*
+- [1712 – Trousseau thể ĐỘNG MẠCH / NBTE: DWI nhiều lãnh thổ + vegetate vô khuẩn, TEE (không phải TTE), enoxaparin 3,4% vs warfarin 16,0% tái phát](../1712-trousseau-dong-mach-nbte/lesson.md) *(mới — nối 1693/211)*
 - [212 – Xuất huyết sọ](../212-xuat-huyet-so-nao/lesson.md) *(đã có)*
 - [213 – U não](../213-u-nao/lesson.md) *(đã có)*
 - [432 – Vùng yên](../432-vung-yen/lesson.md) (nối chéo khối ngoài trục `217` – tuyến yên)

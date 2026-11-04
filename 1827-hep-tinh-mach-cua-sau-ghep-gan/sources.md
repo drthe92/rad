@@ -1,0 +1,23 @@
+# Nguồn gốc — 1827 Hẹp tĩnh mạch cửa sau ghép gan
+
+> Truy cập 2026-11-04. Tìm qua Europe PMC REST API, tải toàn văn/XML và ảnh từ PMC (URL `cdn.ncbi.nlm.nih.gov`). **Tên tác giả lấy từ `authorString` của Europe PMC cùng ngày**, đối chiếu PMCID — không viết theo trí nhớ.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép | Tải về? |
+|---|---|---|---|---|---|
+| 1 | *Insights Imaging* 2019;10:78 | **Delgado-Moraleda JJ, Ballester-Vallés C, Marti-Bonmati L** — "Role of imaging in the evaluation of vascular complications after liver transplantation" — biến chứng mạch máu ~7% ghép xác, ~13% ghép sống; biến chứng cửa **< 2%**; protocol Doppler 24–48 giờ, ngày 7, tháng 1, tháng 3; ngưỡng **PSV > 125 cm/s** hoặc **tỉ lệ ≥ 3**; aliasing sớm sau mổ là bình thường; huyết khối **< 72 giờ → mổ lại**, muộn → tiêu sợi huyết/nong/stent; MRI sau stent bị nhiễu kim loại; 3 ảnh (Fig. 9, 10, 11) | https://pmc.ncbi.nlm.nih.gov/articles/PMC6694376/ | CC BY 4.0 | 3 ảnh |
+| 2 | *Ultrasound Int Open* 2022;8(2):E36–E42 | **Verhagen MV, de Kleine RHJ, van der Doef HPJ, Kwee TC, de Haas RJ** — "Doppler Ultrasound of Vascular Complications After Pediatric Liver Transplantation: Incidence, Time of Detection, and Positive Predictive Value" — 92 ca ghép nhi; 52 biến chứng mạch ở 35/92 ca (38%); **84,6% phát hiện trong mổ/tuần đầu**, 15,4% sau ngày 8; biến chứng cửa 26 ca, **73,1% trong tuần đầu**; PPV chung **92,3%**, cửa **88,5% (23/26)**, 3 dương tính giả; ngưỡng **PSV > 125 cm/s hoặc tỉ lệ ≥ 4**; lịch Doppler trong mổ + ngày 0, ngày 1–7, 1, 3, 12 tháng | https://pmc.ncbi.nlm.nih.gov/articles/PMC9668490/ | CC BY 4.0 | text |
+| 3 | *Ann Transplant* 2017;22:222–229 | **Gao H, Wang H, Chen G, Yi Z** — "Intervention Therapy for Portal Vein Stenosis/Occlusion After Pediatric Liver Transplantation" — 30 trẻ (21 hẹp, 9 tắc); thủ thuật qua da thành công 100%, kỹ thuật **94,12% (32/34)**; hẹp **24/24 = 100%**, tắc **8/10 = 80%**; hẹp xuất hiện **9,15 ± 8,86 tháng** (0,5–37), 2 ca sớm (2 tuần, 2 tháng); đường kính **3,25 ± 0,64 → 7,54 ± 0,98 mm**; vận tốc **114,73 ± 31,37 → 39,43 ± 13,23 cm/s**; gradient **10,97 ± 4,25 → 1,63 ± 1,16 mmHg**; tiểu cầu **128,56 → 163,65 × 10⁹/L**; **gradient ≥ 5 mmHg → điều trị dù không triệu chứng**; thông suốt **89,29%** lần 1, **100%** lần 2; biến chứng 0 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12577528/ | CC BY-NC-ND 4.0 | text only |
+| 4 | *Ann Transplant* 2025;30:e949532 | **Shuai M, Wang W, Qian Y, Li Z, Gao S, Wu J, Yu J, Zhang M, Shen Y, Bai X, Liang T, Zhang W** — "Endovascular Intervention of Portal Vein Stenosis in Pediatric Patients After Liver Transplantation: A Single-Center Experience" — **67/884 (7,6%)** ca ghép nhi có hẹp cửa; khởi phát **119,3 ± 126,3 ngày** (8–786); đường kính cửa nhận **0,41 ± 0,15 cm**, cho **0,69 ± 0,23 cm**, PVDr **88,5 ± 112,21%**; kỹ thuật thành công **95,5%**; **81,25%** khỏi sau một lần nong; hẹp lại **12/64 (18,75%)**, trung bình **162,8 ± 153,4 ngày**; **PVDr OR 5,7**, **PVB OR 2,3**, AUC **0,778**, Se **66,7%**, Sp **92,3%**; sống 1 năm **100%**, 3 năm **95%**; mảnh ghép 1 năm **100%**, 3 năm **91%** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12377406/ | CC BY-NC-ND 4.0 | text only |
+
+## Ghi chú giấy phép
+- **CC BY 4.0** (PMC6694376, PMC9668490): dùng text + ảnh; được tạo phái sinh (nhưng bài này giữ **nguyên bản**, không ghép).
+- **CC BY-NC-ND 4.0** (PMC12577528, PMC12377406): **chỉ dùng số liệu**, không tải ảnh, không tạo phái sinh.
+- Không tải ảnh ngoài PMC; không dùng ảnh có giấy phép mơ hồ.
+
+## Số liệu định lượng chính (đối chiếu nguồn)
+- **Dịch tễ:** biến chứng mạch máu chung **~7%** ghép xác / **~13%** ghép sống; biến chứng cửa **< 2%** người lớn (nguồn #1); trẻ **2–14%** ở ghép giảm thể tích/ghép sống (nguồn #3 dẫn y văn); đoàn hệ **67/884 = 7,6%** (nguồn #4).
+- **Thời điểm:** **119,3 ± 126,3 ngày** (8–786) (nguồn #4); **9,15 ± 8,86 tháng** (0,5–37), 28/30 ca sau 3 tháng (nguồn #3); 84,6% biến chứng mạch trong mổ/tuần đầu (nguồn #2).
+- **Ngưỡng Doppler:** **PSV > 125 cm/s**; tỉ lệ **≥ 3** (nguồn #1) hoặc **≥ 4** (nguồn #2); PPV cửa **88,5%** (nguồn #2); **gradient ≥ 5 mmHg** → điều trị (nguồn #3).
+- **Kết quả can thiệp:** nong bóng một lần khỏi **81,25%**; hẹp lại **18,75%** (nguồn #4); kỹ thuật **94,12%**, hẹp **100%**, tắc **80%**, thông suốt **89,29%/100%** (nguồn #3); sống 3 năm **95%**, mảnh ghép **91%** (nguồn #4).
+- **Vật lý (tính, không phải số của bài gốc):** Bernoulli rút gọn ΔP ≈ 4V² → 1,25 m/s ≈ **6,25 mmHg**; 2 m/s ≈ **16 mmHg**.
+- **Chưa rõ:** ngưỡng tỉ lệ tối ưu (3 hay 4) chưa có RCT; ngưỡng PSV riêng cho trẻ < 1 tuổi; vai trò của độ đàn hồi siêu âm (elastography) trong hẹp cửa; thời gian kháng đông sau can thiệp.
