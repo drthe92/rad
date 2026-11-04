@@ -1125,3 +1125,6 @@
 ## 2026-11-03 — worker rad-backlog (lượt 271)
 - Viết **271** Hội chứng tăng tưới máu não sau can thiệp cảnh (CHS) — ID 264 đã bị u màng não do xạ chiếm nên đổi sang 271; 4 ảnh (CC BY 4.0 ×1, CC BY-NC-SA ×1, CC BY-NC-ND ×2), không tạo composite vì có ảnh ND.
 - Flip #1109 → xong; append 2 khoảng trống mới **274** (OIS/glôcôm tân mạch sau tái thông) + **275** (động kinh sau can thiệp cảnh), đã check_duplicates; `split_backlog --auto` báo "không có gì để tách" dù BACKLOG.md 649 KB (toàn bộ nằm trong bảng, không có ghi chú dài).
+
+- 2026-11-04 — worker: viết **274** (OIS + NVG sau tái thông cảnh) và **275** (động kinh sau CEA/CAS); 12 ảnh (11 CC BY, 2 CC BY-NC — 7 và 5 ảnh/bài), verify PASS 5/5; nguồn chính PMC12890682, PMC12049290, PMC5192319, PMC12126846 / PMC11840276, PMC11835061, PMC12580545.
+- 2026-11-04 — append 2 khoảng trống mới (276 CRAO cấp, 277 GCA mắt) đã check_duplicates exit 0.

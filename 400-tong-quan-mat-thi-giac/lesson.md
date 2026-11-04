@@ -211,6 +211,7 @@ certainty: tong-hop-y-van
 - [1433 – Viêm nội nhãn ở mắt bơm dầu silicone: mủ tiền phòng bị che, cấy dầu–dịch (âm 62%), lấy dầu muộn → teo nhãn; kháng sinh lặp q2–3 ngày](../1433-viem-noi-nhan-mat-bom-dau/lesson.md) *(mới)*
 - [1434 – Hạ nhãn áp sau quang đông thể mi & rách thể mi: phân biệt suy thể mi với khe thông tiền phòng–khoang trên hắc mạc; UBM, atropine–laser–cyclopexy](../1434-ha-nhan-ap-rach-the-mi-sau-quang-dong/lesson.md) *(mới)*
 - [1426 – Viêm nội nhãn sau tiêm tái phát/không đáp ứng: ổ kín & biofilm, kháng vancomycin 11,1%, chọc lại hay PPV (48–72 giờ), dexamethasone không lợi ích](../1426-viem-noi-nhan-tai-phat-khong-dap-ung/lesson.md) *(mới)*
+- [274 – Thiếu máu mắt (OIS) và glôcôm tân mạch sau tái thông cảnh: FA chậm đổ đầy hắc mạc, dòng OA đảo ngược, tân mạch mống mắt; tái thông cứu mắt chỉ khi CHƯA có tân mạch; 12 ca NVG sau bóc nội mạc cảnh](../274-thieu-mau-mat-ois/lesson.md) *(mới — nối 271/270/1436)*
 
 ## Quy hoạch Mắt & thị giác (Master Curriculum 400–499)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
