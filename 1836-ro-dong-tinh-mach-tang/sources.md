@@ -1,0 +1,34 @@
+# Nguồn gốc — 1836 Rò động – tĩnh mạch tạng
+
+> Quét 2026-11-04: Europe PMC (`FIG:"arteriovenous fistula" AND (splenic OR hepatic OR mesenteric OR renal)`, `"splenic arteriovenous fistula"`, `"renal arteriovenous fistula"`, `"arterioportal fistula"`, `"high-output cardiac failure"`) — đọc **full text** bản OA, đối chiếu **PMCID + giấy phép từng bài**. Không scrape Radiopaedia; AuntMinnie chỉ dẫn link.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / *Insights Imaging* 2020;11:112 | Tổng quan **hình ảnh cấp cứu mạch tạng** (**PMC7561664**): phân biệt **giả phình** (túi ngấm giữ hình, không ngấm sớm tĩnh mạch) với **rò động–tĩnh mạch** (tĩnh mạch ngấm sớm); ca **rò thận sau sinh thiết** ở 2 bệnh nhân (Fig. 15–16); protocol CTA nhiều thì | https://pmc.ncbi.nlm.nih.gov/articles/PMC7561664/ | CC BY 4.0 | `images/1836_ro-dong-tinh-mach-tang_CT_PMC7561664-f16.jpg` |
+| 2 | Europe PMC / *Front Med (Lausanne)* 2026 | **HHT thể gan** — 3 ca + tổng quan (**PMC13404187**): **70%** bệnh nhân HHT có tổn thương gan trên CT, chỉ **5–8%** triệu chứng; **suy tim lưu lượng cao khi shunt > 20% cung lượng tim**, chỉ số tim **4,2–7,3 L/phút/m²** (bình thường **2,5–4,0**); cơ chế **tăng áp cửa trước xoang**; **hoại tử đường mật do steal**; nút mạch lan tỏa → **huyết khối tĩnh mạch cửa**, 1 ca tử vong sau nút mạch | https://pmc.ncbi.nlm.nih.gov/articles/PMC13404187/ | CC BY 4.0 | không dùng ảnh |
+| 3 | Europe PMC / *J Med Case Rep* 2025 | **Rò động–tĩnh mạch gan bẩm sinh** — 1 ca + tổng quan **26 bệnh nhân/10 bài** (**PMC12763836**): can thiệp nội mạch **22/26 (84,6%)**, chẹn beta **2 (7,7%)**, mổ/ghép gan **2 (7,7%)**; **2 trẻ tử vong** sau nút mạch, **1** phải ghép gan; nguyên nhân mắc phải: **sinh thiết gan, chọc dẫn lưu đường mật, phẫu thuật** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12763836/ | CC BY 4.0 | không dùng ảnh |
+| 4 | Europe PMC / *J Vasc Surg Cases Innov Tech* 2026;102217 | **Rò mạc treo tràng trên** giả phình động mạch chủ (**PMC13092855**): nam **49 tuổi**, mổ xoắn ruột **20 năm** trước, lỗ thông **10 × 12 mm**, bít **1 plug Amplatzer**; **phân loại type 1A/1B/2** (sơ đồ Fig. 3) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13092855/ | CC BY 4.0 | `images/1836_..._CTA_...-f1.jpg`, `..._DSA_...-f2.jpg`, `..._So-do_...-f3.jpg` |
+| 5 | Europe PMC / *Radiol Case Rep* 2026 | **Rò thân tạng – tĩnh mạch cửa sau đạn** (**PMC13181249**): rò lưu lượng cao sau vết thương bụng, bít bằng dụng cụ nội mạch, không biến chứng | https://pmc.ncbi.nlm.nih.gov/articles/PMC13181249/ | CC BY-NC-ND 4.0 | không dùng ảnh |
+| 6 | Europe PMC / *Radiol Case Rep* 2026 | **Rò thận lưu lượng cao + giãn tĩnh mạch chủ dưới** (**PMC13196357**): 2 ca, **bóng chặn dòng + coil**; **coil di trú vào nhĩ phải** khi xả bóng (lấy được bằng snare); 4 tháng còn tắc, tĩnh mạch chủ nhỏ lại, **1 ca thiếu máu cực dưới thận** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13196357/ | CC BY-NC-ND 4.0 | không dùng ảnh |
+| 7 | Europe PMC / *J Vasc Surg Cases Innov Tech* 2023 | **Rò thận + suy tim lưu lượng cao** (**PMC9883246**): nữ **69 tuổi**, tĩnh mạch thận giãn **4,0 × 4,0 cm**, loạn sản cơ – xơ; bít bằng **coil + 0,2 mL NBCA 50%**, giữ chức năng thận, hết khó thở; **tỉ lệ AVF thận 0,04%**, đa số mắc phải | https://pmc.ncbi.nlm.nih.gov/articles/PMC9883246/ | CC BY-NC-ND 4.0 | không dùng ảnh |
+| 8 | Europe PMC / *Radiol Case Rep* 2026 | **Bẫy: máu tụ tổ chức hóa + rò giả giả phình lách** (**PMC13586829**): tổn thương **22 → 54 mm trong 13 ngày**, ngấm **cả thì tĩnh mạch cửa**; nút mạch gần thất bại (còn dòng động mạch) → **cắt lách**, mô bệnh xác định **máu tụ + rò**, không phải giả phình | https://pmc.ncbi.nlm.nih.gov/articles/PMC13586829/ | CC BY 4.0 | `images/1836_..._CT_...-f2.jpg` |
+| 9 | Europe PMC / *Cureus* 2024 | **Rò lách sau chấn thương** (**PMC11302989**): lách **độ III**, CT **ngày 5** thấy giả phình + AVF → nút mạch **ngày 7**; **> 25% tổn thương mạch không thấy trên CT lần đầu**; rò lách có thể gây **tăng áp cửa ngoài gan** muộn | https://pmc.ncbi.nlm.nih.gov/articles/PMC11302989/ | CC BY 4.0 | không dùng ảnh |
+| 10 | Europe PMC / *Acta Med Litu* 2025 | **"Silent shunt" — rò lách sau chấn thương** (**PMC12875546**): nam **62 tuổi**, lách **độ IV**, nhiều giả phình; bít coil, theo dõi không triệu chứng; biến chứng nếu bỏ sót: **tăng áp cửa, suy tim lưu lượng cao** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12875546/ | CC BY 4.0 | không dùng ảnh |
+| 11 | Europe PMC / *SA J Radiol* 2026 | **Rò động – tĩnh mạch lách gây tăng áp cửa không xơ gan** (**PMC12969602**): CT 3 thì + DSA, nút mạch; dùng cho phần **gamut theo tạng** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12969602/ | CC BY 4.0 | **không dùng ảnh** (ảnh có thông tin định danh bệnh nhân trên phim) |
+| 12 | Europe PMC / *Ann Vasc Dis* 2025 | **Rò động – tĩnh mạch mạc treo tràng dưới** (**PMC12528857**): giãn giả phình, dẫn lưu về **tĩnh mạch lách**, mổ cắt; dùng cho gamut mạc treo | https://pmc.ncbi.nlm.nih.gov/articles/PMC12528857/ | CC BY 4.0 | không dùng ảnh |
+| 13 | Repo nội bộ | **1835** (thiếu máu ruột sau nút mạch), **1833** (vascular plug, quá cỡ 30–50%), **1819** (giả phình mạch tạng), **1831** (coil di trú), **187** (giãn tĩnh mạch lạc chỗ), **920** (nút mạch chảy máu tiêu hóa) | ../1833-vascular-plug-nut-mach-tang/lesson.md | nội bộ | — |
+
+## Ghi chú giấy phép
+- **5 ảnh dùng đều CC BY 4.0** (PMC7561664; PMC13092855 ×3; PMC13586829).
+- Ảnh **PMC13586829 Fig. 2** gốc là **WebP**, đã chuyển sang **JPEG (Pillow, quality 92)** — chỉ đổi định dạng, **không đổi nội dung hình**.
+- **Không tạo ảnh ghép**: 5 ảnh thuộc **3 bệnh nhân + 1 sơ đồ**, từ **3 tạp chí**.
+- **Tên tác giả KHÔNG ghi**: attribution dùng **tạp chí + năm + PMCID** (đối chiếu Europe PMC ngày 2026-11-04).
+- Ảnh tải từ **PMC** (`cdn.ncbi.nlm.nih.gov/pmc/blobs/...`), đúng file figure gốc; không chỉnh sửa nội dung.
+
+## Phản biện / giới hạn nguồn
+- **Không có thử nghiệm ngẫu nhiên** nào về ngưỡng can thiệp AVF tạng; bảng phân độ ở mục 4.3 là **tổng hợp thực hành** từ ngưỡng sinh lý (shunt **> 20%** cung lượng tim) + chỉ định của các ca, **không phải khuyến cáo hội**.
+- **Ngưỡng "20% cung lượng tim"** lấy từ **tổng quan HHT thể gan** (PMC13404187), không phải từ nghiên cứu trên AVF do chấn thương; áp dụng cho AVF nói chung là **suy luận sinh lý**, đã ghi rõ.
+- **Tỉ lệ AVF thận 0,04%** là số của **một tài liệu tổng quan** (dẫn trong PMC9883246), không phải tỉ lệ quần thể đoàn hệ.
+- **Ca SMAVF 10 × 12 mm** và **ca máu tụ 22 → 54 mm** là **ca đơn lẻ**, dùng để dạy **hình thái và bẫy**, không dùng để suy ra tỉ lệ.
+- **Coil di trú vào nhĩ phải** (PMC13196357) xảy ra khi **xả bóng** — bài dùng để dạy **quy trình an toàn**, không kết luận rằng kỹ thuật balloon-assisted nguy hiểm hơn.
+- **"Rò lách → tăng áp cửa trái"** dựa trên cơ chế và ca bệnh; tỉ lệ chính xác chưa có trong nguồn đã đọc → bài **không đưa con số** cho tần suất này.

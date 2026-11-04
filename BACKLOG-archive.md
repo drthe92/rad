@@ -1156,3 +1156,5 @@
 - 1688: 3 ca nguyên văn + 3 nguồn số liệu; flip #1122 → xong; append #1160 (1698 SES), #1161 (1663 ASIA)
 - 2026-11-04 · worker: viết **1689** (nhiễm trùng/hoại tử vạt tự thân: SSI 7,2%/1.400 vạt, cứu vạt 62% → 21% sau 16 giờ, hoại tử > 10 cm² hoặc > 3 tuần → mổ, ICG OR 0,60; 3 ảnh + 1 composite CC BY 4.0).
 - 2026-11-04 · worker: viết **1734** (rò trực tràng–âm đạo ở trẻ: ARM 1/4.000–1/5.000, MRI 93,33% vs colostogram 76,9%, P–P > 1 cm, rò HIV tái phát 44%, TSARP 83,3%); flip #1123/#1124; append #1892 (1739) + #1893 (1698); verify PASS 6/6, 908 bài/908 card.
+- 2026-11-04: viết **1835** (thiếu máu ruột sau nút mạch mạc treo; 4 ảnh: 2 CC BY 4.0 + 2 CC BY-NC 3.0) và **1836** (rò động–tĩnh mạch tạng; 5 ảnh CC BY 4.0) — nối 1834/1833/1819/920; verify 5/5.
+- 2026-11-04: flip #1831/#1832 → xong; append 2 mục #1136 (hẹp ruột do thiếu máu) + #1137 (SAE chấn thương lách), đã check_duplicates.

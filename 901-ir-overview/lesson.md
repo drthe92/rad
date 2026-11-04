@@ -44,6 +44,8 @@ certainty: tong-hop-y-van
 - [1824 – Rò mật–phế quản (bronchobiliary fistula): biliptysis, giải áp mật → bít phế quản → mổ](../1824-ro-mat-phe-quan/lesson.md) *(mới — nối 1820/930/934)*
 - [1819 – Chảy máu tiêu hóa muộn do giả phình động mạch tạng (GDA/tụy–tá tràng): sentinel bleed = CTA ngay, nút mạch 93,5% lâm sàng](../1819-chay-mau-muon-gia-phinh-mach-tang/lesson.md) *(mới — nối 920/135/930)*
 - [1811 – Loét & hẹp thực quản–dạ dày–tá tràng do vi cầu lạc vị sau TACE/TARE: hẹp muộn 1–12 tháng, nong bóng → stent/EUS-GJ](../1811-loet-da-day-ta-trang-sau-tace-tare/lesson.md) *(đã có — bổ sung nhánh hẹp)*
+- [1835 – Thiếu máu ruột sau nút mạch mạc treo: mạch tận dưới Treitz, thành mỏng như giấy, thiếu máu 4,7%](../1835-thieu-mau-ruot-sau-nut-mach/lesson.md) *(mới — nối 1834/1833/920)*
+- [1836 – Rò động–tĩnh mạch tạng: tĩnh mạch ngấm SỚM thì động mạch, plug/coil/stent phủ](../1836-ro-dong-tinh-mach-tang/lesson.md) *(mới — nối 1833/1819/939)*
 - [934 – Sốc phản vệ do vỡ nang sán khi can thiệp](../934-soc-phan-ve-do-vo-nang-san/lesson.md) *(đã có)*
 - [933 – Sốc phản vệ & PC-AKI do thuốc cản quang](../933-an-toan-thuoc-can-quang/lesson.md) *(đã có)*
 
