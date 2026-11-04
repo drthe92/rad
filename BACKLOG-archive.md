@@ -1154,3 +1154,5 @@
 - 2026-11-04 · worker: viết **384** (sarcoma do xạ ngực: 0,9% sarcoma, 0,15% sau xạ, tiềm tàng 12,1 năm, 5 năm 44,7%, cắt R0 65% vs 0%); flip #1120/#1121 → xong; append #1890 (1842 takotsubo) + #1891 (1843 ICI myocarditis); verify PASS 6/6, 905 bài/905 card.
 - 2026-11-04 · bài **1688** siliconoma lan xa ngoài vùng vú (7 ảnh: 4 CC BY + 3 CC BY-NC-ND) · verify PASS 6/6 · 906 bài/906 card · 137 chờ viết
 - 1688: 3 ca nguyên văn + 3 nguồn số liệu; flip #1122 → xong; append #1160 (1698 SES), #1161 (1663 ASIA)
+- 2026-11-04 · worker: viết **1689** (nhiễm trùng/hoại tử vạt tự thân: SSI 7,2%/1.400 vạt, cứu vạt 62% → 21% sau 16 giờ, hoại tử > 10 cm² hoặc > 3 tuần → mổ, ICG OR 0,60; 3 ảnh + 1 composite CC BY 4.0).
+- 2026-11-04 · worker: viết **1734** (rò trực tràng–âm đạo ở trẻ: ARM 1/4.000–1/5.000, MRI 93,33% vs colostogram 76,9%, P–P > 1 cm, rò HIV tái phát 44%, TSARP 83,3%); flip #1123/#1124; append #1892 (1739) + #1893 (1698); verify PASS 6/6, 908 bài/908 card.
