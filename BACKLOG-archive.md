@@ -1162,3 +1162,5 @@
 - 2026-11-04: dọn hàng chờ trùng (1706/090 đã có bài; 1664/1665 chuẩn hoá); append 1738 (TSS do băng vệ sinh) + 1786 (động kinh sau đột quỵ ở trẻ) — đều qua check_duplicates.
 - 2026-11-04 · worker: viết **3055** (áp-xe tuyến tiền liệt: 0,5% nhiễm khuẩn niệu, 12,4%/822 viêm cấp nhập viện, tử vong 8,8%; ADC 0,61–0,63 chồng lấp ung thư; > 2 cm bóc nắp tái phát 4% vs 31,6%; khí thũng tử vong 25%; 4 ảnh CC BY/CC BY 2.5/CC BY-NC/CC BY-NC-ND).
 - 2026-11-04 · flip #1129 → xong; append #1165 (3077 áp-xe túi tinh) + #1166 (3078 nang utricle/Müllerian) — đã check_duplicates; verify PASS 6/6, 913 bài/913 card.
+- 2026-11-04 · worker: viết **1430** (ICANS sau CAR-T: 20–>60%, độ ≥3 10–30%, MRI bình thường ~2/3, phù lan tỏa = độ 4, dex 10–20 mg q6h, tocilizumab không dùng đơn độc; 6 ảnh CC BY-NC 4.0).
+- 2026-11-04 · flip #1130 → xong; append #1894 (1446 MNT BCMA muộn) + #1895 (1447 giảm IgG/nhiễm muộn) — đã check_duplicates.
