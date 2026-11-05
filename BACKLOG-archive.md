@@ -1737,3 +1737,6 @@
 2026-11-05 — flip #1159/#1160; append #1212 (3080 thiếu B12) + #1213 (3081 bacteriuria); verify PASS 6/6.
 - 2026-11-05: viết **1663** (ASIA sau implant/chất làm đầy — ca 53 tuổi implant 24 năm, CT 3 thời điểm + mô bệnh, CC BY 4.0) và **1898** (Jod–Basedow sau cản quang ở trẻ — ca 17 tuổi 23 g iod, fT4 7,4 ng/dL, siêu âm giáp bình thường, CC BY 4.0). Verify PASS 6/6, 952 bài/952 card.
 - 2026-11-05: flip #1161×2 → xong; append #1214 (1899 bướu giáp lạc chỗ) + #1215 (1674 lao tuyến vú), đã check_duplicates. BACKLOG còn 138 mục chờ viết.
+## 2026-11-05 — lượt worker
+- Viết **1716** (gãy ZMC ở trẻ): ID đổi từ 1710 (đã có bài đái tháo nhạt) → 1716; 5 ảnh (PMC11965933 ×2 CC BY, PMC4145677 ×2 CC BY 2.0, PMC11785544 CC BY-NC-ND).
+- Flip #1158 → xong; append 2 gap mới #1216 (1749 tràn khí ổ mắt), #1217 (1760 nhiễm nẹp sau nắn gò má) — đã check_duplicates.
