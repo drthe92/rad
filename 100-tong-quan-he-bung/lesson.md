@@ -99,6 +99,7 @@ certainty: tong-hop-y-van
 | **Dày thành đại tràng TỪNG ĐOẠN ở người > 60 tuổi, đau bụng trái + đi máu** | Đại tràng – vùng bản lề (góc lách, xích ma) | Viêm đại tràng thiếu máu (IC) · thiếu máu mạc treo cấp (SMA) · viêm đại tràng nhiễm/C. difficile · IBD · viêm túi thừa · viêm đại tràng do tắc nghẽn (ung thư) · stercoral colitis | **Từng đoạn + chừa trực tràng + mạch thông = IC**; **thành MỎNG (71,9%) = chưa tái tưới máu, nặng hơn thành dày (86,4% ở bán cấp)**; **mất ngấm thuốc = hoại tử (OR 10,7)**; **dịch quanh đại tràng 100% ở cấp**; **luôn tìm chỗ hẹp phía trên** | `1911`, `1908`, `162` |
 
 | **Khuyết lòng niệu quản/bể thận + ứ nước phía trên** | Niệu quản – bể thận (ureter – renal pelvis) | UTUC nhú/thâm nhiễm · sỏi · máu cục · nhú thận bong · u lành (nephrogenic adenoma) · lạc nội mạc · RCC xâm lấn | **Goblet/stipple sign + ngấm thuốc thì vỏ–tủy (30 → 75 HU) = u trong lòng**; **không ngấm, đổi hình giữa các thì = máu cục/sỏi**; **CTU Se 92%/Sp 95% nhưng u < 3 mm chỉ Se 40%**; **2,9% cắt thận–niệu quản vì tổn thương lành**; goblet cũng gặp ở u lành → phải sinh thiết | `1724`, `159`, `151` |
+| **Thận ghép + khuyết lòng/khối "giả viêm" ở cực dưới** | Thận ghép – bể thận/niệu quản ghép (graft kidney) | UTUC thận ghép · viêm thận–bể thận/áp-xe · hẹp do BK · máu cục/nấm · RCC thận ghép · phản ứng BCG · nephrogenic adenoma | **UTUC sau ghép: 3,7/100.000 người–năm (dân số chung 3,3), 67% ở thận ghép, 87% HG, 47% pT3, trung vị 91 tháng; ứ nước thận nguyên bản OR 35,32**; **khuyết lòng cố định + ngấm thuốc ở thì bài tiết = u; tổn thương "viêm" không nhỏ sau 4–6 tuần kháng sinh = phải loại u**; **BK+ 90,9% nguy cơ cao** | `1750`, `1724`, `190`, `3011` |
 
 ## Ảnh minh họa & Blind Quiz (đọc nhanh 4 mẫu hình chủ chốt)
 > Ảnh trơn ở ngoài, dấu hiệu + chẩn đoán giấu trong thẻ bấm-mở. Mở trên Pages: tự đoán trước rồi bấm mở đáp án.
@@ -156,6 +157,7 @@ certainty: tong-hop-y-van
 </details>
 
 ## Bài liên quan chéo
+- [1750 – UTUC ở bệnh nhân thận ghép: khuyết lòng bể thận ghép, kẻ bắt chước "viêm thận–bể thận", BK virus, bảo tồn vs cắt thận ghép](../1750-utuc-than-ghep/lesson.md) *(mới — nối 1724/190/3011)*
 - [1733 – Nốt FNH-like sau hóa trị: **38 bệnh nhân/63 nốt**, xuất hiện **30,4 tháng** sau hóa trị (oxaliplatin **36,0** vs cyclophosphamide **12,9**), nhiều nốt **55,3%**, **11,5 mm**, ngấm động mạch **63/63** nhưng **washout 0/63**, HBP tăng tín hiệu **78,8%**/viền tăng **57,6%**, **42%** nốt to lên — "di căn giả" trên MRI gan mật](../1733-not-tai-tao-fnh-like-sau-hoa-tri/lesson.md) *(mới — nối 1648/1910/122)*
 - [118 – Kháng đông DOAC ở người ghép tạng dùng ức chế calcineurin: tương tác P-gp/CYP3A4, ngưỡng ngừng thuốc quanh sinh thiết & CTA 2 thì phát hiện chảy máu hoạt động](../118-doac-ghep-tang-uc-che-calcineurin/lesson.md) *(mới — nối 117/116/172)*
 - [1906 – Hẹp dòng ra tĩnh mạch gan sau ghép gan (HVOO): chênh áp **≥ 5 mmHg**, tỉ lệ vận tốc **> 4:1**, phổ một pha chỉ **66,2%**; nong bóng trẻ **12,0 ± 8,8 → 1,1 ± 1,5 mmHg** nhưng tái hẹp **33–47%**, stent 5 năm **72%/94%**](../1906-hep-dong-ra-tm-gan-sau-ghep-gan/lesson.md) *(mới — nối 1901/127/133)*

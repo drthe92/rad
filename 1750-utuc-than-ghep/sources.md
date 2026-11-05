@@ -1,0 +1,20 @@
+# Nguồn gốc — 1750 (UTUC ở bệnh nhân thận ghép)
+
+> Tổng hợp y văn mở (Europe PMC / PMC): 1 đoàn hệ quốc gia Hà Lan **30 ca/24.270 lần ghép**, 1 đoàn hệ 30 năm **97 ca UTUC sau ghép**, 1 đoàn hệ **24 ca có/không BK virus**, 1 tổng quan kể chuyện về UTUC sau ghép, 1 đoàn hệ 20 ca RCC/UTUC và 1 ca nguyên văn UTUC thận ghép có ảnh. Ngày quét: 2026-11-05.
+> Không có thử nghiệm lâm sàng; bằng chứng là hồi cứu, đoàn hệ và ca báo cáo.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Eur Urol Open Sci 2025 — PMC12206317 | Figaroa OJA et al. Uncovering the Risk: Incidence of Upper Tract Urothelial Carcinoma Following Renal Transplantation in the Netherlands (**30/24.270** ca ghép; tích lũy **124/100.000 (0,12%)**, **3,7/100.000 người–năm** vs dân số chung **3,3**; **67%** ở thận ghép; trung vị **91 tháng**; **87%** HG; **47%** pT3; **30%** BK viraemia; **86%** cắt thận–niệu quản) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12206317/ | CC BY-NC-ND 4.0 (không dùng ảnh) | không tải |
+| 2 | BMC Urol 2023 — PMC10148563 | Du C et al. Clinical characteristics and treatment outcomes of kidney transplant recipients with de novo urothelial carcinoma: thirty years of experience from a single center (**97 ca**: UTUC **52,6%**, bàng quang **17,5%**, cả hai **29,9%**; sống 5 năm UTUC ≤ T1 **88,2%** vs UTUC+BC ≤ T1 **57,7%**; rapamycin cải thiện PFS UTUC ≥ T2, p = 0,026) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10148563/ | CC BY 4.0 (không dùng ảnh) | không tải |
+| 3 | BJUI Compass 2026 — PMC13093527 | Beetge N et al. BK virus-associated urothelial carcinoma — a supra-regional cohort of kidney transplant recipients (**24 ca**, **11 BK+**: **90,9%** nguy cơ cao vs **30,8%** BK−, p = 0,005; SV40 LTag+ **33,3%**, đều G3; không khác biệt sống) | https://pmc.ncbi.nlm.nih.gov/articles/PMC13093527/ | CC BY 4.0 (không dùng ảnh) | không tải |
+| 4 | Front Immunol 2025 — PMC12740875 | Li L et al. Urothelial carcinoma following kidney transplantation: a narrative review of Chinese insights and challenges from pathogenesis to precision diagnosis and treatment (UTUC **129,5 lần** và bàng quang **25,5 lần**; **> 40%** ung thư sau ghép ở Trung Quốc; **60%** pT2+, **83%** HG; ứ nước thận nguyên bản **OR 35,32**; tái phát sau TURBT **77,7%** vs **38%**; AA, BKPyV/LTag p53–pRB; phác đồ và điều trị đích) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12740875/ | **CC BY 4.0** | `images/1750_utuc-than-ghep_diagram_PMC12740875-f2.jpg` (Fig. 2) |
+| 5 | Biomedicines 2025 — PMC12109492 | Moldoveanu O et al. Urothelial Carcinoma Arising on a Functional Kidney Graft (ca **67 tuổi**, ghép thận **2010**, UTUC bàng quang pTa LG **2020** + BCG; **2022** tổn thương thận ghép **29/26 mm** giả viêm; **24 tháng** sau TURBT **41/38 mm** + nốt phổi **20/19 mm**; cắt thận ghép + cuff, **pT4N0M1 HG**; ngừng ức chế miễn dịch, di căn phổi thoái triển sau **3 tháng**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12109492/ | **CC BY 4.0** | `images/1750_utuc-than-ghep_CT_PMC12109492-f2.jpg`, `-f3.jpg`, `-f6.jpg` |
+| 6 | J Med Life 2025 — PMC12094317 | Moldoveanu O et al. Renal cell carcinoma and upper tract urothelial carcinoma in kidney transplant recipients (**20 ca/2.283** người ghép: RCC **0,78%**, UTUC **0,087%**; UTUC thận ghép **pT4 HG**, UTUC thận nguyên bản **pT2**; 2 UTUC đều **HG, xâm lấn cơ**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12094317/ | CC BY 4.0 (không dùng ảnh) | không tải |
+
+## Ghi chú giấy phép
+
+- Ảnh tải về: **CC BY 4.0** (PMC12109492, PMC12740875) — dùng nguyên bản, ghi công đầy đủ; bài này **không tạo ảnh ghép**.
+- Không scrape Radiopaedia; chỉ dẫn link nếu cần.
+- Tên tác giả đối chiếu trực tiếp `authorString` Europe PMC theo PMCID: PMC12206317 → **Figaroa OJA**; PMC10148563 → **Du C**; PMC13093527 → **Beetge N**; PMC12740875 → **Li L**; PMC12109492 → **Moldoveanu O**; PMC12094317 → **Moldoveanu O**.
+- Con số **129,5 lần / 25,5 lần / > 40%** là số **dẫn qua tổng quan** (PMC12740875) từ các nghiên cứu châu Á gốc — không phải số đo trực tiếp của tổng quan; đã ghi rõ trong bài.
