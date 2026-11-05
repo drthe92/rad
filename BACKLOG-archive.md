@@ -1717,3 +1717,4 @@
 - 2026-11-05 — bài **1721** (nhiễm khuẩn stent niệu quản): biofilm 42% vs 3,2% nước tiểu, FUSAUTI 9,01%, PCN ≈ stent, rút ≤ 3 tuần ở thận ghép (OR 0,53), cấy theo cấy không hơn kinh nghiệm; 4 ảnh (3 CC BY + 1 CC BY-NC-ND) + 1 composite; sửa 1 tên tác giả sai ở 3057 (Herrmann → bỏ tên) để cổng authors PASS.
 - 2026-11-05: 1723 giả phình ĐM tử cung (144 BN; nút 90–99%; yin–yang/to-and-fro; túi 24,5 mm chảy máu > 32,3 mm) — 5 ảnh + composite CC BY 4.0.
 - 2026-11-05: 1452 phacolytic (279 mắt; IOP 40,05 ± 12,0; 0,64% ca mổ; 7 năm sau phaco vẫn có thể) — 3 ảnh + composite CC BY.
+- 2026-11-05 · worker: viết **1724** (UTUC goblet/stipple, 4 ảnh CC BY) + **1727** (thai sẹo bóc u xơ, 3 ảnh CC BY-NC); verify PASS 5/5 · 943 bài. Flip #1154/#1155; append #1861 (1750) + #1862 (1759) đã check_duplicates.

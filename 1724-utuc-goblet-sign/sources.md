@@ -1,0 +1,21 @@
+# Nguồn gốc — 1724 (UTUC: dấu goblet & stipple)
+
+> Tổng hợp y văn mở (Europe PMC / PMC): 2 tổng quan, 1 nghiên cứu độ chính xác sinh thiết, 1 đoàn hệ 244 ca cắt thận–niệu quản, 2 loạt ca có ảnh và 2 bài ca. Ngày quét: 2026-11-05.
+> Chủ đề **không có thử nghiệm lâm sàng** về dấu hiệu hình ảnh; bằng chứng chủ yếu là tổng quan, đoàn hệ hồi cứu và ca báo cáo.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Cancers (Basel) 2023 — PMC10605044 | Tsikitas LA et al. Imaging in Upper Tract Urothelial Carcinoma: A Review (UTUC **5–7%** ung thư niệu mạc; **1–2/100.000**; niệu quản xa/giữa/gần **73/24/3%**; **11–13%** UTUC thứ phát; **~40%** u bàng quang; CTU gộp **Se 92%/Sp 95%** — 13 nghiên cứu/1.233 ca; MRU **Se 75%**; thì vỏ–tủy **25–30 giây**, bài tiết **4–8 phút**; T1/T2 còn lớp mỡ–cản quang, T3 mất, T4 xâm lấn nhu mô; theo dõi CTU **3–6 tháng rồi hằng năm**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10605044/ | CC BY 4.0 | `images/1724_utuc_CT_PMC10605044-f1.jpg`, `images/1724_utuc_MRI_PMC10605044-f2.jpg` |
+| 2 | Cancers (Basel) 2025 — PMC12346452 | Escobar D et al. Diagnosis and Management of Upper Tract Urothelial Carcinoma: A Review (UTUC **5–10%**; AUA 2023: CT cản quang + soi bàng quang + nội soi niệu quản + sinh thiết + tế bào học; bảng nguy cơ thấp/cao; EM **sống 5 năm 8% · CSS 82% · RFS 2 năm 55% · PFS 75%**; > 21.000 ca bảo tồn thận **không khác 5 năm**; POUT **DFS 5 năm 66% vs 57%**, **OS 5 năm 66% vs 57%**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12346452/ | CC BY 4.0 (không dùng ảnh) | không tải (chỉ trích số) |
+| 3 | Bladder (San Franc) 2025 — PMC12417869 | Huynh TNA et al. Accuracy and limitations of ureteroscopic biopsy in the staging and grading of UTUC (86 ca; đúng giai đoạn **54,69%**, κ 0,311; đúng độ **70,93%**, κ 0,447; **nâng giai đoạn 39,06%**, **nâng độ 25,58%**; mẫu không chẩn đoán **5,81%**; CTU phát hiện xâm lấn **14,29%**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12417869/ | CC BY (không dùng ảnh) | không tải |
+| 4 | JSLS 2014 — PMC4232409 | Hong S et al. Incidence of benign results after laparoscopic radical nephroureterectomy (244 ca; **7 ca (2,9%) lành tính**; CTU: **5–10 mm Se 96%/Sp 99%**, **< 5 mm Se 89%**, **< 3 mm Se 40%**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC4232409/ | CC BY-NC-ND (không dùng ảnh) | không tải |
+| 5 | J Endourol Case Rep 2018 — PMC6033302 | Dropkin BM et al. Fibromyxoid Nephrogenic Adenoma in the Ureter (nam 79 tuổi, ứ nước–niệu quản phải; **retrograde pyelography: goblet sign**; mô bệnh **u tuyến thận sinh lành tính**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC6033302/ | CC BY 4.0 | `images/1724_utuc_RGP_PMC6033302-f2.jpg` |
+| 6 | Front Oncol 2023 — PMC10800997 | Guo L et al. Atypical presentations of UTUC: a case report of three patients (**3 ca không đái máu**, sốt nhẹ, bạch cầu tăng; CTU chỉ ứ nước + thâm nhiễm; chẩn đoán sau cắt thận; nêu **stipple sign, phantom calyx**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10800997/ | CC BY 4.0 | `images/1724_utuc_CT_PMC10800997-f1.jpg` |
+| 7 | Iran J Radiol 2013 — PMC3857980 | Yang J et al. Urography and CT Features of Primary Small Cell Carcinoma of the Ureter (mô tả **goblet sign do u phát triển chậm làm nở lòng niệu quản**; khuyết lòng ± giãn trên) | https://pmc.ncbi.nlm.nih.gov/articles/PMC3857980/ | CC BY (không dùng ảnh) | không tải |
+| 8 | Indian J Urol 2021 — PMC8173948 | Jena R et al. Upper tract transitional cell carcinoma clinically mimicking inflammatory renal pathology (3 ca UTUC giả viêm thận–bể thận; nêu các dấu hiệu kinh điển **stipple sign, phantom calyx** có thể vắng) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8173948/ | CC BY-NC-SA (không dùng ảnh) | không tải |
+
+## Ghi chú giấy phép
+
+- Ảnh tải về: **CC BY 4.0** (PMC10605044, PMC6033302, PMC10800997) — dùng nguyên bản, ghi công; không tạo ảnh ghép trong bài này.
+- Không scrape Radiopaedia; chỉ dẫn link nếu cần.
+- Tên tác giả đối chiếu trực tiếp Europe PMC (`authorString`) theo PMCID: PMC10605044 → **Tsikitas LA**; PMC12346452 → **Escobar D**; PMC12417869 → **Huynh TNA**; PMC4232409 → **Hong S**; PMC6033302 → **Dropkin BM**; PMC10800997 → **Guo L**; PMC3857980 → **Yang J**; PMC8173948 → **Jena R**.

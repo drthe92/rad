@@ -98,6 +98,8 @@ certainty: tong-hop-y-van
 | **Huyết khối tĩnh mạch cửa/chậu nhiễm khuẩn lan tới phổi** | Tĩnh mạch cửa – mạc treo – tĩnh mạch buồng trứng/tĩnh mạch chậu → phổi | Pylephlebitis · septic pelvic thrombophlebitis · nhiễm catheter/mảnh ghép · Lemierre · viêm nội tâm mạc tim phải | **CT bụng có huyết khối + nốt/hang ngoại vi phổi = SPE**; **cấy máu tối đa ~60%**; **kháng sinh 4–6 tuần, kháng đông cá thể hóa** | `1904`, `163`, `1623` |
 | **Dày thành đại tràng TỪNG ĐOẠN ở người > 60 tuổi, đau bụng trái + đi máu** | Đại tràng – vùng bản lề (góc lách, xích ma) | Viêm đại tràng thiếu máu (IC) · thiếu máu mạc treo cấp (SMA) · viêm đại tràng nhiễm/C. difficile · IBD · viêm túi thừa · viêm đại tràng do tắc nghẽn (ung thư) · stercoral colitis | **Từng đoạn + chừa trực tràng + mạch thông = IC**; **thành MỎNG (71,9%) = chưa tái tưới máu, nặng hơn thành dày (86,4% ở bán cấp)**; **mất ngấm thuốc = hoại tử (OR 10,7)**; **dịch quanh đại tràng 100% ở cấp**; **luôn tìm chỗ hẹp phía trên** | `1911`, `1908`, `162` |
 
+| **Khuyết lòng niệu quản/bể thận + ứ nước phía trên** | Niệu quản – bể thận (ureter – renal pelvis) | UTUC nhú/thâm nhiễm · sỏi · máu cục · nhú thận bong · u lành (nephrogenic adenoma) · lạc nội mạc · RCC xâm lấn | **Goblet/stipple sign + ngấm thuốc thì vỏ–tủy (30 → 75 HU) = u trong lòng**; **không ngấm, đổi hình giữa các thì = máu cục/sỏi**; **CTU Se 92%/Sp 95% nhưng u < 3 mm chỉ Se 40%**; **2,9% cắt thận–niệu quản vì tổn thương lành**; goblet cũng gặp ở u lành → phải sinh thiết | `1724`, `159`, `151` |
+
 ## Ảnh minh họa & Blind Quiz (đọc nhanh 4 mẫu hình chủ chốt)
 > Ảnh trơn ở ngoài, dấu hiệu + chẩn đoán giấu trong thẻ bấm-mở. Mở trên Pages: tự đoán trước rồi bấm mở đáp án.
 
@@ -234,6 +236,7 @@ certainty: tong-hop-y-van
 - 157 – Bệnh thận đa nang ADPKD/ARPKD & gan đa nang *(đã có — [bài học](../157-benh-than-da-nang-adpkd-arpkd/lesson.md))*
 - 158 – Tiền liệt tuyến & PI-RADS v2.1 *(đã có — [bài học](../158-tien-liet-tuyen-PIRADS/lesson.md))*
 - 159 – Bàng quang & đường niệu trên: VI-RADS, xâm lấn cơ & UTUC *(đã có — [bài học](../159-bang-quang-virads-u-duong-nieu-tren/lesson.md))*
+- 1724 – UTUC: dấu **goblet** & **stipple**, đài ma; CTU **Se 92%/Sp 95%** nhưng **< 3 mm chỉ 40%**; **2,9%** cắt thận–niệu quản vì tổn thương lành; sinh thiết niệu quản đúng giai đoạn chỉ **54,69%**, nâng giai đoạn **39,06%** *(đã có — [bài học](../1724-utuc-goblet-sign/lesson.md))*
 - 1608 – Ung thư niệu mạc thứ phát sau xạ trị tiểu khung: đái máu muộn, ngưỡng soi & phân biệt viêm bàng quang xạ *(đã có — [bài học](../1608-ung-thu-nieu-mac-thu-phat-sau-xa-tri-tieu-khung/lesson.md))*
 - 1633 – Viêm bàng quang xạ chảy máu nặng: bậc thang cầm máu, nút mạch động mạch bàng quang & khi nào cắt bàng quang *(mới — [bài học](../1633-viem-bang-quang-xa-chay-mau-nang/lesson.md))*
 - 168 – U tủy thượng thận & u cận hạch (pheochromocytoma/paraganglioma) *(đã có — [bài học](../168-pheo-paraganglioma/lesson.md))*
