@@ -1726,3 +1726,6 @@
 - 2026-11-05: append #1208 (3087 hẹp ĐM thận ghép) + #1209 (3088 lymphocele quanh thận ghép), đã check_duplicates; verify PASS 6/6, 945 bài/945 card.
 - 2026-11-05: xong **1728** chảy máu sau vỡ tử cung (74/115.121 = 0,06%; cắt tử cung 23%, 50% nếu bỏ sót không sẹo; EV ≥ 100 HU aOR 7,44; bóng chèn 66,7–80% sau khâu kín; UAE 72–88% nhưng tissue 16,7–75%) — 4 ảnh + 1 composite, CC BY/BY-NC.
 - 2026-11-05: append #1210 (1927 thắt ĐM tử cung/IIAL) + #1211 (1932 truyền máu khối lượng lớn trong PPH), đã check_duplicates; verify PASS 6/6, 946 bài/946 card.
+## 2026-11-05 — worker rad-backlog
+- Viết **1698** (SES sau tiêm silicone mông; 4 ảnh CC BY 4.0; 4/29 ca tử vong) và **747** (chấn thương răng ở trẻ; đổi ID từ 1709 vì đã dùng; 5 ảnh CC BY 4.0).
+- Flip #1157/#1160 → xong; append #1879 (1799 FES) + #1880 (748 răng sữa) sau check_duplicates.

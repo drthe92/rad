@@ -1,0 +1,26 @@
+# Nguồn gốc — 747 Chấn thương răng và ổ răng ở trẻ
+
+> Quét ngày 2026-11-05 trên Europe PMC (`OPEN_ACCESS:Y`; cú pháp `"dental trauma" AND (avulsion OR intrusion)`, `"tooth avulsion" AND (replantation OR splinting)`). Đọc toàn văn phần ca bệnh, bảng ngưỡng và bàn luận. Kiểm tra giấy phép **từng bài, từng hình** trước khi tải. **Tên tác giả không ghi** — attribution dùng **tạp chí + năm + PMCID** (đã đối chiếu danh sách tác giả trên Europe PMC nhưng không đưa tên vào bài).
+
+| # | Nguồn | Nội dung dùng trong bài | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | J Clin Med 2026 — sổ đăng ký chấn thương răng Regensburg, **1.000 ca** | **61,6% nam**, tuổi trung vị **13** (IQR 7–26); **1.904 răng vĩnh viễn + 528 răng sữa**; **84,1% đến trong 24 giờ**; **ngã 67,8%**, đạp xe **18,6%**; **răng cửa giữa hàm trên 54,9%** (vĩnh viễn) / **58,7%** (sữa); **luxation 69,8%** (vĩnh viễn) vs **92,8%** (sữa); **gãy răng 57%** (vĩnh viễn) vs **14,2%** (sữa); **avulsion 202 răng** (139 vĩnh viễn, 63 sữa); **bảo quản khô 40,9%**; điều trị ban đầu **nẹp 36,5%**, **trám 27,0%**, **nắn 11,3%** | https://europepmc.org/article/PMC/PMC13706110 | CC BY 4.0 (không dùng ảnh) | dẫn link |
+| 2 | Int J Oral Sci 2024;16:57 — **đồng thuận chuyên gia** về luxation – avulsion (IADT) | Phân loại 5 kiểu luxation + avulsion; **khô < 60 phút** = PDL trung bình, **> 60 phút** = PDL kém; **HBSS/sữa/nước muối** để bảo quản; **nẹp mềm 2 tuần** (subluxation, extrusive, avulsion), **4 tuần** (lateral); **intrusion**: răng non chờ **4 tuần**, răng trưởng thành **≤ 3 mm** chờ **8 tuần**, **3–7 mm** chỉnh nha/phẫu thuật, **> 7 mm** phẫu thuật; **kháng sinh** cho avulsion (amoxicillin/penicillin), **bạc cầu**; thử tủy **âm tính giả** | https://europepmc.org/article/PMC/PMC11427573 | **CC BY 4.0** | **2 ảnh** (Fig. 2, 3) |
+| 3 | Front Oral Health 2026 — thuật toán gãy hàm + chấn thương răng | **43,5%** ca gãy hàm dưới đơn thuần có chấn thương răng (~**4 răng**/người); trẻ: **34,7%**, mất ≥ 1 răng **~10%**; mốc theo dõi **2 tuần – 4 tuần – 6–8 tuần – 3 tháng – 6 tháng – 12 tháng**; **CBCT** tốt hơn OPG cho di lệch/gãy kèm; **MRI** chỉ khi triệu chứng TMJ dai dẳng | https://europepmc.org/article/PMC/PMC13478809 | CC BY 4.0 (không dùng ảnh) | dẫn link |
+| 4 | Acta Odontol Scand 2026;85:46816 — **120 răng replant muộn > 60 phút** | Tuổi trung bình **14 ± 5**; **tiêu chân răng 60,0%** (viêm **41,7%**, thay thế **58,3%**); **sống sót 24 tháng 78,3%**, **giữ chức năng 68,3%**; nguy cơ độc lập: **ngoài ổ > 2 giờ**, **bảo quản khô**, **không điều trị tủy**, **tủy muộn > 14 ngày**; **nẹp cứng** p = 0,110 (không đạt ý nghĩa) | https://europepmc.org/article/PMC/PMC13615479 | **CC BY 4.0** | **1 ảnh** (Figure 4) |
+| 5 | Case Rep Pediatr 2026;2026:2564793 — ca **intrusion nặng** răng cửa giữa hàm trên | **Răng ngắn, men dưới mức răng bên**, chóp **mở 2,08 mm**, phẫu thuật nắn một phần + nẹp, sau đó **tự mọc lại** sau khi nong hàm; phim **9 tháng** có **quầng sáng quanh chóp** (tiêu viêm) | https://europepmc.org/article/PMC/PMC13329111 | **CC BY 4.0** | **2 ảnh** (Figure 1, 6) |
+| 6 | Int J Clin Pediatr Dent 2026;19(7):839 — so sánh kết quả replant theo **thời gian ngoài ổ và môi trường bảo quản**, dựa trên CBCT | Thiết kế 4 phác đồ (khô/sữa/HBSS), đánh giá độ sâu túi, VAS, mô xương trên CBCT; dùng để **nhấn mạnh vai trò môi trường bảo quản** và **giới hạn của phim 2D** | https://europepmc.org/article/PMC/PMC13458372 | CC BY-NC (không dùng ảnh) | dẫn link |
+| 7 | Int J Oral Sci 2024 — tỷ lệ mắc chấn thương răng (phần mở đầu) | **25%** trẻ trong độ tuổi đi học từng bị chấn thương răng; **33%** người lớn từng chấn thương răng vĩnh viễn; **~1 tỷ người** trên thế giới đã từng bị | https://europepmc.org/article/PMC/PMC11427573 | CC BY 4.0 (không dùng ảnh) | dẫn link |
+
+## Ghi chú giấy phép
+- **5 ảnh đã dùng** (PMC11427573 ×2, PMC13329111 ×2, PMC13615479) — tất cả **CC BY 4.0**, **nguyên bản**, giữ nguyên panel/nhãn của tác giả; ảnh WebP của PMC13615479 chuyển sang JPEG, **không crop**.
+- **PMC13458372 là CC BY-NC** → chỉ dẫn link, không tải ảnh.
+- Ảnh tải từ gói full-text của Europe PMC, đúng file figure trong bài gốc.
+
+## Điểm cần phản biện (fidelity + critique)
+1. **Sổ đăng ký 1.000 ca (#1)** là **một trung tâm chuyên khoa** ở Đức — tỷ lệ **luxation 69,8%** phản ánh **cách phân loại và dân số đến khám**, không đại diện toàn cầu; không dùng để suy ra tỷ lệ cộng đồng.
+2. **Ngưỡng intrusion (#2)** là **khuyến cáo đồng thuận**, không phải kết quả thử nghiệm; bảng gốc ghi rõ răng non được xem là **"lý tưởng"** (hướng tụt đúng trục, không lệch bên) — thực tế phải **cá thể hóa**.
+3. **120 răng replant (#4)** là **hồi cứu, một trung tâm**; "nẹp cứng không đạt ý nghĩa" **không** chứng minh nẹp cứng an toàn — cỡ mẫu nhỏ, khoảng tin cậy rộng.
+4. **Tỉ lệ 43,5% (#3)** lấy từ **một nghiên cứu trích dẫn trong tổng quan**, không phải phân tích gộp → dùng để **nhắc tầm soát**, không dùng làm ước lượng chính xác.
+5. **Ca intrusion (#5)** là **ca đơn lẻ, có can thiệp nong hàm** — kết cục "tự mọc lại" **không** đại diện cho mọi intrusion > 7 mm; bài không dùng ca này để khuyến cáo điều trị.
+6. **Số "25% trẻ / 33% người lớn" (#7)** là **trích dẫn thứ cấp** trong bài đồng thuận; bài giữ nguyên như **bối cảnh dịch tễ**, không dùng cho tính toán.

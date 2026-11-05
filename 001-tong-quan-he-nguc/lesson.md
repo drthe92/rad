@@ -40,6 +40,7 @@ certainty: tong-hop-y-van
 | Viêm thùy (lobar pneumonia) | Phổi | Phế cầu (pneumococcus), nhồi máu (infarction), xuất huyết | Phế quản hơi + giới hạn rãnh, không mất thể tích | [031](../031-viem-phoi-mau-hinh/lesson.md) |
 | Viêm đa ổ (multifocal) | Phổi | Tụ cầu (staph), gram âm, hít (aspiration), lao | Nốt/đám 2 bên + hang + tree-in-bud | [031](../031-viem-phoi-mau-hinh/lesson.md) |
 | Phù lan tỏa (edema/ARDS) | Phổi | Tim (cardiogenic), ARDS, xuất huyết (DAH), virus | Kerley B + tim to + tan nhanh = phù tim; ngoại vi + tim thường = ARDS | [033](../033-phu-phoi-ards/lesson.md) |
+| **Mờ kính lan tỏa + đông đặc phụ thuộc sau thủ thuật thẩm mỹ** | Phổi + mô dưới da vùng tiêm | **Tắc mạch silicone (SES)** · tắc mạch mỡ · ARDS nhiễm trùng · phù tim · DAH · PE | **Tiêm silicone lỏng 0–72 giờ + GGO đối xứng + CT vùng tiêm có dày mỡ/khí dưới da = SES**; CTPA âm tính **không** loại trừ (bệnh vi mạch); **CT sớm có thể bình thường** | [1698](../1698-hoi-chung-tac-mach-silicone/lesson.md) |
 | Hang (cavity) | Phổi | Lao (TB), K hoại tử (SCC), áp-xe (abscess), nấm (aspergilloma) | Thành ≤ 4 mm lành / > 15 mm ác; liềm khí + di động = nấm | [025](../025-ton-thuong-phoi-tao-hang/lesson.md) |
 | Xơ mô kẽ (fibrosis) | Phổi | UIP/IPF, NSIP, HP mạn | Tổ ong đáy-dưới màng phổi = UIP; chừa màng phổi 1–2 mm = NSIP | [035](../035-xo-mo-ke-UIP-NSIP/lesson.md) |
 | Giãn PQ/kén khí | Đường thở | Giãn PQ, LCH, LAM, khí phế thũng | Nhẫn ngọc > 1,0; kén ≤ 2 mm; central dot = khí phế thũng | [050](../050-gian-phe-quan-ken-khi/lesson.md) |
