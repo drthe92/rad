@@ -1,0 +1,15 @@
+# CREDITS — ảnh bài 1919 (Phình động mạch chủ bụng nhiễm khuẩn)
+
+Mỗi ảnh ghi rõ: file trong repo, hình gốc, bài gốc (PMCID), giấy phép, thay đổi phái sinh (nếu có).
+
+| File | Hình gốc | Bài gốc | Giấy phép | Phái sinh |
+|---|---|---|---|---|
+| `1919_phinh-nhiem-khuan_CTA_CCR3-2026-F1.jpg` | Figure 1 — "Serial contrast-enhanced computed tomography angiography (CTA) of the abdomen. (A) Preoperative coronal CTA demonstrates an infrarenal abdominal aortic aneurysm (AAA) with an irregular aneurysmal contour (yellow arrow). Adjacent para-aortic inflammatory changes with gas-containing collections are noted (yellow arrowhead), consistent with infectious aortitis, likely originating from contiguous sigmoid diverticulitis. (B) Post-percutaneous endovascular aneurysm repair (PEVAR) coronal CTA shows successful exclusion of the aneurysmal sac with transformation of the AAA into a thrombosed pseudo-lumen (yellow arrow). Marked interval reduction of the adjacent diverticulitis-associated gas cavity and para-aortic inflammatory changes is observed (yellow arrowhead). (C) Follow-up coronal CTA demonstrates favorable recovery, with stable stent graft position, no evidence of endoleak, and near-complete resolution of periaortic inflammation and gas collections, indicating good post-treatment response." | Clin Case Rep 2026, PMCID **PMC13093503** — https://europepmc.org/article/PMC/PMC13093503 | **CC BY 4.0** | Nguyên bản (không crop, không ghép, không thêm chữ) |
+| `1919_phinh-nhiem-khuan_CT_CCR-2025-F1.jpg` | Fig 1 — "(A) Computed tomography scan of the abdomen/pelvis (CT A/P) obtained in the emergency department was significant for findings of a pathological process in the retroperitoneum. There was periaortic soft tissue as well as pathological-appearing lymphadenopathy in the periaortic station from the lower chest through the retroperitoneum and into the pelvis. There was also pathological external iliac lymphadenopathy. (B) Repeat CT A/P obtained 3 days into hospitalization demonstrating rupture of the aortic aneurysm just proximal to the bifurcation of the abdominal aorta. (C) Repeat CT A/P obtained 1 month later demonstrating decreasing size of periaortic and left retroperitoneal hemorrhage, with decreased density suggestive of evolution of blood products." | J Vasc Surg Cases Innov Tech 2025, PMCID **PMC12148370** — https://europepmc.org/article/PMC/PMC12148370 | **CC BY-NC-ND 4.0** | Nguyên bản (không crop, không ghép, không thêm chữ) |
+
+## Ghi chú
+- **Ảnh giữ nguyên** — nhãn A/B/C, mũi tên vàng và đầu mũi tên là của tác giả gốc; cắt khung sẽ làm mất ngữ cảnh.
+- **Không tạo composite**: hai ảnh thuộc hai bài khác nhau, khác bệnh nhân và khác chuỗi chụp; đặt riêng để giữ chú thích gốc.
+- **Tên tác giả KHÔNG ghi**: attribution dùng **tạp chí + năm + PMCID** (đối chiếu PMC ngày 2026-11-05).
+- Ảnh tải từ bản công khai của PMC (`cdn.ncbi.nlm.nih.gov/pmc/blobs/...`), đúng file figure trong bài gốc.
+- **Không dùng ảnh từ PMC11302981 / PMC12986184 / PMC6903872 / PMC12182782** — chỉ dẫn số liệu.
