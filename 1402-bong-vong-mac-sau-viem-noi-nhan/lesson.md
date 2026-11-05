@@ -55,6 +55,9 @@ certainty: tong-hop-y-van
 | **Bong hắc mạc (giả RD)** | **Hình vòm dày**, hồi âm trong **cao/không đều**, **chừa cực sau**, nhãn áp thấp | **Không dính đĩa thị** + vòm dày + nhãn áp ≤ 5 mmHg | Dính đĩa + mảnh + di động → RD | B-scan 2 bề mặt; đo nhãn áp |
 | **Viêm dịch kính đơn thuần** | **Màng/mảng lơ lửng trong dịch kính**, **hồi âm thấp**, **không dính đĩa**; hắc mạc dày, dịch dưới bao Tenon (Fig. 12 PMC13672910) | **Màng trong dịch kính, võng mạc còn áp** phía sau | Màng **dính đĩa + aftermovement** → RD | Theo dõi 24–48 giờ, lặp B-scan; không mổ vì "màng" |
 
+![Đối chiếu B-scan: viêm dịch kính chưa bong (trái) vs bong rách lồi gấp nếp (A) và bong co kéo "mặt bàn" (B) (phải)](images/composite_1402_viem-vs-bong.jpg)
+*Trái: viêm nội nhãn với màng dịch kính khu trú, hắc mạc dày, dịch dưới bao Tenon — **võng mạc còn áp**, chưa có bong (PMC13672910 Fig. 12). Phải: (A) bong rách **lồi, gấp nếp** với lỗ nguyên phát (mũi tên); (B) bong co kéo **"table-top"** ở đái tháo đường, bong nông (PMC13672910 Fig. 6). **Vì sao dễ nhầm và cách chốt:** trong mắt viêm/đục, cả màng dịch kính và võng mạc bong đều hiện là dải hồi âm — phân biệt bằng 3 câu hỏi mục 2: **(1) dải có dính đĩa thị không** (bong thật thường có; màng viêm không), **(2) có aftermovement không** (bong rách di động rõ; màng viêm hồi âm thấp, kém/ít di động), **(3) có lỗ và bong hoàng điểm không**. Màng viêm **hồi âm thấp, không dính đĩa, không aftermovement** → chưa bong, không mổ vì "màng"; đường bong **mảnh, hồi âm cao, lồi gấp nếp, dính đĩa, di động** → RRD. Nguồn: Raharja A et al., *Eur J Ophthalmol* 2026 (PMC13672910) Fig. 6/12, CC BY 4.0.*
+
 ![B-scan mắt viêm nội nhãn: màng dịch kính khu trú, hắc mạc dày, dịch dưới bao Tenon — chưa có bong võng mạc](images/1402_viem-noi-nhan_Bscan_PMC13672910-Fig12-CCBY.jpg)
 *Ba mặt cắt B-scan 10 MHz ở bệnh nhân viêm nội nhãn (A, B) và giả màng do tinh thể (C). Nguồn: Raharja A et al., Eur J Ophthalmol 2026 (PMC13672910) Fig. 12, CC BY 4.0.*
 
@@ -158,5 +161,12 @@ flowchart TD
 - [463 – Viêm nội nhãn nội sinh do nấm](../463-viem-noi-nhan-noi-sinh-nam/lesson.md)
 - [474 – Kháng nấm nội nhãn: chọn thuốc theo loài](../474-khang-nam-noi-nhan-chon-thuoc-theo-loai/lesson.md)
 - [475 – Viêm nội nhãn nội sinh do vi khuẩn](../475-viem-noi-nhan-noi-sinh-vi-khuan/lesson.md)
+
+## Ảnh
+- `composite_1402_viem-vs-bong.jpg` — ghép đối chiếu Fig. 12 + Fig. 6, Raharja A et al., *Eur J Ophthalmol* 2026 (PMC13672910), **CC BY 4.0**.
+- `1402_viem-noi-nhan_Bscan_PMC13672910-Fig12-CCBY.jpg` — Raharja A et al., Fig. 12, **CC BY 4.0**, nguyên bản.
+- `1402_bong-vong-mac-rach-vs-co-keo_Bscan_PMC13672910-Fig6-CCBY.jpg` — Raharja A et al., Fig. 6, **CC BY 4.0**, nguyên bản.
+- `1402_bong-vong-mac-sau-viem-noi-nhan_Fundus-OCT_PMC13043155-Fig1-CCBYNCSA.jpg` — Temkar S et al., *Oman J Ophthalmol* 2026 (PMC13043155) Fig. 1, **CC BY-NC-SA 4.0**, nguyên bản (không ghép).
+- Nguồn + giấy phép từng ảnh: `images/CREDITS.md`.
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
