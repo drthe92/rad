@@ -181,6 +181,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 
 | 1643 | [Glaucoma sau mổ đục thể thủy tinh bẩm sinh: 3,3–25,5% (IATS 22% ở 10 năm, 41% nghi), mổ < 9 tháng nguy cơ 7,2 lần, ACD 2,76 vs 3,08 mm (OR 5,8), UBM iris cắm cao OR 3,40](1643-glaucoma-sau-mo-duc-thuy-tinh-the-bam-sinh/lesson.md) | `pattern:tang-nhan-ap` `pattern:goc-mo` `pattern:goc-dong` `pattern:di-lenh-IOL` `pattern:loi-dia-thi` `vung:mat` `vung:tien-phong` `score:CRN` `score:IATS-risk` `protocol:do-nhan-ap` `protocol:UBM` `protocol:AS-OCT` `protocol:OCT-ONH` `protocol:sieu-am-B` |
 
+| 1452 | [Glôcôm do thể thủy tinh chưa mổ: dịch tiền phòng như sữa + góc MỞ + thể thủy tinh chín = phacolytic; IOP 40,05 ± 12,0 mmHg (279 mắt), 0,64% ca mổ đục thể thủy tinh; 7 năm sau phaco vẫn có thể phacolytic (IOP 60); giả áp-xe giác mạc](1452-glaucom-do-the-thuy-tinh-chua-mo/lesson.md) | `pattern:glaucoma` `pattern:phacolytic` `pattern:phu-giac-mac` `pattern:viem-tien-phong` `vung:mat` `vung:tien-phong` `vung:the-thuy-tinh` `protocol:slit-lamp` `protocol:UBM` `protocol:do-nhan-ap` `protocol:phaco` |
+
 ## Hệ Bụng (dải 100, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |
 |---|---|---|
@@ -613,6 +615,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 1670 | [Rò động mạch chậu – niệu quản: tử vong 7–23%, CT chỉ nhạy 27–55%, chụp mạch 45–72%, trung bình 2,4 lần chụp, stent-graft ± nút mạch & rút stent niệu quản](1670-ro-dong-mach-chau-nieu-quan-sau-xa/lesson.md) | `pattern:ro-dong-mach-nieu-quan` `pattern:chay-mau` `pattern:khuyet-thuoc-long-mach` `vung:nieu-quan` `vung:chau` `vung:dong-mach-chau` `protocol:CTA` `protocol:DSA` `protocol:chup-nguoc-dong` |
 | 1672 | [U máu bánh nhau lớn: ngưỡng 4,7 cm, shunt mạch → đa ối/phù thai, MCA-PSV > 1,5 MoM & khi nào đốt mạch nuôi](1672-u-mau-banh-nhau/lesson.md) | `pattern:u-mach-banh-nhau` `pattern:da-oi` `pattern:thai-phu` `pattern:thieu-mau-thai` `vung:banh-nhau` `vung:thai-nhi` `score:MCA-PSV` `protocol:SA-Doppler-mau` `protocol:MRI-thai` `protocol:laser-fetoscopic` |
 | 1673 | [Truyền máu trong tử cung qua tĩnh mạch rốn: Hct < 30%, đích Hb 14–16 g/dL, giảm 1,6 g/dL/tuần, biến chứng 2,1%/lần & đường vào IHUV](1673-truyen-mau-trong-tu-cung/lesson.md) | `pattern:thieu-mau-thai` `pattern:thai-phu` `pattern:tan-huyet-mien-dich` `pattern:thai-da-hong-cau` `vung:thai-nhi` `vung:tinh-mach-ron` `score:MCA-PSV` `protocol:truyen-mau-trong-tu-cung` `protocol:choc-day-ron` `protocol:IHUV` |
+
+| 1723 | [Giả phình động mạch tử cung sau mổ lấy thai/nạo: yin–yang + to-and-fro, 3–6/1.000 ca sinh, 0,3–1% PPH; túi 24,5 mm chảy máu nhiều hơn 32,3 mm (p = 0,017); nút mạch được dùng 90–99%; vỡ ngoài phúc mạc không máu âm đạo](1723-gia-phinh-dong-mach-tu-cung/lesson.md) | `pattern:gia-phinh` `pattern:yin-yang` `pattern:to-and-fro` `pattern:chay-mau-am-dao` `vung:tu-cung` `vung:tieu-khung` `protocol:SA-Doppler` `protocol:CTA` `protocol:DSA` `protocol:UAE` |
 
 ## Hệ Nhi khoa (dải 600, đang khởi tạo)
 | ID | Bài | Tags 4 chiều |

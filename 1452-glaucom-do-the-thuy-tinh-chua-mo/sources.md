@@ -1,0 +1,16 @@
+# Nguồn gốc — 1452 (Glôcôm do thể thủy tinh chưa mổ: phacolytic & viêm do protein thể thủy tinh)
+
+> Tổng hợp y văn mở (Europe PMC / PMC): 1 đoàn hệ hồi cứu **488 mắt** (279 phacolytic), 1 ca **phacolytic sau phaco 7 năm**, 1 ca **tiền phòng đục như sữa** và 1 ca **giả áp-xe giác mạc**. Ngày quét: 2026-11-05.
+> Chủ đề **không có thử nghiệm lâm sàng**; bằng chứng là đoàn hệ hồi cứu và ca báo cáo.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Indian J Ophthalmol 2022 — PMC9240532 | Chandrashekharan S et al. Outcomes and favourable prognostic factors in patients of phacomorphic and phacolytic glaucoma managed by manual small-incision cataract surgery (**488 mắt**: 209 phacomorphic, 279 phacolytic; LIG **0,64%** trong **82.205** ca mổ; IOP trước mổ **40,05 ± 12,0** vs **43,15 ± 12,9**; **tuổi < 60** giảm viêm nặng **OR 0,44**; **triệu chứng < 1 tuần** → BCVA ≥ 6/18 **OR 1,58**; **không tổn thương dịch kính** **OR 23,53**; biến chứng trong mổ **15,4%**, phức hợp bao–dây chằng **10,9%**; **5,1%** không đặt IOL) | https://pmc.ncbi.nlm.nih.gov/articles/PMC9240532/ | CC BY-NC-SA 4.0 (không dùng ảnh) | không tải |
+| 2 | Rom J Ophthalmol 2021 — PMC8207859 | Macovei ML et al. Phacolytic glaucoma – case report (nam **76 tuổi**, đau 1 ngày, **IOP 48 mmHg**, thị lực **sáng tối**, tiền phòng **sâu**, **dịch như sữa**, **tinh thể trắng trên nội mô**; bài bàn về nghiên cứu kính hiển vi điện tử trên bao "trông nguyên" thấy **lỗ khuyết toàn thành**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8207859/ | CC BY 2.0 | `images/1452_phacolytic_SL-milky-AC_PMC8207859-F2.jpg` |
+| 3 | Medicine (Baltimore) 2023 — PMC10627700 | Han RJ et al. A case report of phacolytic glaucoma in lens cortex behind posterior capsule (nam **79 tuổi**, **7 năm sau phaco**, **IOP 60 mmHg**, thị lực **sáng tối**, tiền phòng **3,33 mm** so với **4,02 mm**, **vỏ canxi hóa**, **nhân nâu lặn**, **cortex sau bao sau**; **ECCE + trabeculectomy**, ngày 1 **IOP 11 mmHg**, **FC 20 cm**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC10627700/ | CC BY 4.0 | `images/1452_phacolytic_SL-sunset-nucleus_PMC10627700-F1.jpg` |
+| 4 | Case Rep Ophthalmol Med 2011 — PMC3350162 | Sahu SK et al. Unusual Presentation of Phacolytic Glaucoma: Simulating Microbial Keratitis (nữ **73 tuổi**, đau–sợ ánh sáng–đỏ **2 tháng** dù đã dùng kháng sinh/kháng nấm; **thể thủy tinh lạc vị dính nội mô**, giả **áp-xe giác mạc**; mô bệnh: **bạch cầu đa nhân + đại thực bào + tế bào khổng lồ**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC3350162/ | CC BY 3.0 | `images/1452_phacolytic_SL-corneal-abscess-mimic_PMC3350162-F1.jpg` |
+## Ghi chú giấy phép
+- Ảnh tải về: **CC BY 2.0** (PMC8207859), **CC BY 4.0** (PMC10627700), **CC BY 3.0** (PMC3350162) → được phép ghép letterbox, giữ nguyên tỷ lệ, ghi attribution.
+- `images/composite_phacolytic-SL.jpg` là **tác phẩm phái sinh** từ 2 hình **CC BY** (PMC8207859 + PMC10627700) → vẫn CC BY, ghi công cả hai.
+- Không dùng ảnh từ nguồn không rõ giấy phép; không lấy ảnh Radiopaedia.
+- Tên tác giả đối chiếu trực tiếp Europe PMC (`authorString`) theo PMCID: PMC9240532 → **Chandrashekharan S**; PMC8207859 → **Macovei ML**; PMC10627700 → **Han RJ**; PMC3350162 → **Sahu SK**.
