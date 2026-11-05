@@ -506,7 +506,8 @@
 | 1751 | **Bệnh mô bào Langerhans (LCH) vùng dưới đồi–tuyến yên ở trẻ**: cuống yên dày > 3 mm, mất điểm sáng T1 thùy sau, đái tháo nhạt; phân biệt *… |
 | 1752 | **Suy tuyến yên sau xạ trị sọ ở trẻ (radiation-induced hypopituitarism)**: thời điểm xuất hiện theo liều và tuổi, thứ tự mất hormone (GH →… |
 | 1442 | **Bệnh Vogt–Koyanagi–Harada (VKH) và phổ viêm toàn hắc mạc** — chẩn đoán theo tiêu chuẩn sửa đổi 2001/2011, **bong hắc mạc thanh dịch hai b… |
-| 1750 | **Rò tụy–màng phổi (pancreaticopleural fistula): tràn dịch màng phổi TRÁI tái phát, amylase dịch màng phổi rất cao, MRCP/ERCP tìm chỗ rò, k… |
+| 1737 | **Rò tụy–màng phổi (pancreaticopleural fistula): tràn dịch màng phổi TRÁI tái phát, amylase dịch màng phổi rất cao, MRCP/ERCP tìm chỗ rò, k… |
+| 1750 | **UTUC ở bệnh nhân thận ghép**: **30/24.270 ca ghép**, **3,7/100.000 người–năm** (dân số **3,3**), **67%** ở thận ghép, **87%** HG, **47%** pT3, trung vị **91 tháng**; **ứ nước thận nguyên bản OR 35,32**; **BK+ 90,9%** nguy cơ cao; ca "giả viêm" **29/26 → 41/38 mm** + di căn phổi, **pT4N0M1** (2026-11-05) |
 | 1437 | **Viêm màng bồ đào–hắc mạc do thuốc ức chế điểm kiểm miễn dịch (ICI uveitis / VKH-like)**: phân biệt viêm màng bồ đào trước đơn thuần với *… |
 | 1438 | **Viêm màng bồ đào giao cảm (sympathetic ophthalmia): phòng ngừa bằng cắt bỏ nhãn cầu trong bao lâu, và xử trí miễn dịch khi đã xảy ra** —… |
 | 1435 | **Hội chứng masquerade nội nhãn: u lympho nội nhãn và viêm màng bồ đào "giả u"** — khi nào nghĩ đến u lympho (tế bào dị hình trong dịch kín… |
