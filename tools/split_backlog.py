@@ -155,8 +155,13 @@ def main(argv):
         return 0
 
     five, compact, diary = parse_all(src)
-    pending = [(c, l) for c, l in five if not c[4].lower().startswith("xong")]
-    new_done = [(c, l) for c, l in five if c[4].lower().startswith("xong")]
+
+    def is_done(c):
+        # hàng cũ ghi "xong (...)", hàng mới ghi "**xong (...)**" — chuẩn hóa trước khi so
+        return c[4].lstrip("* ").lower().startswith("xong")
+
+    pending = [(c, l) for c, l in five if not is_done(c)]
+    new_done = [(c, l) for c, l in five if is_done(c)]
     arch_txt = open(ARCH, encoding="utf-8").read() if os.path.exists(ARCH) else ""
     arch_done, arch_diary = parse_archive(arch_txt)
 
