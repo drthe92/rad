@@ -1178,3 +1178,5 @@
 - Lượt này cây sạch, `git pull --rebase` "Already up to date"; không dùng stash; verify 6 cổng PASS.
 2026-11-04 · worker: viết 1923 (áp-xe thận/quanh thận ở thai) + 1924 (urosepsis ở thai) — 2 bài, 11 ảnh + 2 composite.
 2026-11-04 · append 1925 (áp-xe cơ thắt lưng–chậu ở thai) + 1926 (chorioamnionitis); 1922 hoãn vì thiếu bằng chứng đặc hiệu cho bà mẹ cho bú.
+- 2026-11-05: viết **1922** (sỏi niệu sau sinh – cho bú) + **1925** (viêm túi mật cấp ở thai); verify PASS 6/6, 925 bài/925 card; flip #1199, #1141.
+- 2026-11-05: ID 1819 đã dùng (giả phình mạch tạng) → bài viêm túi mật dùng **1925**; đổi đề xuất áp-xe cơ thắt lưng 1925→**1928**; append #1204 (1929), #1205 (1930).
