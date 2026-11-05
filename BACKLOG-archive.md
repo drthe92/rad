@@ -1701,3 +1701,5 @@
 - 2026-11-05: append #1206 (086, rò ĐMC–phế quản) + #1207 (019, hẹp ĐM phổi sau ghép phổi).
 - 2026-11-05: viết **1829** (BBS trẻ: 0,3–2,4%/BN-năm; mất khuyết bóng dù thuốc vẫn chảy; nút trong thành bụng trên US/CT; gỡ nội soi 9/9, 46,1 phút, tái phát 1/9) + **1830** (PWS SDB: cAI 4,8 → AHI 10,3 → TcCO₂ 62 mmHg/AHI 5,75; 55% cần can thiệp; PSG trước GH); verify PASS 6/6, 933 bài/933 card.
 - 2026-11-05: flip #1146/#1147; append #1863 (3080, rò dạ dày–đại tràng) + #1864 (3079, CCHS/PHOX2B).
+- 2026-11-05: viết **1442** (mảnh thể thủy tinh sót tiền phòng: 0,96 × 0,75 mm ở 6 giờ, 20/200 → 20/40, ECD 458/mm², UBM/AS-OCT) + **3060** (CHS: < 3%, xuất huyết ~1% tử vong 26%, CT sạch → máu thùy ngày 1, NCSE 52%) — 5 ảnh CC BY-NC/CC BY-NC-ND, không composite.
+- 2026-11-05: flip #1146→1442, #1088→3060; #1852 gộp vào **420** (OCS đã phủ); append #1890 (1452, phacolytic) + #1891 (3091, CICAD).
