@@ -365,7 +365,8 @@ certainty: tong-hop-y-van
 - [450 – Mắt nhi](../450-mat-nhi/lesson.md) (retinoblastoma vs Coats)
 - [478 – Điếc tiếp âm (ANSD) ở trẻ: ABR mất + CM còn, MRI dây VIII & chọn cấy ốc tai](../478-diec-tiep-am-ansd-tre/lesson.md) *(mới)*
 - [1625 – Rò ruột–khí quyển (EAF) sau bụng mở ở trẻ: màng bảo vệ tạng, CT cản quang uống & loopogram](../1625-ro-ruot-khi-quen-o-tre/lesson.md) *(mới — nối 688/646/083)*
-- [3001 – Hẹp lỗ thông Mitrofanoff ở trẻ: channelogram phân tầng hẹp, ống giãn dư không phải hẹp](../3001-hep-lo-thong-mitrofanoff-o-tre/lesson.md) *(mới — nối 691/672/677)*
+- [3001 – Hẹp lỗ thông Mitrofanoff ở trẻ: channelogram phân tầng hẹp, ống giãn dư không phải hẹp](../3001-hep-lo-thong-mitrofanoff-o-tre/lesson.md)
+- [3064 – REBOA ở trẻ em: chọn bóng theo đường kính ĐMC (**zone 1 6,2–15,2 mm**, zone 3 **4,4–13,2 mm**), thể tích Broselow (**1,5–7,5 mL**), **zone 1 < 30 phút**, **4 Fr COBRA-OS khi ĐMC < 15 mm**](../3064-reboa-o-tre-em-chon-bong-the-tich-bom-nguong-thoi-gian/lesson.md) *(mới — nối 1816/645/6113)* *(mới — nối 691/672/677)*
 
 ## Quy hoạch Master Curriculum Hệ Nhi khoa (600–670)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số. Nối chéo bài `450` Mắt nhi.
