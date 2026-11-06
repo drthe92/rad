@@ -196,6 +196,8 @@ CLASSIFY_4D = {
     "1833": "canthiep",
     "1834": "canthiep",
     "1839": "bung",
+    "1855": "canthiep",
+    "1856": "bung",
     "1908": "bung",
     "1912": "bung",
     "1909": "bung",

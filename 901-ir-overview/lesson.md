@@ -57,9 +57,14 @@ certainty: tong-hop-y-van
 - 910 – Dẫn lưu Ổ áp-xe, Đường mật (PTBD) & Thận qua da (PCN) *(đã có — [bài học](../910-abscess-biliary-nephrostomy/lesson.md))*
 - 920 – Nút mạch Cầm máu: Tiêu hóa, Ho máu & Chấn thương Tạng *(đã có — [bài học](../920-vascular-embolization-gi-bleed/lesson.md))*
 - 930 – Can thiệp Ung thư Gan: TACE, RFA/MWA & LI-RADS TRA *(đã có — [bài học](../930-hepatic-oncology-tace-rfa/lesson.md))*
+- 1856 – Radiation lobectomy Y-90 tăng gan còn lại trước cắt lớn: **26–45%** phì đại, đủ chức năng **75 vs 31 ngày** so với PVE, liều nhu mô lành **> 70 Gy resin / ≥ 88 Gy glass** *(mới — [bài học](../1856-radiation-lobectomy-y90-tang-flr/lesson.md))*
 - 931 – Takayasu: nong/stent & phẫu thuật bắc cầu — chọn bệnh nhân theo hoạt tính viêm, theo dõi tái hẹp *(đã có — [bài học](../931-takayasu-can-thiep-noi-mach-va-phau-thuat/lesson.md))*
 - 934 – Sốc phản vệ do vỡ nang sán khi can thiệp (PAIR, chọc hút, mổ) *(đã có — [bài học](../934-soc-phan-ve-do-vo-nang-san/lesson.md))*
 - 936 – Phản ứng da **muộn nặng** sau cản quang: AGEP, DRESS, SJS/TEN — nhận diện, lịch test dị ứng, tiền mê không phòng được *(đã có — [bài học](../936-phan-ung-da-muon-nang-sau-can-quang/lesson.md))*
 - 1629 – Đốt nhiệt nhân giáp lành tính đặc: RFA & MWA *(đã có — [bài học](../1629-dot-nhiet-nhan-giap-lanh-tinh-dac/lesson.md))*
+
+**940–979 — Bạch huyết & Can thiệp bạch huyết**
+- 1822 – DCMRL (MRI bạch huyết động): tìm chỗ rò, **47,7%** ca có giải phẫu can thiệp được *(đã có — [bài học](../1822-dcmrl-bach-huyet/lesson.md))*
+- 1855 – LVA & chuyển hướng dòng ống ngực khi DCMRL **không có đích**: ΔP **+4 mmHg khi nằm / −35 mmHg khi đứng**, TDE đặt catheter **63,1%**, **nút mù làm rò nặng**, TDA-LVA chống chỉ định khi **CVP cao** *(mới — [bài học](../1855-lva-chuyen-huong-dong-ong-nguc/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
