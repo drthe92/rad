@@ -103,6 +103,7 @@ certainty: tong-hop-y-van
 | **Khuyết lòng niệu quản/bể thận + ứ nước phía trên** | Niệu quản – bể thận (ureter – renal pelvis) | UTUC nhú/thâm nhiễm · sỏi · máu cục · nhú thận bong · u lành (nephrogenic adenoma) · lạc nội mạc · RCC xâm lấn | **Goblet/stipple sign + ngấm thuốc thì vỏ–tủy (30 → 75 HU) = u trong lòng**; **không ngấm, đổi hình giữa các thì = máu cục/sỏi**; **CTU Se 92%/Sp 95% nhưng u < 3 mm chỉ Se 40%**; **2,9% cắt thận–niệu quản vì tổn thương lành**; goblet cũng gặp ở u lành → phải sinh thiết | `1724`, `159`, `151` |
 | **Hẹp niệu quản mảnh ghép khởi phát MUỘN + ứ nước** | Niệu quản ghép, đoạn sát miệng nối UVJ | Hẹp do BK polyomavirus · hẹp thiếu máu miệng nối · lymphocele chèn · sỏi/stent vôi · UTUC thận ghép | **Hẹp > 3 tháng + đoạn dài/thành dày + BK PCR máu dương = nghĩ BK** (hẹp thiếu máu thường **ngắn < 1 cm, đúng miệng nối**); ngưỡng BK **> 1.000 copies/mL kéo dài > 2 tuần** = "probable", **> 10.000** = "presumptive"; hẹp muộn > 3 tháng → nội soi thất bại **RR 2,00**; hẹp **6,37%** (30/471), sống mảnh ghép 3 năm **79,7% vs 93,3%** | `3067`, `3011`, `1750` |
 | **Thận ghép + khuyết lòng/khối "giả viêm" ở cực dưới** | Thận ghép – bể thận/niệu quản ghép (graft kidney) | UTUC thận ghép · viêm thận–bể thận/áp-xe · hẹp do BK · máu cục/nấm · RCC thận ghép · phản ứng BCG · nephrogenic adenoma | **UTUC sau ghép: 3,7/100.000 người–năm (dân số chung 3,3), 67% ở thận ghép, 87% HG, 47% pT3, trung vị 91 tháng; ứ nước thận nguyên bản OR 35,32**; **khuyết lòng cố định + ngấm thuốc ở thì bài tiết = u; tổn thương "viêm" không nhỏ sau 4–6 tuần kháng sinh = phải loại u**; **BK+ 90,9% nguy cơ cao** | `1750`, `1724`, `190`, `3011` |
+| **Ổ dịch ĐƯỜNG GIỮA sau bàng quang, thành mỏng** (midline retrovesical cyst) | Tuyến tiền liệt – niệu đạo sau (prostatic utricle), giữa bàng quang và trực tràng | Nang ống utricle · nang ống Müllerian · nang ống phóng tinh · nang túi tinh/Zinner · túi thừa bàng quang · nang niệu rốn · áp-xe tuyến tiền liệt | **Nang đổ đầy từ niệu đạo sau trên VCUG/MCUG + lỗ đổ ở gò tinh = nang ống utricle** (grade **0–III** theo độ vượt cổ bàng quang); **nang tròn, KHÔNG thông niệu đạo, nam 20–40 tuổi = nang Müllerian**; **bất sản thận cùng bên 32%**, ở trẻ hẹp niệu đạo thể gần nang gặp **73,5%**, **≥ 20 mm** mới dễ có triệu chứng; grade 0–I/< 20 mm → theo dõi | `3078`, `3077`, `3055`, `158` |
 
 ## Ảnh minh họa & Blind Quiz (đọc nhanh 4 mẫu hình chủ chốt)
 > Ảnh trơn ở ngoài, dấu hiệu + chẩn đoán giấu trong thẻ bấm-mở. Mở trên Pages: tự đoán trước rồi bấm mở đáp án.
@@ -291,5 +292,8 @@ certainty: tong-hop-y-van
 
 **Sốt kéo dài & ổ nhiễm ẩn (đa khoang)**
 - 147 – Sốt kéo dài không rõ nguyên nhân (FUO) & ổ nhiễm ẩn trong bụng: tiếp cận hình ảnh theo bậc *(đã có — [bài học](../147-sot-keo-dai-fuo-o-nhiem-an-trong-bung/lesson.md))*
+
+**Dị tật bẩm sinh đường niệu dưới (mới)**
+- 3078 – Nang ống utricle & nang ống Müllerian: ổ dịch **đường giữa** sau bàng quang; **đổ đầy từ niệu đạo sau + lỗ đổ ở gò tinh = utricle**, **nang tròn không thông = Müllerian**; grade **0–III**, **bất sản thận cùng bên 32%**, trẻ hẹp niệu đạo thể gần **73,5%** có nang, **≥ 20 mm** mới dễ có triệu chứng; grade 0–I/< 20 mm → theo dõi *(mới — [bài học](../3078-nang-ong-utricle-mullerian/lesson.md))* *(nối 3055/3077/158)*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

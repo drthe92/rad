@@ -99,7 +99,7 @@ flowchart TD
 - **Cạm bẫy 6 — viêm thứ phát làm "to" tổn thương.** Niêm mạc viêm và dịch ứ quanh u **ngấm thuốc và dày** trên MRI; dùng **T2 rất sáng + không ngấm** để tách **dịch/viêm** khỏi **phần u thật**, tránh mổ rộng quá mức hoặc đọc sai giai đoạn.
 - **Biến thể bình thường dễ nhầm:** **bóng khí trong xoang**; **vách xoang dày không đều** do viêm mạn; **cuốn mũi dưới phì đại một bên**; **mào xương vách mũi** — tất cả **không có chân bám tăng xương** và **không ngấm như khối**.
 
-## 6. Tự lượng giá — Blind Quiz (ảnh ngoài, đáp án trong `<details>`)
+## 6. Tự lượng giá — Blind Quiz (ảnh ngoài, đáp án trong khối chi tiết)
 
 **Ca 1 — Nam 70 tuổi, khối xoang hàm phải, CT không cản quang.**
 

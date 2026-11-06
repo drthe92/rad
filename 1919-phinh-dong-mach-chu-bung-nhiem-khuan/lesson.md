@@ -95,7 +95,7 @@ flowchart TD
 - **Cạm bẫy 6 — bỏ sót ổ nhiễm thứ hai.** Sau khi tìm thấy túi phình, phải soát **cột sống, đĩa đệm, túi thừa, đường mật, van tim**; bỏ sót ổ nguyên phát làm nhiễm tái phát sau mổ.
 - **Biến thể bình thường dễ nhầm:** **hạch quanh ĐMC nhỏ, đều, < 1 cm** ở người trẻ; **mảng xơ vữa dày** gây "dày thành giả"; **máu tụ sau phúc mạc cũ** có bờ giả túi nhưng **không ngấm thuốc, không khí**.
 
-## 6. Tự lượng giá — Blind Quiz (ảnh ngoài, đáp án trong `<details>`)
+## 6. Tự lượng giá — Blind Quiz (ảnh ngoài, đáp án trong khối chi tiết)
 
 **Ca 1 — Nam 76 tuổi, sốt, E. coli huyết, đau bụng không đặc hiệu.**
 

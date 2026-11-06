@@ -89,7 +89,7 @@ certainty: tong-hop-y-van
 | Phối hợp nhiều phương thức | **96%** | 93% | Cách thực tế nhất khi một phương thức không rõ |
 
 ![Đối chiếu mô bệnh – tưới máu: tái phát di căn và thoái hóa sau xạ](images/204_hoai-tu-phong-xa_MRI-tuong-phan_BrainSci-PMC11048647-Fig2.jpg)
-*Hàng trên: di căn não tái phát (T1+Gd axial/coronal/sagittal) — bản đồ tưới máu **rực màu** (rCBV cao), mô bệnh có mô u (*) và hoại tử (**). Hàng dưới: thoái hóa sau xạ — tổn thương **rỗng, ngấm viền**, bản đồ tưới máu **kém màu hơn**, mô bệnh là mô thần kinh thoái hóa (#, ##). Nguồn: Schack A et al., Brain Sci 2024, PMC11048647 Fig. 2, CC BY 4.0.*
+*Hàng trên: di căn não tái phát (T1+Gd axial/coronal/sagittal) — bản đồ tưới máu **rực màu** (rCBV cao), mô bệnh có mô u (*) và hoại tử (`**`). Hàng dưới: thoái hóa sau xạ — tổn thương **rỗng, ngấm viền**, bản đồ tưới máu **kém màu hơn**, mô bệnh là mô thần kinh thoái hóa (#, ##). Nguồn: Schack A et al., Brain Sci 2024, PMC11048647 Fig. 2, CC BY 4.0.*
 
 ## 4. Protocol chụp + xử trí & theo dõi
 
@@ -180,7 +180,7 @@ flowchart TD
 
 <details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
 
-- **Hàng trên = tái phát di căn:** khối ngấm thuốc đặc, bản đồ tưới máu **rực màu (rCBV cao)**, mô bệnh có **mô u (*)** và hoại tử (**). **Hàng dưới = thoái hóa sau xạ:** tổn thương **rỗng, ngấm viền**, tưới máu **kém hơn**, mô bệnh là **mô thoái hóa/gliosis (#, ##)**.
+- **Hàng trên = tái phát di căn:** khối ngấm thuốc đặc, bản đồ tưới máu **rực màu (rCBV cao)**, mô bệnh có **mô u (*)** và hoại tử (`**`). **Hàng dưới = thoái hóa sau xạ:** tổn thương **rỗng, ngấm viền**, tưới máu **kém hơn**, mô bệnh là **mô thoái hóa/gliosis (#, ##)**.
 - **Giá trị của tưới máu:** phân biệt **tân mạch của u** với **mô hoại tử không mạch**; trong nghiên cứu 32 ca, **rCBVmax cao hơn có ý nghĩa ở nhóm tái phát** (p = 0,048).
 - **Vì sao cần perfusion:** MRI thường chỉ đúng **75%** (18/24) khi gọi tái phát — **25% là RN bị gọi nhầm**; không phương thức đơn lẻ nào đủ, nên phải **phối hợp** (Se 96%, Sp 93%).
 - **Nguồn ảnh:** Schack A et al., *Brain Sci* 2024, PMC11048647 Fig. 2, CC BY 4.0.
