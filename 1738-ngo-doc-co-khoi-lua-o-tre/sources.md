@@ -1,0 +1,33 @@
+# Nguồn — 1738 Ngộ độc carbon monoxid (CO) do khói lửa và khí đốt ở trẻ
+
+Tra cứu ngày 2026-11-06. Toàn bộ nguồn là **y văn mở**, đọc trực tiếp toàn văn trên PMC/Europe PMC (không viết từ abstract).
+
+## Nguồn có ảnh được dùng (license cho phép tải)
+
+| # | Bài gốc | PMCID / DOI | Giấy phép | Dùng cho |
+|---|---|---|---|---|
+| 1 | Cureus 2023 — "Acute Carbon Monoxide Poisoning in a Filipino Household: A Case Report" | PMC10772852 · 10.7759/cureus.50211 | **CC BY 4.0** | **Figure 1** — MRI 6 ô (DWI/ADC/T1/T2/FLAIR/GRE) của **nam 34 tuổi** trong vụ ngộ độc hộ gia đình (vợ và 3 con cùng phơi nhiễm máy phát điện): **DWI tăng, ADC giảm ở nhân bèo hai bên**, T1 giảm, T2/FLAIR tăng, GRE có vi xuất huyết |
+| 2 | Behav Neurol 2020 — "Clinical and Imaging Prognosis in Patients with Delayed Encephalopathy after Acute Carbon Monoxide Poisoning" | PMC7744233 · 10.1155/2020/1719360 | **CC BY 4.0** | **Figure 1** — T2WI/T2-FLAIR của loạt **20 ca DEACMP** (tuổi trung bình 61): tăng tín hiệu **chất trắng hai bên + nhân bèo**; dùng cho mục (2)/(3) và quiz ca 2 |
+
+## Nguồn đối chiếu nội dung (không dùng ảnh)
+
+| # | Bài gốc | PMCID / DOI | Dùng cho |
+|---|---|---|---|
+| 3 | Sci Rep 2024 — "Analysis of prognosis of neurological sequelae in children with carbon monoxide poisoning" | PMC11612167 · 10.1038/s41598-024-81634-1 | **Thuần tập 113 trẻ**, theo dõi **3,6 ± 1,5 năm**: **11,5% (13/113)** bất thường nhận thức (GDS); **89,4% (101/113)** do bình nóng lạnh gas phòng tắm kín, **9,7%** sưởi lửa; **59,3%** rối loạn ý thức, **32,7%** chóng mặt/đau đầu; bất thường hình ảnh sọ **61,5% (8/13)** ở nhóm di chứng vs **4% (4/100)** nhóm bình thường; đa biến giữ **bất thường hình ảnh** + **rối loạn ý thức > 1 ngày**; MRI nhạy trong **72 giờ**; bất thường nhân bèo **19,9%**; tiêu chuẩn HBO: triệu chứng thần kinh/tim mạch, toan nặng hoặc **COHb ≥ 25%**; trẻ không ổn định chỉ oxy 100% |
+| 4 | Diagnostics 2020 — "Cerebral White Matter Lesions on Diffusion-Weighted Images and Delayed Neurological Sequelae after Carbon Monoxide Poisoning: A Prospective Observational Study" | PMC7555258 · 10.3390/diagnostics10090698 | **154 bệnh nhân** chụp DWI: tổn thương não cấp **31,8%**, **DNS 19,5%**; tổn thương **chất trắng** liên quan DNS **OR 6,741 (95% CI 1,843–24,660; p = 0,004)**; GCS thấp và thời gian phơi nhiễm dài cũng liên quan DNS |
+| 5 | GMS Ger Med Sci 2021 — "S2k guideline diagnosis and treatment of carbon monoxide poisoning" | PMC8607608 · 10.3205/000300 | **Hướng dẫn Đức**: COHb âm tính **không loại trừ**; **COHb không dùng để quản lý điều trị**; oxy 100% ngay trước viện; **HBO khởi động < 6 giờ, không khuyến cáo sau 24 giờ**, **3 lần/24 giờ**, **2,5–3 bar**; barotrauma **0,72%**; nhập viện: có triệu chứng **luôn**, không triệu chứng **COHb ≤ 5% (hút thuốc ≤ 10%)** không cần, nhưng **trẻ và thai phụ nên được mời nhập viện**; trẻ **triệu chứng sớm hơn, hồi phục nhanh hơn, nửa đời COHb ngắn hơn**; **HbF gắn CO mạnh hơn**, ca thai **COHb 61%** khi mẹ **7%**; trẻ sơ sinh **22% không triệu chứng** vs **3% có triệu chứng**; bằng chứng HBO ở trẻ **không đủ**, chỉ làm khi **có chỉ định đặc biệt** do nguy cơ vận chuyển/barotrauma; nghiên cứu hồi cứu Đài Loan **không khác biệt tử vong** |
+| 6 | J Clin Med 2024 — "Carbon Monoxide Poisoning: From Occupational Health to Emergency Medicine" | PMC11084260 · 10.3390/jcm13092466 | Nửa đời COHb **4–5 giờ** khí trời, **~1 giờ** oxy, **20 phút ở 2,5 ATA**; COHb nền **0,5%** không hút thuốc, **1–2%** đô thị, **8–10%** hút thuốc; pulse oximeter hai bước sóng đọc **COHb như oxyhemoglobin** (**COHb 70% → SpO₂ 92%**); bảng **chỉ định HBO** (ngất, hôn mê, co giật, rối loạn ý thức, dấu tiểu não, **COHb > 25%**, thai distress) |
+| 7 | PLoS One 2021 — "Use of hyperbaric oxygen therapy for preventing delayed neurological sequelae in patients with carbon monoxide poisoning: A multicenter, prospective, observational study in Japan" | PMC8213185 · 10.1371/journal.pone.0253602 | **255 ca/57 trung tâm**: DNS **13/171 (7,6%)** nhóm HBO vs **3/84 (3,6%)** nhóm oxy (**p = 0,212**); số buổi HBO trong 24 giờ đầu liên quan DNS (**OR 2,082; 1,101–3,937**) — diễn giải là **confounding do bệnh nặng hơn**; liều/áp lực rất khác giữa các trung tâm |
+| 8 | Diagnostics 2025 — "Carbon Monoxide Poisoning: Diagnosis, Prognostic Factors, Treatment Strategies, and Future Perspectives" | PMC11899572 · 10.3390/diagnostics15050581 | Dịch tễ: **137 ca/million**, **4,6 tử vong/million**, đỉnh **0–14 tuổi** và **20–39 tuổi**; Mỹ **~50.000 ca cấp cứu/năm**, tử vong **1–3%**; cơ chế (ái lực **200–250×**, myoglobin **60×**, ức chế cytochrome c oxidase, ROS/peroxy hóa lipid) |
+| 9 | Am J Emerg Med 2020 — "Demographic characteristics and delayed neurological sequelae risk factors in carbon monoxide poisoning" | PMID 31889577 · 10.1016/j.ajem.2019.12.037 | **72 ca**: DNS định nghĩa **2–240 ngày**; khám thần kinh bất thường **OR 18,6 (p = 0,004)**; COHb trung vị **30% (10–43)** vs **25% (10–44)**, **p = 0,7**; COHb không liên quan việc dùng HBO (**p = 0,9**) |
+| 10 | Neural Regen Res 2020 — "Mechanism of delayed encephalopathy after acute carbon monoxide poisoning" | PMC7749483 · 10.4103/1673-5374.284995 | Cơ chế **bệnh não muộn**: hủy myelin, apoptosis oligodendrocyte, viêm/miễn dịch, tổn thương vi mạch — giải thích **khoảng tỉnh** |
+| 11 | Cureus 2024 — "Neurological Sequelae After Acute Carbon Monoxide Poisoning" | PMC10884778 · 10.7759/cureus.52840 | Loạt 5 ca: **troponin T 1314 ng/L** trong ca nặng; minh họa tổn thương tim và di chứng thần kinh muộn |
+
+## Ghi chú trung thực nguồn
+- **Không ghi tên tác giả** trong bài/CREDITS; attribution dùng **tạp chí + năm + PMCID/PMID** (đối chiếu trực tiếp PMC/Europe PMC ngày 2026-11-06).
+- **Cả hai ảnh đều là ca NGƯỜI LỚN**: ca 34 tuổi (PMC10772852) và loạt DEACMP tuổi trung bình 61 (PMC7744233). Bài dùng chúng để dạy **mẫu hình ảnh** (nhân bèo/chất trắng hai bên, DWI/ADC); **mọi số liệu nhi khoa** lấy từ **PMC11612167** và **S2k 2021**, không suy từ ảnh.
+- **Không có ca nhi nào có ảnh trong các nguồn tìm được** — bài ghi rõ, không gán tuổi trẻ cho ảnh người lớn.
+- **Bằng chứng HBO yếu và mâu thuẫn**: S2k 2021 nói thẳng "evidence is scant"; nghiên cứu Nhật **không** chứng minh giảm DNS; bài trình bày cả mặt trái (barotrauma **0,72%**, vận chuyển, confounding) — không quảng bá HBO.
+- **Ngưỡng COHb > 25%** là ngưỡng **được nhiều phác đồ dùng**, không phải yếu tố duy nhất; bài nhấn mạnh **quyết định theo lâm sàng + lactat + tim** đúng như S2k.
+- **Số liệu "bất thường nhân bèo 19,9%"** là con số **y văn được PMC11612167 dẫn lại**, không phải số đo của thuần tập 113 trẻ; bài ghi rõ nguồn gốc.
+- **CT bất thường 87,5%** là trong loạt **DEACMP muộn** (PMC7744233), **không** phải CT cấp — bài phân biệt rõ hai thời điểm.
