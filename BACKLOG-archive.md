@@ -1831,3 +1831,5 @@
 - 2026-11-06 — xong **1722** hạ natri muộn sau mổ tuyến yên (người lớn): **10,5%** (triệu chứng **5,0%**), **44,3%** tái nhập viện 30 ngày; nadir **ngày 8 / 129 mmol/L**; hạn chế nước **1.000 mL × 7 ngày → 6,9% vs 19,2%**; tolvaptan **12,0 vs 1,8 mmol/L/24h**; giới hạn **+10 (+8)**; nomogram MRI **AUC 0,806/0,849**; 4 ảnh + 1 composite; flip #1851, append #1942/#1943.
 - 2026-11-06: viết **1839** (chylothorax sau cắt/ghép gan: TG > 110 mg/dL, 1.571 → 483 mg/dL, tràn dịch phải ngày 42, chụp bạch mạch 6/10 khỏi) + **1451** (VKC + keratoconus: KC 26,8%, CXL khi VKC kiểm soát K steep −2,02 D, dexamethasone 82,2% tăng IOP); #1853 đổi ID 1438→1451 vì 1438 đã dùng cho SO.
 - 2026-11-06: append #1944 (6159 chylothorax sau Fontan) + #1945 (1948 rò dưỡng trấp sau cắt thực quản); verify PASS 6/6, 996 bài/996 card.
+- 2026-11-06: viết **1855** (LVA/TDA-LVA khi DCMRL không có đích) + **1856** (radiation lobectomy Y-90 tăng FLR). Nguồn chính PMC12942288/12657324/13627481/13100813 và PMC13190528/12071032/12568765/5497664. Verify PASS 6/6 (998 bài / 998 card).
+- 2026-11-06: flip #1842/#1843 → xong; append #1946 (1857 RILD) + #1947 (1858 VLNT), đã check_duplicates exit 0.
