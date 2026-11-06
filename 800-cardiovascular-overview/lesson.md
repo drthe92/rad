@@ -30,6 +30,7 @@ certainty: tong-hop-y-van
 - [820 – MRI tim LGE](../820-cardiac-mri-lge-mapping/lesson.md) *(đã có)*
 - [943 – Viêm cơ tim do DRESS: tầm soát tim, MRI và tái phát khi giảm corticoid](../943-viem-co-tim-do-dress/lesson.md) *(mới)*
 - [6703 – Bệnh cơ tim do anthracycline ở người sống sót ung thư nhi: GLS, CTRCD, MRI tim & ngưỡng điều trị](../6703-benh-co-tim-do-anthracycline-o-nguoi-song-sot-ung-thu-nhi/lesson.md) *(mới)*
+- [6706 – Bệnh động mạch vành do xạ: hẹp lỗ–đoạn gần, CAC = 0 không loại trừ, CTA 59% vs 36%, PCI + DES vs CABG](../6706-benh-mach-vanh-do-xa-o-nguoi-song-sot-ung-thu/lesson.md) *(mới — nối 6705/6704/810)*
 - [1693 – Thrombophlebitis migrans (Trousseau) & SVT không giãn tĩnh mạch: ngưỡng 3 cm/5 cm, kiểm soát u ẩn](../1693-thrombophlebitis-migrans-trousseau/lesson.md) *(mới)*
 
 ## Quy hoạch Master Curriculum Tim mạch (800–899)
