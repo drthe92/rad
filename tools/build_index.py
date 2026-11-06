@@ -156,6 +156,8 @@ CLASSIFY_4D = {
     "1764": "dauco",
     "1736": "bung",
     "1737": "bung",
+    "1744": "vuspk",
+    "1746": "vuspk",
     "1740": "nhi",
     "1778": "nhi",
     "1781": "thankinh",
