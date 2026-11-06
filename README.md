@@ -190,6 +190,8 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 |---|---|---|
 | 100 | [Tổng quan hệ Bụng](100-tong-quan-he-bung/lesson.md) | Tổng quan, bảng DDx |
 | 110 | [Giải phẫu bụng cắt lớp](110-giai-phau-bung/lesson.md) | `anatomy:bung` |
+| 111 | [Tắc ruột non do xơ hóa sau xạ trị tiểu khung: thành dày đối xứng ≥ 5 cm, cắt ruột 44% vs dính 5,6%, Gastrografin AUC 0,860](111-tac-ruot-non-sau-xa-tri-tieu-khung/lesson.md) | `pattern:tac-ruot` `vung:ruot-non` `protocol:CT-bung-cap` `incidentaloma:hep-ruot-sau-xa` |
+| 112 | [Chảy máu trực tràng muộn do viêm trực tràng xạ: telangiectasia 25,7%, APC 80–90%, formalin 81%, RFA 83,3%, nổ đại tràng khi APC 12 ca](112-chay-mau-truc-trang-muon-sau-xa-tri/lesson.md) | `pattern:xuat-huyet` `vung:truc-trang` `protocol:noi-soi-truc-trang` |
 | 101 | [Protocol đa thì](101-protocol-bung/lesson.md) | `protocol:CT-MRI-bung` |
 | 102 | [Viêm túi mật cấp & viêm tụy cấp sau đặt stent mật/ERCP: PEP, TG18, dự phòng & cạm bẫy khí trong đường mật](102-viem-tui-mat-va-viem-tuy-sau-stent-mat-ercp/lesson.md) | `pattern:viem-tui-mat` `pattern:viem-tuy` `vung:tui-mat` `vung:tuy` `protocol:CT-bung-da-thi` `protocol:ERCP` `score:Atlanta` `score:TG18` |
 | 107 | [MRCP & gadoxetic acid thì gan–mật (HBP): kỹ thuật, FLIS, ngưỡng bilirubin & cách đọc rò/hẹp](107-mrcp-gadoxetic-acid-hbp/lesson.md) | `protocol:MRCP` `protocol:MRI-gan` `protocol:gadoxetic-acid` `pattern:hep-duong-mat` `vung:duong-mat` `incidentaloma:hep-duong-mat` |

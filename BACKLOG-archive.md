@@ -1785,3 +1785,5 @@
 - Flip #1106b; append **1** mục #1915 (3101 CHANTER) — đã check_duplicates (blast lung 1739 đã có sẵn ở #1107b, không append trùng).
 - 2026-11-06: viết **1778** (blast lung ở trẻ — X-quang Se 43/40/44%, PBLI 25,3%, muộn 48 giờ, ARDSnet 6 mL/kg + Pplat ≤ 30, dẫn lưu tràn khí trước PEEP) và **1740** (Amyand — 0,19–1,7%, US > 6 mm không đè xẹp, Losanoff–Basson I–IV, tử vong 14–30% → 5,5%). Ảnh: 4 CC BY (PMC3259405/PMC12553861) + 4 CC BY nhi (PMC13318166/PMC13019284), 2 composite.
 - 2026-11-06: thêm hàng DDx + link vào **600 tổng quan Nhi**, README; CLASSIFY_4D thêm 1778/1740 = nhi; verify PASS 6/6 (974 bài/974 card, parity 0). Append 2 gap mới đã check_duplicates: 1779 (màng nhĩ do sóng nổ), 1799 (thoát vị Littre).
+- 2026-11-06: viết 111 (tắc ruột non sau xạ; bảo tồn 33,9% vs dính 58,4%, cắt ruột 44,0% vs 5,6%, Gastrografin AUC 0,860) + 112 (viêm trực tràng xạ; telangiectasia 25,7%, APC 80–90%, formalin 81%, RFA 83,3%) — 4 ảnh CC BY/CC BY-NC-ND.
+- 2026-11-06: append 3102 (plexopathy thắt lưng–cùng do xạ) + 3103 (rò trực tràng–niệu đạo sau xạ), đã check_duplicates; ID 1676/1677 trong hàng chờ bị trùng bài cũ nên dùng 111/112.
