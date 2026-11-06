@@ -258,6 +258,7 @@ certainty: tong-hop-y-van
 - 163 – Pylephlebitis & huyết khối tĩnh mạch mạc treo (MVT): cấp cứu bụng *(đã có — [bài học](../163-pylephlebitis-huyet-khoi-tm-mac-treo/lesson.md))*
 - 164 – Nang thận ADPKD có biến chứng: xuất huyết, nhiễm trùng, sỏi & Wunderlich *(đã có — [bài học](../164-nang-than-adpkd-bien-chung/lesson.md))*
 - 165 – Dày thành: Crohn vs K *(đã có — [bài học](../165-day-thanh-ruot/lesson.md))*
+- 1762 – Hội chứng ruột ngắn ở người lớn: **< 200 cm**, còn đại tràng cứu **~1.000 kcal/ngày**; **citrulline < 20 µmol/L** → khó cai TPN; **tá tràng giãn ≥ 3,5 cm** là tiền đề STEP (**+33 cm**, **80%** độc lập nuôi ăn); teduglutide **63% vs 30%**; ghép khi IFALD/mất đường truyền/CRBSI *(mới — [bài học](../1762-hoi-chung-ruot-ngan-nguoi-lon/lesson.md))* *(nối 3006/3053/162)*
 
 **170–182 — Mạch máu ổ bụng, Can thiệp & Dự trữ**
 - 170 – Phình ĐMC bụng *(đã có — [bài học](../170-phinh-DMC-bung/lesson.md))*
