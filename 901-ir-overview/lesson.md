@@ -49,6 +49,7 @@ certainty: tong-hop-y-van
 - [1836 – Rò động–tĩnh mạch tạng: tĩnh mạch ngấm SỚM thì động mạch, plug/coil/stent phủ](../1836-ro-dong-tinh-mach-tang/lesson.md) *(mới — nối 1833/1819/939)*
 - [934 – Sốc phản vệ do vỡ nang sán khi can thiệp](../934-soc-phan-ve-do-vo-nang-san/lesson.md) *(đã có)*
 - [933 – Sốc phản vệ & PC-AKI do thuốc cản quang](../933-an-toan-thuoc-can-quang/lesson.md) *(đã có)*
+- [944 – Nhiễm mảnh ghép & stent-graft động mạch chủ–chậu (VGEI): MAGIC 2016 (khí ≥ 7 tuần, dịch ≥ 3 tháng), SUVmax **không** dùng làm cắt điểm, tử vong 1 năm 43%, vá lại 0% vs 9,8%](../944-nhiem-stent-graft-dong-mach-chu-chau/lesson.md) *(mới — nối 938/939/942/1721)*
 
 ## Quy hoạch Master Curriculum Can thiệp (900–999)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.

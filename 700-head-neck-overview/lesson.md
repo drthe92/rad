@@ -85,6 +85,7 @@ certainty: tong-hop-y-van
 - [237 – Biến chứng thần kinh sọ của viêm tai: Gradenigo, liệt VII, viêm mê nhĩ](../237-bien-chung-than-kinh-so-viem-tai-gradenigo/lesson.md) *(đã có — dải 200)*
 - [238 – Hội chứng Lemierre & huyết khối tĩnh mạch cảnh trong nhiễm khuẩn](../238-lemierre-huyet-khoi-tm-canh-trong/lesson.md) *(đã có — dải 200)*
 - [253 – Viêm xương nền sọ GIỮA không do tai (CSBO): clivus, lồi cầu & cạm bẫy "CT bình thường"](../253-viem-xuong-nen-so-giua-khong-do-tai/lesson.md) *(đã có — dải 200, nội dung đầu cổ)*
+- [1777 – Rò dịch não tủy nền sọ trước "ẩn": beta-2 transferrin 87–100%, **chỉ 32% báo cáo CĐHA** thấy khuyết trước khi có xét nghiệm, 88,1% có tăng áp lực nội sọ, vá nội soi 92%](../1777-ro-dich-nao-tuy-nen-so-truoc-tu-phat/lesson.md) *(mới — nối 1715/710/3051)*
 - [233 – Viêm tai ngoài ác tính & viêm xương nền sọ BÊN](../233-viem-tai-ngoai-ac-tinh-nen-so/lesson.md) *(đã có — dải 200)*
 
 ## Quy hoạch Master Curriculum Đầu Mặt Cổ (700–799)
