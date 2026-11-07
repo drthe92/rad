@@ -89,6 +89,7 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [900 – Tổng quan IR](../901-ir-overview/lesson.md)
+- [945 – Nhiễm & biến chứng port-a-cath/CVC: CRBSI, huyết khối, pinch-off, thoát mạch–ép tim](../945-nhiem-va-bien-chung-port-a-cath/lesson.md) *(mới — cùng nhóm đường vào/thủ thuật)*
 - [920 – Nút mạch](../920-vascular-embolization-gi-bleed/lesson.md) (cầm máu)
 - [150 – Bosniak](../150-nang-than-Bosniak/lesson.md) (sinh thiết thận)
 

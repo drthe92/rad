@@ -187,6 +187,7 @@ CLASSIFY_4D = {
     "1786": "thankinh",
     "1787": "thankinh",
     "1788": "nguc",
+    "1789": "nguc",
     "1796": "vuspk",
     "1797": "thankinh",
     "1798": "thankinh",
