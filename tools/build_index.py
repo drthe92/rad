@@ -261,7 +261,7 @@ RECLASS = {
     "6106": "mat", "6131": "mat", "6132": "mat", "658": "mat", "1422": "mat",
     "276": "mat",
     # bài vật lý/protocol liều (đi cùng nhóm 932/935/937)
-    "9420": "canthiep", "9421": "canthiep", "1679": "msk", "3054": "nhi", "3023": "dauco", "3046": "dauco", "3050": "dauco",
+    "9420": "canthiep", "9421": "canthiep", "9422": "canthiep", "1679": "msk", "3054": "nhi", "3023": "dauco", "3046": "dauco", "3050": "dauco",
     # 972 là chủ đề chẩn đoán/hình ảnh tuyến giáp – trung thất (không phải can thiệp) → Đầu Cổ
     "972": "dauco",
 }

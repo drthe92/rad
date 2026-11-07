@@ -34,6 +34,7 @@ certainty: tong-hop-y-van
 - [920 – Nút mạch cầm máu](../920-vascular-embolization-gi-bleed/lesson.md) *(đã có)*
 - [121 – LI-RADS](../121-khoi-gan-LIRADS/lesson.md) (LR-TR sau TACE)
 - [932 – An toàn bức xạ trong can thiệp CT/DSA](../932-an-toan-buc-xa-ct-dsa/lesson.md) *(đã có)*
+- [9422 – Bỏ che chắn chì trong X-quang trẻ: 57,5% trung tâm châu Âu còn chắn; AEC tăng liều; 0,4% phụ huynh thắc mắc khi bỏ](../9422-bo-che-chan-chi-xquang-tre/lesson.md) *(mới — nối 9420/9421/937/935)*
 - [938 – Rò động mạch chủ–ruột (AEF): khí trong túi/quanh graft, máu báo, EVAR cầu nối rồi mổ triệt để](../938-ro-dong-mach-chu-ruot/lesson.md) *(mới — nối 170/172/148)*
 - [939 – Rò động mạch chủ–tĩnh mạch chủ (ACF): IVC ngấm thì động mạch, suy tim cung lượng cao, thận giảm ngấm](../939-ro-dong-mach-chu-tinh-mach-chu/lesson.md) *(mới — nối 938/170/172)*
 - [1622 – Đốt cồn nang giáp lành tính](../1622-dot-con-nang-giap-pei/lesson.md) *(đã có)*
