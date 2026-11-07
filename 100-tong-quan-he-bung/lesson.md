@@ -305,5 +305,6 @@ certainty: tong-hop-y-van
 
 **Dị tật bẩm sinh đường niệu dưới (mới)**
 - 3078 – Nang ống utricle & nang ống Müllerian: ổ dịch **đường giữa** sau bàng quang; **đổ đầy từ niệu đạo sau + lỗ đổ ở gò tinh = utricle**, **nang tròn không thông = Müllerian**; grade **0–III**, **bất sản thận cùng bên 32%**, trẻ hẹp niệu đạo thể gần **73,5%** có nang, **≥ 20 mm** mới dễ có triệu chứng; grade 0–I/< 20 mm → theo dõi *(mới — [bài học](../3078-nang-ong-utricle-mullerian/lesson.md))* *(nối 3055/3077/158)*
+- 1840 – Huyết khối mảnh ghép tụy: **1–40%** tùy định nghĩa, chiếm **29%** mảnh ghép mất trong 6 tháng; **CPAT 0–3** theo vị trí; **dSMA nuôi đầu tụy, dSA nuôi thân–đuôi** nên tắc nhánh SMA = **mất tưới máu đầu tụy/tá tràng** trong khi thân–đuôi còn ngấm; mất mảnh ghép 30 ngày **14,4% vs 2,9%**; **grade 1–2 động mạch và grade 1 tĩnh mạch không cần kháng đông điều trị**, grade 2 tĩnh mạch → heparin/VKA **3–6 tháng**, grade 3 → lấy huyết khối hoặc cắt; CTA **3 thì** + Doppler *(mới — [bài học](../1840-huyet-khoi-manh-ghep-tuy/lesson.md); nối 118/117/1861/1827)*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

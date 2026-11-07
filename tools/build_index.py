@@ -42,6 +42,8 @@ SPEC_OVERRIDE = {"6104": "nhi", "6105": "nhi", "6107": "nhi", "6108": "nhi", "61
 # hoặc thêm vào CLASSIFY_4D, hoặc gắn tag `vung:` khớp VUNG_SPEC; nếu không
 # build_index.py sẽ DỪNG và liệt kê bài chưa phân loại (không được để "Khác").
 CLASSIFY_4D = {
+    "1840": "bung",
+    "3076": "thankinh",
     "1402": "mat",
     "1403": "mat",
     "1404": "mat",
