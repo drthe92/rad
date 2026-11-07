@@ -1869,3 +1869,5 @@
 - 2026-11-07: append 2 gap mới **1454** (RION ở trẻ) + **1455** (đục TTT do xạ ở trẻ RB); verify PASS 6/6, 1015 bài.
 - 2026-11-07: viết **1766** (first bite syndrome) — 3 ảnh CC BY 4.0, 1016 bài/1016 card; **hủy 1771** (RICS) vì trùng bài **260**, đánh dấu gộp 1771/1772/1770 (trùng 260/093/263).
 - 2026-11-07: BACKLOG còn cảnh báo trùng ID **1759** (thai trong cơ tử cung) và **1769** (cổ đông cứng/FONA) — cần đổi ID trước khi viết.
+- 2026-11-07: viết **1775** (VAD: 1–2/100.000/năm, V2–V3, liềm T1 fat-sat, CTA thì muộn, V4→SAH; 3 ảnh CC BY/CC BY-NC-ND) và **1776** (VIDD: mỏng 6%/ngày, HR 0,69/10%, TF 15–30%, DTF AUC 0,85; 4 ảnh CC BY/CC BY-NC-ND).
+- 2026-11-07: flip #1882/#1883 → xong; append #1966 (1849 liệt cơ hoành một bên) + #1967 (1850 siêu âm cơ hoành ở trẻ) — đã check_duplicates.
