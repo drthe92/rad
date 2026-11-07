@@ -336,6 +336,8 @@ certainty: tong-hop-y-van
 - [1795 – Xuất huyết & vi chảy máu trong moyamoya ở trẻ: SWI/T2*, EDAS sớm ≤ 3 tháng, aspirin & theo dõi xuất huyết muộn 19 năm](../1795-xuat-huyet-vi-chay-mau-moyamoya-o-tre/lesson.md) *(mới — nối 681/1782/660)*
 - [1784 – CHS sau tái thông moyamoya ở trẻ: ASL/CTP trước–sau, ΔCBF > 43,48, phân biệt xuất huyết – nhồi máu – động kinh](../1784-hoi-chung-tuoi-mau-qua-muc-sau-tai-thong-moyamoya/lesson.md) *(mới — nối 1780/1782/1795)*
 - [1785 – Động kinh sau tái thông moyamoya ở trẻ: cơn sớm 5,0%, nhồi máu sau mổ OR 12,89, EEG "re-build up", 23,44% vẫn còn cơn](../1785-dong-kinh-sau-tai-thong-moyamoya-o-tre/lesson.md) *(mới — nối 1784/1780/1795)*
+- [1786 – VGAM ở sơ sinh: 1/25.000 ca sinh, tử vong không điều trị 80–100%, suy tim cung lượng cao, SS-MD, nút mạch theo thì](../1786-di-dang-tinh-mach-galen-so-sinh/lesson.md) *(mới — nối 746/745/216)*
+- [1787 – AVM não ở trẻ đã vỡ: ~50% xuất huyết não trẻ, tái xuất huyết cấp tới 32%, CT/CTA/DSA, SM-Supp, xạ phẫu & tái phát muộn](../1787-avm-nao-tre-da-vo/lesson.md) *(mới — nối 216/652/1786)*
 - [1797 – Vi chảy máu & hang mạch do xạ trị sọ ở trẻ: đọc SWI, Zabramski/MARS, 86,1% sau xạ medulloblastoma, khi nào mổ](../1797-vi-chay-mau-hang-mach-sau-xa/lesson.md) *(mới — nối 1795/204/261)*
 - [1423 – Độc tính methotrexate nội tủy ở trẻ ALL: viêm màng não hóa học, DNT, stroke-like 3–8 ngày, leucovorin & quá liều](../1423-doc-tinh-methotrexate-noi-tuy/lesson.md) *(mới — nối 494/1421/462)*
 - [662 – Bóc tách động mạch cổ ở trẻ & sau chấn thương cổ (Denver, CTA/MRA, chống huyết khối)](../662-boc-tach-dong-mach-co-o-tre/lesson.md) *(đã có)*

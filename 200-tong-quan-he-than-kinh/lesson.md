@@ -224,6 +224,8 @@ certainty: tong-hop-y-van
 - 211 – Đột quỵ thiếu máu não cấp: Dấu sớm NECT, ASPECTS, DWI/ADC & Tưới máu chọn lọc lấy huyết khối *(đã có — [bài học](../211-dot-quy-nao/lesson.md))*
 - 212 – Xuất huyết nội sọ (EDH, SDH, SAH, ICH) & Bảng diễn tiến 5 giai đoạn Hemoglobin trên MRI *(đã có — [bài học](../212-xuat-huyet-so-nao/lesson.md))*
 - 216 – Dị dạng mạch máu não (Phình mạch, AVM, Cavernoma) & Huyết khối xoang tĩnh mạch não (CVST: dấu empty delta)  *(đã có — [bài học](../216-di-dang-mach-CVST/lesson.md))*
+- 1786 – Dị dạng túi phình tĩnh mạch Galen ở sơ sinh (VGAM): **túi Markowski + shunt tốc độ cao**, suy tim cung lượng cao, **SS-MD ≥ 7 mm**, BNES 8–12, nút mạch theo thì *(mới — [bài học](../1786-di-dang-tinh-mach-galen-so-sinh/lesson.md))*
+- 1787 – AVM não ở trẻ đã vỡ: **CT → CTA → DSA**, khi nào mổ lấy máu tụ vs trì hoãn cắt AVM, **SM/SM-Supp**, xạ phẫu 18–20 Gy và theo dõi tái phát 14–26 năm *(mới — [bài học](../1787-avm-nao-tre-da-vo/lesson.md))*
 
 **213–215 & 217–219 — U não, Nhiễm trùng, Mất myelin & Thoát vị não**
 - 213 – U não trong trục & Khối ngấm thuốc vòng: GBM vs. Di căn vs. Lymphoma vs. Áp-xe *(đã có — [bài học](../213-u-nao/lesson.md))*
