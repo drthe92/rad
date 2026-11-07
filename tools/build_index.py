@@ -262,6 +262,8 @@ RECLASS = {
     "276": "mat",
     # bài vật lý/protocol liều (đi cùng nhóm 932/935/937)
     "9420": "canthiep", "9421": "canthiep", "1679": "msk", "3054": "nhi", "3023": "dauco", "3046": "dauco", "3050": "dauco",
+    # 972 là chủ đề chẩn đoán/hình ảnh tuyến giáp – trung thất (không phải can thiệp) → Đầu Cổ
+    "972": "dauco",
 }
 # Bài "Vú & SPK" cũ → tách: Vú (breast) vs Sản – Phụ khoa
 BREAST_TOKENS = {"vu", "num-vu", "hach-nach", "ho-nach", "tuyen-vu", "implant-nguc"}
