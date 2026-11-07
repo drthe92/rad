@@ -1,0 +1,26 @@
+# Nguồn gốc — 6158 Protein-losing enteropathy do bạch huyết ở trẻ
+
+> Quét 2026-11-07: Europe PMC (`FIG:"protein-losing enteropathy" AND OPEN_ACCESS:Y AND (lymphatic OR lymphangiectasia)`, `TITLE:"protein-losing enteropathy" AND lymphatic`). Đọc **full text** bản OA, đối chiếu **PMCID + khối license** của bài gốc (không tin metadata trung gian). Không scrape Radiopaedia; AuntMinnie chỉ dẫn link.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | *Arch Plast Surg* 2026 (Europe PMC) | **Peripheral Lymphatic Shunts for Protein-Losing Enteropathy in a Child with THSD1 Mutation: A Case Report** (**PMC13461259**): bé trai **7 tuổi**, đột biến **THSD1**, phù bạch huyết hai chân + PLE; albumin **1,5–2,0 g/dL**, protein toàn phần **5,1–5,5 g/dL**, **A1AT 138,7–195,6 mg/dL** (bình thường **< 27**), IgG **593,5 → 385,9 mg/dL**; LVA + LNVA → albumin **1,5 → 3,2 g/dL**, A1AT bình thường hóa; **tái phát sau 3 năm** sau nhiễm hô hấp trên | https://pmc.ncbi.nlm.nih.gov/articles/PMC13461259/ | **CC BY 4.0** (Europe PMC `cc by`) | `images/6158_ple-bach-huyet_Lymphoscintigraphy_PMC13461259-f5.jpg` |
+| 2 | *Ann Pediatr Cardiol* 2026 (Europe PMC) | **Protein-losing enteropathy after the Fontan procedure – A cardiologist's and gastroenterologist's perspective** (**PMC13331498**): PLE gặp **~12%** bệnh nhân Fontan; sống 5 năm từ cơn đầu **88%**; định nghĩa **A1AT spot > 54 mg/dL**, **clearance > 27 mL/24h** (không tiêu chảy) / **> 56 mL/24h** (có tiêu chảy); **albumin < 3,5 g/dL**, **protein toàn phần < 6 g/dL**; chế độ **protein ~2 g/kg/ngày, mỡ < 25% năng lượng + MCT**; ghép tim: PLE hết **~1 tháng**, tử vong chu phẫu **tới 40%** ở một số đoàn hệ | https://pmc.ncbi.nlm.nih.gov/articles/PMC13331498/ | **CC BY-NC-SA 4.0** | không dùng ảnh |
+| 3 | *J Clin Med* 2024 (Europe PMC) | **Constrictive Pericarditis and Protein-Losing Enteropathies: Exploring the Heart–Gut Axis** (**PMC11396116**): cơ chế **ứ trệ bạch huyết do tăng áp lực tĩnh mạch** → **lymphangiectasia ruột thứ phát**; nội soi viên nang thấy **phù niêm mạc, đường trắng như lược**; **cắt màng ngoài tim** có thể đảo ngược PLE | https://pmc.ncbi.nlm.nih.gov/articles/PMC11396116/ | **CC BY 4.0** | `images/6158_ple-bach-huyet_So-do_PMC11396116-f2.jpg` |
+| 4 | *Diagnostics* 2025 (Europe PMC) | **Protein-Losing Enteropathy Demonstrated by 99mTc-ASC Lymphoscintigraphy** (**PMC11898979**): nữ **30 tuổi**, phù + tiêu chảy nhẹ **8 tháng**, albumin thấp; **99mTc-ASC** tiêm dưới da; planar 1,5h/5h thấy **dermal backflow** và phóng xạ bụng; **SPECT/CT** định vị phóng xạ trong **đại tràng lên và ngang**, hạch quanh tụy, **dày thành ruột** trên CT; kết luận **tắc dòng ra bạch huyết** gây trào ngược vào ruột; bệnh nhân chọn chế độ ăn giàu protein–ít mỡ | https://pmc.ncbi.nlm.nih.gov/articles/PMC11898979/ | **CC BY 4.0** | `images/6158_ple-bach-huyet_SPECT-CT_PMC11898979-f2.jpg` |
+| 5 | *World J Nucl Med* 2025 (Europe PMC) | **A Normalized Spot-Sample Estimation of α-1 Antitrypsin Clearance: The Search for a Simpler Test in Protein Losing Enteropathy** (**PMC12774530**): so sánh **A1AT spot** với clearance 24 giờ; hình scintigraphy cho thấy rò protein ở **quai hỗng tràng** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12774530/ | **CC BY** (Thieme) | không dùng ảnh |
+| 6 | *Front Pediatr* 2026 (Europe PMC) | **Genomic diagnosis and multisystem phenotyping in pediatric congenital analbuminemia** (**PMC13269094**): **giảm albumin máu bẩm sinh** là bắt chước của PLE — albumin rất thấp nhưng **không mất protein qua ruột/thận** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13269094/ | **CC BY 4.0** | không dùng ảnh |
+| 7 | Repo nội bộ | **1822** (DCMRL), **1823** (trametinib RAS/MAPK), **1808** (sirolimus), **6157** (tràn dưỡng chấp màng tim), **1839** (chylothorax sau ghép gan), **1762** (hội chứng ruột ngắn) | ../1822-dcmrl-bach-huyet/lesson.md | nội bộ | — |
+
+## Ghi chú giấy phép
+- **2 ảnh CC BY 4.0** (PMC13461259, PMC11396116) và **1 ảnh CC BY 4.0** (PMC11898979, MDPI): dùng được, ghi nguồn, giữ nguyên nhãn và số liệu.
+- **Không dùng ảnh** của PMC13331498 (CC BY-NC-SA 4.0) để tránh phải chia sẻ lại toàn bộ bài; chỉ trích **số liệu**.
+- **Tên tác giả KHÔNG ghi**: attribution dùng **tạp chí + năm + PMCID** (đối chiếu Europe PMC ngày 2026-11-07).
+
+## Phản biện / giới hạn nguồn
+- **Không có thử nghiệm ngẫu nhiên** cho điều trị PLE bạch huyết; mọi phác đồ (MCT, octreotide, sirolimus, midodrine, corticoid, heparin) là **ca lẻ/ý kiến chuyên gia**. Bài **không đưa liều thuốc** vì nguồn đã đọc không có bảng liều đủ tin cậy.
+- **Ngưỡng A1AT** lấy từ **định nghĩa PLE sau Fontan** (PMC13331498); ở trẻ **không có Fontan**, ngưỡng có thể khác giữa các phòng xét nghiệm — bài ghi rõ "ngưỡng thực hành", không phải chuẩn duy nhất.
+- **Ca THSD1 (PMC13461259)** là **ca đơn lẻ**, có **tái phát sau 3 năm**; không dùng để suy ra tỉ lệ thành công của LVA/LNVA.
+- **Ca 30 tuổi (PMC11898979)** là **người lớn**, chỉ dùng để dạy **hình ảnh và cơ chế**, không đại diện cho PLE nhi khoa.
+- **Số liệu "12% PLE sau Fontan"** là của **bệnh nhân Fontan**, không phải PLE nhi khoa nói chung — bài ghi rõ bối cảnh.
+- **Tử vong chu phẫu 40% khi ghép tim** là **dao động giữa các đoàn hệ**, không phải tỉ lệ chung; nguồn gốc là tổng quan, không phải dữ liệu tiền cứu.
