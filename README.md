@@ -804,6 +804,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | ID | Bài | Tags 4 chiều |
 |---|---|---|
 | 700 | [Tổng quan Đầu Cổ](700-head-neck-overview/lesson.md) | Tổng quan, bảng DDx |
+| 1766 | [First bite syndrome: đau co thắt **đúng miếng ăn đầu** rồi giảm khi nhai tiếp; **6,3%** sau cắt tuyến mang tai, **8,45%** sau mổ khoang mang tai, **8,5%** sau mổ lỗ tĩnh mạch cảnh; khởi phát **2–6 tuần**, cơn **3–10 giây**; tự hết **6–20%**, đỡ **69–82%**, đau mạn **15–18%**; botulinum toxin A **≥ 40 U: 8/8** cải thiện, hết đau **38,1%** ở **12,1 tháng**; **không khối = FBS**, có khối/dây dày/ADC tối = tái phát](1766-first-bite-syndrome/lesson.md) | `pattern:dau-mot-ben` `pattern:dau-khi-an` `pattern:mat-thong-cam` `pattern:bien-chung-sau-mo` `pattern:khong-khoi` `vung:dau-co` `vung:tuyen-mang-tai` `vung:mach-co-dau-co` `protocol:MRI` `protocol:CT` `protocol:loai-tru-tai-phat` |
 | 710 | [Mũi xoang OMC](710-sinonasal-ct-anatomy/lesson.md) | `pattern:mui-xoang` |
 | 730 | [Cổ sâu](730-deep-neck-infections/lesson.md) | `pattern:nhiem-trung-co` |
 | 800 | [Tổng quan Tim mạch](800-cardiovascular-overview/lesson.md) | Tổng quan, bảng DDx |
