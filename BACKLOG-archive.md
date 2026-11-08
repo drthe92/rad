@@ -1912,3 +1912,5 @@
 - 2026-11-07: viết **945** (port-a-cath/CVC: nhiễm 3–4%, CRBSI 13,63%, huyết khối 1,17%, pinch-off 0,88% vs 0%; DTP ≥ 2 giờ; 4 ảnh CC BY/BY-NC/BY-NC-ND) và **1789** (CMV phổi ở người ghép: nhiễm 49,99%/bệnh 13,3%, tử vong 30–50%; nốt nhỏ 47% vs PJP 9%, AUC 0,769; BAL PCR dương khi máu âm; 4 ảnh + composite CC BY/BY-NC) — verify PASS 6/6, 1036 bài/1036 card.
 - 2026-11-07: viết 1791 (ung thư vú nam: 2 ảnh CC BY 4.0 từ PMC7028902) + 1790 (bùng phát HBV sau hóa trị: 2 ảnh PMC12361689 CC BY-NC-SA + PMC9400034 CC BY).
 - 2026-11-07: verify PASS 6/6, 1038 bài/1038 card; flip #1886/#1887 → xong; append 3116 (Krukenberg) + 3117 (bảo tồn sinh sản) — đã check_duplicates.
+- 2026-11-08: viết 1792 (lách to/giảm tiểu cầu do oxaliplatin) + 1793 (FNH-like ở trẻ sau hóa trị/HSCT); 2 ảnh gốc + 1 composite, CC BY/CC BY 4.0; verify PASS 6/6.
+- 2026-11-08: flip #1888/#1889 → xong; append #1978 (CASH, ID 1859) + #1979 (viêm tụy do asparaginase, ID 6171) — đã check_duplicates.
