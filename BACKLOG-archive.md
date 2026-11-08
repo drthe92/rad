@@ -1998,3 +1998,5 @@
 - 2026-11-08: flip #1864/#1901 → xong; append #2010/2011 (3118 cai ống CCHS, 3119 opioid).
 - 2026-11-08 (worker): viết **1884** (VSR sau NMCT: 51,9% tử vong 30 ngày, Qp/Qs ≥ 1,5, mổ ≥ 8 ngày OR 0,156; 2 ảnh siêu âm CC BY 4.0) và **3086** (CAUTI ở trẻ: ngưỡng 10³/10⁵/5×10⁴, 5 ngày + time-out; ảnh ứ mủ + áp-xe CC BY 4.0); verify PASS 6/6, push OK.
 - 2026-11-08: append 2 khoảng trống đã check_duplicates — **1887** (vỡ thành tự do/phình giả, nối 1884) và **3096** (van niệu đạo sau, nối 3086).
+- 2026-11-08: viết 1931 (thai kỳ sau UAE) — PAS 16,3%/PPH 24%/AMH 0,8 vs 2,08; verify PASS 6/6, 1077 bài.
+- 2026-11-08: flip #1903 (1931) và #1902 (3085 — bài đã có, chỉ flip); không append mục mới vì hàng chờ còn 128.
