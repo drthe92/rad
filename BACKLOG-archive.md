@@ -2000,3 +2000,5 @@
 - 2026-11-08: append 2 khoảng trống đã check_duplicates — **1887** (vỡ thành tự do/phình giả, nối 1884) và **3096** (van niệu đạo sau, nối 3086).
 - 2026-11-08: viết 1931 (thai kỳ sau UAE) — PAS 16,3%/PPH 24%/AMH 0,8 vs 2,08; verify PASS 6/6, 1077 bài.
 - 2026-11-08: flip #1903 (1931) và #1902 (3085 — bài đã có, chỉ flip); không append mục mới vì hàng chờ còn 128.
+- 2026-11-08: viết **1800** (FES: 4,3%/5,4%, mỡ −50…−97 HU, starfield) + **3088** (lymphocele: 0,6–38%, hút tái phát 59%, cửa sổ phúc mạc); 6 ảnh CC BY/CC BY-NC-ND, verify 6/6, push OK.
+- 2026-11-08: flip 1879/1209 → xong; append 2014 (3122 tắc TM thận ghép) + 2015 (3123 tắc mạch khí y sinh).
