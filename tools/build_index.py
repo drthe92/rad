@@ -52,6 +52,8 @@ CLASSIFY_4D = {
     "3076": "thankinh",
     "3079": "nhi",
     "3084": "bung",
+    "1884": "tim",    # thủng vách liên thất sau NMCT cấp
+    "3086": "nhi",    # CAUTI ở trẻ
     "1928": "vuspk",   # áp-xe cơ chậu ở thai phụ (sản khoa)
     "1930": "vuspk",   # sỏi mật không biến chứng ở thai phụ (sản khoa)
     "1871": "vuspk",
