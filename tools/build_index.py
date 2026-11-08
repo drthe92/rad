@@ -50,6 +50,7 @@ CLASSIFY_4D = {
     "1842": "tim",
     "6162": "tim",
     "3076": "thankinh",
+    "1928": "vuspk",   # áp-xe cơ chậu ở thai phụ (sản khoa)
     "1871": "vuspk",
     "1402": "mat",
     "1403": "mat",
