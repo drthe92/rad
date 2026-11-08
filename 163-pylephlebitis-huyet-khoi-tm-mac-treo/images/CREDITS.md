@@ -12,6 +12,7 @@
 | `163_MVT_CT_PMC11420455.jpg` | Lin H et al., *Int J Surg Case Rep* 2024, PMC11420455 Fig. 3 | CC BY-NC-ND 4.0 | CT: huyết khối tĩnh mạch cửa + tĩnh mạch mạc treo; giữ nguyên bản |
 | `163_MVT_CT-theo-doi_PMC11420455.jpg` | Lin H et al., *Int J Surg Case Rep* 2024, PMC11420455 Fig. 5 | CC BY-NC-ND 4.0 | CT kiểm tra: huyết khối còn tồn tại, có dòng đi vòng; giữ nguyên bản |
 | `163_MVT_CT_PMC12701568.jpg` | Yasin S et al., *J Surg Case Rep* 2025, PMC12701568 Fig. 1 | CC BY 4.0 | CT: huyết khối tĩnh mạch mạc treo trên + tĩnh mạch cửa (composite) |
+| `163_MVT-thanh-ruot_CT_PMC12078030-Fig10.jpg` | Inoue A et al., *Interv Radiol* 2025, PMC12078030 Fig. 10 | CC BY-NC 4.0 | MVT sau cắt khối tá tụy: khuyết thuốc SMV gần + bàng hệ SMV xa + dày thành ruột non phân lớp, mờ mạc treo |
 | `163_MVT-cua-so_CT_PMC12078030.jpg` | Inoue A et al., *Interv Radiol* 2025, PMC12078030 Fig. 1 | CC BY-NC 4.0 | Bốn cửa sổ CT: huyết khối tăng đậm độ, thấy rõ khi thu hẹp cửa sổ |
 | `163_MVT-tac-ruot_CT_PMC13226624.jpg` | Tan ZS et al., *Front Surg* 2026, PMC13226624 Fig. 3 | CC BY 4.0 | CT: thiếu máu ruột non từng đoạn do MVT |
 | `composite_163_pylephlebitis-vs-MVT.jpg` | Ghép Fig. 4 (PMC9914785) + Fig. 1 (PMC12701568) bằng `tools/make_composite.py` (letterbox nền đen, giữ aspect) | CC BY 4.0 (kế thừa) | Đối chiếu **pylephlebitis** vs **MVT** |

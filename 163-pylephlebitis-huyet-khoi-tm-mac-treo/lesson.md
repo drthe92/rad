@@ -29,13 +29,16 @@ certainty: tong-hop-y-van
 **B. Huyết khối tĩnh mạch mạc treo (mesenteric venous thrombosis – MVT):**
 - **Cơ chế:** huyết khối trong **tĩnh mạch mạc treo trên (superior mesenteric vein – SMV)** hoặc nhánh → ứ máu tĩnh mạch → **phù thành ruột, xuất huyết thành ruột, thiếu máu ruột** → hoại tử, thủng, tử vong nếu muộn.
 - **TẠI SAO hình ảnh lại như vậy:** tắc dòng ra tĩnh mạch làm **áp lực mao mạch – tĩnh mạch tăng** → **dày thành ruột**, **phù mạc treo dạng "lược" (comb sign)**, **dịch ổ bụng**, **khí trong thành ruột (pneumatosis)** và **khí trong tĩnh mạch cửa** khi đã hoại tử.
-- **Số liệu:** MVT chiếm **5–20% các ca thiếu máu ruột cấp (acute mesenteric ischemia – AMI)**; trong AMI, **tắc động mạch mạc treo trên 65%**, **tắc tĩnh mạch mạc treo 28%**, **thiếu máu không tắc mạch 7%** (PMC11420455, PMC12078030).
+- **Số liệu:** MVT chiếm **5–20% các ca thiếu máu ruột cấp (acute mesenteric ischemia – AMI)**; trong AMI, **tắc động mạch mạc treo trên 65%**, **tắc tĩnh mạch mạc treo 28%**, **thiếu máu không tắc mạch 7%** (PMC11420455, PMC12078030). Trong **đoàn hệ dân số Malmö 402 ca (tỉ lệ mổ tử thi 87%)**, MVT chiếm **16%** AMI và **mới mắc 2,7/100.000 người–năm**, **bằng nhau ở hai giới** (PMC8258716).
+- **Kết cục gộp 604 ca / 11 chuỗi hiện đại:** **cắt ruột 43,9%**, **can thiệp nội mạch 12,7%**, **tử vong 30 ngày 9,5%**; ở **4 chuỗi chẩn đoán 100% bằng CT**, tử vong chỉ **1,2–4,9%** → **chẩn đoán sớm bằng CT là yếu tố tiên lượng mạnh nhất** (PMC8258716).
 - **Điều trị:** **chống đông bằng heparin không phân đoạn hoặc heparin trọng lượng phân tử thấp làm giảm tử vong**; **mổ chỉ khi có viêm phúc mạc/hoại tử ruột**, không mổ dự phòng chỉ vì có huyết khối (PMC11420455).
 
 **Ngưỡng định lượng mấu chốt (Argon – cửa 1):**
 - **Kháng sinh: 4–6 tuần** sau khi có triệu chứng, hiệu chỉnh theo cấy; **không có khuyến cáo chống đông cho mọi ca pylephlebitis** — chỉ khi **huyết khối tiến triển trên hình ảnh lại** hoặc **sốt dai dẳng dù kháng sinh đúng** (PMC9914785).
 - **Pylephlebitis + áp-xe gan:** một chuỗi 15 ca cho thấy **áp-xe gan gặp 80%**, **14/15 được chống đông**, **2 tử vong**, **4 phải mổ** (PMC12565192).
 - **MVT:** chống đông sớm làm giảm tử vong; **mổ khi có viêm phúc mạc/hoại tử ruột** (PMC11420455).
+- **Thời gian chống đông trong MVT:** **6 tháng** khi có **yếu tố nguy cơ thoáng qua** (sau mổ, viêm tụy, thuốc tránh thai); **suốt đời** khi **tăng đông di truyền hoặc MVT vô căn**, vì **tái phát có tỉ lệ tử vong cao**; **DOAC hiệu quả tương đương kháng vitamin K với cùng tỉ lệ chảy máu** (PMC8258716).
+- **Yếu tố dự báo hoại tử ruột trên CT:** **quai ruột non giãn ≥ 2,0 cm** (OR có ý nghĩa sau hiệu chỉnh), **phù thành ruột non**, và **huyết khối lan vào tĩnh mạch cửa hoặc tắc hoàn toàn SMV** đều làm **tăng nguy cơ cắt ruột** (PMC8258716).
 - **Cửa sổ CT:** huyết khối cấp có **đậm độ cao hơn máu lưu thông** do hồng cầu cô đặc; **thu hẹp cửa sổ (window width) giúp thấy huyết khối rõ hơn** trên CT không cản quang (PMC12078030).
 
 ## 2. Mẫu hình + chẩn đoán phân biệt theo vị trí (Gamut)
@@ -114,6 +117,11 @@ flowchart TD
 - **Pylephlebitis sau mổ hoặc sau đặt catheter:** huyết khối có thể **vô khuẩn**; đừng mặc định nhiễm khuẩn nếu không có sốt/ổ nhiễm.
 - **Cạm bẫy "thỏa mãn tìm kiếm":** thấy huyết khối cửa là dừng — phải **tìm ổ nhiễm nguồn** (ruột thừa, túi thừa, viêm tụy, đường mật) và **đánh giá SMV/thành ruột** để không bỏ hoại tử ruột.
 - **Cạm bẫy mặt cắt:** khuyết thuốc do **dòng chảy/tạo ảnh** trong tĩnh mạch cửa thay đổi giữa các thì; huyết khối thật **cố định ở mọi thì** và thường có **viền thành mạch ngấm**.
+- **Cạm bẫy NẶNG NHẤT của MVT — độ dày thành ruột, mức phù mạc treo và lượng dịch ổ bụng KHÔNG phản ánh mức độ tổn thương ruột**: trong MVT, **thành ruột dày + mạc treo "mờ" + nhiều dịch** có thể chỉ là **ứ máu tĩnh mạch hồi phục được**, không phải hoại tử; quyết định mổ phải dựa vào **lâm sàng (viêm phúc mạc), lactate và dấu hiệu hoại tử (mất ngấm thành, khí trong thành)** chứ không dựa vào "thành dày bao nhiêu" (PMC12078030).
+- **Huyết khối lan vào tĩnh mạch cửa làm GIẢM nguy cơ nhồi máu xuyên thành** so với huyết khối **khu trú ở tĩnh mạch mạc treo xa** — vì tĩnh mạch cửa còn đường bàng hệ; ngược trực giác nhưng đã được ghi nhận, nên **đừng mổ chỉ vì huyết khối "lan xa"** (PMC12078030).
+
+![MVT: khuyết thuốc SMV + dày thành ruột phân lớp + mờ mạc treo](images/163_MVT-thanh-ruot_CT_PMC12078030-Fig10.jpg)
+*Hình — Nam 76 tuổi sau cắt khối tá tụy 4 ngày: **(a)** khuyết thuốc ở **SMV đoạn gần** (mũi tên), **(b)** SMV xa còn thông và đã có **bàng hệ** (đầu mũi tên); **(a–c)** **dày thành ruột non phân lớp** (sao) và **đại tràng lên** (chấm) kèm **mờ mạc treo**. Đây là ca **ứ máu tĩnh mạch nặng nhưng còn hồi phục** — minh họa cho cạm bẫy "mức dày thành không bằng mức hoại tử". Nguồn: Interventional Radiology 2025 (PMC12078030), **CC BY-NC 4.0**, ảnh nguyên bản.*
 
 ## 6. Tự lượng giá — Blind Quiz ngay trên trang tĩnh (không cần app)
 
