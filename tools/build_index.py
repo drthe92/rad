@@ -44,6 +44,8 @@ SPEC_OVERRIDE = {"6104": "nhi", "6105": "nhi", "6107": "nhi", "6108": "nhi", "61
 CLASSIFY_4D = {
     "1792": "bung",
     "1793": "nhi",
+    "1779": "nhi",
+    "1848": "canthiep",
     "1840": "bung",
     "1842": "tim",
     "6162": "tim",
