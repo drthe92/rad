@@ -53,6 +53,7 @@
 - **`index.html` là file SINH TỰ ĐỘNG** từ `tools/hub_template.html` + frontmatter các bài: chạy `python3 tools/build_index.py` sau khi thêm/sửa bài. **KHÔNG sửa tay `index.html`** — mọi sửa tay sẽ bị lượt sau ghi đè (đã xảy ra 2 lần: `faaea0b`, `daf3261`), và cổng `hub` của `verify_all.py` sẽ FAIL khi hai file lệch nhau. Muốn đổi giao diện (tabs/chips/filter/responsive) → sửa `tools/hub_template.html`.
 - Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn (Disclaimer y tế, ghi ở `lesson.md` + `index.html` footer).
 - Không bao giờ force-push.
+- **Push qua `tools/push.sh`** (không gọi `git push` trần): timeout 300s/lần, retry 3 lần với backoff 10/30/60s, ghi `tools/push_log.jsonl` (gitignore), in chẩn đoán khi thất bại. Thất bại 3 lần → **dừng, không commit chồng thêm**, kiểm tra mạng/GitHub status rồi chạy lại. Không bao giờ `--force`.
 
 ## Hub tra cứu (index.html, 4 kiểu tra cứu của bác sĩ CĐHA)
 1. **Mẫu hình + Vị trí (Pattern/Gamut)**: lọc theo tags `pattern:*` + `vung:*` (ví dụ: pattern:nốt + vùng:phổi).
@@ -66,7 +67,7 @@
 1. Quét TẤT CẢ nguồn trong bảng cho chủ đề → gom video/ca/bài vào `sources.md`.
 2. Viết `lesson.md` đúng khung 6 mục, tải ảnh (ghi giấy phép vào `images/CREDITS.md`), không tải được thì dẫn link.
 3. Viết/cập nhật Tổng quan chủ đề (bảng so sánh chẩn đoán phân biệt (differential diagnosis, DDx) là bắt buộc) + mục Bài liên quan chéo.
-4. Cập nhật index (dòng index + thẻ hub + tags 4 chiều) → commit + push sau MỖI đợt (SSH có sẵn). Không bao giờ force-push.
+4. Cập nhật index (dòng index + thẻ hub + tags 4 chiều) → commit + **`tools/push.sh`** sau MỖI đợt (SSH có sẵn). Không bao giờ force-push.
 5. Rà soát trùng lặp định kỳ mỗi khi xong một hệ cơ quan (organ system).
 
 ## Quy tắc số-nhóm
@@ -100,7 +101,8 @@ tools/
   make_composite.py   # Pillow: ghép lưới + dải đen attribution (chạy local)
   ensure_deps.py      # tải Pillow wheel từ PyPI, giải nén vào user site (không cần pip/root)
   selfcheck.py        # cổng cấu trúc/link/ảnh bài học (phủ cả ID 3 và 4 chữ số)
-  verify_all.py       # 4 cổng + parity index; ghi verify_log.jsonl / verify_report.json
+  verify_all.py       # 6 cổng + parity index; ghi verify_log.jsonl / verify_report.json
+  push.sh             # push có timeout/retry/log (tools/push_log.jsonl); không force
   lint_repo.py        # lint frontmatter/6 mục/bảng/ảnh
   check_credits_authors.py  # đối chiếu tên tác giả vs PMCID (Europe PMC)
   check_duplicates.py # chặn viết trùng ID/chủ đề

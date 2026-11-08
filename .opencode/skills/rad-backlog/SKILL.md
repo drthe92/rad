@@ -132,7 +132,7 @@ Chạy theo skill `rad-verify`:
 python3 tools/verify_all.py
 ```
 
-- Exit 0 + **5/5** (selfcheck, lint, mermaid, authors, index) → được commit. Dòng phải là
+- Exit 0 + **6/6** (selfcheck, lint, mermaid, authors, hub, index) → được commit. Dòng phải là
   `VERIFY PASS`, không phải `VERIFY PARTIAL PASS`.
 - FAIL → sửa và chạy lại; nếu không sửa được trong lượt → **không commit**,
   release khóa, báo lỗi cụ thể.
@@ -142,10 +142,12 @@ python3 tools/verify_all.py
 ```sh
 git add <đúng file của lượt>
 git commit -m "feat(<ID>,<ID>): <chủ đề ngắn>"
-git push origin master
+tools/push.sh
 ```
 
 Không `--force`, không `--no-verify`, không commit file ngoài phạm vi lượt.
+`tools/push.sh` tự timeout 300s/lần, retry 3 lần (10/30/60s), ghi `tools/push_log.jsonl`.
+Thất bại cả 3 lần → **dừng**, không commit chồng thêm; đọc chẩn đoán script in ra.
 
 ## 10. Sau commit
 
@@ -170,6 +172,7 @@ Không `--force`, không `--no-verify`, không commit file ngoài phạm vi lư�
 | Không tìm được ảnh hợp phép | Dẫn link hoặc vẽ sơ đồ CC0; không dùng ảnh license mơ hồ |
 | Author-check FAIL | Sửa tên theo PMCID hoặc bỏ tên; không xóa PMCID để né |
 | Verify FAIL không sửa kịp | Không commit, release, báo rõ cổng nào |
+| Push FAIL sau 3 lần | Dừng, không commit chồng; đọc `tools/push_log.jsonl` + chẩn đoán; kiểm tra mạng/githubstatus rồi chạy lại `tools/push.sh`; nghiêm cấm `--force` |
 | Hết mục `chờ viết` | Báo hoàn tất, không bịa chủ đề mới |
 
 ## Đo lệch giữa các lượt
@@ -187,7 +190,7 @@ luật. Không cần đọc cả file log.
 
 ```
 bài: 197 (Li-Fraumeni) + 929 (xơ hóa nang) — 2 ảnh/1 composite, CC BY 4.0
-verify: PASS 5/5 · 515 bài / 515 card · parity 0 · selfcheck warn 15 legacy
+verify: PASS 6/6 · 515 bài / 515 card · parity 0 · selfcheck warn 15 legacy
 backlog: flip #341/#340 → xong; append 2 mục (đã check_duplicates)
 còn lại: 110 mục chờ viết; ưu tiên kế tiếp #342 ...
 ```
