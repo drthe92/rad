@@ -50,6 +50,8 @@ CLASSIFY_4D = {
     "1842": "tim",
     "6162": "tim",
     "3076": "thankinh",
+    "3079": "nhi",
+    "3084": "bung",
     "1928": "vuspk",   # áp-xe cơ chậu ở thai phụ (sản khoa)
     "1930": "vuspk",   # sỏi mật không biến chứng ở thai phụ (sản khoa)
     "1871": "vuspk",

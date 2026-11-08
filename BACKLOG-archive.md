@@ -1990,3 +1990,5 @@
 - 2026-11-08: append 2 khoảng trống mới (3096 port-site hernia, 3097 gossypiboma) — đã check_duplicates exit 0.
 - 2026-11-08: viết **3081** (áp-xe cơ chậu ở trẻ: 28 ca/20 năm, 32,1% <5 tuổi, can thiệp ngoại 67,9%) + **3087** (TRAS: 1–3%, PSV>200 + tardus parvus, RI 0,71–0,73 nên RI bình thường không loại trừ), verify PASS 6/6, 1072 bài/1072 card; ảnh CC BY 4.0 (PMC12602614, PMC12293588, PMC11984333, PMC9217099, PMC12720216, PMC13147445).
 - 2026-11-08: flip #1208/#1855 → xong; append #2008 (3109 áp-xe cơ chậu lao ở trẻ) + #2009 (3111 huyết khối ĐM thận ghép cấp) — đã check_duplicates exit 0.
+- 2026-11-08: viết **3079** (CCHS: PARM 90%, PCO₂ > 50 mmHg/25% sleep, u mào thần kinh 3–5%) + **3084** (seeding: HCC 0,76%, EUS-TA 0,3%/13.238 ca) — 8 ảnh CC BY/BY-NC.
+- 2026-11-08: flip #1864/#1901 → xong; append #2010/2011 (3118 cai ống CCHS, 3119 opioid).
