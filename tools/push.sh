@@ -99,10 +99,11 @@ echo "  - trạng thái: $(git status -sb | head -1)" >&2
 echo "  - commit chờ: $(ahead_count)" >&2
 echo "  - object: $(git count-objects -vH | tr '\n' ' ')" >&2
 echo -n "  - SSH GitHub: " >&2
-if timeout 15 ssh -o BatchMode=yes -T git@github.com >/dev/null 2>&1; then
+ssh_out="$(timeout 15 ssh -o BatchMode=yes -T git@github.com 2>&1 || true)"
+if printf '%s' "$ssh_out" | grep -q 'successfully authenticated'; then
   echo "OK" >&2
 else
-  echo "LỖI/không kết nối được" >&2
+  echo "LỖI/không kết nối được (${ssh_out%%$'\n'*})" >&2
 fi
 echo "  - kiểm tra https://www.githubstatus.com/ nếu lỗi phía GitHub" >&2
 echo "  - log các lần thử: $LOG" >&2
