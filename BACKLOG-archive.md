@@ -1926,4 +1926,4 @@
 - 2026-11-08: viết **1871** (phồng/yếu thành bụng sau DIEP/TRAM: bulge 3,6–4,8% vs TRAM 16,0%, lưới giảm thoát vị OR 0,28 nhưng bulge OR 0,62, CT Valsalva 31 vs 24 mm/14–17% chỉ thấy khi gồng, Haddock 1–3); 3 ảnh gốc + 1 composite, CC BY 4.0.
 - 2026-11-08: flip #1893 → xong; append #1980 (seroma vùng cho vạt, ID 1950) + #1981 (ACNES, ID 1951) — đã check_duplicates; ghi trùng ID 1871 cho #1916.
 - 2026-11-08: viết **1847** (hẹp ruột do thiếu máu sau nút mạch: 8 ca KJR — 1 ổ 8/8, 57 ngày (14–144), 7,4 cm, thì TM > ĐM ≥ 15 HU 66,7%; 4 ảnh CC BY/CC BY-NC) + **1885** (viêm màng ngoài tim co thắt: 1,8% sau viêm, vôi hóa ≈ 1/3 ca mổ, Mayo e' ≥ 9 cm/s, CMR AUC 0,82; 3 ảnh CC BY 4.0).
-- 2026-11-08: flip #1136/#1231 → xong; append #1982 (NSAID/CMUSE, ID 1935) + #1983 (amyloid tim, ID 1886) — đã check_duplicates; verify PASS 6/6, 1045 bài/1045 card; bỏ ý định viết 1920 vì trùng phạm vi bài 163 (pylephlebitis & MVT).
+- 2026-11-08: flip #1136/#1231 → xong; append #1982 (NSAID/CMUSE, ID 1984) + #1983 (amyloid tim, ID 1886) — đã check_duplicates; verify PASS 6/6, 1045 bài/1045 card; bỏ ý định viết 1920 vì trùng phạm vi bài 163 (pylephlebitis & MVT).
