@@ -60,6 +60,8 @@ CLASSIFY_4D = {
     "6164": "dauco",  # u nhú đảo ngược tái phát sau mổ (mũi xoang, người lớn)
     "1900": "tim",    # bóc tách động mạch vành tự phát (SCAD)
     "1936": "bung",   # tụ máu bao cơ thẳng bụng (thành bụng)
+    "1948": "thankinh",  # co giật & động kinh sau huyết khối xoang tĩnh mạch não
+    "1854": "nhi",    # màng não tủy trước cùng & tam chứng Currarino ở trẻ
     "3086": "nhi",    # CAUTI ở trẻ
     "3089": "nhi",    # thiếu B12 sau ileocystoplasty (theo dõi chuyển hóa ở trẻ)
     "3090": "nhi",    # bacteriuria không triệu chứng ở trẻ có bể chứa ruột
