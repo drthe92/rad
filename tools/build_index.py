@@ -285,6 +285,7 @@ CLASSIFY_4D = {
     "6703": "nhi",
     "6704": "nhi",
     "6705": "nhi",
+    "3095": "canthiep",   # tổn thương ĐM đùi–chậu sau can thiệp nội mạch ở trẻ
 }
 
 # Rà tay 2026-11: bài Tai–Mũi–Họng nằm lẫn ở Mắt / Thần kinh → Đầu Cổ (TMH)

@@ -48,6 +48,7 @@ certainty: tong-hop-y-van
 - [1835 – Thiếu máu ruột sau nút mạch mạc treo: mạch tận dưới Treitz, thành mỏng như giấy, thiếu máu 4,7%](../1835-thieu-mau-ruot-sau-nut-mach/lesson.md) *(mới — nối 1834/1833/920)*
 - [1836 – Rò động–tĩnh mạch tạng: tĩnh mạch ngấm SỚM thì động mạch, plug/coil/stent phủ](../1836-ro-dong-tinh-mach-tang/lesson.md) *(mới — nối 1833/1819/939)*
 - [1848 – Nút mạch lách trong chấn thương: nút gần Type II (giữa DPA–GPA) **100%** thành công vs Type III **88%**; cứu lách **90,3%**, cắt lách sau nút **9,6%**, nhồi máu **5,7%**; nút mạch **87,1%** cứu lách vs mổ **32,1%**](../1848-nut-mach-lach-trong-chan-thuong/lesson.md) *(mới — nối 1833/1834/1836/1835/101)*
+- [3095 – Tổn thương ĐM đùi–chậu sau can thiệp nội mạch ở trẻ: cỡ sheath theo đường kính lòng mạch, CFA < 3 mm → OR 8,44, 70–90% huyết khối cải thiện bằng kháng đông](../3095-ton-thuong-dong-mach-dui-sau-can-thiep-noi-mach-tre/lesson.md) *(mới — nối 900/3064/6113)*
 - [934 – Sốc phản vệ do vỡ nang sán khi can thiệp](../934-soc-phan-ve-do-vo-nang-san/lesson.md) *(đã có)*
 - [933 – Sốc phản vệ & PC-AKI do thuốc cản quang](../933-an-toan-thuoc-can-quang/lesson.md) *(đã có)*
 - [944 – Nhiễm mảnh ghép & stent-graft động mạch chủ–chậu (VGEI): MAGIC 2016 (khí ≥ 7 tuần, dịch ≥ 3 tháng), SUVmax **không** dùng làm cắt điểm, tử vong 1 năm 43%, vá lại 0% vs 9,8%](../944-nhiem-stent-graft-dong-mach-chu-chau/lesson.md) *(mới — nối 938/939/942/1721)*

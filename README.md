@@ -869,6 +869,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 901 | [Tổng quan IR](901-ir-overview/lesson.md) | Tổng quan, bảng DDx |
 | 920 | [Nút mạch](920-vascular-embolization-gi-bleed/lesson.md) | `pattern:nut-mach` |
 | 925 | [Dẫn lưu đường mật trước phẫu thuật (PBD): ai cần, chọn đường nào, chờ bao lâu & biến chứng trên CT](925-dan-luu-duong-mat-truoc-phau-thuat/lesson.md) | `pattern:ong-mat-gian` `pattern:double-duct` `vung:duong-mat` `vung:tuy` `protocol:CT-4-thi` `protocol:MRCP` `protocol:PBD` |
+| 3095 | [Tổn thương động mạch đùi–chậu sau can thiệp nội mạch ở trẻ: biến chứng tại chỗ chọc **2–40%**, catheter chiếm **> 50%** lòng mạch hoặc **< 1,9 mm** khoảng trống → co thắt; **CFA < 3 mm** → mất mạch **OR 8,44**; **70–90%** huyết khối cải thiện bằng kháng đông, **16%** biến chứng mạn (chênh chi **≥ 2 cm**)](3095-ton-thuong-dong-mach-dui-sau-can-thiep-noi-mach-tre/lesson.md) | `pattern:tac-mach` `pattern:gia-phinh` `pattern:ro-dong-tinh-mach` `vung:dong-mach-dui` `vung:dong-mach-chau` `score:ABI` `protocol:Doppler` `protocol:CTA` |
 | 715 | [Nấm xoang](715-rhinosinusitis-fungal/lesson.md) | `pattern:viem-nam-xoang` |
 | 720 | [Cholesteatoma](720-temporal-bone-cholesteatoma/lesson.md) | `pattern:cholesteatoma` |
 | 740 | [Tuyến mang tai](740-salivary-gland-tumors/lesson.md) | `pattern:u-tuyen-bot` |
