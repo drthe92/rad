@@ -2047,3 +2047,6 @@
 - 2026-11-09: append #2031 (3129 IgA tái phát sau ghép) + #2032 (3130 viêm thận–bể thận thận ghép); verify PASS 6/6, push OK.
 - 2026-11-09: viết **425** DUSN & ấu trùng dưới võng mạc (giun thấy 25–40%; RNFL 80,25 vs 104,75 µm; CMT 205,5 vs 255,13 µm; hắc mạc p = 0,262; ERG âm; albendazole 400 mg/ngày × 30 ngày; laser dẫn đường 577 nm) — 4 ảnh + 1 composite CC BY 4.0/PD.
 - 2026-11-09: flip #270 (DUSN) → xong; #272 (toxocariasis theo dõi) đổi ID đề xuất sang **426**; append #2029 (3131 Horner ở trẻ).
+
+- 2026-11-09: viết **1900** (SCAD: 1–5% ACS, 22–43% MI nữ <50, lành 70–95%, tái phát 10–15%) + **1936** (RSH: 27,1% nút mạch, tử vong 90 ngày 22,0%, thoát cản quang OR 17,46); 6 ảnh CC BY/BY-NC-SA; verify PASS 6/6, push OK.
+- 2026-11-09: flip #1957/#1994 → xong; append #1937 (ACS bụng) + #1897 (co thắt vành/MINOCA) đã check_duplicates.
