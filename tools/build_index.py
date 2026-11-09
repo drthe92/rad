@@ -43,6 +43,7 @@ SPEC_OVERRIDE = {"6104": "nhi", "6105": "nhi", "6107": "nhi", "6108": "nhi", "61
 # build_index.py sẽ DỪNG và liệt kê bài chưa phân loại (không được để "Khác").
 CLASSIFY_4D = {
     "1984": "bung",   # màng ngăn ruột non do NSAID & CMUSE (tiêu hóa, người lớn)
+    "3096": "bung",   # BK polyomavirus nephropathy (ghép thận)
     "3097": "bung",   # hội chứng Zinner (tiết niệu – sinh dục nam)
     "1792": "bung",
     "1793": "nhi",
