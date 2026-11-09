@@ -98,6 +98,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 422 | [Giả u viêm](422-viem-gia-u/lesson.md) | `pattern:viem-hoc-mat` |
 | 423 | [Fistula xoang hang](423-fistula-xoang-hang/lesson.md) | `pattern:mach-xoang-hang` |
 | 424 | [Tuyến lệ](424-tuyen-le/lesson.md) | `pattern:tuyen-le` |
+| 425 | [DUSN (viêm thần kinh võng mạc cấp lan toả một bên) & ấu trùng di động dưới võng mạc: giun chỉ thấy 25–40%, RNFL 80,25 vs 104,75 µm, ERG âm; albendazole 400 mg/ngày × 30 ngày khi không thấy giun](425-dusn-au-trung-di-dong-duoi-vong-mac/lesson.md) | `pattern:viem-vong-mac` `pattern:ton-thuong-ngoai-vong-mac` `pattern:teo-thi` `pattern:mat-mot-ben` `vung:vong-mac` `vung:dich-kinh` `vung:mat` `vung:tre-em` `protocol:FA` `protocol:ICG` `protocol:OCT` `protocol:OCT-A` `protocol:ERG` `protocol:laser` `protocol:albendazole` |
 | 430 | [Đường thị giác](430-duong-thi-giac/lesson.md) | `pattern:viem-TK-thi` |
 | 431 | [U TK thị](431-u-than-kinh-thi/lesson.md) | `pattern:u-TK-thi` |
 | 432 | [Vùng yên](432-vung-yen/lesson.md) | `pattern:khoi-yen` |

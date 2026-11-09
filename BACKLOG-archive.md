@@ -2045,3 +2045,5 @@
 - 3092 (nhiễm mảnh ghép sau nắn ZMC ở trẻ): nẹp tự tiêu < 5%, tháo nẹp 7–33,8% (45% do nhiễm, 45% năm đầu), vòng sáng quanh vít + niêm mạc xoang > 2 mm; 2 ảnh (CC BY-NC/CC BY-NC-SA).
 - 2026-11-09: viết **3096** BK polyomavirus nephropathy (viruria 30–40% → DNAemia 10–20% → 1–10%; Banff pvl/ci class 1–3; suy ghép 5/30/50% lịch sử, 8% hiện đại; C4d TBM 81%); 3 ảnh CC BY/CC BY-NC.
 - 2026-11-09: append #2031 (3129 IgA tái phát sau ghép) + #2032 (3130 viêm thận–bể thận thận ghép); verify PASS 6/6, push OK.
+- 2026-11-09: viết **425** DUSN & ấu trùng dưới võng mạc (giun thấy 25–40%; RNFL 80,25 vs 104,75 µm; CMT 205,5 vs 255,13 µm; hắc mạc p = 0,262; ERG âm; albendazole 400 mg/ngày × 30 ngày; laser dẫn đường 577 nm) — 4 ảnh + 1 composite CC BY 4.0/PD.
+- 2026-11-09: flip #270 (DUSN) → xong; #272 (toxocariasis theo dõi) đổi ID đề xuất sang **426**; append #2029 (3131 Horner ở trẻ).
