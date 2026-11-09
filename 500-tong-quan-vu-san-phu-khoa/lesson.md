@@ -435,4 +435,6 @@ certainty: tong-hop-y-van
 
 - 1953 – Thai lưu muộn — quy trình tìm nguyên nhân: **1,9 triệu ca/năm**, **không rõ 25–40%**; **bánh nhau có ích 65%**, **autopsy 42%**, chỉ **21%** được mổ; loạt đủ tháng: dây rốn **72,9%**, hypercoiling **28,6%**, **"không rõ" 61,4%** khi chỉ **47,1%** có mô bệnh bánh nhau; CHAMPS: thiếu oxy **75%**, nhiễm **9%**, dị tật **9%**, phòng được **72%**; lấy mẫu **Amsterdam**, di truyền trên **da/cân**, **MRI sau chết** giữ bằng chứng dây rốn đã tự tháo khi sinh *(mới — [bài học](../1953-thai-luu-muon-tim-nguyen-nhan/lesson.md))* *(nối 1747/1673/1746)*
 
+- 1950 – Cố định buồng trứng sau tháo xoắn: tái phát sau bảo tồn **15%** chung, **tới 70%** trẻ trước dậy thì; sau cố định **18,4%**; **gấp dây chằng tử cung–buồng trứng 25,9% vs khâu dây chằng tròn 0/11** (p = 0,08); ở trẻ chỉ khâu dây chằng tròn tái phát **5/5**, vị trí khác **20%** (P = 0,027); đau kinh nặng **46% vs 10%** (aOR 4,11), sinh sản tương đương; thể tích **26,7 → 6,1 mL** sau 6 tháng; xoắn trước sinh cắt buồng trứng **8/8** *(mới — [bài học](../1950-co-dinh-buong-trung-sau-thao-xoan/lesson.md))* *(nối 1742/1632/1669/530)*
+
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

@@ -543,4 +543,6 @@ certainty: tong-hop-y-van
 
 - **1739** – Cai sonde tiểu ở trẻ & thử cai sonde (TWOC): nguy cơ **~5%/ngày**, **OR 1,07/ngày**; rút ngày hậu phẫu 1: đặt lại **19,1% → 2,2%**, lưu **3 → 1 ngày**, không tăng UTI; quy trình điều dưỡng giảm **28%** ngày sonde, PICU **4,8 → 0,8/1.000 ngày sonde**; **thể tích bàng quang (tuổi + 2) × 30 mL**, PVR **≤ 20 mL/≤ 10%**, chờ **6–8 giờ**; **kết nút 0,2/100.000**, sang chấn niệu đạo **13,4/1.000**; chẩn đoán CAUTI xem bài 3086 *(mới — [bài học](../1739-cauti-tre-va-cai-sonde/lesson.md))* *(nối 3086/1744/1702)*
 
+- 1951 – Hội chứng CHARGE: **1/15.000–17.000**, tử vong **~30% trước 5 tuổi**; hẹp mũi sau **31,5% hai bên / 15,4% một bên**; **ống bán khuyên 73,6%**, **ốc tai 49,8%**, **dây thần kinh ốc tai 49,1%**, **điếc tiếp nhận 56,9%**, **bất thường khứu giác 28,8%**, **liệt mặt 35,2%**; góc ốc tai **94,5° vs 114,0°**; hẹp lại sau mổ hẹp mũi sau **31,3%**, stent không giúp; cấy ốc tai **CAP +2,9 / IT-MAIS +11,9** *(mới — [bài học](../1951-hoi-chung-charge/lesson.md))* *(nối 1741/692/497/205)*
+
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

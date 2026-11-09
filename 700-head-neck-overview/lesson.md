@@ -124,4 +124,6 @@ certainty: tong-hop-y-van
 - 1766 – First bite syndrome: đau co thắt **đúng miếng đầu** sau mổ tuyến mang tai/khoang mang tai, khởi phát **2–6 tuần**, cơn **3–10 giây**; 6,3% sau cắt tuyến mang tai, 8,45% sau mổ khoang mang tai; tự hết 6–20%, botulinum ≥ 40 U **8/8** cải thiện; **không khối = FBS**, có khối/dây dày = tái phát *(mới — [bài học](../1766-first-bite-syndrome/lesson.md))*
 - 253 – Viêm xương nền sọ GIỮA không do tai (CSBO): clivus/lồi cầu, **CT âm tính không loại trừ**, MRI T1FS+Gd, sinh thiết sâu, kháng sinh ≥ 6 tuần *(đã có — dải 200, nội dung đầu cổ — [bài học](../253-viem-xuong-nen-so-giua-khong-do-tai/lesson.md))*
 
+- 1951 – CHARGE & ba tầng tổn thương đầu cổ: hẹp mũi sau (**31,5% hai bên, 15,4% một bên**), **bất sản ốc tai 49,8% / ống bán khuyên 73,6% / dây thần kinh ốc tai 49,1%**, **bất sản hành khứu giác 28,8%**; góc ốc tai **94,5° vs 114,0°**; hẹp lại sau mổ **31,3%**; tiêu chuẩn Blake **3 chính hoặc 2 chính + 2 phụ** *(mới — [bài học](../1951-hoi-chung-charge/lesson.md))* *(nối 1741/710/205/692)*
+
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
