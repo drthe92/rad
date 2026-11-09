@@ -78,6 +78,7 @@ certainty: tong-hop-y-van
 - [941 – Đốt nhiệt tuyến cận giáp: PTH washout, 4D-CT & bẫy “đốt nhầm nhân giáp”](../941-dot-tuyen-can-giap/lesson.md) *(mới)*
 - [710 – Mũi xoang & OMC](../710-sinonasal-ct-anatomy/lesson.md) *(đã có)*
 - [3066 – U nhú đảo ngược mũi xoang: **tăng xương khu trú = chân bám**, **cuộn não**, tái phát **19%** (mổ định hướng chân bám **4,2%**), ác tính **12% (9/73)** — **HU không tách u nhú với SCC (AUC 0,667)**](../3066-u-nhu-dao-nguoc-mui-xoang/lesson.md) *(mới — nối 710/715/3051)*
+- [6164 – U nhú đảo ngược tái phát sau mổ: **nang nhầy có thể che u**, MRI **4 mm** bỏ sót, phải **sinh thiết thành nang**; **ADC 0,99 vs 1,20 × 10⁻³ mm²/s (p = 0,026)**; **mất CCP 53,3% vs 20% (p = 0,128)** nên không loại trừ ung thư](../6164-u-nhu-dao-nguoc-tai-phat-sau-mo/lesson.md) *(mới — nối 3066/715/710/3051)*
 - [730 – Nhiễm trùng cổ sâu](../730-deep-neck-infections/lesson.md) *(đã có)*
 - [741 – Dị dạng mạch máu đầu–cổ ở trẻ: ISSVA, PHACE & LUMBAR](../741-di-dang-mach-mau-dau-co-o-tre/lesson.md) *(đã có)*
 - [743 – Chảy máu cam nặng/tái diễn ở trẻ: CTA, DSA & nút mạch](../743-chay-mau-cam-nang-o-tre/lesson.md) *(đã có)*
