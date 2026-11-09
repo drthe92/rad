@@ -2018,3 +2018,6 @@
 - Flip #1940/#1941 → xong; append #2018 (1958 TACO–TRALI–AFE) + #2019 (1959 TMA sau sinh HELLP/aHUS/TTP), đã check_duplicates exit 0.
 - 2026-11-09: viết **1454** (IOL sau phacolytic: 95,5% rãnh thể mi, 5,1% aphakia, đứt zonule 7,5%, IOP<21 83,3%; 3 ảnh CC BY 4.0) + **748** (răng sữa & mầm răng vĩnh viễn: lún tự mọc 68–78%, 52,6–54% di chứng mầm, dilaceration 16,7%; 3 ảnh + composite CC BY 4.0) — verify PASS 6/6, 1089 bài/1089 card.
 - Flip #1904 (đổi ID 1453→1454) / #1880 (748) → xong; append #2020 (1462 sinh trắc sau ghép giác mạc) + #2021 (752 Turner/MIH), đã check_duplicates exit 0.
+
+- 2026-11-09: viết **3089** (thiếu B12 sau ileocystoplasty: 21% ≤200 + 41% 201–300 pg/mL tại 7 năm; uống 250 µg thất bại 83%) + **3090** (ASB bể chứa ruột: 77%/100%, pyuria không chốt, ≥2 triệu chứng + sốt ≥38 °C). Ảnh: 2 CC BY + 1 CC BY + 1 CC BY-SA.
+- 2026-11-09: flip #1212/#1213 → xong; append #2022 (3091 thiếu sắt ở trẻ bể chứa ruột) + #2023 (3104 nhiễm nẹp cột sống ở trẻ) — đã check_duplicates.

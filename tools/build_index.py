@@ -55,6 +55,8 @@ CLASSIFY_4D = {
     "1884": "tim",    # thủng vách liên thất sau NMCT cấp
     "6163": "bung",   # viêm đĩa đệm + phình ĐMC nhiễm khuẩn (mạch bụng, người lớn)
     "3086": "nhi",    # CAUTI ở trẻ
+    "3089": "nhi",    # thiếu B12 sau ileocystoplasty (theo dõi chuyển hóa ở trẻ)
+    "3090": "nhi",    # bacteriuria không triệu chứng ở trẻ có bể chứa ruột
     "1928": "vuspk",   # áp-xe cơ chậu ở thai phụ (sản khoa)
     "1930": "vuspk",   # sỏi mật không biến chứng ở thai phụ (sản khoa)
     "1871": "vuspk",
