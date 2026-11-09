@@ -120,6 +120,7 @@ certainty: tong-hop-y-van
 - [1430 – ICANS: độc tính thần kinh sau CAR-T (MRI thường bình thường, ICE/ASTCT, corticoid là trục, tocilizumab không dùng đơn độc)](../1430-icans-doc-tinh-than-kinh-sau-car-t/lesson.md) *(mới — nối 1423/211/1659)*
 - [1440 – MNT: parkinsonism MUỘN sau CAR-T BCMA (6% CARTITUDE-1 · 1% CARTITUDE-4; MRI bình thường 4/5; dịch não tủy 42/µL; corticoid vô hiệu, hóa trị nội tủy 3/5 hồi phục)](../1440-mnt-parkinsonism-sau-car-t-bcma/lesson.md) *(mới — nối 1430/1659/211)*
 - [209 – Bệnh chất trắng do độc chất (heroin "chasing the dragon", metronidazole, 5-FU/capecitabine)](../209-benh-chat-trang-do-doc-chat/lesson.md) *(mới — nối 206/215/1421)*
+- [3101 – Hội chứng CHANTER (opioid): phù tạm thời tiểu não + hải mã + nhân nền hạn chế khuếch tán; não úng thủy do xóa não thất IV; DWI đảo ngược 3 ngày–1 tháng, phân biệt HIE/OAS](../3101-hoi-chung-chanter-opioid/lesson.md) *(mới — loạt 6 ca gốc + 3 ca KJR + SWI xuất huyết tiểu não; nối 209/211/3034)*
 - [211 – Đột quỵ não](../211-dot-quy-nao/lesson.md) *(đã có)*
 - [1712 – Trousseau thể ĐỘNG MẠCH / NBTE: DWI nhiều lãnh thổ + vegetate vô khuẩn, TEE (không phải TTE), enoxaparin 3,4% vs warfarin 16,0% tái phát](../1712-trousseau-dong-mach-nbte/lesson.md) *(mới — nối 1693/211)*
 - [212 – Xuất huyết sọ](../212-xuat-huyet-so-nao/lesson.md) *(đã có)*
