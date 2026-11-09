@@ -2067,3 +2067,5 @@
 - 2026-11-09: flip 7 mục đã có bài (3085/1931/1454/1800/748/6163/1886); append #2035 (1940 sỏi mật sót), #2036 (751 viêm xương hàm).
 - 2026-11-09: viết **3100** (quản lý ruột sau ARM) — Krickenbeck, ARM index, thụt 22 mL/kg, TRD 3,1 cm; 4 ảnh CC BY 4.0; verify 6/6.
 - 2026-11-09: **#1224/3098 gộp — trùng 1719** (nang niệu rốn ở trẻ đã phủ đầy đủ); append 2 gap mới #2037/3132 (ACE) + #2038/3133 (MRI động học).
+- 2026-11-09: viết **3841** (chèn ép thần kinh tọa mạn) — 212 ca, giải ép 61,7%, cắt dây chằng cùng–ủng 79,4% vs 42,6%, CSA 56/45,6 mm²; 4 ảnh + 1 composite CC BY 4.0; verify 6/6.
+- 2026-11-09: viết **6156** (Mycoplasma <3 tuổi) — MP 17,2% viêm tiểu phế quản, tuổi trung vị 10 tháng, thâm nhiễm kẽ 66,4%, A2063G 90%; 2 ảnh CC BY/CC BY-NC; verify 6/6.
