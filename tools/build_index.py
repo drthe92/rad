@@ -60,6 +60,8 @@ CLASSIFY_4D = {
     "6164": "dauco",  # u nhú đảo ngược tái phát sau mổ (mũi xoang, người lớn)
     "1900": "tim",    # bóc tách động mạch vành tự phát (SCAD)
     "1936": "bung",   # tụ máu bao cơ thẳng bụng (thành bụng)
+    "1872": "bung",   # thoát vị Littre – túi thừa Meckel trong túi thoát vị
+    "3103": "bung",   # rò trực tràng – niệu đạo sau xạ trị tiền liệt tuyến
     "1739": "nhi",    # cai sonde tiểu & TWOC ở trẻ (tiết niệu nhi)
     "1953": "vuspk",  # thai lưu muộn — quy trình tìm nguyên nhân (sản khoa)
     "1948": "thankinh",  # co giật & động kinh sau huyết khối xoang tĩnh mạch não
