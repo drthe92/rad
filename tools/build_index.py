@@ -58,6 +58,8 @@ CLASSIFY_4D = {
     "1884": "tim",    # thủng vách liên thất sau NMCT cấp
     "6163": "bung",   # viêm đĩa đệm + phình ĐMC nhiễm khuẩn (mạch bụng, người lớn)
     "6164": "dauco",  # u nhú đảo ngược tái phát sau mổ (mũi xoang, người lớn)
+    "1900": "tim",    # bóc tách động mạch vành tự phát (SCAD)
+    "1936": "bung",   # tụ máu bao cơ thẳng bụng (thành bụng)
     "3086": "nhi",    # CAUTI ở trẻ
     "3089": "nhi",    # thiếu B12 sau ileocystoplasty (theo dõi chuyển hóa ở trẻ)
     "3090": "nhi",    # bacteriuria không triệu chứng ở trẻ có bể chứa ruột
