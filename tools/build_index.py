@@ -66,6 +66,7 @@ CLASSIFY_4D = {
     "3099": "msk",    # KHE người lớn & thể sâu (u mô mềm–mạch máu)
     "3100": "nhi",    # quản lý ruột sau mổ ARM (theo dõi chức năng nhi)
     "3101": "thankinh",  # hội chứng CHANTER (opioid, MRI não)
+    "3841": "msk",     # chèn ép thần kinh tọa mạn sau chấn thương/mổ
     "1928": "vuspk",   # áp-xe cơ chậu ở thai phụ (sản khoa)
     "1930": "vuspk",   # sỏi mật không biến chứng ở thai phụ (sản khoa)
     "1871": "vuspk",
