@@ -2016,3 +2016,5 @@
 - 2026-11-09: flip #1983/#1222 → xong; append #2018 (1888, theo dõi AL bằng ECV/strain) + #2019 (6175, bệnh cột sống do lọc máu) — đã check_duplicates.
 - 2026-11-09: viết **1956** (AFE: 6,0/100.000, failure-to-rescue 17,0% — 45,8% khi kèm ngừng tim + DIC, PAS aOR 10,01; 3 ảnh CC BY 4.0) + **1957** (hoại tử vỏ thận: reverse rim sign 12/12, 66,7% còn lọc máu 6 tháng; 4 ảnh CC BY/CC BY-NC-ND) — verify PASS 6/6, 1087 bài/1087 card.
 - Flip #1940/#1941 → xong; append #2018 (1958 TACO–TRALI–AFE) + #2019 (1959 TMA sau sinh HELLP/aHUS/TTP), đã check_duplicates exit 0.
+- 2026-11-09: viết **1454** (IOL sau phacolytic: 95,5% rãnh thể mi, 5,1% aphakia, đứt zonule 7,5%, IOP<21 83,3%; 3 ảnh CC BY 4.0) + **748** (răng sữa & mầm răng vĩnh viễn: lún tự mọc 68–78%, 52,6–54% di chứng mầm, dilaceration 16,7%; 3 ảnh + composite CC BY 4.0) — verify PASS 6/6, 1089 bài/1089 card.
+- Flip #1904 (đổi ID 1453→1454) / #1880 (748) → xong; append #2020 (1462 sinh trắc sau ghép giác mạc) + #2021 (752 Turner/MIH), đã check_duplicates exit 0.
