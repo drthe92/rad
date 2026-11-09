@@ -2010,3 +2010,5 @@
 - Flip #1214/#1218 → xong; append #2016 (1946 HEV sau ghép gan) + #2017 (1952 ung thư trong bướu giáp lạc chỗ), đã check_duplicates exit 0.
 - 2026-11-09: viết 1927 (thắt ĐM tử cung/ĐM chậu trong, 4 ảnh CC BY/CC BY-NC) + 1932 (MT & đông máu trong PPH, 4 ảnh CC BY/CC BY-NC-ND); verify PASS 6/6, 1083 bài/1083 card.
 - Flip #1210/#1211 → xong; append #1940 (AFE) + #1941 (hoại tử vỏ thận sau PPH), đã check_duplicates.
+- 2026-11-09: viết 1886 (amyloid tim: RASP > 1 Se 93/Sp 82, ECV > 0,40, Perugini 2–3, 30% ATTR kèm MGUS) + 6163 (viêm đĩa đệm + phình ĐMC nhiễm: 20% kèm nhau, vỡ kín 40%, tử vong 30 ngày 13%) — verify PASS 6/6, 6 ảnh CC BY.
+- 2026-11-09: flip #1983/#1222 → xong; append #2018 (1888, theo dõi AL bằng ECV/strain) + #2019 (6175, bệnh cột sống do lọc máu) — đã check_duplicates.
