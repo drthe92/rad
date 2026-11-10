@@ -2158,3 +2158,5 @@
 - Flip **#1963 → 3110**: suy giáp do xạ 23–53% (lớn gần đây ~40–50%), tích lũy NPC 39,4/49,1/54,7% ở 3/5/7 năm, Dmean > 28–30 Gy, V40 > 49%, VS40 < 2,12 cm³, mỗi Gy OR 1,11; trẻ sống sót: ung thư giáp 7,1% sau 9,7 năm, siêu âm 100% vs sờ 12,5%; 2 ảnh CC BY 4.0.
 - 2026-11-10: viết **1941** (suy tụy ngoại tiết sau mổ tụy/PERT: 68% cần PERT sau PD, liều tối ưu 75.000 PhU/bữa + 240.000/ngày) + **1942** (PPH muộn sau Whipple: sentinel bleed 45%, CTA chỉ 9% thoát cản quang, tử vong 22% vs 47%) — verify PASS 6/6, 1152 bài/1152 card.
 - 2026-11-10: flip #2039/#2040 → xong; append #2070 (1943 T3cDM) + #2071 (1944 afferent loop syndrome), đã check_duplicates.
+- 2026-11-10 · bài **1458** (RION ở trẻ): 225 bài phân tích gộp + đoàn hệ proton 89 BN/39 RION + 74 mắt u cơ vân; ngưỡng PENTEC 57/64 Gy, trẻ **> 53 GyEQD2**; MRI ngấm thuốc đối xứng "giả u"; 3 ảnh CC BY 4.0.
+- 2026-11-10 · bài **1459** (đục TTT do xạ sau RB): 184 mắt bảo tồn (16,8%, melphalan theo liều) + 208 mắt (8,2%) + 28 mắt xạ 45 Gy (57%); mổ sau 67–96 tháng, PCO 100%; 4 ảnh CC BY/NC.
