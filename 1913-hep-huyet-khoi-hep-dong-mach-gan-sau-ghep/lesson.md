@@ -11,7 +11,7 @@ certainty: tong-hop-y-van
 
 **Tags:** `pattern:hep-mach` `pattern:tac-mach` `pattern:huyet-khoi` `pattern:mat-song-toc-do` `pattern:giai-doan-toc-do` `pattern:nhoi-mau-gan` `pattern:giai-doan-ngam-thuoc` `vung:gan` `vung:dong-mach-gan` `vung:mieng-noi` `score:RI` `score:PSV` `score:SAT` `protocol:Doppler` `protocol:CEUS` `protocol:CTA-3-thi` `protocol:DSA` `protocol:nong-bong` `protocol:stent`
 
-**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — số liệu lấy từ 6 bài open-access đã đọc toàn văn: Delgado-Moraleda et al., *Insights Imaging* 2019 (PMC6694376, CC BY 4.0 — tổng quan hình ảnh có ảnh gốc); Chau et al., *Abdom Radiol* 2025 (PMC11794643, CC BY 4.0 — CEUS và dấu "water-hammer", "bright band"); Pons et al., *J Surg Case Rep* 2025 (PMC12494202, CC BY 4.0 — ca nguyên văn HAT sau ghép lần 3); Desai et al., *CVIR Endovasc* 2024 (PMC11032299, CC BY 4.0 — can thiệp trong/ngoài gan); Shaaban Abdelgalil et al., *CVIR Endovasc* 2025 (PMC12501083, CC BY 4.0 — meta PTA vs stent); Minciuna et al., *Transpl Int* 2023 (PMC10716223, CC BY 4.0 — giá trị Doppler định kỳ); Babikir et al., *Saudi Med J* 2024 (PMC11463573, CC BY-NC 4.0 — RI ngày 1 → ngày 5). Bài **không** có ca nguyên văn riêng của nhóm; ca 1–3 là ca nguyên văn của nguồn, ghi rõ Fig.
+**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — số liệu lấy từ các bài open-access đã đọc toàn văn: Delgado-Moraleda et al., *Insights Imaging* 2019 (PMC6694376, CC BY 4.0 — tổng quan hình ảnh có ảnh gốc); Chau et al., *Abdom Radiol* 2025 (PMC11794643, CC BY 4.0 — CEUS và dấu "water-hammer", "bright band"); Pons et al., *J Surg Case Rep* 2025 (PMC12494202, CC BY 4.0 — ca nguyên văn HAT sau ghép lần 3); Desai et al., *CVIR Endovasc* 2024 (PMC11032299, CC BY 4.0 — can thiệp trong/ngoài gan); Shaaban Abdelgalil et al., *CVIR Endovasc* 2025 (PMC12501083, CC BY 4.0 — meta PTA vs stent); Minciuna et al., *Transpl Int* 2023 (PMC10716223, CC BY 4.0 — giá trị Doppler định kỳ); Babikir et al., *Saudi Med J* 2024 (PMC11463573, CC BY-NC 4.0 — RI ngày 1 → ngày 5). **Bổ sung 2026-11-10:** *J Clin Med* 2025 (PMC12251336 — 532 ca, HAT 2,4%, 66,6% không triệu chứng, ghép lại 46,1%); *Rev Col Bras Cir* 2026 (PMC13142963 — 1.362 ca, 2,6%, 43,8% phát hiện trong 48 giờ, tử vong 11–60%); *Transpl Int* 2024 (PMC11692146 — kháng kết tập tiểu cầu aHR 0,18); 2023 (PMC9955988 — trẻ 6,75%, miệng nối < 2 mm). Bài **không** có ca nguyên văn riêng của nhóm; ca 1–3 là ca nguyên văn của nguồn, ghi rõ Fig.
 
 > **Câu hỏi gốc của bài:** bệnh nhân **ngày 3 sau ghép gan**, sốt nhẹ, **ALT/AST tăng vọt**, siêu âm **không thấy tín hiệu màu của động mạch gan**, nhưng phổ bắt được lại **có đỉnh tâm thu bình thường và đảo dòng tâm trương** — "trông như phổ bình thường". Vậy: **đây là huyết khối, là co thắt, hay là phổ giả? khi nào cần CEUS/CTA, khi nào chọc mạch can thiệp, và vì sao RI 0,85 ở ngày 1–3 KHÔNG được gọi là bệnh lý?**
 > **Điểm tựa:** sau ghép gan, **động mạch gan là nguồn máu DUY NHẤT của đường mật và của miệng nối đường mật** (động mạch của mảnh ghép không có tuần hoàn bàng hệ, vì các nhánh nối đã bị thắt khi lấy tạng). Vì thế **tắc động mạch = hoại tử đường mật/gan**, chứ không chỉ là "thiếu máu thoáng qua". Chẩn đoán dựa trên **ba con số phổ Doppler** (RI, PSV, SAT) + **nhìn trực tiếp chỗ hẹp**, và **luôn phải loại trừ bẫy sinh lý của 3 ngày đầu**.
@@ -36,6 +36,11 @@ certainty: tong-hop-y-van
 |---|---|---|
 | Biến chứng mạch máu sau ghép | **~7%** (người chết não), **~13%** (sống cho) (PMC6694376) | LDLT có nhiều miệng nối nhỏ → nguy cơ cao hơn |
 | HAT | **4–12%**; **> 50%** biến chứng động mạch; nguyên nhân hàng đầu gây mảnh ghép không chức năng (PMC6694376) | Biến chứng **nặng nhất**, thường phải can thiệp/mổ lại |
+| HAT trong các đoàn hệ gần đây | **2,4%** (532 ca; sớm **1,6%**, muộn **0,7%**) (PMC12251336); **2,6%** (35/1.362), **43,8%** phát hiện trong **48 giờ đầu** (PMC13142963) | HAT sớm vẫn là thể chính; **thời điểm phát hiện** quyết định cứu mảnh ghép |
+| HAT sớm KHÔNG triệu chứng | **66,6%** ca HAT sớm không có triệu chứng, chỉ phát hiện nhờ **Doppler thường quy** (PMC12251336) | Lịch Doppler là **biện pháp chẩn đoán**, không phải xét nghiệm theo triệu chứng |
+| HAT ở trẻ (ghép gan sống cho–nhận) | **6,75%** (27/400); **đường kính miệng nối < 2 mm** là yếu tố nguy cơ độc lập (PMC9955988) | Trẻ nhỏ = mạch nhỏ → **ngưỡng nghi thấp hơn**, dùng đầu dò tần số cao |
+| Tử vong và mất mảnh ghép do HAT | Tử vong **11–60%** (PMC13142963); **ghép lại 46,1%**, tử vong liên quan HAT **7,6%**, mất ghép **9,2%** ở theo dõi **86 tháng** (PMC12251336) | HAT vẫn là biến chứng **nguy hiểm nhất** của ghép gan |
+| Dự phòng bằng kháng kết tập tiểu cầu | **aHR 0,18**; ở nhóm có ≥ 1 yếu tố nguy cơ: **3,2% vs 21,3%** (p < 0,001), **không tăng chảy máu** (PMC11692146) | HAT không chỉ là "lỗi kỹ thuật" — **biến cố huyết khối có thể dự phòng** |
 | HAS tại miệng nối | **2–13%** (PMC6694376); trung vị chẩn đoán **3 tháng**, phần lớn trong **năm đầu** (PMC11794643) | Nghĩ tới khi men gan tăng mà không có nguyên nhân khác |
 | PSV tại chỗ hẹp | **> 200 cm/s** + aliasing (bộ ba Dodd, PMC6694376; PMC11794643) | Đo **đúng góc ≤ 60°**, lấy **phổ tại miệng nối** |
 | RI đoạn sau hẹp | **< 0,5** (PMC6694376; PMC11794643) | Kèm **SAT > 0,08 giây** |
@@ -159,6 +164,7 @@ flowchart TD
 | **HAT sớm < 7 ngày**, mảnh ghép chưa hoại tử | **Tiêu sợi huyết/nong bóng/stent** trong cửa sổ hẹp |
 | **HAT + nhồi máu rộng/hoại tử đường mật** | **Mổ lại hoặc ghép lại** (ca ghép lần 3 → ghép lần 4, PMC12494202) |
 | **Giả phình nhiễm** | **Kháng sinh + nút/stent phủ**, tránh sinh thiết qua túi |
+| **Nguy cơ cao HAT** (miệng nối làm lại, tái tạo động mạch, xơ gan không rõ nguyên nhân) | **Kháng kết tập tiểu cầu 3 tháng** — giảm HAT sớm **aHR 0,18**, không tăng chảy máu (PMC11692146) |
 
 ## 5. Biến thể bình thường và cạm bẫy
 
@@ -178,6 +184,7 @@ flowchart TD
 - **Phổ "water-hammer" bị đọc là bình thường:** đỉnh tâm thu vẫn cao nhưng **đảo dòng tâm trương + mất dòng liên tục** = **tắc đoạn xa**, không phải mạch khỏe (PMC11794643).
 - **Chỉ lấy phổ ở miệng nối:** hẹp có thể ở **đoạn trong gan** hoặc **nhiều điểm** — phải lấy **cả hai nhánh trong gan** và **chụp toàn trục** khi can thiệp.
 - **Chẩn đoán HAT chỉ vì mất màu:** mất màu do **góc 90°, PRF thấp, khí, béo** — luôn dùng **power Doppler/CEUS** trước khi kết luận.
+- **Men gan bình thường hoặc không triệu chứng không loại trừ HAT:** **66,6%** ca HAT sớm **không có triệu chứng** và chỉ được phát hiện nhờ **Doppler thường quy** (PMC12251336); ngược lại, **43,8%** ca được phát hiện **trong 48 giờ đầu** chính vì có lịch chụp (PMC13142963). Chẩn đoán dựa trên **lịch chụp**, không dựa triệu chứng.
 - **Bỏ sót HAT vì men gan chỉ tăng nhẹ:** HAT **muộn** có thể chỉ biểu hiện **hẹp đường mật/áp-xe tái phát**; luôn khảo sát mạch ở mọi ca hẹp đường mật không giải thích.
 - **"Satisfaction of search":** thấy HAT rồi **không đọc tĩnh mạch cửa/tĩnh mạch gan** — biến chứng mạch thường **đi đôi**.
 - **Nhầm nhồi máu với áp-xe:** cả hai đều giảm âm/giảm ngấm; **dấu dải sáng** + **giảm ngấm cả hai thì trên CEUS** = nhồi máu; **viền ngấm + khí** = áp-xe (PMC11794643).
