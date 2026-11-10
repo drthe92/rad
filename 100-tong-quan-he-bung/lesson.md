@@ -127,6 +127,8 @@ certainty: tong-hop-y-van
 | **Nang LỆCH BÊN sau–bên bàng quang + BẤT SẢN thận cùng bên** | Túi tinh cùng bên (paramedian retrovesical) | Zinner (nang túi tinh + tắc ống phóng tinh) · nang ống phóng tinh · ureterocele lạc chỗ · nang túi tinh đơn thuần | **Lệch bên + hố thận trống cùng bên + ống phóng tinh giãn = Zinner; 13/280.000 siêu âm sàng lọc, tuổi chẩn đoán ~29** | [3097](../3097-zinner-nang-tui-tinh-than-bat-san/lesson.md) |
 | **Nốt mới dọc đường kim sau sinh thiết/đốt u** (needle tract seeding) | Thành ngực/thành bụng/thành dạ dày – dọc đường kim | Di căn đường kim · tái phát tại chỗ · di căn mới · sẹo xơ/u hạt · áp-xe/tụ máu · di căn lỗ trocar | **Nốt ngấm thuốc đúng đường kim từ tạng ra da, xuất hiện 4 tháng–2,5 năm = seeding**; **sinh thiết HCC 0–5,1% (0,76% tại trung tâm), PEIT 1,9%, RFA 0–4,4%; EUS-TA gộp 0,3% trên 13.238 ca**; **PET âm không loại trừ u nhầy/nốt < 5 mm** | `3084`, `3061`, `121`, `910`, `1629` |
 
+| **Đã mổ Whipple, đau bụng từng đợt + ống tụy chính giãn** (PJ stricture) | Miệng nối tụy–hỗng tràng – ống tụy còn lại | Hẹp miệng nối PJ · u tái phát tại miệng nối · tắc quai tới · viêm tụy mỏm/PPAP · ổ dịch–giả phình quanh mỏm tụy · PEI đơn thuần | **MPD > 3 mm + thắt đột ngột tại miệng nối + teo nhu mô = hẹp** (MPD sau PD trung vị **4 mm** là bình thường); **hẹp có triệu chứng 0,9% (3/314), y văn < 3%**; **MRCP là khảo sát tốt nhất**, EUS rendezvous thất bại **tới 25%**, redo PJ rò **~5%**; **elastase thấp 98% sau PD → không dùng để chẩn đoán hẹp** | [1981](../1981-hep-mieng-noi-tuy-ruot-sau-whipple/lesson.md) |
+
 ## Ảnh minh họa & Blind Quiz (đọc nhanh 4 mẫu hình chủ chốt)
 > Ảnh trơn ở ngoài, dấu hiệu + chẩn đoán giấu trong thẻ bấm-mở. Mở trên Pages: tự đoán trước rồi bấm mở đáp án.
 
