@@ -2147,3 +2147,4 @@
 - 2026-11-10 · viết **9424** (chụp lại X-quang trẻ: +100% liều mỗi lần; mục tiêu nhi 5%/điều tra 7%; đa trung tâm 9,1%, LRRL 10,6%; trẻ 18,1% khối lượng nhưng 30,5% ảnh bị từ chối; 93,1% phim ngực từ chối vẫn đủ chẩn đoán; AI AUROC 0,97/0,95; 3 ảnh CC BY 4.0). **#1949 (1875) gộp trùng 1885+6157**; hàng chờ +2 (3844 dị vật mô mềm; 3845 bàn chân Charcot).
 - 2026-11-10: viết **1465** (IOP spike sau tiêm nội nhãn: 79,7% ≥ 25 mmHg, về 17,7 ± 6,5 ở phút 30, giải áp 23,52 vs 44,08) và **3104** (hoại tử xương thái dương sau xạ: 145 xương, 10 năm, 53,1/65,2 Gy, Ramsden 76/24% → 37%).
 - 2026-11-10: flip #1954/#1962 → xong; append #2067 (3115 mandibular ORN), #2068 (1468 RRD sau IVI) — đã check_duplicates; verify PASS 6/6 (1147 bài/1147 card).
+- 2026-11-10: viết **1869** (Boerhaave) — 5 ảnh CC BY/CC BY-NC/ND; verify 6/6; flip #1995, append #2069 (1870).
