@@ -117,6 +117,7 @@ certainty: tong-hop-y-van
 *Bảng tín hiệu T1W/T2W/FLAIR/DWI/ADC/SWI/ASL theo 5 mốc (siêu cấp 0–6 giờ → mạn > 3 tuần). **Chốt đọc nhanh:** DWI sớm nhất (siêu cấp), **ADC tối đạt đáy ~1 tuần rồi "giả bình thường hóa"** ở giai đoạn mạn; FLAIR dương muộn hơn DWI (bất tương hợp DWI–FLAIR dùng cho đột quỵ giờ thức giấc); ASL–DWI bất tương hợp (+) gợi vùng tranh tối–tranh sáng (penumbra). Nguồn: Bachtiar NA et al., Vasc Health Risk Manag 2024, PMC11608002, CC BY-NC 4.0.*
 
 ## Bài liên quan chéo
+- [1862 – Hội chứng Nelson sau cắt thượng thận hai bên: u corticotroph tiến triển ≥ 2 mm sau mổ, gộp 26% (22–31%), trung vị 4 năm (2 tháng–39 năm), MRI 3T động học, mổ → xạ phẫu → temozolomide](../1862-hoi-chung-nelson-sau-cat-thuong-than/lesson.md) *(mới — nối 1696/1748/1709/1752)*
 - [1843 – Bệnh rễ và đám rối thần kinh do xạ: dày lan tỏa trong trường xạ, không khối, Dmax đám rối cánh tay 60–66 Gy, RR 1,11/Gy](../1843-benh-re-dam-roi-than-kinh-do-xa/lesson.md) *(mới — nối 269/268/260)*
 - [1430 – ICANS: độc tính thần kinh sau CAR-T (MRI thường bình thường, ICE/ASTCT, corticoid là trục, tocilizumab không dùng đơn độc)](../1430-icans-doc-tinh-than-kinh-sau-car-t/lesson.md) *(mới — nối 1423/211/1659)*
 - [1440 – MNT: parkinsonism MUỘN sau CAR-T BCMA (6% CARTITUDE-1 · 1% CARTITUDE-4; MRI bình thường 4/5; dịch não tủy 42/µL; corticoid vô hiệu, hóa trị nội tủy 3/5 hồi phục)](../1440-mnt-parkinsonism-sau-car-t-bcma/lesson.md) *(mới — nối 1430/1659/211)*
