@@ -234,6 +234,7 @@ certainty: tong-hop-y-van
 - 216 – Dị dạng mạch máu não (Phình mạch, AVM, Cavernoma) & Huyết khối xoang tĩnh mạch não (CVST: dấu empty delta)  *(đã có — [bài học](../216-di-dang-mach-CVST/lesson.md))*
 - 1786 – Dị dạng túi phình tĩnh mạch Galen ở sơ sinh (VGAM): **túi Markowski + shunt tốc độ cao**, suy tim cung lượng cao, **SS-MD ≥ 7 mm**, BNES 8–12, nút mạch theo thì *(mới — [bài học](../1786-di-dang-tinh-mach-galen-so-sinh/lesson.md))*
 - 1787 – AVM não ở trẻ đã vỡ: **CT → CTA → DSA**, khi nào mổ lấy máu tụ vs trì hoãn cắt AVM, **SM/SM-Supp**, xạ phẫu 18–20 Gy và theo dõi tái phát 14–26 năm *(mới — [bài học](../1787-avm-nao-tre-da-vo/lesson.md))*
+- 3113 – Túi phình kèm theo AVM não ở trẻ: **18,5%** trẻ AVM có túi phình (feeding **38,8%** · intranidal **16,3%** · postnidal **42,9%**); **size ratio OR 1,66**, nidus nhỏ hơn ở ca vỡ (2,41 vs 3,93 cm); ở trẻ **postnidal OR 0,36** (bảo vệ), **dẫn lưu sâu OR 2,25**; **nút túi phình trước hoặc cùng thì**, túi mới **7–21 năm** sau xạ phẫu *(mới — [bài học](../3113-avm-nao-tre-tui-phinh-lien-quan-dong-chay/lesson.md))*
 
 **213–215 & 217–219 — U não, Nhiễm trùng, Mất myelin & Thoát vị não**
 - 213 – U não trong trục & Khối ngấm thuốc vòng: GBM vs. Di căn vs. Lymphoma vs. Áp-xe *(đã có — [bài học](../213-u-nao/lesson.md))*
