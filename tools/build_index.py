@@ -66,6 +66,8 @@ CLASSIFY_4D = {
     "1953": "vuspk",  # thai lưu muộn — quy trình tìm nguyên nhân (sản khoa)
     "1948": "thankinh",  # co giật & động kinh sau huyết khối xoang tĩnh mạch não
     "1949": "vuspk",     # thai kỳ sau huyết khối xoang tĩnh mạch não (sản khoa – thần kinh)
+    "1961": "vuspk",     # phù thai không do miễn dịch — quy trình tìm nguyên nhân (sản khoa)
+    "1962": "mat",       # rách thể mi chấn thương & góc rẽ (glôcôm)
     "1854": "nhi",    # màng não tủy trước cùng & tam chứng Currarino ở trẻ
     "3086": "nhi",    # CAUTI ở trẻ
     "3089": "nhi",    # thiếu B12 sau ileocystoplasty (theo dõi chuyển hóa ở trẻ)

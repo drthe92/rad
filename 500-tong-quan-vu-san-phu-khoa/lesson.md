@@ -437,4 +437,6 @@ certainty: tong-hop-y-van
 
 - 1950 – Cố định buồng trứng sau tháo xoắn: tái phát sau bảo tồn **15%** chung, **tới 70%** trẻ trước dậy thì; sau cố định **18,4%**; **gấp dây chằng tử cung–buồng trứng 25,9% vs khâu dây chằng tròn 0/11** (p = 0,08); ở trẻ chỉ khâu dây chằng tròn tái phát **5/5**, vị trí khác **20%** (P = 0,027); đau kinh nặng **46% vs 10%** (aOR 4,11), sinh sản tương đương; thể tích **26,7 → 6,1 mL** sau 6 tháng; xoắn trước sinh cắt buồng trứng **8/8** *(mới — [bài học](../1950-co-dinh-buong-trung-sau-thao-xoan/lesson.md))* *(nối 1742/1632/1669/530)*
 
+- 1961 – Phù thai không do miễn dịch (NIHF) — quy trình tìm nguyên nhân: **1:1.500–1:3.800**, **80–90%** phù thai là NIHF; 116 ca — **IUFD 56,9%**, đình chỉ **7,8%**, sinh sống **35,3%**, sống 1 tuổi **43,9%**; **tràn dịch màng phổi aOR 6,11**, chẩn đoán sớm **1 tuần aOR 1,20**, sinh muộn **1 tuần aOR 1,55**; **phù da ≥ 5 mm**, **MCA-PSV > 1,5 MoM**, **Hct < 30% → truyền máu**; sau karyotype còn **80% chưa rõ** → CMA **+4,9%**, panel RASopathy **7–41%**, **exome 30,81%** *(mới — [bài học](../1961-phu-thai-khong-do-mien-dich/lesson.md))* *(nối 1746/1673/1747/1672)*
+
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
