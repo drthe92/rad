@@ -212,6 +212,8 @@ CLASSIFY_4D = {
     "1775": "thankinh",
     "1776": "nguc",
     "1850": "nhi",   # siêu âm cơ hoành dự báo cai máy ở trẻ sơ sinh/trẻ nhỏ (hồi sức sơ sinh)
+    "1851": "nguc",  # hẹp thực quản lành tính sau xạ (biến chứng muộn xạ trị)
+    "1852": "nguc",  # rò động mạch chủ–thực quản (AEF, cấp cứu ngực)
     "1790": "bung",
     "1791": "vuspk",
     "1777": "dauco",
