@@ -130,7 +130,7 @@ flowchart TD
 ![Bắt chước 2: thủng thực quản do can thiệp (TEE) — khí trong máu tụ trung thất, không có tràn dịch sớm](images/1869_vo-thuc-quan_CT_PMC7547061-F2.jpg)
 *(a) CT trục và (b) CT đứng dọc: thực quản trên giãn, chứa máu (dấu hoa thị), liền với **khối máu tụ sau** có nhiều ổ khí (mũi tên dài); tràn khí–máu trung thất lan rộng (mũi tên đứt). Bối cảnh: nữ 80 tuổi đau ngực sau siêu âm tim qua thực quản. Nguồn: Masarapu V, Xia E, Son H; Insights Imaging 2020; Fig. 2 — PMC7547061, CC BY.*
 
-## 6. Tự lượng giác — Blind Quiz
+## 6. Tự lượng giá — Blind Quiz
 
 **Ca 1 — Nam trung niên, nôn dữ dội rồi đau ngực–bụng trên, sốt, khó thở. X-quang và CT dưới đây.**
 
