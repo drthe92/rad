@@ -344,4 +344,6 @@ certainty: tong-hop-y-van
 
 - 1848 – Nút mạch lách trong chấn thương bụng kín: **ba kiểu tổn thương mạch** (thoát mạch hoạt động, giả phình, rò ĐTM); nút gần **Type II (giữa DPA–GPA) 100%** thành công lâm sàng vs **88% Type III**; cứu lách **90,3%**, cắt lách sau nút **9,6%**, nhồi máu **5,7%**; nút mạch **87,1%** cứu lách vs mổ **32,1%** *(mới — [bài học](../1848-nut-mach-lach-trong-chan-thuong/lesson.md))* *(nối 901/1833/1834/101)*
 
+- 1853 – Rò – hoại tử tá tràng mảnh ghép sau ghép tụy: mỏm tá tràng chỉ sống bằng **cung tá tụy của mảnh ghép** nên rò là **thiếu máu/hoại tử**, không chỉ hở chỉ; **6,3%** (18/284), **67% trong 100 ngày**, **PAK OR 3,526**, **ức chế miễn dịch trước ghép OR 3,328**, **33%** cứu được nhờ cắt đoạn tá tràng; **dẫn lưu tá tràng–tá tràng 1,6% vs tá tràng–hỗng tràng 7%**; ổ dịch quanh tụy **16%**, **dẫn lưu qua da chỉ 6%** thành công, sống mảnh ghép **68% vs 85%**/5 năm; **9/15** ca rò phải cắt mảnh ghép có **thải ghép cấp**; CT: **khí trong ổ dịch sát miệng nối**, **thoát cản quang uống** = chốt, **không khí không loại trừ** *(mới — [bài học](../1853-ro-ta-trang-sau-ghep-tuy/lesson.md); nối 1840/1913/163/118)*
+
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
