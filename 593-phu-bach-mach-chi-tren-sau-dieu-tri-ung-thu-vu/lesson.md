@@ -176,6 +176,7 @@ flowchart TD
 - [589 – Sinh thiết hạch gác & cắt hạch nách có định hướng (TAD)](../589-sinh-thiet-hach-gac-nach-targeted-axillary-dissection/lesson.md)
 - [1602 – Hemangioma & tổn thương mạch lành tính của vú vs angiosarcoma](../1602-hemangioma-ton-thuong-mach-lanh-vu/lesson.md)
 - [376 – U phần mềm KHÔNG mỡ: schwannoma vs sarcoma myxoid](../376-u-phan-mem-khong-mo/lesson.md)
+- [1858 – VLNT khi LVA không còn mạch](../1858-ghep-hach-bach-huyet-vlnt/lesson.md) (phù bạch huyết chi sau điều trị ung thư vú)
 
 ## Ảnh
 - `images/composite_sieu-am-phu-bach-mach.jpg`, `images/593_phu-bach-mach_US_PMC12012379.jpg`, `images/593_phu-bach-mach_US-do-day_PMC13512224.jpg`, `images/593_phu-bach-mach_ICG_PMC13329518.jpg`, `images/593_phu-bach-mach_ICG-mau_PMC13329518.jpg`, `images/593_phu-bach-mach_MRI_PMC11999599.jpg`, `images/593_phu-bach-mach_MRI-do_PMC11999599.jpg`. Nguồn + giấy phép từng ảnh trong `images/CREDITS.md`.

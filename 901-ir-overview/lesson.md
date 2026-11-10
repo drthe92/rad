@@ -70,5 +70,6 @@ certainty: tong-hop-y-van
 **940–979 — Bạch huyết & Can thiệp bạch huyết**
 - 1822 – DCMRL (MRI bạch huyết động): tìm chỗ rò, **47,7%** ca có giải phẫu can thiệp được *(đã có — [bài học](../1822-dcmrl-bach-huyet/lesson.md))*
 - 1855 – LVA & chuyển hướng dòng ống ngực khi DCMRL **không có đích**: ΔP **+4 mmHg khi nằm / −35 mmHg khi đứng**, TDE đặt catheter **63,1%**, **nút mù làm rò nặng**, TDA-LVA chống chỉ định khi **CVP cao** *(mới — [bài học](../1855-lva-chuyen-huong-dong-ong-nguc/lesson.md))*
+- 1858 – VLNT khi LVA không còn mạch: giảm chu vi **24,79% trên gối / 29,50% dưới gối**, thể tích **−25,32%** (395 bệnh nhân); VLNT **41,66% vs LVA 29,44%** (chi trên); vạt bẹn **phù chi cho 1,6%**, **0/25** khi bản đồ ngược; vạt mạc nối cho kết cục chu vi tốt nhất *(mới — [bài học](../1858-ghep-hach-bach-huyet-vlnt/lesson.md))*
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

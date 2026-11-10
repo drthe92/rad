@@ -101,6 +101,7 @@ CLASSIFY_4D = {
     "1425": "mat",
     "1426": "mat",
     "1427": "mat",
+    "1455": "mat",    # anti-VEGF ở mắt đã cắt dịch kính (dược động – dịch kính)
     "1428": "mat",
     "1429": "mat",
     "1431": "mat",

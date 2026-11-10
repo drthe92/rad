@@ -221,6 +221,7 @@ flowchart TD
 - [1426 – Viêm nội nhãn sau tiêm tái phát/không đáp ứng](../1426-viem-noi-nhan-tai-phat-khong-dap-ung/lesson.md) (khi nào PPV)
 - [1404 – Biến chứng mạn của tiêm anti-VEGF](../1404-bien-chung-man-anti-vegf/lesson.md) (tăng nhãn áp kéo dài, teo hoàng điểm)
 - [1408 – Anti-VEGF trong thai kỳ & cho con bú](../1408-anti-vegf-thai-ky-cho-con-bu/lesson.md) (chọn thuốc theo Fc)
+- [1455 – Anti-VEGF ở mắt đã cắt dịch kính](../1455-anti-vegf-mat-da-cat-dich-kinh/lesson.md) (dược động, khoảng tiêm, cạm bẫy dầu/khí)
 - [461 – Chọn thuốc & phác đồ anti-VEGF cho ROP](../461-chon-thuoc-phac-do-anti-vegf-cho-rop/lesson.md) (tiêm hai mắt tuần tự ở trẻ)
 - [1428 – Implant corticoid lạc tiền phòng](../1428-phu-giac-mac-sau-implant-tien-phong/lesson.md) (biến cố sau tiêm nội nhãn)
 - [400 – Tổng quan Mắt & thị giác](../400-tong-quan-mat-thi-giac/lesson.md)

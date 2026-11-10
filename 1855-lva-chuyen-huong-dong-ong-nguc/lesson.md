@@ -141,6 +141,7 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [1822 – DCMRL: kỹ thuật, cách đọc và khi nào nút ống ngực](../1822-dcmrl-bach-huyet/lesson.md) — "nhánh A": tìm đích can thiệp
+- [1858 – VLNT khi LVA không còn mạch: chọn vùng cho/nhận & bản đồ ngược](../1858-ghep-hach-bach-huyet-vlnt/lesson.md) — "nhánh B": cấy hạch khi hết kênh
 - [1839 – Chylothorax sau cắt/ghép gan](../1839-chylothorax-sau-cat-gan/lesson.md) — ngưỡng triglyceride dịch và bước điều trị
 - [1823 – Trametinib trong bất thường dẫn lưu bạch huyết trung tâm](../1823-trametinib-di-dang-bach-huyet-ras-mapk/lesson.md) — điều trị nội khoa CCLA
 - [1808 – Sirolimus trong dị dạng bạch huyết](../1808-sirolymus-di-dang-bach-huyet-theo-doi-ngung-thuoc/lesson.md)
