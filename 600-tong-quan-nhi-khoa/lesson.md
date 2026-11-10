@@ -301,6 +301,7 @@ certainty: tong-hop-y-van
 - [609 – Ống dẫn lưu màng phổi (chest tube) ở trẻ: kỹ thuật – vị trí – biến chứng – khi nào rút](../609-ong-dan-luu-mang-phoi-o-tre/lesson.md) *(đã có)*
 - [604 – Chọc/dẫn lưu màng ngoài tim ở nhũ nhi & tràn khí màng ngoài tim áp lực](../604-dan-luu-mang-ngoai-tim-nhu-nhi/lesson.md) *(đã có)*
 - [605 – Siêu âm phổi có điểm (LUS) ở sơ sinh: ngưỡng surfactant, cai máy & BPD](../605-sieu-am-phoi-diem-so-sinh/lesson.md) *(đã có)*
+- [1850 – Siêu âm cơ hoành dự báo cai máy ở trẻ sơ sinh/trẻ nhỏ: DE 5–6 mm, DTF, LUS](../1850-sieu-am-co-hoanh-cai-may-tre-so-sinh/lesson.md) *(mới — không dùng ngưỡng người lớn; DTF AUC 0,63 toàn bộ, 0,82 ở nhũ nhi; nối 1776/605/1849)*
 - [607 – PPHN: siêu âm tim tại giường, chênh SpO₂ trước–sau ống, iNO & ngưỡng ECMO](../607-tang-ap-phoi-so-sinh-pphn/lesson.md) *(mới — echo 7 bước, OI, iNO 20 ppm, ECMO OI > 40/4 giờ)*
 - [606 – BPD: bệnh phổi mạn tính ở trẻ sinh non (NICHD 2018/Jensen 2019, hình ảnh & theo dõi)](../606-bpd-tre-sinh-non/lesson.md) *(đã có)*
 - [602 – Tracheobronchomalacia ở trẻ BPD: nội soi tối thiểu an thần, CT động 4D & chỉ định aortopexy/mở khí quản](../602-tracheobronchomalacia-o-tre-bpd/lesson.md) *(mới — xẹp > 50%, bỏ sót 35% ở lần nội soi đầu)*
