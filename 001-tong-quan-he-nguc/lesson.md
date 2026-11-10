@@ -75,6 +75,7 @@ certainty: tong-hop-y-van
 ## Bài liên quan chéo
 - [019 – Hẹp miệng nối động mạch phổi sau ghép phổi: 3,66%, 76% can thiệp lại khẩn, 23% tử vong trong viện, vận tốc đỉnh 2,60 m/s, 0/9 miệng nối PA trái thấy được bằng TEE](../019-hep-mieng-noi-dong-mach-phoi-sau-ghep-phoi/lesson.md) *(mới — phía động mạch của 099)*
 - [1844 – Rò và hoại tử thực quản do xạ: cản quang nước hòa tan trước, 5,8–30,1% sau hóa–xạ, trung vị sống sau rò 3,1 tháng](../1844-ro-hoai-tu-thuc-quan-do-xa/lesson.md) *(mới — nối 269/061/085)*
+- [1887 – Rò dưỡng trấp sau cắt thực quản: 0,9–9,0%, ngày 7, 17/17 bên phải; TG dịch > 110 mg/dL; ≥ 800 mL/ngày × 48 giờ → buộc ống ngực sớm 48–72 giờ](../1887-ro-duong-trap-sau-cat-thuc-quan/lesson.md) *(mới — cùng bối cảnh "dịch sau mổ thực quản" với 1844, nối 1839/6161)*
 - [384 – Sarcoma do xạ sau xạ trị ngực: khối mới trong trường chiếu, phân biệt xơ hóa/gãy sườn do xạ](../384-sarcoma-do-xa-sau-xa-tri-nguc/lesson.md) *(mới — thành ngực + phổi sau xạ)*
 - [1826 – Viêm phổi do thuốc ức chế mTOR: 23% gặp trên CT, 1,7% nặng, ngừng thuốc là điều trị](../1826-viem-phoi-do-thuoc-uc-che-mtor/lesson.md) *(mới — cùng nhóm "kính mờ hai bên" với 017/196)*
 - [1789 – Viêm phổi do CMV ở người ghép tạng: GGO + nốt nhỏ + đông đặc, BAL PCR, ganciclovir 5 mg/kg q12h](../1789-viem-phoi-do-cmv-o-nguoi-ghep-tang/lesson.md) *(mới — cùng gamut kính mờ ở người ghép với 1788/1826)*
