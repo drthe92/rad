@@ -156,6 +156,7 @@ flowchart TD
 </details>
 
 ## Bài liên quan chéo
+- [9424 – Chụp lại trong X-quang trẻ: mỗi lần lặp **+100% liều**, mục tiêu **5%/7%** (nhi), **LRRL 10,6%**, **93,1%** ảnh bị từ chối vẫn đủ chẩn đoán](../9424-chup-lai-xquang-tre-ti-le-nguyen-nhan-giam/lesson.md) — hệ quả trực tiếp của chắn che mất giải phẫu
 - [9421 – CBCT nón trong nha khoa & chỉnh nha ở trẻ](../9421-cbct-non-nha-khoa-chinh-nha-tre/lesson.md) — ngoại lệ tuyến giáp, FOV, DRL
 - [9420 – Che chắn thủy tinh thể trong CT trẻ](../9420-bao-ve-thuy-tinh-the-tuyen-giap-ct-tre/lesson.md) — bằng chứng CT và bismuth
 - [937 – Liều CT trẻ: SSDE và DRL](../937-lieu-ct-tre-ssde-drl/lesson.md) — audit liều, EI/DI
