@@ -49,7 +49,7 @@ Học liệu CĐHA từ nguồn mở, Việt hóa 100%. Hub tra cứu: `index.ht
 | 051 | [Tiểu PQ & khảm](051-tieu-phe-quan/lesson.md) | `pattern:tieu-phe-quan` |
 | 052 | [Khí phế thũng vs kén (CLE/paraseptal/panlobular)](052-khi-phe-thung-kem/lesson.md) | `pattern:qua-sang` `vung:phoi` `protocol:HRCT-hit-tho-ra` `score:Fleischner-CLE` |
 | 696 | [LAM (lymphangioleiomyomatosis): nang phổi lan toả, VEGF-D & sirolimus](696-lam-nang-phoi-lan-toa/lesson.md) | `pattern:nang-phoi` `vung:phoi` `anatomy:quanh-mach` `protocol:HRCT` `score:VEGF-D-800` `incidentaloma:nang-phoi` |
-| 050 | [Giãn PQ & kén khí](050-gian-phe-quan-ken-khi/lesson.md) | `pattern:gian-phe-quan` `pattern:ken-khi` `vung:duong-tho` |
+| 050 | [Giãn PQ người lớn: thể hình thái, nguyên nhân, BSI/FACED & kén khí](050-gian-phe-quan-ken-khi/lesson.md) | `pattern:gian-phe-quan` `pattern:ken-khi` `vung:duong-tho` `vung:phoi` `protocol:HRCT` `score:Reiff` `score:BSI` `score:FACED` |
 | 061 | [Tràn khí trung thất](061-tran-khi-trung-that/lesson.md) | `pattern:khi-trung-that` `vung:trung-that` |
 | 060 | [Khối trung thất ITMIG](060-khoi-trung-that-itmig/lesson.md) | `pattern:khoi` `vung:trung-that` `score:ITMIG` |
 | 080 | [Chấn thương ngực](080-chan-thuong-nguc/lesson.md) | `pattern:chan-thuong` `pattern:dung-dap-phoi` `pattern:rach-phoi` `pattern:tran-khi-mang-phoi` `pattern:vo-hoanh` `pattern:gia-phinh-mach` `vung:nguc` `score:AAST` `protocol:CT-chan-thuong` |

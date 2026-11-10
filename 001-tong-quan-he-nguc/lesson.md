@@ -190,7 +190,7 @@ certainty: tong-hop-y-van
 - 046 – Tái phân giai đoạn trung thất sau hóa–miễn dịch: hạch nào phải chọc lại, EBUS-TBNA vs cryobiopsy, **ypN2a/ypN2b**, giả tiến triển *(đã có — [bài học](../046-tai-phan-giai-doan-trung-that-sau-hoa-mien-dich/lesson.md))*
 
 **05x — Đường thở & Kén khí**
-- 050 – Giãn phế quản, tree-in-bud & kén khí (Bronchiectasis & cystic lung) *(đã có — [bài học](../050-gian-phe-quan-ken-khi/lesson.md))*
+- 050 – Giãn phế quản người lớn: 3 thể (trụ/varicose/nang), nguyên nhân theo phân bố, Reiff–BSI–FACED, ngưỡng macrolide & nút mạch; tree-in-bud & kén khí *(đã có — [bài học](../050-gian-phe-quan-ken-khi/lesson.md))*
 - 051 – Tiểu phế quản & khảm tưới máu (Small airways & mosaic) *(đã có — [bài học](../051-tieu-phe-quan/lesson.md))*
 - 052 – Khí phế thũng vs đa kén khí: LAM, LCH, LIP, BHD (Emphysema vs cystic) *(đã có — [bài học](../052-khi-phe-thung-kem/lesson.md))*
 
