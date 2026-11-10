@@ -2129,3 +2129,5 @@
 ## 2026-11-10 — 1858 VLNT & 1455 anti-VEGF ở mắt đã cắt dịch kính
 - Viết 1858: 395 BN/25 nghiên cứu, chu vi 24,79% trên gối / 29,50% dưới gối, thể tích −25,32%, VLNT 41,66% vs LVA 29,44% (tay), phù chi cho 1,6% → 0/25 khi bản đồ ngược; 4 ảnh CC BY/CC BY-NC-ND.
 - Viết 1455: 6,3 vs 6,1 mũi/24 tháng, 6 tháng đầu 1,3 vs 3,2, nửa đời thủy dịch 7,19–11 ngày, IOP 1 phút ~49 mmHg ở 3 trạng thái dịch kính; 3 ảnh CC BY 4.0. #1946/1857 gộp trùng bài 1801 (REILD) — không viết; append #2055 (1466 Milroy) + #2056 (1467 ERM sau PPV); verify PASS 6/6 (1139 bài).
+- 2026-11-10 · viết **6161** (chylothorax sau mổ tim: 3,2%/9.892 ca, Fontan HR 16,198, TG > 110 mg/dL, nội khoa 83,3%, 78% ở ngày 14, 26,8 vs 91 mL/kg/ngày; 5 ảnh CC BY/CC BY-NC) — đổi ID 6159→6161 vì trùng rò khí quản–ĐM không tên.
+- 2026-11-10 · **1876 gộp trùng 1913** (đã phủ HAT/HAS) → nâng cấp 1913: 532 ca HAT 2,4%, 66,6% không triệu chứng, ghép lại 46,1%; 1.362 ca 2,6%, tử vong 11–60%, 43,8% trong 48 giờ; trẻ 6,75% + miệng nối < 2 mm; kháng kết tập aHR 0,18. Append #1981 (1860 chấn thương ngực kín) + #1982 (1857 sau mổ cột sống).
