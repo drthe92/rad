@@ -11,7 +11,7 @@ certainty: tong-hop-y-van
 
 **Tags:** `pattern:hep-mach` `pattern:tac-mach` `pattern:huyet-khoi` `pattern:mat-song-toc-do` `pattern:giai-doan-toc-do` `pattern:nhoi-mau-gan` `pattern:giai-doan-ngam-thuoc` `vung:gan` `vung:dong-mach-gan` `vung:mieng-noi` `score:RI` `score:PSV` `score:SAT` `protocol:Doppler` `protocol:CEUS` `protocol:CTA-3-thi` `protocol:DSA` `protocol:nong-bong` `protocol:stent`
 
-**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — số liệu lấy từ các bài open-access đã đọc toàn văn: Delgado-Moraleda et al., *Insights Imaging* 2019 (PMC6694376, CC BY 4.0 — tổng quan hình ảnh có ảnh gốc); Chau et al., *Abdom Radiol* 2025 (PMC11794643, CC BY 4.0 — CEUS và dấu "water-hammer", "bright band"); Pons et al., *J Surg Case Rep* 2025 (PMC12494202, CC BY 4.0 — ca nguyên văn HAT sau ghép lần 3); Desai et al., *CVIR Endovasc* 2024 (PMC11032299, CC BY 4.0 — can thiệp trong/ngoài gan); Shaaban Abdelgalil et al., *CVIR Endovasc* 2025 (PMC12501083, CC BY 4.0 — meta PTA vs stent); Minciuna et al., *Transpl Int* 2023 (PMC10716223, CC BY 4.0 — giá trị Doppler định kỳ); Babikir et al., *Saudi Med J* 2024 (PMC11463573, CC BY-NC 4.0 — RI ngày 1 → ngày 5). **Bổ sung 2026-11-10:** *J Clin Med* 2025 (PMC12251336 — 532 ca, HAT 2,4%, 66,6% không triệu chứng, ghép lại 46,1%); *Rev Col Bras Cir* 2026 (PMC13142963 — 1.362 ca, 2,6%, 43,8% phát hiện trong 48 giờ, tử vong 11–60%); *Transpl Int* 2024 (PMC11692146 — kháng kết tập tiểu cầu aHR 0,18); 2023 (PMC9955988 — trẻ 6,75%, miệng nối < 2 mm). Bài **không** có ca nguyên văn riêng của nhóm; ca 1–3 là ca nguyên văn của nguồn, ghi rõ Fig.
+**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — số liệu lấy từ các bài open-access đã đọc toàn văn: Delgado-Moraleda et al., *Insights Imaging* 2019 (PMC6694376, CC BY 4.0 — tổng quan hình ảnh có ảnh gốc); Lindner C et al., *World J Transplant* 2024 (PMC10989478, CC BY-NC 4.0 — tổng quan chẩn đoán HAT, ảnh CTA/DSA); Chau et al., *Abdom Radiol* 2025 (PMC11794643, CC BY 4.0 — CEUS và dấu "water-hammer", "bright band"); Pons et al., *J Surg Case Rep* 2025 (PMC12494202, CC BY 4.0 — ca nguyên văn HAT sau ghép lần 3); Desai et al., *CVIR Endovasc* 2024 (PMC11032299, CC BY 4.0 — can thiệp trong/ngoài gan); Shaaban Abdelgalil et al., *CVIR Endovasc* 2025 (PMC12501083, CC BY 4.0 — meta PTA vs stent); Minciuna et al., *Transpl Int* 2023 (PMC10716223, CC BY 4.0 — giá trị Doppler định kỳ); Babikir et al., *Saudi Med J* 2024 (PMC11463573, CC BY-NC 4.0 — RI ngày 1 → ngày 5). **Bổ sung 2026-11-10:** *J Clin Med* 2025 (PMC12251336 — 532 ca, HAT 2,4%, 66,6% không triệu chứng, ghép lại 46,1%); *Rev Col Bras Cir* 2026 (PMC13142963 — 1.362 ca, 2,6%, 43,8% phát hiện trong 48 giờ, tử vong 11–60%); *Transpl Int* 2024 (PMC11692146 — kháng kết tập tiểu cầu aHR 0,18); 2023 (PMC9955988 — trẻ 6,75%, miệng nối < 2 mm). Bài **không** có ca nguyên văn riêng của nhóm; ca 1–3 là ca nguyên văn của nguồn, ghi rõ Fig.
 
 > **Câu hỏi gốc của bài:** bệnh nhân **ngày 3 sau ghép gan**, sốt nhẹ, **ALT/AST tăng vọt**, siêu âm **không thấy tín hiệu màu của động mạch gan**, nhưng phổ bắt được lại **có đỉnh tâm thu bình thường và đảo dòng tâm trương** — "trông như phổ bình thường". Vậy: **đây là huyết khối, là co thắt, hay là phổ giả? khi nào cần CEUS/CTA, khi nào chọc mạch can thiệp, và vì sao RI 0,85 ở ngày 1–3 KHÔNG được gọi là bệnh lý?**
 > **Điểm tựa:** sau ghép gan, **động mạch gan là nguồn máu DUY NHẤT của đường mật và của miệng nối đường mật** (động mạch của mảnh ghép không có tuần hoàn bàng hệ, vì các nhánh nối đã bị thắt khi lấy tạng). Vì thế **tắc động mạch = hoại tử đường mật/gan**, chứ không chỉ là "thiếu máu thoáng qua". Chẩn đoán dựa trên **ba con số phổ Doppler** (RI, PSV, SAT) + **nhìn trực tiếp chỗ hẹp**, và **luôn phải loại trừ bẫy sinh lý của 3 ngày đầu**.
@@ -39,6 +39,8 @@ certainty: tong-hop-y-van
 | HAT trong các đoàn hệ gần đây | **2,4%** (532 ca; sớm **1,6%**, muộn **0,7%**) (PMC12251336); **2,6%** (35/1.362), **43,8%** phát hiện trong **48 giờ đầu** (PMC13142963) | HAT sớm vẫn là thể chính; **thời điểm phát hiện** quyết định cứu mảnh ghép |
 | HAT sớm KHÔNG triệu chứng | **66,6%** ca HAT sớm không có triệu chứng, chỉ phát hiện nhờ **Doppler thường quy** (PMC12251336) | Lịch Doppler là **biện pháp chẩn đoán**, không phải xét nghiệm theo triệu chứng |
 | HAT ở trẻ (ghép gan sống cho–nhận) | **6,75%** (27/400); **đường kính miệng nối < 2 mm** là yếu tố nguy cơ độc lập (PMC9955988) | Trẻ nhỏ = mạch nhỏ → **ngưỡng nghi thấp hơn**, dùng đầu dò tần số cao |
+| HAT sớm trong phân tích gộp | eHAT **4,4%** / **21.822 ca** ghép; **tử vong 33,3%** — **trẻ 34,3%** vs **người lớn 25%** (PMC10989478) | eHAT là **cấp cứu**, không phải biến chứng theo dõi; trẻ có tiên lượng xấu hơn |
+| Giá trị Doppler theo lịch ở trẻ | **PPV 92,3%**; **55,8%** biến chứng mạch chẩn đoán **ngày 1–7**; **94,7%** biến chứng động mạch trong **tuần đầu** (PMC9668490; 92 ca) | Ở trẻ, Doppler **tuần đầu** gần như bắt hết biến chứng động mạch |
 | Tử vong và mất mảnh ghép do HAT | Tử vong **11–60%** (PMC13142963); **ghép lại 46,1%**, tử vong liên quan HAT **7,6%**, mất ghép **9,2%** ở theo dõi **86 tháng** (PMC12251336) | HAT vẫn là biến chứng **nguy hiểm nhất** của ghép gan |
 | Dự phòng bằng kháng kết tập tiểu cầu | **aHR 0,18**; ở nhóm có ≥ 1 yếu tố nguy cơ: **3,2% vs 21,3%** (p < 0,001), **không tăng chảy máu** (PMC11692146) | HAT không chỉ là "lỗi kỹ thuật" — **biến cố huyết khối có thể dự phòng** |
 | HAS tại miệng nối | **2–13%** (PMC6694376); trung vị chẩn đoán **3 tháng**, phần lớn trong **năm đầu** (PMC11794643) | Nghĩ tới khi men gan tăng mà không có nguyên nhân khác |
@@ -50,6 +52,8 @@ certainty: tong-hop-y-van
 | RI ngày 1–3 sau ghép | **> 0,8 ở ~50%** bệnh nhân, **bình thường hóa ~ngày 4** (PMC6694376); ca minh họa **0,84 ngày 1 → 0,65 ngày 5** (PMC11463573) | **Không chẩn đoán bệnh lý** chỉ vì RI cao trong 72 giờ đầu |
 | Doppler định kỳ (rDUS) | **708** người lớn: HAT **7,1%**, PVT **8,2%**, HVOO **3,1%**; PPV **53,8%**, NND **90,5**; HAT chẩn đoán trung vị **4 ngày** (PMC10716223) | Lợi ích có thật nhưng **PPV thấp** → luôn cần CEUS/CTA xác nhận |
 | Thời điểm biến chứng sớm | **POD 0: 26,9%**, **POD 1: 17,3%**, **POD 5: 17,3%** (PMC10716223) | Lịch chụp phải phủ **ngày 0–1 và ngày 7** |
+| Tái huyết khối theo kiểu mổ lại | **12,5% (mạch cầu nối, AHCI) vs 47,3% (khâu lại miệng nối)**, p = 0,03; biến chứng mật **31,2% vs 47,4%**; tử vong **12,5% vs 5,3%** (PMC10874575; 37 ca eHAT) | Khi mổ lại, **mạch cầu nối** giảm tái huyết khối rõ rệt |
+| Tiêu sợi huyết qua catheter | Thành công kỹ thuật **tới 80%**; urokinase **≤ 1,2 triệu U/24 giờ**, **≤ 7 ngày** (PMC12335213) | Chỉ có lợi khi **chưa hoại tử lan rộng** và **cửa sổ còn** |
 | PTA vs stent (meta) | **9 nghiên cứu, 325 ca** (PTA **140**, stent **197**): không khác độ thông 6/12 tháng, thành công kỹ thuật, biến chứng nặng, bóc tách, vỡ mạch, HAT; stent **giảm can thiệp lại RR 0,57 (0,36–0,89)**, thời gian tới tái hẹp **+36,42 tháng (14,14–58,70)** (PMC12501083) | Stent **không** làm tăng biến chứng trong meta này; chọn theo hình thái và giải phẫu |
 | Can thiệp trong gan vs ngoài gan | **21 thủ thuật/18 ca** vs **27/22**: tử vong liên quan gan 1 năm **10% vs 0%** (p = 0,10), biến chứng **29% vs 4%** (p = 0,015); ALT **−72 vs −112,5 U/L** (p = 0,60) (PMC11032299) | Khi giải phẫu bất lợi (góc gập **> 90°**), **can thiệp mạch ngoài gan** là lựa chọn an toàn |
 | Giả phình ngoài gan | **2,5%** ca ghép; nhiễm khuẩn thành giả phình tới **81%** (PMC6694376) | **Chống chỉ định chọc sinh thiết** khi nghi giả phình nhiễm |
@@ -98,6 +102,9 @@ Gamut xếp theo **cơ chế dòng chảy**, vì cơ chế quyết định thủ
 
 ![Trước và sau điều trị huyết khối động mạch gan](images/composite_hat-truoc-sau.jpg)
 *Trái: **(a)** Doppler màu **mất tín hiệu** trong động mạch gan (mũi tên), **(b–c)** CT có **khuyết thuốc** trong lòng mạch và không ngấm đoạn xa, **(d–e)** chụp mạch khẳng định tắc. Phải: **sau tiêu sợi huyết + nong bóng** — dòng màu trở lại, phổ có dạng bình thường với **RI 0,6**. Cùng bệnh nhân, cùng máy → thay đổi **thuần tuý do tái thông**. Nguồn: Delgado-Moraleda et al., Insights Imaging 2019, PMC6694376 Fig. 2 + Fig. 3, CC BY 4.0. Ảnh ghép letterbox, **đã thay đổi** (ghép + chú thích).*
+
+![CTA ngày 7 sau ghép: tắc động mạch gan](images/1913_hat_CTA_PMC10989478-f2.jpg)
+*Bệnh nhân nữ 51 tuổi, **ngày thứ 7 sau ghép gan**. Trái: **dựng hình 3D (VRT)** — động mạch gan **tắc ngay sau chỗ xuất phát**, không có thuốc ở đoạn xa (mũi tên). Phải: **lát cắt ngang MIP** — **khuyết thuốc** trong lòng động mạch gan tại rốn gan (mũi tên). Nhu mô gan vẫn ngấm thuốc **qua tĩnh mạch cửa** — đây là lý do "gan trông bình thường" trong khi đường mật đã thiếu máu. Nguồn: *World J Transplant* 2024, PMC10989478 Fig. 2, CC BY-NC 4.0 (nguyên bản, không chỉnh sửa).*
 
 ### Ba con số của phổ Doppler — đọc theo thứ tự nào
 
@@ -165,6 +172,16 @@ flowchart TD
 | **HAT + nhồi máu rộng/hoại tử đường mật** | **Mổ lại hoặc ghép lại** (ca ghép lần 3 → ghép lần 4, PMC12494202) |
 | **Giả phình nhiễm** | **Kháng sinh + nút/stent phủ**, tránh sinh thiết qua túi |
 | **Nguy cơ cao HAT** (miệng nối làm lại, tái tạo động mạch, xơ gan không rõ nguyên nhân) | **Kháng kết tập tiểu cầu 3 tháng** — giảm HAT sớm **aHR 0,18**, không tăng chảy máu (PMC11692146) |
+
+**F. Chọn kiểu điều trị HAT — bằng chứng 2024–2026:**
+
+- **Tiêu sợi huyết qua catheter** (khi tắc mới, **chưa hoại tử lan rộng**): urokinase **≤ 1,2 triệu U/24 giờ**, tổng **≤ 7 ngày**, theo dõi DSA; thành công kỹ thuật **tới 80%** (PMC12335213). Hạn chế: **không đánh giá được toàn bộ tưới máu gan**, phải chụp lại nhiều lần, **không dùng khi có ổ hoại tử/nhiễm**.
+- **Mổ lại — khâu lại miệng nối hay mạch cầu nối (AHCI):** loạt **37 ca eHAT** cho thấy **tái huyết khối 12,5% với AHCI vs 47,3% với khâu lại** (p = 0,03), biến chứng mật **31,2% vs 47,4%**, tử vong **12,5% vs 5,3%** (PMC10874575). Khi **miệng nối căng, mạch ngắn, thành mạch kém**, **mạch cầu nối** là lựa chọn hợp lý hơn.
+- **Ghép lại (re-OLT):** chỉ định khi **hoại tử nhu mô lan rộng** hoặc **bệnh lý đường mật không hồi phục**; là **chuẩn vàng** trong nhiều loạt, chiếm **33,3–51,4%** ca HAT (PMC12251336, PMC13142963). Không chờ "thử can thiệp" ở bệnh nhân đã có **nhiễm trùng ổ bụng/hoại tử**.
+- **Việc cần làm ngay sau khi tái thông:** **Doppler lại trong 12–24 giờ**, rồi theo **lịch 48 giờ – ngày 7 – tháng 1 – tháng 3**; **theo dõi đường mật bằng MRCP** vì tổn thương thiếu máu đã hình thành **không hồi phục** (biến chứng mật **31,2–47,4%** sau eHAT; PMC10874575).
+
+![DSA: tắc hoàn toàn và tái thông sau lấy huyết khối](images/1913_hat_DSA_PMC10989478-f4.jpg)
+*Chụp mạch tạng **ngày thứ 3 sau ghép gan**. (A) **Tắc hoàn toàn động mạch gan** — chỉ còn gốc cụt (mũi tên). (B) **Sau lấy huyết khối**, động mạch gan **tái thông**, các nhánh trong gan hiện rõ. Đây là ví dụ cho thấy **cửa sổ can thiệp rất ngắn**: cùng một tổn thương, kết quả phụ thuộc vào **thời điểm** chứ không chỉ kỹ thuật. Nguồn: *World J Transplant* 2024, PMC10989478 Fig. 4, CC BY-NC 4.0 (nguyên bản, không chỉnh sửa).*
 
 ## 5. Biến thể bình thường và cạm bẫy
 
@@ -249,6 +266,20 @@ flowchart TD
 - Nguồn: Delgado-Moraleda et al., Insights Imaging 2019, PMC6694376 Fig. 3, CC BY 4.0.
 </details>
 
+**Ca 5 — Nam 55 tuổi, ngày 3 sau ghép gan, Doppler mất dòng động mạch gan; CTA xác nhận tắc hoàn toàn, nhu mô chưa có ổ hoại tử.**
+
+![Ca 5 — DSA trước và sau lấy huyết khối](images/1913_hat_DSA_PMC10989478-f4.jpg)
+
+- Hỏi: (1) mô tả (A); (2) vì sao **không** chọn ghép lại ngay ở ca này? (3) sau (B), cần theo dõi gì và trong bao lâu?
+
+<details><summary><b>Bấm để hiện đáp án</b></summary>
+
+- **(A)** **tắc hoàn toàn động mạch gan** — chỉ còn **gốc cụt**, không có nhánh trong gan.
+- **Vì sao chưa ghép lại:** **chưa có hoại tử nhu mô/đường mật lan rộng** và còn **cửa sổ tái thông**; ghép lại là lựa chọn **khi tái thông thất bại** hoặc đã có tổn thương không hồi phục. Có thể **tiêu sợi huyết qua catheter** (thành công tới **80%**) hoặc **mổ lại** (AHCI giảm tái huyết khối còn **12,5%**).
+- **Theo dõi:** Doppler **12–24 giờ** sau can thiệp, rồi **48 giờ – ngày 7 – tháng 1 – tháng 3**; theo dõi **bilirubin/men gan** và **MRCP** để phát hiện **hẹp đường mật do thiếu máu** (xuất hiện dù mạch đã thông).
+- Nguồn: *World J Transplant* 2024, PMC10989478 Fig. 4, CC BY-NC 4.0.
+</details>
+
 ## Bài liên quan chéo
 - [1914 – Suy chức năng mảnh ghép gan sớm (EAD) & mảnh ghép không chức năng nguyên phát (PNF)](../1914-suy-chuc-nang-manh-ghep-som/lesson.md) — **cùng bệnh cảnh "men gan tăng ngày 3"**, nhưng chẩn đoán bằng **sinh hóa** và CĐHA chỉ để **loại trừ** hẹp/tắc mạch.
 - [1906 – Hẹp dòng ra tĩnh mạch gan sau ghép (HVOO)](../1906-hep-dong-ra-tm-gan-sau-ghep-gan/lesson.md) — biến chứng mạch **dòng ra**, cùng logic **Doppler + đo chênh áp**.
@@ -259,7 +290,7 @@ flowchart TD
 - [176 – TIPS/DIPS: theo dõi shunt](../176-tips-dips-theo-doi-shunt/lesson.md) — cùng phương pháp **Doppler định kỳ + đo áp** khi can thiệp mạch trong gan.
 
 ## Ảnh
-- 9 ảnh + 1 ảnh ghép, tải từ **PMC CDN** của PubMed Central (bài open access), **không chỉnh sửa pixel**; nguồn + giấy phép từng file trong `images/CREDITS.md`.
+- 11 ảnh + 1 ảnh ghép, tải từ **PMC CDN** của PubMed Central (bài open access), **không chỉnh sửa pixel**; nguồn + giấy phép từng file trong `images/CREDITS.md`.
 - Tên file: `1913_<nội dung>_<Modality>_PMCxxxxx-fN.jpg`; ảnh ghép `composite_hat-truoc-sau.jpg` tạo bằng `tools/make_composite.py` (letterbox nền đen, **không crop/kéo giãn**), ghi rõ **đã thay đổi**.
 - Ảnh **không** tải: Radiopaedia (chỉ dẫn link), AuntMinnie (chỉ dẫn link), các bài không rõ giấy phép — xem `sources.md`.
 
