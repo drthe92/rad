@@ -147,6 +147,7 @@ flowchart TD
 - [525 – Ung thư nội mạc & cổ tử cung FIGO trên MRI](../525-ung-thu-noi-mac-co-tu-cung-FIGO-MRI/lesson.md)
 - [540 – Lạc nội mạc sâu (DIE) & PID](../540-lac-noi-mac-tu-cung-sau-DIE-MRI/lesson.md)
 - [141 – Phúc mạc: carcinomatosis vs lao](../141-phuc-mac/lesson.md)
+- [3116 – Di căn buồng trứng Krukenberg: hai bên, T2 tối, R0 mới kéo dài sống](../3116-di-can-buong-trung-krukenberg/lesson.md) *(đã có)*
 - [120 – Khối gan nền (di căn gan)](../120-khoi-gan-nen/lesson.md)
 - [160 – Bụng cấp cứu GI](../160-bung-cap-GI/lesson.md)
 
