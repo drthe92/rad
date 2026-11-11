@@ -87,6 +87,7 @@ CLASSIFY_4D = {
     "1853": "bung",      # rò – hoại tử tá tràng mảnh ghép sau ghép tụy
     "1928": "vuspk",   # áp-xe cơ chậu ở thai phụ (sản khoa)
     "1930": "vuspk",   # sỏi mật không biến chứng ở thai phụ (sản khoa)
+    "1860": "nhi",     # chấn thương lách ở trẻ (NOM / SAE / ngưỡng mổ)
     "1871": "vuspk",
     "1402": "mat",
     "1403": "mat",
