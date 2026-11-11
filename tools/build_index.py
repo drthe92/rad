@@ -55,6 +55,7 @@ CLASSIFY_4D = {
     "1980": "bung",  # dự phòng nhiễm trùng cơ hội sau ghép tạng
     "6162": "tim",
     "3076": "thankinh",
+    "3091": "thankinh",  # coil hóa phối hợp thiết bị nội túi Contour (CoCoJaMBO)
     "3079": "nhi",
     "3084": "bung",
     "1884": "tim",    # thủng vách liên thất sau NMCT cấp
@@ -322,6 +323,7 @@ CLASSIFY_4D = {
 
 # Rà tay 2026-11: bài Tai–Mũi–Họng nằm lẫn ở Mắt / Thần kinh → Đầu Cổ (TMH)
 RECLASS = {
+    "947": "nguc",  # viêm phổi RSV/cúm ở người ghép tạng (dải 9xx là IR, bài này thuộc Ngực)
     "205": "dauco", "208": "dauco", "230": "dauco", "233": "dauco", "235": "dauco",
     "236": "dauco", "237": "dauco", "238": "dauco", "244": "dauco",
     "478": "dauco", "497": "dauco", "1649": "spk", "558": "msk",

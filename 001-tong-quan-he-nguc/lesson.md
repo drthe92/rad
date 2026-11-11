@@ -84,6 +84,7 @@ certainty: tong-hop-y-van
 - [384 – Sarcoma do xạ sau xạ trị ngực: khối mới trong trường chiếu, phân biệt xơ hóa/gãy sườn do xạ](../384-sarcoma-do-xa-sau-xa-tri-nguc/lesson.md) *(mới — thành ngực + phổi sau xạ)*
 - [1826 – Viêm phổi do thuốc ức chế mTOR: 23% gặp trên CT, 1,7% nặng, ngừng thuốc là điều trị](../1826-viem-phoi-do-thuoc-uc-che-mtor/lesson.md) *(mới — cùng nhóm "kính mờ hai bên" với 017/196)*
 - [1789 – Viêm phổi do CMV ở người ghép tạng: GGO + nốt nhỏ + đông đặc, BAL PCR, ganciclovir 5 mg/kg q12h](../1789-viem-phoi-do-cmv-o-nguoi-ghep-tang/lesson.md) *(mới — cùng gamut kính mờ ở người ghép với 1788/1826)*
+- [947 – Viêm phổi RSV & cúm ở người ghép tạng: mẫu hình **hướng đường thở** (nút nhầy 73,5%, dày thành phế quản 65,5%, tree-in-bud 27,4%), CT bình thường 16,2%; bội nhiễm *Aspergillus* sau cúm 10% – tử vong 52%](../947-viem-phoi-rsv-va-cum-o-nguoi-ghep-tang/lesson.md) *(mới — cùng gamut nhiễm virus ở người ghép với 1789/1826/1980)*
 - [048 – Hội chứng lồng ngực không đủ (TIS) & VEPTR: SAL, nong 6 tháng/lần, thời điểm ngừng](../048-hoi-chung-long-nguc-khong-du-tis-veptr/lesson.md) *(mới)*
 - [043 – Chăm sóc hô hấp quanh mổ & cai máy ở trẻ TIS/EOS: FVC/AVR, PSG, ngưỡng rút ống–NIV, BL/TBV](../043-cham-soc-ho-hap-quanh-mo-tis-eos/lesson.md) *(mới)*
 - [076 – Dưỡng trấp niệu & rò bạch huyết đường niệu](../076-duong-trap-nieu-chyluria/lesson.md) *(mới — cùng hệ bạch huyết với 078/079)*
