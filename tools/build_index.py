@@ -88,6 +88,8 @@ CLASSIFY_4D = {
     "1853": "bung",      # rò – hoại tử tá tràng mảnh ghép sau ghép tụy
     "1928": "vuspk",   # áp-xe cơ chậu ở thai phụ (sản khoa)
     "1930": "vuspk",   # sỏi mật không biến chứng ở thai phụ (sản khoa)
+    "1937": "nhi",      # EOS ở trẻ có mẹ viêm màng ối — thời gian kháng sinh
+    "1938": "vuspk",    # viêm tụy cấp do sỏi ở thai phụ (sản khoa – tiêu hóa)
     "1860": "nhi",     # chấn thương lách ở trẻ (NOM / SAE / ngưỡng mổ)
     "1867": "nhi",     # táo bón & ứ phân sau kéo trực tràng ở trẻ (Hirschsprung)
     "1987": "nhi",     # NCSE sau đột quỵ ở trẻ (cEEG + Salzburg)
