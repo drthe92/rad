@@ -41,6 +41,7 @@ certainty: tong-hop-y-van
 - [943 – Viêm cơ tim do DRESS: tầm soát tim, MRI và tái phát khi giảm corticoid](../943-viem-co-tim-do-dress/lesson.md) *(mới)*
 - [6703 – Bệnh cơ tim do anthracycline ở người sống sót ung thư nhi: GLS, CTRCD, MRI tim & ngưỡng điều trị](../6703-benh-co-tim-do-anthracycline-o-nguoi-song-sot-ung-thu-nhi/lesson.md) *(mới)*
 - [6706 – Bệnh động mạch vành do xạ: hẹp lỗ–đoạn gần, CAC = 0 không loại trừ, CTA 59% vs 36%, PCI + DES vs CABG](../6706-benh-mach-vanh-do-xa-o-nguoi-song-sot-ung-thu/lesson.md) *(mới — nối 6705/6704/810)*
+- [3094 – U nhầy tim thể gia đình & Carney complex: **u nhầy 20–40% CNC**, tái phát **tới 22%** vs **< 3%**, u đồng thời **tới 53%**; **57%** tử vong do tim; **PRKAR1A**; TTE **suốt đời**, kể cả sau ghép tim (ca tái phát **26 năm**)](../3094-u-nhay-tim-gia-dinh-carney-complex/lesson.md) *(mới — nối 3093/810/820)*
 - [1693 – Thrombophlebitis migrans (Trousseau) & SVT không giãn tĩnh mạch: ngưỡng 3 cm/5 cm, kiểm soát u ẩn](../1693-thrombophlebitis-migrans-trousseau/lesson.md) *(mới)*
 
 ## Quy hoạch Master Curriculum Tim mạch (800–899)

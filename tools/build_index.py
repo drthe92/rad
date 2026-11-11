@@ -51,6 +51,8 @@ CLASSIFY_4D = {
     "1848": "canthiep",
     "1840": "bung",
     "1842": "tim",
+    "3094": "tim",   # u nhầy tim thể gia đình & Carney complex
+    "1980": "bung",  # dự phòng nhiễm trùng cơ hội sau ghép tạng
     "6162": "tim",
     "3076": "thankinh",
     "3079": "nhi",
