@@ -80,6 +80,7 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [700 – Tổng quan Đầu Cổ](../700-head-neck-overview/lesson.md)
+- [1939 – Viêm cân mạc hoại tử vùng cổ: khi nào dày cân/khí là cấp cứu mổ](../1939-viem-can-mac-hoai-tu-vung-co/lesson.md)
 - [710 – Mũi xoang](../710-sinonasal-ct-anatomy/lesson.md) (lan từ xoang)
 - [750 – Hạch cổ (dự kiến viết sau)]
 
