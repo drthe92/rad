@@ -42,6 +42,7 @@ SPEC_OVERRIDE = {"6104": "nhi", "6105": "nhi", "6107": "nhi", "6108": "nhi", "61
 # hoặc thêm vào CLASSIFY_4D, hoặc gắn tag `vung:` khớp VUNG_SPEC; nếu không
 # build_index.py sẽ DỪNG và liệt kê bài chưa phân loại (không được để "Khác").
 CLASSIFY_4D = {
+    "1986": "nhi",    # viêm mô hoại tử ở trẻ (cấp cứu nhiễm trùng mô mềm nhi)
     "1968": "vuspk",  # seroma vùng cho vạt DIEP/TRAM (vú – tái tạo; tách về tab vú nhờ tag vung:vu)
     "1967": "bung",   # ACNES – đau thành bụng do chèn nhánh trước T10–T12
     "1984": "bung",   # màng ngăn ruột non do NSAID & CMUSE (tiêu hóa, người lớn)
