@@ -2196,3 +2196,6 @@
 - Viết **751** (SCO: mạn > 4 tuần, 87% mổ/50% mổ ≥ 2 lần, MRI phù tủy 1–2 ngày, xạ hình 3 ngày, PCO 17 ca/6 năm trễ 8 tháng, ORN 1–3 năm, MRONJ không tạo xương màng xương, SCC 1,5–2%) và **946** (VGI 1–6%, tử vong 25–88%, CT ~50% ca/nhạy 55% độ thấp, RI ≥ 20%, 92% graft lành vẫn ngấm lan tỏa); 4 ảnh CC BY-NC-ND + 3 ảnh CC BY + 1 composite.
 - Flip #1952/#1953 → xong, #2036 → gộp (trùng #1952); append #2076 (753 loạn sản xơ xương hàm) + #2077 (953 CTA mảnh ghép CABG) — đã check_duplicates; verify PASS 6/6, 1168 bài/1168 card.
 - 2026-11-11: viết **3091** (CoCoJaMBO — coil phối hợp Contour) + **947** (RSV/cúm ở người ghép tạng); thêm RECLASS 947→ngực, CLASSIFY_4D 3091→thần kinh; flip 2 mục, append 058/3124.
+## 2026-11-11 — lượt worker: 3116 (di căn buồng trứng Krukenberg)
+- Viết **3116** (hai bên 67,3–80%, T2 tối do mô đệm xơ, nhầy 8–14 HU, CEA 22 vs 6,5 ng/mL, CA-125/ADC không phân biệt, R0 11 vs 10 tháng; 6 ảnh CC BY/BY-NC-ND/BY-NC-SA); nâng cấp 535 + 500 (hàng DDx, link chéo), README, index.
+- Flip #1976 → xong; append #2080 (3141 Krukenberg trong thai kỳ) + #2081 (3142 u dạ dày trên CT) — đã check_duplicates.
