@@ -89,6 +89,8 @@ CLASSIFY_4D = {
     "1928": "vuspk",   # áp-xe cơ chậu ở thai phụ (sản khoa)
     "1930": "vuspk",   # sỏi mật không biến chứng ở thai phụ (sản khoa)
     "1860": "nhi",     # chấn thương lách ở trẻ (NOM / SAE / ngưỡng mổ)
+    "1867": "nhi",     # táo bón & ứ phân sau kéo trực tràng ở trẻ (Hirschsprung)
+    "1987": "nhi",     # NCSE sau đột quỵ ở trẻ (cEEG + Salzburg)
     "1871": "vuspk",
     "1402": "mat",
     "1403": "mat",
