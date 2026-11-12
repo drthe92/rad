@@ -91,6 +91,8 @@ CLASSIFY_4D = {
     "3841": "msk",     # chèn ép thần kinh tọa mạn sau chấn thương/mổ
     "3111": "bung",      # thoát vị lỗ trocar sau nội soi (thành bụng – hậu phẫu)
     "3112": "bung",      # gạc sót sau mổ – gossypiboma (ổ bụng – hậu phẫu)
+    "1952": "dauco",     # ung thư tuyến giáp trong bướu giáp lạc chỗ (đầu cổ – tuyến giáp)
+    "1959": "vuspk",     # TMA sau sinh: HELLP – aHUS – TTP (sản khoa – hồi sức)
     "3113": "thankinh",  # túi phình liên quan dòng chảy/intranidal trong AVM não ở trẻ
     "1460": "mat",       # viêm giác mạc do nấm (Fusarium/Aspergillus/Candida)
     "1461": "mat",       # áp-xe dưới màng xương hốc mắt ở trẻ (Chandler III)
