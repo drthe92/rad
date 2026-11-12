@@ -343,6 +343,8 @@ CLASSIFY_4D = {
     "6159": "nhi",        # rò khí quản – động mạch không tên ở trẻ
     "3122": "bung",       # huyết khối tĩnh mạch thận ghép cấp (ghép tạng – mạch máu)
     "3123": "canthiep",   # tắc mạch khí y sinh (cấp cứu can thiệp – biến chứng thủ thuật)
+    "3125": "canthiep",   # chèn ép khoang cấp ở trẻ sau chọc mạch/chấn thương chi
+    "3126": "canthiep",   # dị vật catheter/mảnh dụng cụ di trú trong lòng mạch ở trẻ
 }
 
 # Rà tay 2026-11: bài Tai–Mũi–Họng nằm lẫn ở Mắt / Thần kinh → Đầu Cổ (TMH)
