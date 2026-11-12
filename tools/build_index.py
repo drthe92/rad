@@ -47,6 +47,8 @@ CLASSIFY_4D = {
     "1967": "bung",   # ACNES – đau thành bụng do chèn nhánh trước T10–T12
     "1984": "bung",   # màng ngăn ruột non do NSAID & CMUSE (tiêu hóa, người lớn)
     "3096": "bung",   # BK polyomavirus nephropathy (ghép thận)
+    "6185": "msk",    # vỡ chuôi khớp háng nhân tạo — thất bại mỏi của implant
+    "1940": "bung",   # sỏi sót/tái phát & sỏi rơi sau cắt túi mật (gan mật)
     "3097": "bung",   # hội chứng Zinner (tiết niệu – sinh dục nam)
     "1792": "bung",
     "1793": "nhi",
