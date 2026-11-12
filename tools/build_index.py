@@ -80,6 +80,8 @@ CLASSIFY_4D = {
     "1962": "mat",       # rách thể mi chấn thương & góc rẽ (glôcôm)
     "1854": "nhi",    # màng não tủy trước cùng & tam chứng Currarino ở trẻ
     "3086": "nhi",    # CAUTI ở trẻ
+    "3139": "nhi",    # túi phình nhiễm khuẩn nội sọ ở trẻ (mạch máu não nhi)
+    "3121": "nhi",    # nhiễm khuẩn mảnh ghép cột sống ở trẻ (cột sống – nhiễm nhi)
     "3153": "bung",   # huyết khối – tắc động mạch thận ghép cấp (ghép tạng – mạch máu)
     "3150": "bung",   # viêm gan E mạn sau ghép gan ở trẻ (ghép tạng – nhiễm)
     "3154": "nhi",    # van niệu đạo sau (PUV) ở trẻ trai
