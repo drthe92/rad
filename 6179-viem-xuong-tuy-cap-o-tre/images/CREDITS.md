@@ -10,6 +10,7 @@ Không suy đoán tên tác giả: chỉ ghi **tạp chí, năm, PMCID** (đã �
 | `6179_viem-xuong-tuy_MRI_PMC11857996-f1.jpg` | MRI khung chậu: viêm xương tủy gai ngồi–mu trái + áp-xe mô mềm/phù cơ (STIR coronal, T2FS axial) | *Pediatric Reports* 2025 — **PMC11857996** — https://europepmc.org/article/PMC/PMC11857996 | **CC BY 4.0** | Nguyên bản Hình 1, khung a–b |
 | `6179_o-xuong-mu-ngoi_T1-T2FS_PMC11857996-f2.jpg` | MRI khung chậu: loạn sản xương sụn gai ngồi–mu phải — phù tủy nhẹ quanh sụn hơi to, **không ổ dịch** (T1W, T2FS) | *Pediatric Reports* 2025 — **PMC11857996** | **CC BY 4.0** | Nguyên bản Hình 2, khung a–b |
 | `composite_viem-xuong-tuy_vs_osteochondrosis.jpg` | Ảnh ghép đối chiếu: trái = viêm xương tủy gai ngồi–mu + áp-xe; phải = loạn sản xương sụn lành tính | *Pediatric Reports* 2025 — **PMC11857996** | **CC BY 4.0** | Tạo bằng `tools/make_composite.py` — letterbox nền đen, **không crop/kéo giãn**, có dải attribution |
+| `6179_ewing_XR-MRI_PMC11857996-f8.jpg` | Ewing sarcoma xương đùi: X-quang thấm xuyên/phá vỏ + MRI STIR/T1W sau tiêm cho thấy khối mô mềm lớn | *Pediatric Reports* 2025 — **PMC11857996** | **CC BY 4.0** | **Lưu để đối chiếu (không nhúng vào bài)** — dùng kiểm chứng hàng DDx "Ewing" trong ma trận |
 
 **Quy tắc đã tuân thủ**
 
