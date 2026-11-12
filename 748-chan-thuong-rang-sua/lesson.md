@@ -153,6 +153,7 @@ flowchart TD
 
 ## Bài liên quan chéo
 - [747 – Chấn thương răng và ổ răng ở trẻ: luxation – intrusion – avulsion, CBCT và ngưỡng nẹp](../747-chan-thuong-rang-o-tre/lesson.md)
+- [752 – Thiểu sản men Turner ở răng vĩnh viễn: di chứng men khu trú, phân biệt MIH/fluor và tiêu chân răng](../752-thieu-san-men-turner-rang-vinh-vien/lesson.md)
 - [1708 – Gãy lồi cầu xương hàm dưới ở trẻ](../1708-gay-loi-cau-xuong-ham-duoi-o-tre/lesson.md)
 - [9421 – CBCT nón trong nha khoa & chỉnh nha ở trẻ: FOV, DRL và khi nào dùng phim 2D](../9421-cbct-non-nha-khoa-chinh-nha-tre/lesson.md)
 - [600 – Tổng quan Nhi khoa](../600-tong-quan-nhi-khoa/lesson.md)
