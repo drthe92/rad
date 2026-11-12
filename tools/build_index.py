@@ -81,8 +81,8 @@ CLASSIFY_4D = {
     "1854": "nhi",    # màng não tủy trước cùng & tam chứng Currarino ở trẻ
     "3086": "nhi",    # CAUTI ở trẻ
     "3153": "bung",   # huyết khối – tắc động mạch thận ghép cấp (ghép tạng – mạch máu)
+    "3150": "bung",   # viêm gan E mạn sau ghép gan ở trẻ (ghép tạng – nhiễm)
     "3154": "nhi",    # van niệu đạo sau (PUV) ở trẻ trai
-    "3150": "bung",   # viêm gan E mạn sau ghép gan ở trẻ (gan/ghép – nhiễm)
     "3089": "nhi",    # thiếu B12 sau ileocystoplasty (theo dõi chuyển hóa ở trẻ)
     "3090": "nhi",    # bacteriuria không triệu chứng ở trẻ có bể chứa ruột
     "3099": "msk",    # KHE người lớn & thể sâu (u mô mềm–mạch máu)
