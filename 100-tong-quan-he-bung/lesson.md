@@ -194,6 +194,7 @@ certainty: tong-hop-y-van
 </details>
 
 ## Bài liên quan chéo
+- [3122 – Huyết khối tĩnh mạch thận ghép cấp: **TRVT ~1–3%** (khoảng **0,1–4,2%**), phần lớn **tuần đầu**, một trong những nguyên nhân hàng đầu **mất ghép sớm**; **mất phổ tĩnh mạch + đảo dòng tâm trương** (RI ca gốc **0,94**); **CTV khuyết thuốc**; hút huyết khối + nong bóng, **May–Thurner → stent tĩnh mạch chậu**](../3122-huyet-khoi-tinh-mach-than-ghep-cap/lesson.md) *(mới — nối 3153/3087/3088)*
 - [3087 – Hẹp động mạch thận ghép (TRAS): **1–3%** ca ghép, đa số trong **3–6 tháng** đầu; **PSV > 200 cm/s + tỉ lệ > 2:1 + tardus parvus**; **RI trung bình 0,71–0,73** (chỉ **54%** > 0,7) nên RI bình thường không loại trừ; **DSA gradient > 15 mmHg**; nong/stent thành công **65–94%**, tái hẹp **4,2%**](../3087-hep-dong-mach-than-ghep/lesson.md) *(mới — trẻ: 6,32% ca ghép, thận hiến chết 11,11% vs sống 3,39%; nối 1750/3011/190/116)*
 - [3085 – Nốt rốn (Sister Mary Joseph): 1–3% ung thư ổ bụng–chậu, sống trung vị 7,9 tháng, sinh thiết trước khi mổ “thoát vị”](../3085-not-ron-sister-mary-joseph/lesson.md) *(mới — 17,7% không rõ nguyên phát; CT 30–50 HU; nối 3061/143/1618)*
 - [1790 – Bùng phát viêm gan B khi điều trị ung thư vú: HBsAg/anti-HBc trước hóa trị, HBV DNA ≥ 2 log10, tenofovir/entecavir, phù khoảng cửa & double-wall túi mật](../1790-bung-phat-viem-gan-b-sau-hoa-tri/lesson.md) *(mới — nối 1732/1910/1918)*

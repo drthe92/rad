@@ -335,6 +335,8 @@ CLASSIFY_4D = {
     "3095": "canthiep",   # tổn thương ĐM đùi–chậu sau can thiệp nội mạch ở trẻ
     "1845": "nhi",        # bàng quang thần kinh ở trẻ dị tật tủy sống
     "6159": "nhi",        # rò khí quản – động mạch không tên ở trẻ
+    "3122": "bung",       # huyết khối tĩnh mạch thận ghép cấp (ghép tạng – mạch máu)
+    "3123": "canthiep",   # tắc mạch khí y sinh (cấp cứu can thiệp – biến chứng thủ thuật)
 }
 
 # Rà tay 2026-11: bài Tai–Mũi–Họng nằm lẫn ở Mắt / Thần kinh → Đầu Cổ (TMH)

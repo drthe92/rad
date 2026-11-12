@@ -88,6 +88,7 @@ flowchart TD
 </details>
 
 ## Bài liên quan chéo
+- [3123 – Tắc mạch khí y sinh: **0,02–0,06%** sau can thiệp phổi qua da, **tắc mạch khí não 0,02–0,4% — tử vong 20–30%**; **khí trong tim trái/động mạch chủ (−1.000 HU)**; CT sọ sớm chỉ nhạy **~40%** → chụp lại **< 6 giờ**; **100% O₂ + HBO trong 48 giờ**, tràn khí màng phổi chưa dẫn lưu = **chống chỉ định HBO**](../3123-tac-mach-khi-y-sinh/lesson.md) *(mới — nối 098/1800/1698)*
 - [900 – Tổng quan IR](../901-ir-overview/lesson.md)
 - [945 – Nhiễm & biến chứng port-a-cath/CVC: CRBSI, huyết khối, pinch-off, thoát mạch–ép tim](../945-nhiem-va-bien-chung-port-a-cath/lesson.md) *(mới — cùng nhóm đường vào/thủ thuật)*
 - [920 – Nút mạch](../920-vascular-embolization-gi-bleed/lesson.md) (cầm máu)
