@@ -2278,3 +2278,6 @@
 - 2026-11-12: append #2104 (3120 thoát vị bịt) + #2105 (3121 lồng ruột người lớn); verify 6/6.
 - 2026-11-12: viết **113** (hẹp miệng nối mật–ruột sau cắt nang ống mật chủ: 20% hẹp / 39% viêm đường mật tái diễn trong 100 ca RYHJ, PTCS 90,6% thành công, thông suốt 74,3%→34,8% ở 1–7 năm; 2 ảnh) + **702** (cấy ốc tai ở trẻ CMV/rubella: cCMV 0,46%, 13,9% điếc muộn; MRI CISS đếm dây thần kinh → ABI; EVA > 1,9 mm = gusher; 3 ảnh + composite CC BY).
 - 2026-11-12: flip #263/#1105b → xong; append #2099 (703 ABI ở trẻ) + #2100 (114 rò mật sau cắt gan/ISGLS) — đã check_duplicates; verify 6/6, push OK.
+
+- 2026-11-12 — bài **3153** (huyết khối – tắc ĐM thận ghép cấp) + **3154** (van niệu đạo sau): 7 ảnh + 3 composite CC BY 4.0; bỏ ảnh VCUG in lại Elsevier của PMC7343929 (chỉ dùng số liệu PAR).
+- 2026-11-12 — ghi chú: ID 3096 đã dùng cho BKPyVAN nên PUV nhận ID **3154**; append 2 khoảng trống mới **3157** (hẹp niệu đạo sau cắt van) + **3156** (bàng quang thần kinh ở trẻ).
