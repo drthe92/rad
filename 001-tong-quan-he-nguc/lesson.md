@@ -132,6 +132,7 @@ certainty: tong-hop-y-van
 - [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md)
 - [035 – Xơ mô kẽ UIP vs NSIP](../035-xo-mo-ke-UIP-NSIP/lesson.md)
 - [050 – Giãn PQ & kén khí](../050-gian-phe-quan-ken-khi/lesson.md)
+- [054 – ABPA: nút nhầy "ngón tay trong găng", HAM > 70 HU](../054-abpa-viem-phe-quan-di-ung-aspergillus/lesson.md) *(mới: nút nhầy trung tâm + HAM; ISHAM 2013 → 2024 hạ IgE còn 500 IU/mL)*
 - [060 – Khối trung thất ITMIG](../060-khoi-trung-that-itmig/lesson.md)
 - [070 – PE & ĐMC cấp](../070-thuyen-tac-phoi-dmc-cap/lesson.md) *(mới)*
 - [040 – Tràn dịch màng phổi](../040-tran-dich-mang-phoi/lesson.md)

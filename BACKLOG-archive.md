@@ -2363,3 +2363,6 @@
 ## 2026-11-13 — lượt 1877 + 1971 (nối tiếp lượt bị cắt ngang)
 - Nhận lại 2 bài viết dở từ lượt trước (stash `interrupted-1794579443`, pop sạch): **1877** PFCL tồn lưu dưới võng mạc (dấu Ω, kim 41–49 G, 10 mắt, −0,08 logMAR) và **1971** bất sản dây thần kinh ốc tai (lỗ ốc tai ≤ 1,2 mm Se 84/Sp 98; IAM 0–V không dự báo CI 42 vs 24 trẻ) — bổ sung README, 2 bài tổng quan (400/700), typo CJK, rồi build/verify/commit/push.
 - Flip 2 mục → xong; append 2 khoảng trống mới (#2120 → 1879 FTMH sau bong võng mạc/PFCL; #2126 → 1973 CI ở trẻ điếc một bên) sau check_duplicates exit 0. R2 SKIP (thiếu `~/.config/rad/r2.env`).
+
+- 2026-11-13: viết **6175** (rò khí–da sau cai ống mở khí quản ở trẻ) + **054** (ABPA: nút nhầy/HAM, ISHAM 2013→2024); nâng cấp bảng DDx 600 + danh sách 001, README, hub.
+- 2026-11-13: flip #2044/#2061 → xong; append #2133 (6183 viêm phổi ái toan) + #2134 (6184 nút nhầy ở trẻ hen) — đã check_duplicates.
