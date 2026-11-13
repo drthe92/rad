@@ -2353,3 +2353,7 @@
 ## 2026-11-13 — worker (2 bài)
 - Viết **3843** (đau thần kinh thẹn/ống Alcock: 81 ca DWI, Nantes, block 62%, mổ 8–15%, 13 tháng; 3 ảnh CC BY 4.0) và **1868** (động kinh sau ICH/nhồi máu: CAVE/CAVE2/SeLECT, cortical OR 4,12–HR 8,20, không dự phòng thường quy; 2 ảnh CC BY 4.0). Flip #2042/#1980 → xong; **#2035 trùng bài 1940**. Append 3848/3849.
 - Cập nhật bảng DDx 200/300 + README + CLASSIFY_4D (3843 msk, 1868 thankinh). R2 SKIP (chưa có r2.env). Verify PASS 7/7 (1237 bài/1237 card).
+
+## 2026-11-13 — worker (2 bài, đợt 2)
+- Viết **6194** (IIH ở trẻ: ONSD 4,0/4,5 mm, áp lực mở 7,6/8,2/9,5 cm H₂O, hẹp xoang ngang 67/93/96%, 49% không phù gai, RNFL 133,1 vs 113,1 µm; 7 ảnh + 1 composite CC BY) và **3202** (viêm giác mạc do microsporidia: cấy âm, trichrome 78,6%/ZN 89,5%, MKC PHMB 90% vs MSK ghép 18/21; 5 ảnh + 1 composite).
+- Flip #2053/#9438 → xong; **gộp trùng: #1981→680, #2046→628, #2085→141, #2086→1908, #2131→255**. Append 3173. R2 SKIP (chưa có r2.env).
