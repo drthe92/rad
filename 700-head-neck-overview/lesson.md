@@ -77,6 +77,7 @@ certainty: tong-hop-y-van
 </details>
 
 ## Bài liên quan chéo
+- [1972 – Hẹp lỗ hình lê bẩm sinh: **1/25.000**, lỗ hình lê bình thường **11,8 ± 0,8 mm** → **< 11 mm là ngưỡng chẩn đoán**; gộp **320 ca mổ 74,2%** nhưng đường kính nhóm nội khoa **5,3 vs 5,1 mm** (chênh 0,2 mm, không ý nghĩa) — tiên lượng nằm ở **ngưng thở aOR 9,1**, **stridor aOR 3,9**; **CSA 75% 68,6 vs 33,5 mm²** phân biệt vừa/nặng; **SMMCI 25–33%**, bất thường tuyến yên **40%**](../1972-hep-lo-hinh-le-bam-sinh/lesson.md) *(mới — nối 710/1951/612/603)*
 - [1971 – Bất sản/giảm sản dây thần kinh ốc tai: **20%** SNHL bẩm sinh có dị tật tai trong; **CND 35,9% (14/39)** ở điếc một bên; **lỗ ốc tai ≤ 1,2 mm** (Se 84%/Sp 98%) và **IAC < 3,9 mm** là dấu **gián tiếp trên CT**; **CT bình thường KHÔNG loại trừ** — phải **đếm bó** trên **CISS lát ≤ 0,8 mm**; phân độ IAM 0–V **không dự báo** kết quả CI (**42 vs 24 trẻ**, p > 0,05); ABI **~50%** trẻ không dùng được thiết bị](../1971-bat-san-giam-san-day-than-kinh-oc-tai/lesson.md) *(mới — nối 1951/702/692/497)*
 - [1952 – Ung thư tuyến giáp trong bướu giáp lạc chỗ: 506 ca, PTC 85,6%, hạch/di căn 22,1%, tuổi > 50 HR 3,75, ngoài đầu cổ HR 7,23; tuyến nguyên vị có 88,3% và 22,8% ác tính](../1952-ung-thu-tuyen-giap-lac-cho/lesson.md) *(mới — nối 1899/230)*
 - [3131 – Hội chứng Horner ở trẻ: **sụp mi + đồng tử nhỏ một bên** = chỉ định **MRI sọ–cổ–ngực tới T4**; **10% do khối ác** (thường u nguyên bào thần kinh trung thất), **Horner không điển hình 40% → nguy cơ u × 4**; khối **18 × 11 × 13 mm** ngang T1/T2; apraclonidine **tránh < 1 tuổi**](../3131-hoi-chung-horner-o-tre/lesson.md) *(mới — nối 1652/1773/3044/3046)*
@@ -132,6 +133,8 @@ certainty: tong-hop-y-van
 - 1770 – Tắc tĩnh mạch cảnh trong hai bên sau xạ: mảnh trái **48,4%** (không bàng hệ) vs hẹp có bàng hệ; CTV tắc giả **4/4**; stent **95,5% thông/30,5 tháng**, Frisén **2 → 1** *(mới — [bài học](../1770-tac-tinh-mach-canh-trong-hai-ben-sau-xa/lesson.md))*
 - 1766 – First bite syndrome: đau co thắt **đúng miếng đầu** sau mổ tuyến mang tai/khoang mang tai, khởi phát **2–6 tuần**, cơn **3–10 giây**; 6,3% sau cắt tuyến mang tai, 8,45% sau mổ khoang mang tai; tự hết 6–20%, botulinum ≥ 40 U **8/8** cải thiện; **không khối = FBS**, có khối/dây dày = tái phát *(mới — [bài học](../1766-first-bite-syndrome/lesson.md))*
 - 253 – Viêm xương nền sọ GIỮA không do tai (CSBO): clivus/lồi cầu, **CT âm tính không loại trừ**, MRI T1FS+Gd, sinh thiết sâu, kháng sinh ≥ 6 tuần *(đã có — dải 200, nội dung đầu cổ — [bài học](../253-viem-xuong-nen-so-giua-khong-do-tai/lesson.md))*
+
+- 1972 – Hẹp lỗ hình lê bẩm sinh (CNPAS): lỗ hình lê **< 11 mm** ở trẻ đủ tháng (bình thường **11,8 ± 0,8 mm**); mấu mũi xương hàm quá sản + **khẩu cái tam giác + gờ giữa khẩu cái + SMMCI**; **đường kính để chẩn đoán, triệu chứng để mổ** (ngưng thở aOR 9,1); nội khoa **80–90%** (PA ≥ 6 mm), mổ **85–100%** (< 6 mm) *(mới — [bài học](../1972-hep-lo-hinh-le-bam-sinh/lesson.md))* *(nối 710/1951/612/603)*
 
 - 1951 – CHARGE & ba tầng tổn thương đầu cổ: hẹp mũi sau (**31,5% hai bên, 15,4% một bên**), **bất sản ốc tai 49,8% / ống bán khuyên 73,6% / dây thần kinh ốc tai 49,1%**, **bất sản hành khứu giác 28,8%**; góc ốc tai **94,5° vs 114,0°**; hẹp lại sau mổ **31,3%**; tiêu chuẩn Blake **3 chính hoặc 2 chính + 2 phụ** *(mới — [bài học](../1951-hoi-chung-charge/lesson.md))* *(nối 1741/710/205/692)*
 
