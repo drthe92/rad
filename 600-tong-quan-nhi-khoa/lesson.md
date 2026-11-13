@@ -607,4 +607,7 @@ certainty: tong-hop-y-van
 - 6178 – Lồng ruột ở trẻ: **1–4/2.000**, tuổi trung vị **7 tháng** (đỉnh **4–9 tháng**), gần như toàn bộ **hồi–manh tràng**; siêu âm **dấu bia + thận giả**, **Se 96,3% / Sp 95,7%**; **đường kính ngoài 26 mm (thành công) vs 30 mm (thất bại)**, dịch tự do **16,1% vs 42,5%**; thụt hơi **80/100/120 mmHg**, **42,5%** thành công ở đoàn hệ đến muộn (y văn **60–90%**), thủng **4,1%**; tái phát **7–15%**, **5/6 trong 48 giờ** *(mới — [bài học](../6178-long-ruot-o-tre/lesson.md))* *(nối 3128/161/622/1667)*
 - 6179 – Viêm xương tủy cấp ở trẻ: **2–20/100.000/năm**, đùi **46,5%** / chày **31,0%**; **MRI là chốt** (protocol nhanh **NPV 97%**, DWI/ADC thay cản quang, cản quang khi **< 18 tháng**); **áp-xe 42,9%**, nhóm áp-xe **75,6% phải mổ**; chỉ định mổ **áp-xe trong tủy / màng xương đẩy > 2 mm**; **MRSA** áp-xe **71%**, mổ **91%** vs **62%**; bẫy **Ewing – CRMO – loạn sản xương sụn gai ngồi–mu** *(mới — [bài học](../6179-viem-xuong-tuy-cap-o-tre/lesson.md))* *(nối 370/6105/1986/6178)*
 
+**Sơ sinh – thần kinh (mới)**
+- 1965 – Huyết khối xoang tĩnh mạch não ở trẻ sơ sinh: **1:1.600–1:2.300** trẻ sinh sống, **81%** khởi phát tuần đầu, **88%** co giật, **81%** nhiều xoang, **58%** xuất huyết nội thất ± đồi thị; **CUS bình thường KHÔNG loại trừ** (ca minh họa: chỉ thấy đồi thị tăng âm, MRI mới thấy huyết khối tĩnh mạch xuyên đồi thị); cửa sổ **xuyên chũm**; LMWH theo anti-Xa *(mới — [bài học](../1965-huyet-khoi-xoang-tm-nao-so-sinh/lesson.md))* *(nối 216/1948/6111/3045)*
+
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
