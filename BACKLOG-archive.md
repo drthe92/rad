@@ -2345,3 +2345,5 @@
 
 - 2026-11-13: cứu bài **3200** (Pythium) do worker dừng giữa lượt — bỏ link tới 3201 (chưa có bài), build lại hub/trang tĩnh, verify 7/7. 3201 (sẹo giác mạc) vẫn chờ viết.
 - 2026-11-13: cứu tiếp **3201** (sẹo giác mạc) — khôi phục 3 ảnh từ cache, viết `sources.md`, build lại; 3200+3201 verify 7/7.
+- 2026-11-13: viết **3200** (Pythium keratitis: oomycete không ergosterol, score 5 dấu AUC 0,896, AZM/DOX MIC 8/4 vs kháng nấm >128, TPK tái phát 20–71% → cryotherapy 7,1%) — 4 ảnh CC BY/NC; **3201** (sẹo giác mạc: AS-OCT độ sâu → PTK/SALK/DALK/PKP, SALK ≤200 µm 1,32→0,62 logMAR, PKP 83% vs lamellar 90%) — 3 ảnh CC BY/NC-SA; flip 9436/9437, append 9438 (3202 microsporidia) + 9439 (3203 thủng giác mạc).
+- 2026-11-13: cập nhật bảng DDx + danh sách bài mới ở tổng quan 400, README; verify 7/7 + push qua tools/push.sh.
