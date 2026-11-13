@@ -109,6 +109,8 @@ CLASSIFY_4D = {
     "3113": "thankinh",  # túi phình liên quan dòng chảy/intranidal trong AVM não ở trẻ
     "3131": "dauco",     # hội chứng Horner ở trẻ — đường giao cảm cổ–trung thất (đầu cổ)
     "3842": "msk",       # chèn ép thần kinh mác chung tại cổ xương mác
+    "3843": "msk",       # đau thần kinh thẹn & chèn ép ống Alcock (thần kinh ngoại biên – sàn chậu)
+    "1868": "thankinh",  # động kinh sau xuất huyết não & sau nhồi máu não
     "1460": "mat",       # viêm giác mạc do nấm (Fusarium/Aspergillus/Candida)
     "1461": "mat",       # áp-xe dưới màng xương hốc mắt ở trẻ (Chandler III)
     "1462": "mat",       # sinh trắc & công suất IOL ở mắt đã ghép giác mạc
