@@ -78,6 +78,7 @@ certainty: tong-hop-y-van
 
 ## Bài liên quan chéo
 - [1952 – Ung thư tuyến giáp trong bướu giáp lạc chỗ: 506 ca, PTC 85,6%, hạch/di căn 22,1%, tuổi > 50 HR 3,75, ngoài đầu cổ HR 7,23; tuyến nguyên vị có 88,3% và 22,8% ác tính](../1952-ung-thu-tuyen-giap-lac-cho/lesson.md) *(mới — nối 1899/230)*
+- [3131 – Hội chứng Horner ở trẻ: **sụp mi + đồng tử nhỏ một bên** = chỉ định **MRI sọ–cổ–ngực tới T4**; **10% do khối ác** (thường u nguyên bào thần kinh trung thất), **Horner không điển hình 40% → nguy cơ u × 4**; khối **18 × 11 × 13 mm** ngang T1/T2; apraclonidine **tránh < 1 tuổi**](../3131-hoi-chung-horner-o-tre/lesson.md) *(mới — nối 1652/1773/3044/3046)*
 - [230 – Tuyến giáp TI-RADS](../230-tuyen-giap-hach-co/lesson.md) *(giữ nguyên dải 200)*
 - [1622 – Đốt cồn nang giáp lành tính](../1622-dot-con-nang-giap-pei/lesson.md) *(đã có)*
 - [941 – Đốt nhiệt tuyến cận giáp: PTH washout, 4D-CT & bẫy “đốt nhầm nhân giáp”](../941-dot-tuyen-can-giap/lesson.md) *(mới)*

@@ -98,6 +98,8 @@ CLASSIFY_4D = {
     "1952": "dauco",     # ung thư tuyến giáp trong bướu giáp lạc chỗ (đầu cổ – tuyến giáp)
     "1959": "vuspk",     # TMA sau sinh: HELLP – aHUS – TTP (sản khoa – hồi sức)
     "3113": "thankinh",  # túi phình liên quan dòng chảy/intranidal trong AVM não ở trẻ
+    "3131": "dauco",     # hội chứng Horner ở trẻ — đường giao cảm cổ–trung thất (đầu cổ)
+    "3842": "msk",       # chèn ép thần kinh mác chung tại cổ xương mác
     "1460": "mat",       # viêm giác mạc do nấm (Fusarium/Aspergillus/Candida)
     "1461": "mat",       # áp-xe dưới màng xương hốc mắt ở trẻ (Chandler III)
     "1462": "mat",       # sinh trắc & công suất IOL ở mắt đã ghép giác mạc
