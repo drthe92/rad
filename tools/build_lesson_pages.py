@@ -313,7 +313,7 @@ def collect(only=None):
 def render(items):
     payload = []
     bodies = {}
-    for uid, slug, lp in items:
+    for uid, slug, lp in collect():
         text = read(lp)
         fm, body = split_frontmatter(text)
         bodies[slug] = (uid, fm, body, text)
@@ -358,6 +358,8 @@ def main(argv=None):
         title = h1m.group(1).strip() if h1m else slug
         if len(title) > 95:
             title = title[:95].rsplit(" ", 1)[0] + "…"
+        # bỏ markdown nhấn mạnh trong <title>/meta (H1 hiển thị vẫn do marked render)
+        title = re.sub(r"[*_`]+", "", title).strip()
         tags = fm.get("tags") or []
         spec = spec_label(uid, tags, title)
         cert = fm.get("certainty", "")
@@ -449,7 +451,7 @@ def build_llms(items):
              f"Trang chủ: {BASE}/  ·  Sitemap: {BASE}/sitemap.xml  ·  Giới thiệu: {BASE}/about.html", "",
              "Mỗi bài có URL riêng dạng /<id>-<slug>/; bản Markdown gốc ở /<id>-<slug>/lesson.md.", "",
              "## Bài học"]
-    for uid, slug, lp in items:
+    for uid, slug, lp in collect():
         text = read(lp)
         fm, body = split_frontmatter(text)
         h1 = re.search(r"^#\s+(.+)$", body, re.M)
