@@ -10,7 +10,7 @@ certainty: tong-hop-y-van
 # 6132 — Viêm giác mạc nhiễm khuẩn liên quan kính tiếp xúc: phân biệt thâm nhiễm vô khuẩn với nhiễm khuẩn thật & bẫy *Acanthamoeba* / Contact lens-related microbial keratitis
 
 **Tags:** `pattern:tham-nhien-giac-mac` `pattern:loet-giac-mac` `pattern:khuyet-bieu-mo` `pattern:vet-thuong-bieu-mo` `vung:giac-mac` `vung:mat` `protocol:den-khe` `protocol:sinh-thiet-giac-mac` `protocol:nuoi-cay` `protocol:IVCM` `protocol:AS-OCT`
-**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — đoàn hệ **41 bệnh nhân/42 mắt nhập viện** vì viêm giác mạc nặng liên quan kính tiếp xúc (Sund MH et al., *Acta Ophthalmol* 2025, PMC11986396), **138 ca** viêm giác mạc do vi khuẩn liên quan kính tại Nottingham 7 năm (Suresh L et al., *Eye* 2024, PMC11621543), **221 mắt** viêm giác mạc nhiễm trùng tại trung tâm tham chiếu (Moramarco A et al., *Microorganisms* 2025, PMC12565946), nghiên cứu **AS-OCT phân biệt *Pseudomonas*** (Khalil H et al., *Transl Vis Sci Technol* 2023, PMC10691401) và **27 ca IVCM** *Acanthamoeba* (Przybek-Skrzypecka J et al., *Sci Rep* 2025, PMC11954979). Các ca trong mục (6) là ca của bài gốc, ghi rõ nguồn từng ca; **không có ca nguyên văn của nhóm**.
+**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — **bổ sung 2026-11-13:** đoàn hệ Pseudomonas **66 mắt** ở Anh (Front Med 2026, PMC13395769), nghiên cứu yếu tố nguy cơ vệ sinh kính **Ai Cập 2024** (PMC11336145) và tổng quan viêm giác mạc nhiễm trùng (Clin Exp Ophthalmol 2022, PMC9542356) — đoàn hệ **41 bệnh nhân/42 mắt nhập viện** vì viêm giác mạc nặng liên quan kính tiếp xúc (Sund MH et al., *Acta Ophthalmol* 2025, PMC11986396), **138 ca** viêm giác mạc do vi khuẩn liên quan kính tại Nottingham 7 năm (Suresh L et al., *Eye* 2024, PMC11621543), **221 mắt** viêm giác mạc nhiễm trùng tại trung tâm tham chiếu (Moramarco A et al., *Microorganisms* 2025, PMC12565946), nghiên cứu **AS-OCT phân biệt *Pseudomonas*** (Khalil H et al., *Transl Vis Sci Technol* 2023, PMC10691401) và **27 ca IVCM** *Acanthamoeba* (Przybek-Skrzypecka J et al., *Sci Rep* 2025, PMC11954979). Các ca trong mục (6) là ca của bài gốc, ghi rõ nguồn từng ca; **không có ca nguyên văn của nhóm**.
 
 > **Điểm chốt:** kính tiếp xúc không chỉ là "yếu tố nguy cơ" — nó quyết định **chùm tác nhân** (Pseudomonas, Acanthamoeba, nấm sợi) và **tốc độ** (vi khuẩn 24–48 giờ). Câu hỏi đầu tiên trên đèn khe không phải "loét to hay nhỏ" mà là **"biểu mô còn nguyên hay đã mất, và thâm nhiễm sâu tới đâu"** — vì thâm nhiễm vô khuẩn (CLARE/IK) và nhiễm khuẩn thật trông giống nhau nhưng xử trí ngược nhau.
 
@@ -37,10 +37,15 @@ Hỏi theo thứ tự: **có đeo kính không? → biểu mô còn nguyên hay 
 - **Thâm nhiễm mủ đặc, khởi phát < 48 giờ, đeo kính qua đêm:** ***Pseudomonas*** (hàng đầu), *Serratia*, *Klebsiella*; kèm **hypopyon** và **mủ bám mặt sau kính**.
 - **Thâm nhiễm nhỏ, ngoại vi, biểu mô còn nguyên, đau nhẹ:** **CLARE/IK vô khuẩn** (contact lens acute red eye / infiltrative keratitis) — phản ứng viêm với nội độc tố vi khuẩn trên kính, **không phải nhiễm mô**.
 - **Vòng thâm nhiễm + đau nhiều hơn mức thấy + tia thần kinh + tiền sử bơi/nước máy/rửa kính bằng nước:** ***Acanthamoeba***.
+
+![Acanthamoeba: thâm nhiễm dưới biểu mô (a), viêm thần kinh tỏa tia (b), thâm nhiễm vòng (c)](images/6132_acanthamoeba_Slitlamp_PMC11336145-F2.jpg)
+*Ba dấu hiệu hay gặp của *Acanthamoeba* trên đèn khe: **(a)** thâm nhiễm dưới biểu mô dạng chấm, **(b)** **viêm thần kinh tỏa tia**, **(c)** **thâm nhiễm vòng**. Không dấu nào đặc hiệu một mình — chốt bằng IVCM/PCR/cấy. Nguồn: J Ophthalmic Inflamm Infect 2024 (PMC11336145), CC BY 4.0.*
 - **Bờ tua (feathery), vệ tinh (satellite), tiền sử chấn thương thực vật:** **nấm sợi** (*Fusarium* sau kính, *Aspergillus* sau chấn thương); diễn tiến **chậm, nhiều tuần**.
 - **Nhánh gai (dendrite)/loét địa đồ + tiền sử HSV:** **HSV giác mạc** — không phải "loét do kính", nhưng thường bị chẩn đoán nhầm và **nặng lên nếu dùng corticoid**.
 - **Vị trí quyết định mức khẩn:** **trung tâm/trục thị giác** → nguy cơ sẹo thị lực, can thiệp sớm; **ngoại vi** → thường vô khuẩn nhưng vẫn phải loại trừ nấm/amip nếu bờ không đều.
 - **Gợi nhớ "PAF-H":** **P**seudomonas, **A**canthamoeba, **F**ungal, **H**SV — bốn nhóm phải nghĩ trước khi kê "kháng sinh chung".
+- **Nhóm do kính có tiên lượng tốt hơn nhóm không do kính (định lượng):** trong **66 mắt** Pseudomonas (Anh 2016–2020), **53,1%** do kính; nhóm do kính **trẻ hơn, thị lực vào viện tốt hơn, loét nhỏ và không ở trung tâm, ít mủ tiền phòng**, **lành 17 ngày so với 32 ngày** (p = 0,029) và **nguy cơ thị lực xấu thấp hơn** (aOR 0,13; KTC 95% 0,01–0,84); **97,0%** chủng còn nhạy kháng sinh (Front Med 2026, PMC13395769).
+- **Yếu tố nguy cơ vệ sinh — con số để tư vấn:** **tắm/bơi khi đeo kính** (p = 0,012) và **rửa kính bằng nước máy** (p = 0,030) tăng loét **nhiễm trùng**; **đeo > 12 giờ/ngày** tăng loét **không nhiễm trùng ~ 4 lần** (p = 0,030); **đeo qua đêm** tăng **2,6 lần** (p = 0,030) (J Ophthalmic Inflamm Infect 2024, PMC11336145).
 
 ## 3. Bảng so sánh phân biệt (ma trận đối chiếu)
 
@@ -56,6 +61,9 @@ Hỏi theo thứ tự: **có đeo kính không? → biểu mô còn nguyên hay 
 
 ![Bốn nguyên nhân viêm giác mạc nhiễm trùng thường gặp](images/6132_viem-giac-mac_Slitlamp_PMC12565946-F1.jpg)
 *Bốn thể trên đèn khe: (A) *Pseudomonas* — thâm nhiễm mủ đặc, phù mô; (B) nấm — thâm nhiễm trắng xám bờ không đều; (C) HSV — tổn thương dạng nhánh/địa đồ; (D) *Acanthamoeba* — vòng thâm nhiễm và phù lan. Nguồn: Moramarco A et al., *Microorganisms* 2025;13:2308, PMC12565946 Fig. 1, CC BY 4.0. Ảnh nguyên bản của tác giả, không chỉnh sửa.*
+![Thâm nhiễm vòng + fluorescein (trái) và loét do kính có mủ tiền phòng (phải)](images/composite_loet-giac-mac-6132.jpg)
+*Trái: **thâm nhiễm vòng** dưới nhuộm fluorescein — mẫu hình gặp ở Pseudomonas, Acanthamoeba, nấm và cả phản ứng miễn dịch, **không dùng một mình để chẩn đoán**. Phải: loét do kính áp tròng — **(a)** thâm nhiễm trung tâm, **(b)** **mủ tiền phòng** lắng ngang. Nguồn: Clin Exp Ophthalmol 2022 (PMC9542356) và J Ophthalmic Inflamm Infect 2024 (PMC11336145), CC BY 4.0; ảnh ghép letterbox, không crop.*
+
 
 ## 4. Protocol chụp/khám + phân độ và ngưỡng xử trí
 
@@ -71,6 +79,8 @@ Hỏi theo thứ tự: **có đeo kính không? → biểu mô còn nguyên hay 
   - **HSV:** **acyclovir tại chỗ ± toàn thân**; corticoid chỉ khi có chỉ định chuyên khoa và đã kiểm soát nhiễm.
 - **Nhập viện/theo dõi sát khi:** loét **trung tâm hoặc đe dọa trục thị giác**, thâm nhiễm **sâu/giác mạc mỏng**, **hypopyon**, **nguy cơ thủng**, **không tuân thủ nhỏ thuốc**, hoặc **không cải thiện sau 48 giờ**. Hẹn khám lại **24–48 giờ** trong thể nặng.
 - **Ý nghĩa của chậm trễ (định lượng):** bệnh nhân được chuyển đến **> 15 ngày** có **40%** cần mổ cấp cứu so với **8%** khi đến sớm; thời gian điều trị trung bình **123 ngày vs 53 ngày**; mỗi ngày chậm tăng **2%** nguy cơ phải mổ (Moramarco 2025, PMC12565946). Ở thể amip, thời gian điều trị trung bình **235 ngày** và **43%** cần can thiệp phẫu thuật.
+
+- **Khi phải can thiệp (số liệu để giải thích cho bệnh nhân):** **keo cyanoacrylate** dán che ổ thủng/descemetocele đạt **29–86%** thành công tùy nguyên nhân và thường phải làm lại trong **1 tháng**; **ghép giác mạc xuyên (TPK)** có nguy cơ **tái nhiễm 5–14%**, cao hơn khi tổn thương **chạm rìa, có mủ tiền phòng hoặc đã thủng** (Clin Exp Ophthalmol 2022, PMC9542356). Corticoid bổ trợ **vẫn còn tranh cãi** → không dùng khi còn khuyết biểu mô/mủ tiền phòng.
 
 ```mermaid
 flowchart TD
@@ -159,6 +169,21 @@ flowchart TD
 - **Vì sao IVCM dương khi cấy âm:** IVCM nhìn **trực tiếp tế bào amip trong mô sống**, không phụ thuộc môi trường nuôi cấy; cấy amip **khó và chậm**, độ nhạy thấp hơn.
 - **Chốt:** IVCM **bổ sung**, không thay thế PCR/cấy; dương tính giúp **khởi trị sớm** bằng biguanide.
 - Nguồn ảnh: Przybek-Skrzypecka J et al., *Sci Rep* 2025, PMC11954979 Fig. 1 và Fig. 2, CC BY 4.0; ảnh ghép letterbox bằng `tools/make_composite.py`, không crop/kéo giãn.
+</details>
+
+**Ca 4 — Nữ 22 tuổi, đeo kính mềm quên tháo khi ngủ 2 đêm; đau dữ dội, nhìn mờ 2 ngày.**
+
+![Loét giác mạc do kính áp tròng: (a) thâm nhiễm trung tâm, (b) mủ tiền phòng](images/6132_viem-giac-mac-mu-tien-phong_Slitlamp_PMC11336145-F3.jpg)
+
+- Hỏi: hai dấu hiệu ở (a) và (b)? Ba việc phải làm trong 1 giờ đầu? Vì sao chưa được dùng corticoid?
+
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+- **(a)** thâm nhiễm trung tâm trắng đục + khuyết biểu mô; **(b)** **mủ tiền phòng** mức lắng ngang.
+- Chẩn đoán: **loét giác mạc nhiễm trùng do kính áp tròng**, hàng đầu ***Pseudomonas*** (khởi phát < 48 giờ, đeo qua đêm).
+- Trong 1 giờ: **bỏ kính**, **cạo giác mạc nhuộm Gram + cấy** (kèm cấy kính/hộp/dung dịch), **fortified tobramycin 1,4% + cefazolin 5% mỗi giờ**; hẹn khám lại **24 giờ**.
+- **Chưa corticoid** vì còn khuyết biểu mô + mủ tiền phòng: giảm viêm giả tạo nhưng **tăng nguy cơ thủng** và che dấu đáp ứng.
+- Nguồn: J Ophthalmic Inflamm Infect 2024 (PMC11336145) Fig. 3, CC BY 4.0.
 </details>
 
 ## Bài liên quan chéo
