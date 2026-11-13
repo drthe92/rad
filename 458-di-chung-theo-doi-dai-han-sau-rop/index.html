@@ -1,0 +1,338 @@
+<!doctype html>
+<!-- lesson-sha256: 48b643d3d32bf2a1d4a3e089483ea9dd3b4cb88c2cc9256e1d46b4d34b17fdea -->
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>458 — Di chứng &amp; theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &amp;…</title>
+<meta name="description" content="Di chứng &amp; theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &amp;…: Di chứng sau ROP đọc theo mốc tuổi — mỗi giai đoạn có chân dung riêng:">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://rad.matcauvong.com/458-di-chung-theo-doi-dai-han-sau-rop/">
+<link rel="alternate" hreflang="vi" href="https://rad.matcauvong.com/458-di-chung-theo-doi-dai-han-sau-rop/">
+<link rel="alternate" type="text/markdown" href="https://rad.matcauvong.com/458-di-chung-theo-doi-dai-han-sau-rop/lesson.md" title="Markdown gốc">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/lesson.css">
+<meta name="author" content="Thư viện Chẩn đoán hình ảnh">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Thư viện Chẩn đoán hình ảnh">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:title" content="458 — Di chứng &amp; theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &amp;…">
+<meta property="og:description" content="Di chứng &amp; theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &amp;…: Di chứng sau ROP đọc theo mốc tuổi — mỗi giai đoạn có chân dung riêng:">
+<meta property="og:url" content="https://rad.matcauvong.com/458-di-chung-theo-doi-dai-han-sau-rop/">
+<meta property="og:image" content="https://rad.matcauvong.com/458-di-chung-theo-doi-dai-han-sau-rop/images/458_di-chung-muon_UWF_PMC12382488-Fig2-CCBYNC.jpg">
+<meta property="og:image:alt" content="458 — Di chứng &amp; theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &amp;…">
+<meta property="article:modified_time" content="2026-10-19">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="458 — Di chứng &amp; theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &amp;…">
+<meta name="twitter:description" content="Di chứng &amp; theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &amp;…: Di chứng sau ROP đọc theo mốc tuổi — mỗi giai đoạn có chân dung riêng:">
+<meta name="twitter:image" content="https://rad.matcauvong.com/458-di-chung-theo-doi-dai-han-sau-rop/images/458_di-chung-muon_UWF_PMC12382488-Fig2-CCBYNC.jpg">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "MedicalWebPage", "@id": "https://rad.matcauvong.com/458-di-chung-theo-doi-dai-han-sau-rop/#webpage", "url": "https://rad.matcauvong.com/458-di-chung-theo-doi-dai-han-sau-rop/", "name": "458 — Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &…", "description": "Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &…: Di chứng sau ROP đọc theo mốc tuổi — mỗi giai đoạn có chân dung riêng:", "inLanguage": "vi", "isPartOf": {"@id": "https://rad.matcauvong.com/#website"}, "dateModified": "2026-10-19", "about": [{"@type": "Thing", "name": "di chứng & tái hoạt sau điều trị (late sequelae & reactivation)"}], "audience": {"@type": "MedicalAudience", "audienceType": "Physician, MedicalStudent"}, "isAccessibleForFree": true, "specialty": "Radiology"}, {"@type": "LearningResource", "name": "458 — Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &…", "description": "Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &…: Di chứng sau ROP đọc theo mốc tuổi — mỗi giai đoạn có chân dung riêng:", "url": "https://rad.matcauvong.com/458-di-chung-theo-doi-dai-han-sau-rop/", "inLanguage": "vi", "learningResourceType": "Bài học chẩn đoán hình ảnh", "educationalLevel": "Chuyên khoa", "isAccessibleForFree": true, "dateModified": "2026-10-19", "provider": {"@type": "Organization", "name": "Thư viện Chẩn đoán hình ảnh", "url": "https://rad.matcauvong.com/"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Hub tra cứu", "item": "https://rad.matcauvong.com/"}, {"@type": "ListItem", "position": 2, "name": "Mắt", "item": "https://rad.matcauvong.com/"}, {"@type": "ListItem", "position": 3, "name": "458 — Di chứng & theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &…", "item": "https://rad.matcauvong.com/458-di-chung-theo-doi-dai-han-sau-rop/"}]}, {"@type": "WebSite", "@id": "https://rad.matcauvong.com/#website", "url": "https://rad.matcauvong.com/", "name": "Thư viện Chẩn đoán hình ảnh", "description": "Học liệu chẩn đoán hình ảnh tiếng Việt: bản chất bệnh học, cơ chế tạo hình ảnh, chẩn đoán phân biệt, protocol và tự lượng giá; có trích dẫn nguồn mở.", "inLanguage": "vi"}]}</script>
+</head>
+<body>
+<a class="skip" href="#noi-dung">Bỏ qua điều hướng</a>
+<header class="site-head">
+  <div class="wrap">
+    <a class="brand" href="/"><img src="/assets/favicon.svg" alt="" width="22" height="22"> Thư viện Chẩn đoán hình ảnh</a>
+    <span class="grow"></span>
+    <label class="learnbox" title="Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)">
+      <input type="checkbox" class="learn-chk" data-id="458"> <span class="learn-txt">Đã học</span>
+    </label>
+  </div>
+</header>
+<main class="wrap" id="noi-dung">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="/">Hub tra cứu</a><span class="sep">›</span><span>Mắt</span><span class="sep">›</span><span>458</span>
+  </nav>
+  <div class="page-meta">
+    <span class="badge">Mắt</span>
+    <span class="badge">Mức chắc chắn: tổng hợp y văn</span>
+    <time datetime="2026-10-19">Cập nhật: 2026-10-19</time>
+  </div>
+  <article>
+<h1 id="458-di-chung-amp-theo-doi-dai-han-sau-rop-tai-hoat-sau-anti-">458 — Di chứng &amp; theo dõi dài hạn sau ROP: tái hoạt sau anti-VEGF, cận thị/lác/nhược thị &amp; khúc xạ / Long-term sequelae &amp; follow-up after ROP</h1>
+<p><strong>Tags:</strong> <code>pattern:di-chung-rop</code> <code>pattern:tai-hoat-rop</code> <code>vung:vong-mac</code> <code>score:ICROP</code> <code>protocol:theo-doi-sau-rop</code>
+<strong>Mức chắc chắn (certainty):</strong> tổng hợp y văn (literature synthesis) — nhóm tự biên từ y văn mở (Sci Rep 2026 CC BY-NC-ND; BMJ Open Ophthalmol 2025 CC BY-NC; Int J Retina Vitreous 2022/2026 CC BY; Br J Ophthalmol 2023/2026 CC BY-NC; Acta Ophthalmol 2025 CC BY; J Med Internet Res 2025 CC BY; Saudi J Ophthalmol 2022 CC BY-NC-SA).</p>
+<h2 id="1-tong-quan-benh-khong-ket-thuc-o-tuan-40-hai-con-duong-gay-">1. Tổng quan — bệnh KHÔNG kết thúc ở tuần 40: hai con đường gây mù muộn</h2>
+<ul>
+<li><strong>Nguyên lý (pathology):</strong> ROP (retinopathy of prematurity) là bệnh của <strong>mạch máu võng mạc chưa mọc hết</strong> (bài 456). Dù đa số thoái triển, <strong>cả bệnh lẫn điều trị đều để lại dấu vết suốt đời</strong>, theo hai cơ chế khác nhau — vì vậy phải theo dõi <strong>lâu dài, không dừng khi qua tuần 40</strong>:<ol>
+<li><strong>Đường XƠ CỐ ĐỊNH (cicatricial):</strong> tân mạch → xơ → <strong>co kéo</strong> đĩa thị/bó mạch/võng mạc (macular dragging), để lại <strong>cận thị nặng, loạn thị, lác</strong>; có thể <strong>bong võng mạc co kéo (TRD) muộn</strong> ở tuổi học đường.</li>
+<li><strong>Đường TÁI HOẠT sau anti-VEGF (reactivation):</strong> thuốc <strong>ức chế VEGF tạm thời</strong> — vùng võng mạc <strong>vô mạch vẫn còn</strong>, mạch ngoại vi <strong>có thể không bao giờ mọc hết</strong> → <strong>bệnh tái hoạt muộn</strong> (gờ tái xuất/plus tái xuất) → <strong>bong võng mạc muộn (crunch syndrome)</strong>.</li>
+</ol>
+</li>
+<li><strong>TẠI SAO laser và anti-VEGF để lại di chứng KHÁC nhau (cơ chế):</strong><ul>
+<li><strong>Laser quang đông:</strong> đốt cháy vùng vô mạch nhưng <strong>phá hủy mô + viêm</strong> quanh hoàng điểm, ảnh hưởng <strong>sự phát triển trục nhãn</strong> → <strong>cận thị cao + loạn thị</strong> nhiều hơn (đáy mắt xơ co kéo do co kéo trực tiếp).</li>
+<li><strong>Anti-VEGF:</strong> ít phá mô → <strong>ít cận thị hơn</strong>, nhưng <strong>mạch ngoại vi mọc chậm/ngừng</strong> → <strong>tái hoạt muộn</strong> đòi hỏi theo dõi dài hơn; OCT cho thấy <strong>thể vàng mất lõm</strong> (macular hypoplasia) do hoàng điểm chưa trưởng thành.</li>
+</ul>
+</li>
+<li><strong>Ngưỡng định lượng nằm lòng:</strong><ul>
+<li><strong>Di chứng đáy mắt muộn (CARE-ROP 5 năm, ranibizumab):</strong> <strong>17/28 mắt (60,7%) có ≥ 1 bất thường đáy mắt</strong> (nhợt/teo đĩa thị, đổi sắc tố RPE, <strong>vằn mạch tồn dư persistent tortuosity</strong>, <strong>thiểu sản hoàng điểm</strong>); <strong>19/26 mắt</strong> đạt <strong>BCVA ≤ 0,3 logMAR</strong> (thị lực tốt); <strong>khúc xạ trung bình −0,9 D (SD ± 3,4 D)</strong> — <strong>cận thị cao chỉ ở 2 mắt của 1 trẻ</strong>.</li>
+<li><strong>Tái hoạt/tái điều trị (Akıdan, 550 mắt/284 trẻ):</strong> tiêm mũi đầu <strong>99,8%</strong>, <strong>tái điều trị 9,6%</strong> (lúc 35–60 tuần); <strong>laser bổ sung 15,8%</strong>; <strong>bong võng mạc 1,8%</strong> (xuất hiện <strong>38–120 tuần</strong>, mắt bong được tiêm <strong>sớm hơn</strong> có ý nghĩa) → tái hoạt/bong là <strong>biến cố của nửa cuối năm đầu, không phải vài tuần đầu</strong>.</li>
+<li><strong>So anti-VEGF vs laser (meta-analysis 15 nghiên cứu/1784 mắt):</strong> tái phát <strong>RR 1,78 (95% CI 0,56–5,65)</strong> và tái điều trị <strong>RR 1,80 (0,54–5,94)</strong> — <strong>không khác biệt có ý nghĩa</strong>; nhưng phân nhóm: <strong>zone I tái phát THẤP hơn với anti-VEGF (RR 0,52)</strong> còn <strong>zone II tái phát CAO hơn (RR 3,42)</strong>; <strong>ranibizumab tái phát nhiều hơn</strong>; tái phát xảy ra <strong>7 đến &gt; 50 tuần sau điều trị</strong> (độ biến thiên lớn).</li>
+<li><strong>Di chứng chức năng (GPSY, 949 trẻ):</strong> lác — đủ tháng <strong>6%</strong>, non không ROP <strong>10–23%</strong> (tùy tuổi thai), <strong>ROP điều trị 68%</strong>; <strong>nystagmus:</strong> đủ tháng <strong>0,8%</strong> → <strong>ROP điều trị 47%</strong>; <strong>nhược thị</strong> liên quan <strong>tuổi thai ≤ 28 tuần (OR 2,92)</strong>, <strong>suy nhau thai (OR 3,84)</strong>, <strong>điều trị ROP (OR 15,71)</strong>; lác liên quan <strong>loạn thị (OR 2,48)</strong> và <strong>viễn thị (OR 2,09)</strong>.</li>
+<li><strong>Di chứng khúc xạ (Thụy Điển 6,5 tuổi, trẻ ROP đã điều trị):</strong> <strong>cận thị 21,6% mắt tốt – 28,0% mắt xấu</strong> (28% ở mắt xấu), loạn thị <strong>17,0–19,4%</strong>, <strong>anisometropia (lệch khúc xạ hai mắt) 21,3%</strong> — đây là ổ <strong>nhược thị</strong> cần bắt sớm.</li>
+</ul>
+</li>
+</ul>
+<p><img loading="lazy" decoding="async" src="images/458_di-chung-muon_UWF_PMC12382488-Fig2-CCBYNC.jpg" alt="Di chứng đáy mắt muộn sau ranibizumab ở tuổi 5 (CARE-ROP): A vằn mạch tồn dư, B nhợt đĩa thị + OCT, C võng mạc vô mạch tồn dư, D tàn dư gờ cũ (mũi tên)">
+<em>(A) vằn xoắn mạch cực sau tồn dư; (B) nhợt/teo đĩa thị kèm OCT; (C) vùng võng mạc vô mạch tồn dư (chưa mọc hết); (D) tàn dư gờ cũ (mũi tên trắng). Đây là các dấu hiệu &quot;ổn định&quot; cần phân biệt với <strong>tái hoạt tiến triển</strong>. Nguồn: Stahl A et al., BMJ Open Ophthalmol 2025, PMC12382488 Fig. 2, CC BY-NC 4.0.</em></p>
+<h2 id="2-mau-hinh-chan-doan-phan-biet-theo-dong-thoi-gian-gamut-the">2. Mẫu hình + chẩn đoán phân biệt theo DÒNG THỜI GIAN (gamut theo tuổi)</h2>
+<p>Di chứng sau ROP đọc theo <strong>mốc tuổi</strong> — mỗi giai đoạn có chân dung riêng:</p>
+<ul>
+<li><strong>Pha 1 — trong/ngay sau điều trị (0–6 tháng tuổi thực): tái hoạt (reactivation).</strong> Gờ <strong>tái xuất hoặc bồi thêm</strong>, <strong>plus tái xuất</strong> ở mạch cực sau, vùng vô mạch <strong>chưa mọc hết</strong>. <strong>Chốt bằng chuỗi ảnh</strong> (so lần chụp trước–sau), KHÔNG bằng một lần nhìn. <strong>Vì sao chụp lại mới thấy:</strong> tái hoạt là <strong>thay đổi theo thời gian</strong> (mạch vằn tăng dần) — ảnh đơn độc không phân biệt được trạng thái <strong>ổn định</strong> với <strong>đang tiến triển</strong>.</li>
+<li><strong>Pha 2 — tuổi học đường (4–12 tuổi): khúc xạ – lác – nhược thị – đáy mắt cố định.</strong> Cận thị/lệch khúc xạ, lác (đặc biệt <strong>esotropia</strong>), nystagmus, <strong>macular dragging</strong>, <strong>nếp võng mạc (retinal fold)</strong>; đáy mắt <strong>xơ co kéo CỐ ĐỊNH</strong> (không đổi theo thời gian).</li>
+<li><strong>Pha 3 — vị thành niên/người lớn: biến chứng muộn nặng.</strong> <strong>Bong võng mạc muộn</strong> (co kéo TRD, rách RRD ở vùng teo/lỗ hoàng điểm do co kéo, hoặc tiết dịch), <strong>glaucoma góc đóng</strong> (nhãn cầu nhỏ + mống mắt-phôi dịch kính dày), <strong>cataract</strong>, <strong>xuất huyết dịch kính</strong>, <strong>võng mạc thoái hóa lỗ hoàng điểm</strong>.</li>
+<li><strong>Chân dung di chứng xơ cố định (cicatricial ROP) — theo mức:</strong> từ nhẹ (<strong>mạch thẳng bất thường, kéo nhẹ đĩa</strong>), vừa (<strong>macular dragging/dị thường hoàng điểm</strong>), đến nặng (<strong>nếp võng mạc kiểu &quot;thắt lưng&quot; — falciform fold</strong>, khối xơ, bong võng mạc có thể tự khỏi thành dính).</li>
+<li><strong>Mnemonic &quot;3R muộn&quot; (theo dõi 3R):</strong> <strong>R</strong>efraction (khúc xạ), <strong>R</strong>etina (đáy mắt — co kéo/bong/cataract/glaucoma), <strong>R</strong>elation-alignment (lác/nystagmus).</li>
+<li><strong>Đối chiếu hai ngả điều trị (gamut theo cách xử trí):</strong><ul>
+<li><strong>Laser đã làm</strong> → nghiêng về <strong>cận thị cao + loạn thị + màng cận hoàng điểm</strong>; tái hoạt <strong>hiếm</strong> sau khi mạch mọc hết (vùng vô mạch đã đốt).</li>
+<li><strong>Anti-VEGF đã tiêm</strong> → nghiêng về <strong>khúc xạ trung tính hơn</strong>, NHƯNG <strong>vùng vô mạch còn lại → tái hoạt muộn</strong> và <strong>cần theo dõi dài hơn</strong> (quan trọng với zone I).</li>
+</ul>
+</li>
+</ul>
+<p><img loading="lazy" decoding="async" src="images/composite_458_khuc-xa-vs-lac-nhuoc-thi.jpg" alt="Di chứng chức năng đối chiếu: trái — khúc xạ sau ROP đã điều trị; phải — lác/nystagmus và thị lực theo mức ROP">
+<em>Trái: cận thị/viễn thị/loạn thị/anisometropia ở trẻ ROP đã điều trị (6,5 tuổi, Thụy Điển 2023). Phải: lác/nystagmus tăng vọt ở nhóm <strong>ROP đã điều trị</strong> (GPSY 2026) — lác ~68% và nystagmus ~47% so với đủ tháng 6%/0,8%. Nguồn: Larsson E et al., Br J Ophthalmol 2023, PMC10804019 Fig. 2 CC BY-NC 4.0 &amp; Fieß A et al., Br J Ophthalmol 2026, PMC13018795 Fig. 2 CC BY-NC 4.0 (ảnh ghép letterbox).</em></p>
+<h2 id="3-bang-so-sanh-phan-biet-ma-tran-doi-chieu">3. Bảng so sánh phân biệt (ma trận đối chiếu)</h2>
+<table>
+<thead>
+<tr>
+<th>Thực thể (entity)</th>
+<th>Hình ảnh điển hình</th>
+<th>Chốt vào (rule-in)</th>
+<th>Chốt loại (rule-out)</th>
+<th>Gợi ý xác nhận</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Tái hoạt sau anti-VEGF</strong></td>
+<td>Gờ <strong>tái xuất/bồi thêm</strong>, <strong>plus tái xuất</strong>, mạch cực sau <strong>vằn tăng dần</strong>; vô mạch chưa mọc hết</td>
+<td><strong>So chuỗi ảnh thấy TIẾN TRIỂN</strong> + plus mới/vằn tăng; xuất hiện ~4–16 tuần sau mũi, có ca tới <strong>50+ tuần</strong></td>
+<td>Mạch đã mọc hết zone III + <strong>không đổi qua các lần chụp</strong> → di chứng ổn định, không phải tái hoạt</td>
+<td>Ảnh đáy mắt góc rộng (UWF) chuỗi; theo dõi ≥ 65 tuần PMA</td>
+</tr>
+<tr>
+<td><strong>Di chứng xơ cố định (cicatricial)</strong></td>
+<td><strong>Đĩa thị/bó mạch kéo lệch</strong> (dragged disc), mạch thẳng bất thường, <strong>nếp võng mạc</strong>, macular dragging</td>
+<td>Đĩa thị kéo về <strong>thái dương</strong>, mạch kéo thẳng thành &quot;nan hoa&quot;; <strong>bất biến/nhích không đổi</strong> giữa các lần</td>
+<td><strong>Thay đổi tiến triển theo thời gian</strong> (+ plus mới) → tái hoạt, không phải di chứng</td>
+<td>So ảnh cũ; OCT (mất lõm hoàng điểm)</td>
+</tr>
+<tr>
+<td><strong>Bong võng mạc muộn (TRD/RRD)</strong></td>
+<td>Đám trắng đục/màng co kéo, <strong>&quot;crunch syndrome&quot;</strong> vùng cực sau; hoặc bong do rách vs tiết dịch</td>
+<td>Co kéo + <strong>bong võng mạc có tính TIẾN TRIỂN</strong>; mờ dịch kính</td>
+<td>Bong <strong>ổn định kiểu dính sẹo cũ</strong> → mô tả di chứng, cân nhắc theo dõi</td>
+<td>Siêu âm B-scan khi mờ môi trường; so ảnh</td>
+</tr>
+<tr>
+<td><strong>Cận thị/loạn thị + anisometropia</strong></td>
+<td>Nhãn cầu dài (myopia), <strong>lệch khúc xạ hai mắt</strong></td>
+<td><strong>SE âm tăng dần</strong> + loạn thị; <strong>anisometropia 21,3%</strong></td>
+<td>Đồng đều hai mắt, không lệch → ít nguy cơ nhược thị</td>
+<td><strong>Khúc xạ liệt điều tiết (cycloplegic refraction)</strong> định kỳ</td>
+</tr>
+<tr>
+<td><strong>Lác/nystagmus</strong></td>
+<td>Mắt lệch (esotropia), <strong>nystagmus</strong></td>
+<td><strong>ROP đã điều trị + lác sớm</strong> (esotropia lúc nhũ nhi ~70%)</td>
+<td>Lác đơn thuần &lt; 6 tháng tuổi chưa loại trừ ROP → phải khám đáy mắt</td>
+<td>Khám chỉnh thị + khúc xạ; va kính lăng kính</td>
+</tr>
+<tr>
+<td><strong>Glaucoma góc đóng muộn / cataract</strong></td>
+<td>Nhãn cầu nhỏ, <strong>góc tiền phòng hẹp</strong>; đục thể thủy tinh</td>
+<td><strong>Nhãn cầu nhỏ + tiền phòng nông</strong> + nhãn áp tăng (glaucoma góc đóng ở người lớn trẻ)</td>
+<td>Nhãn áp bình thường, tiền phòng sâu → loại trừ</td>
+<td>Nhãn áp, soi góc (gonioscopy), siêu âm sinh trắc (AL)</td>
+</tr>
+</tbody></table>
+<p><img loading="lazy" decoding="async" src="images/458_di-chung-aflibercept_UWF_PMC9583352-Fig2-CCBYNCSA.jpg" alt="Di chứng muộn ở tuổi vị thành niên sau A-ROP điều trị aflibercept: đáy mắt (a–d), mạch huỳnh quang (FA, e–f) và sẹo laser (g–h)">
+<em>Ca minh hoạ (trẻ sinh 22+5 tuần, 542 g, tiêm aflibercept hai mắt cho A-ROP): tàn dư vùng vô mạch/mạch bất thường (a–d), rối loạn tưới máu trên FA (e–f), và các vết laser quanh chu biên (g–h) — minh hoạ rằng <strong>di chứng vẫn hiện diện nhiều năm sau điều trị</strong>. Nguồn: Özdemir HB, Özdek S, Saudi J Ophthalmol 2022, PMC9583352 Fig. 2, CC BY-NC-SA 4.0 (nguyên bản, không cắt ghép).</em></p>
+<h2 id="4-protocol-lich-theo-doi-dai-han-nguong-hanh-dong">4. Protocol: lịch theo dõi dài hạn + ngưỡng hành động</h2>
+<ul>
+<li><strong>Kết thúc sàng lọc ROP, KHÔNG kết thúc theo dõi:</strong> sau khi mạch đã mọc hết tới zone III, <strong>cả trẻ ROP đã điều trị lẫn ROP không điều trị đều cần khám mắt định kỳ</strong> (theo 456). Trẻ <strong>điều trị anti-VEGF phải theo dõi tới ≥ 65 tuần PMA</strong> (chú ý cửa sổ nguy cơ <strong>45–55 tuần PMA</strong>) vì tái hoạt muộn.</li>
+<li><strong>Theo dõi tái hoạt (ngay sau điều trị):</strong> ảnh đáy mắt góc rộng <strong>mỗi 1–2 tuần</strong> tuỳ zone tới khi ổn định; <strong>bất kỳ plus mới + gờ tái xuất</strong> → soi kỹ, cân nhắc <strong>tiêm lại ± laser bổ sung</strong>. Thời điểm tái hoạt thường <strong>~150 ngày</strong> nhưng trải rộng <strong>7 đến &gt; 50 tuần</strong>.</li>
+<li><strong>Theo dõi dài hạn theo tuổi:</strong><ul>
+<li><strong>Nhũ nhi — tuổi học đường:</strong> đo <strong>khúc xạ liệt điều tiết</strong> + khám <strong>chỉnh thị (alignment) + nhược thị</strong>; theo dõi lác/nystagmus; <strong>đo AL (axial length)</strong> khi cận thị tiến triển.</li>
+<li><strong>Đo OCT hoàng điểm</strong> khi nghi thiểu sản/di chứng hoàng điểm.</li>
+<li><strong>Tầm soát biến chứng muộn</strong> (vị thành niên/người lớn): <strong>nhãn áp + soi góc</strong> (glaucoma góc đóng), <strong>soi đáy mắt tìm bong võng mạc/lỗ</strong>, kiểm tra <strong>thể thủy tinh</strong>.</li>
+</ul>
+</li>
+<li><strong>Ngưỡng/hành động chốt:</strong><ul>
+<li><strong>RETREATMENT khi tái hoạt:</strong> gờ tái xuất + plus, đặc biệt <strong>zone I</strong> (nguy cơ tái phát ~2× zone II) → <strong>tiêm lại</strong>; sau đó tiếp tục theo dõi dài hạn.</li>
+<li><strong>Bong võng mạc stage 4–5:</strong> <strong>scleral buckle hoặc cắt dịch kính (ưu tiên lens-sparing)</strong> — xử trí cấp.</li>
+<li><strong>Lác/nhược thị:</strong> <strong>đeo kính chỉnh khúc xạ + bịt mắt (occlusion)/atropine</strong> sớm trước tuổi học để tối ưu thị lực; báo <strong>cửa sổ vàng của nhược thị (thường &lt; 7–8 tuổi)</strong>.</li>
+</ul>
+</li>
+<li><strong>Chẩn đoán hình ảnh:</strong> ưu thế <strong>ảnh đáy mắt màu góc rộng (RetCam/UWF, điện thoại có đèn)</strong>; <strong>siêu âm B-scan</strong> khi mờ môi trường; <strong>OCT</strong> cho hoàng điểm/RNFL; <strong>máy học đa phương thức (multimodal ML)</strong> đang hỗ trợ dự báo tái hoạt (AUC ~0,82 ở mô hình kết hợp) — chưa thay thế lâm sàng.</li>
+</ul>
+<pre class="mermaid">flowchart TD
+  A["ROP da dieu tri (laser hoac anti-VEGF)"] --&gt; B{Mach da moc het zone III ?}
+  B --&gt;|Chua / tren anti-VEGF| C[Theo doi tich cuc: anh UWF moi 1-2 tuan; anti-VEGF toi &gt;= 65 tuan PMA, cang 45-55 tuan]
+  C --&gt; D{Go tai xuat + plus moi tren CHUOI anh ?}
+  D --&gt;|Co = tai hoat| E[Tiem lai anti-VEGF +- laser bo sung]
+  D --&gt;|Khong| F[Di chung on dinh]
+  B --&gt;|Da moc het, da on dinh| F
+  F --&gt; G[Theo doi dai han theo tuoi: khu xa liet dieu tiet + chinh thi + nhuoc thi]
+  G --&gt; H{Lac / nystagmus / nhuoc thi / can thi ?}
+  H --&gt;|Co| I[Kinh chinh + bit mat/atropine som; theo doi AL]
+  H --&gt;|Khong| J[Tiep tuc kham dinh ky]
+  E --&gt; G
+  G --&gt; K[Tam soat bien chung muon: nhan ap + soi goc + day mat tim bong/lac]
+  K --&gt; L{Bong VM muon hoac glaucoma goc dong?}
+  L --&gt;|Bong| M[Dai cung mac / cat dich kinh cap]
+  L --&gt;|Glaucoma/cataract| N[Xu tri chuyen khoa]</pre>
+<h2 id="5-bien-the-binh-thuong-va-cam-bay">5. Biến thể bình thường và cạm bẫy</h2>
+<ul>
+<li><strong>Cạm bẫy số 1 — &quot;trông ổn&quot; ≠ an toàn:</strong> mạch <strong>vằn tồn dư (persistent tortuosity)</strong> và <strong>mất lõm hoàng điểm</strong> là <strong>di chứng ổn định</strong>, KHÁC với <strong>tái hoạt tiến triển</strong>. Chốt phân biệt = <strong>chuỗi ảnh</strong>, không phải một lần nhìn. Bỏ theo dõi quá sớm sau anti-VEGF là cạm bẫy chết người (bong võng mạc muộn tới 50+ tuần).</li>
+<li><strong>Cạm bẫy số 2 — đọc tái hoạt khi mạch chỉ mới mọc:</strong> vùng vô mạch bình thường vẫn còn khi mạch <strong>đang mọc dần</strong>; chỉ gọi tái hoạt khi có <strong>gờ/plus mới</strong> so với lần trước. <strong>Ghi nhãn ảnh theo ngày</strong> và lưu ảnh gốc.</li>
+<li><strong>Cạm bẫy số 3 — lác/nhược thị bị bỏ qua:</strong> phụ huynh thấy <strong>lác</strong> mới đi khám (thường đã có <strong>leukocoria/co kéo nặng</strong>). Trẻ non <strong>phải được khám khúc xạ liệt điều tiết + chỉnh thị</strong>, không chờ triệu chứng. <strong>Anisometropia 21,3%</strong> âm thầm gây nhược thị.</li>
+<li><strong>Cạm bẫy số 4 — &quot;ROP nhẹ thì không sao&quot;:</strong> ngay ROP <strong>không điều trị</strong> vẫn có thể có <strong>cận thị/lác/nystagmus</strong> (nystagmus 5% ở nhóm non ≤ 32 tuần có ROP không điều trị, so với 0,8% trẻ đủ tháng) → mọi trẻ non tháng cần theo dõi.</li>
+<li><strong>Cạm bẫy số 5 — glaucoma góc đóng:</strong> nhãn cầu nhỏ (microphthalmos) sau ROP + tiền phòng nông → <strong>glaucoma góc đóng muộn</strong>; không chỉ để ý đáy mắt mà <strong>phải đo nhãn áp + soi góc</strong>.</li>
+<li><strong>Cạm bẫy số 6 — tưởng laser đã &quot;đốt sạch bệnh&quot;:</strong> sau laser vẫn có thể <strong>bong võng mạc muộn</strong> (TRD/RRD) và <strong>màng trước võng mạc</strong>; theo dõi suốt đời.</li>
+<li><strong>Biến thể bình thường dễ nhầm (từ bài 456):</strong> gờ giả vùng zone III; mạch thái dương chéo bình thường; <strong>nếp võng mạc bẩm sinh</strong> ở trẻ đủ tháng (bài 457). Luôn xác nhận <strong>tiền sử sinh non</strong>.</li>
+</ul>
+<h2 id="6-tu-luong-gia-blind-quiz">6. Tự lượng giá — Blind Quiz</h2>
+<p><strong>Ca 1 — Trẻ non tháng, sau tiêm anti-VEGF đã thoái triển; chụp lại thấy trung tâm có tổn thương vàng cam vùng hoàng điểm. Nhìn chuỗi A→D, mô tả trước:</strong></p>
+<p><img loading="lazy" decoding="async" src="images/458_tai-hoat-crunch_UWF_PMC13370030-Fig1-CCBYNCND.jpg" alt="Ca 1 — chuỗi ảnh UWF mắt trái (A–D) theo thời gian"></p>
+<ul>
+<li>Gợi ý lâm sàng: ROP type 1 mắt trái, tiêm ranibizumab mũi 1, sau đó là mũi 2 + laser.</li>
+<li>Hỏi: A→B có gì thay đổi? C và D nói lên biến chứng gì? Vì sao phải chụp lại liên tục?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>(A)</strong> ROP type 1 (bệnh lý vùng cực sau); <strong>(B)</strong> <strong>tái hoạt sau mũi ranibizumab đầu</strong> (mạch/gờ bất thường tái xuất); <strong>(C)</strong> tuần thứ 5 — <strong>bong võng mạc co kéo &quot;crunch syndrome&quot;</strong> sau mũi 2 + laser; <strong>(D)</strong> <strong>võng mạc áp trở lại sau phẫu thuật cắt dịch kính bảo tồn thể thủy tinh (LSV)</strong>.</li>
+<li><strong>Chốt:</strong> tái hoạt sau anti-VEGF là <strong>thay đổi ĐỘNG</strong> → chỉ thấy khi <strong>so chuỗi ảnh</strong>; bỏ theo dõi giữa chừng có thể dẫn tới <strong>bong võng mạc muộn</strong>.</li>
+<li>Nguồn ảnh: Akıdan M et al., Sci Rep 2026, PMC13370030 Fig. 1, CC BY-NC-ND 4.0 (nguyên bản).</details></li>
+</ul>
+<p><strong>Ca 2 — 239 trẻ tiêm anti-VEGF để điều trị ROP; đọc biểu đồ tái hoạt: khi nào nguy cơ cao nhất?</strong></p>
+<p><img loading="lazy" decoding="async" src="images/458_thoi-diem-tai-hoat_PMC8864602-Fig2-CCBY.jpg" alt="Ca 2 — thời điểm tái phát theo zone trước điều trị"></p>
+<ul>
+<li>Hỏi: đường nào là zone I (đỏ) và zone II (xanh)? Phần lớn tái hoạt rơi vào khoảng nào? Vì sao cần theo dõi ≥ 65 tuần PMA?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>Đỏ = zone I:</strong> tái phát <strong>~11%</strong>; <strong>Xanh = zone II:</strong> <strong>~5%</strong> → <strong>zone I tái phát cao gấp ~2 lần</strong>. Phần lớn tái phát trong <strong>150 ngày đầu</strong> nhưng vẫn có ca kéo dài.</li>
+<li><strong>Hệ quả:</strong> mắt <strong>zone I</strong> phải theo dõi sát và lâu (≥ 65 tuần PMA; cửa sổ nguy cơ cao 45–55 tuần) — không được thả sớm khi thấy thoái triển ban đầu.</li>
+<li>Nguồn ảnh: Mirghorbani M et al., Int J Retina Vitreous 2022, PMC8864602 Fig. 2, CC BY 4.0.</details></li>
+</ul>
+<p><strong>Ca 3 — Đối chiếu hai đáy mắt + bản đồ &quot;chú ý&quot; (saliency) của mô hình AI: mắt nào sắp tái hoạt?</strong></p>
+<p><img loading="lazy" decoding="async" src="images/458_tai-hoat-AI_PMC12063557-Fig5-CCBY.jpg" alt="Ca 3 — ảnh đáy mắt + saliency maps (Grad-CAM): có vs không tái hoạt"></p>
+<ul>
+<li>Hỏi: panel A hay B là &quot;không tái hoạt&quot;? Vì sao vùng saliency tập trung ở cực sau? Hạn chế của AI trong bài toán này là gì?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>(A) = không tái hoạt</strong>; <strong>(B) = tái hoạt</strong> — vùng saliency (đỏ) tập trung ở <strong>cực sau/gờ mạch</strong>, nơi mô hình &quot;nhìn&quot; để dự báo tái hoạt.</li>
+<li><strong>Bối cảnh:</strong> 239 ca, <strong>90 (37,66%) tái hoạt</strong>; mô hình kết hợp (fusion) <strong>AUC 0,822</strong> — hỗ trợ nhưng <strong>chưa thay thế</strong> đánh giá lâm sàng chuỗi ảnh.</li>
+<li>Nguồn ảnh: Wu R et al., J Med Internet Res 2025, PMC12063557 Fig. 5, CC BY 4.0.</details></li>
+</ul>
+<p><strong>Ca 4 — Đọc forest plot: anti-VEGF có làm tái phát nhiều hơn laser không?</strong></p>
+<p><img loading="lazy" decoding="async" src="images/458_tai-phat-forest_PMC12875000-Fig2-CCBY.jpg" alt="Ca 4 — forest plot tái phát: anti-VEGF vs laser"></p>
+<ul>
+<li>Hỏi: kết quả gộp RR và CI bao nhiêu? Vì sao heterogeneity lớn? Phân nhóm zone nói gì?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li>Kết quả gộp: <strong>RR 1,78 (95% CI 0,56–5,65)</strong> — <strong>không khác biệt có ý nghĩa</strong> giữa anti-VEGF và laser; <strong>I² = 82,5%</strong> (rất lớn) nên kết luận &quot;yếu&quot; (GRADE thấp).</li>
+<li>Phân nhóm: <strong>zone I tái phát THẤP hơn</strong> với anti-VEGF (RR 0,52); <strong>zone II tái phát CAO hơn</strong> (RR 3,42). Vì vậy &quot;chọn cho ai&quot; quan trọng hơn &quot;cái nào tốt hơn&quot;.</li>
+<li>Nguồn ảnh: Krungkraipetch L et al., Int J Retina Vitreous 2026, PMC12875000 Fig. 2, CC BY 4.0.</details></li>
+</ul>
+<p><strong>Ca 5 — Trẻ non tháng được hỏi vì mắt nhìn &quot;chếch vào trong&quot; ở tuổi đi học. Tỉ lệ lác/khúc xạ theo mức ROP ra sao?</strong></p>
+<p><img loading="lazy" decoding="async" src="images/458_lac-nhuoc-thi_PMC13018795-Fig2-CCBYNC.jpg" alt="Ca 5 — lác/nystagmus và thị lực phân theo mức ROP"></p>
+<ul>
+<li>Hỏi: nhóm nào lác cao nhất? Nystagmus cao nhất ở đâu? Vì sao cần đo khúc xạ liệt điều tiết?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>Lác:</strong> tăng dần theo mức non và <strong>cao nhất ở nhóm ROP ĐÃ ĐIỀU TRỊ (~68%</strong>, so với 6% trẻ đủ tháng). Theo giai đoạn ROP, <strong>stage 3 Lao ~40%</strong>, <strong>stage 4–5 ~33%</strong>.</li>
+<li><strong>Nystagmus:</strong> <strong>ROP đã điều trị ~47%</strong> (đủ tháng 0,8%). <strong>Thị lực mắt xấu giảm rõ</strong> khi có lác và/hoặc nystagmus.</li>
+<li><strong>Hệ quả:</strong> lác liên quan <strong>loạn thị (OR 2,48)</strong> và <strong>viễn thị (OR 2,09)</strong> → phải <strong>đo khúc xạ liệt điều tiết + bịt mắt/kính sớm</strong> để cứu thị lực.</li>
+<li>Nguồn ảnh: Fieß A et al., Br J Ophthalmol 2026, PMC13018795 Fig. 2, CC BY-NC 4.0.</details></li>
+</ul>
+<p><strong>Ca 6 — Đọc biểu đồ nhược thị/hình thái khúc xạ của đoàn hệ GPSY (949 trẻ): 3 yếu tố liên quan mạnh nhất với nhược thị?</strong></p>
+<p><img loading="lazy" decoding="async" src="images/458_nhuoc-thi_PMC12531598-Fig1-CCBY.jpg" alt="Ca 6 — phân bố nhược thị, khúc xạ và thị lực theo nhóm tuổi thai"></p>
+<ul>
+<li>Hỏi: nhược thị tăng ở nhóm nào? Yếu tố nào có odds ratio cao nhất?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>Nhược thị</strong> gắn với <strong>tuổi thai ≤ 28 tuần (OR 2,92)</strong>, <strong>suy nhau thai (OR 3,84)</strong> và mạnh nhất là <strong>ROP ĐÃ ĐIỀU TRỊ (OR 15,71)</strong>; thị lực giảm theo mức non tháng + mức ROP.</li>
+<li><strong>Hệ quả:</strong> ưu tiên <strong>khám chỉnh thị + khúc xạ</strong> cho trẻ cực non/đã điều trị ROP — đây là nhóm cửa sổ vàng của nhược thị.</li>
+<li>Nguồn ảnh: Fieß A et al., Acta Ophthalmol 2025, PMC12531598 Fig. 1, CC BY 4.0.</details></li>
+</ul>
+<p><strong>Ca 7 — So hai thế hệ theo dõi: CARE-ROP (ranibizumab) và ca A-ROP (aflibercept). Mô tả tàn dư chung còn lại:</strong></p>
+<p><img loading="lazy" decoding="async" src="images/458_di-chung-muon_UWF_PMC12382488-Fig2-CCBYNC.jpg" alt="Ca 7 — đáy mắt muộn nghiêng về tàn dư trái/cận thị phải"></p>
+<ul>
+<li>Hỏi: tàn dư nào thuộc nhóm &quot;ổn định&quot; (không phải tái hoạt)? Đâu là dấu hiệu chỉ điểm nguy cơ bong võng mạc muộn?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>Vằn mạch tồn dư, nhợt đĩa thị, vô mạch tồn dư, tàn dư gờ cũ</strong> — tất cả là <strong>di chứng ỔN ĐỊNH</strong> khi <strong>không tiến triển</strong> qua các lần chụp (khác <strong>tái hoạt</strong> phải có gờ/plus MỚI).</li>
+<li>Dấu hiệu nguy cơ bong muộn: <strong>co kéo đĩa/bó mạch (dragged disc) + vùng vô mạch dài + tàn dư gờ/gờ xơ</strong>; theo dõi suốt đời.</li>
+<li>Nguồn ảnh: Stahl A et al., BMJ Open Ophthalmol 2025, PMC12382488 Fig. 2, CC BY-NC 4.0.</details></li>
+</ul>
+<h2 id="bai-lien-quan-cheo">Bài liên quan chéo</h2>
+<ul>
+<li><a href="/400-tong-quan-mat-thi-giac/">400 – Tổng quan Mắt &amp; thị giác</a> (bảng DDx mắt)</li>
+<li><a href="/456-benh-vong-mac-tre-sinh-non/">456 – Bệnh võng mạc trẻ sinh non (ROP): ICROP &amp; AP-ROP</a> (chẩn đoán &amp; ngưỡng điều trị)</li>
+<li><a href="/457-benh-gia-rop-tre-du-thang/">457 – Bệnh &quot;giả ROP&quot; ở trẻ đủ tháng</a> (phân biệt ở trẻ đủ tháng)</li>
+<li><a href="/450-mat-nhi/">450 – Mắt nhi: leukocoria</a> (đục/di chứng nặng, phân biệt retinoblastoma)</li>
+<li><a href="/445-bong-vong-mac/">445 – Bong võng mạc</a> (co kéo vs rách nguyên phát vs tiết dịch)</li>
+<li><a href="/446-phu-hoang-diem-viem/">446 – Phù hoàng điểm</a> (OCT hoàng điểm)</li>
+<li><a href="/411-sieu-am-nhan-cau/">411 – Siêu âm nhãn cầu</a> (B-scan khi mờ môi trường)</li>
+<li><a href="/610-suy-ho-hap-so-sinh-va-di-dang-phoi/">610 – Suy hô hấp sơ sinh</a> (oxy liệu pháp — yếu tố nguy cơ ROP)</li>
+</ul>
+<h2 id="anh">Ảnh</h2>
+<ul>
+<li>Tên file: <code>458_*_PMC&lt;id&gt;-Fig*-CCBY*.jpg</code>; nguồn + giấy phép từng ảnh trong <code>images/CREDITS.md</code>.</li>
+<li>Ảnh <strong>CC BY-NC-ND</strong> (PMC13370030) giữ <strong>nguyên bản</strong>, không crop/ghép. Ảnh ghép chỉ dùng nguồn cho phép tạo tác phẩm phái sinh (CC BY / CC BY-NC).</li>
+<li>AuntMinnie (Case of the Day): chỉ dẫn link, không tải.</li>
+</ul>
+<blockquote>
+<p>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.</p>
+</blockquote>
+  </article>
+  <aside class="note">
+    <strong>Lưu ý:</strong> bài học tổng hợp từ y văn mở, dùng để học và tra cứu — không thay thế
+    chẩn đoán của bác sĩ có trách nhiệm. Nguồn chi tiết: <a href="sources.md">sources.md</a> ·
+    <a href="images/CREDITS.md">giấy phép ảnh</a>.
+  </aside>
+  <nav class="pager" aria-label="Điều hướng bài học">
+    <span><a href="/457-benh-gia-rop-tre-du-thang/">← 457 — Bệnh &quot;giả ROP&quot; ở trẻ đủ tháng: FEVR, Norrie, incontinentia pigme</a></span><span><a href="/459-theo-doi-dai-han-cmv-retinitis/">459 — Theo dõi dài hạn &amp; tái hoạt CMV retinitis sau ghép: lịch sàng lọ →</a></span>
+  </nav>
+</main>
+<footer class="site-foot">
+  <div class="wrap">
+    <p>Thư viện Chẩn đoán hình ảnh · <a href="/">Hub tra cứu</a> · <a href="/about.html">Giới thiệu &amp; quy trình biên soạn</a> ·
+    <a href="/sitemap.xml">Sitemap</a></p>
+    <p>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.</p>
+  </div>
+</footer>
+<script>
+(function(){
+  var LKEY='rad-learned', uid='458';
+  var box=document.querySelector('.learnbox'), chk=document.querySelector('.learn-chk');
+  if(!box||!chk) return;
+  function get(){try{return JSON.parse(localStorage.getItem(LKEY)||'{}')||{}}catch(e){return {}}}
+  function set(o){try{localStorage.setItem(LKEY,JSON.stringify(o))}catch(e){}}
+  function paint(on){box.classList.toggle('on',on);chk.checked=on;
+    box.querySelector('.learn-txt').textContent=on?'Đã học ✓':'Đã học';}
+  paint(!!get()[uid]);
+  chk.addEventListener('change',function(){var o=get();if(chk.checked)o[uid]=1;else delete o[uid];set(o);paint(chk.checked);});
+})();
+</script>
+<script type="module">
+import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+mermaid.initialize({startOnLoad:false,securityLevel:"loose",
+  theme: matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "default"});
+try { await mermaid.run({querySelector:".mermaid"}); } catch (e) { console.warn("mermaid:", e); }
+</script>
+</body>
+</html>

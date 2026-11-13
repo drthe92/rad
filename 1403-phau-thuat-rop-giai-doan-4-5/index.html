@@ -1,0 +1,308 @@
+<!doctype html>
+<!-- lesson-sha256: cd2c37e556c018c21d87e8febd665b5d2246c58e215302f03007eea231009948 -->
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>1403 — Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…</title>
+<meta name="description" content="Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…: Ca 1 — Trẻ sinh non 28 tuần, 6 tháng tuổi (tuổi chỉnh), đáy mắt phải…">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://rad.matcauvong.com/1403-phau-thuat-rop-giai-doan-4-5/">
+<link rel="alternate" hreflang="vi" href="https://rad.matcauvong.com/1403-phau-thuat-rop-giai-doan-4-5/">
+<link rel="alternate" type="text/markdown" href="https://rad.matcauvong.com/1403-phau-thuat-rop-giai-doan-4-5/lesson.md" title="Markdown gốc">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/lesson.css">
+<meta name="author" content="Thư viện Chẩn đoán hình ảnh">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Thư viện Chẩn đoán hình ảnh">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:title" content="1403 — Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…">
+<meta property="og:description" content="Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…: Ca 1 — Trẻ sinh non 28 tuần, 6 tháng tuổi (tuổi chỉnh), đáy mắt phải…">
+<meta property="og:url" content="https://rad.matcauvong.com/1403-phau-thuat-rop-giai-doan-4-5/">
+<meta property="og:image" content="https://rad.matcauvong.com/1403-phau-thuat-rop-giai-doan-4-5/images/1403_rop-gd4_dai-cung-mac_PMC13271555-Fig1.jpg">
+<meta property="og:image:alt" content="1403 — Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…">
+<meta property="article:modified_time" content="2026-10-24">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="1403 — Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…">
+<meta name="twitter:description" content="Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…: Ca 1 — Trẻ sinh non 28 tuần, 6 tháng tuổi (tuổi chỉnh), đáy mắt phải…">
+<meta name="twitter:image" content="https://rad.matcauvong.com/1403-phau-thuat-rop-giai-doan-4-5/images/1403_rop-gd4_dai-cung-mac_PMC13271555-Fig1.jpg">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "MedicalWebPage", "@id": "https://rad.matcauvong.com/1403-phau-thuat-rop-giai-doan-4-5/#webpage", "url": "https://rad.matcauvong.com/1403-phau-thuat-rop-giai-doan-4-5/", "name": "1403 — Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…", "description": "Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…: Ca 1 — Trẻ sinh non 28 tuần, 6 tháng tuổi (tuổi chỉnh), đáy mắt phải…", "inLanguage": "vi", "isPartOf": {"@id": "https://rad.matcauvong.com/#website"}, "dateModified": "2026-10-24", "about": [{"@type": "Thing", "name": "bong võng mạc co kéo (tractional retinal detachment)"}], "audience": {"@type": "MedicalAudience", "audienceType": "Physician, MedicalStudent"}, "isAccessibleForFree": true, "specialty": "Radiology"}, {"@type": "LearningResource", "name": "1403 — Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…", "description": "Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…: Ca 1 — Trẻ sinh non 28 tuần, 6 tháng tuổi (tuổi chỉnh), đáy mắt phải…", "url": "https://rad.matcauvong.com/1403-phau-thuat-rop-giai-doan-4-5/", "inLanguage": "vi", "learningResourceType": "Bài học chẩn đoán hình ảnh", "educationalLevel": "Chuyên khoa", "isAccessibleForFree": true, "dateModified": "2026-10-24", "provider": {"@type": "Organization", "name": "Thư viện Chẩn đoán hình ảnh", "url": "https://rad.matcauvong.com/"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Hub tra cứu", "item": "https://rad.matcauvong.com/"}, {"@type": "ListItem", "position": 2, "name": "Mắt", "item": "https://rad.matcauvong.com/"}, {"@type": "ListItem", "position": 3, "name": "1403 — Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt…", "item": "https://rad.matcauvong.com/1403-phau-thuat-rop-giai-doan-4-5/"}]}, {"@type": "WebSite", "@id": "https://rad.matcauvong.com/#website", "url": "https://rad.matcauvong.com/", "name": "Thư viện Chẩn đoán hình ảnh", "description": "Học liệu chẩn đoán hình ảnh tiếng Việt: bản chất bệnh học, cơ chế tạo hình ảnh, chẩn đoán phân biệt, protocol và tự lượng giá; có trích dẫn nguồn mở.", "inLanguage": "vi"}]}</script>
+</head>
+<body>
+<a class="skip" href="#noi-dung">Bỏ qua điều hướng</a>
+<header class="site-head">
+  <div class="wrap">
+    <a class="brand" href="/"><img src="/assets/favicon.svg" alt="" width="22" height="22"> Thư viện Chẩn đoán hình ảnh</a>
+    <span class="grow"></span>
+    <label class="learnbox" title="Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)">
+      <input type="checkbox" class="learn-chk" data-id="1403"> <span class="learn-txt">Đã học</span>
+    </label>
+  </div>
+</header>
+<main class="wrap" id="noi-dung">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="/">Hub tra cứu</a><span class="sep">›</span><span>Mắt</span><span class="sep">›</span><span>1403</span>
+  </nav>
+  <div class="page-meta">
+    <span class="badge">Mắt</span>
+    <span class="badge">Mức chắc chắn: tổng hợp y văn</span>
+    <time datetime="2026-10-24">Cập nhật: 2026-10-24</time>
+  </div>
+  <article>
+<h1 id="1403-phau-thuat-rop-giai-doan-4-5-dai-cung-mac-vs-cat-dich-k">1403 — Phẫu thuật ROP giai đoạn 4–5: đai củng mạc vs cắt dịch kính chừa thể thủy tinh vs cắt thể thủy tinh / Surgery for stage 4–5 retinopathy of prematurity: scleral buckle vs lens-sparing vitrectomy vs lensectomy-vitrectomy</h1>
+<p><strong>Tags:</strong> <code>pattern:bong-vong-mac</code> <code>pattern:co-keo</code> <code>pattern:rop</code> <code>vung:vong-mac</code> <code>vung:dich-kinh</code> <code>score:ICROP</code> <code>protocol:phau-thuat-rop</code> <code>incidentaloma:rop</code>
+<strong>Mức chắc chắn (certainty):</strong> tổng hợp y văn (literature synthesis) — tự biên từ 1 thuần tập 105 mắt đai củng mạc (PMC13271555), 1 tổng quan hệ thống 10 nghiên cứu/1.179 mắt cắt dịch kính (PMC11267137), 2 thuần tập cắt dịch kính 31 và 17 mắt (PMC10759917, PMC2908825), 2 nghiên cứu dài hạn về thị lực – khúc xạ sau cắt dịch kính (PMC12373698, PMC9916407) và 1 bài kỹ thuật có ảnh nội soi (PMC6302567); định nghĩa giai đoạn theo <strong>ICROP 3rd edition 2021</strong> (PMID 34247850). Chưa gắn một ca nguyên văn đơn lẻ của nhóm.</p>
+<blockquote>
+<p><strong>Bài này nối tiếp <a href="/456-benh-vong-mac-tre-sinh-non/">456 – Bệnh võng mạc trẻ sinh non: zone–stage–plus &amp; AP-ROP</a>, <a href="/461-chon-thuoc-phac-do-anti-vegf-cho-rop/">461 – Chọn thuốc &amp; phác đồ anti-VEGF cho ROP</a> và <a href="/458-di-chung-theo-doi-dai-han-sau-rop/">458 – Di chứng &amp; theo dõi dài hạn sau ROP</a>.</strong> 456 phủ <strong>phân loại và sàng lọc</strong>; 461 phủ <strong>anti-VEGF</strong>; 458 phủ <strong>di chứng muộn</strong>. Bài 1403 trả lời phần còn trống: <strong>khi võng mạc đã bong (stage 4–5), chọn đai củng mạc hay cắt dịch kính, có lấy thể thủy tinh hay không, thời điểm và tiên lượng theo giai đoạn.</strong></p>
+</blockquote>
+<h2 id="1-tong-quan-benh-hoc-co-che-hinh-anh">1. Tổng quan bệnh học – cơ chế hình ảnh</h2>
+<ul>
+<li><strong>Sinh lý bệnh (pathophysiology):</strong> ROP tiến triển qua <strong>pha mạch máu (vasoproliferative)</strong> — thiếu oxy võng mạc chưa trưởng thành → <strong>VEGF</strong> ↑ → tân mạch ở ranh giới võng mạc có mạch/không mạch. Khi tân mạch kèm <strong>mô xơ (fibrovascular proliferation)</strong> co rút, <strong>võng mạc bị kéo bong</strong> — <strong>bong võng mạc co kéo (tractional retinal detachment — TRD)</strong>. Đây là <strong>bong không do rách</strong> ở giai đoạn đầu; rách có thể xuất hiện muộn do co kéo hoặc do can thiệp.</li>
+<li><strong>ICROP 3rd edition (2021) — định nghĩa quyết định mổ (PMID 34247850):</strong><ul>
+<li><strong>Stage 4A:</strong> bong võng mạc <strong>một phần, CHƯA bắt hoàng điểm</strong>.</li>
+<li><strong>Stage 4B:</strong> bong <strong>một phần, ĐÃ bắt hoàng điểm</strong>.</li>
+<li><strong>Stage 5A:</strong> bong <strong>toàn bộ, phễu mở (open funnel)</strong> — còn thấy vùng hoàng điểm/đĩa thị ở đáy phễu.</li>
+<li><strong>Stage 5B:</strong> bong <strong>toàn bộ, phễu đóng (closed funnel)</strong> — mất hoàn toàn khoang dưới võng mạc, hai lá võng mạc dính nhau.</li>
+<li><strong>Plus disease / AP-ROP:</strong> giãn – vằn xoắn mạch ở <strong>≥ 2 góc phần tư</strong>; <strong>AP-ROP</strong> tiến triển nhanh, thường <strong>vùng I</strong>, cần điều trị <strong>khẩn</strong> — đây là nhóm dễ bỏ qua &quot;cửa sổ vàng&quot; trước khi bong.</li>
+</ul>
+</li>
+<li><strong>TẠI SAO phẫu thuật có tác dụng — cơ chế cơ học:</strong><ul>
+<li><strong>Đai củng mạc (scleral buckle):</strong> đẩy thành củng mạc vào trong, <strong>giảm lực kéo ngoại vi</strong> và <strong>đưa võng mạc ngoại vi áp lại</strong>; hiệu quả khi <strong>co kéo chủ yếu ở ngoại vi</strong> (stage 4A, &gt; 6 giờ đồng hồ), <strong>không giải quyết được màng co kéo ra sau hoàng điểm</strong>.</li>
+<li><strong>Cắt dịch kính chừa thể thủy tinh (lens-sparing vitrectomy — LSV):</strong> cắt <strong>dịch kính – màng trước võng mạc</strong>, <strong>gỡ lực kéo</strong> trực tiếp lên hoàng điểm; giữ <strong>thể thủy tinh</strong> để tránh <strong>nhược thị do mất điều tiết</strong> và giảm nguy cơ <strong>glaucoma</strong> — ưu tiên <strong>stage 4A/4B</strong>.</li>
+<li><strong>Cắt thể thủy tinh + cắt dịch kính (lensectomy-vitrectomy — LV):</strong> cần khi <strong>màng sau thể thủy tinh dày (retrolental membrane)</strong>, <strong>đồng tử hẹp</strong>, <strong>đục thể thủy tinh</strong>, hoặc <strong>stage 5</strong> không tiếp cận được màng co kéo. Đánh đổi: <strong>mất điều tiết</strong>, nguy cơ <strong>glaucoma</strong>, cần <strong>kính áp tròng/thể thủy tinh nhân tạo</strong> sau này.</li>
+</ul>
+</li>
+<li><strong>Ngưỡng định lượng nằm lòng (theo giai đoạn):</strong><ul>
+<li><strong>Đai củng mạc — 105 mắt (90 trẻ), GA 30,05 ± 2,73 tuần, BW 1.383 ± 411 g; 85 mắt đai quanh, 20 mắt đai đoạn; 75 mắt stage 4A:</strong> thành công giải phẫu <strong>90,5% (đai quanh)</strong> — <strong>4A 93,9%, 4B 78,9%</strong>; <strong>90% (đai đoạn)</strong> — <strong>4A 88,8%, 4B 90,9%</strong>. Cầu tương đương trung bình <strong>−6,00 D (đai quanh) vs −3,12 D (đai đoạn)</strong>; <strong>thị lực chức năng (central, steady, maintained) 32% vs 55%</strong>; di chứng thường gặp: <strong>kéo đĩa thị (disc drag), lệch hoàng điểm (macular ectopia)</strong>, kèm <strong>cận thị, lác, rung giật</strong> (Susvar P et al., <em>Indian J Ophthalmol</em> 2026, PMC13271555).</li>
+<li><strong>Cắt dịch kính — tổng quan hệ thống 10 nghiên cứu, 1.179 mắt:</strong> <strong>72% LSV, 28% LV</strong>; LSV chủ yếu <strong>stage 4</strong>, LV chủ yếu <strong>stage 5</strong>; thành công giải phẫu và chức năng <strong>cao hơn ở 4A/4B so với 5</strong>; yếu tố tiên lượng tốt: <strong>không plus, stage 4, đã laser/anti-VEGF trước đó, giữ thể thủy tinh</strong> (Casey A et al., <em>J Ophthalmic Vis Res</em> 2024, PMC11267137).</li>
+<li><strong>Cắt dịch kính — 31 mắt (19 trẻ), GA 29,4 ± 2,1 tuần:</strong> thành công <strong>90,9% (4A), 57,1% (4B), 33,3% (5A)</strong>; chung <strong>64,5%</strong>; biến chứng: <strong>xuất huyết dịch kính 16,1%, đục thể thủy tinh 16,1%, cắt dịch kính lần hai 9,7%, glaucoma thứ phát 22,6%</strong> (Bahrani HM et al., <em>Clin Ophthalmol</em> 2023, PMC10759917).</li>
+<li><strong>LSV — 17 trẻ:</strong> thành công chung <strong>58,8%</strong>; <strong>4A 75%, 4B 66,7%, stage 5 25%</strong>; trong 10 mắt võng mạc áp, <strong>6 mắt có form vision</strong>, <strong>3 mắt theo dõi ánh sáng</strong>, <strong>1 mắt không cảm nhận ánh sáng</strong> (Yu EY et al., <em>Korean J Ophthalmol</em> 2006, PMC2908825).</li>
+<li><strong>Thị lực dài hạn sau cắt dịch kính stage 4 — 42 mắt (35 mắt 4A, 7 mắt 4B), theo dõi ≥ 8 năm:</strong> ở <strong>4A</strong>, logMAR <strong>0,83 (20/135) → 0,63 (20/85)</strong> giữa 5 và 8 tuổi (P &lt; 0,001); <strong>61,8%</strong> dịch chuyển cận thị <strong>≥ 1 D</strong>; <strong>4B không cải thiện đáng kể</strong>; mắt <strong>còn thể thủy tinh</strong> và <strong>mắt trội</strong> có thị lực tốt hơn (Tachibana EH et al., <em>Graefes Arch Clin Exp Ophthalmol</em> 2025, PMC12373698).</li>
+<li><strong>LSV stage 4A — 61 mắt, tuổi khám cuối 10,1 ± 3,3 năm:</strong> thị lực thập phân trung bình <strong>0,23 ± 0,26</strong>; <strong>54,1% đạt ≥ 0,4</strong>; <strong>75,5% cận thị cao &gt; −6 D</strong>, trung bình <strong>−10,1 ± 5,0 D</strong> (Iwahashi M et al., <em>Int J Mol Sci</em> 2023, PMC9916407).</li>
+</ul>
+</li>
+<li><strong>Vai trò của hình ảnh học:</strong> chẩn đoán và phân giai đoạn chủ yếu bằng <strong>soi đáy mắt gián tiếp + chụp đáy mắt góc rộng (RetCam)</strong>. <strong>Siêu âm B-scan</strong> là bắt buộc khi <strong>môi trường đục</strong> (xuất huyết dịch kính, màng sau thể thủy tinh) để xác định <strong>bong võng mạc, phễu mở/đóng, màng co kéo</strong>. <strong>MRI sọ–hốc mắt</strong> chỉ khi <strong>leukocoria chưa rõ nguyên nhân</strong> hoặc nghi <strong>retinoblastoma/u</strong> — không dùng thay soi đáy mắt. <strong>CT</strong> hạn chế vì <strong>xạ</strong> ở trẻ non tháng.</li>
+</ul>
+<h2 id="2-mau-hinh-chan-doan-phan-biet-theo-giai-doan-vi-tri-co-keo-">2. Mẫu hình + chẩn đoán phân biệt theo giai đoạn – vị trí co kéo (gamut)</h2>
+<ul>
+<li><strong>Stage 4A — bong ngoại vi chưa bắt hoàng điểm:</strong> co kéo <strong>ngoại vi &gt; 6 giờ đồng hồ</strong>, hoàng điểm <strong>còn áp</strong>. Lựa chọn: <strong>đai củng mạc</strong> (nếu co kéo ngoại vi, đai quanh/đoạn) hoặc <strong>LSV</strong> (nếu co kéo ra sau hơn). Đây là nhóm <strong>tiên lượng tốt nhất</strong>, thành công <strong>~90%</strong>.</li>
+<li><strong>Stage 4B — bong đã bắt hoàng điểm:</strong> <strong>LSV</strong> là lựa chọn chính; <strong>đai củng mạc đơn thuần không đủ</strong> vì lực kéo đã ra sau hoàng điểm. Thành công thấp hơn 4A (<strong>57–79%</strong> tùy nghiên cứu).</li>
+<li><strong>Stage 5A — phễu mở:</strong> <strong>LV</strong> (thường phải cắt thể thủy tinh) + <strong>bóc màng (membrane peeling)/delamination</strong>; thành công <strong>thấp (~25–33%)</strong>; mục tiêu là <strong>áp võng mạc giải phẫu</strong>, thị lực thường <strong>rất kém</strong>.</li>
+<li><strong>Stage 5B — phễu đóng:</strong> tiên lượng <strong>rất xấu</strong>; phẫu thuật chọn lọc, chủ yếu <strong>giải phẫu</strong>; cần tư vấn <strong>khả năng không có thị lực hữu ích</strong>.</li>
+<li><strong>AP-ROP/plus nặng:</strong> ưu tiên <strong>laser/anti-VEGF trước</strong> nếu chưa bong; nếu đã bong, <strong>kiểm soát hoạt tính mạch máu</strong> trước/trong mổ để giảm <strong>xuất huyết</strong> — không mổ trong tình trạng tân mạch đang hoạt động mạnh nếu trì hoãn được an toàn.</li>
+<li><strong>Bệnh giả ROP (pseudo-ROP) — phải loại trừ trước khi mổ:</strong><ul>
+<li><strong>Retinoblastoma:</strong> khối <strong>vôi hóa thô</strong>, <strong>&lt; 5 tuổi</strong>, có thể <strong>leukocoria</strong>; <strong>siêu âm/MRI</strong> và <strong>không mổ như ROP</strong>.</li>
+<li><strong>Coats disease:</strong> <strong>xuất huyết – tiết dịch</strong>, <strong>KHÔNG vôi hóa điển hình</strong>, thường <strong>một bên</strong>, trẻ trai; <strong>không có tiền sử sinh non</strong>.</li>
+<li><strong>PFV/PHPV:</strong> <strong>dây xơ từ sau thể thủy tinh</strong>, <strong>nhãn cầu nhỏ</strong>, một bên; khác ROP.</li>
+<li><strong>FEVR (familial exudative vitreoretinopathy):</strong> bong co kéo <strong>hai bên</strong>, <strong>tiền sử gia đình</strong>, không có sinh non — dễ nhầm stage 4–5.</li>
+<li><strong>Toxocariasis:</strong> u hạt <strong>một bên</strong>, <strong>bạch cầu ái toan</strong>, tiếp xúc đất/chó mèo.</li>
+<li><strong>Norrie disease:</strong> <strong>mù bẩm sinh + điếc + chậm phát triển</strong>, di truyền <strong>X-linked</strong>.</li>
+</ul>
+</li>
+</ul>
+<h2 id="3-bang-so-sanh-phan-biet-ma-tran-doi-chieu">3. Bảng so sánh phân biệt (ma trận đối chiếu)</h2>
+<table>
+<thead>
+<tr>
+<th>Thực thể/chiến lược (entity)</th>
+<th>Hình ảnh – lâm sàng điển hình</th>
+<th>Chốt vào (rule-in)</th>
+<th>Chốt loại (rule-out)</th>
+<th>Gợi ý xác nhận</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Đai củng mạc (scleral buckle)</strong></td>
+<td>Stage 4A, co kéo <strong>ngoại vi &gt; 6 giờ</strong>, hoàng điểm chưa bắt; đai quanh hoặc đoạn</td>
+<td><strong>Co kéo ngoại vi + hoàng điểm còn áp + không có màng sau thể thủy tinh dày</strong></td>
+<td><strong>4B/5, co kéo ra sau hoàng điểm, màng dày</strong> → cần cắt dịch kính</td>
+<td>Soi đáy mắt góc rộng, B-scan; đánh dấu giờ đồng hồ; theo dõi độ lồi đai</td>
+</tr>
+<tr>
+<td><strong>LSV (cắt dịch kính chừa thể thủy tinh)</strong></td>
+<td>Stage 4A/4B, co kéo <strong>ra sau</strong>, hoàng điểm bị kéo; thể thủy tinh còn trong</td>
+<td><strong>4B hoặc 4A có co kéo trung tâm + thể thủy tinh trong</strong></td>
+<td><strong>Màng sau thể thủy tinh dày/đồng tử hẹp/đục thể thủy tinh</strong> → chuyển LV</td>
+<td>Siêu âm B-scan, soi đáy mắt; đánh giá khả năng tiếp cận màng</td>
+</tr>
+<tr>
+<td><strong>LV (cắt thể thủy tinh + cắt dịch kính)</strong></td>
+<td>Stage 5A/5B, <strong>màng trước võng mạc dày</strong>, đồng tử hẹp, đục thể thủy tinh</td>
+<td><strong>Stage 5 hoặc không tiếp cận được màng qua thể thủy tinh</strong></td>
+<td><strong>Stage 4 còn thể thủy tinh trong, không có chống chỉ định</strong> → ưu tiên LSV</td>
+<td>Soi đáy mắt/trong mổ; B-scan; đánh giá phễu mở/đóng</td>
+</tr>
+<tr>
+<td><strong>Anti-VEGF đơn thuần</strong></td>
+<td>Plus/AP-ROP <strong>chưa bong</strong>, tân mạch hoạt động</td>
+<td><strong>Chưa có bong võng mạc + plus nặng</strong></td>
+<td><strong>Đã bong (stage 4–5)</strong> → anti-VEGF không thay thế mổ</td>
+<td>Soi đáy mắt, chụp góc rộng; theo dõi tái hoạt</td>
+</tr>
+<tr>
+<td><strong>Theo dõi (stage 3 thoái triển)</strong></td>
+<td>Gờ xơ, tân mạch <strong>thoái triển</strong>, không bong</td>
+<td><strong>Không bong + không plus tiến triển</strong></td>
+<td><strong>Bong mới, plus tăng, màng co kéo</strong> → can thiệp</td>
+<td>Soi đáy mắt định kỳ 1–2 tuần khi còn nguy cơ</td>
+</tr>
+<tr>
+<td><strong>Retinoblastoma (giả ROP)</strong></td>
+<td>Khối <strong>vôi hóa thô</strong>, leukocoria, không tiền sử sinh non</td>
+<td><strong>Vôi hóa trong khối + &lt; 5 tuổi</strong></td>
+<td><strong>Tiền sử sinh non + bong co kéo hai bên điển hình</strong> → ROP</td>
+<td>Siêu âm/MRI, khám chuyên khoa u; <strong>không mổ như ROP</strong></td>
+</tr>
+</tbody></table>
+<p><img loading="lazy" decoding="async" src="images/1403_rop-gd4_dai-cung-mac_PMC13271555-Fig1.jpg" alt="Đai củng mạc stage 4: trước mổ (a,b) và sau mổ (c)">
+<em>Bệnh nhân stage 4A/4B: (a,b) co kéo võng mạc ngoại vi <strong>&gt; 6 giờ đồng hồ</strong> trước mổ; (c) ảnh góc rộng sau đai — võng mạc áp, còn <strong>lệch hoàng điểm</strong>. Nguồn: Susvar P et al., Indian J Ophthalmol 2026 (PMC13271555 Fig. 1), CC BY-NC-ND 4.0, giữ nguyên bản.</em></p>
+<h3 id="ba-cau-hoi-truoc-moi-ca-stage-4-5">Ba câu hỏi trước mọi ca stage 4–5</h3>
+<ol>
+<li><strong>Hoàng điểm đã bị bắt chưa?</strong> (4A vs 4B) — quyết định <strong>đai</strong> hay <strong>cắt dịch kính</strong>.</li>
+<li><strong>Lực kéo ở đâu?</strong> Ngoại vi (đai) vs ra sau/hoàng điểm (LSV).</li>
+<li><strong>Có tiếp cận được màng qua thể thủy tinh không?</strong> Nếu không → <strong>LV</strong>.</li>
+</ol>
+<h2 id="4-protocol-chup-danh-gia-thuat-toan-phau-thuat">4. Protocol chụp/đánh giá + thuật toán phẫu thuật</h2>
+<h3 id="4-1-danh-gia-truoc-mo-bat-buoc">4.1. Đánh giá trước mổ (bắt buộc)</h3>
+<ul>
+<li><strong>Soi đáy mắt gián tiếp</strong> với <strong>ấn củng mạc (scleral indentation)</strong> — xác định <strong>vùng (zone), giai đoạn, giờ đồng hồ co kéo, hoàng điểm</strong>.</li>
+<li><strong>Chụp đáy mắt góc rộng (RetCam)</strong> để lưu <strong>baseline</strong> và so sánh; ghi rõ <strong>4A/4B/5A/5B</strong>.</li>
+<li><strong>Siêu âm B-scan</strong> khi <strong>môi trường đục</strong> (xuất huyết dịch kính, màng sau thể thủy tinh): xác định <strong>bong, phễu mở/đóng, màng co kéo, vôi hóa</strong>.</li>
+<li><strong>Đánh giá toàn thân:</strong> <strong>BPD, tăng áp phổi, tim bẩm sinh, ngưng thở</strong> — phối hợp <strong>gây mê nhi</strong>; cân nhắc <strong>mổ tuần tự hai mắt</strong> ở trẻ nguy cơ cao gây mê, với điều kiện kiểm soát được đường thở và theo dõi sau mổ.</li>
+<li><strong>Loại trừ giả ROP</strong> trước khi mổ: <strong>tiền sử sinh non – cân nặng – tuần thai</strong>, <strong>tính chất hai bên</strong>, <strong>vôi hóa</strong>, <strong>tiền sử gia đình</strong>, <strong>siêu âm/MRI</strong>.</li>
+</ul>
+<h3 id="4-2-thuat-toan-chon-phau-thuat">4.2. Thuật toán chọn phẫu thuật</h3>
+<pre class="mermaid">flowchart TD
+  A["ROP: xác định vùng, giai đoạn, plus"] --&gt; B{"Đã bong võng mạc?"}
+  B --&gt;|"Chưa"| C["Stage 1–3: laser/anti-VEGF theo chỉ định"]
+  B --&gt;|"Rồi"| D{"Hoàng điểm bị bắt?"}
+  D --&gt;|"Chưa &amp;#40;4A&amp;#41;"| E{"Co kéo ngoại vi &gt; 6 giờ?"}
+  E --&gt;|"Có"| F["Đai củng mạc quanh/đoạn"]
+  E --&gt;|"Không, co kéo ra sau"| G["LSV: cắt dịch kính chừa thể thủy tinh"]
+  D --&gt;|"Rồi &amp;#40;4B&amp;#41;"| G
+  G --&gt; H{"Màng sau thể thủy tinh dày, đồng tử hẹp?"}
+  H --&gt;|"Có"| I["LV: cắt thể thủy tinh + cắt dịch kính"]
+  H --&gt;|"Không"| J["Tiếp tục LSV"]
+  I --&gt; K["Theo dõi: nhãn áp, võng mạc, khúc xạ, nhược thị"]
+  J --&gt; K
+  F --&gt; K</pre>
+<h3 id="4-3-ky-thuat-va-theo-doi">4.3. Kỹ thuật và theo dõi</h3>
+<ul>
+<li><strong>Đai củng mạc:</strong> đai <strong>quanh (encircling)</strong> cho co kéo lan rộng, <strong>đoạn (segmental)</strong> cho co kéo khu trú; <strong>không siết quá chặt</strong> gây <strong>thiếu máu/hoại tử</strong>; theo dõi <strong>độ lồi đai, nhãn áp, tưới máu</strong>. Có thể <strong>tháo đai sau khi võng mạc ổn định</strong> để giảm <strong>cận thị do đai</strong> — theo dõi sát sau tháo (Hình 2 của PMC13271555).</li>
+<li><strong>LSV:</strong> <strong>23G/25G/27G</strong>, trocar đặt <strong>sau rìa giác mạc thích hợp ở trẻ nhỏ</strong>, tránh <strong>chạm thể thủy tinh</strong>; cắt dịch kính trước, <strong>bóc màng co kéo (delamination)</strong> từ ngoại vi vào trung tâm; <strong>kiểm tra võng mạc chu biên</strong> tìm <strong>rách iatrogenic</strong>; <strong>cầm máu</strong> bằng áp lực/đốt nhẹ.</li>
+<li><strong>LV:</strong> chỉ định khi <strong>không thể bảo tồn thể thủy tinh</strong> hoặc <strong>stage 5</strong>; sau mổ cần <strong>kính áp tròng/thể thủy tinh nhân tạo</strong> và <strong>theo dõi glaucoma</strong>.</li>
+<li><strong>Sau mổ:</strong> <strong>ngày 1–3</strong> kiểm tra <strong>nhãn áp, tiền phòng, võng mạc</strong>; <strong>1 tuần, 1 tháng, 3 tháng, 6 tháng</strong>, sau đó <strong>hằng năm</strong>. Mỗi lần: <strong>thị lực (tuổi), khúc xạ lý liệt, nhãn áp, soi đáy mắt</strong>, tìm <strong>glaucoma, đục thể thủy tinh, tái bong, co kéo hoàng điểm</strong>.</li>
+<li><strong>Phối hợp:</strong> điều trị <strong>nhược thị</strong> khi trẻ đủ tuổi; <strong>kính đủ độ</strong>; theo dõi <strong>lác</strong> (bài 469/472) và <strong>cận thị nặng</strong> (bài 458).</li>
+</ul>
+<h2 id="5-bien-the-binh-thuong-va-cam-bay">5. Biến thể bình thường và cạm bẫy</h2>
+<ul>
+<li><strong>Phân giai đoạn sai vì môi trường đục:</strong> xuất huyết dịch kính che hoàng điểm → dễ gọi <strong>4A</strong> trong khi thực tế <strong>4B</strong>. <strong>B-scan</strong> và <strong>soi lại sau khi máu lắng</strong> là bắt buộc trước khi chọn đai.</li>
+<li><strong>Mổ quá muộn:</strong> thành công giảm mạnh từ <strong>4A (<del>90%) → 4B (</del>57–79%) → 5 (~25–33%)</strong>; <strong>chờ &quot;võng mạc tự áp&quot;</strong> ở stage 4 là mất cơ hội.</li>
+<li><strong>Mổ khi tân mạch còn hoạt động mạnh:</strong> nguy cơ <strong>xuất huyết dịch kính</strong> và <strong>co kéo tái phát</strong>; cân nhắc <strong>laser/anti-VEGF</strong> trước nếu an toàn.</li>
+<li><strong>Chạm thể thủy tinh trong LSV:</strong> gây <strong>đục thể thủy tinh</strong> — biến chứng <strong>16,1%</strong> trong một thuần tập (PMC10759917); dùng <strong>đường vào phù hợp, kiểm soát áp lực</strong>.</li>
+<li><strong>Rách võng mạc iatrogenic:</strong> kiểm tra <strong>chu biên 360°</strong> cuối mổ; nếu có rách → <strong>đai/cắt dịch kính + laser</strong>.</li>
+<li><strong>Glaucoma thứ phát:</strong> <strong>22,6%</strong> sau cắt dịch kính (PMC10759917); theo dõi <strong>nhãn áp suốt đời</strong>, đặc biệt sau <strong>LV</strong>.</li>
+<li><strong>Cận thị nặng sau mổ:</strong> <strong>75,5% &gt; −6 D</strong>, trung bình <strong>−10,1 D</strong> sau LSV stage 4A (PMC9916407); không quy kết do &quot;kính sai&quot; — cần <strong>khúc xạ lý liệt</strong> và <strong>theo dõi trục nhãn cầu</strong>.</li>
+<li><strong>Bỏ sót mắt thứ hai:</strong> ROP thường <strong>hai bên</strong>; khám <strong>cả hai mắt</strong> mỗi lần, kể cả khi một mắt đã mổ.</li>
+<li><strong>Nhầm với retinoblastoma:</strong> <strong>vôi hóa thô + không tiền sử sinh non</strong> → <strong>không mổ như ROP</strong>; siêu âm/MRI và chuyển chuyên khoa u.</li>
+<li><strong>Tưởng &quot;mổ xong là hết&quot;:</strong> thị lực có thể <strong>cải thiện tiếp đến 8 tuổi</strong> ở 4A, nhưng <strong>4B không cải thiện</strong> — cần <strong>theo dõi dài hạn</strong> và <strong>phục hồi chức năng</strong>.</li>
+</ul>
+<h2 id="6-tu-luong-gia-blind-quiz">6. Tự lượng giá — Blind Quiz</h2>
+<p><strong>Ca 1 — Trẻ sinh non 28 tuần, 6 tháng tuổi (tuổi chỉnh), đáy mắt phải: co kéo võng mạc ngoại vi, hoàng điểm còn áp; mắt trái đã laser.</strong></p>
+<p><img loading="lazy" decoding="async" src="images/1403_rop-gd4_vitrectomy_PMC10759917-Fig2.jpg" alt="Ca 1 — stage 4A trước và sau cắt dịch kính"></p>
+<ul>
+<li>Hỏi: giai đoạn nào? Chọn <strong>đai</strong> hay <strong>cắt dịch kính</strong>? Vì sao? Kết cục giải phẫu kỳ vọng?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>(A)</strong> ảnh trước mổ: <strong>bong võng mạc co kéo (TRD) stage 4A</strong>, hoàng điểm còn áp; <strong>(B)</strong> sau <strong>LSV</strong>: võng mạc áp, còn <strong>lệch hoàng điểm</strong>.</li>
+<li><strong>Chọn LSV</strong> nếu co kéo lan ra sau; <strong>đai củng mạc</strong> nếu co kéo <strong>ngoại vi &gt; 6 giờ</strong> và hoàng điểm chưa bị kéo. Ca này ảnh sau mổ cho thấy <strong>LSV</strong> đã được dùng.</li>
+<li><strong>Tiên lượng:</strong> stage 4A là nhóm tốt nhất — đai <strong>~90%</strong>, LSV <strong>~75–91%</strong> tùy nghiên cứu; nhưng vẫn có <strong>cận thị nặng</strong> và <strong>nhược thị</strong> về sau.</li>
+<li>Nguồn ảnh: Bahrani HM et al., Clin Ophthalmol 2023 (PMC10759917 Fig. 2), CC BY-NC 3.0.</details></li>
+</ul>
+<p><strong>Ca 2 — Trẻ 4 tháng tuổi (tuổi chỉnh), đáy mắt trái: xuất huyết dịch kính + bong võng mạc đã bắt hoàng điểm.</strong></p>
+<p><img loading="lazy" decoding="async" src="images/1403_rop-gd4b_vitrectomy_PMC10759917-Fig4.jpg" alt="Ca 2 — stage 4B trước và sau cắt dịch kính"></p>
+<ul>
+<li>Hỏi: vì sao đây là <strong>4B</strong> chứ không phải 4A? Thành công giải phẫu thấp hơn 4A bao nhiêu? Biến chứng cần cảnh báo?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>(A)</strong> xuất huyết dịch kính + <strong>màng co kéo bắt hoàng điểm</strong> → <strong>4B</strong>; <strong>(B,C)</strong> sau cắt dịch kính: võng mạc áp một phần, còn <strong>co kéo/màng tồn dư</strong>.</li>
+<li><strong>Thành công 4B thấp hơn 4A rõ:</strong> <strong>57,1% vs 90,9%</strong> (PMC10759917); tổng quan 10 nghiên cứu cũng xác nhận <strong>stage 4 &gt; stage 5</strong> và <strong>4A &gt; 4B</strong> (PMC11267137).</li>
+<li><strong>Cảnh báo:</strong> <strong>xuất huyết dịch kính, đục thể thủy tinh, glaucoma thứ phát, cắt dịch kính lần hai</strong>; thị lực lâu dài ở 4B <strong>không cải thiện đáng kể</strong> sau 5 tuổi (PMC12373698).</li>
+<li>Nguồn ảnh: Bahrani HM et al., Clin Ophthalmol 2023 (PMC10759917 Fig. 4), CC BY-NC 3.0.</details></li>
+</ul>
+<p><strong>Ca 3 — Trẻ 5 tháng tuổi, đồng tử trắng, siêu âm: bong võng mạc toàn bộ, phễu mở; không thấy vôi hóa.</strong></p>
+<p><img loading="lazy" decoding="async" src="images/1403_rop-gd5_truoc-mo_PMC6302567-Fig4.jpg" alt="Ca 3 — stage 5: màng sau thể thủy tinh trước mổ"></p>
+<ul>
+<li>Hỏi: chẩn đoán? Vì sao phải <strong>cắt thể thủy tinh</strong>? Tiên lượng thị lực và cần loại trừ gì?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li>Ảnh: <strong>màng trắng sau thể thủy tinh (retrolental fibroplasia)</strong> + <strong>bong võng mạc toàn bộ</strong> → <strong>stage 5A</strong> (phễu mở trên siêu âm).</li>
+<li><strong>Phải LV</strong> vì màng sau thể thủy tinh dày, không tiếp cận được màng co kéo qua thể thủy tinh; ảnh trong mổ cho thấy <strong>cắt thể thủy tinh + bóc màng</strong>.</li>
+</ul>
+<p><img loading="lazy" decoding="async" src="images/1403_rop-gd5_trong-mo_PMC6302567-Fig5.jpg" alt="Ca 3 — trong mổ: sau cắt thể thủy tinh, bóc màng"></p>
+<ul>
+<li><strong>Tiên lượng:</strong> thành công <strong>~25–33%</strong>; thị lực thường <strong>rất kém</strong>, mục tiêu chính là <strong>áp võng mạc giải phẫu</strong> và giữ nhãn cầu.</li>
+<li><strong>Loại trừ:</strong> <strong>retinoblastoma</strong> (vôi hóa thô, &lt; 5 tuổi), <strong>Coats</strong>, <strong>PFV</strong>, <strong>FEVR</strong> — siêu âm/MRI trước khi mổ.</li>
+<li>Nguồn ảnh: Kusaka S et al., Taiwan J Ophthalmol 2018 (PMC6302567 Fig. 4–5), CC BY-NC-SA 4.0, giữ nguyên bản.</details></li>
+</ul>
+<h2 id="bai-lien-quan-cheo">Bài liên quan chéo</h2>
+<ul>
+<li><a href="/456-benh-vong-mac-tre-sinh-non/">456 – Bệnh võng mạc trẻ sinh non: zone–stage–plus &amp; AP-ROP</a> (phân loại, sàng lọc)</li>
+<li><a href="/461-chon-thuoc-phac-do-anti-vegf-cho-rop/">461 – Chọn thuốc &amp; phác đồ anti-VEGF cho ROP</a> (anti-VEGF trước/ sau mổ)</li>
+<li><a href="/458-di-chung-theo-doi-dai-han-sau-rop/">458 – Di chứng &amp; theo dõi dài hạn sau ROP</a> (cận thị, lác, nhược thị)</li>
+<li><a href="/468-tele-rop-sang-loc-ai-theo-doi/">468 – Sàng lọc ROP từ xa &amp; AI</a> (phát hiện sớm trước khi bong)</li>
+<li><a href="/472-phau-thuat-lac-tre-sinh-non-rop/">472 – Phẫu thuật lác ở trẻ sinh non/ROP</a> (lác sau ROP)</li>
+<li><a href="/412-u-trong-nhan-cau/">412 – U trong nhãn cầu</a> (retinoblastoma — giả ROP)</li>
+</ul>
+<h2 id="anh">Ảnh</h2>
+<ul>
+<li>Ảnh lấy từ <strong>Europe PMC/PMC</strong> (bản open access), giữ <strong>nguyên bản</strong>, không crop/ghép; nguồn – giấy phép từng file trong <code>images/CREDITS.md</code>.</li>
+<li>Tên file: <code>1403_rop-gd&lt;...&gt;_&lt;nội dung&gt;_PMC&lt;ID&gt;-Fig&lt;k&gt;.jpg</code>.</li>
+</ul>
+<blockquote>
+<p>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.</p>
+</blockquote>
+  </article>
+  <aside class="note">
+    <strong>Lưu ý:</strong> bài học tổng hợp từ y văn mở, dùng để học và tra cứu — không thay thế
+    chẩn đoán của bác sĩ có trách nhiệm. Nguồn chi tiết: <a href="sources.md">sources.md</a> ·
+    <a href="images/CREDITS.md">giấy phép ảnh</a>.
+  </aside>
+  <nav class="pager" aria-label="Điều hướng bài học">
+    <span><a href="/1402-bong-vong-mac-sau-viem-noi-nhan/">← 1402 — Bong võng mạc sau viêm nội nhãn: lỗ hoại tử vs màng co kéo, khi</a></span><span><a href="/1404-bien-chung-man-anti-vegf/">1404 — Biến chứng mạn của tiêm anti-VEGF nội dịch kính / Chronic compl →</a></span>
+  </nav>
+</main>
+<footer class="site-foot">
+  <div class="wrap">
+    <p>Thư viện Chẩn đoán hình ảnh · <a href="/">Hub tra cứu</a> · <a href="/about.html">Giới thiệu &amp; quy trình biên soạn</a> ·
+    <a href="/sitemap.xml">Sitemap</a></p>
+    <p>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.</p>
+  </div>
+</footer>
+<script>
+(function(){
+  var LKEY='rad-learned', uid='1403';
+  var box=document.querySelector('.learnbox'), chk=document.querySelector('.learn-chk');
+  if(!box||!chk) return;
+  function get(){try{return JSON.parse(localStorage.getItem(LKEY)||'{}')||{}}catch(e){return {}}}
+  function set(o){try{localStorage.setItem(LKEY,JSON.stringify(o))}catch(e){}}
+  function paint(on){box.classList.toggle('on',on);chk.checked=on;
+    box.querySelector('.learn-txt').textContent=on?'Đã học ✓':'Đã học';}
+  paint(!!get()[uid]);
+  chk.addEventListener('change',function(){var o=get();if(chk.checked)o[uid]=1;else delete o[uid];set(o);paint(chk.checked);});
+})();
+</script>
+<script type="module">
+import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+mermaid.initialize({startOnLoad:false,securityLevel:"loose",
+  theme: matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "default"});
+try { await mermaid.run({querySelector:".mermaid"}); } catch (e) { console.warn("mermaid:", e); }
+</script>
+</body>
+</html>

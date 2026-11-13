@@ -520,7 +520,8 @@ def curated_copy(index_text):
     for b in re.split(r'(?=<div class="card")', index_text):
         if not b.startswith('<div class="card"'):
             continue
-        m = re.search(r'view\.html\?b=([^&]+)&', b)
+        m = (re.search(r'class="ctitle"[^>]*href="/([^/"]+)/"', b)
+             or re.search(r'view\.html\?b=([^&]+)&', b))
         if not m:
             continue
         d = m.group(1)
@@ -569,17 +570,17 @@ def build_page():
         spans = " ".join(f'<span class="tag">{html.escape(t)}</span>' for t in tags[:4])
         if len(tags) > 4:
             spans += f' <span class="tag more">+{len(tags) - 4}</span>'
-        img_html = (f'<a href="view.html?b={d}&f=lesson.md">'
+        img_html = (f'<a href="/{d}/">'
                     f'<img loading="lazy" src="{img[0]}" alt="{html.escape(img[1])}"></a>' if img else "")
         card_html.append(
             f'<div class="card" data-id="{html.escape(uid)}" data-spec="{spec}" '
             f'data-scores="{html.escape(" ".join(scores))}" data-cert="{html.escape(fm["certainty"])}" '
             f'data-tags="{html.escape(" ".join(tags))}" data-search="{html.escape(search)}">{img_html}'
             f'<div class="cid">{html.escape(uid)} · {spec.upper()}</div>'
-            f'<a class="ctitle" href="view.html?b={d}&f=lesson.md">{html.escape(title)}</a><br>'
+            f'<a class="ctitle" href="/{d}/">{html.escape(title)}</a><br>'
             f'{spans}<span class="cert">{html.escape(cert)}</span><p>{desc}</p>'
-            f'<a href="view.html?b={d}&f=lesson.md">Bài học</a> · '
-            f'<a href="view.html?b={d}&f=sources.md" target="_blank" rel="noopener">Nguồn</a> '
+            f'<a href="/{d}/">Bài học</a> · '
+            f'<a href="/{d}/sources.md" target="_blank" rel="noopener">Nguồn</a> '
             f'<button class="learn" data-learn="{html.escape(uid)}" '
             f'title="Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)">✓ Đã học</button></div>')
         recs.append((uid, tags))
@@ -596,7 +597,7 @@ def build_page():
         return None, 0, 0, []
 
     ov_options = ['<option value="">📚 Bài tổng quan hệ (' + str(len(overviews)) + ")</option>"]
-    ov_options += [f'<option value="view.html?b={d}&f=lesson.md">{html.escape(label)}</option>'
+    ov_options += [f'<option value="/{d}/">{html.escape(label)}</option>'
                    for _, d, label in sorted(overviews)]
     ov_select = '<select id="fOverview" title="Nhảy nhanh tới bài tổng quan của từng hệ">' \
                 + "".join(ov_options) + "</select>"

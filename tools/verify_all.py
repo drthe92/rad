@@ -38,6 +38,8 @@ GATES = {
     "authors": ["tools/check_credits_authors.py"],
     # index.html phải khớp tools/hub_template.html (chặn sửa tay / ghi đè UI)
     "hub": ["tools/build_index.py", "--check"],
+    # trang tĩnh SEO/GEO: index.html từng bài, canonical, JSON-LD, sitemap
+    "static": ["tools/check_static_pages.py", "--quiet"],
 }
 ALL_CHECKS = list(GATES) + ["index"]
 
@@ -93,7 +95,7 @@ def metrics(root=ROOT):
     if os.path.exists(idx_path):
         with open(idx_path, encoding="utf-8") as f:
             txt = f.read()
-        cards = set(re.findall(r'view\.html\?b=([^&"\']+)', txt))
+        cards = set(re.findall(r'class="ctitle" href="/(\d{3,4}-[^/"]+)/"', txt))
 
     images, orphan, orphan_unc, uncredited = 0, 0, 0, 0
     for d in dirs:

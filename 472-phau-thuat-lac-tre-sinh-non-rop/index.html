@@ -1,0 +1,380 @@
+<!doctype html>
+<!-- lesson-sha256: 1edd047a35d3ebba17f198b8e00f05a53fc6074e513da9b3aefd033490d5b42e -->
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>472 — Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát &amp; cạm bẫy giả…</title>
+<meta name="description" content="Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát &amp; cạm bẫy giả…: Cùng một &quot;mắt lác&quot; nhưng cơ chế quyết định có mổ hay không, mổ cơ nào…">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://rad.matcauvong.com/472-phau-thuat-lac-tre-sinh-non-rop/">
+<link rel="alternate" hreflang="vi" href="https://rad.matcauvong.com/472-phau-thuat-lac-tre-sinh-non-rop/">
+<link rel="alternate" type="text/markdown" href="https://rad.matcauvong.com/472-phau-thuat-lac-tre-sinh-non-rop/lesson.md" title="Markdown gốc">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/lesson.css">
+<meta name="author" content="Thư viện Chẩn đoán hình ảnh">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Thư viện Chẩn đoán hình ảnh">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:title" content="472 — Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát &amp; cạm bẫy giả…">
+<meta property="og:description" content="Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát &amp; cạm bẫy giả…: Cùng một &quot;mắt lác&quot; nhưng cơ chế quyết định có mổ hay không, mổ cơ nào…">
+<meta property="og:url" content="https://rad.matcauvong.com/472-phau-thuat-lac-tre-sinh-non-rop/">
+<meta property="og:image" content="https://rad.matcauvong.com/472-phau-thuat-lac-tre-sinh-non-rop/images/472_lac-trong-mat-phai_Anh-lam-sang_Wikimedia-CCBY40.jpg">
+<meta property="og:image:alt" content="472 — Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát &amp; cạm bẫy giả…">
+<meta property="article:modified_time" content="2026-10-20">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="472 — Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát &amp; cạm bẫy giả…">
+<meta name="twitter:description" content="Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát &amp; cạm bẫy giả…: Cùng một &quot;mắt lác&quot; nhưng cơ chế quyết định có mổ hay không, mổ cơ nào…">
+<meta name="twitter:image" content="https://rad.matcauvong.com/472-phau-thuat-lac-tre-sinh-non-rop/images/472_lac-trong-mat-phai_Anh-lam-sang_Wikimedia-CCBY40.jpg">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "MedicalWebPage", "@id": "https://rad.matcauvong.com/472-phau-thuat-lac-tre-sinh-non-rop/#webpage", "url": "https://rad.matcauvong.com/472-phau-thuat-lac-tre-sinh-non-rop/", "name": "472 — Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát & cạm bẫy giả…", "description": "Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát & cạm bẫy giả…: Cùng một \"mắt lác\" nhưng cơ chế quyết định có mổ hay không, mổ cơ nào…", "inLanguage": "vi", "isPartOf": {"@id": "https://rad.matcauvong.com/#website"}, "dateModified": "2026-10-20", "about": [{"@type": "Thing", "name": "lác (strabismus)"}], "audience": {"@type": "MedicalAudience", "audienceType": "Physician, MedicalStudent"}, "isAccessibleForFree": true, "specialty": "Radiology"}, {"@type": "LearningResource", "name": "472 — Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát & cạm bẫy giả…", "description": "Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát & cạm bẫy giả…: Cùng một \"mắt lác\" nhưng cơ chế quyết định có mổ hay không, mổ cơ nào…", "url": "https://rad.matcauvong.com/472-phau-thuat-lac-tre-sinh-non-rop/", "inLanguage": "vi", "learningResourceType": "Bài học chẩn đoán hình ảnh", "educationalLevel": "Chuyên khoa", "isAccessibleForFree": true, "dateModified": "2026-10-20", "provider": {"@type": "Organization", "name": "Thư viện Chẩn đoán hình ảnh", "url": "https://rad.matcauvong.com/"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Hub tra cứu", "item": "https://rad.matcauvong.com/"}, {"@type": "ListItem", "position": 2, "name": "Mắt", "item": "https://rad.matcauvong.com/"}, {"@type": "ListItem", "position": 3, "name": "472 — Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát & cạm bẫy giả…", "item": "https://rad.matcauvong.com/472-phau-thuat-lac-tre-sinh-non-rop/"}]}, {"@type": "WebSite", "@id": "https://rad.matcauvong.com/#website", "url": "https://rad.matcauvong.com/", "name": "Thư viện Chẩn đoán hình ảnh", "description": "Học liệu chẩn đoán hình ảnh tiếng Việt: bản chất bệnh học, cơ chế tạo hình ảnh, chẩn đoán phân biệt, protocol và tự lượng giá; có trích dẫn nguồn mở.", "inLanguage": "vi"}]}</script>
+</head>
+<body>
+<a class="skip" href="#noi-dung">Bỏ qua điều hướng</a>
+<header class="site-head">
+  <div class="wrap">
+    <a class="brand" href="/"><img src="/assets/favicon.svg" alt="" width="22" height="22"> Thư viện Chẩn đoán hình ảnh</a>
+    <span class="grow"></span>
+    <label class="learnbox" title="Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)">
+      <input type="checkbox" class="learn-chk" data-id="472"> <span class="learn-txt">Đã học</span>
+    </label>
+  </div>
+</header>
+<main class="wrap" id="noi-dung">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="/">Hub tra cứu</a><span class="sep">›</span><span>Mắt</span><span class="sep">›</span><span>472</span>
+  </nav>
+  <div class="page-meta">
+    <span class="badge">Mắt</span>
+    <span class="badge">Mức chắc chắn: tổng hợp y văn</span>
+    <time datetime="2026-10-20">Cập nhật: 2026-10-20</time>
+  </div>
+  <article>
+<h1 id="472-phau-thuat-lac-o-tre-sinh-non-rop-chi-dinh-thoi-diem-lie">472 — Phẫu thuật lác ở trẻ sinh non/ROP: chỉ định, thời điểm, liều – tái phát &amp; cạm bẫy giả lác / Strabismus surgery in preterm/ROP children: indications, timing, dosing, recurrence and pseudo-strabismus pitfalls</h1>
+<p><strong>Tags:</strong> <code>pattern:lac</code> <code>pattern:lac-trong</code> <code>pattern:lac-ngoai</code> <code>vung:mat</code> <code>vung:co-van-nhan</code> <code>protocol:do-goc-lac</code> <code>protocol:khuc-xa-ly-liet</code> <code>incidentaloma:rop</code>
+<strong>Mức chắc chắn (certainty):</strong> tổng hợp y văn (literature synthesis) — tổng hợp từ 1 ca nguyên văn có ảnh (PMC7350496), 1 thuần tập 949 trẻ (PMC13018795), 1 nghiên cứu so sánh kết cục mổ 480 mắt (PMC6286133), 1 nghiên cứu tái mổ 24.816 trẻ (PMC10394029), 1 loạt 206 bệnh nhân ROP (PMC10442749) và 1 review thời điểm mổ (PMC9023972); chưa gắn một ca nguyên văn duy nhất của nhóm.</p>
+<blockquote>
+<p><strong>Bài này nối tiếp <a href="/469-lac-nhuoc-thi-tre-sinh-non-rop/">469 – Lác &amp; nhược thị ở trẻ sinh non/ROP</a>.</strong> 469 phủ <strong>dịch tễ, khúc xạ, điều trị nhược thị và nguyên tắc chung</strong>; bài 472 chỉ đi sâu <strong>quyết định phẫu thuật</strong>: ai mổ, mổ khi nào, mổ kiểu gì, vì sao tái phát và những cái bẫy khiến mổ sai.</p>
+</blockquote>
+<h2 id="1-tong-quan-mo-lac-de-lam-gi-va-vi-sao-tre-sinh-non-la-quot-">1. Tổng quan — mổ lác để làm gì, và vì sao trẻ sinh non là &quot;ca khó&quot;</h2>
+<ul>
+<li><strong>Mục tiêu của phẫu thuật (surgical goal):</strong> đưa trục nhãn cầu về <strong>chỉnh vị (orthotropia)</strong> trong <strong>± 10 PD</strong>, tạo điều kiện cho <strong>thị giác hai mắt (binocular single vision)</strong> và <strong>lập thể (stereopsis)</strong>, cải thiện <strong>thẩm mỹ</strong> và <strong>chất lượng sống</strong>. Ở trẻ còn trong <strong>thời kỳ nhạy cảm thị giác</strong>, mục tiêu cảm giác quan trọng ngang mục tiêu vận động.</li>
+<li><strong>Cơ chế vật lý – giải phẫu (TẠI SAO mổ có tác dụng):</strong> lác là <strong>mất cân bằng lực</strong> giữa các cơ vận nhãn. <strong>Lùi cơ (recession)</strong> làm <strong>yếu</strong> cơ (tăng khoảng cách chèn → giảm mô-men xoắn); <strong>cắt cơ (resection)</strong> làm <strong>mạnh</strong> cơ (ngắn lại → tăng lực kéo). Kết quả phụ thuộc <strong>cung cơ – độ đàn hồi – mô sẹo dính</strong> xung quanh, không chỉ số mm lùi/cắt. Vì vậy cùng một liều mổ cho <strong>kết cục khác nhau</strong> ở mắt có sẹo ROP, đã cryo, đã đặt <strong>đai củng mạc (scleral buckle)</strong> hoặc đã <strong>cắt dịch kính (vitrectomy)</strong>.</li>
+<li><strong>Vì sao trẻ sinh non/ROP khó hơn trẻ đủ tháng:</strong><ul>
+<li><strong>Hoàng điểm lệch (macular ectopia)/kéo hoàng điểm (macular drag):</strong> sẹo xơ–mạch kéo hoàng điểm ra <strong>thái dương</strong>, làm <strong>trục thị giác lệch khỏi trục giải phẫu</strong> → <strong>giả lác ngoài (pseudo-exotropia)</strong> dù thật ra <strong>lác trong</strong>. Đây là cạm bẫy chết người của phẫu thuật lác trong ROP.</li>
+<li><strong>Rối loạn phát triển thần kinh (neurodevelopmental disability — NDD):</strong> bại não, bệnh não trắng quanh não thất, xuất huyết não thất — làm <strong>kiểm soát vận nhãn kém</strong>, <strong>tái lác</strong> và <strong>quá chỉnh (overcorrection)</strong> cao hơn.</li>
+<li><strong>Khúc xạ phức tạp:</strong> cận thị nặng sau ROP, <strong>loạn thị</strong>, <strong>dị khúc xạ (anisometropia)</strong>, <strong>viễn thị</strong> — vừa gây lác vừa làm mờ ảnh sau mổ.</li>
+<li><strong>Nhược thị (amblyopia) và rung giật nhãn cầu (nystagmus)</strong> thường đi kèm → kết quả cảm giác kém dù mắt thẳng.</li>
+<li><strong>Mô mềm – củng mạc mỏng, dính:</strong> nguy cơ <strong>thủng củng mạc</strong> khi móc/kéo cơ, đặc biệt mắt đã <strong>cryo điều trị ROP</strong> (đã có báo cáo thủng củng mạc trong mổ lác ở nhóm này — <em>J Pediatr Ophthalmol Strabismus</em> 2007; chưa rõ số ca trong bài gốc).</li>
+</ul>
+</li>
+<li><strong>Ngưỡng định lượng nằm lòng:</strong><ul>
+<li><strong>Tỷ lệ lác ở trẻ sinh non (Gutenberg Prematurity Study Young, 949 trẻ 4–17 tuổi, Fieß A et al., <em>Br J Ophthalmol</em> 2026, PMC13018795):</strong> <strong>6%</strong> ở trẻ đủ tháng → <strong>10%</strong> (33–36 tuần) → <strong>12%</strong> (29–32 tuần) → <strong>23%</strong> (≤ 28 tuần) → <strong>20%</strong> (ROP ≤ 32 tuần không điều trị) → <strong>68%</strong> (ROP ≤ 32 tuần <strong>đã điều trị</strong>). Rung giật nhãn cầu: <strong>0,8% → 0,4% → 1,8% → 2,6% → 5,0% → 47%</strong>.</li>
+<li><strong>Yếu tố nguy cơ lác trong (esotropia):</strong> <strong>viễn thị OR 4,17</strong>; <strong>dị khúc xạ OR 3,09</strong>; mỗi tuần non thêm <strong>OR 1,11</strong>. Lác nói chung: tuổi thai sớm <strong>OR 1,08/tuần</strong>, <strong>loạn thị OR 2,48</strong>, <strong>viễn thị OR 2,09</strong>.</li>
+<li><strong>Kết cục mổ lác ngoài ở trẻ sinh non (Jung EH et al., <em>PLoS One</em> 2018, PMC6286133; 48 trẻ sinh non so với 432 đủ tháng, theo dõi trung bình 34,6 ± 13,9 tháng):</strong> <strong>thành công 60,4% vs 61,8% ở 1 năm</strong> (p = 0,691); <strong>43,8% vs 44,2% ở lần khám cuối</strong> (p = 0,977); <strong>tái phát 33,3% → 54,2%</strong> (sinh non) so với <strong>34,5% → 53,2%</strong> (đủ tháng). <strong>Sinh non tự nó KHÔNG phải yếu tố nguy cơ tái phát</strong> (HR 1,139; KTC 95% 0,757–1,714), nhưng <strong>NDD làm tăng quá chỉnh</strong> (p = 0,004).</li>
+<li><strong>Tái mổ (Lee JY et al., <em>Sci Rep</em> 2023, PMC10394029; 24.816 trẻ ≤ 9 tuổi, Hàn Quốc):</strong> <strong>tỷ lệ tích lũy tái mổ 843/10.000 (8,4%) với lác ngoài</strong> và <strong>1.559/10.000 (15,6%) với lác trong</strong>. Yếu tố nguy cơ: <strong>tuổi mổ &lt; 3 — OR 4,26 (lác ngoài), 6,57 (lác trong)</strong>; <strong>mổ một mắt — OR 6,49 (lác ngoài), 7,20 (lác trong)</strong>.</li>
+<li><strong>Thời điểm – bằng chứng:</strong> lác trong sơ sinh <strong>≥ 40 PD</strong> ở 2–4 tháng <strong>hiếm khi tự hết</strong> (0/45 và 0/21 trong 2 thuần tập — PEDIG, dẫn trong PMC9023972). <strong>ELISS</strong> (231 trẻ mổ sớm, tuổi mổ trung bình <strong>20 tháng</strong>, so với 301 trẻ mổ muộn <strong>49,1 tháng</strong>): lập thể ở 6 tuổi <strong>13,5% vs 3,9%</strong>; số mổ/trẻ <strong>1,18 vs 0,99</strong>. <strong>Mổ sớm (&lt; 24 tháng)</strong> có lợi cho <strong>lập thể</strong>, không khác biệt lớn về <strong>góc lác sau mổ</strong>.</li>
+<li><strong>Phản biện quan trọng (fidelity + critique):</strong> quan niệm &quot;phải chờ góc lác ổn định mới mổ&quot; <strong>không được chứng minh</strong> trong lác trong sơ sinh: Leuder et al. (n = 30) thấy <strong>11/15 thành công ở cả nhóm góc ổn định (&lt; 5 PD dao động) và nhóm dao động &gt; 10 PD</strong> — <strong>không cần trì hoãn chờ ổn định</strong>. Ngược lại, <strong>trì hoãn kéo dài làm mất cơ hội lập thể</strong>. Với trẻ <strong>sinh non/ROP</strong>, lý do trì hoãn đúng là <strong>chờ võng mạc ổn định (ROP ngưng hoạt động, không có bong võng mạc tiến triển)</strong>, không phải &quot;chờ góc ổn định&quot;.</li>
+</ul>
+</li>
+</ul>
+<h2 id="2-mau-hinh-chan-doan-phan-biet-theo-co-che-gamut">2. Mẫu hình + chẩn đoán phân biệt theo cơ chế (gamut)</h2>
+<p><strong>Cùng một &quot;mắt lác&quot; nhưng cơ chế quyết định có mổ hay không, mổ cơ nào và tiên lượng.</strong> Gợi nhớ <strong>RIMS</strong>:</p>
+<ul>
+<li><strong>R — Refractive (khúc xạ):</strong> <strong>lác trong điều tiết (accommodative esotropia)</strong> do <strong>viễn thị chưa chỉnh</strong>; tăng điều tiết → tăng quy tụ → lác trong. <strong>Chỉnh kính lý liệt đủ</strong> có thể làm <strong>thẳng mắt hoàn toàn</strong> → <strong>không mổ</strong>. Thể <strong>một phần (partial accommodative)</strong> còn lác khi nhìn gần dù đeo kính → có thể cần mổ phần còn lại.</li>
+<li><strong>I — Innervational/neurologic (thần kinh):</strong> bại não, <strong>bệnh não trắng quanh não thất</strong>, xuất huyết não thất, não úng thủy, <strong>liệt dây III/IV/VI</strong>, <strong>hội chứng chặn rung giật (nystagmus blockage syndrome)</strong> — trẻ quy tụ để &quot;khóa&quot; rung giật, giả lác trong. Mổ khi chưa xử lý nguyên nhân thần kinh dễ thất bại.</li>
+<li><strong>M — Mechanical/restrictive (cơ học/hạn chế):</strong> <strong>ROP có sẹo (cicatricial ROP)</strong>, <strong>đai củng mạc</strong>, <strong>dính cơ sau cryo/cắt dịch kính</strong>, chấn thương hốc mắt, bệnh tuyến giáp. Nghiệm pháp <strong>kéo cưỡng bức (forced duction test)</strong> dương tính = có thành phần hạn chế → cần <strong>gỡ dính</strong> chứ không chỉ lùi/cắt cơ.</li>
+<li><strong>S — Sensory (cảm giác):</strong> mắt thị lực kém do <strong>ROP nặng, teo thị, đục thể thủy tinh, nhược thị nặng</strong> — mắt yếu &quot;trôi&quot; vào trong hoặc ra ngoài. Mổ <strong>chỉnh thẩm mỹ</strong> là chính; cần nói rõ <strong>không hứa hẹn thị giác hai mắt</strong>.</li>
+</ul>
+<p><strong>Các thể hay gặp ở trẻ sinh non/ROP:</strong></p>
+<ul>
+<li><strong>Lác trong sơ sinh (infantile esotropia):</strong> xuất hiện <strong>trước 6 tháng</strong>, góc <strong>lớn (≥ 40 PD)</strong>, thường <strong>hằng định</strong>, kèm <strong>quá hoạt cơ chéo dưới (inferior oblique overaction — IOOA)</strong>, <strong>lệch dọc không tương xứng (dissociated vertical deviation — DVD)</strong>, <strong>rung giật tiềm ẩn (latent nystagmus)</strong>.</li>
+<li><strong>Lác trong do điều tiết:</strong> thường <strong>2–7 tuổi</strong>, góc <strong>thay đổi theo khoảng cách</strong>, <strong>giảm khi đeo kính viễn</strong>, có <strong>tỷ lệ AC/A cao</strong>.</li>
+<li><strong>Lác ngoài (exotropia):</strong> hay gặp ở trẻ sinh non lớn hơn, <strong>lác ngoài gián đoạn (intermittent exotropia)</strong>, có thể <strong>quá chỉnh sau mổ lác trong (consecutive exotropia)</strong>.</li>
+<li><strong>Lác cảm giác sau ROP:</strong> mắt <strong>thị lực kém</strong>, <strong>hoàng điểm lệch</strong>, có thể kèm <strong>lác dọc</strong> và <strong>xoắn (torsion)</strong>; góc đo bằng <strong>prism cover test</strong> khó vì thị lực kém — dùng <strong>Krimsky/Hirschberg</strong> và <strong>đo ở cả nhìn xa – gần</strong>.</li>
+<li><strong>Giả lác (pseudo-strabismus):</strong> <strong>nếp da góc mắt (epicanthus)</strong>, <strong>góc kappa dương</strong>, <strong>hoàng điểm lệch do ROP</strong> → <strong>trục thị giác lệch</strong>, mắt nhìn như lác ngoài dù <strong>cover test cho thấy lác trong</strong>. <strong>Không được mổ dựa trên Hirschberg đơn thuần.</strong></li>
+</ul>
+<h2 id="3-bang-so-sanh-phan-biet-ma-tran-doi-chieu">3. Bảng so sánh phân biệt (ma trận đối chiếu)</h2>
+<table>
+<thead>
+<tr>
+<th>Thực thể (entity)</th>
+<th>Hình ảnh/lâm sàng điển hình</th>
+<th>Chốt vào (rule-in)</th>
+<th>Chốt loại (rule-out)</th>
+<th>Gợi ý xác nhận</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Lác trong điều tiết (accommodative esotropia)</strong></td>
+<td>Trẻ 2–7 tuổi, lác trong tăng khi nhìn gần, giảm khi đeo kính; viễn thị +2,00 đến +8,00 D</td>
+<td><strong>Khúc xạ lý liệt có viễn thị + góc lác giảm/thẳng khi đeo kính đủ</strong></td>
+<td><strong>Góc lác không đổi dù chỉnh kính đủ</strong> → không phải thể điều tiết thuần</td>
+<td>Khúc xạ lý liệt (cyclopentolate 1% hoặc atropine 1%), đo góc trước/sau kính, AC/A</td>
+</tr>
+<tr>
+<td><strong>Lác trong sơ sinh (infantile esotropia)</strong></td>
+<td>Trước 6 tháng, góc ≥ 40 PD, hằng định, IOOA/DVD, rung giật tiềm ẩn</td>
+<td><strong>Xuất hiện &lt; 6 tháng + góc lớn hằng định + không có viễn thị đáng kể</strong></td>
+<td><strong>Góc nhỏ, gián đoạn, có viễn thị + giảm khi đeo kính</strong> → nghĩ điều tiết</td>
+<td>Đo góc xa/gần, đánh giá IOOA/DVD, khúc xạ lý liệt, theo dõi 2–4 tháng</td>
+</tr>
+<tr>
+<td><strong>Lác cảm giác sau ROP (sensory/cicatricial)</strong></td>
+<td>Tiền sử laser/cryo/vitrectomy; thị lực chênh; <strong>hoàng điểm lệch thái dương</strong>; có thể lác dọc/xoắn</td>
+<td><strong>ROP đã điều trị + thị lực chênh + hoàng điểm lệch + góc đo được bằng Krimsky</strong></td>
+<td><strong>Hai mắt thị lực cân bằng, hoàng điểm đúng vị trí</strong> → không phải cảm giác</td>
+<td>Soi đáy mắt giãn đồng tử, chụp đáy mắt/OCT, siêu âm B-scan nếu media đục, đo góc nhiều lần</td>
+</tr>
+<tr>
+<td><strong>Giả lác ngoài do hoàng điểm lệch (macular drag pseudo-exotropia)</strong></td>
+<td>Nhìn như lác ngoài hai mắt; Hirschberg lệch mũi; <strong>cover test lại là lác trong</strong></td>
+<td><strong>Hirschberg &quot;ngoài&quot; + cover test &quot;trong&quot; + tiền sử ROP + hoàng điểm kéo thái dương</strong></td>
+<td><strong>Cover test xác nhận lác ngoài thật + không có kéo hoàng điểm</strong></td>
+<td><strong>Cover test là chốt</strong>; chụp đáy mắt; không mổ theo Hirschberg</td>
+</tr>
+<tr>
+<td><strong>Lác ngoài gián đoạn (intermittent exotropia)</strong></td>
+<td>Lác ngoài khi mệt/nhìn xa, có lúc thẳng; kiểm soát tốt khi nhìn gần</td>
+<td><strong>Góc ngoài chỉ xuất hiện khi phá dung hợp, còn lúc khác thẳng</strong></td>
+<td><strong>Lác ngoài hằng định + không bao giờ thẳng</strong> → lác ngoài thường trực</td>
+<td>Đo góc xa/gần, test che mắt 30–60 phút, kiểm soát (control)</td>
+</tr>
+<tr>
+<td><strong>Hội chứng chặn rung giật (nystagmus blockage)</strong></td>
+<td>Lác trong &quot;chủ động&quot; để giảm rung giật; đầu quay; thị lực tốt hơn khi lác</td>
+<td><strong>Lác trong + rung giật giảm khi quy tụ + đầu quay</strong></td>
+<td><strong>Không có rung giật, lác trong hằng định</strong> → lác trong thông thường</td>
+<td>Quan sát rung giật khi che mắt, đo thị lực ở các tư thế, ghi video</td>
+</tr>
+</tbody></table>
+<p><img loading="lazy" decoding="async" src="images/472_lac-trong-mat-phai_Anh-lam-sang_Wikimedia-CCBY40.jpg" alt="Lác trong ở trẻ: mắt phải lệch vào trong, chưa chỉnh kính">
+<em>Ảnh lâm sàng lác trong mắt phải (esotropia of the right eye) — minh họa hướng lệch trục nhãn cầu, không phải ca ROP. Ảnh: Kakawere, Wikimedia Commons, CC BY 4.0 (giữ nguyên bản).</em></p>
+<h3 id="ba-dau-hieu-phai-do-truoc-khi-quyet-dinh-mo">Ba dấu hiệu phải đo trước khi quyết định mổ</h3>
+<ul>
+<li><strong>Góc lác (angle of deviation) tính bằng PD (prism diopter), đo ở cả nhìn xa 5–6 m và nhìn gần 33–40 cm</strong>, có/không kính, có/không che mắt. Ghi <strong>góc nguyên phát và góc ở các hướng nhìn</strong> (9 hướng) để phát hiện <strong>không đồng nhất (incomitance)</strong>.</li>
+<li><strong>Kiểm soát (control) và tần suất lác</strong> ở lác gián đoạn: dùng thang <strong>NCS (Newcastle Control Score) 0–7</strong> hoặc <strong>LACTOSE 0–6</strong> — điểm cao = lác nhiều = cân nhắc mổ sớm hơn.</li>
+<li><strong>Lập thể (stereoacuity)</strong>: Titmus/Randot/TNO; <strong>mất lập thể</strong> là lý do mổ sớm, còn <strong>lập thể tốt</strong> cho phép theo dõi ở lác gián đoạn nhẹ.</li>
+</ul>
+<h2 id="4-protocol-chup-do-thuat-toan-phau-thuat">4. Protocol chụp/đo + thuật toán phẫu thuật</h2>
+<h3 id="4-1-danh-gia-truoc-mo-bat-buoc-du-bo">4.1. Đánh giá trước mổ (bắt buộc đủ bộ)</h3>
+<ul>
+<li><strong>Khúc xạ lý liệt (cycloplegic refraction):</strong> <strong>cyclopentolate 1%</strong> (nhỏ 2–3 lần, cách 5 phút) hoặc <strong>atropine 1%</strong> (3 ngày) ở trẻ nhỏ/trẻ có rung giật; <strong>phải chỉnh kính đủ và cho đeo 6–8 tuần</strong> trước khi kết luận không đáp ứng. Ở trẻ sinh non, <strong>cận thị cao sau ROP</strong> phải chỉnh đủ — không cắt bớt độ.</li>
+<li><strong>Thị lực:</strong> tuổi phù hợp (Teller/Snellen/Lea/ETDRS); <strong>thị lực từng mắt</strong> (che mắt) để phát hiện <strong>nhược thị</strong> — mổ lác khi nhược thị chưa điều trị thường <strong>tái lác và kết quả cảm giác kém</strong>.</li>
+<li><strong>Đo vận nhãn:</strong> 9 hướng nhìn, <strong>ductions/versions</strong>, tìm <strong>IOOA</strong> (quá hoạt cơ chéo dưới), <strong>DVD</strong>, <strong>hạn chế vận nhãn</strong>.</li>
+<li><strong>Forced duction test</strong> (dưới gây mê) khi nghi <strong>hạn chế cơ học</strong>: ROP sẹo, đai củng mạc, dính sau cryo. Dương tính → cần <strong>gỡ dính/tenolysis</strong> hoặc <strong>cắt dải xơ</strong>, không chỉ lùi cơ.</li>
+<li><strong>Đáy mắt giãn đồng tử:</strong> loại trừ <strong>bong võng mạc</strong>, <strong>ROP hoạt động</strong>, <strong>kéo hoàng điểm</strong>, <strong>teo thị</strong>; <strong>OCT</strong> nếu trẻ hợp tác; <strong>siêu âm B-scan</strong> nếu đục media.</li>
+<li><strong>Đánh giá toàn thân:</strong> tiền sử <strong>sinh non, cân nặng lúc sinh, ROP, bại não, động kinh, bệnh phổi mạn (BPD)</strong>; <strong>nguy cơ ngưng thở sau mê</strong> ở trẻ sinh non — phối hợp gây mê nhi, theo dõi <strong>SpO₂/apnea</strong> sau mổ theo phác đồ địa phương.</li>
+<li><strong>Chụp hình ảnh:</strong> không có chỉ định chẩn đoán lác bằng CT/MRI thường quy; <strong>MRI/CT sọ</strong> chỉ khi nghi <strong>bệnh thần kinh – hốc mắt</strong> (liệt dây, proptosis, chấn thương). Với ROP, <strong>ảnh đáy mắt/OCT</strong> quan trọng hơn CT.</li>
+</ul>
+<h3 id="4-2-chon-kieu-mo-nguyen-tac-khong-co-cong-thuc-chung">4.2. Chọn kiểu mổ (nguyên tắc, không có công thức chung)</h3>
+<table>
+<thead>
+<tr>
+<th>Tình huống</th>
+<th>Lựa chọn thường dùng</th>
+<th>Điều cần lưu ý</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Lác trong 15–40 PD, không hạn chế</td>
+<td><strong>Lùi hai cơ trực trong (bilateral medial rectus recession)</strong> hoặc <strong>lùi–cắt một mắt (recess–resect)</strong></td>
+<td>Ưu tiên <strong>hai mắt</strong> ở trẻ nhỏ để tránh <strong>tái mổ</strong> (mổ một mắt OR 6,49–7,20)</td>
+</tr>
+<tr>
+<td>Lác trong &gt; 40 PD</td>
+<td><strong>Lùi hai trực trong + lùi/cắt trực ngoài</strong> hoặc <strong>mổ 3–4 cơ</strong></td>
+<td>Nguy cơ <strong>quá chỉnh</strong> và <strong>hạn chế vận nhãn</strong>; cân nhắc <strong>mổ hai thì</strong></td>
+</tr>
+<tr>
+<td>Lác ngoài 15–40 PD</td>
+<td><strong>Lùi hai trực ngoài</strong> hoặc <strong>lùi–cắt một mắt</strong></td>
+<td>Ở trẻ <strong>NDD</strong>, quá chỉnh hay gặp — <strong>giảm liều</strong> so với trẻ thường</td>
+</tr>
+<tr>
+<td>Có <strong>IOOA/DVD</strong></td>
+<td><strong>Làm yếu cơ chéo dưới (IO myectomy/recession)</strong> cùng thì hoặc thì sau</td>
+<td>Không bỏ sót <strong>lệch dọc</strong> — sẽ lộ ra sau khi chỉnh ngang</td>
+</tr>
+<tr>
+<td><strong>Hạn chế cơ học</strong> (ROP sẹo, đai)</td>
+<td><strong>Gỡ dính + lùi cơ</strong>; đôi khi <strong>cắt dải xơ</strong></td>
+<td><strong>Forced duction</strong> quyết định; nguy cơ <strong>thủng củng mạc</strong> ở mắt mỏng</td>
+</tr>
+<tr>
+<td>Lác nhỏ &lt; 10 PD, thẩm mỹ chấp nhận</td>
+<td><strong>Theo dõi/kính lăng</strong> hoặc <strong>botulinum toxin A</strong> (chọn lọc)</td>
+<td>Không mổ chỉ vì &quot;thấy lệch&quot; nếu không ảnh hưởng chức năng/thẩm mỹ</td>
+</tr>
+</tbody></table>
+<ul>
+<li><strong>Liều cụ thể (mm) theo bảng của từng phẫu thuật viên</strong> dựa trên <strong>góc lác, chiều dài nhãn cầu, độ đàn hồi cơ</strong>; <strong>chưa có công thức được kiểm chứng riêng cho trẻ sinh non</strong> — không suy diễn liều người lớn sang trẻ nhỏ.</li>
+<li><strong>Botulinum toxin A</strong> vào cơ trực trong/ngoài là lựa chọn ở <strong>lác nhỏ, lác sau liệt dây VI, hoặc trẻ quá nhỏ</strong>; hiệu quả <strong>tạm thời</strong>, có thể lặp; <strong>không thay thế</strong> mổ khi góc lớn/hạn chế cơ học.</li>
+</ul>
+<h3 id="4-3-thoi-diem-mo-thuat-toan">4.3. Thời điểm mổ — thuật toán</h3>
+<pre class="mermaid">flowchart TD
+  A[Trẻ sinh non/ROP có lác] --&gt; B[Khúc xạ lý liệt + chỉnh kính đủ 6-8 tuần]
+  B --&gt; C{Còn lác sau kính?}
+  C --&gt;|Không| D[Theo dõi, không mổ]
+  C --&gt;|Có| E[Điều trị nhược thị tối ưu]
+  E --&gt; F{Võng mạc ổn định? &lt;br/&gt;ROP ngưng hoạt động, không bong}
+  F --&gt;|Không| G[Trì hoãn, phối hợp võng mạc nhi]
+  F --&gt;|Có| H{Góc lác và loại lác}
+  H --&gt;|Lác trong sơ sinh ≥ 40 PD dưới 24 tháng| I[Mổ sớm để tối ưu lập thể]
+  H --&gt;|Lác điều tiết còn lại| J[Mổ phần còn lại sau kính]
+  H --&gt;|Lác cảm giác/ROP| K[Mổ chỉnh thẩm mỹ + gỡ dính nếu cần]
+  H --&gt;|Lác ngoài gián đoạn| L[Theo dõi nếu kiểm soát tốt; mổ nếu mất kiểm soát]
+  I --&gt; M[Đo lại 1 tuần, 6-8 tuần, 3 tháng]
+  J --&gt; M
+  K --&gt; M
+  L --&gt; M
+  M --&gt; N{Trong ± 10 PD?}
+  N --&gt;|Có| O[Theo dõi 6-12 tháng + lập thể]
+  N --&gt;|Không| P[Cân nhắc chỉnh kính/lăng kính, mổ lại sau &gt;= 3-6 tháng]</pre>
+<ul>
+<li><strong>Ngưỡng thực hành:</strong> mổ khi <strong>góc lác hằng định ≥ 10–15 PD</strong> gây <strong>mất lập thể/rối loạn chức năng</strong> hoặc <strong>ảnh hưởng thẩm mỹ rõ</strong>; với <strong>lác trong sơ sinh ≥ 40 PD</strong>, không chờ tự hết.</li>
+<li><strong>Mốc vàng cho lập thể:</strong> chỉnh vị <strong>trước 12–24 tháng</strong> cho kết quả lập thể tốt nhất; <strong>mổ sau 39 tháng</strong> hầu như <strong>không đạt lập thể</strong> trong loạt của Çerman (dẫn trong PMC9023972) — nhưng vẫn <strong>cải thiện thẩm mỹ/chất lượng sống</strong> ở mọi tuổi.</li>
+<li><strong>Theo dõi sau mổ:</strong> <strong>1 tuần</strong> (nhiễm trùng, hạn chế vận nhãn), <strong>6–8 tuần</strong> (góc lác, quá chỉnh), <strong>3 tháng</strong>, sau đó <strong>6–12 tháng</strong>; đo lại <strong>khúc xạ</strong> vì cận thị ROP có thể tiến triển.</li>
+</ul>
+<h3 id="4-4-he-phan-do-diem-dung-trong-thuc-hanh-khong-co-rads-cho-l">4.4. Hệ phân độ/điểm dùng trong thực hành (không có RADS cho lác)</h3>
+<table>
+<thead>
+<tr>
+<th>Thang</th>
+<th>Thành phần</th>
+<th>Ngưỡng/ý nghĩa</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Góc lác (PD)</strong></td>
+<td>Prism alternate cover test xa/gần</td>
+<td><strong>&lt; 10 PD**: nhỏ; **10–20 PD**: vừa; **20–40 PD**: lớn; **&gt; 40 PD</strong>: rất lớn</td>
+</tr>
+<tr>
+<td><strong>Kiểm soát lác gián đoạn</strong></td>
+<td>NCS 0–7 hoặc LACTOSE 0–6</td>
+<td>Điểm cao = lác thường xuyên; <strong>NCS ≥ 3</strong> thường là ngưỡng cân nhắc can thiệp</td>
+</tr>
+<tr>
+<td><strong>Lập thể</strong></td>
+<td>Titmus/Randot/TNO (arcsec)</td>
+<td>Mất lập thể = ưu tiên mổ sớm; lập thể tốt = theo dõi</td>
+</tr>
+</tbody></table>
+<h2 id="5-bien-the-binh-thuong-va-cam-bay">5. Biến thể bình thường và cạm bẫy</h2>
+<ul>
+<li><strong>Cạm bẫy số 1 — giả lác ngoài do hoàng điểm lệch:</strong> trẻ ROP có <strong>Hirschberg lệch mũi</strong> (trông như lác ngoài) nhưng <strong>cover test cho thấy lác trong</strong>. Nếu mổ theo &quot;lác ngoài&quot; sẽ <strong>làm lác trong nặng thêm</strong>. Ca nguyên văn: bé trai 8 tuổi, <strong>35 PD lác trong</strong>, <strong>−7,50 D</strong>, Hirschberg &quot;ngoài&quot;, cover test &quot;trong&quot;; xử trí <strong>làm yếu hai cơ chéo dưới</strong> vì V-pattern, <strong>cố ý không chỉnh lác trong</strong> để tránh làm giả lác ngoài rõ hơn (Sethi A et al., <em>Indian J Ophthalmol</em> 2020, PMC7350496). Ca 2: bé 6 tuổi, <strong>15° giả lác ngoài</strong>, <strong>−6,50 D</strong>, <strong>điều trị bảo tồn</strong>.</li>
+<li><strong>Cạm bẫy số 2 — mổ lác trong điều tiết khi chưa chỉnh kính đủ:</strong> nếu chưa <strong>khúc xạ lý liệt</strong>, bỏ sót <strong>viễn thị +2,00 đến +8,00 D</strong> → mổ oan, rồi vẫn lác. <strong>Luôn cho đeo kính đủ 6–8 tuần</strong> trước khi kết luận.</li>
+<li><strong>Cạm bẫy số 3 — &quot;chờ góc ổn định&quot; quá lâu:</strong> bằng chứng <strong>không chứng minh</strong> phải chờ (Leuder n = 30); chờ lâu <strong>mất lập thể</strong>. Trì hoãn chỉ hợp lý khi <strong>võng mạc chưa ổn định</strong> hoặc <strong>nhược thị chưa điều trị</strong>.</li>
+<li><strong>Cạm bẫy số 4 — bỏ sót lệch dọc/DVD/IOOA:</strong> chỉnh ngang xong mới lộ <strong>lệch dọc</strong>; cần <strong>đo 9 hướng</strong> và xử lý <strong>cơ chéo</strong> cùng lúc nếu có chỉ định.</li>
+<li><strong>Cạm bẫy số 5 — mổ một mắt ở trẻ nhỏ:</strong> <strong>OR tái mổ 6,49–7,20</strong> so với mổ hai mắt; nếu góc phù hợp, <strong>ưu tiên hai mắt</strong>.</li>
+<li><strong>Cạm bẫy số 6 — quá chỉnh ở trẻ NDD:</strong> <strong>NDD là yếu tố nguy cơ quá chỉnh</strong> (p = 0,004); cân nhắc <strong>giảm liều</strong> và <strong>theo dõi sát</strong>.</li>
+<li><strong>Cạm bẫy số 7 — thủng củng mạc:</strong> mắt ROP đã <strong>cryo</strong> có củng mạc mỏng/dính; <strong>móc cơ nhẹ tay</strong>, dùng <strong>móc không sắc</strong>, kiểm tra <strong>đáy mắt</strong> nếu nghi.</li>
+<li><strong>Cạm bẫy số 8 — coi lác cảm giác là &quot;thất bại kỹ thuật&quot;:</strong> ở mắt thị lực kém, <strong>tái lác là quy luật</strong>, cần <strong>tư vấn trước mổ</strong> rằng mục tiêu là <strong>thẩm mỹ</strong>, không phải thị giác hai mắt.</li>
+<li><strong>Cạm bẫy số 9 — bỏ qua nguy cơ gây mê:</strong> trẻ sinh non/BPD có <strong>nguy cơ ngưng thở sau mê</strong>; <strong>không mổ ngoại trú</strong> ở trẻ nguy cơ cao.</li>
+</ul>
+<p><img loading="lazy" decoding="async" src="images/472_gia-lac-ngoai-truoc-mo_9-huong-nhin_PMC7350496-Fig1-CCBYNCSA.jpg" alt="Giả lác ngoài trước mổ và sau khi làm yếu cơ chéo dưới: V-pattern giảm, nhưng lác trong được giữ nguyên có chủ ý">
+<em>(a) Trước mổ: giả lác ngoài hai mắt, quá hoạt cơ chéo dưới, V-pattern. (b) Sau mổ: V-pattern và động tác nâng khi nhìn vào giảm; <strong>lác trong không chỉnh</strong> để tránh làm giả lác ngoài nặng thêm. Nguồn: Sethi A et al., Indian J Ophthalmol 2020 (PMC7350496), Fig. 1, CC BY-NC-SA 4.0 (giữ nguyên bản).</em></p>
+<p><img loading="lazy" decoding="async" src="images/472_ROP-keo-hoang-diem_Day-mat_PMC7350496-Fig2-CCBYNCSA.jpg" alt="Hoàng điểm bị kéo về phía thái dương ở hai mắt ROP — cơ chế của giả lác ngoài">
+*(a) Ca 1 và (b) Ca 2: <strong>kéo hoàng điểm thái dương (temporal macular drag)</strong>, ROP đã thoái triển. Đĩa thị–hoàng điểm lệch làm trục thị giác lệch khỏi trục giải phẫu → Hirschberg &quot;ngoài&quot; dù cover test &quot;trong&quot;. Nguồn: Sethi A et al., PMC7350496, Fig. 2, CC BY-NC-SA 4.0 (giữ nguyên bản).*</p>
+<h2 id="6-tu-luong-gia-blind-quiz">6. Tự lượng giá — Blind Quiz</h2>
+<p><strong>Ca 1 — Bé trai 8 tuổi, sinh non, đã laser ROP. Nhìn như lác ngoài hai mắt 3 năm. Thị lực 20/40 mỗi mắt với −7,50 D. Hirschberg lệch mũi, nhưng cover test cho thấy mắt đi từ ngoài vào trong.</strong></p>
+<p><img loading="lazy" decoding="async" src="images/472_gia-lac-ngoai-truoc-mo_9-huong-nhin_PMC7350496-Fig1-CCBYNCSA.jpg" alt="Ca 1 — 9 hướng nhìn trước mổ"></p>
+<ul>
+<li>Gợi ý lâm sàng: ROP đã điều trị, cận thị cao, không đau, không song thị (trẻ nhỏ thường không kêu).</li>
+<li>Câu hỏi: Đây là lác ngoài hay lác trong? Vì sao Hirschberg và cover test &quot;nói khác nhau&quot;? Nên mổ cơ nào?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>Dấu hiệu:</strong> Hirschberg <strong>lệch mũi</strong> (giả lác ngoài), nhưng <strong>cover test</strong> cho <strong>chuyển động vào–ra</strong> → <strong>lác trong thật 35 PD</strong>, kèm <strong>quá hoạt cơ chéo dưới hai bên</strong> và <strong>V-pattern</strong>. Đáy mắt: <strong>kéo hoàng điểm thái dương</strong> hai mắt.</li>
+<li><strong>Chẩn đoán:</strong> <strong>giả lác ngoài (pseudo-exotropia) do hoàng điểm lệch + lác trong thật</strong> ở trẻ ROP — không phải lác ngoài.</li>
+<li><strong>Xử trí trong ca nguồn:</strong> <strong>làm yếu hai cơ chéo dưới</strong> để chỉnh V-pattern; <strong>cố ý không chỉnh lác trong</strong> để tránh làm giả lác ngoài rõ hơn. Sau mổ V-pattern và động tác nâng giảm.</li>
+<li><strong>Bài học:</strong> <strong>cover test là chốt</strong>, không mổ theo Hirschberg/ảnh.</li>
+<li>Nguồn ảnh: Sethi A et al., Indian J Ophthalmol 2020 (PMC7350496), Fig. 1, CC BY-NC-SA 4.0.</details></li>
+</ul>
+<p><strong>Ca 2 — Bé gái 5 tuổi, sinh 27 tuần, ROP đã laser, lác ngoài 30 PD. Mổ lùi hai trực ngoài. Ba tháng sau còn lác ngoài 12 PD, mẹ hỏi &quot;có phải mổ lại không&quot;.</strong></p>
+<ul>
+<li>Gợi ý lâm sàng: không có hạn chế vận nhãn, không có NDD, đang đeo kính đúng.</li>
+<li>Câu hỏi: Tỷ lệ thành công và tái phát sau mổ lác ngoài ở trẻ sinh non là bao nhiêu? Có nên mổ lại ngay không?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>Số liệu:</strong> ở 48 trẻ sinh non mổ lác ngoài, <strong>thành công 60,4% ở 1 năm</strong> và <strong>43,8% ở lần khám cuối</strong>; <strong>tái phát 33,3% → 54,2%</strong> — <strong>tương đương trẻ đủ tháng</strong> (61,8%/44,2%; 34,5%→53,2%). <strong>Sinh non không phải yếu tố nguy cơ tái phát</strong> (HR 1,139; KTC 95% 0,757–1,714).</li>
+<li><strong>Chẩn đoán:</strong> <strong>tái lác ngoài sau mổ</strong> — diễn tiến thường gặp, không phải biến chứng bất thường.</li>
+<li><strong>Xử trí:</strong> <strong>theo dõi thêm 3–6 tháng</strong>, đo góc xa/gần, kiểm soát, lập thể; <strong>chỉ mổ lại khi góc ổn định ≥ 15 PD</strong> hoặc ảnh hưởng thẩm mỹ/chức năng. Nếu <strong>NDD</strong>, cảnh báo <strong>nguy cơ quá chỉnh</strong>.</li>
+<li><strong>Bài học:</strong> tư vấn trước mổ rằng <strong>tái phát ~1/2 ở 3–4 năm</strong> là kịch bản có thể xảy ra, không phải &quot;mổ hỏng&quot;.</li>
+<li>Nguồn số: Jung EH et al., PLoS One 2018 (PMC6286133), CC BY 4.0.</details></li>
+</ul>
+<p><strong>Ca 3 — Bé gái 4 tuổi, nhìn gần hay lác trong, nhìn xa thẳng. Chưa đo khúc xạ lý liệt. Mẹ xin mổ vì &quot;cô giáo nói mắt lác&quot;.</strong></p>
+<p><img loading="lazy" decoding="async" src="images/472_lac-trong-mat-phai_Anh-lam-sang_Wikimedia-CCBY40.jpg" alt="Ca 3 — lác trong ở trẻ"></p>
+<ul>
+<li>Gợi ý lâm sàng: lác thay đổi theo khoảng cách; không có tiền sử ROP; chưa đeo kính.</li>
+<li>Câu hỏi: Bước đầu tiên là gì? Khi nào mới cân nhắc mổ?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>Dấu hiệu:</strong> lác trong <strong>tăng khi nhìn gần</strong>, giảm/straight khi nhìn xa — gợi ý <strong>thành phần điều tiết</strong>.</li>
+<li><strong>Chẩn đoán:</strong> nghi <strong>lác trong điều tiết (accommodative esotropia)</strong> do <strong>viễn thị chưa chỉnh</strong>; cần <strong>khúc xạ lý liệt</strong> (cyclopentolate 1% hoặc atropine 1%).</li>
+<li><strong>Xử trí:</strong> <strong>chỉnh kính viễn đủ</strong> và cho đeo <strong>6–8 tuần</strong>; nếu thẳng hoàn toàn → <strong>không mổ</strong>. Nếu còn lác khi nhìn gần/gần với kính → <strong>lác điều tiết một phần</strong>, có thể mổ <strong>phần còn lại</strong> sau khi đã chỉnh kính và điều trị nhược thị.</li>
+<li><strong>Bài học:</strong> <strong>không mổ lác trước khi đo khúc xạ lý liệt</strong> — đây là lỗi hay gặp nhất ở trẻ mầm non.</li>
+<li>Nguồn ảnh: Kakawere, Wikimedia Commons, CC BY 4.0 (ảnh minh họa, không phải ca cụ thể).</details></li>
+</ul>
+<h2 id="bai-lien-quan-cheo">Bài liên quan chéo</h2>
+<ul>
+<li><a href="/400-tong-quan-mat-thi-giac/">400 – Tổng quan Mắt &amp; thị giác</a></li>
+<li><a href="/469-lac-nhuoc-thi-tre-sinh-non-rop/">469 – Lác &amp; nhược thị ở trẻ sinh non/ROP</a></li>
+<li><a href="/456-benh-vong-mac-tre-sinh-non/">456 – Bệnh võng mạc trẻ sinh non (ROP): phân vùng – giai đoạn – sàng lọc</a></li>
+<li><a href="/458-di-chung-theo-doi-dai-han-sau-rop/">458 – Di chứng &amp; theo dõi dài hạn sau ROP</a></li>
+<li><a href="/471-rung-giat-nhan-cau-tre-nhu-nhi/">471 – Rung giật nhãn cầu ở trẻ nhũ nhi &amp; trẻ sinh non</a></li>
+<li><a href="/483-sang-loc-thi-luc-tre-mam-non/">483 – Sàng lọc thị lực trẻ mầm non</a></li>
+</ul>
+<h2 id="anh">Ảnh</h2>
+<ul>
+<li>Tên file <code>472_&lt;mô tả&gt;_&lt;modality&gt;_&lt;nguồn&gt;-&lt;Fig&gt;-&lt;license&gt;.jpg</code>; nguồn + giấy phép từng ảnh trong <code>images/CREDITS.md</code>.</li>
+<li>Ảnh PMC7350496 là <strong>CC BY-NC-SA 4.0</strong> — dùng nguyên bản, <strong>không crop/kéo giãn</strong>, ghi công và chia sẻ lại theo cùng giấy phép.</li>
+<li>Ảnh Wikimedia Commons là <strong>CC BY 4.0</strong>, ghi công tác giả.</li>
+<li>Không tải ảnh từ AuntMinnie/paywall; nguồn đóng chỉ dẫn link ở <code>sources.md</code>.</li>
+</ul>
+<blockquote>
+<p>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.</p>
+</blockquote>
+  </article>
+  <aside class="note">
+    <strong>Lưu ý:</strong> bài học tổng hợp từ y văn mở, dùng để học và tra cứu — không thay thế
+    chẩn đoán của bác sĩ có trách nhiệm. Nguồn chi tiết: <a href="sources.md">sources.md</a> ·
+    <a href="images/CREDITS.md">giấy phép ảnh</a>.
+  </aside>
+  <nav class="pager" aria-label="Điều hướng bài học">
+    <span><a href="/471-rung-giat-nhan-cau-tre-nhu-nhi/">← 471 — Rung giật nhãn cầu ở trẻ nhũ nhi &amp; trẻ sinh non: phân biệt thể c</a></span><span><a href="/473-u-lympho-T-NK-va-u-lympho-thu-phat-o-mat/">473 — U lympho T/NK nội nhãn &amp; u lympho THỨ PHÁT ở mắt: khi IL-10 khôn →</a></span>
+  </nav>
+</main>
+<footer class="site-foot">
+  <div class="wrap">
+    <p>Thư viện Chẩn đoán hình ảnh · <a href="/">Hub tra cứu</a> · <a href="/about.html">Giới thiệu &amp; quy trình biên soạn</a> ·
+    <a href="/sitemap.xml">Sitemap</a></p>
+    <p>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.</p>
+  </div>
+</footer>
+<script>
+(function(){
+  var LKEY='rad-learned', uid='472';
+  var box=document.querySelector('.learnbox'), chk=document.querySelector('.learn-chk');
+  if(!box||!chk) return;
+  function get(){try{return JSON.parse(localStorage.getItem(LKEY)||'{}')||{}}catch(e){return {}}}
+  function set(o){try{localStorage.setItem(LKEY,JSON.stringify(o))}catch(e){}}
+  function paint(on){box.classList.toggle('on',on);chk.checked=on;
+    box.querySelector('.learn-txt').textContent=on?'Đã học ✓':'Đã học';}
+  paint(!!get()[uid]);
+  chk.addEventListener('change',function(){var o=get();if(chk.checked)o[uid]=1;else delete o[uid];set(o);paint(chk.checked);});
+})();
+</script>
+<script type="module">
+import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+mermaid.initialize({startOnLoad:false,securityLevel:"loose",
+  theme: matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "default"});
+try { await mermaid.run({querySelector:".mermaid"}); } catch (e) { console.warn("mermaid:", e); }
+</script>
+</body>
+</html>

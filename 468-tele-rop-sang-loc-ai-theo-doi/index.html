@@ -1,0 +1,323 @@
+<!doctype html>
+<!-- lesson-sha256: e964ce705671c4b78ed795e924f4387e3a7dc0a3b2a99cdbb9f72d1961c7fe59 -->
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>468 — Sàng lọc ROP từ xa (tele-ROP) &amp; trí tuệ nhân tạo / Tele-ROP screening &amp; artificial…</title>
+<meta name="description" content="Sàng lọc ROP từ xa (tele-ROP) &amp; trí tuệ nhân tạo: Mẫu hình không phải &quot;một tổn thương&quot; mà là một chuỗi giá trị (workflow) ; DDx ở đây là chọn nút thắt nào để…">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://rad.matcauvong.com/468-tele-rop-sang-loc-ai-theo-doi/">
+<link rel="alternate" hreflang="vi" href="https://rad.matcauvong.com/468-tele-rop-sang-loc-ai-theo-doi/">
+<link rel="alternate" type="text/markdown" href="https://rad.matcauvong.com/468-tele-rop-sang-loc-ai-theo-doi/lesson.md" title="Markdown gốc">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/lesson.css">
+<meta name="author" content="Thư viện Chẩn đoán hình ảnh">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Thư viện Chẩn đoán hình ảnh">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:title" content="468 — Sàng lọc ROP từ xa (tele-ROP) &amp; trí tuệ nhân tạo / Tele-ROP screening &amp; artificial…">
+<meta property="og:description" content="Sàng lọc ROP từ xa (tele-ROP) &amp; trí tuệ nhân tạo: Mẫu hình không phải &quot;một tổn thương&quot; mà là một chuỗi giá trị (workflow) ; DDx ở đây là chọn nút thắt nào để…">
+<meta property="og:url" content="https://rad.matcauvong.com/468-tele-rop-sang-loc-ai-theo-doi/">
+<meta property="og:image" content="https://rad.matcauvong.com/468-tele-rop-sang-loc-ai-theo-doi/images/468_tele-rop_quy-trinh-tele-AI_SJO-2022-Fig5-CCBYNCSA.jpg">
+<meta property="og:image:alt" content="468 — Sàng lọc ROP từ xa (tele-ROP) &amp; trí tuệ nhân tạo / Tele-ROP screening &amp; artificial…">
+<meta property="article:modified_time" content="2026-10-19">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="468 — Sàng lọc ROP từ xa (tele-ROP) &amp; trí tuệ nhân tạo / Tele-ROP screening &amp; artificial…">
+<meta name="twitter:description" content="Sàng lọc ROP từ xa (tele-ROP) &amp; trí tuệ nhân tạo: Mẫu hình không phải &quot;một tổn thương&quot; mà là một chuỗi giá trị (workflow) ; DDx ở đây là chọn nút thắt nào để…">
+<meta name="twitter:image" content="https://rad.matcauvong.com/468-tele-rop-sang-loc-ai-theo-doi/images/468_tele-rop_quy-trinh-tele-AI_SJO-2022-Fig5-CCBYNCSA.jpg">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "MedicalWebPage", "@id": "https://rad.matcauvong.com/468-tele-rop-sang-loc-ai-theo-doi/#webpage", "url": "https://rad.matcauvong.com/468-tele-rop-sang-loc-ai-theo-doi/", "name": "468 — Sàng lọc ROP từ xa (tele-ROP) & trí tuệ nhân tạo / Tele-ROP screening & artificial…", "description": "Sàng lọc ROP từ xa (tele-ROP) & trí tuệ nhân tạo: Mẫu hình không phải \"một tổn thương\" mà là một chuỗi giá trị (workflow) ; DDx ở đây là chọn nút thắt nào để…", "inLanguage": "vi", "isPartOf": {"@id": "https://rad.matcauvong.com/#website"}, "dateModified": "2026-10-19", "about": [{"@type": "Thing", "name": "tân mạch võng mạc (retinal neovascularization)"}], "audience": {"@type": "MedicalAudience", "audienceType": "Physician, MedicalStudent"}, "isAccessibleForFree": true, "specialty": "Radiology"}, {"@type": "LearningResource", "name": "468 — Sàng lọc ROP từ xa (tele-ROP) & trí tuệ nhân tạo / Tele-ROP screening & artificial…", "description": "Sàng lọc ROP từ xa (tele-ROP) & trí tuệ nhân tạo: Mẫu hình không phải \"một tổn thương\" mà là một chuỗi giá trị (workflow) ; DDx ở đây là chọn nút thắt nào để…", "url": "https://rad.matcauvong.com/468-tele-rop-sang-loc-ai-theo-doi/", "inLanguage": "vi", "learningResourceType": "Bài học chẩn đoán hình ảnh", "educationalLevel": "Chuyên khoa", "isAccessibleForFree": true, "dateModified": "2026-10-19", "provider": {"@type": "Organization", "name": "Thư viện Chẩn đoán hình ảnh", "url": "https://rad.matcauvong.com/"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Hub tra cứu", "item": "https://rad.matcauvong.com/"}, {"@type": "ListItem", "position": 2, "name": "Mắt", "item": "https://rad.matcauvong.com/"}, {"@type": "ListItem", "position": 3, "name": "468 — Sàng lọc ROP từ xa (tele-ROP) & trí tuệ nhân tạo / Tele-ROP screening & artificial…", "item": "https://rad.matcauvong.com/468-tele-rop-sang-loc-ai-theo-doi/"}]}, {"@type": "WebSite", "@id": "https://rad.matcauvong.com/#website", "url": "https://rad.matcauvong.com/", "name": "Thư viện Chẩn đoán hình ảnh", "description": "Học liệu chẩn đoán hình ảnh tiếng Việt: bản chất bệnh học, cơ chế tạo hình ảnh, chẩn đoán phân biệt, protocol và tự lượng giá; có trích dẫn nguồn mở.", "inLanguage": "vi"}]}</script>
+</head>
+<body>
+<a class="skip" href="#noi-dung">Bỏ qua điều hướng</a>
+<header class="site-head">
+  <div class="wrap">
+    <a class="brand" href="/"><img src="/assets/favicon.svg" alt="" width="22" height="22"> Thư viện Chẩn đoán hình ảnh</a>
+    <span class="grow"></span>
+    <label class="learnbox" title="Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)">
+      <input type="checkbox" class="learn-chk" data-id="468"> <span class="learn-txt">Đã học</span>
+    </label>
+  </div>
+</header>
+<main class="wrap" id="noi-dung">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="/">Hub tra cứu</a><span class="sep">›</span><span>Mắt</span><span class="sep">›</span><span>468</span>
+  </nav>
+  <div class="page-meta">
+    <span class="badge">Mắt</span>
+    <span class="badge">Mức chắc chắn: tổng hợp y văn</span>
+    <time datetime="2026-10-19">Cập nhật: 2026-10-19</time>
+  </div>
+  <article>
+<h1 id="468-sang-loc-rop-tu-xa-tele-rop-amp-tri-tue-nhan-tao-tele-ro">468 — Sàng lọc ROP từ xa (tele-ROP) &amp; trí tuệ nhân tạo / Tele-ROP screening &amp; artificial intelligence</h1>
+<p><strong>Tags:</strong> <code>pattern:rop</code> <code>vung:vong-mac</code> <code>score:ICROP</code> <code>protocol:tele-ROP</code> <code>protocol:AI-sang-loc-ROP</code>
+<strong>Mức chắc chắn (certainty):</strong> tổng hợp y văn (literature synthesis) — nhóm tự biên từ y văn mở (Saudi J Ophthalmol 2022 CC BY-NC-SA; Eye Brain 2016 CC BY-NC; Sci Rep 2019 CC BY; JAMA Netw Open 2021 CC BY; J Ophthalmol 2021 CC BY; Diagnostics 2021 CC BY; Ophthalmol Sci 2022 CC BY-NC-ND; BMC Ophthalmol 2021 CC BY), chưa gắn một ca nguyên văn đơn lẻ.</p>
+<h2 id="1-tong-quan-vi-sao-rop-phai-quot-ra-khoi-quot-phong-kham-chu">1. Tổng quan — vì sao ROP phải &quot;ra khỏi&quot; phòng khám chuyên gia</h2>
+<ul>
+<li><strong>Bối cảnh (pathology – epidemiology):</strong> ROP vẫn là <strong>nguyên nhân mù có thể điều trị hàng đầu ở trẻ em</strong>. Khi hồi sức sơ sinh lan rộng ở nước thu nhập trung bình mà hạ tầng sàng lọc không theo kịp, xuất hiện <strong>&quot;đại dịch ROP thứ ba&quot;</strong> (Tan Z et al., <em>Saudi J Ophthalmol</em> 2022, PMC9583350). Nghịch lý vận hành: <strong>gánh nặng đọc ảnh rất lớn nhưng sản lượng điều trị rất thấp</strong> — chỉ khoảng <strong>1–2%</strong> trẻ được sàng lọc cần điều trị (bài <a href="/456-benh-vong-mac-tre-sinh-non/">456</a>), nên &quot;mỗi giờ bác sĩ chuyên gia&quot; là tài nguyên khan hiếm nhất.</li>
+<li><strong>Ba phương thức sàng lọc</strong> (Tan Z, PMC9583350): <strong>soi đáy mắt gián tiếp hai mắt (binocular indirect ophthalmoscopy — BIO)</strong>; <strong>chụp ảnh võng mạc số góc rộng (wide-field digital retinal imaging — WFDRI)</strong>; và <strong>sàng lọc từ xa (teleophthalmology / tele-ROP)</strong>. BIO là &quot;chuẩn vàng&quot; nhưng có <strong>3 hạn chế cấu trúc</strong>: (1) độ đồng thuận giữa người khám thấp (interoperator agreement), (2) khó mở rộng quy mô (scalability), (3) rào cản địa lý — đây chính là 3 khe hở mà <strong>ảnh số hóa + tele-ROP + AI</strong> lấp vào.</li>
+<li><strong>TẠI SAO ảnh võng mạc trẻ non lại khó (cơ chế hình ảnh):</strong> võng mạc chưa mạch hóa hoàn toàn nằm ở <strong>ngoại vi cực trước xích đạo</strong> → muốn thấy ranh giới mạch/vô mạch phải có <strong>góc rộng thật</strong>; môi trường trong suốt thường <strong>đục nhẹ</strong> (mờ dịch kính, sương giác mạc do ấn đầu dò), <strong>đồng tử nhỏ</strong>, trẻ <strong>cử động</strong> → ảnh hay mờ, lệch sáng, cháy (glare). <strong>Bản thân đậm độ/tín hiệu không phải vấn đề</strong> (ảnh quang học màu), cái quyết định là <strong>độ phân giải ranh giới mạch–vô mạch và mức vằn xoắn mạch cực sau</strong> (plus disease).</li>
+<li><strong>Ngưỡng định lượng nằm lòng:</strong><ul>
+<li><strong>Tiêu chí sàng lọc:</strong> mọi trẻ <strong>tuổi thai ≤ 30 tuần VÀ/HOẶC cân nặng sinh ≤ 1500 g</strong>; mở rộng cho <strong>30–32 tuần hoặc 1500–2000 g có yếu tố nguy cơ</strong> (hỗ trợ hô hấp, tim mạch…). Tiêu chí <strong>rất khác nhau giữa các quốc gia</strong>, dù cùng nhóm thu nhập thì thường giống nhau (Tan Z, PMC9583350).</li>
+<li><strong>Chụp ảnh chuẩn:</strong> bộ <strong>5–6 ảnh</strong> kinh điển (cực sau quanh đĩa thị + thái dương, mũi, trên, dưới + ảnh ngoài nhãn cầu) (Thanos A et al., <em>Eye Brain</em> 2016, PMC5398746).</li>
+<li><strong>Điện thoại so với máy chuẩn:</strong> trường nhìn của <strong>chụp đáy mắt bằng điện thoại (smartphone-based fundus imaging — SBFI)</strong> chỉ bằng <strong>khoảng 1/2,5 (tỷ lệ đường kính 1:2,5)</strong> so với máy tiếp xúc, nhưng <strong>độ chi tiết tương đương</strong>, thời gian khám dài hơn (<strong>109,0 ± 57,8 giây</strong> so với <strong>75,9 ± 36,3 giây</strong>, p &lt; 0,01) (Wintergerst MWM et al., <em>Sci Rep</em> 2019, PMC6928229).</li>
+<li><strong>Hiệu năng AI gộp (meta-analysis):</strong> 9 nghiên cứu / 15 bộ phân loại — <strong>độ nhạy gộp 0,953</strong> (KTC 95% 0,946–0,959), <strong>độ đặc hiệu gộp 0,975</strong> (0,973–0,977), <strong>AUC đường SROC 0,984</strong> (0,978–0,989) (Zhang J et al., <em>J Ophthalmol</em> 2021, PMC8363465).</li>
+<li><strong>Thang độ nặng mạch máu (vascular severity score — VSS):</strong> do AI gán <strong>từ 1 đến 9</strong>, tăng dần theo mức ICROP; VSS gắn chặt với plus disease và ROP cần điều trị (Cole E et al., <em>Ophthalmol Sci</em> 2022, PMC9754980).</li>
+</ul>
+</li>
+</ul>
+<h2 id="2-mau-hinh-chan-doan-phan-biet-theo-quot-nut-that-quot-gamut">2. Mẫu hình + chẩn đoán phân biệt theo &quot;nút thắt&quot; (gamut theo công suất)</h2>
+<p>Mẫu hình không phải &quot;một tổn thương&quot; mà là <strong>một chuỗi giá trị (workflow)</strong>; DDx ở đây là <strong>chọn nút thắt nào để can thiệp</strong>.</p>
+<ul>
+<li><strong>Nút thắt 1 — thiếu camera:</strong> xử lý bằng <strong>WFDRI giá rẻ</strong> hoặc <strong>SBFI</strong> (điện thoại + thấu kính Pan Retinal 2.2, không tiếp xúc). SBFI hy sinh <strong>trường nhìn</strong> để đổi lấy <strong>chi phí và tính di động</strong> (Wintergerst MWM, PMC6928229).</li>
+<li><strong>Nút thắt 2 — thiếu chuyên gia đọc:</strong> xử lý bằng <strong>AI triage</strong> (lọc ảnh bình thường để chuyên gia chỉ đọc ca nghi ngờ) và <strong>bản đồ nhiệt giải thích (explainable AI)</strong> để tăng tin cậy (Wang J et al., <em>JAMA Netw Open</em> 2021, PMC8100867).</li>
+<li><strong>Nút thắt 3 — thiếu mạng lưới tiếp cận:</strong> xử lý bằng <strong>nền tảng đặt hẹn/tư vấn qua điện thoại</strong> (ví dụ WeChat): trong đại dịch, <strong>tỷ lệ hoàn thành lịch hẹn trực tuyến 58,1% so với 22,1% đối với hẹn trực tiếp</strong> (p = 0,018) và số trẻ được sàng lọc <strong>năm 2020 (54 trẻ) không giảm</strong> so với 2019 (51 trẻ) (Guo Z et al., <em>BMC Ophthalmol</em> 2021, PMC8192130).</li>
+<li><strong>Chuỗi tele-ROP điển hình</strong> (Tan Z, PMC9583350): xác định trẻ theo tiêu chí → chụp ảnh, <strong>đưa lên cơ sở dữ liệu chia sẻ</strong> → (nếu có) <strong>CBIA/AI sàng lọc ảnh</strong> → nghi ROP? → <strong>chuyên gia đọc</strong> → xác định ROP → <strong>xuất viện hoặc theo dõi tiếp</strong>.</li>
+</ul>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_quy-trinh-tele-AI_SJO-2022-Fig5-CCBYNCSA.jpg" alt="Quy trình tele-ROP có nhánh CBIA/AI triage">
+<em>Sơ đồ luồng: trẻ đủ tiêu chí → ảnh đưa lên cơ sở dữ liệu chia sẻ → có CBIA/AI? → AI sàng lọc → nghi ROP? → chuyên gia đọc → xác định ROP? → xuất viện / theo dõi. Nguồn: Tan Z et al., Saudi J Ophthalmol 2022, PMC9583350 Fig. 5, CC BY-NC-SA 4.0 (giữ nguyên bản).</em></p>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_soi-day-mat-BIO_SJO-2022-Fig2-CCBYNCSA.jpg" alt="Soi đáy mắt gián tiếp (BIO) bằng thấu kính hội tụ — &quot;chuẩn vàng&quot; nhưng phụ thuộc chuyên gia">
+<em>BIO với thấu kính cầm tay trên trẻ sơ sinh: mở van banh mi, đèn soi trực tiếp. Hạn chế: khó mở rộng, tốn chuyên gia. Nguồn: Tan Z et al., PMC9583350 Fig. 2, CC BY-NC-SA 4.0 (giữ nguyên bản).</em></p>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_hen-kham-WeChat_BMCOphthalmol-2021-Fig1-CCBY.jpg" alt="Mạng lưới đặt hẹn qua điện thoại giúp duy trì sàng lọc trong đại dịch">
+<em>Giao diện ứng dụng đặt hẹn khám ROP trên điện thoại/máy tính bảng. Nguồn: Guo Z et al., BMC Ophthalmol 2021, PMC8192130 Fig. 1, CC BY 4.0.</em></p>
+<h2 id="3-bang-so-sanh-phan-biet-ma-tran-doi-chieu">3. Bảng so sánh phân biệt (ma trận đối chiếu)</h2>
+<table>
+<thead>
+<tr>
+<th>Phương thức (entity)</th>
+<th>Hình ảnh/đầu ra điển hình</th>
+<th>Chốt vào (rule-in)</th>
+<th>Chốt loại (rule-out)</th>
+<th>Gợi ý xác nhận</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Soi đáy mắt gián tiếp (BIO)</td>
+<td>Quan sát động, không có ảnh lưu</td>
+<td><strong>Bất kỳ mức non nào + cần đánh giá động/3D tại giường</strong></td>
+<td>Không thể lưu ảnh để hội chẩn từ xa → khó audit</td>
+<td>Chuẩn vàng; nhưng đồng thuận giữa người khám thấp</td>
+</tr>
+<tr>
+<td>Chụp số góc rộng (WFDRI: RetCam, 3nethra)</td>
+<td>Ảnh màu góc rộng nhiều ô, thấy tới ngoại vi</td>
+<td><strong>Ảnh góc rộng thấy ranh giới mạch/vô mạch + vằn mạch cực sau</strong></td>
+<td>Trường nhìn hẹp/ảnh mờ không tới ngoại vi → không loại trừ được ROP ngoại vi</td>
+<td>So khớp ảnh ICROP; lưu trữ + hội chẩn từ xa</td>
+</tr>
+<tr>
+<td>Chụp đáy mắt bằng điện thoại (SBFI)</td>
+<td>Ảnh tròn nhỏ, trường nhìn <strong>~1/2,5</strong> máy chuẩn</td>
+<td><strong>Nguồn lực thấp + cần cơ động</strong>; đồng thuận plus κ 0,88, giai đoạn κ 0,81</td>
+<td><strong>Trường nhìn nhỏ</strong> → dễ bỏ sót tổn thương ngoại vi (zone II–III xa)</td>
+<td>So với CFI: Se/Sp plus <strong>90%/100%</strong>, ROP <strong>88%/93%</strong></td>
+</tr>
+<tr>
+<td>AI triage (học sâu)</td>
+<td>Điểm số/VSS 1–9 + bản đồ nhiệt</td>
+<td><strong>AUC 0,98–0,999 cho plus/ROP</strong> → lọc ca bình thường</td>
+<td><strong>Dịch chuyển miền (domain shift)</strong> khi đổi máy/chủng tộc → âm tính giả</td>
+<td>Đọc lại bởi chuyên gia khi AI dương/không chắc</td>
+</tr>
+<tr>
+<td>Tele-ROP lai (AI + chuyên gia)</td>
+<td>Chuỗi workflow có nhánh AI</td>
+<td><strong>Nghi ROP → chuyển chuyên gia → theo dõi/xuất viện</strong></td>
+<td><strong>AI âm nhưng ảnh chất lượng kém</strong> → không được xuất viện</td>
+<td>Cơ sở dữ liệu chia sẻ + lịch theo dõi theo guideline địa phương</td>
+</tr>
+</tbody></table>
+<p><img loading="lazy" decoding="async" src="images/composite_468_tele-rop-vs-AI.jpg" alt="Đối chiếu: tele-ROP bằng điện thoại vs phân tích AI">
+<em>Trái: tái hiện ROP bằng điện thoại (ảnh lớn = máy chuẩn, ảnh nhỏ = SBFI). Phải: bản đồ nhiệt AI (CAM/DeepSHAP) định vị vùng quyết định &quot;giai đoạn&quot; và &quot;xuất huyết&quot;. Nguồn: Wintergerst MWM et al., Sci Rep 2019 (PMC6928229) CC BY 4.0 + Wang J et al., JAMA Netw Open 2021 (PMC8100867) CC BY 4.0. Ảnh ghép letterbox, giữ nguyên bản.</em></p>
+<h3 id="bang-phu-hieu-nang-dinh-luong-cua-cac-he-ai-de-so-sanh-quot-">Bảng phụ — hiệu năng định lượng của các hệ AI (để so sánh &quot;chốt&quot; bằng số)</h3>
+<table>
+<thead>
+<tr>
+<th>Hệ thống</th>
+<th>Nguồn</th>
+<th>Đầu ra</th>
+<th>Độ nhạy / độ đặc hiệu / AUC</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>i-ROP DL (VSS 1–9)</td>
+<td>Cole E, PMC9754980</td>
+<td>plus disease; VSS</td>
+<td>AUC <strong>0,999 (Nepal)</strong> / <strong>0,968 (Mongolia)</strong></td>
+</tr>
+<tr>
+<td>Nền tảng đa chiều 4 bộ phân loại</td>
+<td>Wang J, PMC8100867</td>
+<td>stage, xuất huyết, pre-plus/plus, RW-ROP</td>
+<td>AUC <strong>0,983–0,998</strong>; hệ chuyển tuyến AUC <strong>0,9901–0,9956</strong></td>
+</tr>
+<tr>
+<td>Gộp 9 nghiên cứu / 15 bộ phân loại</td>
+<td>Zhang J, PMC8363465</td>
+<td>phân loại + phân độ</td>
+<td>Se gộp <strong>0,953</strong>; Sp gộp <strong>0,975</strong>; SROC AUC <strong>0,984</strong></td>
+</tr>
+<tr>
+<td>DIAROP (ResNet+Inception+FWHT)</td>
+<td>Attallah O, PMC8620568</td>
+<td>bệnh / không bệnh</td>
+<td>độ chính xác <strong>93,2%</strong>; AUC <strong>0,98</strong></td>
+</tr>
+</tbody></table>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_AI-ROC_JAMANetwOpen-2021-Fig1-CCBY.jpg" alt="AI đa chiều: đường ROC cho từng bộ phân loại">
+<em>Bốn bộ phân loại độc lập: (A) giai đoạn, (B) xuất huyết, (C) pre-plus/plus, (D) ROP cần chuyển tuyến (RW-ROP). AUC huấn luyện/kiểm định/kiểm tra đều ~0,98–0,999. Nguồn: Wang J et al., JAMA Netw Open 2021, PMC8100867 Fig. 1, CC BY 4.0.</em></p>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_AI-ban-do-nhiet_JAMANetwOpen-2021-Fig2-CCBY.jpg" alt="Bản đồ nhiệt giải thích (explainable AI): AI &quot;nhìn&quot; vào đâu">
+<em>CAM/DeepSHAP: vùng đỏ = nơi AI dựa vào để quyết định (gờ tăng sinh, xuất huyết, phản xạ giả). Nguồn: Wang J et al., PMC8100867 Fig. 2, CC BY 4.0.</em></p>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_AI-meta-forest_JOphthalmol-2021-Fig2-CCBY.jpg" alt="Gộp 9 nghiên cứu: rừng độ nhạy, độ đặc hiệu và DOR">
+<em>Forest plot: độ nhạy gộp 0,95; độ đặc hiệu gộp 0,98; DOR gộp 313,73; SROC AUC 0,984. Nguồn: Zhang J et al., J Ophthalmol 2021, PMC8363465 Fig. 2, CC BY 4.0.</em></p>
+<h2 id="4-protocol-chup-he-phan-do-diem-chuan-hoa">4. Protocol chụp + hệ phân độ/điểm chuẩn hóa</h2>
+<ul>
+<li><strong>Chuẩn bị:</strong> giãn đồng tử (cyclopentolate 0,2% ± phenylephrine 1%), <strong>không ấn nhãn cầu</strong>, ghi lại <strong>PMA tại thời điểm chụp</strong> (vì tổn thương đổi theo tuần).</li>
+<li><strong>Chụp:</strong> bộ <strong>5–6 ảnh</strong> — ngoài nhãn cầu + cực sau quanh đĩa thị + thái dương + mũi + trên + dưới (Thanos A, PMC5398746).</li>
+<li><strong>Kiểm tra chất lượng ảnh + xác định vùng (zone) tự động:</strong> phần mềm cho phép <strong>Zoom/Pan/Brightness/Contrast/Saturation/Text</strong> và công cụ <strong>&quot;Draw Zone 1&quot;</strong> vẽ vòng zone I quanh đĩa thị (Thanos A, PMC5398746). Zone I lấy <strong>2 khoảng đĩa–hoàng điểm</strong>.</li>
+<li><strong>Đọc và mã hóa:</strong> nhập trực tiếp <strong>giãn đồng tử? rubeosis? tình trạng mạch (Normal/Pre-Plus/Plus); giai đoạn cao nhất (S1–S4/5); zone thấp nhất (1/2/3)</strong>; phần mềm tự gợi ý <strong>lịch theo dõi tiếp</strong> (Thanos A, PMC5398746).</li>
+<li><strong>AI/PROTOCOL hiện đại:</strong> (1) bộ phân loại <strong>chất lượng ảnh</strong> loại ảnh mờ trước; (2) các bộ phân loại <strong>giai đoạn, xuất huyết, pre-plus/plus, RW-ROP</strong>; (3) <strong>VSS 1–9</strong> để theo dõi tiến triển/đáp ứng điều trị; (4) <strong>bản đồ nhiệt giải thích</strong> để chuyên gia kiểm tra lại (Wang J, PMC8100867; Cole E, PMC9754980).</li>
+<li><strong>Ngưỡng hành động (giữ nguyên từ bài 456):</strong> <strong>Type 1 (ETROP)</strong> — zone I bất kỳ giai đoạn <strong>có plus</strong>; zone I <strong>stage 3</strong>; zone II <strong>stage 2–3 có plus</strong> → điều trị trong <strong>48–72 giờ</strong>. <strong>AP-ROP</strong> điều trị cấp cứu, không chờ phân giai đoạn.</li>
+</ul>
+<pre class="mermaid">flowchart TD
+  A[Trẻ đủ tiêu chí sàng lọc&lt;br/&gt;≤ 30 tuần và/hoặc ≤ 1500 g] --&gt; B[Giãn đồng tử + chụp 5-6 ảnh&lt;br/&gt;WFDRI hoặc SBFI]
+  B --&gt; C{Bộ phân loại chất lượng ảnh&lt;br/&gt;đạt ngưỡng?}
+  C --&gt;|Không - ảnh mờ| B
+  C --&gt;|Có| D[AI triage:&lt;br/&gt;stage / hemorrhage / plus / RW-ROP&lt;br/&gt;+ gán VSS 1-9]
+  D --&gt; E{AI nghi ROP&lt;br/&gt;hoặc VSS tăng?}
+  E --&gt;|Không| F[Chuyên gia xác nhận bình thường&lt;br/&gt;-&gt; xuất viện, theo lịch]
+  E --&gt;|Có| G[Chuyên gia đọc ảnh&lt;br/&gt;đối chiếu bản đồ nhiệt]
+  G --&gt; H{ROP xác định?}
+  H --&gt;|Không| F
+  H --&gt;|Có - Type 1 / AP-ROP| I[Điều trị trong 48-72 giờ]
+  H --&gt;|Có - không Type 1| J[Theo dõi theo ICROP&lt;br/&gt;zone I: 1 tuần, zone II-III: 1-2 tuần]</pre>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_giao-dien-phan-mem_EyeBrain-2016-Fig1-CCBYNC.jpg" alt="Giao diện đọc ảnh tele-ROP: nhập giai đoạn, zone, mức mạch">
+<em>Trường nhập liệu chuẩn hóa: montage mắt phải (SUP/TEMP/POST/NAS/INF + ảnh ngoài), trạng thái mạch Normal/Pre-Plus/Plus, giai đoạn cao nhất S1–S4/5, zone thấp nhất 1/2/3, gợi ý theo dõi. Nguồn: Thanos A et al., Eye Brain 2016, PMC5398746 Fig. 1, CC BY-NC 3.0 (giữ nguyên bản).</em></p>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_xac-dinh-zone1-tu-dong_EyeBrain-2016-Fig2-CCBYNC.jpg" alt="Xác định zone I tự động trên ảnh số">
+<em>(A) Công cụ &quot;Draw Zone 1&quot; vẽ vòng zone I quanh đĩa thị trên ảnh cực sau. (B) Ảnh ngoại vi mờ — minh họa vì sao cần kiểm tra chất lượng trước khi kết luận. Nguồn: Thanos A et al., PMC5398746 Fig. 2, CC BY-NC 3.0 (giữ nguyên bản).</em></p>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_thiet-bi-dien-thoai_SciRep-2019-Fig1-CCBY.jpg" alt="Thiết bị chụp đáy mắt bằng điện thoại (SBFI)">
+<em>Điện thoại + thấu kính Pan Retinal 2.2, chụp gián tiếp không tiếp xúc — phương án chi phí thấp cho nơi thiếu máy. Nguồn: Wintergerst MWM et al., Sci Rep 2019, PMC6928229 Fig. 1, CC BY 4.0.</em></p>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_AI-DIAROP-5-pha_Diagnostics-2021-Fig2-CCBY.jpg" alt="Năm pha của một công cụ AI điển hình (DIAROP)">
+<em>Tiền xử lý → trích đặc trưng không gian (ResNet/Inception/Inception-ResNet/Xception) → biến đổi Walsh-Hadamard → tích hợp đặc trưng (DCT/AE/PCA) → phân loại bệnh/không bệnh. Nguồn: Attallah O, Diagnostics 2021, PMC8620568 Fig. 2, CC BY 4.0.</em></p>
+<h2 id="5-bien-the-binh-thuong-va-cam-bay">5. Biến thể bình thường và cạm bẫy</h2>
+<ul>
+<li><strong>Ảnh kém chất lượng &quot;núp bóng&quot; âm tính giả (cạm bẫy số 1):</strong> đồng tử chưa giãn, mờ dịch kính, phản xạ giả, lệch sáng → AI có thể &quot;bình thường hóa&quot;. <strong>Luôn chạy bộ phân loại chất lượng ảnh trước</strong>; ảnh không đạt thì chụp lại, <strong>không được xuất viện</strong>.</li>
+<li><strong>Dịch chuyển miền (domain shift):</strong> AI huấn luyện trên máy này (RetCam) có thể giảm hiệu năng trên máy khác (3nethra) hoặc dân số khác — Cole E (PMC9754980) phải kiểm định trên <strong>2 máy + 2 quốc gia</strong> mới dám dùng. <strong>Không bê nguyên ngưỡng của bài gốc sang máy của mình.</strong></li>
+<li><strong>Trường nhìn nhỏ của điện thoại:</strong> SBFI chỉ bằng <strong>~1/2,5</strong> đường kính máy chuẩn → <strong>dễ bỏ sót tổn thương ngoại vi (zone II–III xa)</strong>; phải chấp nhận là công cụ bổ trợ/cơ động, không thay thế hoàn toàn WFDRI.</li>
+<li><strong>&quot;Satisfaction of search&quot;:</strong> thấy một tổn thương (ví dụ xuất huyết) rồi ngừng tìm plus/zone ngoại vi — đọc hệ thống theo từng ô ảnh.</li>
+<li><strong>Phụ thuộc quá mức vào AI (automation bias):</strong> đặc biệt khi ảnh xấu; giữ nguyên tắc <strong>AI âm nhưng ảnh kém = chưa kết luận</strong>.</li>
+<li><strong>Phản xạ giả (artifact):</strong> mép thấu kính, bọng khí, phản chiếu đèn → giả &quot;gờ/tân mạch&quot; (xem hàng &quot;artifacts&quot; trong bản đồ nhiệt, PMC8100867 Fig. 2).</li>
+<li><strong>Cạm bẫy trách nhiệm:</strong> tele-ROP vẫn cần <strong>bác sĩ chịu trách nhiệm pháp lý cuối cùng</strong>; ảnh lưu trữ phải đủ để truy vết (audit).</li>
+</ul>
+<h2 id="6-tu-luong-gia-blind-quiz">6. Tự lượng giá — Blind Quiz</h2>
+<p><strong>Ca 1 — Quy trình tele-ROP trong một mạng lưới có AI: bước nào quyết định &quot;xuất viện&quot;?</strong></p>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_quy-trinh-tele-AI_SJO-2022-Fig5-CCBYNCSA.jpg" alt="Ca 1 — sơ đồ luồng tele-ROP"></p>
+<ul>
+<li>Bối cảnh: nơi chưa có đủ bác sĩ chuyên khoa muốn dùng AI để lọc trước.</li>
+<li>Câu hỏi: AI nằm ở bước nào? Nếu AI &quot;không nghi ROP&quot; thì có được xuất viện ngay không? Hai nhánh &quot;ROP nghi ngờ&quot; và &quot;ROP xác định&quot; khác nhau ra sao?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>Luồng:</strong> trẻ đủ tiêu chí → chụp ảnh, đưa lên <strong>cơ sở dữ liệu chia sẻ</strong> → hỏi <strong>&quot;CBIA/AI có sẵn?&quot;</strong> → nếu có, <strong>AI sàng lọc ảnh</strong> → <strong>&quot;ROP nghi ngờ?&quot;</strong> → nếu nghi, <strong>chuyển chuyên gia đọc</strong> → <strong>&quot;ROP xác định?&quot;</strong> → nếu không, <strong>xuất viện</strong>; nếu có, <strong>theo dõi theo guideline địa phương</strong>.</li>
+<li><strong>AI là bước triage, KHÔNG phải người kết luận:</strong> nhánh &quot;No&quot; ở &quot;ROP nghi ngờ?&quot; đi thẳng xuống <strong>Discharge</strong> chỉ khi ảnh đạt chất lượng; trên thực tế vẫn giữ ngưỡng an toàn (ảnh kém → không xuất viện).</li>
+<li><strong>Chẩn đoán:</strong> đây là sơ đồ <strong>tele-ROP lai (AI + chuyên gia)</strong> — mấu chốt là <strong>AI giảm tải cho chuyên gia</strong>, không thay thế.</li>
+<li>Nguồn: Tan Z et al., Saudi J Ophthalmol 2022, PMC9583350 Fig. 5, CC BY-NC-SA 4.0 (giữ nguyên bản).</details></li>
+</ul>
+<p><strong>Ca 2 — Giao diện đọc ảnh: dấu hiệu nào bắt buộc nhập trước khi quyết định lịch theo dõi?</strong></p>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_giao-dien-phan-mem_EyeBrain-2016-Fig1-CCBYNC.jpg" alt="Ca 2 — màn hình đọc ảnh tele-ROP"></p>
+<ul>
+<li>Bối cảnh: một mạng lưới mới, cần chuẩn hóa dữ liệu đọc ảnh.</li>
+<li>Câu hỏi: Kể tên các trường nhập liệu chính? Vì sao phải nhập cả <strong>zone thấp nhất</strong> lẫn <strong>giai đoạn cao nhất</strong>?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>Trường nhập:</strong> đồng tử đủ giãn? <strong>rubeosis</strong>? tình trạng mạch (<strong>Normal/Pre-Plus/Plus</strong>); <strong>giai đoạn cao nhất</strong> (No ROP/S1/S2/S3 Flat/S3 Typical/S4–S5/Indet); <strong>zone thấp nhất</strong> (1/2/3); ghi chú và <strong>lịch theo dõi gợi ý</strong>.</li>
+<li><strong>Vì sao cả hai:</strong> <strong>zone quyết định tiên lượng/ngưỡng điều trị</strong>, <strong>giai đoạn quyết định mức tăng sinh</strong>; một ca có thể <strong>stage 3 ở zone II</strong> (Type 1 nếu có plus) nhưng cũng có <strong>stage 1 ở zone I</strong> (nguy hiểm vì zone I). Thiếu một trong hai → quyết định sai.</li>
+<li><strong>Chẩn đoán:</strong> montage mắt phải (SUP/TEMP/POST/NAS/INF + ảnh ngoài nhãn cầu) theo bộ 5–6 ảnh chuẩn.</li>
+<li>Nguồn: Thanos A et al., Eye Brain 2016, PMC5398746 Fig. 1, CC BY-NC 3.0 (giữ nguyên bản).</details></li>
+</ul>
+<p><strong>Ca 3 — AI gán điểm: đọc ROC và VSS để quyết định ngưỡng</strong></p>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_AI-ROC-Nepal-Mongolia_OphthalmolSci-2022-Fig1-CCBYNCND.jpg" alt="Ca 3 — ROC của AI trên hai dân số"></p>
+<ul>
+<li>Bối cảnh: đánh giá một hệ AI đã huấn luyện trên máy RetCam, giờ dùng ở nơi khác máy.</li>
+<li>Câu hỏi: VSS phân biệt plus disease tốt đến đâu? Vì sao phải xem <strong>cả ROC lẫn đường precision-recall</strong>?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>Kết quả:</strong> VSS đối chiếu <strong>plus disease</strong> — AUC <strong>0,999 (Nepal)</strong> và <strong>0,968 (Mongolia)</strong>; đối chiếu <strong>TR-ROP</strong> — AUC <strong>0,969</strong> và <strong>0,916</strong>. Đường precision-recall cần thiết vì <strong>bệnh hiếm</strong> (type 1 ROP: Mongolia <strong>14,0%</strong> vs Nepal <strong>2,2%</strong>) khiến ROC &quot;đẹp&quot; dễ gây ảo giác.</li>
+<li><strong>Điểm chốt (clincher):</strong> VSS <strong>1–9</strong> tăng đơn điệu theo mức ICROP → dùng để <strong>phát hiện tiến triển/tái hoạt</strong>, không chỉ phân loại nhị phân.</li>
+<li><strong>Chẩn đoán:</strong> hệ i-ROP DL, kiểm định đa trung tâm/đa máy — bằng chứng cho việc dùng AI ở nơi thu nhập thấp–trung bình (Nepal dùng máy 3nethra, Mongolia dùng RetCam).</li>
+<li>Nguồn: Cole E et al., Ophthalmol Sci 2022, PMC9754980 Fig. 1, CC BY-NC-ND 4.0 (giữ nguyên bản, không ghép).</details></li>
+</ul>
+<p><strong>Ca 4 — Nhìn vào &quot;trí tuệ&quot; của AI: bản đồ nhiệt có tin được không?</strong></p>
+<p><img loading="lazy" decoding="async" src="images/468_tele-rop_AI-ban-do-nhiet_JAMANetwOpen-2021-Fig2-CCBY.jpg" alt="Ca 4 — bản đồ nhiệt CAM/DeepSHAP"></p>
+<ul>
+<li>Bối cảnh: muốn biết AI ra quyết định dựa trên dấu hiệu bệnh hay trên <strong>nhiễu/ảnh giả</strong>.</li>
+<li>Câu hỏi: Ở hàng &quot;Stage&quot; và &quot;Hemorrhage&quot;, vùng đỏ nằm ở đâu? Ở hàng có phản xạ giả (reflection), AI có bị &quot;lừa&quot; không?</li>
+</ul>
+<details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
+
+<ul>
+<li><strong>Hàng Stage:</strong> vùng đỏ tập trung ở <strong>gờ tăng sinh/ranh giới mạch–vô mạch</strong>. <strong>Hàng Hemorrhage:</strong> vùng đỏ ở <strong>ổ xuất huyết</strong>. <strong>Hàng phản xạ/artifact:</strong> vùng đỏ dồn vào <strong>đốm sáng giả</strong>, cảnh báo AI <strong>có thể bám vào nhiễu</strong> nếu ảnh cháy sáng.</li>
+<li><strong>Ý nghĩa:</strong> bản đồ nhiệt (CAM/DeepSHAP) giúp chuyên gia kiểm tra AI có dựa vào <strong>dấu hiệu bệnh thật</strong> không → đây là cơ sở của <strong>explainable AI</strong>.</li>
+<li><strong>Chẩn đoán:</strong> nền tảng đa chiều 4 bộ phân loại (stage/xuất huyết/pre-plus-plus/RW-ROP), AUC 0,983–0,998.</li>
+<li>Nguồn: Wang J et al., JAMA Netw Open 2021, PMC8100867 Fig. 2, CC BY 4.0.</details></li>
+</ul>
+<h2 id="bai-lien-quan-cheo">Bài liên quan chéo</h2>
+<ul>
+<li><a href="/456-benh-vong-mac-tre-sinh-non/">456 – Bệnh võng mạc trẻ sinh non (ROP): zone–stage–plus &amp; AP-ROP</a></li>
+<li><a href="/457-benh-gia-rop-tre-du-thang/">457 – Bệnh &quot;giả ROP&quot; ở trẻ đủ tháng (FEVR, Norrie, IP, Coats)</a></li>
+<li><a href="/458-di-chung-theo-doi-dai-han-sau-rop/">458 – Di chứng &amp; theo dõi dài hạn sau ROP</a></li>
+<li><a href="/461-chon-thuoc-phac-do-anti-vegf-cho-rop/">461 – Chọn thuốc &amp; phác đồ anti-VEGF cho ROP</a></li>
+<li><a href="/469-lac-nhuoc-thi-tre-sinh-non-rop/">469 – Xử trí lác &amp; nhược thị ở trẻ sinh non/ROP</a></li>
+<li><a href="/401-phuong-thuc-mat/">401 – Phương thức chẩn đoán hình ảnh mắt</a></li>
+</ul>
+<h2 id="anh">Ảnh</h2>
+<ul>
+<li>Tên file <code>468_tele-rop_&lt;nội dung&gt;_&lt;Tạp chí&gt;-&lt;Năm&gt;-Fig&lt;k&gt;-&lt;giấy phép&gt;.jpg</code>; nguồn + giấy phép từng ảnh trong <code>images/CREDITS.md</code>.</li>
+<li>Ảnh <strong>CC BY-NC / CC BY-NC-ND / CC BY-NC-SA</strong> giữ <strong>nguyên bản</strong> (không crop, không ghép). Chỉ ảnh <strong>CC BY</strong> được dùng để tạo <strong>ảnh ghép</strong> (<code>composite_468_tele-rop-vs-AI.jpg</code>, letterbox giữ nguyên tỷ lệ).</li>
+</ul>
+<blockquote>
+<p>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.</p>
+</blockquote>
+  </article>
+  <aside class="note">
+    <strong>Lưu ý:</strong> bài học tổng hợp từ y văn mở, dùng để học và tra cứu — không thay thế
+    chẩn đoán của bác sĩ có trách nhiệm. Nguồn chi tiết: <a href="sources.md">sources.md</a> ·
+    <a href="images/CREDITS.md">giấy phép ảnh</a>.
+  </aside>
+  <nav class="pager" aria-label="Điều hướng bài học">
+    <span><a href="/467-norrie-di-truyen-tu-van-va-theo-doi/">← 467 — Norrie: tư vấn di truyền X-linked, chẩn đoán trước sinh &amp; theo d</a></span><span><a href="/469-lac-nhuoc-thi-tre-sinh-non-rop/">469 — Lác &amp; nhược thị ở trẻ sinh non/ROP: kính chỉnh, bịt mắt vs atrop →</a></span>
+  </nav>
+</main>
+<footer class="site-foot">
+  <div class="wrap">
+    <p>Thư viện Chẩn đoán hình ảnh · <a href="/">Hub tra cứu</a> · <a href="/about.html">Giới thiệu &amp; quy trình biên soạn</a> ·
+    <a href="/sitemap.xml">Sitemap</a></p>
+    <p>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.</p>
+  </div>
+</footer>
+<script>
+(function(){
+  var LKEY='rad-learned', uid='468';
+  var box=document.querySelector('.learnbox'), chk=document.querySelector('.learn-chk');
+  if(!box||!chk) return;
+  function get(){try{return JSON.parse(localStorage.getItem(LKEY)||'{}')||{}}catch(e){return {}}}
+  function set(o){try{localStorage.setItem(LKEY,JSON.stringify(o))}catch(e){}}
+  function paint(on){box.classList.toggle('on',on);chk.checked=on;
+    box.querySelector('.learn-txt').textContent=on?'Đã học ✓':'Đã học';}
+  paint(!!get()[uid]);
+  chk.addEventListener('change',function(){var o=get();if(chk.checked)o[uid]=1;else delete o[uid];set(o);paint(chk.checked);});
+})();
+</script>
+<script type="module">
+import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+mermaid.initialize({startOnLoad:false,securityLevel:"loose",
+  theme: matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "default"});
+try { await mermaid.run({querySelector:".mermaid"}); } catch (e) { console.warn("mermaid:", e); }
+</script>
+</body>
+</html>

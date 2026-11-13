@@ -122,6 +122,7 @@ Thứ tự nguồn và luật license: theo bảng nguồn trong `AGENTS.md` và
 - Bài có **ID 4 chữ số** (dải tràn): phải vào đúng hệ — thêm ID vào `CLASSIFY_4D` trong `tools/build_index.py`
   (hoặc gắn `vung:` khớp `VUNG_SPEC`). Không có chuyên mục "Khác"; thiếu phân loại thì `build_index.py` DỪNG.
 - `index.html`: **BẮT BUỘC** chạy `python3 tools/build_index.py` sau khi thêm bài — file này sinh từ `tools/hub_template.html`, **không sửa tay** (sửa tay bị lượt sau ghi đè + cổng `hub` FAIL). Đổi UI (tabs/chips/filter/responsive) → sửa `tools/hub_template.html`.
+- **Trang bài tĩnh + sitemap (SEO/GEO):** chạy `python3 tools/build_lesson_pages.py --only <ID> --sitemap` sau khi thêm/sửa bài (hoặc `--all` khi sửa template/CSS). Sinh `/{slug}/index.html`, `sitemap.xml`, `llms.txt`; **không sửa tay**. Cổng `static` sẽ FAIL nếu trang cũ hơn `lesson.md`.
 - `BACKLOG.md`: flip mục vừa viết sang `xong` (kèm số liệu chính, ngắn).
 
 ## 8. Verify (không được bỏ)
@@ -132,7 +133,7 @@ Chạy theo skill `rad-verify`:
 python3 tools/verify_all.py
 ```
 
-- Exit 0 + **6/6** (selfcheck, lint, mermaid, authors, hub, index) → được commit. Dòng phải là
+- Exit 0 + **7/7** (selfcheck, lint, mermaid, authors, hub, static, index) → được commit. Dòng phải là
   `VERIFY PASS`, không phải `VERIFY PARTIAL PASS`.
 - FAIL → sửa và chạy lại; nếu không sửa được trong lượt → **không commit**,
   release khóa, báo lỗi cụ thể.
@@ -172,6 +173,7 @@ Thất bại cả 3 lần → **dừng**, không commit chồng thêm; đọc ch
 | Không tìm được ảnh hợp phép | Dẫn link hoặc vẽ sơ đồ CC0; không dùng ảnh license mơ hồ |
 | Author-check FAIL | Sửa tên theo PMCID hoặc bỏ tên; không xóa PMCID để né |
 | Verify FAIL không sửa kịp | Không commit, release, báo rõ cổng nào |
+| Static page FAIL (sha/canonical/sitemap) | Chạy `build_lesson_pages.py --all --sitemap` rồi verify lại; không sửa tay trang |
 | Push FAIL sau 3 lần | Dừng, không commit chồng; đọc `tools/push_log.jsonl` + chẩn đoán; kiểm tra mạng/githubstatus rồi chạy lại `tools/push.sh`; nghiêm cấm `--force` |
 | Hết mục `chờ viết` | Báo hoàn tất, không bịa chủ đề mới |
 
@@ -190,7 +192,7 @@ luật. Không cần đọc cả file log.
 
 ```
 bài: 197 (Li-Fraumeni) + 929 (xơ hóa nang) — 2 ảnh/1 composite, CC BY 4.0
-verify: PASS 6/6 · 515 bài / 515 card · parity 0 · selfcheck warn 15 legacy
+verify: PASS 7/7 · 515 bài / 515 card · parity 0 · selfcheck warn 15 legacy
 backlog: flip #341/#340 → xong; append 2 mục (đã check_duplicates)
 còn lại: 110 mục chờ viết; ưu tiên kế tiếp #342 ...
 ```

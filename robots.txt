@@ -1,0 +1,41 @@
+# robots.txt — rad.matcauvong.com
+# Trang bài học là HTML tĩnh tại /<id>-<slug>/ ; Markdown gốc bị chặn với crawler
+# tìm kiếm để tránh trùng nội dung, nhưng mở cho các bot AI đọc (GEO).
+
+User-agent: *
+Allow: /
+Disallow: /tools/
+Disallow: /templates/
+Disallow: /BACKLOG
+Disallow: /view.html
+Disallow: /*.md
+
+# ── Bot AI được đọc cả Markdown gốc (llms.txt trỏ tới HTML, đây là bản tiện dụng)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://rad.matcauvong.com/sitemap.xml
