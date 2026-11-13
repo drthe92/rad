@@ -11,7 +11,7 @@ certainty: tong-hop-y-van
 
 **Tags:** `pattern:tang-tin-hieu-t2` `pattern:doi-xung` `pattern:tuy-sau` `pattern:chu-v-nguoc` `pattern:khong-ngam-thuoc` `pattern:myelin` `pattern:teo-tuy` `vung:tuy-co` `vung:tuy-nguc` `vung:cot-song-co` `score:mRS` `score:NIS-LL` `protocol:MRI-tuy` `protocol:T2-axial` `protocol:DWI` `protocol:EMG-NCS`
 
-**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — 2 đoàn hệ lớn (81 người/100 lần nhập viện, Br J Clin Pharmacol 2026, PMC13714620; 20 người, Neurol Res Pract 2025, PMC12049779), 1 loạt 10 người (Neuromuscul Disord 2026), 1 tổng quan 154 ca (The Neurologist 2024), 1 loạt 8 ca (2024) và **3 ca nguyên văn có ảnh** (Cureus 2026, PMC13049691 — CC BY; Ann Rehabil Med 2019, PMC6734019 — CC BY-NC; Neurol Res Pract 2025, PMC12049779 — CC BY). **Không có RCT** về liều B₁₂ hay thời gian điều trị; phác đồ dưới đây là tổng hợp thực hành từ ca/đoàn hệ, chỗ suy luận được ghi rõ.
+**Mức chắc chắn (certainty):** tổng hợp y văn (literature synthesis) — 2 đoàn hệ lớn (81 người/100 lần nhập viện, Br J Clin Pharmacol 2026, PMC13714620; 20 người, Neurol Res Pract 2025, PMC12049779), 1 loạt 10 người (Neuromuscul Disord 2026), 1 tổng quan 154 ca (The Neurologist 2024), 1 loạt 8 ca (2024) và **3 ca nguyên văn có ảnh** (Cureus 2026, PMC13049691 — CC BY; Ann Rehabil Med 2019, PMC6734019 — CC BY-NC; Neurol Res Pract 2025, PMC12049779 — CC BY). **Bổ sung 2026-11-13:** phân tích gộp **1.809 bệnh nhân** (Cureus 2026, PMC13267259), đoàn hệ **52 ca** (eNeurologicalSci 2026, PMC13213638), **35 ca Việt Nam** tại Bạch Mai 2022–2024 (eNeurologicalSci 2025, PMC12464543) và mô hình **tự tiêm hydroxocobalamin 46 ca** (BMJ Neurol Open 2025). **Không có RCT** về liều B₁₂ hay thời gian điều trị; phác đồ dưới đây là tổng hợp thực hành từ ca/đoàn hệ, chỗ suy luận được ghi rõ.
 
 > **Câu chốt:** khí cười (N₂O) **bất hoạt vitamin B₁₂** bằng cách oxy hóa ion coban → khóa **methionin synthase** → **ức chế methyl hóa myelin**. Kết quả là **tủy sau (dorsal columns) mất myelin đối xứng**, trên MRI là **hai vệt tăng T2 hình "chữ V ngược" (inverted V)** ở tủy cổ. Ba con số phải thuộc: **(1)** B₁₂ huyết thanh **bình thường ở 95%** bệnh nhân trong một đoàn hệ (20 người) — **B₁₂ bình thường KHÔNG loại trừ**; **(2) homocystein và MMA tăng 100%** ở đoàn hệ đó, và **homocystein có độ nhạy 95% / đặc hiệu 13%**, MMA **93%/45%**; **(3)** **tiếp tục dùng N₂O = không hồi phục** (20% được theo dõi, không ai cải thiện). Đây là bệnh **chẩn đoán bằng BỆNH SỬ + homocystein/MMA**, không bằng B₁₂.
 
@@ -25,12 +25,21 @@ certainty: tong-hop-y-van
 - **TẠI SAO "chữ V ngược":** giải phẫu **rãnh giữa sau (posterior median septum)** tách **fasciculus gracilis (trong)** và **cuneatus (ngoài)**; hai bó tăng tín hiệu **hình hai cánh** trên lát cắt axial → **"inverted V"** (còn gọi "rabbit ears"). Dấu này **không đặc hiệu** — thiếu B₁₂ kinh điển, thiếu đồng, HIV, giang mai cũng cho hình tương tự.
 - **Vật lý hình ảnh (TẠI SAO T2 sáng, không ngấm, không hạn chế khuếch tán):** phù gian myelin và giảm myelin → **tăng nước tự do ngoại bào** → **T2/FLAIR tăng tín hiệu**, **T1 đồng/giảm nhẹ**. **Không phá hàng rào máu–tủy** → **không ngấm gadolinium** (ngấm nhẹ thoáng qua ở một số ca cấp). **Không phải nhồi máu/áp-xe** → **DWI không hạn chế rõ**; hạn chế khuếch tán mạnh phải nghĩ **nhồi máu tủy (bài 226)**. Ở thể nặng–muộn, tăng tín hiệu **teo dần** và tủy **mỏng đi** (atrophy) — dấu tiên lượng xấu.
 
+![Sơ đồ: N₂O bất hoạt methylcobalamin → khóa methionin synthase (homocystein tăng) và ức chế methylmalonyl-CoA mutase (MMA tăng)](images/265_b12-co-che_PMC10860927-F2.jpg)
+*Sơ đồ cơ chế: N₂O (tia nổ) tấn công cobalamin → **homocystein tăng** (không chuyển thành methionin, giảm SAM–methyl hóa myelin) và **acid methylmalonic tăng** (methylmalonyl-CoA mutase bị ức chế); đồng thời giảm tổng hợp DNA (thymidylate) → thiếu máu hồng cầu to khi tổn thương nặng. Nguồn: Medicine (Baltimore) 2024 (PMC10860927), CC BY 4.0.*
+
+
 ### 1.2 Dịch tễ & liều phơi nhiễm (dùng để hỏi bệnh, không phải để phán xét)
 - Khảo sát quốc tế: **tiền sử dùng N₂O cả đời 17%**, **dùng trong năm 11,9%**, người dùng **69,3% là nam**; **4,2%** người dùng có triệu chứng cảm giác dai dẳng kiểu "găng–tất".
 - **Mỹ 2019 (SAMHSA):** **~12,9 triệu** người từ 12 tuổi trở lên đã lạm dụng N₂O. Châu Âu: EMCDDA 2022 xếp N₂O vào nhóm chất hướng thần được dùng nhiều nhất.
 - **Liều–đáp ứng (đoàn hệ Sydney 2026, 81 người):** **tổng lượng tích lũy** là yếu tố dự báo mạnh nhất; liên quan **tủy thoái hóa bán cấp tủy sau (SCD) p = 0,006**, **bệnh thần kinh ngoại biên p = 0,036**, tương quan với **độ nặng thần kinh ngoại biên (Spearman ρ = 0,43, p = 0,001)**.
 - **Kiểu dùng thực tế:** trung bình **2.500 g/ngày** (Frankfurt); ca nặng **> 500 cartridges/ngày**; ca Cureus: **5–20 canister/lần, 2–5 lần/tháng trong 7–10 năm**, khởi phát sau một lần dùng nặng.
 - **Tổn thương thần kinh trong 154 ca (tổng quan 2024):** tuổi trung vị **22 (19–26)**, phơi nhiễm **9 (3–18) tháng**; **tủy 75%**, **thần kinh ngoại biên 58%** — tức **đa số là myelo-polyneuropathy phối hợp**, không phải chỉ tủy.
+- **Cập nhật 2026 — ba bộ số liệu lớn (dùng để tư vấn tiên lượng):**
+  - **Phân tích gộp 1.809 bệnh nhân** (257 nghiên cứu, Cureus 2026, PMC13267259): xét nghiệm bất thường theo thứ tự **homocystein 83,0–84,9%** → **MMA 68,4–83,7%** → **B₁₂ huyết thanh 47,2–55,8%** → **MCV 20,8–63,0%** → **hemoglobin 25,3–42,3%**. Tức **một nửa số ca có B₁₂ "bình thường"**, và chỉ **~ 40%** ca được làm MMA, **~ 60%** được làm homocystein.
+  - **Đoàn hệ một trung tâm 52 ca** (eNeurologicalSci 2026, PMC13213638): tuổi trung vị **24,0** (21,8–28,0), **nữ:nam = 1,7:1**, khởi phát cấp **< 4 tuần 61,5%**; **cảm giác 94,2%**, **thất điều khi đi 86,5%**, **yếu ngọn chi > gốc chi 88,5%**; **homocystein tăng 89,6%** nhưng **B₁₂ thấp chỉ 10,4%**; **MRI bất thường 31/48 = 64,6%**, trong đó **"chữ V ngược" 54,8%**; **CMAP giảm mà SNAP còn nguyên 32,7%**, **kim EMG có dấu hiệu mất thần kinh đang tiến triển 66%**.
+  - **Việt Nam — 35 ca tại Bạch Mai 2022–2024** (eNeurologicalSci 2025, PMC12464543): **65,7% nữ**, tuổi trung vị **22**, chủ yếu **học sinh/nhân viên văn phòng** với **phơi nhiễm liều cao hằng ngày**; **dị cảm 88,6%**, **yếu cơ 82,9%**, **đi loạng choạng 77,1%**; **MRI tổn thương cột sau 60%**; phác đồ **hydroxocobalamin 1.000 µg tiêm bắp/ngày ≥ 7 ngày** rồi uống B₁₂; **80% cải thiện rõ trong 2 tuần**, **hồi phục hoàn toàn 91,4%**, **8,6% còn triệu chứng nhẹ** — nghĩa là **hồi phục tốt nếu điều trị sớm**, nhưng **không phải 100%**.
+
 
 ## 2. Mẫu hình + chẩn đoán phân biệt theo vị trí (Gamut)
 
@@ -83,6 +92,8 @@ certainty: tong-hop-y-van
   - **Hydroxocobalamin 1 mg tiêm (bắp/dưới da) ngày 1 lần × 7 ngày**, sau đó **uống 2 mg/ngày** đến khi hết triệu chứng (ca Cureus); nhiều nơi dùng **1 mg cách ngày × 5–10 lần** rồi duy trì 3 tháng — **chưa có so sánh**.
   - **Methionin 1 g × 3/ngày × 6 tuần** (ca Cureus, dựa trên cơ chế SAM) và **folate** sau khi bắt đầu B₁₂ — **bằng chứng yếu**, không thay thế B₁₂.
   - **Phục hồi chức năng sớm** (tập dáng đi, cảm giác bản thể) — ca Cureus đi lại độc lập sau điều trị.
+  - **Tự tiêm hydroxocobalamin tại nhà (mô hình Anh, BMJ Neurol Open 2025):** 46 bệnh nhân (tuổi trung vị **23**, **63%** nam) chọn **tự tiêm** (n = 25) hoặc **đến viện tiêm** (n = 21) — **tuân thủ đủ liều 79,7% vs 20,3%** (p < 0,001), **kết cục lâm sàng tương đương**, **74% hồi phục hoàn toàn/gần hoàn toàn** ở cả hai nhóm → khi thiếu giường/đường truyền, **tự tiêm là lựa chọn hợp lý** miễn là có theo dõi.
+
 - **Phân độ/theo dõi:** **mRS** lúc ra viện (0–6) và **NIS-LL** (thần kinh ngoại biên chi dưới); **số đốt tủy tổn thương trên MRI** là yếu tố dự báo chức năng (loạt 2026); theo dõi **Hcy/MMA** để xác nhận tuân thủ.
 - **Sơ đồ xử trí:**
 

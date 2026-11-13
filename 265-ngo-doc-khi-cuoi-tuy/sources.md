@@ -45,6 +45,32 @@
 - **T2 tủy 73,3% (11/15)**; **B₁₂ bình thường 95%** nhưng **Hcy và MMA tăng 100%**; **65% bất thường huyết học**.
 - 20% được theo dõi **tiếp tục dùng N₂O** → **không ca nào cải thiện thần kinh**.
 
+### 4. *eNeurologicalSci* 2026 (PMC13213638) — 52 ca một trung tâm (bổ sung 2026-11-13)
+
+- Tuổi trung vị **24,0** (21,8–28,0); **nữ:nam 1,7:1**; khởi phát cấp **< 4 tuần 61,5%**.
+- **Cảm giác 94,2%**, **thất điều khi đi 86,5%**, **yếu ngọn chi > gốc chi 88,5%**.
+- **Homocystein tăng 89,6%**; **B₁₂ thấp chỉ 10,4%** → lặp lại cạm bẫy "B₁₂ bình thường".
+- **MRI bất thường 31/48 (64,6%)**, **"chữ V ngược" 17 ca (54,8%)** trong số bất thường.
+- **Điện cơ:** **CMAP giảm, SNAP nguyên vẹn 32,7%** (kiểu tổn thương sợi trục vận động); **kim EMG có mất thần kinh đang tiến triển 66%**.
+
+### 5. *Cureus* 2026 (PMC13267259) — phân tích gộp 1.809 bệnh nhân
+
+- 257 nghiên cứu: **462 ca lẻ** + **1.291 bệnh nhân từ loạt ca**; **1.753** có bệnh thần kinh ngoại biên.
+- Tỷ lệ bất thường: **homocystein 83,0%** (ca lẻ)/**84,9%** (loạt ca); **MMA 68,4%/83,7%**; **B₁₂ 55,8%/47,2%**; **MCV 63,0%/20,8%**; **Hb 42,3%/25,3%**.
+- Chỉ **~ 40%** ca được làm MMA và **~ 60%** được làm homocystein → **xét nghiệm đúng chưa được làm đủ**.
+
+### 6. *eNeurologicalSci* 2025 (PMC12464543) — 35 ca Việt Nam, Bạch Mai 2022–2024
+
+- **65,7% nữ**, tuổi trung vị **22**, chủ yếu **học sinh/nhân viên văn phòng**, **phơi nhiễm liều cao hằng ngày**; số ca tăng từ **7 (2022)** lên **15 trong quý I/2024**.
+- **Dị cảm 88,6%**, **yếu cơ 82,9%**, **đi loạng choạng 77,1%**; **MRI tổn thương cột sau 60%**.
+- Điều trị: **hydroxocobalamin 1.000 µg tiêm bắp/ngày ≥ 7 ngày**, sau đó **uống B₁₂**; **80% cải thiện rõ trong 2 tuần**; theo dõi 29 ca: **hồi phục hoàn toàn 91,4%**, **8,6%** còn triệu chứng nhẹ (tê cách quãng).
+
+### 7. *BMJ Neurol Open* 2025 — mô hình tự tiêm hydroxocobalamin (46 bệnh nhân)
+
+- Tuổi trung vị **23**; **63%** nam; **70%** dùng N₂O thường xuyên.
+- **Tuân thủ đủ liều: 79,7% (tự tiêm) vs 20,3% (đến viện)** (p < 0,001); **74%** hồi phục hoàn toàn/gần hoàn toàn ở cả hai nhóm; tốc độ đi bộ 10 m cải thiện tương đương.
+- Liên kết: https://europepmc.org/article/MED/40917984 (giấy phép **CC BY-NC**).
+
 ## Ghi chú phản biện
 
 - **Không có RCT** về liều hydroxocobalamin, thời gian điều trị, vai trò methionin/folate — phác đồ trong bài là tổng hợp ca/đoàn hệ, đã ghi rõ "chưa có so sánh".

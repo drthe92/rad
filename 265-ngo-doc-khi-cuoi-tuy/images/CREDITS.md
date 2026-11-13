@@ -7,6 +7,7 @@ Mọi ảnh **nguyên bản, không crop, không kéo giãn, không ghép**. Tê
 | `265_ngo-doc-khi-cuoi_MRI-PMC13049691.jpg` | Sagittal T2 + axial T2 tủy cổ: **tăng tín hiệu đối xứng cột sau**, hình **"chữ V ngược"**, **C1–C5** | *Cureus* 2026; Fig. 1 — **PMC13049691** · 10.7759/cureus.104698 | **CC BY 4.0** | *Cureus* 2026 (PMC13049691) |
 | `265_ngo-doc-khi-cuoi_MRI-PMC12049779.jpg` | (a) Sagittal + axial T2: tăng tín hiệu cột sau tủy cổ ("v" ngược); (b) B₁₂/transcobalamin/homocystein/MMA; (c) Hb/MCV/MCH/RDW | *Neurological Research and Practice* 2025; Fig. 3 — **PMC12049779** · 10.1186/s42466-025-00385-0 | **CC BY 4.0** | *Neurological Research and Practice* 2025 (PMC12049779) |
 | `265_ngo-doc-khi-cuoi_MRI-PMC6734019.jpg` | (A) Sagittal T2 tủy cổ: tăng tín hiệu dọc tủy; (B) axial **C2**: **chữ V ngược** hai bên cột sau | *Annals of Rehabilitation Medicine* 2019; Fig. 1 — **PMC6734019** · 10.5535/arm.2019.43.4.530 | **CC BY-NC 4.0** (nguyên bản) | *Annals of Rehabilitation Medicine* 2019 (PMC6734019) |
+| `265_b12-co-che_PMC10860927-F2.jpg` | Sơ đồ cơ chế: N₂O bất hoạt methylcobalamin → **homocystein tăng** (giảm SAM, giảm methyl hóa myelin) và **MMA tăng**; giảm tổng hợp DNA | *Medicine (Baltimore)* 2024; Fig. 2 — **PMC10860927** | **CC BY 4.0** | *Medicine (Baltimore)* 2024 (PMC10860927) |
 
 ## Ghi chú
 
