@@ -97,6 +97,8 @@ CLASSIFY_4D = {
     "3153": "bung",   # huyết khối – tắc động mạch thận ghép cấp (ghép tạng – mạch máu)
     "3150": "bung",   # viêm gan E mạn sau ghép gan ở trẻ (ghép tạng – nhiễm)
     "3154": "nhi",    # van niệu đạo sau (PUV) ở trẻ trai
+    "1892": "thankinh",  # theo dõi sau ODS — giai đoạn hồi phục (thần kinh)
+    "3135": "nhi",       # rò ống noãn hoàng ra rốn & dây xơ mạc treo Meckel (nhi – tiêu hóa)
     "1946": "bung",   # chèn ép khoang bụng (ACS) — thành bụng/hồi sức
     "3129": "bung",   # IgA tái phát sau ghép thận (ghép tạng – cầu thận)
     "3089": "nhi",    # thiếu B12 sau ileocystoplasty (theo dõi chuyển hóa ở trẻ)
