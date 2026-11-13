@@ -2342,3 +2342,6 @@
 - 2026-11-13: viết **1897** (co thắt mạch vành & MINOCA) — 4 ảnh CC BY/CC BY-NC/CC BY-NC-ND (PMC12576579, PMC13554914, PMC13387067); verify PASS 6/6 (1233 bài/1233 card); flip #2034, append #2124/#2125.
 - 2026-11-13: BACKLOG 9427 (N₂O neuropathy) hóa ra **trùng bài 265** và 1982 (loét giác mạc do kính) **trùng bài 6132** → không viết bài mới; thay vào đó **nâng cấp 265** (phân tích gộp 1.809 ca, đoàn hệ 52 ca, 35 ca Việt Nam, sơ đồ cơ chế CC BY) và **gộp vào 6132** (đoàn hệ Pseudomonas 66 mắt, yếu tố nguy cơ vệ sinh, 3 ảnh + composite CC BY). Bài 1964 tạo trong lượt đã **xóa** để không để trùng; append 2 khoảng trống 1965 (Pythium) / 1966 (sẹo giác mạc – chọn lớp ghép).
 - 2026-11-13: verify PASS 6/6 (1233 bài / 1233 card, parity 0); push OK lần 1.
+
+- 2026-11-13: cứu bài **3200** (Pythium) do worker dừng giữa lượt — bỏ link tới 3201 (chưa có bài), build lại hub/trang tĩnh, verify 7/7. 3201 (sẹo giác mạc) vẫn chờ viết.
+- 2026-11-13: cứu tiếp **3201** (sẹo giác mạc) — khôi phục 3 ảnh từ cache, viết `sources.md`, build lại; 3200+3201 verify 7/7.
