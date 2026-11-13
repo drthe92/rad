@@ -365,6 +365,8 @@ CLASSIFY_4D = {
     "3126": "canthiep",   # dị vật catheter/mảnh dụng cụ di trú trong lòng mạch ở trẻ
     "3132": "nhi",        # biến chứng lỗ thông ACE (appendicostomy/Malone) ở trẻ
     "3133": "nhi",        # MRI sàn chậu sau mổ ARM (neorectum, cơ nâng, ROOF)
+    "1771": "nhi",        # CLABSI/CRBSI ở trẻ (nhiễm khuẩn – thiết bị)
+    "1982": "bung",       # tiêu chảy muối mật sau cắt hồi tràng (tiêu hóa)
 }
 
 # Rà tay 2026-11: bài Tai–Mũi–Họng nằm lẫn ở Mắt / Thần kinh → Đầu Cổ (TMH)

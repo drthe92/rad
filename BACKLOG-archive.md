@@ -2372,3 +2372,5 @@
 ## 2026-11-13 — worker (2 bài)
 - **1464** toxocariasis nội nhãn người lớn (101 ca; u hạt 92,1%, di chuyển 16,1%; Se IgE dịch người lớn 66,7%) + **3134** hẹp niệu đạo sau xạ (8,44%/5 năm; RUG âm không loại trừ hẹp cổ bàng quang → VCUG) — 7 ảnh + 2 composite CC BY.
 - Flip #9428/#2047 → xong; append 3172 (PFUI người lớn), 3174 (lichen sclerosus niệu đạo) — đã check_duplicates.
+2026-11-13 · lượt 1771+1982: CLABSI/CRBSI ở trẻ (DTTP ≥120 phút, 1,3–10,2/1.000 catheter-day) + BAD sau cắt hồi tràng (SeHCAT <15%, 97% Crohn cắt hồi tràng); 4+4 ảnh CC BY, verify 7/7.
+2026-11-13 · append #2061 (3137 oxalate sau cắt ruột) + #2062 (3138 hẹp TM trung tâm sau catheter), đã check_duplicates.
