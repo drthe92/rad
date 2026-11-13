@@ -2,3 +2,5 @@ tools/__pycache__/
 tools/verify_log.jsonl
 tools/verify_report.json
 tools/push_log.jsonl
+tools/r2_manifest.json.tmp
+tools/r2_upload_log.jsonl

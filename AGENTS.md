@@ -51,6 +51,7 @@
   trong `CLASSIFY_4D` của `tools/build_index.py`, hoặc tự động theo tag `vung:`; nếu chưa phân loại được,
   `build_index.py` **DỪNG** và liệt kê ID — không được để bài rơi vào "Khác".
 - **`index.html` là file SINH TỰ ĐỘNG** từ `tools/hub_template.html` + frontmatter các bài: chạy `python3 tools/build_index.py` sau khi thêm/sửa bài. **KHÔNG sửa tay `index.html`** — mọi sửa tay sẽ bị lượt sau ghi đè (đã xảy ra 2 lần: `faaea0b`, `daf3261`), và cổng `hub` của `verify_all.py` sẽ FAIL khi hai file lệch nhau. Muốn đổi giao diện (tabs/chips/filter/responsive) → sửa `tools/hub_template.html`.
+- **Ảnh phát hành qua Cloudflare R2** (`img.matcauvong.com`): sau khi thêm ảnh, chạy `python3 tools/r2_upload.py --upload` (tự SKIP nếu chưa có `~/.config/rad/r2.env`), rồi mới build trang. `tools/r2_manifest.json` (sha256 từng ảnh) **phải commit**; builder tự đổi `src` sang CDN nếu ảnh có trong manifest, còn lại giữ local. Quy trình đầy đủ: `docs/R2-SETUP.md`.
 - **Trang bài tĩnh (SEO/GEO) cũng là file SINH TỰ ĐỘNG:** `/{slug}/index.html` sinh từ `lesson.md` bằng `python3 tools/build_lesson_pages.py --only <ID>` (hoặc `--all`). Sau khi thêm/sửa bài phải chạy lại kèm `--sitemap` (cập nhật `sitemap.xml` + `llms.txt`). **KHÔNG sửa tay trang bài** — cổng `static` sẽ FAIL nếu sha `lesson.md` lệch. Template/CSS nằm ở `tools/build_lesson_pages.py` + `assets/lesson.css`; markdown render bằng `tools/render_markdown.js` (marked vendored, MIT).
 - Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn (Disclaimer y tế, ghi ở `lesson.md` + `index.html` footer).
 - Không bao giờ force-push.
@@ -106,6 +107,8 @@ tools/
   build_lesson_pages.py # sinh /{slug}/index.html + sitemap.xml + llms.txt (SEO/GEO)
   check_static_pages.py # cổng static: sha, canonical, JSON-LD, sitemap, link gãy
   render_markdown.js  # render markdown batch bằng marked vendored (assets/vendor)
+  r2_upload.py        # upload ảnh lên R2 (SigV4 thuần Python) + manifest sha256
+  cdn.py              # tra manifest → URL img.matcauvong.com cho builder
   push.sh             # push có timeout/retry/log (tools/push_log.jsonl); không force
   lint_repo.py        # lint frontmatter/6 mục/bảng/ảnh
   check_credits_authors.py  # đối chiếu tên tác giả vs PMCID (Europe PMC)

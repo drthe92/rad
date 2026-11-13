@@ -32,6 +32,16 @@ HREF_RE = re.compile(r'href="(/[^"#?]*)"')
 IMG_RE = re.compile(r'<img[^>]+src="([^"#?]+)"')
 LOC_RE = re.compile(r"<loc>([^<]+)</loc>")
 
+def load_cdn():
+    try:
+        d = json.loads(open(os.path.join(ROOT, "tools", "r2_manifest.json"), encoding="utf-8").read())
+        return (d.get("base") or "").rstrip("/"), set(d.get("files", {}).keys())
+    except Exception:
+        return "", set()
+
+
+CDN_BASE, CDN_FILES = load_cdn()
+
 REQUIRED = ["robots.txt", "sitemap.xml", "llms.txt", "about.html",
             "assets/lesson.css", "assets/favicon.svg", "index.html"]
 
@@ -104,6 +114,11 @@ def main(argv=None):
             if not os.path.exists(os.path.join(ROOT, t)):
                 errors.append(f"{d}: link gãy {href}")
         for src in set(IMG_RE.findall(h)):
+            if CDN_BASE and src.startswith(CDN_BASE + "/"):
+                key = src[len(CDN_BASE) + 1:]
+                if key not in CDN_FILES:
+                    errors.append(f"{d}: ảnh CDN không có trong manifest: {key}")
+                continue
             if src.startswith(("http", "data:")):
                 continue
             t = src.lstrip("/") if src.startswith("/") else os.path.join(d, src)

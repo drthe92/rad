@@ -41,6 +41,10 @@ try:
     import build_index as bi  # dùng spec_for + TABS để phân chuyên mục
 except Exception:
     bi = None
+try:
+    import cdn  # đổi ảnh sang Cloudflare R2 khi manifest có
+except Exception:
+    cdn = None
 
 
 # ── tiện ích ────────────────────────────────────────────────────────────────
@@ -376,7 +380,7 @@ def main(argv=None):
         url = f"{BASE}/{slug}/"
         img = it.get("firstImage") or "/assets/og-default.png"
         if img.startswith("images/"):
-            img = f"{BASE}/{slug}/{img}"
+            img = (cdn.public_url(f"{slug}/{img}") if cdn else None) or f"{BASE}/{slug}/{img}"
         elif img.startswith("/"):
             img = BASE + img
         sha = hashlib.sha256(raw.encode("utf-8")).hexdigest()
@@ -395,6 +399,8 @@ def main(argv=None):
         body_html = it["html"].strip()
         # vài bài cũ ghi ảnh dạng "<slug>/images/..." → trên trang /<slug>/ sẽ thành /<slug>/<slug>/images
         body_html = body_html.replace(f'src="{slug}/images/', 'src="images/')
+        if cdn is not None:
+            body_html = cdn.rewrite_images(body_html, slug)
         page = (PAGE
                 .replace("__HASH__", sha)
                 .replace("__TITLE__", html.escape(title))

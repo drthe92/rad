@@ -122,6 +122,7 @@ Thứ tự nguồn và luật license: theo bảng nguồn trong `AGENTS.md` và
 - Bài có **ID 4 chữ số** (dải tràn): phải vào đúng hệ — thêm ID vào `CLASSIFY_4D` trong `tools/build_index.py`
   (hoặc gắn `vung:` khớp `VUNG_SPEC`). Không có chuyên mục "Khác"; thiếu phân loại thì `build_index.py` DỪNG.
 - `index.html`: **BẮT BUỘC** chạy `python3 tools/build_index.py` sau khi thêm bài — file này sinh từ `tools/hub_template.html`, **không sửa tay** (sửa tay bị lượt sau ghi đè + cổng `hub` FAIL). Đổi UI (tabs/chips/filter/responsive) → sửa `tools/hub_template.html`.
+- **Ảnh → R2:** nếu có `~/.config/rad/r2.env`, chạy `python3 tools/r2_upload.py --upload` (không có cấu hình thì tự SKIP). Manifest `tools/r2_manifest.json` commit chung; builder tự đổi `src` sang CDN.
 - **Trang bài tĩnh + sitemap (SEO/GEO):** chạy `python3 tools/build_lesson_pages.py --only <ID> --sitemap` sau khi thêm/sửa bài (hoặc `--all` khi sửa template/CSS). Sinh `/{slug}/index.html`, `sitemap.xml`, `llms.txt`; **không sửa tay**. Cổng `static` sẽ FAIL nếu trang cũ hơn `lesson.md`.
 - `BACKLOG.md`: flip mục vừa viết sang `xong` (kèm số liệu chính, ngắn).
 

@@ -9,7 +9,14 @@ Idempotent: chạy lại vẫn cho kết quả như nhau.
 import html
 import os
 import re
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+try:
+    import cdn
+except Exception:
+    cdn = None
 
 CERT_LABEL = {"tong-hop-y-van": "Tổng hợp y văn",
               "ca-nguyen-van": "Ca nguyên văn",
@@ -570,8 +577,9 @@ def build_page():
         spans = " ".join(f'<span class="tag">{html.escape(t)}</span>' for t in tags[:4])
         if len(tags) > 4:
             spans += f' <span class="tag more">+{len(tags) - 4}</span>'
+        thumb_src = (cdn.public_url(img[0]) if (cdn and img and not img[0].startswith("http")) else None) or (img[0] if img else "")
         img_html = (f'<a href="/{d}/">'
-                    f'<img loading="lazy" src="{img[0]}" alt="{html.escape(img[1])}"></a>' if img else "")
+                    f'<img loading="lazy" src="{thumb_src}" alt="{html.escape(img[1])}"></a>' if img else "")
         card_html.append(
             f'<div class="card" data-id="{html.escape(uid)}" data-spec="{spec}" '
             f'data-scores="{html.escape(" ".join(scores))}" data-cert="{html.escape(fm["certainty"])}" '
