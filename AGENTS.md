@@ -115,6 +115,7 @@ tools/
   check_duplicates.py # chặn viết trùng ID/chủ đề
   worker_guard.py     # khóa chống chồng lượt (acquire/release)
   split_backlog.py    # giữ BACKLOG.md gọn, chuyển ghi chú dài sang archive
+  optimize_images.py  # nén JPEG q85 (dry-run mặc định; BỎ QUA ảnh ND/không rõ license; log sha)
   tests/test_selfcheck.py  # fixture selfcheck (6 ca)
   tests/test_verify_all.py # fixture verify_all (parity/partial/cảnh báo)
 BACKLOG.md            # file làm việc: hàng chờ viết + danh mục xong (nén)

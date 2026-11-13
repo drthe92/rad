@@ -135,5 +135,5 @@ certainty: tong-hop-y-van
 
 - 1951 – CHARGE & ba tầng tổn thương đầu cổ: hẹp mũi sau (**31,5% hai bên, 15,4% một bên**), **bất sản ốc tai 49,8% / ống bán khuyên 73,6% / dây thần kinh ốc tai 49,1%**, **bất sản hành khứu giác 28,8%**; góc ốc tai **94,5° vs 114,0°**; hẹp lại sau mổ **31,3%**; tiêu chuẩn Blake **3 chính hoặc 2 chính + 2 phụ** *(mới — [bài học](../1951-hoi-chung-charge/lesson.md))* *(nối 1741/710/205/692)*
 
-- [1971 – Bất sản/giảm sản dây thần kinh ốc tai: **CT bình thường KHÔNG loại trừ**; **IAM grade 0–V** (0–3 bó = bất sản); lỗ ốc tai **≤ 1,2 mm = hẹp** (bệnh **1,9** vs lành **2,2 mm**), **Se 84%/Sp 98%**; IAC **< 3,9 mm**; **diện tích VCN + số bó** dự báo kết quả (AUC 0,71/0,94), **phân độ IAM thì không**; ABI **~50% không dùng thiết bị**](../1971-bat-san-giam-san-day-thanh-kinh-oc-tai/lesson.md) *(mới — nối 702/692/478/497/1951)*
+- [1971 – Bất sản/giảm sản dây thần kinh ốc tai: **CT bình thường KHÔNG loại trừ**; **IAM grade 0–V** (0–3 bó = bất sản); lỗ ốc tai **≤ 1,2 mm = hẹp** (bệnh **1,9** vs lành **2,2 mm**), **Se 84%/Sp 98%**; IAC **< 3,9 mm**; **diện tích VCN + số bó** dự báo kết quả (AUC 0,71/0,94), **phân độ IAM thì không**; ABI **~50% không dùng thiết bị**](../1971-bat-san-giam-san-day-than-kinh-oc-tai/lesson.md) *(mới — nối 702/692/478/497/1951)*
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
