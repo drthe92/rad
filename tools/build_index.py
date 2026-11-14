@@ -364,6 +364,8 @@ CLASSIFY_4D = {
     "6703": "nhi",
     "6704": "nhi",
     "6705": "nhi",
+    "6708": "nhi",        # hẹp động mạch thận do xạ ở trẻ
+    "6709": "tim",        # hẹp tĩnh mạch chậu–đùi do xạ (mạch máu – can thiệp)
     "3095": "canthiep",   # tổn thương ĐM đùi–chậu sau can thiệp nội mạch ở trẻ
     "1845": "nhi",        # bàng quang thần kinh ở trẻ dị tật tủy sống
     "6159": "nhi",        # rò khí quản – động mạch không tên ở trẻ

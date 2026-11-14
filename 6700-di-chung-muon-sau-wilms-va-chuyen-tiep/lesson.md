@@ -182,6 +182,7 @@ flowchart TD
 - [189 – Đánh giá tiết niệu trước ghép thận ở bàng quang thần kinh](../189-danh-gia-truoc-ghep-than-bang-quang-than-kinh/lesson.md)
 - [6104 – Aniridia bẩm sinh & hội chứng WAGR](../6104-aniridia-bam-sinh-va-hoi-chung-wagr/lesson.md)
 - [6703 – Bệnh cơ tim do anthracycline ở người sống sót ung thư nhi: GLS, CTRCD & MRI tim](../6703-benh-co-tim-do-anthracycline-o-nguoi-song-sot-ung-thu-nhi/lesson.md)
+- [6708 – Hẹp động mạch thận do xạ ở trẻ: lỗ–đoạn gần + thận nhỏ, Doppler parvus–tardus, DSA, nong bóng/stent](../6708-hep-dong-mach-than-do-xa-o-tre/lesson.md)
 
 ## Ảnh
 - `6700_ca1_CT_PMC9382288-Fig1-CCBY.jpg`, `6700_ca3_CT_PMC9382288-Fig3-CCBY.jpg`, `composite_wilms-than-doc-nhat-truoc-sau.jpg` — CC BY 4.0 (PMC9382288).

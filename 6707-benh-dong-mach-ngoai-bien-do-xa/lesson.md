@@ -150,6 +150,7 @@ flowchart TD
 - [6700 – Biến chứng muộn sau Wilms & chuyển tiếp](../6700-di-chung-muon-sau-wilms-va-chuyen-tiep/lesson.md)
 - [260 – Hẹp động mạch cảnh do xạ](../260-hep-dong-mach-canh-do-xa/lesson.md)
 - [1670 – Rò động mạch chậu – niệu quản sau xạ](../1670-ro-dong-mach-chau-nieu-quan-sau-xa/lesson.md)
+- [6709 – Hẹp tĩnh mạch chậu – đùi do xạ](../6709-hep-tinh-mach-chau-dui-do-xa/lesson.md) (mặt tĩnh mạch của cùng trường xạ)
 
 ## Ảnh
 - `6707_mach-ngoai-bien-xa_CTA_PMC12283543-F1.jpg` — hẹp ĐMC cạnh tạng sau xạ Wilms, 3 bình diện (J Vasc Surg Cases Innov Tech 2025, PMC12283543, CC BY 4.0).
