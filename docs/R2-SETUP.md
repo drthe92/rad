@@ -81,8 +81,10 @@ Tôi sẽ:
 
 ## Nén ảnh trước khi upload (đã áp dụng 2026-11-14)
 
-- **Tier 1:** JPEG ≥ 300 KB → q85 progressive. 207 ảnh, 138,7 → 51,0 MB (−87,7 MB).
-- **Tier 2:** JPEG 100–300 KB → q88 progressive. 1.614 ảnh, 331,1 → 167,5 MB (−163,6 MB).
+- **Tier 1:** JPEG ≥ 300 KB → q85 progressive. 207 ảnh nén, 110,0 → 51,0 MB.
+- **Tier 2:** JPEG 100–300 KB → q88 progressive. 1.614 ảnh nén, 242,8 → 167,5 MB.
+- Tổng thực tế: **1.821 ảnh, 352,8 → 218,5 MB (−134,3 MB, −38%)**;
+  một số ảnh đã tối ưu sẵn nên script bỏ qua (không tính vào mức giảm).
 - **Không nén:** 659 ảnh CC BY-ND/BY-NC-ND (97 MB), license không rõ, PNG, ảnh < 100 KB.
 - Tổng ảnh còn **~605 MB**; site ~722 MB (trước 842 MB).
 - Giữ nguyên tên/đuôi file → không sửa `lesson.md`/`CREDITS.md`.

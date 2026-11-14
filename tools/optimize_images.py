@@ -63,13 +63,19 @@ def sha(path):
     return hashlib.sha256(Path(path).read_bytes()).hexdigest()
 
 
+def rel_key(path):
+    """Khóa log luôn là đường dẫn tương đối để so khớp ổn định."""
+    p = os.path.normpath(path)
+    return os.path.relpath(p, ROOT) if os.path.isabs(p) else p
+
+
 def load_log():
     done = {}
     if LOG.exists():
         for line in LOG.read_text(encoding="utf-8").splitlines():
             try:
                 r = json.loads(line)
-                done[r["path"]] = r["sha_after"]
+                done[rel_key(r["path"])] = r["sha_after"]
             except Exception:
                 pass
     return done
@@ -113,7 +119,7 @@ def main(argv=None):
         if cat == "unknown":
             skipped_unknown += 1
             continue
-        if p in done and done[p] == sha(p):
+        if rel_key(p) in done and done[rel_key(p)] == sha(p):
             already += 1
             continue
         sel.append(p)
@@ -151,7 +157,7 @@ def main(argv=None):
                 with open(LOG, "a", encoding="utf-8") as fh:
                     fh.write(json.dumps({
                         "ts": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-                        "path": os.path.relpath(f, ROOT), "quality": a.quality,
+                        "path": rel_key(f), "quality": a.quality,
                         "sha_before": sha_before,
                         "sha_after": hashlib.sha256(data).hexdigest(),
                         "before": old, "after": new,
