@@ -78,6 +78,8 @@ CLASSIFY_4D = {
     "1848": "canthiep",
     "1840": "bung",
     "1842": "tim",
+    "1920": "nguc",   # tràn dịch màng phổi ác tính: IPC vs talc pleurodesis
+    "1473": "mat",    # viêm xoang nấm xâm lấn cấp lan hốc mắt (AIFS)
     "3094": "tim",   # u nhầy tim thể gia đình & Carney complex
     "1980": "bung",  # dự phòng nhiễm trùng cơ hội sau ghép tạng
     "6162": "tim",
