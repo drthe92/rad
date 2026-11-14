@@ -1,0 +1,20 @@
+# Nguồn gốc — 3148 Đái tháo đường sau cắt tụy (type 3c diabetes)
+
+> Quét PubMed + Europe PMC ngày 2026-11-14; ưu tiên đoàn hệ có mẫu số rõ, số liệu CGM/HbA1c và chụp CT/MRI định lượng. Kiểm chứng giấy phép từng ảnh trước khi tải.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | JPEN J Parenter Enteral Nutr 2026 | Đoàn hệ **41 ca cắt toàn bộ tụy** (Grenoble, 2021–2024): suy dinh dưỡng **25,0% → 59,5%** (3 tháng) và **59,0%** (12 tháng); **> 10%** cân nặng ở hơn một nửa; **100%** type 3c ở 12 tháng; **HbA1c trung vị 8,0%** (7,2–8,8; n = 32); **TBR trung vị 0,2%** (0,0–1,5) | https://europepmc.org/article/PMC/PMC13169115 · doi:10.1002/jpen.70076 | CC BY-NC-ND (không dùng ảnh) | — |
+| 2 | Clin Transplant 2026 | **503 ca cắt tụy + ghép tiểu đảo tự thân**: **31%** cai insulin; trong số đó **28,8%** hạ đường huyết < 70 mg/dL, **20,5%** < 54 mg/dL, **25%** có cơn cần trợ giúp; xuất hiện **2,4 ± 2,2 năm** sau ghép; tuổi lớn hơn (p = 0,036), BMI cao hơn (p = 0,016), bệnh hấp thu kém (p < 0,001); điều trị: **78%** không dùng thuốc (ăn kiêng + CGM), acarbose **22%**, diazoxide **13%**, glucagon liều nhỏ **7%** | https://europepmc.org/article/PMC/PMC13127559 · doi:10.1111/ctr.70549 | CC BY (không dùng ảnh) | — |
+| 3 | Surg Today 2026 | **100 ca cắt toàn bộ tụy**: mỡ gan **3,0% → 24,0%** ở 3–6 tháng; nữ **37,8% vs 12,7%**; **nữ OR 7,77** (2,03–29,8; p = 0,009), **tuổi OR 0,93** (0,88–0,98; p = 0,011), **BMI trước mổ OR 1,28** (1,05–1,63; p = 0,015) | https://europepmc.org/article/PMC/PMC13473225 · doi:10.1007/s00595-026-03340-x | CC BY (không dùng ảnh) | — |
+| 4 | World J Surg Oncol 2025 | **509 ca ung thư ống tụy**: đái tháo đường sau mổ; đường huyết đói **9,81–9,95 mmol/L**, **AUC 0,745** (trước + sau mổ), 0,623 (sau mổ), 0,588 (trước mổ); tử vong 24 tháng **5,03% vs 2,35%** (p = 0,020) | https://europepmc.org/article/PMC/PMC11830169 · doi:10.1186/s12957-025-03705-5 | CC BY-NC-ND (không dùng ảnh) | — |
+| 5 | Ther Adv Endocrinol Metab 2026 | **2.146 ca nhập viện vì viêm tụy**, **675 (31,4%)** có đái tháo đường; insulin **41,9% → 61,2%** sau nhập viện (p < 0,001), metformin **44,7% → 26,2%** | https://europepmc.org/article/PMC/PMC13558923 · doi:10.1177/20420188261419207 | CC BY-NC (không dùng ảnh) | — |
+| 6 | Diabetol Metab Syndr 2024 | **48 ca dùng PERT vs 48 ca chứng**: không giảm tần suất/mức độ hạ đường huyết toàn nhóm (xu hướng giảm ở viêm tụy mạn); rối loạn tiêu hóa cải thiện **80% vs 20%** (p = 0,02); HbA1c/BMI không khác; **19%** tăng đường huyết nhẹ sau PERT | https://europepmc.org/article/PMC/PMC10854028 · doi:10.1186/s13098-024-01265-4 | CC BY (không dùng ảnh) | — |
+| 7 | Front Med (Lausanne) 2026 | **75 bệnh nhân** chụp NCCT + siêu âm định lượng + **MRI-PDFF** trong 1 tuần: **CT L/S ≤ 0,95** cho mỡ gan ≥ S1, **AUC 0,826**; UDFF ngưỡng **8,5%**, AUC 0,926; đồng thuận phân độ CT chỉ **κ 0,517** | https://europepmc.org/article/PMC/PMC13290692 · doi:10.3389/fmed.2026.1799359 | CC BY (không dùng ảnh) | — |
+| 8 | Medicine (Baltimore) 2023 | **136 ca cắt tụy**: NAFLD mới **17,5%** (24/136); **21%** (20/94) nhóm ung thư vs **9,5%** (4/42) nhóm lành tính (p = 0,09); thời gian **26,4 vs 32,8 tháng** (p = 0,03); BMI trước mổ cao liên quan (p = 0,03) | https://europepmc.org/article/PMC/PMC9875952 · doi:10.1097/md.0000000000032782 | **CC BY 4.0** | `images/3148_gan-nhiem-mo_CT_PMC9875952-Fig1.jpg` |
+| 9 | (nguồn ảnh 2) bài tổng quan hình ảnh tụy nhiễm mỡ | **MRI T1 đồng pha / ngược pha** với tụt tín hiệu nhiều ổ trong tụy và gan; kèm CT và siêu âm nội soi cùng ca | https://europepmc.org/article/PMC/PMC13101595 | **CC BY-NC-ND** | `images/3148_tuy-nhiem-mo_MRI-PMC13101595-Fig1.jpg` |
+
+## Ghi chú giấy phép
+- Ảnh 1: **CC BY 4.0** — tái sử dụng nguyên bản, ghi công.
+- Ảnh 2: **CC BY-NC-ND** — dùng **nguyên bản**, **không cắt, không ghép, không chú thích đè**; bài này **không tạo composite**.
+- Không dùng nguồn paywall. Mọi số liệu lấy từ toàn văn/abstract của bài gốc; số nào chưa có nguồn thì bài ghi rõ là **suy luận**.
