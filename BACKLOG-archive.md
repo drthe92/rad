@@ -2457,3 +2457,5 @@
 - 2026-11-14 — gộp chéo: 3140 nối 1853/1840/1923; 1966 nối 1980/1789/025; append #3185 (viêm tụy mảnh ghép) + #1977 (ổ ngấm viền não không HIV).
 - 2026-11-14 — viết **753** (loạn sản xơ xương & u xơ xương hóa ở hàm: COD 45%/OF 39%/FD 16%, CT FD kính mờ 56%; 6 ảnh + 1 composite) + **953** (CTA mạch ghép CABG: nhạy 96,1%/đặc hiệu 96,3%, string sign; 2 ảnh + 1 composite) — verify PASS 7/7, 1287 bài/1287 card.
 - 2026-11-14 — flip #2076/#2077 → xong; append #2167 (3147 gãy xương hàm dưới) + #2168 (3151 JPOF/JTOF) — đã check_duplicates.
+- 2026-11-14 — viết **058** (ITBA sau ghép phổi: viêm khí–phế quản nấm 5–25%, *Aspergillus* 44% IFI, tử vong IFI 40–82%, ~20% không triệu chứng, khí ngoài khí quản = xâm lấn sụn; 4 ảnh + 1 composite CC BY 4.0) + **3142** (ung thư dạ dày CT: > 5 mm khi căng nước, linitis plastica 100% thành/20% CDH1, T 77–89% nhưng EGC 44–70%, nốt phúc mạc < 5 mm Se 43%; 3 ảnh CC BY/BY-NC) — verify PASS 7/7, 1289 bài/1289 card.
+- 2026-11-14 — flip #2078/#2081 → xong; append #2169 (3162 xoắn dạ dày) + #2170 (6197 trichobezoar/Rapunzel) — đã check_duplicates; R2 SKIP (chưa có r2.env).
