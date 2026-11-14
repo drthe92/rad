@@ -143,6 +143,8 @@ CLASSIFY_4D = {
     "1937": "nhi",      # EOS ở trẻ có mẹ viêm màng ối — thời gian kháng sinh
     "1938": "vuspk",    # viêm tụy cấp do sỏi ở thai phụ (sản khoa – tiêu hóa)
     "1860": "nhi",     # chấn thương lách ở trẻ (NOM / SAE / ngưỡng mổ)
+    "3140": "bung",    # xuất huyết tiêu hóa sau ghép tụy: giả phình miệng nối / AEF
+    "1966": "nguc",    # nhiễm Nocardia ở người ghép tạng: nốt phổi + áp-xe não
     "1867": "nhi",     # táo bón & ứ phân sau kéo trực tràng ở trẻ (Hirschsprung)
     "1987": "nhi",     # NCSE sau đột quỵ ở trẻ (cEEG + Salzburg)
     "1871": "vuspk",

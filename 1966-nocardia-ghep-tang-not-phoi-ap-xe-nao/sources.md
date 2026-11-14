@@ -1,0 +1,28 @@
+# Nguồn — 1966 Nhiễm *Nocardia* ở người ghép tạng: nốt phổi + áp-xe não
+
+## Nguồn dùng cho nội dung (đã đọc toàn văn hoặc abstract đầy đủ)
+
+| # | Tài liệu | Dùng cho | Link |
+|---|---|---|---|
+| 1 | Yetmar ZA, Challener DW, Seville MT, và cs. *Outcomes of Nocardiosis and Treatment of Disseminated Infection in Solid Organ Transplant Recipients.* Transplantation 2023;107:782–91. **PMID 36303280 · PMC9974559** | **125 ca** ghép tạng: **tử vong 12 tháng 16,8%**; **ghép gan HR 3,52** (1,27–9,76); **lan tỏa 33 ca (26,4%)**, không phải yếu tố tiên lượng độc lập (HR 1,23) | https://pmc.ncbi.nlm.nih.gov/articles/PMC9974559/ |
+| 2 | Lee H, Do KH, Kim EY, và cs. *Comparative Analysis of CT Findings and Clinical Outcomes in Adult Patients With Disseminated and Localized Pulmonary Nocardiosis.* J Korean Med Sci 2024;39:e107. **PMID 38529577 · PMC10963173** | **75 ca**: **lan tỏa 18,7%**, trong đó **não 64,3%**; lan tỏa có **hang 64,3% vs 32,8%**, **tràn dịch 64,3% vs 29,5%**; **tử vong 12 tháng 25,3%**; **đông đặc + nhiều nốt HR 4,99**, ung thư **HR 9,73**, corticoid **HR 3,72** | https://pmc.ncbi.nlm.nih.gov/articles/PMC10963173/ |
+| 3 | Yetmar ZA, Khodadadi RB, Chesdachai S, và cs. *Imaging characteristics, yield of computed tomography, and clinical outcomes of central nervous system nocardiosis.* Infection 2026;54:1519–27. **PMID 41979781 · PMC13193237 · CC BY 4.0** | **52 ca** nhiễm hệ thần kinh trung ương: **86,5% có tổn thương phổi**, **trên lều 96,2%**, **nhiều ổ 59,6%**, **hai bán cầu 57,7%**; **19,2% CT não bình thường** (tổn thương **0,6 vs 1,8 cm**, p = 0,005); tử vong 12 tháng **23,1%**; tái phát **6,1%** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13193237/ |
+| 4 | Su R, Wen Y, Liufu Y, và cs. *The Computed Tomography Findings and Follow-up Course of Pulmonary Nocardiosis.* J Comput Assist Tomogr 2023;47:418–23. **PMID 37185005** | **34 ca**: **nốt 94,1%**, GGO **76,5%**, đông đặc vá **73,5%**, **hang 52,9%**, khối **32,4%**, hạch **61,8%**, dày màng phổi **52,9%**, giãn phế quản **44,1%**, tràn dịch **38,2%**; **hang 85% vs 29%** ở người suy giảm (p = 0,005) | https://pubmed.ncbi.nlm.nih.gov/37185005/ |
+| 5 | Mehrian P, Esfandiari E, Karimi MA, và cs. *Computed tomography features of pulmonary nocardiosis in immunocompromised and immunocompetent patients.* Pol J Radiol 2015;80:13–7. **PMID 25584096 · PMC4288394** | **25 ca**: **nốt 96%**, đông đặc **76%**, hang **52%**, giãn phế quản **48%**, tràn dịch **12%**; không khác biệt có ý nghĩa giữa hai nhóm | https://pmc.ncbi.nlm.nih.gov/articles/PMC4288394/ |
+| 6 | Wang HJ, Zhang YN, An L. *Clinical and radiographic feature of pulmonary nocardiosis: A study of 102 cases.* World J Radiol 2026;18:114552. **PMID 41640705 · PMC12865543 · CC BY-NC 4.0** | **102 ca**: **giãn phế quản 52,9%** là bệnh nền thường gặp nhất; **60% chẩn đoán bằng mNGS**; *N. wallacei* chủ yếu **viêm phế quản–phổi**, loài khác **đông đặc + nốt/hang/tràn dịch** — **ảnh Fig. 2 dùng trong bài** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12865543/ |
+| 7 | Passerini M, Nayfeh T, Yetmar Z, và cs. *Trimethoprim-sulfamethoxazole significantly reduces the risk of nocardiosis in solid organ transplant recipients: systematic review and individual patient data meta-analysis.* Clin Microbiol Infect 2024;30:170–7. **PMID 37865337** | **260 ca + 519 chứng**: TMP-SMX giảm nguy cơ **aOR 0,3** (0,18–0,52); **nhiễm đột phá 25%** nhưng **98% còn nhạy TMP-SMX** | https://pubmed.ncbi.nlm.nih.gov/37865337/ |
+| 8 | Bini Viotti J, Simkins J, Reynolds JM, và cs. *Nocardiosis in Solid Organ Transplant Recipients: 10-Year Single Center Experience and Review of Literature.* Microorganisms 2024;12:1156. **PMID 38930538 · PMC11205360 · CC BY** | **13/6179 = 0,2%**; **trung vị 8,8 tháng** sau ghép (3,7–98); tử vong 1 năm **46%** (chỉ **17%** quy trực tiếp do *Nocardia*) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11205360/ |
+| 9 | Chirila R, Harris D, Gupta V, và cs. *Clinical and Radiological Characterization of Central Nervous System Involvement in Nocardiosis: A 20-Year Experience.* Cureus 2024;16:e52950. **PMID 38406155 · PMC10894056 · CC BY** | **14/110 (12,7%)** nhiễm có tổn thương hệ thần kinh trung ương; **3 kiểu hình**: áp-xe, viêm não khu trú, nhồi máu do tắc mạch nhiễm; tử vong **42,8%** | https://pmc.ncbi.nlm.nih.gov/articles/PMC10894056/ |
+| 10 | Moffa MA, Walsh TL, Rich W, và cs. *Disseminated nocardiosis mimicking metastatic malignancy in a patient with alcoholic liver cirrhosis.* IDCases 2026;46:e02767. **PMID 42780233 · PMC13597188** | Ca **u phổi + vô số ổ ngấm viền ở não** bị điều trị như **di căn**, chỉ phát hiện *Nocardia* sau tử thiết — cạm bẫy "di căn giả" | https://pmc.ncbi.nlm.nih.gov/articles/PMC13597188/ |
+
+## Nguồn tham khảo thêm (không tải ảnh)
+
+- Restrepo A, Clark NM. *Nocardia infections in solid organ transplantation.* Am J Transplant 2013;13(Suppl 4):83–92 (**PMID 23465000**) — khuyến cáo điều trị/dự phòng của AST, chỉ đọc để đối chiếu thuật ngữ.
+- Lebeaux D, Morelon E, Suarez F, và cs. *Nocardiosis in transplant recipients.* Eur J Clin Microbiol Infect Dis 2014;33:689–702 (**PMID 24272768**) — tổng quan dịch tễ, chỉ đọc abstract.
+
+## Ghi chú về độ chắc chắn
+
+- **0,2%** (13/6179) là **một trung tâm**, cỡ mẫu nhỏ; **tử vong 46%** trong loạt này **không** đại diện — đoàn hệ **125 ca** cho **16,8%**.
+- **85% vs 29% hang** (nguồn 4) là so sánh **người suy giảm vs không suy giảm** trong **34 ca** — cỡ mẫu nhỏ, chỉ nên đọc là xu hướng.
+- **Thời gian điều trị 6–12 tháng (phổi) / ≥ 12 tháng (hệ thần kinh trung ương)** là **tổng hợp thực hành** từ nguồn 1–3 và 9; **không có thử nghiệm ngẫu nhiên**.
+- Số **hạn chế khuếch tán** của *Nocardia* **không có ngưỡng ADC định lượng** đã kiểm chứng — bài không đưa con số ADC để tránh bịa.
