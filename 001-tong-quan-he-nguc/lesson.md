@@ -167,6 +167,7 @@ certainty: tong-hop-y-van
 - [099 – Hẹp tĩnh mạch phổi sau cô lập tĩnh mạch & sau ghép phổi](../099-hep-tinh-mach-phoi-sau-ablation-ghep-phoi/lesson.md) *(mới: 0,29–3,4% có triệu chứng, HPSD 0,8% vs 0,2%, grade 1–4, can thiệp khi > 70%, nong bóng tái hẹp 47–61% vs stent 0–47%)*
 - [3057 – Vỡ khí quản–phế quản sau đặt nội khí quản](../3057-vo-khi-quan-phe-quan-sau-dat-noi-khi-quan/lesson.md) *(mới: 0,005% (ống hai nòng 0,5–1%, tử vong 8,8% ở 187 ca); khí trung thất KHÔNG tràn khí màng phổi; Cardillo I–IV theo độ sâu, 62 ca — I–IIIA 88,7% keo fibrin, liền < 30 ngày; IIIB–IV mổ; > 4,5 cm dự báo tử vong)*
 - [1904 – Thuyên tắc phổi nhiễm khuẩn từ ổ tĩnh mạch bụng–chậu](../1904-thuyen-tac-phoi-nhiem-khuan-o-bung-chau/lesson.md) *(mới: nốt/hang ngoại vi + feeding vessel; OVT 0,01–0,02% sinh thường/0,1% sinh mổ; pylephlebitis 15 ca, áp-xe gan 80%, 2 tử vong; kháng sinh 4–6 tuần)*
+- [1890 – Đo áp lực màng phổi & phổi bị giam](../1890-do-ap-luc-mang-phoi-va-phoi-bi-giam/lesson.md) *(mới — elastance bình thường 0,5–14,5 cmH₂O/L; **> 14,5 dự báo gây dính thất bại Se 93%/Sp 100%**; trapped lung 19–149; X-quang "phổi nở" chỉ Se 44%/PPV 24% cho elastance bình thường; ex vacuo = thể tích nửa ngực giảm + trung thất lệch VỀ phía chọc; nối 040/041/1888)*
 
 ## Quy hoạch toàn diện Hệ Ngực (Master Curriculum 001–080)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
