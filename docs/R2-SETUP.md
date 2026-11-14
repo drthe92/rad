@@ -79,6 +79,17 @@ Tôi sẽ:
 2. Build lại **toàn bộ** trang + hub để `src` chuyển sang CDN.
 3. Kiểm 20 ảnh ngẫu nhiên qua `img.matcauvong.com`, chạy `verify_all` 7/7, commit + push.
 
+## Nén ảnh trước khi upload (đã áp dụng 2026-11-14)
+
+- **Tier 1:** JPEG ≥ 300 KB → q85 progressive. 207 ảnh, 138,7 → 51,0 MB (−87,7 MB).
+- **Tier 2:** JPEG 100–300 KB → q88 progressive. 1.614 ảnh, 331,1 → 167,5 MB (−163,6 MB).
+- **Không nén:** 659 ảnh CC BY-ND/BY-NC-ND (97 MB), license không rõ, PNG, ảnh < 100 KB.
+- Tổng ảnh còn **~605 MB**; site ~722 MB (trước 842 MB).
+- Giữ nguyên tên/đuôi file → không sửa `lesson.md`/`CREDITS.md`.
+- Backup bản gốc: `/tmp/opencode/img-backup/t1`, `/tmp/opencode/img-backup/t2`.
+  Log sha: `tools/optimize_log.jsonl` (đã gitignore) — chạy lại sẽ không nén lặp.
+- Rollback một ảnh: copy từ backup (hoặc `git checkout -- <file>` nếu chưa commit).
+
 ## Sau khi ảnh lên CDN: giảm dung lượng Pages (tuỳ chọn nhưng nên làm)
 
 Hiện ảnh vẫn nằm trong repo nên GitHub Pages vẫn phục vụ chúng (site ~842 MB).
