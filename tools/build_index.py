@@ -78,6 +78,8 @@ CLASSIFY_4D = {
     "3079": "nhi",
     "3084": "bung",
     "1884": "tim",    # thủng vách liên thất sau NMCT cấp
+    "1880": "dauco",  # suy cận giáp vĩnh viễn sau cắt tuyến giáp (đầu cổ – chuyển hóa calci)
+    "1882": "mat",    # phù hoàng điểm do prostaglandin sau phaco (hoàng điểm – glôcôm)
     "6163": "bung",   # viêm đĩa đệm + phình ĐMC nhiễm khuẩn (mạch bụng, người lớn)
     "6164": "dauco",  # u nhú đảo ngược tái phát sau mổ (mũi xoang, người lớn)
     "1900": "tim",    # bóc tách động mạch vành tự phát (SCAD)

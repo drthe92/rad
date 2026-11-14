@@ -1,0 +1,28 @@
+# Nguồn gốc — 1882 Phù hoàng điểm do prostaglandin sau phaco
+
+> Quét 2026-11-14: Europe PMC (`TITLE:"prostaglandin" AND TITLE:"macular edema"`, `"prostaglandin analogue" AND "cystoid macular edema" AND "cataract surgery"`, `TITLE:"pseudophakic cystoid macular edema" AND incidence`, `TITLE:"latanoprost" AND TITLE:"central serous"`) — đọc **full text/abstract** bản OA, đối chiếu **PMCID + giấy phép từng bài**. Không scrape Radiopaedia; AuntMinnie/EyeWiki chỉ dẫn link.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Europe PMC / *BMC Res Notes* 2017;10:199 | **Ca latanoprost không chất bảo quản gây CME + SRF** (**PMC5360021**): 65 tuổi, phaco **19 tháng** trước, dùng latanoprost **7 tháng**, BCVA **20/30**, IOP **24 mmHg**; ngừng thuốc + brinzolamide + nepafenac → **hết sau 2 tháng**, BCVA **20/20**, **ERM nhẹ sau 8 tháng**; ảnh OCT 3 thì + FA rò cánh hoa | https://pmc.ncbi.nlm.nih.gov/articles/PMC5360021/ | CC BY 4.0 | `images/1882_phu-hoang-diem-PG_OCT_PMC5360021-Fig1-CCBY.jpg`, `..._FA_PMC5360021-Fig2-CCBY.jpg` |
+| 2 | Europe PMC / *Clin Ophthalmol* 2014;8:1253 | **CME do tafluprost kháng trị** (**PMC4086850**): 64 tuổi, CME **2 tháng** sau phaco, BCVA **20/60**; NSAID 1 tháng → **20/50**; 2 mũi betamethasone dưới Tenon → **20/40**; **implant dexamethasone** → **20/30** sau 1 tháng, giữ 6 tháng; OCT A–D | https://pmc.ncbi.nlm.nih.gov/articles/PMC4086850/ | CC BY-NC 3.0 | `images/1882_phu-hoang-diem-PG_OCT-tafluprost_PMC4086850-Fig1-CCBYNC.jpg` |
+| 3 | Europe PMC / *J Ophthalmol* 2010;2010:170583 | **CME tái phát với 3 PGA khác nhau** (**PMC2975071**): 59 tuổi, CME **4 tháng** sau phaco với latanoprost; đổi bimatoprost rồi travoprost **đều tái phát** → hiệu ứng nhóm | https://pmc.ncbi.nlm.nih.gov/articles/PMC2975071/ | CC BY 3.0 (chỉ dùng văn bản) | không dùng ảnh |
+| 4 | Europe PMC / *Clin Ophthalmol* 2012;6:1217 | **Triamcinolone dưới Tenon cho PGA-CME** (**PMC3529656**): 2 ca (70 tuổi, travoprost tuần 10 → CME tuần 13; 85 tuổi, latanoprost); hết phù nhanh; **dùng lại PGA sau 3 tháng dưới diclofenac, không tái phát 2 năm** | https://pmc.ncbi.nlm.nih.gov/articles/PMC3529656/ | CC BY-NC 3.0 (chỉ dùng văn bản) | không dùng ảnh |
+| 5 | Europe PMC / *Cureus* 2024;16(11):e74086 | **Tổng quan hệ thống 4 RCT** (**PMC11614555**): PGA chu phẫu **không** làm tăng CME đo được; kết luận **không bắt buộc ngừng** ở người không có yếu tố nguy cơ; cơ chế **vỡ hàng rào máu–võng mạc trong và ngoài** | https://pmc.ncbi.nlm.nih.gov/articles/PMC11614555/ | CC BY 4.0 (chỉ dùng văn bản) | không dùng ảnh |
+| 6 | Europe PMC / *Ophthalmol Glaucoma* 2025 | **39.948 người mới dùng thuốc glôcôm** (**PMC11757063**): CME **0,35%** (139); **PGA 0,13%**, **chẹn beta 0,65%**, **alpha-agonist 0,55%**, **CAI 1,76%**; kết luận **không** còn cơ sở cho định kiến PGA tăng CME | https://pmc.ncbi.nlm.nih.gov/articles/PMC11757063/ | (chỉ dùng văn bản) | không dùng ảnh |
+| 7 | Europe PMC / *Cureus* 2026 | **1.325 ca phaco liên tiếp** (**PMC13588649**): CME **2,0%** (27 mắt/22 bệnh nhân); khởi phát **1 tuần–8 tháng**, trung vị **2 tuần** (chỉ NSAID) vs **2 tháng** (có nguy cơ viêm); **26/27** hết nang trong **2 tuần–7 tháng** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13588649/ | CC BY 4.0 (chỉ dùng văn bản) | không dùng ảnh |
+| 8 | Europe PMC / *JAMA Ophthalmol* 2025 | **Omidenepag (EP2 agonist) và CME ở mắt phakic** (**PMC12332760**): **836 mắt**, **86 mắt sau trabeculectomy**; CME **8 mắt/6 bệnh nhân** (≈**9,3%** nhóm sau trab), khởi phát **6–11 tháng**, hồi phục **28–91 ngày** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12332760/ | (chỉ dùng văn bản) | không dùng ảnh |
+| 9 | Europe PMC / *BMJ Case Rep* 2026 | **CSCR liên quan PGA** (chỉ dẫn link — không OA toàn văn): dùng làm **chẩn đoán phân biệt**, không trích số | https://pubmed.ncbi.nlm.nih.gov/?term=central+serous+chorioretinopathy+prostaglandin+analogues | — | không |
+| 10 | Repo nội bộ | **1875** (CME mắt bơm dầu), **1873** (bao sau đục), **1935** (đục sau MIGS), **1447** (rách thể mi), **442** (glaucoma/OCT) | ../1875-phu-hoang-diem-dang-nang-mat-bom-dau/lesson.md | nội bộ | — |
+
+## Ghi chú giấy phép
+- **3 ảnh**: PMC5360021 × 2 (**CC BY 4.0**), PMC4086850 × 1 (**CC BY-NC 3.0**) — dùng khi ghi nguồn; **giữ nguyên**, không crop/ghép.
+- **Không tạo ảnh ghép**: ba ảnh là ba bệnh nhân khác nhau, ghép sẽ gợi ý sai một diễn tiến.
+
+## Phản biện / giới hạn nguồn
+- **Bằng chứng mâu thuẫn — và bài chọn trình bày cả hai phía:** 4 RCT **không** thấy tăng CME (PMC11614555), đoàn hệ 39.948 người cho thấy **PGA có tỉ lệ thấp nhất** (PMC11757063), nhưng **ca nguyên văn** chứng minh CME **xảy ra và hồi phục khi ngừng PGA** (PMC5360021; PMC4086850; PMC2975071). Cách hiểu đúng: **PGA-CME là phản ứng cá biệt/hiếm**, không phải quy luật; **không** dùng số đoàn hệ để phủ định ca thật, cũng **không** dùng ca thật để bắt mọi bệnh nhân ngừng thuốc.
+- **Đoàn hệ 39.948 người là nghiên cứu quan sát**: chỉ định thuốc khác nhau (bệnh nặng hơn → CAI/chẹn beta), nên **không** suy ra "PGA bảo vệ". Bài ghi rõ.
+- **"Ngừng PGA 2–4 tuần trước phaco" là thực hành phổ biến nhưng KHÔNG có RCT** — bài không trình bày như khuyến cáo có bằng chứng.
+- **Ca PMC5360021**: CME xuất hiện **7 tháng sau khi bắt đầu** latanoprost nhưng **19 tháng sau phaco** — diễn giải "do PGA" dựa trên **đáp ứng khi ngừng**, không có test xác nhận tuyệt đối.
+- **PMC4086850** (CC BY-NC) và **PMC3529656** (CC BY-NC) chỉ dùng văn bản ở bài này trừ 1 ảnh OCT; ảnh NC **không** dùng cho mục đích thương mại.
+- **FA bình thường ở mắt đối diện** (PMC5360021) không loại trừ bệnh hai mắt — chỉ là ca một mắt.
