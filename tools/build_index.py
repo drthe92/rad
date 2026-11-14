@@ -51,6 +51,8 @@ SPEC_OVERRIDE = {"6104": "nhi", "6105": "nhi", "6107": "nhi", "6108": "nhi", "61
 CLASSIFY_4D = {
     "1965": "nhi",     # huyết khối xoang tĩnh mạch não ở trẻ sơ sinh
     "3115": "vuspk",   # FNAIT – xuất huyết nội sọ thai nhi (sản khoa – thai)
+    "1466": "nhi",     # phù bạch huyết bẩm sinh ở trẻ (Milroy–Meige)
+    "1467": "mat",     # màng trước võng mạc (ERM) – 4 giai đoạn Govetto
 
     "1972": "dauco",  # hẹp lỗ hình lê bẩm sinh (CNPAS) — mũi xoang nhi, đầu cổ
     "1958": "vuspk",  # TACO – TRALI – AFE: phù phổi sau truyền máu ở sản phụ (sản khoa – hồi sức)
