@@ -127,6 +127,8 @@ CLASSIFY_4D = {
     "3131": "dauco",     # hội chứng Horner ở trẻ — đường giao cảm cổ–trung thất (đầu cổ)
     "3842": "msk",       # chèn ép thần kinh mác chung tại cổ xương mác
     "3843": "msk",       # đau thần kinh thẹn & chèn ép ống Alcock (thần kinh ngoại biên – sàn chậu)
+    "3844": "msk",       # dị vật sót trong mô mềm chi (gỗ, gai, kính, nhựa)
+    "1893": "nguc",      # thoát vị hoành sau cắt thực quản (PEHH / paraconduit hernia)
     "1868": "thankinh",  # động kinh sau xuất huyết não & sau nhồi máu não
     "1460": "mat",       # viêm giác mạc do nấm (Fusarium/Aspergillus/Candida)
     "1461": "mat",       # áp-xe dưới màng xương hốc mắt ở trẻ (Chandler III)

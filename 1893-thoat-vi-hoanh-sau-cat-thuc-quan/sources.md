@@ -1,0 +1,23 @@
+# Nguồn bài 1893 — Thoát vị hoành sau cắt thực quản (PEHH)
+
+> Quét 2026-11-14 qua Europe PMC (`TITLE:"hiatal hernia" AND TITLE:esophagectomy`; `"paraconduit hernia" AND (mortality OR strangulat* OR emergency)`; `(TITLE:esophagectomy AND TITLE:"hiatal hernia") AND (incidence OR prevalence)`). Đối chiếu `authorString`/PMCID và **đọc giấy phép trong `<license>` của full-text XML** trước khi tải ảnh; ảnh tải qua gói `supplementaryFiles` (không qua paywall).
+
+| # | Nguồn | Định danh | Dùng cho |
+|---|---|---|---|
+| 1 | *Esophagus* 2026 — “Post-esophagectomy hiatal hernias: a systematic review and meta-analysis” | **PMID 41449286** · doi 10.1007/s10388-025-01175-y | Tần suất gộp **4,1%** (34 nghiên cứu, **837 ca**); **MIE OR 5,70**; **nCRT OR 3,53**; **BMI > 25 OR 0,84**; mổ nội soi **50,4%**; biến chứng **31,7%**, tử vong **2,1%**; khuyến cáo **cá thể hóa** ca không triệu chứng. (Không OA — chỉ dùng số trong abstract, không lấy ảnh.) |
+| 2 | *J Clin Med* 2023 — “Postoperative Hiatal Hernia after Ivor Lewis Esophagectomy — A Growing Problem in the Age of Minimally Invasive Surgery” | **PMC10488699** · PMID 37685791 · doi 10.3390/jcm12175724 | Đoàn hệ **306 ca** (152 HMIE / 154 OE): PHH **8%**, **HMIE 13,8% vs OE 1,3%** (p < 0,001); **57% không triệu chứng**; **17,4% cấp cứu**; đại tràng **100%**, ruột non **13%**; **78,3% ngực trái**; vá: nội soi **84,2%**, mesh **21%**, colopexy **78,9%**; **tái phát 31,6%**. Ảnh Fig. 2 + Fig. 4 (**CC BY 4.0**) |
+| 3 | *Surg Endosc* 2025 — “Post-esophagectomy hiatal hernia following minimally invasive esophagectomy in esophageal cancer patients” | **PMID 40045058** · doi 10.1007/s00464-025-11639-y | Đoàn hệ **371 ca MIE**: PEHH **6,7%**, trung vị **24 tháng**; **BMI < 25 OR 2,96 (1,22–7,20)**; **60% có triệu chứng**, **48% mổ cấp cứu**; vá nội soi **71,4%**, khâu thì đầu **66,7%**, lưới **1/3**. (Không OA — chỉ dùng số.) |
+| 4 | *Hernia* 2024 — “Presentation and management of post-esophagectomy or Gastrectomy Hiatal Hernia” | **PMID 39066882** · doi 10.1007/s10029-024-03115-8 | Series **8 ca**: **8/8 vào vì tắc ruột**, chuyển mổ mở **50%**, **1 ca hoại tử + thủng**, không tái phát trong 2–55 tháng. (Không OA — chỉ dùng số.) |
+| 5 | *Innovations (Phila)* 2026 — “Diaphragmatic Relaxing Incision in the Repair of Post-Esophagectomy Hiatal Hernia” | **PMID 42989883** · doi 10.1177/15569845261495891 | **15 ca** vá bằng **rạch cơ hoành giải áp** + lưới: lỗ thoát vị trung vị **70 mm** (65–100); khoảng mổ–chẩn đoán **24 tháng** (2–99); biến chứng **13,3%** (nuốt khó thoáng qua); **tái phát 6,7%**. (Không OA — chỉ dùng số.) |
+| 6 | *Front Surg* 2025 — “Colonic hiatal hernia leading to obstruction after minimally invasive McKeown esophagectomy: a case report” | **PMC12018370** · PMID 40276317 · doi 10.3389/fsurg.2025.1543955 | Ca minh họa: **8 tháng sau McKeown**, đau bụng + tắc ruột; **CT lần đầu "không thoát vị"**, đọc lại thấy đại tràng ngang trong ngực; thoát vị **mờ trên axial**, rõ trên **vành/dọc**. Ảnh Fig. 2 (**CC BY**) |
+| 7 | *J Surg Case Rep* 2023 — “Bowel volvulus in the chest after an esophagectomy: an uncommon type IV hiatal hernia” | **PMC10097545** · PMID 37064058 · doi 10.1093/jscr/rjad167 | Khái niệm **type IV**: đại tràng ngang **xoắn trong ngực** sau cắt thực quản; nguy cơ nhồi máu ruột–viêm phúc mạc–tử vong. |
+| 8 | Bài nội bộ [1887](../1887-ro-duong-trap-sau-cat-thuc-quan/lesson.md) | — | Biến chứng **sớm** của cùng bệnh nhân (rò dưỡng trấp), phân biệt với **dịch màng phổi một bên** trong PEHH |
+| 9 | Bài nội bộ [3082](../3082-vo-co-hoanh-sau-chan-thuong/lesson.md) | — | Dấu **"cổ áo" (collar sign)** và tạng **"tựa lưng"** — dùng lại khái niệm hình học của thoát vị hoành |
+
+## Ghi chú phản biện (fidelity)
+- **Mâu thuẫn có thật trong y văn:** đoàn hệ *J Clin Med* 2023 khuyến cáo **mổ chương trình cho MỌI ca** vì nguy cơ nghẹt không dự báo được (**PMC10488699**), còn **phân tích gộp 2026** khuyến cáo **cá thể hóa** ca không triệu chứng dựa trên tiên lượng ung thư (**PMID 41449286**). Bài trình bày **cả hai** và không chọn phe.
+- **Không có ngưỡng mm được thẩm định** cho "lỗ hoành bao nhiêu thì phải vá": bài chỉ ghi **đường kính lỗ hoành để so sánh lượt sau** và dẫn ca mổ thực tế (**70 mm**, **PMID 42989883**) — không bịa ngưỡng.
+- **Tần suất chênh giữa các nguồn** (4,1% gộp vs 8% ở trung tâm chuyên MIE) là do **khác tỷ lệ mổ nội soi** và **cách phát hiện** (chỉ CT theo dõi vs có triệu chứng) — đã ghi rõ trong mục 1.4, không làm tròn thành một con số duy nhất.
+- Figure captions gốc dùng **mũi tên trắng = ống dẫn dạ dày**, **mũi tên đỏ = đại tràng thoát vị** — bài giữ đúng quy ước đó.
+
+## Ảnh — xem `images/CREDITS.md`
