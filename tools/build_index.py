@@ -349,6 +349,7 @@ CLASSIFY_4D = {
     "3075": "nhi",
     "3078": "bung",
     "3840": "msk",
+    "3845": "msk",        # bàn chân Charcot cấp (cơ xương khớp – bàn chân đái tháo đường)
     "6100": "nhi",
     "6106": "nhi",
     "6109": "nhi",
