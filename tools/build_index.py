@@ -57,6 +57,8 @@ CLASSIFY_4D = {
     "3115": "vuspk",   # FNAIT – xuất huyết nội sọ thai nhi (sản khoa – thai)
     "1466": "nhi",     # phù bạch huyết bẩm sinh ở trẻ (Milroy–Meige)
     "1467": "mat",     # màng trước võng mạc (ERM) – 4 giai đoạn Govetto
+    "1469": "mat",     # bong võng mạc có lỗ sau tiêm nội nhãn (IVARD)
+    "3138": "dauco",   # hoại tử xương hàm dưới sau xạ trị (hàm mặt – đầu cổ)
 
     "1972": "dauco",  # hẹp lỗ hình lê bẩm sinh (CNPAS) — mũi xoang nhi, đầu cổ
     "1958": "vuspk",  # TACO – TRALI – AFE: phù phổi sau truyền máu ở sản phụ (sản khoa – hồi sức)
