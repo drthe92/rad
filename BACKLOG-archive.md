@@ -2450,4 +2450,4 @@
 - 2026-11-14: viết **1920** (MPE: IPC vs talc; 12 ảnh nguồn CC BY-NC, 1 composite) + **1473** (AIFS: CTSI, 5 ảnh) — verify PASS 7/7, 1283 bài/1283 card.
 - 2026-11-14: flip #2073→1920 và #2027→1473; append 2 gap mới #2163 (3183 IPC infection/tract metastasis) và #2164 (3184 CGIFS).
 - 2026-11-14 — viết **3140** (xuất huyết tiêu hóa sau ghép tụy: giả phình Y-graft/AEF; 1,4–8,0%, GIB 11%, stent đơn thuần 54,5% phải cắt mảnh ghép; 4 ảnh + composite CC BY/CC BY-NC-ND) và **1966** (*Nocardia* ở người ghép tạng: 0,2%, não 64,3% ca lan tỏa, 19,2% CT não bình thường; 2 ảnh CC BY/CC BY-NC); verify 7/7.
-- 2026-11-14 — gộp chéo: 3140 nối 1853/1840/1923; 1966 nối 1980/1789/025; append #3179 (viêm tụy mảnh ghép) + #1975 (ổ ngấm viền não không HIV).
+- 2026-11-14 — gộp chéo: 3140 nối 1853/1840/1923; 1966 nối 1980/1789/025; append #3185 (viêm tụy mảnh ghép) + #1977 (ổ ngấm viền não không HIV).
