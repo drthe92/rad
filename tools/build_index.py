@@ -49,6 +49,8 @@ SPEC_OVERRIDE = {"6104": "nhi", "6105": "nhi", "6107": "nhi", "6108": "nhi", "61
 # hoặc thêm vào CLASSIFY_4D, hoặc gắn tag `vung:` khớp VUNG_SPEC; nếu không
 # build_index.py sẽ DỪNG và liệt kê bài chưa phân loại (không được để "Khác").
 CLASSIFY_4D = {
+    "1881": "nguc",   # tràn dưỡng trấp màng phổi sau chấn thương ngực kín
+    "3137": "bung",   # bệnh gan do tuần hoàn Fontan (FALD)
     "1965": "nhi",     # huyết khối xoang tĩnh mạch não ở trẻ sơ sinh
     "3115": "vuspk",   # FNAIT – xuất huyết nội sọ thai nhi (sản khoa – thai)
     "1466": "nhi",     # phù bạch huyết bẩm sinh ở trẻ (Milroy–Meige)
