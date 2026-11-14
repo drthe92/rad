@@ -46,6 +46,7 @@ certainty: tong-hop-y-van
 | Hang (cavity) | Phổi | Lao (TB), K hoại tử (SCC), áp-xe (abscess), nấm (aspergilloma) | Thành ≤ 4 mm lành / > 15 mm ác; liềm khí + di động = nấm | [025](../025-ton-thuong-phoi-tao-hang/lesson.md) |
 | Xơ mô kẽ (fibrosis) | Phổi | UIP/IPF, NSIP, HP mạn | Tổ ong đáy-dưới màng phổi = UIP; chừa màng phổi 1–2 mm = NSIP | [035](../035-xo-mo-ke-UIP-NSIP/lesson.md) |
 | Giãn PQ/kén khí | Đường thở | Giãn PQ, LCH, LAM, khí phế thũng | Nhẫn ngọc > 1,0; kén ≤ 2 mm; central dot = khí phế thũng | [050](../050-gian-phe-quan-ken-khi/lesson.md) |
+| **Giãn PQ thùy giữa/lưỡi hai bên + tree-in-bud** | Đường thở (đa thùy) | NTM-PD (MAC/*M. abscessus*) · lao · giãn PQ hậu nhiễm · CPA | **Giãn PQ giữa/lưỡi đối xứng + nốt 2–5 mm + tree-in-bud = NTM**; **KHÔNG giãn PQ + co kéo đỉnh = lao** (OR 0,19); chốt bằng **≥ 2 đờm hoặc 1 BAL** | [056](../056-benh-phoi-ntm-mac/lesson.md) |
 | Nang phổi lan toả hai bên | Phổi (mọi vùng) | LAM, BHD, PLCH, LIP, di căn dạng nang, nang lão hoá | **Tròn đều–mọi vùng = LAM**; **đáy–bất quy tắc–≥ 2,1 cm = BHD**; **đỉnh + nốt = PLCH**; < 4 nang thường lành | [696](../696-lam-nang-phoi-lan-toa/lesson.md), [697](../697-hoi-chung-birt-hogg-dube-flcn/lesson.md) |
 | Một thùy tăng sáng | Phổi (một thùy) | Hẹp phế quản bẩm sinh, CLH, CPAM, Swyer–James, dị vật | **Bronchocele + ứ khí = BA**; **thùy căng, không bronchocele = CLH**; phổi nhỏ + giãn PQ = Swyer–James | [699](../699-hep-phe-quan-bam-sinh-va-khi-phe-thung-thuy/lesson.md), [698](../698-nang-phoi-bam-sinh-cpam-ccam/lesson.md) |
 | Khối trung thất | ITMIG 3 khoang | Thymoma, tăng sản, u quái, lymphoma, u thần kinh | SII > 20% = tăng sản; mỡ+vôi = u quái; bao mạch không tắc = lymphoma | [060](../060-khoi-trung-that-itmig/lesson.md) |
@@ -132,6 +133,7 @@ certainty: tong-hop-y-van
 - [033 – Phù phổi & ARDS](../033-phu-phoi-ards/lesson.md)
 - [035 – Xơ mô kẽ UIP vs NSIP](../035-xo-mo-ke-UIP-NSIP/lesson.md)
 - [050 – Giãn PQ & kén khí](../050-gian-phe-quan-ken-khi/lesson.md)
+- [056 – Bệnh phổi do NTM (MAC/*M. abscessus*): giãn PQ thùy giữa/lưỡi + tree-in-bud, 2020 ATS/ERS/ESCMID/IDSA, NTM-CT score](../056-benh-phoi-ntm-mac/lesson.md) *(mới)*
 - [054 – ABPA: nút nhầy "ngón tay trong găng", HAM > 70 HU](../054-abpa-viem-phe-quan-di-ung-aspergillus/lesson.md) *(mới: nút nhầy trung tâm + HAM; ISHAM 2013 → 2024 hạ IgE còn 500 IU/mL)*
 - [060 – Khối trung thất ITMIG](../060-khoi-trung-that-itmig/lesson.md)
 - [070 – PE & ĐMC cấp](../070-thuyen-tac-phoi-dmc-cap/lesson.md) *(mới)*
