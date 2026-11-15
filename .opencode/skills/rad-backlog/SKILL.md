@@ -2,7 +2,7 @@
 name: Rad Backlog
 description: >-
   Vòng lặp tự lấp đầy BACKLOG cho repo Rad: khóa chống chồng lượt, đồng bộ git,
-  chọn 1–2 chủ đề, kiểm trùng, viết bài theo chuẩn, cập nhật hub/README/BACKLOG,
+  chọn 1 chủ đề, kiểm trùng, viết bài theo chuẩn, cập nhật hub/README/BACKLOG,
   verify rồi commit/push. Dùng khi chạy worker định kỳ hoặc khi được yêu cầu
   "viết bài tiếp theo trong BACKLOG" tại /home/openchamber/workspaces/Rad.
 ---
@@ -82,10 +82,13 @@ git stash pop                      # khôi phục NGAY, không để treo
 
 ## 3. Chọn việc
 
-- Lấy **1–2** mục `chờ viết` ưu tiên cao nhất (trên → dưới; ưu tiên: tần suất
-  lâm sàng > nguy cơ bỏ sót chết người > giá trị thi cử).
-- Nếu có mục backfill-ảnh: dành 1 slot tìm ảnh cho bài thiếu.
-- Mỗi lượt tối đa 2 bài — không nhồi thêm vì "còn thời gian".
+- Lấy **đúng 1** mục `chờ viết`.
+- **Ưu tiên nhãn khoa/mắt trước:** nếu hàng đợi có mục thuộc mắt (tag `vung:mat`,
+  hoặc chữ: mắt, nhãn khoa, giác mạc, võng mạc, thể thủy tinh, glôcôm, OCT, hốc mắt,
+  thị thần kinh, lác, mi), chọn mục nhãn khoa ưu tiên cao nhất **trước** mọi mục khác.
+  Không có mục mắt mới chọn mục đầu theo thứ tự thường.
+- Nếu có mục backfill-ảnh: chỉ làm sau khi đã xử lý mục nhãn khoa (nếu có).
+- Mỗi lượt **tối đa 1 bài** — không nhồi thêm vì "còn thời gian".
 
 ## 4. Chống trùng (trước khi viết VÀ trước khi append)
 
