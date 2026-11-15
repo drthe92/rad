@@ -12,6 +12,15 @@
 <link rel="alternate" type="text/markdown" href="https://rad.matcauvong.com/473-u-lympho-T-NK-va-u-lympho-thu-phat-o-mat/lesson.md" title="Markdown gốc">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/lesson.css">
+<style>
+#noi-dung img{cursor:zoom-in}
+#lb{position:fixed;inset:0;background:rgba(0,0,0,.92);display:none;align-items:center;justify-content:center;flex-direction:column;z-index:9999;overflow:hidden}
+#lb.open{display:flex}
+#lb img{max-width:96vw;max-height:86vh;object-fit:contain;background:#000;border-radius:0;cursor:grab;user-select:none;-webkit-user-select:none;touch-action:none;transition:transform .12s}
+#lb img.drag{transition:none;cursor:grabbing}
+#lb .cap{color:#ddd;font-size:13px;margin-top:8px;max-width:92vw;text-align:center}
+#lb .x{position:absolute;top:10px;right:16px;color:#fff;font-size:28px;line-height:1;cursor:pointer;background:none;border:0}
+</style>
 <meta name="author" content="Thư viện Chẩn đoán hình ảnh">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Thư viện Chẩn đoán hình ảnh">
@@ -327,6 +336,50 @@
     box.querySelector('.learn-txt').textContent=on?'Đã học ✓':'Đã học';}
   paint(!!get()[uid]);
   chk.addEventListener('change',function(){var o=get();if(chk.checked)o[uid]=1;else delete o[uid];set(o);paint(chk.checked);});
+})();
+</script>
+<div id="lb" role="dialog" aria-modal="true" aria-label="Xem ảnh phóng to"><button class="x" type="button" aria-label="Đóng">×</button><img alt="" draggable="false"><div class="cap"></div></div>
+<script>
+(function(){
+  var box=document.getElementById('noi-dung'), lb=document.getElementById('lb');
+  if(!box||!lb) return;
+  var im=lb.querySelector('img'), cap=lb.querySelector('.cap'), xb=lb.querySelector('.x');
+  var sc=1, tx=0, ty=0, drag=null;
+  function tf(){ im.style.transform='translate('+(tx?tx+'px':'0')+','+(ty?ty+'px':'0')+') scale('+sc+')'; }
+  function reset(){ sc=1; tx=0; ty=0; tf(); }
+  function close(){ lb.classList.remove('open'); reset(); }
+  function open(src,alt){ im.src=src; im.alt=alt||''; cap.textContent=alt||''; reset(); lb.classList.add('open'); }
+  box.addEventListener('click',function(e){
+    var el=e.target, img=el&&el.closest?el.closest('img'):null;
+    if(!img||!box.contains(img)) return;
+    e.preventDefault();
+    open(img.currentSrc||img.src,img.alt);
+  });
+  lb.addEventListener('click',function(e){ if(e.target!==im) close(); });
+  xb.addEventListener('click',function(e){ e.stopPropagation(); close(); });
+  document.addEventListener('keydown',function(e){
+    if((e.key==='Escape'||e.key==='Esc')&&lb.classList.contains('open')) close();
+  });
+  im.addEventListener('wheel',function(e){
+    e.preventDefault(); e.stopPropagation();
+    sc=Math.min(4,Math.max(1,sc+(e.deltaY<0?0.25:-0.25)));
+    if(sc===1){ tx=0; ty=0; }
+    tf();
+  },{passive:false});
+  function down(x,y){ if(sc<=1) return; drag={x:x,y:y,tx:tx,ty:ty}; im.classList.add('drag'); }
+  function moveT(x,y){ if(!drag) return; tx=drag.tx+(x-drag.x); ty=drag.ty+(y-drag.y); tf(); }
+  function up(){ drag=null; im.classList.remove('drag'); }
+  im.addEventListener('mousedown',function(e){ if(sc>1){ e.preventDefault(); down(e.clientX,e.clientY); } });
+  document.addEventListener('mousemove',function(e){ if(drag) moveT(e.clientX,e.clientY); });
+  document.addEventListener('mouseup',up);
+  im.addEventListener('touchstart',function(e){
+    if(e.touches.length===1) down(e.touches[0].clientX,e.touches[0].clientY);
+  },{passive:true});
+  im.addEventListener('touchmove',function(e){
+    if(drag&&e.touches.length===1){ moveT(e.touches[0].clientX,e.touches[0].clientY); if(e.cancelable) e.preventDefault(); }
+  },{passive:false});
+  im.addEventListener('touchend',up);
+  im.addEventListener('touchcancel',up);
 })();
 </script>
 <script type="module">
