@@ -2481,3 +2481,4 @@
 - 2026-11-15 — Flip #2089 → xong; append #9448 (3191 vỡ tá tràng kín ở trẻ) và #9449 (3192 chấn thương mạc treo ruột non) — đều đã check_duplicates; R2 SKIP (chưa có r2.env) nên ảnh vẫn dùng local.
 - 2026-11-15 — Viết **3143** (mất xương do OFS + AI ở phụ nữ tiền mãn kinh): 2 sơ đồ CC BY 4.0 (PMC12301826, PMC11950069), ngưỡng AIBL 2025 (T < −2,0 / −1,5 + 1 YTNC / ≥ 2 YTNC / ≥ 10%/năm), RR gãy đốt sống 1,84, MRONJ 0,05%/5 năm; nâng cấp **524** thêm RFGT 27,4% + "không chụp theo dõi thường quy sau cắt tuyến vú" (PMC13518751, PMC12960395, PMC13258511).
 - 2026-11-15 — Flip #2082 → xong (bài 3143); #2083 → gộp vào 524; #2084 → trùng 1730; append #2173 (6197 panniculitis do tụy) + #2174 (3165 xương sau RRSO) — đã check_duplicates; R2 SKIP (chưa có r2.env).
+- 2026-11-15: chuẩn hóa ID hàng đợi — 12 ID trùng cấp mới, 13 ID đã dùng cho bài khác cấp lại, 3845 (Charcot) gộp; còn 115 mục chờ, 0 ID trùng.
