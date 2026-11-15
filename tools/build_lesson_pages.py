@@ -543,6 +543,733 @@ PATTERN_DESC.update({
         "Phù hoàng điểm dạng nang sau quang đông thể mi do viêm chứ không do bắt giữ dịch; OCT thấy dày trung tâm và khoang nang, không có màng co kéo.",
 })
 
+# ── Đợt 2–3 (task rad-desc-std-003): 360 bài `primary_pattern` còn lại —
+# cùng quy tắc: 1 câu tiếng Việt ≤ 158 ký tự rút từ chính nội dung bài.
+# Hết nhóm: 26 (89203a74) + 180 (đợt 1) + 360 (đợt này) = 566.
+PATTERN_DESC.update({
+    "1447-rach-the-mi-sau-migs-va-yamane":
+        "Rách thể mi sau MIGS hoặc sau cố định IOL kiểu Yamane tạo đường rò nội bộ: hạ nhãn áp, tiền phòng nông, khe góc thấy trên UBM/AS-OCT.",
+    "1448-glaucoma-ac-tinh-sau-mo-noi-nhan":
+        "Glôcôm ác tính sau mổ nội nhãn là tiền phòng dẹt kèm nhãn áp cao do thủy dịch đi lạc hướng ra sau, không phải do chèn ép.",
+    "1449-tiem-noi-nhan-o-benh-nhan-dung-thuoc-chong-dong":
+        "Tiêm nội nhãn ở người dùng chống đông hoặc kháng kết tập tiểu cầu: nguy cơ xuất huyết thấp, phần lớn tiếp tục thuốc chứ không ngừng.",
+    "1453-oct-rnfl-gcl-opg-nf1":
+        "Theo dõi OPG–NF1 bằng OCT: mỏng lớp tế bào hạch và RNFL phản ánh teo ngược sợi trục sau chèn ép đường thị, có thể báo trước giảm thị lực.",
+    "1454-dat-iol-mat-phacolytic":
+        "Ở mắt phacolytic đã lấy thể thủy tinh, bao–dây chằng không vững nên phải chọn IOL trong bao, rãnh thể mi hay không đặt, và hiệu chỉnh công suất.",
+    "1455-anti-vegf-mat-da-cat-dich-kinh":
+        "Sau cắt dịch kính, anti-VEGF bị thải nhanh hơn vì mất tác dụng giữ thuốc của gel dịch kính, nên khoảng tái tiêm phải ngắn lại.",
+    "1457-glaucom-te-bao-hong-cau-sau-xuat-huyet-dich-kinh":
+        "Glôcôm tế bào hồng cầu ma sau xuất huyết dịch kính gây tăng nhãn áp MUỘN, không viêm, không flare, không dính đồng tử.",
+    "1458-benh-than-kinh-thi-do-xa-o-tre":
+        "Bệnh thần kinh thị do xạ ở trẻ cho ngấm thuốc và phì đại đoạn dây thị trong trường chiếu như 'giả u', rồi teo và mù muộn không hồi phục.",
+    "1460-viem-giac-mac-do-nam":
+        "Viêm giác mạc do nấm có ổ thâm nhiễm nhu mô bờ lông vũ kèm tổn thương vệ tinh và mảng nội mô; IVCM và natamycin 5% là cốt lõi chẩn đoán – điều trị.",
+    "1461-ap-xe-duoi-mang-xuong-hoc-mat-o-tre":
+        "Áp-xe dưới màng xương hốc mắt ở trẻ là ổ dịch hình thấu kính ngoài nón kèm nâng màng xương, thường lan từ viêm xoang sàng.",
+    "1462-sinh-trac-iol-sau-ghep-giac-mac":
+        "Giác mạc sau ghép làm sai cả công suất K lẫn vị trí hiệu dụng IOL, nên phải tính bằng công thức hai mặt phẳng hoặc ray tracing.",
+    "1463-suy-thuong-than-do-corticoid":
+        "Suy thượng thận thứ phát do corticoid kéo dài để lại tuyến thượng thận teo đối xứng, aldosteron vẫn bình thường; phải giảm liều theo lịch.",
+    "1465-tang-nhan-ap-sau-tiem-noi-nhan":
+        "Tăng nhãn áp cấp sau tiêm nội nhãn đạt đỉnh trong 30 giây và về bình thường trong 30 phút; chỉ chọc tiền phòng khi không tự hạ.",
+    "1466-phu-bach-huyet-bam-sinh-o-tre":
+        "Phù bạch huyết bẩm sinh ở trẻ (Milroy–Meige) là phù mềm không ấn lõm do ứ dịch giàu protein, lâu dần dày và xơ hóa mô dưới da.",
+    "1467-mang-truoc-vong-mac-erm":
+        "ERM là màng tăng phản xạ trên bề mặt võng mạc kèm co kéo; đọc theo 4 giai đoạn Govetto trên OCT để quyết định bóc màng.",
+    "1469-bong-vong-mac-co-lo-sau-tiem-noi-nhan":
+        "Bong võng mạc có lỗ sau tiêm nội nhãn xảy ra vì đường kim 30 G xuyên qua pars plana vào vùng ora serrata, kèm lỗ ngoại vi ± PVR.",
+    "1472-viem-giac-mac-acanthamoeba":
+        "Viêm giác mạc do Acanthamoeba gây đau nhiều hơn tổn thương, viêm thần kinh tỏa tia và nang vách đôi trên IVCM, gần như chỉ ở người đeo kính tiếp xúc.",
+    "1473-viem-xoang-nam-xam-lan-cap-hoc-mat":
+        "Viêm xoang nấm xâm lấn cấp lan hốc mắt gây đặc xoang, hủy xương, hoại tử ít ngấm thuốc do nấm xâm lấn mạch — khác viêm xoang vi khuẩn.",
+    "1608-ung-thu-nieu-mac-thu-phat-sau-xa-tri-tieu-khung":
+        "Ung thư niệu mạc thứ phát sau xạ trị tiểu khung cho dày thành bàng quang hoặc khối trong lòng, nguy cơ cao gấp khoảng 2,5 lần.",
+    "1612-colpocleisis-va-bien-chung":
+        "Colpocleisis bịt kín âm đạo nên hình ảnh hậu phẫu dễ nhầm; biến chứng cần nghĩ là ứ mủ trong khoang mổ (pyocolpos/pyometra).",
+    "1616-ung-thu-vu-the-viem":
+        "Ung thư vú thể viêm là đỏ da, phù và da cam trên ≥ 1/3 vú dưới 6 tháng, do tế bào u bít bạch mạch trung bì — không phải viêm.",
+    "1618-di-can-da-thanh-nguc-ung-thu-vu":
+        "Di căn da và thành ngực của ung thư vú là dày da khu trú hoặc lan tỏa kèm nốt dưới da, khác hẳn xâm lấn da trực tiếp T4b.",
+    "1627-nguoi-mang-opa1-khong-trieu-chung":
+        "Người mang OPA1 có thể không triệu chứng vì độ thấm không hoàn toàn: mất tế bào hạch tiến triển âm thầm nên vẫn phải theo dõi OCT.",
+    "1631-thai-tiep-tuc-sau-chua-seo-mo-lay-thai":
+        "Thai tiếp tục sau chửa ở sẹo mổ lấy thai có thể tiến triển thành thai sống và nhau cài răng lược, nên phải theo dõi RMT và khuyết sẹo.",
+    "1633-viem-bang-quang-xa-chay-mau-nang":
+        "Viêm bàng quang xạ chảy máu nặng cho thành bàng quang dày lan tỏa và bàng quang co nhỏ; cầm máu theo bậc thang, nút mạch rồi cắt bàng quang.",
+    "1639-dau-xuong-di-can-xa-tri-giam-dau":
+        "Đau do di căn xương chọn 8 Gy × 1 hay chia liều, SBRT, đồng vị phóng xạ hay tạo hình đốt sống tùy cơ chế đau và tiên lượng.",
+    "1641-opmd-opdm-va-cpeo":
+        "OPMD/OPDM khác CPEO ở kiểu yếu cơ: OPMD yếu ưu thế gốc chi và nuốt khó, còn OPDM yếu ngọn chi; MRI cơ và DWI sọ giúp phân biệt.",
+    "1642-sa-tang-chau-tai-phat-sau-colpocleisis":
+        "Sa tạng chậu tái phát sau colpocleisis do ba cơ chế riêng; MRI động học giúp xác định kiểu sa và chọn cách mổ lại.",
+    "1643-glaucoma-sau-mo-duc-thuy-tinh-the-bam-sinh":
+        "Glaucoma sau mổ đục thể thủy tinh bẩm sinh xuất hiện muộn nhiều năm, góc mở, kèm lõm đĩa thị tiến triển và nhãn cầu dài ra.",
+    "1648-di-can-gan-ung-thu-vu":
+        "Di căn gan ở ung thư vú là nốt giảm tỷ trọng nhiều ổ, bờ không đều, ngấm viền; phải phân biệt u máu, gan nhiễm mỡ do điều trị và gan giả xơ.",
+    "1649-di-can-buong-trung-ung-thu-vu":
+        "Di căn buồng trứng của ung thư vú là khối phần phụ đặc thường hai bên kèm dịch ổ bụng và bánh mỡ phúc mạc, hay gặp ở nhóm ER dương.",
+    "1650-gay-xuong-suon-xuong-don-sau-xa-tri":
+        "Gãy xương sườn và xương đòn sau xạ trị là gãy thiếu vững kiểu giả u, do xương mất mạch, mất tế bào tạo xương và xơ hóa tủy.",
+    "1660-stent-nieu-quan-luu-quen":
+        "Stent niệu quản lưu quên bị kết vôi thành vật cản quang dạng ống, gặp ở 0,9–12% người đặt stent và gây nhiễm trùng, suy thận.",
+    "1662-doc-tinh-asparaginase-trong-enktl":
+        "Asparaginase trong ENKTL gây viêm tụy hoại tử và huyết khối do thiếu antithrombin/fibrinogen; MRV–CTV là chuỗi xung chốt để phát hiện.",
+    "1666-hep-nieu-quan-sau-va-ro-va-sau-xa-tri":
+        "Hẹp niệu quản sau vá rò và sau xạ trị do sợi xơ thay cơ trơn, gây ứ nước – ứ niệu quản; thể do xạ hay gặp ở đoạn xa.",
+    "1669-hoi-chung-qua-kich-buong-trung":
+        "Hội chứng quá kích buồng trứng cho buồng trứng đa nang hai bên và cổ trướng do VEGF làm tăng tính thấm mao mạch.",
+    "1675-vo-kinh-trung-uong-mri-tuyen-yen":
+        "Vô kinh trung ương trên MRI tuyến yên: mất xung GnRH làm LH/FSH và estradiol thấp, có thể do u hố yên hoặc tuyến yên trông bình thường.",
+    "1676-bon-ommaya-vi-tri-catheter":
+        "Bồn Ommaya cần đầu catheter đúng vị trí não thất để bơm thuốc nội tủy và lấy dịch não tủy lặp lại; phải theo dõi nhiễm và tắc catheter.",
+    "1680-viem-tuy-tang-triglyceride-nguoi-lon":
+        "Viêm tụy cấp do tăng triglyceride ở người lớn nặng hơn viêm tụy mật (46,9% so với 17,6%), hình ảnh là hoại tử và ổ dịch quanh tụy.",
+    "1684-nuot-kho-sau-xa-tri-dau-co":
+        "Nuốt khó sau xạ trị đầu cổ là xơ hóa cơ nuốt tiến triển muộn, khác nuốt đau cấp do viêm niêm mạc trong lúc đang xạ.",
+    "1688-siliconoma-lan-xa-ngoai-vu":
+        "Siliconoma lan xa ngoài vùng vú cho khối mô mềm tăng hồi âm kiểu 'bão tuyết' và tín hiệu chọn lọc silicone trên MRI sau tiêm silicone lậu.",
+    "1690-benh-paget-num-vu":
+        "Bệnh Paget núm vú là trợt – đóng vảy MỘT BÊN ở núm, 93% có ung thư vú nằm dưới và chỉ dưới 10% sờ thấy khối.",
+    "1692-u-tuyen-num-vu":
+        "U tuyến núm vú gây trợt – loét một bên ± nốt và chảy dịch; tổn thương ≤ 10 mm sát da nên siêu âm đầu dò 12–18 MHz là chốt.",
+    "1693-thrombophlebitis-migrans-trousseau":
+        "Thrombophlebitis migrans (Trousseau) là dây cứng đỏ – đau tái phát di chuyển nhiều vị trí; siêu âm ép là chốt vì lòng mạch không xẹp.",
+    "1695-ac225-dotatate-ppgl-sau-lu177":
+        "²²⁵Ac-DOTATATE dùng sau thất bại ¹⁷⁷Lu ở PPGL: hạt alpha quãng chạy 47–85 µm, LET gấp hàng trăm lần beta; chọn bệnh nhân theo SSTR/FDG.",
+    "1698-hoi-chung-tac-mach-silicone":
+        "Hội chứng tắc mạch silicone sau tiêm mông gây viêm phổi, xuất huyết phế nang và ARDS trong 72 giờ, hình ảnh là kính mờ lan tỏa.",
+    "1699-benh-cushing-tre-em":
+        "Bệnh Cushing ở trẻ biểu hiện chậm tăng trưởng kèm tăng cân; chẩn đoán bằng xét nghiệm động học và BIPSS theo tuổi, MRI 3T tìm microadenoma.",
+    "1700-cushing-chu-ky":
+        "Cushing chu kỳ có cortisol dao động lúc cao lúc bình thường nên xét nghiệm âm giả; phải lấy mẫu lặp thay vì 'chụp đúng lúc trũng'.",
+    "1703-dinh-khop-thai-duong-ham-bam-sinh":
+        "Dính khớp thái dương–hàm bẩm sinh ở trẻ gây hạn chế mở miệng cố định; CT thấy cầu xương lồi cầu–ổ chảo, phân độ Sawhney/He định hướng mổ.",
+    "1704-vtg-man-cholesteatoma-tre-cay-oc-tai":
+        "Cholesteatoma ở trẻ có cấy ốc tai là khối mô mềm tiêu xương vùng thượng nhĩ ± hạn chế khuếch tán; phải xử lý tai trước khi đặt điện cực.",
+    "1705-theo-doi-tiet-nieu-dai-tien-sau-cat-u-quai-cung-cut":
+        "Sau cắt u quái cùng cụt phải theo dõi tiết niệu – đại tiện: bàng quang thần kinh, tồn lưu cao, trào ngược, tủy bám thấp và bón.",
+    "1706-tui-thua-bang-quang-o-tre":
+        "Túi thừa bàng quang ở trẻ là túi cùng lòng bàng quang lồi ra ngoài thành, chỉ đầy rõ ở thì đi tiểu; phải phân biệt túi thừa thật với giả.",
+    "1707-trat-khop-thai-duong-ham-o-tre":
+        "Trật khớp thái dương–hàm ở trẻ có lồi cầu ra TRƯỚC ụ khớp và ổ chảo trống; bán trật tự về, còn trật thật phải nắn.",
+    "1708-gay-loi-cau-xuong-ham-duoi-o-tre":
+        "Gãy lồi cầu xương hàm dưới ở trẻ do lực gián tiếp qua cằm, chiếm 25–45% gãy xương hàm; đọc mất chiều cao cành lên và góc di lệch.",
+    "1710-dai-thao-nhat-trung-uong-sau-mo-tuyen-yen":
+        "Đái tháo nhạt trung ương sau mổ tuyến yên diễn tiến ba pha; mất điểm sáng thùy sau trên T1 là mất kho hạt dự trữ, không phải mất mô.",
+    "1712-trousseau-dong-mach-nbte":
+        "Trousseau thể động mạch gây nhồi máu não nhiều ổ nhiều lãnh thổ và vegetate vô khuẩn trên van tim; cấy máu âm không loại trừ.",
+    "1713-cholesteatoma-xuong-da-o-tre":
+        "Cholesteatoma xương đá ở trẻ gây 'liệt mặt Bell' không phải Bell, với khối mô mềm tiêu xương đỉnh xương đá; DWI không-EPI và phân độ Sanna định hướng.",
+    "1714-chay-dich-num-mot-ong":
+        "Chảy dịch núm tự nhiên MỘT ỐNG là tổn thương khu trú trong một nhánh ống, nên soi và chụp ống dẫn đi theo được còn siêu âm dễ bỏ sót.",
+    "1715-ro-dich-nao-tuy-sau-mo-xuyen-me-dao":
+        "Rò dịch não tủy sau mổ xuyên mê đạo: T2 3D lát mỏng 0,5–1 mm thấy dải dịch liên tục từ ống tai trong ra vòi nhĩ, hoặc pseudomeningocele dưới da.",
+    "1716-gay-phuc-hop-go-ma-ham-tren-o-tre":
+        "Gãy phức hợp gò má–hàm trên ở trẻ đọc theo bốn trụ đỡ và phân độ Zingg, dựa vào mất lồi gò má và ngưỡng di lệch để chỉ định mổ.",
+    "1717-vo-tu-cung-tren-seo-mo-lay-thai":
+        "Vỡ tử cung trên sẹo mổ lấy thai là mất liên tục thành tử cung kèm dịch ổ bụng cấp; TOLAC có nguy cơ 0,3–0,7%, cần đọc dấu tiền triệu.",
+    "1718-gay-xuong-cung-sau-xa-tri":
+        "Gãy xương cùng do thiếu xương sau xạ trị tiểu khung cho dải phù tủy và đường gãy song song khớp cùng chậu, phải phân biệt với di căn xương.",
+    "1719-bang-quang-doi-va-nang-nieu-ron":
+        "Bàng quang đôi, vách bàng quang và nang niệu rốn ở trẻ cùng nguồn gốc phôi thai, có thể kèm chia đôi trực tràng, âm đạo, tử cung, cột sống.",
+    "1722-ha-natri-muon-sau-mo-tuyen-yen":
+        "Hạ natri máu muộn sau mổ tuyến yên do SIADH thoáng qua: Na < 135 xuất hiện sau ngày 3, đáy ngày 5–10, lúc bệnh nhân đã ra viện.",
+    "1725-vo-oi-non-thang-truoc-24-tuan-tren-seo-mo-lay-thai":
+        "Vỡ ối non tháng trước 24 tuần trên sẹo mổ lấy thai nặng hơn vì sẹo mỏng, nguy cơ nhiễm và nhau bám sẹo cao; phải đo độ dày sẹo.",
+    "1728-chay-mau-sau-vo-tu-cung":
+        "Chảy máu sau vỡ tử cung đến từ ba nguồn cùng lúc; xử trí theo bậc: khâu bảo tồn, bóng chèn, thuyên tắc động mạch tử cung rồi mới cắt tử cung.",
+    "1729-suy-tuy-xa-tri-hat-alpha-225ac":
+        "Suy tủy do ²²⁵Ac-PSMA phân độ theo CTCAE với liều tủy quy đổi RBE = 5; hạt alpha quãng chạy 50–100 µm nên tổn thương tủy không đồng nhất.",
+    "1730-hoi-chung-ong-tuy-dut":
+        "Hội chứng ống tụy đứt sau hoại tử tụy là mất liên tục ống tụy chính ≥ 2 cm kèm ổ dịch dai dẳng vì đuôi tụy vẫn còn tiết dịch.",
+    "1731-u-mam-noi-so-vung-tren-yen-o-tre":
+        "U mầm nội sọ vùng trên yên ở trẻ là khối đường giữa ngấm mạnh, hạn chế khuếch tán, mất điểm sáng T1 thùy sau; u tinh bào có vôi hóa.",
+    "1732-doc-gan-cdk46-tdxd":
+        "Thuốc ức chế CDK4/6 và T-DXd gây tổn thương gan lan tỏa (giảm đậm độ, tụt tín hiệu) kèm tăng enzym gan, không phải khối di căn.",
+    "1733-not-tai-tao-fnh-like-sau-hoa-tri":
+        "Nốt FNH-like sau hóa trị (oxaliplatin, cyclophosphamide) là nốt mới ngấm mạnh thì động mạch và tăng tín hiệu thì gan mật — 'di căn giả'.",
+    "1736-co-truong-tuy-ro-tuy-noi-bo":
+        "Cổ trướng tụy là dịch báng giàu amylase do ống tụy vỡ thành trước; vỡ thành sau cho tràn dịch màng phổi, gọi chung là rò tụy nội bộ.",
+    "1737-ro-tuy-mang-phoi":
+        "Rò tụy–màng phổi gây tràn dịch màng phổi tái phát giàu amylase, thường bên trái, với đường rò ống tụy xuyên hoành thấy trên MRCP.",
+    "1738-ngo-doc-co-khoi-lua-o-tre":
+        "Ngộ độc CO ở trẻ cho tổn thương đối xứng nhân bèo ± chất trắng, hạn chế khuếch tán; COHb không đo được độ nặng của bệnh.",
+    "1740-thoat-vi-amyand-o-tre":
+        "Thoát vị Amyand ở trẻ chứa ruột thừa trong túi thoát vị bẹn, hình ảnh là cấu trúc hình ống cụt không đè xẹp; quyết định cắt ruột thừa và đặt lưới.",
+    "1741-kallmann-thieu-san-hanh-khuu-giac":
+        "Hội chứng Kallmann: thiểu sản hoặc không có hành khứu giác trên MRI kèm dậy thì muộn, vì tế bào GnRH không di trú được tới hạ đồi.",
+    "1742-xoan-buong-trung-ohss":
+        "Xoắn buồng trứng trên buồng trứng quá kích: buồng trứng to nhất chưa chắc đã xoắn và Doppler còn dòng không loại trừ.",
+    "1743-huyet-khoi-xoang-ohss":
+        "Huyết khối xoang tĩnh mạch não và tĩnh mạch cảnh trong ở OHSS gây đau đầu mới sau kích thích rụng trứng; CTV–MRV thấy mất dòng.",
+    "1750-utuc-than-ghep":
+        "UTUC ở thận ghép là khuyết lòng bể thận ghép hoặc khối giả viêm, kẻ bắt chước viêm thận – bể thận ở người suy giảm miễn dịch.",
+    "1751-lch-vung-duoi-doi-tuyen-yen-o-tre":
+        "Bệnh mô bào Langerhans vùng dưới đồi–tuyến yên ở trẻ cho cuống yên dày, mất điểm sáng T1 thùy sau và khối dưới đồi ngấm thuốc.",
+    "1752-suy-tuyen-yen-sau-xa-tri-so-o-tre":
+        "Suy tuyến yên sau xạ trị sọ ở trẻ là thiếu hụt hormone tiến triển theo liều xạ và thời gian, trong đó GH thường mất trước.",
+    "1753-viem-tuyen-yen-cuong-yen-tang-sinh-lympho-o-tre":
+        "Viêm tuyến yên–cuống yên tăng sinh lympho ở trẻ cho cuống yên dày nhẵn đối xứng, mất điểm sáng T1 thùy sau, ngấm mạnh và tự thu nhỏ.",
+    "1754-hoi-chung-duoi-doi-o-tre":
+        "Hội chứng dưới đồi ở trẻ sau u, mổ hoặc xạ gây béo phì tăng nhanh, mất khát, rối loạn điều nhiệt và giấc ngủ — không chỉ thiếu hormone tuyến yên.",
+    "1755-csws":
+        "Hạ natri máu sau mổ u vùng trên yên ở trẻ phải phân biệt SIADH với hội chứng mất muối não, vì hướng xử trí truyền dịch ngược nhau.",
+    "1756-hoi-chung-gian-nao":
+        "Hội chứng gian não ở nhũ nhi là gầy teo mỡ dưới da dù ăn đủ, tăng động, kèm u đường thị–dưới đồi; chẩn đoán muộn trung bình 11 tháng.",
+    "1757-ha-natri-mau-muon-sau-xuat-vien":
+        "Hạ natri máu muộn sau xuất viện ở trẻ mổ vùng trên yên có đáy Na rơi vào ngày 5–7, tức sau khi bệnh nhi đã ra viện.",
+    "1758-glioma-duong-thi-nf1":
+        "U thần kinh đệm đường thị gặp ở 15–30% trẻ NF1, là dày và tăng tín hiệu đường thị; theo dõi bằng MRI kết hợp thị lực, dùng MEK inhibitor khi tiến triển.",
+    "1761-trismus-sau-xa-tri-dau-co":
+        "Trismus sau xạ trị đầu cổ là xơ hóa – teo cơ nhai một bên do nguyên bào cơ tăng tổng hợp collagen, với ngưỡng mở miệng ≤ 35 mm.",
+    "1762-hoi-chung-ruot-ngan-nguoi-lon":
+        "Hội chứng ruột ngắn ở người lớn là ruột non còn lại dưới 200 cm sau cắt đoạn rộng; hình ảnh là mất đoạn ruột non và giãn tá tràng bù trừ.",
+    "1764-v3-sau-xa-tri-dau-co":
+        "Bệnh thần kinh sinh ba V3 sau xạ trị đầu cổ gây dị cảm – đau thần kinh và teo cơ nhai đơn thuần không có khối, phải phân biệt với tái phát u.",
+    "1765-ha-thiet-sau-xa-tri-dau-co":
+        "Bệnh thần kinh hạ thiệt XII sau xạ trị đầu cổ gây teo nửa lưỡi và lệch lưỡi về bên liệt nhiều năm sau xạ, không có khối.",
+    "1766-first-bite-syndrome":
+        "Hội chứng đau khi cắn miếng đầu tiên là đau co thắt tuyến mang tai một bên ngay miếng đầu rồi giảm khi nhai tiếp, hình ảnh không có khối.",
+    "1768-co-dong-cung-sau-xa-duong-tho-kho":
+        "Cổ đông cứng sau xạ trị gây hạn chế mở miệng và biến dạng thanh môn; siêu âm đàn hồi cho thấy mô cứng hơn hẳn người không xạ.",
+    "1769-co-dong-cung-sau-xa-duong-tho-kho":
+        "Mở khí quản và front-of-neck access trên cổ đã xạ là vùng nguy hiểm vì da dày, mất lớp mỡ và collagen xơ hóa, nên phải chuẩn bị đường thở trước.",
+    "1770-tac-tinh-mach-canh-trong-hai-ben-sau-xa":
+        "Tắc tĩnh mạch cảnh trong hai bên sau xạ là bệnh của não hơn của cổ, vì ở tư thế nằm đây là đường dẫn lưu chính, hệ quanh sống chỉ là đường phụ.",
+    "1771-clabsi-catheter-trung-tam-o-tre":
+        "Nhiễm khuẩn huyết liên quan catheter trung tâm ở trẻ: cấy máu đôi với hiệu số thời gian mọc ≥ 120 phút chốt nguồn, vị trí đầu catheter quyết định rút hay giữ.",
+    "1773-boc-tach-dong-mach-canh-co":
+        "Bóc tách động mạch cảnh cổ có hai lòng thật–giả và vạt nội mạc; siêu âm Doppler không đủ chốt cơ chế nên cần HRMRI.",
+    "1774-benh-co-corticoid-va-icu":
+        "Bệnh cơ do corticoid và bệnh cơ bệnh nặng ở ICU: thể mạn teo cơ thay mỡ không phù, thể cấp phù cơ lan tỏa đối xứng.",
+    "1775-boc-tach-dong-mach-dot-song":
+        "Bóc tách động mạch đốt sống cho huyết khối thành mạch hình liềm và hẹp vót nhọn; T1 fat-sat thấy tăng tín hiệu trong thành là dấu chốt.",
+    "1776-benh-co-hoanh-do-tho-may":
+        "Bệnh cơ hoành do thở máy gây teo cơ và giảm phân suất dày, đo trên siêu âm vùng áp thành — cơ hoành là cơ 'dùng hoặc mất'.",
+    "1777-ro-dich-nao-tuy-nen-so-truoc-tu-phat":
+        "Rò dịch não tủy nền sọ trước 'ẩn' cần CT cisternography lúc đang rò mới thấy thuốc thoát ra; âm tính khi không chảy là âm tính giả.",
+    "1778-chan-thuong-phoi-song-no-tre":
+        "Chấn thương phổi do sóng nổ ở trẻ cho đông đặc hoặc kính mờ hai bên không theo phân thùy, X-quang có thể bình thường trong 24 giờ đầu.",
+    "1781-huyet-khoi-tinh-mach-nao-tre-thieu-mau-huyet-tan":
+        "Huyết khối tĩnh mạch não ở trẻ thiếu máu do tam chứng Virchow đảo chiều: lưu lượng tăng gây chảy rối, hồng cầu giảm khả năng biến dạng.",
+    "1783-huyet-khoi-xoang-sau-chan-thuong-dau-tre":
+        "Huyết khối xoang sau chấn thương đầu ở trẻ: tăng đậm độ trong xoang trên CT không cản quang và mất dòng trên CTV–MRV, kèm vỡ sọ hoặc máu tụ đè xoang.",
+    "1784-hoi-chung-tuoi-mau-qua-muc-sau-tai-thong-moyamoya":
+        "Hội chứng tưới máu quá mức sau tái thông moyamoya là triệu chứng thần kinh mới kèm tăng tưới máu khu trú trên ASL/CTP, không do nhồi máu hay xuất huyết.",
+    "1786-di-dang-tinh-mach-galen-so-sinh":
+        "Dị dạng túi phình tĩnh mạch Galen ở sơ sinh là túi tĩnh mạch giãn lớn giữa đường giữa do shunt động–tĩnh mạch tốc độ cao, gây suy tim lưu lượng cao.",
+    "1787-avm-nao-tre-da-vo":
+        "AVM não ở trẻ đã vỡ: xuất huyết nhu mô kèm búi mạch có động mạch nuôi và tĩnh mạch dẫn lưu sớm, phân tầng từ CT/CTA đến DSA.",
+    "1789-viem-phoi-do-cmv-o-nguoi-ghep-tang":
+        "Viêm phổi do CMV ở người ghép tạng cho kính mờ, nốt nhỏ ± đông đặc, do virus nhiễm tế bào nội mô mao mạch và đại thực bào phế nang.",
+    "1792-lach-to-giam-tieu-cau-do-oxaliplatin":
+        "Lách to kèm giảm tiểu cầu do oxaliplatin là 'áp kế' của hệ cửa: thuốc gây tổn thương nội mô xoang gan dẫn tới tăng áp cửa.",
+    "1793-fnh-like-o-tre-sau-hoa-tri-ghep-te-bao-goc":
+        "Nốt FNH-like ở trẻ sau hóa trị hoặc ghép tế bào gốc là nốt gan mới ngấm mạnh thì động mạch — 'di căn giả' của người sống sót ung thư nhi.",
+    "1794-soc-doc-to-bang-ve-sinh-o-tre":
+        "Sốc độc tố do băng vệ sinh ở trẻ vị thành niên chẩn đoán bằng lâm sàng với ban đỏ lan tỏa; hình ảnh chỉ để tìm ổ và loại bắt chước.",
+    "1796-chylomicronemia-trong-thai-ky-va-tu-van-sinh-san":
+        "Chylomicronemia trong thai kỳ do estrogen ức chế lipoprotein lipase tới 85% và gan tăng VLDL, nên triglyceride tăng gấp ~2,5 lần và dễ viêm tụy cấp.",
+    "1797-vi-chay-mau-hang-mach-sau-xa":
+        "Vi chảy máu và hang mạch do xạ trị sọ ở trẻ là đốm mất tín hiệu trên SWI/T2* và hang mạch có vòng hemosiderin, phải phân biệt với tái phát u.",
+    "1798-phan-do-bang-he-quanh-nao-that-funaki-va-gian-dong-mach-mang-mach-truoc":
+        "Phân độ Funaki đọc mạng bàng hệ quanh não thất và giãn động mạch màng mạch trước trên MRA/DSA để định nguy cơ xuất huyết và chỉ định tái thông.",
+    "1800-tac-mach-mo-sau-hut-mo-va-ghep-mo":
+        "Tắc mạch mỡ gây kính mờ lan tỏa và nhiều nốt hạn chế khuếch tán rải rác kiểu 'bầu trời sao'; CTPA làm mỡ gần đồng đậm với máu nên dễ bỏ.",
+    "1801-benh-gan-do-thuyen-tac-phong-xa-reild":
+        "REILD sau TARE Y-90 gây cổ trướng và vàng da 4–8 tuần kèm teo gan do tắc xoang gan, phải phân biệt với tiến triển u.",
+    "1802-theo-doi-dai-han-sau-pphn":
+        "Theo dõi dài hạn sau PPHN phải tìm tăng áp phổi tái phát, chậm phát triển thần kinh và nghe kém, vì bốn trục tổn thương cùng tồn tại.",
+    "1804-suy-giap-tieu-thu-do-u-mach-mau-ngoai-gan":
+        "Suy giáp tiêu thụ do D3 lạc vị cho TSH cao kháng levothyroxine và rT3 cao, có thể KHÔNG có khối gan vì hoạt tính phụ thuộc khối u chứ không vị trí.",
+    "1806-viem-phoi-do-xa-sau-tare":
+        "Viêm phổi do xạ sau TARE cho kính mờ quanh rốn phổi và chừa màng phổi, vì hạt mắc ở mạch lớn và tia β chỉ đi 2,5 mm.",
+    "1807-boc-tach-dmc-bung-do-chan-thuong-va-sau-thu-thuat":
+        "Bóc tách động mạch chủ bụng do chấn thương hoặc sau thủ thuật để lại vạt nội mạc; hiếm nhưng tử vong tới 17–92% trong y văn.",
+    "1808-sirolymus-di-dang-bach-huyet-theo-doi-ngung-thuoc":
+        "Sirolimus trong dị dạng bạch huyết phức tạp cần theo dõi nồng độ đáy, độc tính và ngưỡng ngừng, vì thuốc ức chế mTORC1 làm giảm lymphangiogenesis.",
+    "1811-loet-da-day-ta-trang-sau-tace-tare":
+        "Loét và hẹp thực quản–dạ dày–tá tràng do trào ngược vi cầu không đích sau TACE/TARE: vị trí tổn thương chỉ ra nhánh động mạch tội phạm.",
+    "1815-suy-giap-do-qua-tai-iod-so-sinh":
+        "Suy giáp do quá tải iod ở sơ sinh do cản quang tồn lưu trong ruột gây hiệu ứng Wolff–Chaikoff; trẻ non tháng không 'thoát' ức chế trong 48 giờ.",
+    "1818-soi-nieu-quan-thai":
+        "Sỏi niệu quản ở thai phụ gây ứ nước, phải phân biệt ứ nước sinh lý; siêu âm – MRI định hướng và dẫn lưu tạm bằng JJ hoặc nephrostomy.",
+    "1819-chay-mau-muon-gia-phinh-mach-tang":
+        "Chảy máu tiêu hóa muộn do giả phình động mạch tạng: túi đầy đồng thời và cùng đậm độ động mạch chủ ở thì động mạch rồi rửa trôi song song.",
+    "1823-trametinib-di-dang-bach-huyet-ras-mapk":
+        "Trametinib trong dị dạng bạch huyết do đột biến RAS/MAPK phải chọn bệnh nhân theo gen và đọc đáp ứng trên DCMRL, không theo hình thái.",
+    "1826-viem-phoi-do-thuoc-uc-che-mtor":
+        "Viêm phổi do thuốc ức chế mTOR là kính mờ hai bên đối xứng ± đông đặc dải, do thuốc làm nội mô co lại và tăng tính thấm.",
+    "1827-hep-tinh-mach-cua-sau-ghep-gan":
+        "Hẹp tĩnh mạch cửa sau ghép gan là hẹp khu trú tại miệng nối; vì dòng áp lực thấp nên một vòng xơ vài mm đã đủ làm mất chênh áp.",
+    "1828-voi-hoa-nao-sau-xa-tri-tre":
+        "Vôi hóa não do xạ trị ở trẻ là vi mạch khoáng hóa: vôi hóa đối xứng dạng chấm hoặc gyriform, tăng đậm độ CT, tăng T1, giảm trên SWI.",
+    "1834-hoi-chung-sau-nut-mach":
+        "Hội chứng sau nút mạch là viêm vô khuẩn do hoại tử đông giải phóng cytokine; phải phân biệt với nhiễm trùng hoặc áp-xe, nhất là khi có khí trong tổn thương.",
+    "1837-dau-silicone-tien-phong-ton-thuong-noi-mo":
+        "Dầu silicone trong tiền phòng gây tổn thương nội mô giác mạc: giọt dầu bám nội mô, mất tế bào nội mô và bệnh giác mạc dải.",
+    "1838-kho-mieng-do-225ac-psma":
+        "Khô miệng do ²²⁵Ac-PSMA vì tuyến nước bọt biểu hiện PSMA sinh lý và là cơ quan giới hạn liều của xạ trị hạt alpha.",
+    "1842-takotsubo-hau-phau-icu":
+        "Bệnh cơ tim do stress ở ICU gây rối loạn vận động vùng thoáng qua và phù cơ tim; LGE thường vắng vì không có hoại tử lan rộng.",
+    "1843-benh-re-dam-roi-than-kinh-do-xa":
+        "Bệnh rễ và đám rối do xạ cho dày lan tỏa và tăng T2 đám rối trong trường xạ, ngấm mờ, kèm phù cơ do mất thần kinh, không có khối.",
+    "1844-ro-hoai-tu-thuc-quan-do-xa":
+        "Rò và hoại tử thực quản do xạ: u teo nhanh hơn mô lành kịp sửa nên vùng u cũ thành chỗ yếu nhất, cản quang thoát ra ngoài lòng và khí trung thất.",
+    "1845-bang-quang-than-kinh-tre":
+        "Bàng quang thần kinh ở trẻ dị tật tủy cho bàng quang thành dày hình 'cây thông' kèm trào ngược; DLPP và compliance quyết định bậc thang bảo vệ thận.",
+    "1847-hep-ruot-thieu-mau-sau-nut-mach":
+        "Hẹp ruột do thiếu máu sau nút mạch mạc treo là hẹp chu vi đơn độc xuất hiện vài tuần sau thiếu máu, tổn thương xơ chứ không phải viêm.",
+    "1848-nut-mach-lach-trong-chan-thuong":
+        "Nút mạch lách trong chấn thương chọn gần hay xa theo kiểu tổn thương mạch trong nhu mô: thoát mạch hoạt động, giả phình hay rò.",
+    "1849-liet-co-hoanh-mot-ben-sau-mo-tim-nguc":
+        "Liệt cơ hoành một bên sau mổ tim/ngực cho nâng cao nửa hoành và vận động nghịch thường trên M-mode; hướng đi là dấu chốt, không phải độ dày.",
+    "1850-sieu-am-co-hoanh-cai-may-tre-so-sinh":
+        "Siêu âm cơ hoành dự báo cai máy ở sơ sinh qua biên độ và phân suất dày, vì cơ hoành trẻ làm việc gần ngưỡng mỏi.",
+    "1851-hep-thuc-quan-lanh-tinh-sau-xa":
+        "Hẹp thực quản lành tính sau xạ là hẹp lòng nhẵn, đối xứng, đoạn dài, không có khối niêm mạc, do viêm nội mạc tắc nghẽn tiến triển.",
+    "1852-ro-dong-mach-chu-thuc-quan":
+        "Rò động mạch chủ–thực quản là thông trực tiếp giữa ĐMC và lòng thực quản, kèm giả phình hoặc loét xuyên thành và mất mặt phẳng mỡ quanh thực quản.",
+    "1857-tran-duong-trap-mang-phoi-sau-mo-cot-song":
+        "Tràn dưỡng trấp màng phổi sau mổ cột sống ngực–thắt lưng xuất hiện muộn, thường sau khi ăn lại mỡ chuỗi dài làm lưu lượng dưỡng trấp tăng.",
+    "1860-chan-thuong-lach-tre-em":
+        "Chấn thương lách ở trẻ gây tụ máu, đường rách và tổn thương mạch; lồng ngực trẻ đàn hồi nên có thể vỡ lách nặng với X-quang ngực bình thường.",
+    "1861-hep-dong-mach-gan-ghep-gan":
+        "Hẹp động mạch gan sau ghép gan là 'bệnh của đường mật' vì đường mật chỉ sống bằng đám rối quanh ống mật nuôi bởi động mạch gan.",
+    "1862-hoi-chung-nelson-sau-cat-thuong-than":
+        "Hội chứng Nelson: sau cắt thượng thận hai bên cortisol xuống nhưng ACTH và u yên vẫn lớn dần, kèm sạm da; đọc MRI theo mốc và chặn bằng thuốc.",
+    "1863-duc-the-thuy-tinh-mat-bom-dau-silicone":
+        "Đục thể thủy tinh ở mắt bơm dầu gây lệch khúc xạ viễn thị khi còn dầu và cận thị sau lấy dầu, nên phải chọn mổ một thì hay hai thì.",
+    "1864-dau-silicone-nang-bien-chung-phia-duoi":
+        "Dầu silicone nặng có tỷ trọng > 1 nên đọng ở phía DƯỚI: lớp dầu ở đáy tiền phòng, giọt dưới võng mạc và bít bè phía dưới gây tăng nhãn áp.",
+    "1865-bong-vong-mac-tai-phat-sau-thao-dau":
+        "Bong võng mạc tái phát sau tháo dầu gặp ở 14,9% mắt, 75% do PVR; bờ bong ngang theo trọng lực là mẫu hình đọc trên ảnh góc rộng.",
+    "1866-hoi-chung-huy-myelin-tham-thau-ods":
+        "Hội chứng hủy myelin thẩm thấu sau sửa natri nhanh cho T2/FLAIR tăng hình trident ở trung tâm cầu và hạn chế khuếch tán sớm.",
+    "1867-tao-bon-sau-keo-truc-trang":
+        "Táo bón và ứ phân sau kéo trực tràng ở trẻ do cơ thắt hậu môn trong luôn vô hạch ở Hirschsprung, cộng thêm hẹp miệng nối hoặc cuff còn lại.",
+    "1868-dong-kinh-sau-xuat-huyet-nhoi-mau-nao":
+        "Động kinh sau xuất huyết hoặc nhồi máu não: cơn trong 7 ngày là cơn triệu chứng cấp, còn cơn muộn không kích thích mới là động kinh sau đột quỵ.",
+    "1869-vo-thuc-quan-tu-phat":
+        "Vỡ thực quản tự phát (Boerhaave) cho khí trung thất và tràn dịch – tràn khí màng phổi sau nôn dữ dội, vì áp lực lòng vọt lên ~200 mmHg.",
+    "1873-bao-sau-duc-thu-phat-mat-bom-dau-yag":
+        "Bao sau đục sau phaco trên mắt bơm dầu tiến triển nhanh hơn; phải cân nhắc Nd:YAG khi còn dầu vì dầu có thể sang tiền phòng sau khi mở bao.",
+    "1874-ha-calci-mau-sau-cat-tuyen-giap":
+        "Hạ calci máu sau cắt tuyến giáp: đọc calci hiệu chỉnh và PTH 1–6 giờ, QT dài, không có tổn thương khu trú trên hình ảnh, và tiêu chuẩn xuất viện.",
+    "1875-phu-hoang-diem-dang-nang-mat-bom-dau":
+        "Phù hoàng điểm dạng nang sau phacovitrectomy trên mắt bơm dầu là nang giảm hồi âm ở INL, tăng CST; phải phân biệt khoang giả do dầu trong võng mạc.",
+    "1877-pfcl-ton-luu-duoi-vong-mac":
+        "PFCL tồn lưu dưới võng mạc là giọt tăng phản xạ kèm bóng che trên OCT, tạo dấu Ω khi nằm dưới hoàng điểm và có thể phải lấy bằng kim 41 G.",
+    "1880-suy-can-giap-vinh-vien-sau-cat-giap":
+        "Suy cận giáp vĩnh viễn sau cắt giáp gây hạ calci máu mạn và vôi hóa lạc chỗ ở thận, não, mắt; phải quản lý calci niệu và PTH thay thế suốt đời.",
+    "1881-tran-duong-trap-mang-phoi-chan-thuong-kin":
+        "Tràn dưỡng trấp màng phổi sau chấn thương ngực kín chẩn đoán khi triglyceride dịch ≥ 110 mg/dL; bên tràn phụ thuộc vị trí tổn thương ống ngực.",
+    "1882-phu-hoang-diem-prostaglandin-sau-phaco":
+        "Phù hoàng điểm do prostaglandin sau phaco xảy ra ở mắt giả thủy tinh thể không viêm, bao sau nguyên vẹn; phải cân nhắc ngưỡng ngừng thuốc.",
+    "1883-rach-bao-sau-phaco-mat-da-cat-dich-kinh":
+        "Rách bao sau trong phaco trên mắt đã cắt dịch kính dễ xảy ra vì mất hỗ trợ màng hyaloid và tiền phòng dao động mạnh (LIDRS), kèm sa dịch kính.",
+    "1885-viem-mang-ngoai-tim-co-that":
+        "Viêm màng ngoài tim co thắt cho dày ± vôi hóa màng ngoài tim và rối loạn đổ đầy phụ thuộc hô hấp do phụ thuộc liên thất.",
+    "1886-benh-co-tim-han-che-amyloid-tim":
+        "Amyloid tim gây dày thất 'giả' do lắng protein ngoài tế bào, ngấm thuốc dưới nội tâm mạc lan tỏa và apical sparing trên xạ hình xương.",
+    "1889-parsonage-turner-than-kinh-hoanh":
+        "Parsonage–Turner tổn thương thần kinh hoành gây đau vai rồi yếu và nâng cao một nửa hoành; M-mode thấy nửa hoành đi lên khi hít vào.",
+    "1892-theo-doi-sau-ods-hoi-chung-huy-myelin-tham-thau":
+        "Theo dõi sau ODS: DWI/ADC đổi sớm nhất (giờ đầu – 48 giờ), T2/FLAIR sáng muộn 1–2 tuần và teo về sau, nên lịch chụp theo chuỗi mô bệnh.",
+    "1894-thung-thanh-tu-do-phinh-gia":
+        "Vỡ thành tự do thất trái sau nhồi máu xảy ra ngày 3–7 khi mô nhũn nhất, gây mất liên tục thành thất kèm dịch màng tim; phình giả là thể có lỗ thông.",
+    "1905-bien-chung-va-an-toan-thu-thuat-pipac":
+        "PIPAC là thủ thuật nội soi nhỏ có biến chứng riêng: không vào được ổ bụng vì dính, thủng ruột do trocar, rò thuốc và phơi nhiễm nghề nghiệp.",
+    "1906-hep-dong-ra-tm-gan-sau-ghep-gan":
+        "Hẹp dòng ra tĩnh mạch gan sau ghép cho gan ngấm thuốc không đồng nhất và mất sóng ba pha; phổ ba pha liên tục loại trừ, ngưỡng chênh áp 5 mmHg.",
+    "1907-shunt-cua-chu-lon-khong-xo-gan":
+        "Shunt cửa–chủ lớn không xơ gan (CEPS/Abernethy) gây teo nhu mô, nốt gan và tăng amoniac; phải đo áp lực tĩnh mạch cửa bằng bóng chẹn trước khi bít.",
+    "1908-thieu-mau-mac-treo-va-boc-tach-dong-mach-tang":
+        "Thiếu máu mạc treo cấp và mạn, bóc tách động mạch tạng tự phát: CTA 3 thì đánh giá hẹp–tắc, vách giả và mức thiếu tưới máu ruột để chọn can thiệp.",
+    "1909-hep-tinh-mach-cua-sau-ghep-gan":
+        "Hẹp tĩnh mạch cửa sau ghép gan là bệnh của dòng VÀO: tăng tốc tại chỗ hẹp, giãn đoạn trước hẹp; tỉ lệ vận tốc 3,21 xuống 1,01 sau nong bóng.",
+    "1910-hoi-chung-tac-xoang-gan-sos":
+        "Hội chứng tắc xoang gan cho gan to và ngấm thuốc 'da báo' lan tỏa kèm tăng áp cửa, không có chỗ hẹp khu trú; lưới giảm tín hiệu 50% trên HBP là nặng.",
+    "1911-viem-dai-trang-thieu-mau":
+        "Viêm đại tràng thiếu máu cho dày thành đại tràng từng đoạn, phù quanh đại tràng, dấu thumbprinting và mất ngấm thuốc thành ruột.",
+    "1912-phinh-dong-mach-tang":
+        "Phình động mạch tạng: thành mạch quan trọng hơn đường kính, vì phình thật do thoái hóa áo giữa lớn chậm còn giả phình dễ vỡ; đừng nhầm giả nang tụy.",
+    "1913-hep-huyet-khoi-hep-dong-mach-gan-sau-ghep":
+        "Hẹp và huyết khối động mạch gan sau ghép: mất tín hiệu màu, phổ tardus-parvus, PSV > 200 cm/s tại chỗ hẹp; RI 0,8 trong 3 ngày đầu là bất thường.",
+    "1914-suy-chuc-nang-manh-ghep-som":
+        "Suy chức năng mảnh ghép gan sớm chẩn đoán bằng tiêu chuẩn Olthoff (sinh hóa); CĐHA chỉ tìm nhồi máu, ứ mật và loại trừ hẹp–tắc mạch.",
+    "1915-hep-dong-mach-gan-tre-sau-ghep":
+        "Hẹp động mạch gan ở trẻ sau ghép gặp ở 1,2% (registry HEPATIC), 82,4% trong tháng đầu; phải chọn nong bóng lặp lại hay stent không lớn theo trẻ.",
+    "1916-thai-ghep-cap-te-bao-sau-ghep-gan":
+        "Thải ghép cấp tế bào sau ghép gan chẩn đoán bằng mô học Banff; siêu âm chỉ để loại trừ nguyên nhân cơ học, không chẩn đoán thải ghép.",
+    "1917-thai-ghep-the-dich-sau-ghep-gan":
+        "Thải ghép thể dịch sau ghép gan dựa vào DSA, C4d vi mạch và viêm/phì đại nội mạc vi mạch theo Banff 2016; hình ảnh chỉ để loại trừ.",
+    "1919-phinh-dong-mach-chu-bung-nhiem-khuan":
+        "Phình động mạch chủ bụng nhiễm khuẩn là túi phình dạng túi kèm viêm quanh ĐMC; mất liên tục vôi hóa khu trú là dấu hiệu chốt trên CTA.",
+    "1920-tran-dich-mang-phoi-ac-tinh-catheter-hay-pleurodesis":
+        "Tràn dịch màng phổi ác tính tái phát phải chọn catheter màng phổi lưu hay talc pleurodesis; phổi không nở là yếu tố quyết định lựa chọn.",
+    "1921-nhiem-khuan-nieu-thai-ky":
+        "Nhiễm khuẩn niệu ở thai phụ: cấy ≥ 10⁵, phải phân biệt ứ nước sinh lý với tắc nghẽn nhiễm trùng; thận to và vùng giảm ngấm hoặc thận dạng sọc là dấu hiệu.",
+    "1923-ap-xe-than-quanh-than-thai":
+        "Áp-xe thận và quanh thận ở thai phụ là ổ dịch có viền ngấm sau viêm thận–bể thận, có thể kèm khí; ngưỡng dẫn lưu tùy kích thước và đáp ứng.",
+    "1926-viem-mang-oi-nhiem-khuan-oi":
+        "Viêm màng ối – nhiễm khuẩn ối chẩn đoán bằng lâm sàng và dịch ối; hình ảnh chỉ hỗ trợ, với cổ tử cung ngắn và bùn ối là dấu hiệu nguy cơ.",
+    "1927-that-dong-mach-tu-cung-va-dong-mach-chau-trong":
+        "Thắt động mạch tử cung (O'Leary) và thắt động mạch chậu trong khi băng huyết sau sinh không cầm: mục tiêu là hạ áp lực chứ không đưa lưu lượng về 0.",
+    "1929-viem-duong-mat-cap-thai-ky":
+        "Viêm đường mật cấp ở thai phụ chẩn đoán theo TG18, phải dẫn lưu trong 6–24 giờ bằng ERCP với liều dưới 0,5 mGy.",
+    "1930-soi-mat-khong-bien-chung-thai-ky":
+        "Sỏi mật không biến chứng ở thai phụ: chỉ một phần chờ được sau sinh vì sludge 31% và tái phát 77%; SAGES 2024 còn để ngỏ quý III.",
+    "1931-thai-ky-sau-nut-mach-tu-cung-uae":
+        "Thai kỳ sau nút mạch tử cung cần tư vấn sinh sản và dự phòng băng huyết tái phát vì nguy cơ nhau cài răng lược cao hơn.",
+    "1932-truyen-mau-khoi-luong-lon-bang-huyet-sau-sinh":
+        "Truyền máu khối lượng lớn trong băng huyết sau sinh phải xử lý tứ giác tử vong: hạ thân nhiệt, toan, hạ calci và rối loạn đông máu.",
+    "1933-viem-gan-adenovirus-sau-ghep-gan-o-tre":
+        "Viêm gan do adenovirus sau ghép gan ở trẻ cho hoại tử không đặc hiệu, chỉ 33% có tổn thương khu trú nên không thể chẩn đoán bằng hình ảnh.",
+    "1934-ro-tuy-phe-quan":
+        "Rò tụy–phế quản gây viêm phổi tái phát cùng thùy, với nang giả tụy chứa khí xuyên hoành và đường rò vào phế quản.",
+    "1935-duc-the-thuy-tinh-sau-migs":
+        "Đục thể thủy tinh sau MIGS tiến triển ở nhân hoặc dưới bao sau, kèm tổn thương bao và zôn do dụng cụ; AS-OCT giúp quyết định phaco.",
+    "1938-viem-tuy-cap-do-soi-thai-ky":
+        "Viêm tụy cấp do sỏi ở thai phụ do sỏi kẹt tạm thời ở bóng Vater; ngưỡng lipase giúp không mổ oan, ERCP khi có tắc mật.",
+    "1940-soi-mat-sot-tai-phat-sau-cat-tui-mat":
+        "Sỏi sót, sỏi tái phát và sỏi rơi sau cắt túi mật là ba cơ chế khác nhau, cho ba bộ hình ảnh khác nhau trên MRCP.",
+    "1945-viem-gan-tu-mien-de-novo-sau-ghep-gan-tre":
+        "Viêm gan tự miễn de novo sau ghép gan ở trẻ là viêm khoảng cửa giàu tương bào có viêm gan giao diện; anti-GSTT1 dương ở 100% ca được xét nghiệm.",
+    "1946-chen-ep-khoang-bung-acs":
+        "Chèn ép khoang bụng: CT báo động trước khi kịp đo áp lực bàng quang, với bụng tròn, tĩnh mạch chủ dưới dẹt, cơ hoành cao và nhu mô ngấm kém.",
+    "1947-co-that-dong-mach-gan-va-cuop-mau-lach-sau-ghep-gan":
+        "Co thắt động mạch gan và hội chứng cướp máu lách sau ghép gan là hai nguyên nhân mất dòng có hồi phục, khác huyết khối.",
+    "1952-ung-thu-tuyen-giap-lac-cho":
+        "Ung thư tuyến giáp trong bướu giáp lạc chỗ là khối tăng đậm đường giữa đáy lưỡi, ngấm mạnh ± vôi hóa; quyết định theo dõi hay mổ kèm iod phóng xạ.",
+    "1956-thuyen-tac-oi-anmion":
+        "Thuyên tắc ối chẩn đoán bằng loại trừ: sụp tuần hoàn – hô hấp cấp trong chuyển dạ kèm DIC, hình ảnh chỉ để tìm nguyên nhân khác.",
+    "1957-hoai-tu-vo-than-sau-bang-huyet":
+        "Hoại tử vỏ thận sau băng huyết sau sinh cho vỏ không ngấm thuốc trong khi tủy vẫn ngấm, vì vỏ là đoạn cuối cây mạch không có bàng hệ.",
+    "1959-tan-huyet-vi-mach-sau-sinh-hellp-ahus-ttp":
+        "Tán huyết vi mạch sau sinh cần phân biệt HELLP, aHUS và TTP theo ba dấu hiệu bắt buộc; aHUS thường bị chẩn đoán quá tay.",
+    "1960-sibo-sau-cat-ruot-ngan":
+        "SIBO sau cắt ruột ngắn: điểm chuyển tiếp là chốt phân biệt giãn thích nghi lan tỏa với hẹp cơ học, và quyết định ai cần test hơi thở.",
+    "1971-bat-san-giam-san-day-than-kinh-oc-tai":
+        "Bất sản dây thần kinh ốc tai là khuyết cấu trúc trong ống tai trong trên T2 3D CISS–FIESTA, kèm hẹp lỗ ốc tai ≤ 1,2 mm.",
+    "1982-tieu-chay-muoi-mat-sau-cat-hoi-trang":
+        "Tiêu chảy muối mật sau cắt hồi tràng do mất bề mặt tái hấp thu ở hồi tràng tận; muối mật xuống đại tràng gây tiêu chảy nước.",
+    "1983-duc-the-thuy-tinh-sau-trabeculectomy":
+        "Đục thể thủy tinh sau trabeculectomy do tuổi và do phaco có thể làm hỏng bọng lọc, nên phải chọn đường mổ giữ bọng.",
+    "1985-migs-glocom-goc-dong":
+        "MIGS ở glôcôm góc đóng dựa vào cơ chế thể thủy tinh đẩy mống mắt ra trước; phaco ± goniosynechialysis mở góc và hạ nhãn áp.",
+    "1986-viem-mo-hoai-tu-o-tre":
+        "Viêm mô hoại tử ở trẻ phải mổ ngay không chờ hình ảnh khi có khí trong mô mềm và dày cân không ngấm thuốc.",
+    "1987-dong-kinh-khong-co-giat-sau-dot-quy-tre":
+        "Trạng thái động kinh không co giật sau đột quỵ ở trẻ biểu hiện bằng tri giác không hồi phục với phóng điện liên tục trên EEG.",
+    "1988-choc-oi-song-thai":
+        "Chọc ối và sinh thiết gai nhau ở song thai phải nhớ hai buồng ối có hai bộ gen, nên kết quả thai này không nói gì về thai kia.",
+    "1989-choc-do-cuong-ron":
+        "Chọc dò cuống rốn cho karyotype nhanh, chẩn đoán nhiễm trùng bào thai hoặc truyền máu thai; biến chứng và theo dõi sau thủ thuật là phần chính.",
+    "3003-uc-che-diem-kiem-soat-u-nao-cmmrd":
+        "Ức chế điểm kiểm soát ở u não CMMRD gây giả tiến triển và đáp ứng muộn, nên đọc MRI theo iRANO và chọn bệnh nhân theo gánh nặng đột biến.",
+    "3004-hsct-cmmrd-dong-loai":
+        "Ghép tế bào gốc đồng loài ở trẻ CMMRD thay 'nhà máy tạo máu' nhưng không thay được mô đích nên không chặn hết ung thư.",
+    "3005-u-mau-duoi-thanh-mon-nhu-nhi":
+        "U máu dưới thanh môn ở nhũ nhi gây rít hai thì tiến triển và có u máu vùng râu; CECT thấy khối ngấm mạnh dưới dây thanh, propranolol là đầu tay.",
+    "3006-ruot-ngan-ifald-o-tre":
+        "Ruột ngắn và bệnh gan do nuôi dưỡng tĩnh mạch ở trẻ: phải đọc bản đồ cắt ruột, theo ngưỡng bilirubin trực tiếp và đổi lipid khi ứ mật tiến triển.",
+    "3007-etv-etv-cpc-o-tre":
+        "ETV/ETV-CPC ở trẻ dựa vào MRI và điểm ETVSS; sau mổ dấu chốt là dòng chảy qua lỗ thông, không phải kích thước não thất.",
+    "3008-trat-chuoi-xuong-con-sau-vo-xuong-thai-duong-o-tre":
+        "Trật chuỗi xương con sau chấn thương xương thái dương ở trẻ hay gặp ở xương đe vì đây là mắt yếu; HRCT đọc từng khớp búa–đe–bàn đạp.",
+    "3012-apxe-ngoai-mang-cung-sau-gay-te-ngoai-mang-cung":
+        "Áp-xe ngoài màng cứng sau gây tê ngoài màng cứng có catheter làm cửa vào; khí ngoài màng cứng cũng có thể giả áp-xe trên MRI.",
+    "3013-hoi-chung-duoi-ngua-sau-mo-cot-song":
+        "Hội chứng đuôi ngựa sau mổ cột sống do máu tụ, phù, mủ hoặc đĩa tái phát; vì tổn thương thiếu máu–chèn ép nên thời gian quan trọng hơn mức độ.",
+    "3015-hoi-chung-dau-sau-mo-cot-song":
+        "Hội chứng đau sau mổ cột sống (FBSS/PSPS-2) do sẹo xơ, đĩa tái phát, tầng kế cận hoặc dụng cụ hỏng, nên phải đọc theo từng cơ chế.",
+    "3016-ha-ap-luc-noi-so-tu-phat":
+        "Hạ áp lực nội sọ tự phát là đau đầu thế đứng không có tiền sử chọc dò; MRI sọ định hướng, CT myelography động định vị rò, rồi blood patch hoặc mổ.",
+    "3019-thuyen-tac-phoi-do-xi-mang-cement":
+        "Thuyên tắc phổi do xi măng sau bơm đốt sống là dị vật cản quang dạng ống hoặc phân nhánh trong động mạch phổi, đậm độ khoảng 500 HU.",
+    "3022-choc-do-tuy-song-khang-dong":
+        "Chọc dò tủy sống ở người dùng kháng đông: khoang ngoài màng cứng thắt lưng có đám rối Batson thành mỏng nên dễ rỉ máu, và tổn thương ở ngực nguy hiểm hơn.",
+    "3024-choc-do-tuy-song-quanh-tieu-soi-huyet-khoi":
+        "Chọc dò tủy sống quanh tiêu sợi huyết: nghiệm pháp hồng cầu giảm dần mất giá trị, phải tìm xanthochromia bằng quang phổ kế trong cửa sổ 24 giờ.",
+    "3025-dao-nguoc-khang-dong-xuat-huyet-noi-so":
+        "Đảo ngược kháng đông trong xuất huyết nội sọ cấp nhắm vào lan rộng máu tụ 20–30% trong 3–6 giờ đầu; máu chưa đông có tỷ trọng thấp hơn trên CT.",
+    "3026-tut-nao-nghich-ly-sau-choc-do-shunt-mo-so":
+        "Chọc dò tủy sống ở người có shunt hoặc sau mở sọ giảm áp có thể gây tụt não nghịch lý, vì hộp sọ khi đó không còn kín.",
+    "3027-xuat-huyet-thuy-caa-nguoi-gia":
+        "Xuất huyết do bệnh mạch amyloid não ở người già nằm ở thùy não kèm vi chảy máu vỏ não; Boston 2.0 quyết định dùng lại kháng đông hay LAAO.",
+    "3028-va-so-sau-mo-so-giam-ap":
+        "Vá sọ sau mở sọ giảm áp: nắp sọ lún và lệch đường giữa về phía khuyết là hạ áp lực, còn lệch ra xa khuyết là tăng áp lực.",
+    "3029-aria-khang-the-khang-amyloid":
+        "ARIA khi dùng kháng thể kháng amyloid gồm ARIA-E (phù vận mạch, tràn dịch rãnh) và ARIA-H (vi chảy máu, siderosis), phải sàng lọc CAA trước.",
+    "3030-tu-mau-duoi-mang-cung-man":
+        "Tụ máu dưới màng cứng mạn tính phát sinh từ lớp tế bào bờ màng cứng, có màng và vách, tỷ trọng hỗn hợp theo giai đoạn.",
+    "3031-pres-benh-nao-sau-phuc-hoi":
+        "PRES là phù vận mạch đối xứng vùng đỉnh–chẩm với ADC tăng nên khác nhồi máu; thể trung tâm và xuất huyết kèm theo là các cạm bẫy.",
+    "3032-nao-ung-thuy-ap-luc-binh-thuong":
+        "iNPH là giãn não thất do rối loạn hấp thu dịch não tủy với áp lực mở bình thường; DESH và tap test 30 mL định hướng đặt shunt.",
+    "3033-benh-nao-wernicke-thieu-thiamin":
+        "Bệnh não Wernicke cho T2/FLAIR tăng đối xứng quanh cống Sylvius, đồi thị và thể vú; tam chứng chỉ gặp 10–33% nên đừng chờ đủ.",
+    "3034-chay-mau-nao-that-ivh-nao-ung-thuy":
+        "Chảy máu não thất gây não úng thủy theo hai cơ chế: tắc nghẽn cơ học do cục máu và hỏng hấp thu do hồng cầu ly giải; Graeb và mGS định mức.",
+    "3035-hie-sau-ngung-tim-nguoi-lon":
+        "HIE sau ngừng tim ở người lớn cho hạn chế khuếch tán vỏ não ± hạch nền; CT bình thường trong 6 giờ đầu không loại trừ.",
+    "3036-trang-thai-myoclonus-sau-ngung-tim":
+        "Trạng thái myoclonus sau ngừng tim gồm bốn thực thể với bốn tiên lượng khác nhau, nên phải đọc EEG và HIBI trên MRI cùng lúc.",
+    "3037-nhiem-trung-nao-that-evd":
+        "Nhiễm trùng não thất và nhiễm trùng liên quan EVD cho mủ trong não thất, ngấm màng nội tủy với DWI sáng ADC tối; biofilm trên catheter là ổ nhiễm.",
+    "3038-chet-nao-cta-ct-tuoi-mau":
+        "Chết não: tiêu chuẩn lâm sàng và test ngưng thở là chính; CTA/CT tưới máu chỉ đọc đúng khi hiểu thứ tự mất tín hiệu từ vỏ vào trong, CBF < 10.",
+    "3039-nhiem-trung-shunt-nao-that-phuc-mac":
+        "Nhiễm trùng shunt não thất–phúc mạc và nang giả phúc mạc: hình ảnh không phân biệt vô khuẩn với nhiễm, quyết định nằm ở cấy dịch não tủy và đầu catheter.",
+    "3040-chet-nao-tre-em":
+        "Chẩn đoán chết não ở trẻ em và sơ sinh: tuổi quyết định khoảng quan sát, trẻ đẻ non dưới 37 tuần không đủ tiêu chuẩn vì phản xạ thân não chưa hoàn chỉnh.",
+    "3041-shunt-nao-that-nhi":
+        "Shunt não thất–nhĩ dẫn lưu dịch não tủy ra tuần hoàn tĩnh mạch; phải đọc biến chứng đầu xa và chuyển lại VP khi áp lực nhĩ quá cao.",
+    "3043-hep-tinh-mach-chu-tren-tre":
+        "Hẹp–tắc tĩnh mạch chủ trên lành tính ở trẻ sau catheter trung tâm: đọc CTV/MRV trước khi đặt shunt VA, vì dòng quanh catheter có thể giảm tới 93%.",
+    "3044-catheter-tinh-mach-trung-tam-o-tre":
+        "Catheter tĩnh mạch trung tâm ở trẻ: đầu catheter phải ở ngã ba tĩnh mạch chủ trên–nhĩ phải; X-quang thẳng không đủ chốt và ba vị trí sai có hậu quả riêng.",
+    "3045-catheter-ron-so-sinh-uvc-uac":
+        "Catheter rốn ở sơ sinh: UVC phải qua ống tĩnh mạch tới ngã ba tĩnh mạch chủ dưới–nhĩ phải; lạc vào xoang cửa hoặc nhĩ trái gây biến chứng nặng.",
+    "3046-chay-mau-cam-do-vo-gia-phinh-dong-mach-canh-trong-xoang-buom":
+        "Chảy máu cam ồ ạt do vỡ giả phình động mạch cảnh trong vào xoang bướm: có khối đập trong xoang, và giả phình không có thành thật nên không tự cầm.",
+    "3047-hep-khi-quan-sau-dat-noi-khi-quan-o-tre":
+        "Hẹp khí quản mắc phải sau đặt nội khí quản ở trẻ hay ở dưới thanh môn; phân độ Myer–Cotton và thời gian hẹp quyết định nong, laser hay cắt nối.",
+    "3048-u-mau-gan-o-nhu-nhi":
+        "U máu gan ở nhũ nhi là nhiều ổ giảm âm hoặc T2 sáng kèm shunt mạch, gây suy tim và suy giáp tiêu thụ; dùng propranolol khi có biến chứng.",
+    "3049-hep-thanh-khi-quan-tai-phat-sau-tao-hinh-o-tre":
+        "Hẹp thanh–khí quản tái phát sau tạo hình hay cắt nối hay ở chính miệng nối; phải phân biệt mô hạt với sẹo để chọn nong lại, stent hay mổ lại.",
+    "3050-ton-thuong-dong-mach-canh-trong-trong-mo-noi-soi":
+        "Tổn thương động mạch cảnh trong trong mổ nội soi mũi xoang gây chảy máu ồ ạt vì mạch áp lực cao nằm trong ống xương, chỉ chèn ép gián tiếp qua xoang.",
+    "3052-u-mach-mau-gan-bam-sinh-rich-nich-o-tre":
+        "U mạch máu gan bẩm sinh (RICH/NICH) có từ trong tử cung và GLUT1 âm, khác u mạch máu nhũ nhi; phải phân loại ISSVA trước khi quyết định can thiệp.",
+    "3053-phau-thuat-keo-dai-ruot-step-lilt":
+        "Phẫu thuật kéo dài ruột STEP/LILT ở trẻ ruột ngắn nhắm vào quai giãn và phụ thuộc nuôi dưỡng tĩnh mạch; kiểu giải phẫu còn lại quyết định tiên lượng.",
+    "3057-vo-khi-quan-phe-quan-sau-dat-noi-khi-quan":
+        "Vỡ khí quản–phế quản lớn sau đặt nội khí quản cho khí trung thất có thể không kèm tràn khí màng phổi; thành sau màng không có sụn đỡ nên là chỗ rách.",
+    "3059-thieu-mau-nao-sau-bit-dong-mach-canh-trong":
+        "Thiếu máu não sau bít động mạch cảnh trong có thể xảy ra dù BTO âm; vùng nước chết trước vì là bãi tưới xa nhất, nên phải cân nhắc bypass.",
+    "3060-hoi-chung-tang-tuoi-mau-nao":
+        "Hội chứng tăng tưới máu não sau tái thông cảnh gây đau đầu, co giật, rối loạn tri giác trong 0–14 ngày; CT thường bình thường rồi xuất huyết thùy.",
+    "3062-viem-mang-nao-tai-dien-di-tat-tai-trong":
+        "Viêm màng não tái diễn ở trẻ có dị tật tai trong và ốc tai hẹp do đường rò dịch não tủy, vì tai trong bình thường vẫn là khoang kín.",
+    "3064-reboa-o-tre-em-chon-bong-the-tich-bom-nguong-thoi-gian":
+        "REBOA ở trẻ phải chọn cỡ bóng theo đường kính động mạch chủ đo trên CT (zone 1: 6,18–15,21 mm) và giới hạn thời gian chèn.",
+    "3065-dau-to-o-nhi-sieu-am-qua-thop":
+        "Đầu to ở nhũ nhi: đo chu vi đầu rồi siêu âm qua thóp; phải phân biệt giãn não thủy, khoang dưới nhện rộng lành tính, tụ dịch ngoài trục và phì đại não.",
+    "3067-hep-nieu-quan-do-bk-sau-ghep-than":
+        "Hẹp niệu quản do BK sau ghép thận là hẹp đoạn dài kèm ứ nước, do virus sinh sản trong biểu mô niệu; phải giảm miễn dịch chứ không chỉ nong.",
+    "3068-liet-day-thanh-sau-mo-duong-tho-o-tre":
+        "Liệt dây thanh sau mổ đường thở ở trẻ: một bên gây khàn, hai bên gây khó thở; dây thanh liệt nằm ở tư thế trung gian vì mất cơ mở duy nhất.",
+    "3069-an-toan-propranolol-o-nhu-nhi":
+        "Propranolol ở nhũ nhi có thể gây hạ đường huyết, nhịp chậm và tụt huyết áp vì chẹn β2 ức chế tân tạo glucose và che mất cảnh báo adrenergic.",
+    "3074-u-mach-kaposi-kasabach-merritt":
+        "U mạch dạng Kaposi (KHE) gây hội chứng Kasabach–Merritt với khối tím lan sâu và tiểu cầu tụt; truyền tiểu cầu là sai vì làm nặng tiêu thụ.",
+    "3076-theo-doi-sau-contour-noi-tui":
+        "Theo dõi sau thiết bị nội túi Contour cần thang đọc riêng cho lưới hình chén, chú ý di trú, xoay, biến dạng dù lật và tồn dư cổ.",
+    "3077-ap-xe-tui-tinh":
+        "Áp-xe túi tinh là ổ dịch có vỏ dày, ngấm viền kèm cặn sau bàng quang; tắc ống phóng tinh tạo ổ mủ, chỉ kháng sinh khi nhỏ, còn lại phải dẫn lưu.",
+    "3078-nang-ong-utricle-mullerian":
+        "Nang ống utricle và nang ống Müllerian là ổ dịch đường giữa thành mỏng thông với niệu đạo sau; theo dõi khi nhỏ, mổ khi có triệu chứng.",
+    "3083-chan-thuong-khi-phe-quan-do-luc-tu":
+        "Chấn thương khí–phế quản do lực tù gây tràn khí dai dẳng dù đã dẫn lưu và dấu 'phổi rơi', chiếm 0,2–5% chấn thương ngực.",
+    "3090-bacteriuria-khong-trieu-chung-be-chua-ruot":
+        "Bacteriuria không triệu chứng ở trẻ có bể chứa ruột phải phân biệt với nhiễm khuẩn tiểu có triệu chứng, vì bạch cầu niệu không giúp phân biệt.",
+    "3091-coil-hoa-sau-contour-cocojambo":
+        "Coil hóa phối hợp thiết bị Contour (CoCoJaMBO) dùng khi còn tồn dư cổ kiểu 'tai chó'; kỹ thuật 'giam' microcatheter quyết định thành công.",
+    "3092-nhiem-manh-ghep-sau-nan-go-ma-o-tre":
+        "Nhiễm mảnh ghép sau nắn cố định gò má–hàm trên ở trẻ gây sưng mặt muộn, do biofilm trên titanium; khác áp-xe cấp sau mổ vài ngày.",
+    "3093-nhoi-mau-nao-do-u-nhay-tim":
+        "Nhồi máu não do u nhầy tim thường nhiều ổ vì u ở nhĩ trái di động theo nhịp; có thể kèm túi phình myxoma nên cần mổ tim sớm.",
+    "3095-ton-thuong-dong-mach-dui-sau-can-thiep-noi-mach-tre":
+        "Tổn thương động mạch đùi–chậu sau can thiệp nội mạch ở trẻ phụ thuộc cỡ sheath; giả phình có tiếng thổi và dấu 'yin-yang' trên Doppler.",
+    "3096-benh-than-do-bk-polyomavirus":
+        "Bệnh thận do BK polyomavirus sau ghép thận là viêm ống thận–kẽ kèm creatinin tăng; hình ảnh mờ nhạt nên chẩn đoán dựa vào virus học.",
+    "3097-zinner-nang-tui-tinh-than-bat-san":
+        "Hội chứng Zinner là nang túi tinh cạnh đường giữa sau bàng quang kèm bất sản thận cùng bên và tắc ống phóng tinh, do khiếm khuyết mầm niệu quản.",
+    "3099-khe-nguoi-lon-va-the-sau-phuc-mac":
+        "KHE ở người lớn và thể sâu sau phúc mạc, trung thất, mũi xoang không có dấu hiệu da nên dễ nhầm sarcoma mạch và thường được chẩn đoán muộn.",
+    "3100-quan-ly-ruot-va-kiem-soat-dai-tien-sau-mo-arm":
+        "Sau mổ ARM, són phân và táo bón phải đọc theo bốn trụ cột tự chủ đại tiện: cảm giác hậu môn, cơ thắt, nhu động và chức năng chứa.",
+    "3104-hoai-tu-xuong-thai-duong-sau-xa":
+        "Hoại tử xương thái dương sau xạ vòm họng gây 'viêm tai ngoài' kéo dài 8–10 năm, kèm hẹp ống tai ngoài, theo tam chứng Marx.",
+    "3108-vo-mom-phe-quan-sau-cat-phoi":
+        "Vỡ mỏm phế quản sau cắt phổi gây rò khí – khoang màng phổi, vì mỏm phế quản không có mạch nuôi trực tiếp tại chỗ.",
+    "3109-ap-xe-co-chau-lao-tre":
+        "Lao cột sống ở trẻ có thể tạo áp-xe lạnh cơ chậu lan theo bao cơ, kèm hủy thân sống trước sát đĩa đệm.",
+    "3110-suy-giap-va-ung-thu-giap-sau-xa-dau-co":
+        "Suy giáp và ung thư tuyến giáp thứ phát sau xạ đầu cổ: nang giáp là cấu trúc nhạy xạ nhất và nằm trong trường chiếu của hầu hết phác đồ.",
+    "3112-gossypiboma-gac-sot-sau-mo":
+        "Gạc sót sau mổ là khối giả u có khí, vôi hóa và dấu xoắn; CT chẩn đoán đúng 90,9% nên đừng chọc dẫn lưu hay cắt nhầm.",
+    "3113-avm-nao-tre-tui-phinh-lien-quan-dong-chay":
+        "Túi phình kèm AVM não ở trẻ gồm typ không liên quan, typ liên quan dòng chảy trên cuống nuôi và typ trong nidus; mỗi typ xử trí khác nhau.",
+    "3115-giam-tieu-cau-thai-nait":
+        "Giảm tiểu cầu thai miễn dịch gây xuất huyết nội sọ thai nhi do kháng thể mẹ anti-HPA-1a qua nhau thai; ngưỡng truyền tiểu cầu trong tử cung.",
+    "3116-di-can-buong-trung-krukenberg":
+        "Di căn buồng trứng Krukenberg là khối đặc hoặc đặc–nang hai bên giữ hình dạng buồng trứng, T2 trung–thấp; ADC không phân biệt được với u nhầy nguyên phát.",
+    "3121-nhiem-khuan-manh-ghep-cot-song-o-tre":
+        "Nhiễm khuẩn mảnh ghép cột sống ở trẻ tiến triển âm thầm do biofilm nên CRP bình thường không loại trừ; quyết định giữ nẹp hay tháo nẹp theo lâm sàng.",
+    "3122-huyet-khoi-tinh-mach-than-ghep-cap":
+        "Huyết khối tĩnh mạch thận ghép cấp gây thận phù to, mất phổ tĩnh mạch và đảo dòng tâm trương động mạch, phần lớn trong tuần đầu sau ghép.",
+    "3124-coil-loi-di-tru-mach-me":
+        "Coil lồi hoặc di trú vào mạch mẹ sau coil hóa túi phình: vật liệu cản quang trong lòng mạch mẹ kèm mất dòng xa, phải phân biệt protrusion với migration.",
+    "3129-iga-tai-phat-sau-ghep-than":
+        "Bệnh thận IgA tái phát sau ghép thận là bệnh toàn thân của hệ miễn dịch niêm mạc, nên thận ghép 'sạch' vẫn bị: protein niệu và creatinin tăng.",
+    "3130-viem-than-be-than-cap-than-ghep":
+        "Viêm thận–bể thận cấp ở thận ghép cho vùng nhu mô giảm âm hoặc không ngấm thuốc kèm viêm quanh thận ghép; mất thần kinh nên đau mơ hồ.",
+    "3131-hoi-chung-horner-o-tre":
+        "Horner một bên ở trẻ là chỉ định chụp MRI cổ–trung thất, vì khối mô mềm cạnh khí quản ở trung thất trên có thể là nguyên nhân.",
+    "3132-bien-chung-lo-thong-ace-tre":
+        "Biến chứng lỗ thông ACE gồm hẹp da–niêm, hạt thịt, sa niêm mạc, rò dịch và tắc do góc gập; không có ngưỡng HU nào chốt được.",
+    "3133-mri-san-chau-sau-mo-arm-tre":
+        "MRI sàn chậu sau mổ ARM đánh giá vị trí và calibre neorectum, cơ nâng, ROOF và tủy căng; tới 79% trẻ còn táo bón hoặc són nên đây là câu hỏi thường ngày.",
+    "3136-choc-oi-som-truoc-15-tuan":
+        "Chọc ối sớm trước 15 tuần làm bàn chân khoèo tăng từ 0,1% lên 1,3% vì màng ối–màng đệm chưa dính; chỉ chọn khi thật cần kết quả sớm.",
+    "3138-hoai-tu-xuong-ham-duoi-sau-xa-tri":
+        "Hoại tử xương hàm dưới sau xạ trị cho xơ hóa không đồng nhất, tiêu xương vỏ và mảnh xương chết; tủy mỡ thay bằng mô xơ làm xương đặc hơn trên CT.",
+    "3139-tui-phinh-nhiem-khuan-noi-so-o-tre":
+        "Túi phình nhiễm khuẩn nội sọ ở trẻ mọc trong vài ngày ở nhánh xa, 2 mm vẫn vỡ; CTA có thể bỏ sót nên dấu chốt là nốt tăng đậm dính vào mạch.",
+    "3145-chan-thuong-tuy-kin-o-tre":
+        "Chấn thương tụy kín ở trẻ có thể âm tính trên CT sớm; phải tìm đứt ống tụy và dịch quanh tụy vì tụy bị kẹp giữa vật đâm và cột sống.",
+    "3149-hoi-chung-quai-toi":
+        "Hội chứng quai tới sau Whipple là quai ruột giãn chứa dịch có điểm chuyển tiếp — 'tắc mà không tắc' ở quai mật–tụy.",
+    "3150-hev-sau-ghep-gan-tre":
+        "Viêm gan E mạn sau ghép gan ở trẻ gây tăng transaminase đơn độc kéo dài; phải tìm HEV RNA trong phân và dùng ribavirin khi RNA còn ≥ 3 tháng.",
+    "3154-van-nieu-dao-sau-o-tre":
+        "Van niệu đạo sau ở bé trai cho giãn niệu đạo sau, thành bàng quang dày và dấu 'keyhole' trên VCUG; chẩn đoán muộn để lại suy thận.",
+    "3200-viem-giac-mac-pythium":
+        "Viêm giác mạc do Pythium là 'nấm giả' không có ergosterol nên kháng nấm vô hiệu; đặc trưng là tua, chấm nội nhu mô và rãnh ngoại vi.",
+    "3201-seo-giac-mac-ghep":
+        "Sẹo giác mạc sau loét đã lành phải đo độ sâu để chọn kiểu ghép, vì mô học vẫn có thể còn viêm và làm tăng thải ghép.",
+    "3202-viem-giac-mac-do-microsporidia":
+        "Viêm giác mạc do microsporidia cho chấm dưới biểu mô dai dẳng, cấy âm; bào tử chỉ 1–4 µm nên đèn khe thấy 'chấm', phải dùng IVCM.",
+    "3840-rach-dut-gan-goc-co-gan-kheo":
+        "Rách và đứt gân gốc cơ gân kheo cấp hoặc mạn cho đứt gân co rút và khoảng dịch quanh ụ ngồi; phải chú ý thần kinh tọa nằm ngay sau–ngoài.",
+    "3841-chen-ep-than-kinh-toa-man-sau-chan-thuong":
+        "Chèn ép thần kinh tọa mạn sau chấn thương hay mổ cho dày và tăng tín hiệu khu trú dây thần kinh, mất mặt phẳng mỡ quanh thần kinh.",
+    "3842-chen-ep-than-kinh-mac-dau-xuong-mac":
+        "Chèn ép thần kinh mác chung tại cổ xương mác gây 'bàn chân rũ' kèm teo cơ trước xương chày; đau lưng không có nghĩa là tổn thương rễ L5.",
+    "3843-dau-than-kinh-then-ong-alcock":
+        "Đau thần kinh thẹn do chèn ép trong ống Alcock cho dày và tăng tín hiệu dây thần kinh kèm xơ hóa dây chằng và hẹp ống.",
+    "3844-di-vat-sot-mo-mem-chi":
+        "Dị vật sót trong mô mềm chi: gỗ 'vô hình' trên X-quang vì cellulose có Z hiệu dụng gần mô mềm, nên siêu âm thấy hồi âm mạnh có bóng lưng.",
+    "3845-ban-chan-charcot-cap":
+        "Bàn chân Charcot cấp cho phù tủy xương và phù mô mềm quanh khớp ở bàn chân nóng đỏ, do mất cảm giác đau cộng với giãn mạch.",
+    "6100-cham-soc-va-cai-ong-mo-khi-quan-tre":
+        "Chăm sóc ống mở khí quản ở trẻ: hẹp hoặc tắc lòng ống và hẹp khí quản mắc phải, với sức cản đường thở tỉ lệ nghịch lũy thừa 4 bán kính.",
+    "6102-nhiem-cmv-bao-thai":
+        "Nhiễm CMV bào thai cho vôi hóa quanh não thất và bất thường vỏ não; nguy cơ di chứng phụ thuộc thời điểm nhiễm hơn mức độ nhiễm.",
+    "6103-nhiem-toxoplasma-va-zika-bao-thai":
+        "Nhiễm Toxoplasma và Zika bào thai khác nhau ở kiểu vôi hóa: toxo vôi hóa rải rác kèm giãn não thất, Zika ở ranh giới vỏ–chất trắng.",
+    "6106-benh-giac-mac-do-aniridia-dieu-tri-va-phuc-hoi-be-mat":
+        "Bệnh giác mạc do aniridia là thiếu hụt tế bào gốc vùng rìa gây tân mạch lan vào trục thị giác; đừng 'thấy mờ là mổ' vì thị lực kém chủ yếu do hố hoàng điểm.",
+    "6107-thay-khop-hang-nguoi-song-sot-ung-thu-nhi":
+        "Thay khớp háng ở người sống sót ung thư nhi phải chọn implant theo chất lượng xương và theo dõi cả lỏng vô khuẩn lẫn nhiễm trùng lâu dài.",
+    "6108-hoai-tu-xuong-ham-MRONJ-o-tre":
+        "Hoại tử xương hàm do thuốc ở trẻ cho mảnh xương chết đậm kèm viền tiêu xương trên CBCT/CT; phân độ AAOMS quyết định ngưỡng ngưng thuốc.",
+    "6109-niv-tai-nha-quanh-mo-o-tre":
+        "Trẻ thông khí không xâm nhập tại nhà bước vào phòng mổ: phải đánh giá giảm thông khí khi ngủ và ngưỡng hậu phẫu để quyết định giữ hay ngắt NIV.",
+    "6112-xuat-huyet-thuong-than-so-sinh":
+        "Xuất huyết thượng thận ở sơ sinh là khối trên thận đổi cấu trúc theo ngày, không có dòng chảy bên trong, gặp ở 0,2–0,55% trẻ sinh sống.",
+    "6113-huyet-khoi-dong-mach-chu-so-sinh-uac":
+        "Huyết khối động mạch chủ ở sơ sinh sau catheter động mạch rốn gây thiếu máu chi dưới; Doppler là chốt, kháng đông hay tiêu sợi huyết tùy mức tắc.",
+    "6116-hep-eo-dong-mach-chu-o-tre":
+        "Hẹp eo động mạch chủ cho dấu '3' trên phim ngực, khuyết sườn và chênh huyết áp tay–chân, do tổ chức ống động mạch lấn vào thành ĐMC.",
+    "6118-hoi-chung-dong-mach-chu-giua":
+        "Hội chứng động mạch chủ giữa là hẹp đoạn dài hoặc nhiều đoạn ĐMC bụng kèm hẹp lỗ nhánh tạng và tăng huyết áp kháng trị, có thể không chênh huyết áp.",
+    "6119-tang-huyet-ap-ton-luu-sau-can-thiep-hep-eo-dmc":
+        "Sau can thiệp hẹp eo động mạch chủ phải trả lời hai câu riêng: còn hẹp lại không và huyết áp còn cao không, vì vòng khâu không lớn theo trẻ.",
+    "6120-u-tuy-o-tre":
+        "U tụy ở trẻ hay gặp nhất là u đặc–nhầy nhú: khối lớn bờ rõ, hỗn hợp đặc–nang có xuất huyết trong u và vỏ xơ ngấm thuốc muộn.",
+    "6121-ro-tuy-sau-mo-tuy-o-tre":
+        "Rò tụy sau cắt thân–đuôi tụy ở trẻ phân độ theo ISGPS với amylase dịch dẫn lưu > 3 lần giới hạn trên, đo từ ngày hậu phẫu 3.",
+    "6122-gia-phinh-dong-mach-tang-sau-viem-tuy-o-tre":
+        "Giả phình động mạch tạng sau viêm tụy hoặc chấn thương tụy ở trẻ có 'sentinel bleed' là tiếng chuông; CTA âm không loại trừ vì túi không có cơ trơn.",
+    "6128-rubella-bam-sinh":
+        "Rubella bẩm sinh cho tam chứng Gregg: đục thủy tinh thể hai bên, điếc tiếp nhận và hẹp nhánh động mạch phổi, kèm viêm võng mạc muối tiêu.",
+    "6129-dot-nhiet-phoi-o-tre-khi-khong-mo-duoc":
+        "Đốt nhiệt qua da nốt phổi ở trẻ dùng khi không mổ được; kỹ thuật phá hủy tại chỗ mọi tế bào trong thể tích đốt nên nốt thành quầng mờ ngay sau đốt.",
+    "6136-viem-tuy-do-thuoc-o-tre":
+        "Viêm tụy cấp do thuốc ở trẻ chiếm 15% ca tại trung tâm nhi; chẩn đoán loại trừ theo bảng Badalov và thời gian tiềm tàng của từng thuốc.",
+    "6137-nang-ong-mat-chu-o-tre":
+        "Nang ống mật chủ ở trẻ phân loại Todani và cần MRCP trước mổ; cơ chế chính là nối mật–tụy bất thường làm dịch tụy trào ngược vào đường mật.",
+    "6140-long-vo-khuan-quanh-khop-hang-nhan-tao":
+        "Lỏng vô khuẩn quanh khớp háng nhân tạo ở người trẻ cho đường sáng tiến triển và tiêu xương quanh implant, gặp ở 1,96% ca trong gộp 20 nghiên cứu.",
+    "6142-nhiem-trung-va-di-tru-stent-mach-o-tre":
+        "Nhiễm trùng, di trú và gãy stent mạch ở trẻ: sốt sau can thiệp gợi ý stentitis hoặc giả phình giả nhiễm trùng, còn stent không lớn theo trẻ nên dễ di trú.",
+    "6145-viem-tuy-tu-mien-tre":
+        "Viêm tụy tự miễn ở trẻ cho tụy to lan tỏa mất phân thùy kiểu 'xúc xích', ngấm muộn dạng đốm, vỏ bao quanh tụy và hẹp ống tụy dài không giãn phía trên.",
+    "6146-soi-tui-mat-o-tre":
+        "Sỏi túi mật ở trẻ tăng âm có bóng lưng, còn bùn mật tăng âm không bóng; sỏi ống mật chủ cho giãn ống mật chủ và khuyết lòng.",
+    "6150-mycoplasma-pneumoniae-nang-khang-macrolide-o-tre":
+        "Viêm phổi do Mycoplasma pneumoniae nặng ở trẻ cho đông đặc và kính mờ không đều kèm tắc phế quản do bã nhầy; đổi thuốc khi kháng macrolide.",
+    "6151-trat-khop-hang-nhan-tao-tai-dien":
+        "Trật khớp háng nhân tạo tái diễn do mất chiều cao nhảy; phân loại Dorr và đo anteversion trên CT để chọn mổ lại theo nguyên nhân.",
+    "6152-viem-tuy-man-o-tre":
+        "Viêm tụy mạn ở trẻ cho vôi hóa nhu mô hoặc ống tụy, sỏi ống, giãn ống không đều và teo nhu mô; nguyên nhân ở trẻ là gen và bất thường giải phẫu.",
+    "6153-hach-ton-du-sau-dieu-tri-lymphoma-tre":
+        "Hạch tồn dư sau điều trị lymphoma ở trẻ có thể vôi hóa dạng chấm và PET âm tính, vì mô xơ thay tế bào u không co ngay.",
+    "6154-soi-mat-o-tre-benh-tan-mau":
+        "Sỏi mật ở trẻ bệnh tan máu là sỏi sắc tố do bilirubin không liên hợp kết tủa với calci; phải cân nhắc cắt túi mật dự phòng cùng lúc cắt lách.",
+    "6156-viem-phoi-mycoplasma-tre-duoi-3-tuoi":
+        "Viêm phổi do Mycoplasma ở trẻ dưới 3 tuổi cho mẫu hình viêm tiểu phế quản, thâm nhiễm kẽ quanh phế quản và xẹp phổi, ít đông đặc thùy.",
+    "6159-ro-khi-quan-dong-mach-khong-ten":
+        "Rò khí quản – động mạch không tên gây chảy máu 'báo trước' qua lỗ mở khí quản; cuff bơm căng làm hoại tử thành trước rồi ăn mòn động mạch.",
+    "6160-roi-loan-nuot-sau-cai-ong-mo-khi-quan-tre":
+        "Sau cai ống mở khí quản ở trẻ phải tìm rối loạn nuốt và hít sặc cùng hẹp đường thở mới, vì ống làm thay đổi cơ học nuốt.",
+    "6161-chylothorax-sau-mo-tim-o-tre":
+        "Tràn dưỡng trấp màng phổi sau mổ Fontan/Glenn do áp lực tĩnh mạch hệ thống quyết định, vì dòng bạch huyết chảy theo gradient áp lực.",
+    "6162-viem-co-tim-do-ici":
+        "Viêm cơ tim do thuốc ức chế điểm kiểm soát có thể có men tim tăng mà MRI 'bình thường'; dấu hiệu là phù cơ tim và LGE vách giữa thành.",
+    "6163-viem-dia-dem-than-song-va-phinh-dmc-nhiem-khuan":
+        "Viêm đĩa đệm–thân sống kèm phình động mạch chủ nhiễm khuẩn là hai ổ liền kề; túi lệch tâm tiến triển nhanh nên 3–4 cm đã có thể vỡ.",
+    "6164-u-nhu-dao-nguoc-tai-phat-sau-mo":
+        "U nhú đảo ngược tái phát sau mổ phải phân biệt tái phát thật, nang nhầy và sẹo xơ; mẫu hình cuộn não trên T2 và ADC thấp chỉ là gợi ý.",
+    "6165-phu-phoi-crs-sau-car-t-blinatumomab-o-tre":
+        "Phù phổi do phản ứng cytokine sau CAR-T và blinatumomab ở trẻ là phù phổi không do tim kèm rò mao mạch toàn thân.",
+    "6168-suy-tuy-ngoai-tiet-tre-elastase-1":
+        "Suy tụy ngoại tiết ở trẻ đọc bằng elastase-1 phân: enzym không bị phân hủy dọc ruột và không có trong chế phẩm PERT nên kết quả vẫn đọc được.",
+    "6169-benh-nao-do-cum-o-tre":
+        "Bệnh não do cúm ở trẻ cho tổn thương đồi thị hai bên đối xứng, hạn chế khuếch tán, có thể xuất huyết; MRI là chốt và phải chụp lại sau 48–72 giờ.",
+    "6170-shwachman-diamond-tuy-mo-hoa":
+        "Hội chứng Shwachman–Diamond cho tụy thay mỡ, tủy giảm sinh và loạn sản metaphysis, với elastase-1 phân thấp là xét nghiệm chức năng chốt.",
+    "6171-viem-tuy-cap-do-asparaginase-tre-all":
+        "Viêm tụy cấp do asparaginase ở trẻ ALL có thể có hình ảnh bình thường sớm; tế bào nang tụy nhạy nhất vì tổng hợp enzym tiêu hóa rất nhanh.",
+    "6172-bat-san-tuy-bam-sinh-thieu-lipase":
+        "Bất sản tụy bẩm sinh và thiếu lipase đơn thuần làm tụy 'biến mất' một phần hoặc toàn bộ; MRCP mất mầm lưng giúp phân biệt với IPFD.",
+    "6175-ro-khi-da-cai-ong-mo-khi-quan-tre":
+        "Rò khí–da sau cai ống mở khí quản ở trẻ là đường hàn có biểu mô lót; phải chọn chờ tự đóng hay vá và cảnh giác hội chứng rò khí sau vá.",
+    "6177-viem-nao-hsv-o-tre":
+        "Viêm não do herpes simplex ở trẻ gây viêm vỏ não khu trú thái dương–đảo có hạn chế khuếch tán, không theo lãnh thổ mạch; đừng chờ PCR mới chụp.",
+    "6178-long-ruot-o-tre":
+        "Lồng ruột ở trẻ cho dấu bia và dấu thận giả trên siêu âm, do hạch bạch huyết phì đại kéo đoạn ruột vào trong; quyết định thụt hơi hay mổ.",
+    "6179-viem-xuong-tuy-cap-o-tre":
+        "Viêm xương tủy cấp ở trẻ bắt đầu ở hành xương với phù tủy, áp-xe dưới màng xương và trong tủy; trẻ dưới 18 tháng có thể lan vào đầu xương.",
+    "6181-ro-dnt-sau-mo-so-mat-tre":
+        "Rò dịch não tủy sau mổ sọ mặt nâng–tiến ra trước ở trẻ xảy ra vì đường cắt monobloc và Le Fort III đi sát màng cứng ở trần sàng và trần ổ mắt.",
+    "6182-lymphangiectasia-ruot-nguyen-phat-tre":
+        "Lymphangiectasia ruột nguyên phát ở trẻ gây dày thành ruột non và giãn mạch bạch huyết niêm mạc, nên mất albumin kéo theo mất IgG và lymphocyte.",
+    "6194-tang-ap-luc-noi-so-vo-can-o-tre":
+        "Tăng áp lực nội sọ vô căn ở trẻ: bộ dấu hiệu MRI–MRV và ngưỡng ONSD theo tuổi; DWI/ADC không tăng là điểm chốt để loại phù não.",
+    "6703-benh-co-tim-do-anthracycline-o-nguoi-song-sot-ung-thu-nhi":
+        "Bệnh cơ tim do anthracycline ở người sống sót ung thư nhi có EF còn bảo tồn nhưng GLS giảm; LGE thường âm vì xơ hóa lan tỏa, nên GLS là biến sớm.",
+    "6704-benh-co-tim-do-xa-o-nguoi-song-sot-ung-thu-nhi":
+        "Bệnh cơ tim do xạ ở người sống sót ung thư nhi: trường chiếu quyết định hình ảnh xơ hóa, còn liều tim trung bình quyết định lịch theo dõi.",
+    "6705-benh-van-tim-do-xa-o-nguoi-song-sot-ung-thu":
+        "Bệnh van tim do xạ xuất hiện sau 10–20 năm, chủ yếu ở van trái; phải chọn thời điểm mổ và cân nhắc van cơ học hay sinh học ở ngực đã xạ.",
+    "6706-benh-mach-vanh-do-xa-o-nguoi-song-sot-ung-thu":
+        "Bệnh động mạch vành do xạ hẹp ở lỗ và đoạn gần với mảng không vôi trong trường chiếu; thời gian tiềm tàng khoảng 15 năm, tầm soát bằng CTA.",
+    "6707-benh-dong-mach-ngoai-bien-do-xa":
+        "Bệnh động mạch ngoại biên do xạ hẹp dài, nhẵn, ít vôi và đúng trường chiếu, trong khi mạch ngoài trường chiếu lành — đó là chốt phân biệt với xơ vữa.",
+    "6708-hep-dong-mach-than-do-xa-o-tre":
+        "Hẹp động mạch thận do xạ ở trẻ gây tăng huyết áp sau nhiều năm với phổ parvus–tardus và thận nhỏ cùng bên; cần giữ liều xạ thận dưới 10–15 Gy.",
+    "6709-hep-tinh-mach-chau-dui-do-xa":
+        "Hẹp tĩnh mạch chậu–đùi do xạ gây phù chân muộn sau xạ tiểu khung; tổn thương xơ cả ba lớp nên hồi phục kém sau nong và dễ vỡ khi nong quá tay.",
+})
+
+
 def _desc_ok(t):
     """Ứng viên mô tả hợp lệ: đủ dài, không boilerplate/link list/nhãn mục."""
     low = t.lower()
