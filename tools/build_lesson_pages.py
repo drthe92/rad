@@ -98,8 +98,86 @@ def plain(text, limit=160):
     return (cut[:sp] if sp > 40 else cut).rstrip(" ,;:.") + "…"
 
 
-def first_paragraph(body):
-    """Đoạn văn đầu tiên đủ dài, bỏ qua frontmatter/tiêu đề/tag/bảng/code/blockquote."""
+def _plain_cmp(t):
+    """Dạng phẳng (không markdown) để so ngưỡng/câu chữ."""
+    t = re.sub(r"[*_`]+", " ", t or "")
+    return re.sub(r"\s+", " ", t).strip()
+
+
+# dòng rác KHÔNG bao giờ dùng làm mô tả (disclaimer, khung quiz, ghi chú biên soạn)
+BOILERPLATE = (
+    "không dùng để chẩn đoán độc lập",
+    "ảnh trơn ở ngoài",
+    "bấm để hiện đáp án",
+    "đã viết có link",
+    "id ổn định, không đánh lại số",
+    "chưa viết là text dự kiến",
+)
+# nhãn mở đầu được ưu tiên: câu chốt/định nghĩa là mô tả tốt nhất cho bài
+DESC_LEAD = ("Câu chốt", "Điểm chốt", "Điểm tựa", "Định nghĩa", "Cơ chế")
+
+
+def _desc_ok(t):
+    """Ứng viên mô tả hợp lệ: đủ dài, không boilerplate/link list/nhãn mục."""
+    low = t.lower()
+    if any(b in low for b in BOILERPLATE):
+        return False
+    if "](" in t or "http" in low or "nguồn:" in low:
+        return False
+    if re.match(r"^\d+\s*[–—-]\s*\d+\s*[–—-]", t):  # nhãn dải ID "300–319 — ..."
+        return False
+    p = _plain_cmp(t)
+    if len(p) < 55 or p.endswith(":"):
+        return False
+    return p[:1].isupper() or p[:1].isdigit()
+
+
+def desc_candidates(body):
+    """Mọi câu/đoạn/gạch đầu dòng có thể làm mô tả, theo thứ tự trong bài."""
+    out, in_fence = [], False
+    for raw in body.splitlines():
+        s = raw.strip()
+        if s.startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence or not s:
+            continue
+        if s.startswith(("#", "**Tags", "**Mức chắc chắn", "*Không dùng", "|", "!", "<")):
+            continue
+        # bỏ caption ảnh: "*Trái: ... Nguồn: ...", "*Hình ...", "Panel ..."
+        if re.match(r"^\*?\s*(Trái|Phải|Hình|Ảnh|Panel|A\)|B\))\b", s):
+            continue
+        if ("Nguồn:" in s or "Fig." in s) and s.startswith("*"):
+            continue
+        t = s
+        if t.startswith(">"):  # blockquote: "> **Ca 1.** bệnh nhân ..."
+            t = re.sub(r"^[>\s]+", "", t).strip()
+        elif re.match(r"^([-*+]|\d+\.)\s", t):  # gạch đầu dòng: "- **X:** ..."
+            t = re.sub(r"^([-*+]|\d+\.)\s+", "", t).strip()
+        if _desc_ok(t):
+            out.append(t.lstrip("*").strip())
+    return out
+
+
+# nhãn "dẫn chuyện" — bỏ đi để câu còn lại đọc như mô tả, không như ghi chú soạn bài
+DISCARD_LABEL = re.compile(
+    r"^(?:Câu chốt|Điểm chốt(?: của bài)?|Điểm tựa(?: duy nhất của bài)?|Định nghĩa|"
+    r"Cơ chế(?: 1 câu)?|Bệnh học|Câu hỏi thực hành|Kịch bản thực hành|"
+    r"Vì sao bài này quan trọng|Bài toán CĐHA của vùng này khác hẳn[^:]*)\s*(?:\([^)]*\))?\s*:\s*[\*_]*\s*",
+    re.I,
+)
+
+
+def _tidy_desc(t):
+    t = re.sub(r"^[\s*_>]+", "", t or "")
+    t = DISCARD_LABEL.sub("", t).strip()
+    if t and t[0].islower():
+        t = t[0].upper() + t[1:]
+    return t
+
+
+def _strict_paragraph(body):
+    """Đoạn văn "thuần" đầu tiên đủ dài (≥ 70 ký tự) — đường chính, giữ nguyên hành vi cũ."""
     in_fence = False
     for raw in body.splitlines():
         s = raw.strip()
@@ -120,7 +198,32 @@ def first_paragraph(body):
         if len(s) < 70:
             continue
         return s.lstrip("*").strip()
-    return SITE_DESC
+    return None
+
+
+def describe(body):
+    """(mô tả, dùng_đường_dự_phòng) cho một lesson.md.
+
+    Bài mở đầu bằng bảng/gạch đầu dòng/blockquote (không có đoạn văn thuần ≥ 70 ký tự)
+    sẽ lấy câu chốt/định nghĩa đầu tiên, rồi tới câu hợp lệ đầu tiên — thay vì rơi về
+    SITE_DESC dùng chung cho mọi bài.
+    """
+    strict = _strict_paragraph(body)
+    if strict:
+        return strict, False
+    cands = desc_candidates(body)
+    if not cands:
+        return SITE_DESC, False
+    for lead in DESC_LEAD:
+        for c in cands:
+            if c.lstrip("*_ ").startswith(lead):
+                return _tidy_desc(c), True
+    return _tidy_desc(cands[0]), True
+
+
+def first_paragraph(body):
+    """Mô tả một dòng cho bài (dùng cho meta/JSON-LD/llms.txt)."""
+    return describe(body)[0]
 
 
 def git_lastmod_map():
@@ -369,12 +472,17 @@ def main(argv=None):
         cert = fm.get("certainty", "")
         cert_label = {"ca-nguyen-van": "ca nguyên văn", "tong-hop-y-van": "tổng hợp y văn",
                       "suy-luan": "suy luận"}.get(cert, cert or "tổng hợp y văn")
-        desc = plain(first_paragraph(body), 158) or SITE_DESC
+        para, relaxed = describe(body)
+        desc = plain(para, 158) or SITE_DESC
         pattern = plain(str(fm.get("primary_pattern", "")), 155)
+        tvi = re.sub(r"^\d+\s*[—–-]\s*", "", title).split(" / ")[0].strip()
         if len(pattern) >= 80:
             desc = pattern
+        elif relaxed and (158 - len(tvi) - 3) < 70:
+            desc = plain(desc, 158)  # tên bài quá dài: giữ nội dung, đừng ghép tên
+        elif relaxed and re.match(r"^[^:]{3,45}:", desc):
+            desc = plain(f"{tvi} — {desc}", 158)  # câu đã có nhãn "X:" → dùng gạch dài
         else:
-            tvi = re.sub(r"^\d+\s*[—–-]\s*", "", title).split(" / ")[0].strip()
             desc = plain(f"{tvi}: {desc}", 158)
         lastmod = lastmods.get(f"{slug}/lesson.md", today)
         url = f"{BASE}/{slug}/"
