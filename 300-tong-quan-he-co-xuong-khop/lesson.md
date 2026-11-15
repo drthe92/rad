@@ -123,4 +123,5 @@ certainty: tong-hop-y-van
 - 378 – Điều trị PN ở NF1: **selumetinib 25 mg/m² ×2/ngày**, tiêu chí thể tích (PR ≥ 20%), theo dõi CPK/tim/mắt, neoadjuvant trước mổ *(đã có — [bài học](../378-dieu-tri-u-dam-roi-nf1-selumetinib/lesson.md))*
 - 377 – U dây thần kinh dạng đám rối (plexiform neurofibroma) & chuyển dạng MPNST ở NF1: **dấu bia (target sign)** ở u lành, con đường **NF1 → PN → mất CDKN2A → ANNUBP → mất SUZ12/EED → MPNST**, **WB-MRI** đánh giá gánh nặng u, **ADC/SUVmax** định lượng nghi ác, **tiêu chuẩn mô bệnh ANNUBP (≥ 2/4)** *(đã có — [bài học](../377-u-than-kinh-dang-dam-roi-va-mpnst-nf1/lesson.md))*
 
+- [6186 – Phản ứng bất lợi với mảnh kim loại sau THA (ARMD/giả u): **X-quang bình thường không loại trừ** (giả u 10 cm vẫn có phim sạch); **MARS MRI** là chuẩn mô mềm (thể nang vs đặc, trong/ngoài hố chậu, **cơ mông**); **giả u trên ảnh 40–60%** ở MoM nhưng **chỉ 21% có triệu chứng** → **không mổ theo ảnh**; **ion Co > 7 µg/L** hữu ích nhưng **43% ARMD có ion thấp**; mổ lại **17,9% thất bại, nhiễm 14,2%**](../6186-armd-gia-u-sau-thay-khop-hang/lesson.md) *(mới — nối 6140/6110/6185)*
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
