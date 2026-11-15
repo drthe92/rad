@@ -2489,3 +2489,5 @@
 - Mục 2102/1476 (Pseudomonas trên kính tiếp xúc) **gộp** vào 6132 — 6132 đã phủ đầy đủ (kiểm lại số liệu trước khi gộp).
 ## 2026-11-15 — worker rad-backlog
 - Viết **1477** (sinh trắc AL & công suất IOL ở mắt bơm dầu silicone): vận tốc dầu 987 m/s (A-scan đọc dài ~55% đoạn dầu), n_SO 1,403 vs 1,336 (lệch 0,80 mm ≈ 2,2 D), 0,1 mm AL = 0,28 D; flip #2112 → xong, append 1 mục (**1490** – sinh trắc khi bơm khí C3F8/SF6).
+## 2026-11-15 — worker rad-backlog (1879)
+- Viết **1879** (màng đứt hoàng điểm sau mổ bong võng mạc: theo dõi vs mổ): tự đóng **5–18%**, MLD **128–162 vs 387–589 µm**, tái mở **71%**, PFCL **16% vs 0%**, CME **75,9% vs 9,1%**; 3 ảnh (CC BY / BY-NC-ND), flip #2120 → xong, append **#9450 (1878 — MHRD mắt cận thị nặng)**.
