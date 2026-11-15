@@ -145,5 +145,6 @@ flowchart TD
 - [1432 – Thay dầu silicone: thiếu thể tích & nhũ tương hóa](../1432-thay-dau-silicone/lesson.md)
 - [1442 – Mảnh thể thủy tinh còn sót trong tiền phòng](../1442-manh-the-thuy-tinh-con-sot/lesson.md)
 - [1452 – Glôcôm do thể thủy tinh chưa mổ](../1452-glaucom-do-the-thuy-tinh-chua-mo/lesson.md)
+- [1477 – Đo trục nhãn cầu & công suất IOL ở mắt bơm dầu](../1477-sinh-trac-iol-mat-bom-dau-silicone/lesson.md) (vật lý vận tốc 987 m/s, chiết suất 1,403, hiệu chỉnh Zhang)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

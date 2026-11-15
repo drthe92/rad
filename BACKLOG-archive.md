@@ -2486,3 +2486,6 @@
 ## 2026-11-15 — lượt worker rad-backlog
 - Viết **3203** (đe dọa thủng & thủng giác mạc: keo/màng ối/Tenon/PK) — 6 ảnh OA, flip mục 9439/3203 → xong; append gap **3204** (neurotrophic keratopathy/cenegermin).
 - Mục 2102/1476 (Pseudomonas trên kính tiếp xúc) **gộp** vào 6132 — 6132 đã phủ đầy đủ (kiểm lại số liệu trước khi gộp).
+
+## 2026-11-15 — worker rad-backlog
+- Viết **1477** (sinh trắc AL & công suất IOL ở mắt bơm dầu silicone): vận tốc dầu 987 m/s (A-scan đọc dài ~55% đoạn dầu), n_SO 1,403 vs 1,336 (lệch 0,80 mm ≈ 2,2 D), 0,1 mm AL = 0,28 D; flip #2112 → xong, append 1 mục (**1490** – sinh trắc khi bơm khí C3F8/SF6).
