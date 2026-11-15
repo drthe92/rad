@@ -66,6 +66,8 @@ CLASSIFY_4D = {
     "1986": "nhi",    # viêm mô hoại tử ở trẻ (cấp cứu nhiễm trùng mô mềm nhi)
     "1968": "vuspk",  # seroma vùng cho vạt DIEP/TRAM (vú – tái tạo; tách về tab vú nhờ tag vung:vu)
     "1967": "bung",   # ACNES – đau thành bụng do chèn nhánh trước T10–T12
+    "3152": "bung",   # Fournier – viêm cân mạc hoại tử tầng sinh môn (tiết niệu – sinh dục)
+    "1891": "nhi",    # chấn thương thận kín ở trẻ (chấn thương – niệu nhi)
     "1984": "bung",   # màng ngăn ruột non do NSAID & CMUSE (tiêu hóa, người lớn)
     "3096": "bung",   # BK polyomavirus nephropathy (ghép thận)
     "6194": "mat",    # IIH ở trẻ — thần kinh–nhãn khoa, xếp tab Mắt theo AGENTS
