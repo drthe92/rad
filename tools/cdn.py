@@ -13,6 +13,7 @@ Không có manifest / ảnh chưa upload → trả None để builder giữ đư
 """
 import json
 import os
+import posixpath
 import re
 from pathlib import Path
 
@@ -43,15 +44,31 @@ def public_url(local):
     return None
 
 
+def manifest_key(src, slug):
+    """Đổi src trong HTML thành key manifest (`<slug>/images/<file>`), None = không đổi.
+
+    - `images/a.jpg`         -> `<slug>/images/a.jpg`
+    - `../<slug>/images/a.jpg` (hoặc `../<slug-khác>/...`) -> chuẩn hoá bằng normpath
+    - `/<slug>/images/a.jpg` -> `<slug>/images/a.jpg`
+    - `/assets/...`          -> `assets/...` (không có trong manifest nên giữ nguyên)
+    - `http(s)://`, `//`, `data:` -> None (bỏ qua)
+    """
+    if not src or src.startswith(("http://", "https://", "//", "data:", "#", "mailto:")):
+        return None
+    s = src.split("?")[0].split("#")[0]
+    if s.startswith("/"):
+        return s.lstrip("/")
+    # tương đối: tính từ thư mục trang /<slug>/ rồi chuẩn hoá `..`/`.`
+    # slug rỗng (hub) -> join("/", "", src) = "/<src>" vẫn đúng
+    return posixpath.normpath(posixpath.join("/", slug or "", s)).lstrip("/")
+
+
 def rewrite_images(html, slug):
-    """Đổi src="images/..." (trang /<slug>/) sang CDN nếu manifest có."""
+    """Đổi src tương đối (images/..., ../<slug>/images/...) sang CDN nếu manifest có."""
     def repl(m):
-        src = m.group(1)
-        if src.startswith(("http://", "https://", "data:")):
+        key = manifest_key(m.group(1), slug)
+        if not key:
             return m.group(0)
-        key = src.lstrip("/")
-        if not key.startswith(f"{slug}/"):
-            key = f"{slug}/{key}"
         url = public_url(key)
         return f'src="{url}"' if url else m.group(0)
     return re.sub(r'src="([^"]+)"', repl, html)
