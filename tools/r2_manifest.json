@@ -31180,7 +31180,77 @@
    "sha256": "4c8acb97d5a3e8f9b16c845332a27cb4cbabf2c5e8b6f854531aaa7a4b33b2d2",
    "size": 136548,
    "etag": "b643f319dbd3b7a3c6213f44373eea16"
+  },
+  "1477-sinh-trac-iol-mat-bom-dau-silicone/images/1477_sinh-trac-dau_IOL-SO-FrontMed2023-F1.jpg": {
+   "sha256": "abdb9e38d563959072663c1c567775a65086230d6939018e4cf7f2c9b315f8e7",
+   "size": 55298,
+   "etag": "17b29fdfc18bf875c3683a1f9d682615"
+  },
+  "1477-sinh-trac-iol-mat-bom-dau-silicone/images/1477_sinh-trac-dau_AL-boxplot_Diagnostics2022-F1.jpg": {
+   "sha256": "a30870df3f4a10d9703516083e3d25c569ce45aba37c307991089394cbd4cb99",
+   "size": 52212,
+   "etag": "853de8c57ca8e0d9c84965a0b1c9b407"
+  },
+  "1477-sinh-trac-iol-mat-bom-dau-silicone/images/1477_sinh-trac-dau_BlandAltman_Diagnostics2022-F3.jpg": {
+   "sha256": "3534a06447e24a6cc9d2d133bff46f25a82fcd73095c846caacd23e59ed3e79b",
+   "size": 40549,
+   "etag": "fa8df9167e7f755d19181c96531b5792"
+  },
+  "3143-loang-xuong-do-uc-che-buong-trung/images/3143_loang-xuong_Diagram_PMC11950069-Fig2.jpg": {
+   "sha256": "d2402e0d7f5eaa1b166536fc6044e9c95e273f43597c107532d5171b010940ec",
+   "size": 51424,
+   "etag": "9331371dbe7fd329b5819039d1086184"
+  },
+  "3143-loang-xuong-do-uc-che-buong-trung/images/3143_loang-xuong_Diagram_PMC12301826-Fig2.jpg": {
+   "sha256": "bbf661eb0a0ceb35f5ec989de9ab01fb027834af312d66567323036fad3395d2",
+   "size": 79790,
+   "etag": "d8097f0c2e9f20e929a7c883104dfbd2"
+  },
+  "1477-sinh-trac-iol-mat-bom-dau-silicone/images/composite_1477_AL-hai-may.jpg": {
+   "sha256": "e8f698382b2fc1187edfd008cab21cd80cb1808b4f9c108817241422248e4964",
+   "size": 82999,
+   "etag": "60db79a147f4b5c97555ce2fb106caf7"
+  },
+  "3203-de-doa-thung-giac-mac/images/3203_de-doa-thung-giac-mac_AS-OCT_PMC13114990.jpg": {
+   "sha256": "735c63e8c276c8fb4157bea74cd481f544b089565be3546c3d61ac527a80a87f",
+   "size": 176915,
+   "etag": "d52c929d29cc604b760f3631ca56ee32"
+  },
+  "1477-sinh-trac-iol-mat-bom-dau-silicone/images/1477_sinh-trac-dau_US_Bscan-Ascan-IJO2022_PMC9672780-IJO-70-2851-g001.jpg": {
+   "sha256": "9a028d00ea3a598da8a9cdb0ab263c0b16653823acade78fdc658480c37d4476",
+   "size": 74252,
+   "etag": "127721c0bb497e3702356abbfac4e2d7"
+  },
+  "3203-de-doa-thung-giac-mac/images/3203_de-doa-thung-giac-mac_SlitLamp-Melt_PMC13114990.jpg": {
+   "sha256": "b4aa18017bc475526a8a8c4898bf8c151a838ef36341d75b2d8a1b97691f70af",
+   "size": 76870,
+   "etag": "592c9a17eb10461792d99ac26270e6c6"
+  },
+  "3203-de-doa-thung-giac-mac/images/3203_de-doa-thung-giac-mac_SlitLamp-CauteryKeo_PMC12927933.jpg": {
+   "sha256": "f711719fbc0e776664f5b106dd6482a6112c258582b91ec560bffce4037185bf",
+   "size": 65314,
+   "etag": "df89f725e8a0faa3037ace78c80f2eb3"
+  },
+  "3203-de-doa-thung-giac-mac/images/3203_de-doa-thung-giac-mac_SlitLamp-MangOi_PMC12951867.jpg": {
+   "sha256": "c3aeaaa01878586049469f421ff65ce7902d611f23cee85384837c83be8fc4a0",
+   "size": 205017,
+   "etag": "79b1caefe1eb677f8654e161ab2ea7ba"
+  },
+  "3203-de-doa-thung-giac-mac/images/3203_de-doa-thung-giac-mac_SlitLamp-4PhuongThuc_PMC9332962.jpg": {
+   "sha256": "907a7e83330f05eec617e9154628f428a4155240f9e1f87c72aa17b67cd46e5f",
+   "size": 71135,
+   "etag": "e30363d27103568328064ae944e59c66"
+  },
+  "3203-de-doa-thung-giac-mac/images/3203_de-doa-thung-giac-mac_SlitLamp-TenonPatch_PMC9940507.jpg": {
+   "sha256": "615792ad3aa923b83223c24ba41e4ece57ab824064e5808d47dc5343fe4f52ca",
+   "size": 84228,
+   "etag": "46ce20bca5132011bc28464c88f3d505"
+  },
+  "524-sang-loc-va-quan-ly-nguy-co-cao-ung-thu-vu/images/524_sau-mo-du-phong_MRI_PMC13518751-Fig1.jpg": {
+   "sha256": "5a406b25c0bc0df72c5e26aa9dba2bf98ed974e8125f1802689b03508ab72a9b",
+   "size": 232998,
+   "etag": "7c2976c2a5dd30dec54d8117c863b002"
   }
  },
- "generated_at": "2026-11-15T08:56:22Z"
+ "generated_at": "2026-11-15T22:40:39Z"
 }
