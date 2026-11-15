@@ -36,6 +36,23 @@ def load_thumbs():
 
 HUB_THUMBS = load_thumbs()
 
+# Biến thể thumbnail 400 px (`tools/make_hub_thumbs.py` sinh + `upload_hub_thumbs.py`
+# đẩy lên R2 prefix `thumbs/`). Chỉ dùng biến thể khi item đã `live` (object đã nằm
+# trên R2) — tránh hub trỏ vào URL 404 khi chưa upload.
+HUB_VARIANTS_FILE = Path(__file__).resolve().parent / "hub_thumbs_variants.json"
+
+
+def load_variants():
+    try:
+        data = json.loads(HUB_VARIANTS_FILE.read_text(encoding="utf-8"))
+        return {str(k): v for k, v in (data.get("items") or {}).items()
+                if isinstance(v, dict) and v.get("live")}
+    except Exception:
+        return {}
+
+
+HUB_VARIANTS = load_variants()
+
 # Mô tả đã chuẩn hoá cho 26 bài `primary_pattern` (rad-desc-fix-002) nằm trong
 # build_lesson_pages.PATTERN_DESC — dùng lại nguyên câu để hub KHỚP meta trang bài,
 # không chép tay 26 chuỗi sang đây (tránh lệch về sau).
@@ -686,9 +703,15 @@ def build_page():
         recs.append((uid, tags))
         # Thumbnail: KHÔNG nhúng <img> vào HTML tĩnh (~262 B/thẻ); chỉ ghi tên file
         # vào bản đồ uid→file (JSON gọn, ~65 KB) để JS chèn ảnh khi thẻ tới gần viewport.
+        # Giá trị `^stem` = dùng biến thể 400 px `thumbs/<slug>/<stem>.webp` trên CDN
+        # (nhẹ hơn ~10× ảnh gốc); không có tiền tố `^` = ảnh gốc `<slug>/images/<file>`.
         th = thumb_of(uid, d, fm)
         if th:
-            thumbs[uid] = th
+            var = HUB_VARIANTS.get(uid)
+            if var and var.get("src") == f"{d}/images/{th}":
+                thumbs[uid] = "^" + th.rsplit(".", 1)[0]
+            else:
+                thumbs[uid] = th
         if "tong-quan" in d or "overview" in d:
             vi = fm["h1"].split(" / ")[0].strip()
             vi = re.sub(r"^\d{3}\s*[—–-]\s*", "", vi)

@@ -175,13 +175,17 @@ function buildChips(){
 }
 // ── Thumbnail lazy: HTML tĩnh chỉ có bản đồ uid→tên file (~65 KB), KHÔNG có
 //    1.300 thẻ ảnh (~340 KB). JS đặt ô giữ chỗ rồi chèn thẻ ảnh (loading=lazy,
-//    decoding=async) khi thẻ tới gần viewport (IntersectionObserver, lề 600 px). ──
+//    decoding=async) khi thẻ tới gần viewport (IntersectionObserver, lề 600 px).
+//    Giá trị bắt đầu bằng "^" → dùng biến thể 400 px WebP `thumbs/<slug>/<stem>.webp`
+//    (make_hub_thumbs.py); còn lại → ảnh gốc `<slug>/images/<file>`. ──
 var THUMBS = __THUMBS__, CDNBASE = "__CDNBASE__";
 function thumbURL(c){
   var f = THUMBS[c.dataset.id]; if (!f) return "";
   var a = c.querySelector(".ctitle"); if (!a) return "";
   var m = /^\/([^\/]+)\//.exec(a.getAttribute("href") || ""); if (!m) return "";
-  return CDNBASE + "/" + m[1] + "/images/" + f;
+  var v = f.charAt(0) === "^";
+  if (v) f = f.slice(1) + ".webp";
+  return CDNBASE + (v ? "/thumbs/" : "/") + m[1] + (v ? "/" : "/images/") + f;
 }
 function fillThumb(box){
   if (box.dataset.done) return;
