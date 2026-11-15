@@ -131,6 +131,7 @@ flowchart TD
 - **3017** — Gãy nén đốt sống do loãng xương — vertebroplasty: xử trí cấp khi đã có gãy lún.
 - **1650** — Gãy xương sườn và xương đòn sau xạ trị: gãy do xạ, cần phân biệt với gãy suy yếu.
 - **1639** — Đau xương do di căn — chọn xạ trị hay SBRT: kiểm soát đau, không nhầm đau di căn với gãy suy yếu.
+- [**3143** — Mất xương do ức chế buồng trứng + AI ở phụ nữ tiền mãn kinh](../3143-loang-xuong-do-uc-che-buong-trung/lesson.md): bài chuyên sâu cho nhóm **OFS + AI** — ngưỡng AIBL 2025 (**T < −2,0 / T < −1,5 + 1 YTNC / ≥ 2 YTNC / mất ≥ 10%/năm**), chọn **zoledronate vs denosumab**, Z-score ở người < 50 tuổi.
 
 ---
 

@@ -120,11 +120,24 @@ flowchart TD
 ![Quy trình dự phòng và giám sát ở phụ nữ nguy cơ cao](images/524_workflow-du-phong_sodo_PMC12536305-Fig2.jpg)
 *Dự phòng bậc 1 (cắt tuyến vú dự phòng hai bên, RRSO, hóa dự phòng) + bậc 2 (giám sát hình ảnh: DCE-MRI + DM, 25–55 tuổi) → chẩn đoán → phân loại BI-RADS → sinh thiết → lành/ác. Nguồn: Ohashi A et al., MRMS 2025 (PMC12536305), CC BY 4.0.*
 
+### 4.1 Sau cắt tuyến vú dự phòng (RRM) và sau tái tạo: có chụp theo dõi không, và đọc gì
+
+- **Nguy cơ nền rất thấp nhưng không bằng 0:** sau **cắt tuyến vú dự phòng hai bên**, tỷ lệ ung thư vú về sau **0–1,9%**; sau **cắt tuyến vú điều trị**, tái phát tại chỗ **0,6–15,8%** (PMC13518751). Vì thế **không được "buông"** — nhưng cũng **không chụp đại trà**.
+- **Hướng dẫn hiện hành: KHÔNG có chỉ định chụp theo dõi thường quy sau cắt tuyến vú (kể cả có tái tạo)** — theo dõi bằng **khám lâm sàng**; chụp khi **có triệu chứng** hoặc khi có tổn thương nghi trên lâm sàng (PMC13518751). Đây là điểm khác biệt với người **chưa** mổ: nhóm sau mổ **không** nằm trong lịch MRI hằng năm.
+- **Mô tuyến còn sót (residual fibroglandular tissue — RFGT) là lý do khoa học để cân nhắc một lần MRI nền sau mổ:** 73 bệnh nhân sau cắt tuyến vú + vạt DIEP, chụp MRI theo dõi 2007–2022 → **RFGT gặp 27,4% (20/73)**, đường kính trung bình **13,5 mm (6–31)**, hay ở **góc trên ngoài**; **u độ 3 làm tăng nguy cơ RFGT: RR 2,7 (1,1–6,6), p = 0,050**; sau trung vị **110 tháng**, ung thư sau mổ ở **13/73** và nhóm có RFGT **HR 2,3 (0,77–6,83), p = 0,137** — **cao hơn nhưng CHƯA có ý nghĩa**, nên RFGT hiện là **dấu hiệu để theo dõi**, chưa phải chỉ định can thiệp (PMC13518751).
+- **Đọc RFGT trên MRI:** ổ **mô tuyến thật** nằm trong vạt/da — **T1W giảm, T2W tăng, ngấm thuốc như mô tuyến bình thường, có cấu trúc (fibroglandular)**; phân biệt với **tái phát** (khối đặc, **washout Type III**, DWI hạn chế) và **hoại tử mỡ** (không ngấm lõi, ngấm viền, nang dầu — xem [516](../516-hinh-anh-vu-sau-dieu-tri/lesson.md)).
+- **Lịch chụp: đồng thời hay so le không quan trọng bằng việc ĐỦ hai phương thức:** 712 bệnh nhân nguy cơ cao / **1.355 MRI**: nhóm MRI **cách nhũ ảnh < 90 ngày** vs **≥ 90 ngày** — phát hiện thêm ung thư **0,5% ở cả hai nhóm**, u xâm lấn trung vị **5 mm vs 4 mm**, chụp thêm **12,5% vs 9,6%**, sinh thiết **9,8% vs 7,0%** (PMC13258511). Nghĩa là **không cần dồn hai lần chụp vào cùng tuần**, nhưng **không được bỏ một trong hai**.
+- **Kết cục của một chương trình tầm soát có tổ chức (để tư vấn gia đình):** 722 người mang BRCA1/2, **4.398 lượt chụp**, phát hiện **1,5%** ung thư; **89,1% giai đoạn 0–I**, **95,3% không di căn hạch**, tử vong do ung thư vú **2,4%** (trung vị theo dõi 39,1 tháng); nhũ ảnh **Se 25–59% (gộp 39%)** vs MRI **68–100% (gộp 77%)**, phối hợp **94%**; MRI 20 năm: tử vong **3,2%** vs **14,9%** khi không MRI (PMC12960395).
+
+![RFGT sau cắt tuyến vú + vạt DIEP: mô tuyến còn sót trên T2W và T1W](images/524_sau-mo-du-phong_MRI_PMC13518751-Fig1.jpg)
+*Bốn bệnh nhân sau cắt tuyến vú + vạt DIEP: **a–b**, **c–d**, **e–f**, **g–h** là cặp T2W / T1W; vòng đỏ = **mô tuyến còn sót (RFGT)** nằm trong vạt hoặc sát da — 27,4% bệnh nhân có RFGT, đường kính trung bình 13,5 mm. Đây là tổn thương **phải nhận ra là mô tuyến lành**, không phải tái phát. Smeins NNPM et al., Insights Imaging 2026 (PMC13518751), Fig. 1, **CC BY 4.0** — nguyên bản.*
+
 ## 5. Biến thể bình thường và cạm bẫy
 
 - **Tăng ngấm mô tuyến nền (background parenchymal enhancement — BPE):** ngấm nền **lan tỏa, đối xứng, theo chu kỳ** (mạnh ở tiền mãn kinh, giảm sau mãn kinh). Tránh: chụp **ngày 7–14 vòng kinh**; dùng **thì sớm/UF** để giảm nhiễu BPE; so lần trước.
 - **Vú đặc che lấp (masking):** X-quang có thể **âm tính giả** khi vú cực đặc → đúng ngưỡng **hướng dẫn**: mật độ **C/D** mới bổ sung, **D** cân nhắc MRI **2–3 năm/lần**.
 - **Thay đổi sau mổ/xạ:** **hoại tử mỡ, sẹo co kéo, tụ dịch, u hạt vị trí vết mổ** — ngấm viền giả u, dễ nhầm tái phát → **so phim cũ + MRI đa thì**; sinh thiết khi nghi ngờ thật.
+- **Bẫy sau cắt tuyến vú + tái tạo:** thấy **mô ngấm thuốc** trong vạt/da thường bị gọi tái phát — nhưng nếu **cấu trúc giống mô tuyến (T1 giảm, T2 tăng) và nằm đúng vị trí tuyến còn sót** thì đó là **RFGT (27,4%)**, theo dõi chứ không sinh thiết ngay; ngược lại **khối đặc washout mới** vẫn phải sinh thiết (PMC13518751). Cũng đừng quên **hạch nách/da thành ngực** là nơi tái phát đầu tiên sau mổ.
 - **Vi vôi hóa DCIS có thể "âm tính" trên MRI:** đừng yên tâm khi MRI bình thường mà bỏ qua **cụm vi vôi hóa mới trên X-quang** (đặc biệt BRCA2) — hai phương thức **bù trừ cho nhau**.
 - **Bỏ sót vú đối bên:** vì đối bên 20 năm tới **40% (BRCA1)/26% (BRCA2)** — luôn **đọc cả hai vú** và **sinh thiết tổn thương đối bên mới**.
 - **Cạm bẫy mặt cắt/hình chiếu:** khác biệt **kích thước vú** trên ảnh có thể chỉ do **tư thế/đè ép** khi chụp, không phải giải phẫu (PMC13565922) → đừng chẩn đoán "teo/thay đổi" vô cớ.

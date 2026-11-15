@@ -17,6 +17,7 @@
 | 524_flowchart-sang-loc_sodo-PMC11399176-Fig5.jpg | Marcon M et al., Eur Radiol 2024, PMC11399176, Fig. 5 | CC BY 4.0 | Flowchart EUSOBI: nguy cơ trung bình (X-quang/DBT 40–50 → ~70) vs cao (MRI hằng năm, ± X-quang 35–40) |
 | 524_vu-day-dac_XR-PMC11399176-Fig2.jpg | Marcon M et al., Eur Radiol 2024, PMC11399176, Fig. 2 | CC BY 4.0 | Vú cực đặc (BI-RADS mật độ D): hiệu ứng che lấp trên X-quang |
 | composite_BRCA1-vs-BRCA2.jpg | Ghép Fig. 5 + Fig. 3 của PMC12536305 | CC BY 4.0 (kế thừa) | Đối chiếu kiểu hình BRCA1 (MRI ngấm viền) vs BRCA2 (vi vôi hóa/DCIS) |
+| 524_sau-mo-du-phong_MRI_PMC13518751-Fig1.jpg | Smeins NNPM et al., Insights Imaging 2026, PMC13518751, Fig. 1 | CC BY 4.0 | RFGT (mô tuyến còn sót) sau cắt tuyến vú + vạt DIEP: 4 bệnh nhân × cặp T2W/T1W, vòng đỏ = RFGT; 27,4% bệnh nhân, đường kính trung bình 13,5 mm |
 
 - Tất cả ảnh ghép: **letterbox nền đen**, **giữ nguyên tỷ lệ gốc** (không crop, không kéo giãn), có dải đen ghi tên bệnh + attribution.
 - Nguồn tải: Europe PMC full-text (gói `supplementaryFiles`, file ảnh gốc của nhà xuất bản).
