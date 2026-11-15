@@ -133,7 +133,7 @@ def s3_request(method, key="", body=b"", extra_headers=None, timeout=90):
                       c["ak"], c["sk"], "auto", "s3", amzdate)
     headers["authorization"] = auth
 
-    url = f"https://{host}/{_canonical_uri(key)}" if key else f"https://{host}/"
+    url = f"https://{host}/{c['bucket']}/{_canonical_uri(key)}" if key else f"https://{host}/{c['bucket']}"
     req = urllib.request.Request(url, data=body if method in ("PUT", "POST") else None,
                                  method=method, headers=headers)
     req.add_header("User-Agent", UA)
