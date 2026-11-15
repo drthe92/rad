@@ -156,7 +156,7 @@ Thất bại cả 3 lần → **dừng**, không commit chồng thêm; đọc ch
 
 ## 10. Sau commit
 
-- Append **tối đa 2** khoảng trống mới, chèn vào **đúng bảng** `## Hàng chờ viết`
+- Append **đúng 1** khoảng trống mới, chèn vào **đúng bảng** `## Hàng chờ viết`
   (không nối cuối file), mỗi mục đã qua `check_duplicates`.
 - Nhật ký **≤ 2 dòng** vào `BACKLOG-archive.md`.
 - `python3 tools/split_backlog.py --auto` (chỉ tách khi > 120 KB).
@@ -197,7 +197,7 @@ luật. Không cần đọc cả file log.
 ```
 bài: 197 (Li-Fraumeni) + 929 (xơ hóa nang) — 2 ảnh/1 composite, CC BY 4.0
 verify: PASS 7/7 · 515 bài / 515 card · parity 0 · selfcheck warn 15 legacy
-backlog: flip #341/#340 → xong; append 2 mục (đã check_duplicates)
+backlog: flip #341 → xong; append 1 mục (đã check_duplicates)
 còn lại: 110 mục chờ viết; ưu tiên kế tiếp #342 ...
 ```
 
