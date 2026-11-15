@@ -116,6 +116,66 @@ BOILERPLATE = (
 # nhãn mở đầu được ưu tiên: câu chốt/định nghĩa là mô tả tốt nhất cho bài
 DESC_LEAD = ("Câu chốt", "Điểm chốt", "Điểm tựa", "Định nghĩa", "Cơ chế")
 
+# Bài có `primary_pattern` là CỤM mẫu hình (không phải câu) từng lấy nguyên cụm đó làm
+# meta/llms. Bảng dưới đây thay bằng MỘT CÂU TIẾNG VIỆT rút từ chính nội dung bài
+# (không thêm dữ kiện ngoài bài), ≤ 158 ký tự như giới hạn meta; llms.txt dùng nguyên câu
+# (không cắt 120) để không bị "…".
+# Chỉ áp cho đúng các slug này — mọi bài khác giữ nguyên hành vi cũ.
+PATTERN_DESC = {
+    "058-nhiem-nam-khi-phe-quan-ghep-phoi":
+        "ITBA sau ghép phổi là bệnh của niêm mạc đường thở: dày thành, giả mạc/nút nhầy, hẹp lòng lan tỏa, chốt bằng nội soi.",
+    "1430-icans-doc-tinh-than-kinh-sau-car-t":
+        "ICANS là bệnh não lan tỏa sau CAR-T: MRI thường bình thường, khi bất thường thấy FLAIR chất trắng lan tỏa ± hạn chế khuếch tán vỏ não.",
+    "1438-viem-mang-bo-dao-giao-cam":
+        "Viêm màng bồ đào giao cảm là viêm toàn màng bồ đào u hạt hai bên, khởi phát sau chấn thương xuyên thấu hoặc mổ nội nhãn một mắt.",
+    "1635-ro-oi-non-thang-sau-can-thiep-bao-thai":
+        "Rò ối non tháng sau can thiệp bào thai do lỗ trocar không được màng ối bịt kín, tạo ống rò thành tử cung gây thiểu ối tiến triển.",
+    "1636-theo-doi-than-kinh-sau-mot-thai-chet":
+        "Khi một thai trong song thai một bánh nhau chết, thai còn lại bị giảm tưới máu não cấp rồi thêm tổn thương chất trắng non tháng.",
+    "1644-dai-thao-nhat-trung-uong-o-tre":
+        "Đái tháo nhạt trung ương ở trẻ chẩn đoán bằng lâm sàng – sinh hóa trước, hình ảnh sau; MRI tìm mất điểm sáng sau yên hoặc cuống yên dày.",
+    "1709-acth-lac-cho-an":
+        "Cushing phụ thuộc ACTH do nguồn lạc chỗ ẩn: u vài milimét, hình ảnh hay âm tính, phải tìm theo bậc và chứng minh nguồn trung ương bằng BIPSS.",
+    "1748-cushing-tai-phat-sau-mo-xuyen-buom":
+        "Cushing tái phát sau mổ xuyên bướm chẩn đoán bằng đường cong cortisol ngày 1–3; MRI sau mổ chỉ đáng tin từ 3 tháng.",
+    "1822-dcmrl-bach-huyet":
+        "DCMRL là chụp mạch bạch huyết theo thời gian sau tiêm gadolinium pha loãng vào hạch bẹn, trả lời ống ngực có hiện hình và rò ở đâu.",
+    "1899-buou-giap-lac-cho-lingual-thyroid":
+        "Bướu giáp lạc chỗ có thể là toàn bộ tuyến giáp của người bệnh (hơn 70% không có mô giáp ở cổ); cắt khi chưa xạ hình gây suy giáp vĩnh viễn.",
+    "1965-huyet-khoi-xoang-tm-nao-so-sinh":
+        "Huyết khối xoang ở sơ sinh biểu hiện bằng co giật, bú kém, li bì; dấu hình ảnh mạnh nhất là tổn thương đồi thị hai bên.",
+    "1967-acnes-dau-thanh-bung-sau-mo":
+        "ACNES là đau thành bụng do nhánh trước T10–T12 bị chèn ở bờ ngoài cơ thẳng, chẩn đoán bằng lâm sàng với hình ảnh bình thường.",
+    "3023-u-tai-mach-dap":
+        "Ù tai mạch đập là cảm nhận âm thanh đồng bộ nhịp tim không có nguồn âm ngoài, phải phân biệt hướng động mạch hay tĩnh mạch.",
+    "3051-mau-tu-to-chuc-hoa-xoang-buom":
+        "Máu tụ tổ chức hóa xoang bướm là tổn thương lành tính giả u: khối mô mềm mòn xương, chảy máu cam tái phát; loại túi phình mạch cảnh trong trước.",
+    "3070-tiem-chat-lam-day-day-thanh-va-thyroplasty-o-tre":
+        "Hở thanh môn do liệt dây thanh một bên gây hít sặc và khàn; tiêm dây thanh là can thiệp tạm thời, hiệu quả chắc nhất trên nuốt.",
+    "3073-hoi-chung-lumbar-u-mau-duong-giua-di-tat-tuy":
+        "U máu đoạn tính đường giữa vùng thắt lưng–cùng cụt là dấu hiệu da của dị tật tủy; chỉ tổn thương vượt đường giữa mới mang nguy cơ.",
+    "3087-hep-dong-mach-than-ghep":
+        "Hẹp động mạch thận ghép chẩn đoán bằng PSV tại chỗ hẹp và phổ tardus-parvus hạ nguồn, không dựa vào chỉ số sức cản RI.",
+    "3141-krukenberg-thai-ky":
+        "Krukenberg trong thai kỳ là di căn buồng trứng hiếm nhưng gần như luôn muộn: 65,7% hai bên, khối đặc, cổ trướng, sống trung vị 6 tháng.",
+    "3142-ung-thu-da-day-ct-linitis-plastica":
+        "Dày thành dạ dày chỉ đáng giá khi dạ dày đã căng đủ; linitis plastica thường không có khối, chỉ thành dày cứng, mất nếp niêm, hẹp lòng.",
+    "6110-nhiem-trung-quanh-khop-nhan-tao-sau-tha":
+        "Nhiễm trùng quanh khớp nhân tạo không loại trừ bằng X-quang bình thường và không chẩn đoán bằng một xét nghiệm; quyết định là giữ hay thay implant.",
+    "6111-huyet-khoi-tinh-mach-than-so-sinh":
+        "Huyết khối tĩnh mạch thận sơ sinh có chữ ký siêu âm: thận to, mất dòng tĩnh mạch, chỉ số sức cản tăng; thận thường không hồi phục.",
+    "6131-kinh-scleral-benh-be-mat-nhan-cau":
+        "Kính scleral tạo bể dịch che chở bề mặt nhãn cầu mà không đè vùng rìa; độ vừa đo bằng vault 200–350 µm trên AS-OCT.",
+    "6134-benh-xuong-cung-di-truyen-osteopetrosis":
+        "Osteopetrosis là xương đặc nhưng giòn, không có tủy và bít các lỗ thần kinh; phim chốt mất phân biệt vỏ–tủy, bone-in-bone.",
+    "753-loan-san-xo-xuong-ham":
+        "Loạn sản xơ xương hàm không phân biệt được với u xơ xương hóa và loạn sản xê-măng bằng mô bệnh học, nên chẩn đoán là một quyết định hình ảnh.",
+    "944-nhiem-stent-graft-dong-mach-chu-chau":
+        "Nhiễm mảnh ghép động mạch chủ tử vong 10–45%, chẩn đoán bằng bộ tiêu chuẩn MAGIC 2016 kết hợp lâm sàng – hình ảnh – vi sinh.",
+    "947-viem-phoi-rsv-va-cum-o-nguoi-ghep-tang":
+        "Ở người ghép tạng, RSV và cúm cho tổn thương hướng đường thở (tree-in-bud, dày thành phế quản, nút nhầy), không phải kính mờ đối xứng.",
+}
+
 
 def _desc_ok(t):
     """Ứng viên mô tả hợp lệ: đủ dài, không boilerplate/link list/nhãn mục."""
@@ -403,6 +463,9 @@ try { await mermaid.run({querySelector:".mermaid"}); } catch (e) { console.warn(
 
 # ── build ───────────────────────────────────────────────────────────────────
 def collect(only=None):
+    ids = None
+    if only:
+        ids = {s.strip() for s in str(only).replace(" ", ",").split(",") if s.strip()}
     items = []
     for d in sorted(os.listdir(ROOT)):
         m = LESSON_RE.match(d)
@@ -411,7 +474,7 @@ def collect(only=None):
         lp = os.path.join(ROOT, d, "lesson.md")
         if not os.path.exists(lp):
             continue
-        if only and m.group(1) != str(only):
+        if ids and m.group(1) not in ids:
             continue
         items.append((m.group(1), d, lp))
     return items
@@ -438,7 +501,7 @@ def render(items):
 def main(argv=None):
     ap = argparse.ArgumentParser(description="Sinh trang bài học tĩnh + sitemap + llms.txt")
     ap.add_argument("--all", action="store_true")
-    ap.add_argument("--only", help="chỉ một ID (vd 020)")
+    ap.add_argument("--only", help="chỉ (các) ID, cách nhau dấu phẩy (vd 020 hoặc 020,025)")
     ap.add_argument("--sitemap", action="store_true")
     ap.add_argument("--check", action="store_true", help="chỉ kiểm, không ghi")
     ap.add_argument("--quiet", action="store_true")
@@ -476,7 +539,9 @@ def main(argv=None):
         desc = plain(para, 158) or SITE_DESC
         pattern = plain(str(fm.get("primary_pattern", "")), 155)
         tvi = re.sub(r"^\d+\s*[—–-]\s*", "", title).split(" / ")[0].strip()
-        if len(pattern) >= 80:
+        if slug in PATTERN_DESC:
+            desc = plain(PATTERN_DESC[slug], 158)  # cụm mẫu hình → một câu tiếng Việt
+        elif len(pattern) >= 80:
             desc = pattern
         elif relaxed and (158 - len(tvi) - 3) < 70:
             desc = plain(desc, 158)  # tên bài quá dài: giữ nội dung, đừng ghép tên
@@ -570,7 +635,8 @@ def build_llms(items):
         fm, body = split_frontmatter(text)
         h1 = re.search(r"^#\s+(.+)$", body, re.M)
         title = (h1.group(1) if h1 else slug).strip()
-        desc = plain(first_paragraph(body), 120)
+        override = PATTERN_DESC.get(slug)
+        desc = plain(override, 158) if override else plain(first_paragraph(body), 120)
         lines.append(f"- [{title}]({BASE}/{slug}/) — {desc}")
     lines += ["", "## Ghi chú", "",
               "- Nội dung tổng hợp từ y văn mở, có trích dẫn PMCID/DOI trong sources.md.",
