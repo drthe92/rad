@@ -18,12 +18,23 @@ try:
 except Exception:
     cdn = None
 
+# Mô tả đã chuẩn hoá cho 26 bài `primary_pattern` (rad-desc-fix-002) nằm trong
+# build_lesson_pages.PATTERN_DESC — dùng lại nguyên câu để hub KHỚP meta trang bài,
+# không chép tay 26 chuỗi sang đây (tránh lệch về sau).
+try:
+    import build_lesson_pages as _blp
+    PATTERN_DESC = getattr(_blp, "PATTERN_DESC", {}) or {}
+except Exception:
+    PATTERN_DESC = {}
+
 CERT_LABEL = {"tong-hop-y-van": "Tổng hợp y văn",
               "ca-nguyen-van": "Ca nguyên văn",
               "suy-luan": "Suy luận"}
 OV_DESC = "📚 Bài tổng quan hệ: bảng DDx bắt buộc + bài liên quan chéo."
-REQUIRED_SCORES = ["LI-RADS", "Lung-RADS", "BI-RADS", "O-RADS", "TI-RADS",
-                   "PI-RADS", "Bosniak", "ASPECTS", "Atlanta"]
+# Thứ tự chip RADS (LI-RADS, Lung-RADS, …) nay do JS trong tools/hub_template.html
+# dựng từ data-t — một nguồn duy nhất, không nhân đôi danh sách ở đây.
+# Tag lọc lưu trong data-t bằng prefix 1 ký tự (tiết kiệm ~1/4 dung lượng data-t).
+PFX = {"pattern": "p", "anatomy": "a", "protocol": "t", "score": "s"}
 # Nhãn tab gọn: icon + tên chuyên mục; số bài do JS đếm từ thẻ (refreshTabs).
 TABS = [("", "🌐 Tất cả"), ("nguc", "🫁 Ngực"), ("bung", "🩺 Bụng"),
         ("thankinh", "🧠 Thần kinh"), ("msk", "🦴 MSK"), ("mat", "👁️ Mắt"),
@@ -560,10 +571,14 @@ def frontmatter(path):
 
 
 def curated_copy(index_text):
-    """Tiêu đề/mô tả/ảnh đã biên tập trong các thẻ hiện có (neo bằng class ctitle)."""
+    """Tiêu đề/mô tả đã biên tập trong các thẻ hiện có (neo bằng class ctitle).
+
+    Đọc được cả hai đời thẻ: `<div class="card">` (hub cũ, có thumbnail) và
+    `<li class="card">` (hub gọn hiện tại).
+    """
     cards = {}
-    for b in re.split(r'(?=<div class="card")', index_text):
-        if not b.startswith('<div class="card"'):
+    for b in re.split(r'(?=<(?:div|li) class="card")', index_text):
+        if not b.startswith(('<div class="card"', '<li class="card"')):
             continue
         m = (re.search(r'class="ctitle"[^>]*href="/([^/"]+)/"', b)
              or re.search(r'view\.html\?b=([^&]+)&', b))
@@ -607,28 +622,20 @@ def build_page():
         spec = spec_for(uid, fm["tags"], title)
         if not spec:
             unclassified.append(uid)
-        scores = [t.split(":", 1)[1] for t in tags if t.startswith("score:")]
         cert = CERT_LABEL.get(fm["certainty"], fm["certainty"])
-        desc = k.get("desc") or OV_DESC
-        img = k.get("img") or ((f"{d}/{fm['thumb']}", title) if fm["thumb"] else None)
-        search = f"{uid} {title} {' '.join(tags)} {d}"
-        spans = " ".join(f'<span class="tag">{html.escape(t)}</span>' for t in tags[:4])
-        if len(tags) > 4:
-            spans += f' <span class="tag more">+{len(tags) - 4}</span>'
-        thumb_src = (cdn.public_url(img[0]) if (cdn and img and not img[0].startswith("http")) else None) or (img[0] if img else "")
-        img_html = (f'<a href="/{d}/">'
-                    f'<img loading="lazy" src="{thumb_src}" alt="{html.escape(img[1])}"></a>' if img else "")
+        desc = PATTERN_DESC.get(d) or k.get("desc") or OV_DESC
+        # Chỉ giữ tag dùng để LỌC (chiều 1–4 + điểm/RADS); vung:* không lọc nên bỏ
+        # khỏi HTML — tra cứu vẫn khớp qua tiêu đề/mô tả. Prefix 1 ký tự
+        # (p:/a:/t:/s:) để HTML nhẹ hơn; JS giải mã lại trong hub.
+        filt = " ".join(PFX[t.split(":", 1)[0]] + ":" + t.split(":", 1)[1]
+                        for t in tags if t.split(":", 1)[0] in PFX)
+        # Thẻ gọn: 1 link (không lặp slug cho ảnh/Bài học), không data-search
+        # (JS dựng chuỗi tìm từ chính chữ trong thẻ), không thumbnail.
         card_html.append(
-            f'<div class="card" data-id="{html.escape(uid)}" data-spec="{spec}" '
-            f'data-scores="{html.escape(" ".join(scores))}" data-cert="{html.escape(fm["certainty"])}" '
-            f'data-tags="{html.escape(" ".join(tags))}" data-search="{html.escape(search)}">{img_html}'
-            f'<div class="cid">{html.escape(uid)} · {spec.upper()}</div>'
-            f'<a class="ctitle" href="/{d}/">{html.escape(title)}</a><br>'
-            f'{spans}<span class="cert">{html.escape(cert)}</span><p>{desc}</p>'
-            f'<a href="/{d}/">Bài học</a> · '
-            f'<a href="/{d}/sources.md" target="_blank" rel="noopener">Nguồn</a> '
-            f'<button class="learn" data-learn="{html.escape(uid)}" '
-            f'title="Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)">✓ Đã học</button></div>')
+            f'<li class="card" data-id="{html.escape(uid)}" data-spec="{spec}" '
+            f'data-t="{html.escape(filt)}"><a class="ctitle" href="/{d}/">{html.escape(title)}</a>'
+            f'<div class="meta">{html.escape(uid)} · {spec.upper()} · {html.escape(cert)}</div>'
+            f'<p>{desc}</p></li>')
         recs.append((uid, tags))
         if "tong-quan" in d or "overview" in d:
             vi = fm["h1"].split(" / ")[0].strip()
@@ -650,19 +657,16 @@ def build_page():
 
     present = sorted({s for _, tags in recs for t in tags
                       for s in ([t.split(":", 1)[1]] if t.startswith("score:") else [])})
-    # Nút "Tất cả" + nút mở rộng nằm trong template; ở đây chỉ sinh chip score.
-    chips = [f'<button class="chip" data-score="{s}">{s}</button>'
-             for s in REQUIRED_SCORES if s in present]
-    chips += [f'<button class="chip extra" data-score="{s}">{s}</button>'
-              for s in present if s not in REQUIRED_SCORES]
+    # Chip điểm/RADS (813 nút) do JS dựng từ data-t lúc mở trang — bỏ khỏi HTML
+    # tĩnh (~54 KB). Yêu cầu: chips vẫn đủ, thứ tự REQUIRED trước, còn lại A→Z.
     tabs = "".join(f'<button class="tab{" on" if not v else ""}" data-spec="{v}">{lab}</button>'
                    for v, lab in TABS)
 
     page = Path("tools/hub_template.html").read_text(encoding="utf-8")
-    page = (page.replace("__TABS__", tabs).replace("__CHIPS__", "\n".join(chips))
+    page = (page.replace("__TABS__", tabs)
                 .replace("__OVSELECT__", ov_select).replace("__CARDS__", "\n".join(card_html))
                 .replace("__N__", str(len(card_html))))
-    return page, len(card_html), len(chips), present
+    return page, len(card_html), len(present), present
 
 
 def main(argv=None):

@@ -49,16 +49,17 @@ button{cursor:pointer}
 .filters{display:flex;gap:8px;flex-wrap:wrap;align-items:center;min-width:0;flex:1 1 auto}
 select{padding:8px;font-size:14px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg);max-width:100%}
 #count{font-size:13px;color:var(--muted)}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,280px),1fr));gap:12px;margin-top:8px}
-.card{border:1px solid var(--line);border-radius:10px;padding:12px;background:var(--card);min-width:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,380px),1fr));gap:8px;margin-top:8px;list-style:none;padding:0}
+.card{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--card);min-width:0}
 .card img{width:100%;height:140px;object-fit:cover;background:#111;border-radius:6px}
-.cid{font-size:12px;color:var(--muted);margin-top:6px}
-.ctitle{font-weight:600;overflow-wrap:anywhere}
+.cid,.meta{font-size:11.5px;color:var(--muted);margin-top:2px}
+.ctitle{font-weight:600;overflow-wrap:anywhere;font-size:14.5px}
 .tag{font-size:12px;background:var(--chip);padding:2px 6px;border-radius:20px;margin:2px 4px 2px 0;display:inline-block;max-width:100%;overflow-wrap:anywhere}
 .cert{font-size:12px;border:1px dashed var(--line);padding:2px 6px;border-radius:20px;color:var(--muted);white-space:nowrap}
-.card p{font-size:13px;margin:6px 0}
+.card p{font-size:12.5px;margin:3px 0 4px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.foot{display:flex;gap:8px;align-items:center;font-size:12px;margin-top:2px}
 .card a{color:var(--accent)}
-.learn{border:1px solid var(--line);background:var(--card);color:var(--muted);border-radius:20px;font-size:12px;padding:2px 8px;margin:6px 6px 0 0}
+.learn{border:1px solid var(--line);background:var(--card);color:var(--muted);border-radius:20px;font-size:12px;padding:2px 8px;margin:0}
 .learn.on{background:#1b5e20;color:#fff;border-color:#1b5e20}
 .card.learned{border-left:4px solid #1b5e20}
 .tview .learn{margin:0}
@@ -120,12 +121,11 @@ __OVSELECT__
 <div class="tabs" id="tabs">__TABS__</div>
 <div class="chips" id="chips">
 <button class="chip on" data-score="">🏷️ Tất cả</button>
-__CHIPS__
 <button class="chip" id="chipsMore" style="display:none;border-style:dashed">+ thẻ khác</button></div>
 <div id="chipsHint" class="syncmsg" style="margin:-2px 0 8px">Chọn một chuyên mục (Ngực, Bụng, Mắt…) để hiện thẻ phân độ / RADS của riêng chuyên mục đó.</div>
-<div class="grid" id="grid">
+<ul class="grid" id="grid">
 __CARDS__
-</div>
+</ul>
 <div id="empty">😶 <b>Không tìm thấy bài học phù hợp với từ khóa / bộ lọc hiện tại.</b><br>Thử bỏ dấu, dùng từ khóa ngắn hơn (vd: <i>not phoi</i>, <i>230</i>, <i>Bosniak</i>) hoặc bấm <b>✖ Xóa lọc</b>.</div>
 <div id="tview"></div>
 <footer>Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn. Ảnh: tải về nếu giấy phép cho phép (ghi nguồn + giấy phép trong images/CREDITS.md), AuntMinnie chỉ dẫn link. · <a href="/about.html">Giới thiệu &amp; quy trình biên soạn</a> · <a href="/sitemap.xml">Sitemap</a> · <a href="/llms.txt">llms.txt</a></footer>
@@ -136,6 +136,59 @@ var q = document.getElementById("q"), grid = document.getElementById("grid"),
     tview = document.getElementById("tview"), progress = document.getElementById("progress"),
     cards = Array.prototype.slice.call(grid.children),
     spec = "", score = "", chieu = "", learnState = "";
+// ── Thẻ gọn: chuỗi tìm + điểm/RADS dựng từ chính nội dung thẻ (không nhồi data-* trùng) ──
+// data-t dùng prefix 1 ký tự: p=pattern, a=anatomy, t=protocol, s=score (xem build_index.py)
+var CHIEU_PFX = {pattern: "p", score: "s", anatomy: "a", protocol: "t"};
+var REQUIRED_SCORES = ["LI-RADS", "Lung-RADS", "BI-RADS", "O-RADS", "TI-RADS",
+                       "PI-RADS", "Bosniak", "ASPECTS", "Atlanta"];
+function scOf(c){
+  var out = [];
+  (c.dataset.t || "").split(/\s+/).forEach(function(t){
+    if (t.indexOf("s:") === 0 && t.length > 2) out.push(t.slice(2));
+  });
+  return out;
+}
+function tlabel(c){
+  return (c.dataset.t || "").replace(/\b([pat]):/g, function(m, k){
+    return {p: "pattern:", a: "anatomy:", t: "protocol:"}[k];
+  }).replace(/\bs:/g, "score:");
+}
+function stext(c){
+  if (c._st) return c._st;
+  var a = c.querySelector(".ctitle"), p = c.querySelector("p");
+  return c._st = norm(c.dataset.id + " " + (a ? a.textContent : "") + " " +
+    (p ? p.textContent : "") + " " + tlabel(c) + " " + (a ? a.getAttribute("href") : ""));
+}
+// Chip điểm/RADS (hàng trăm nút) dựng từ data-t — bỏ khỏi HTML tĩnh (~54 KB).
+function buildChips(){
+  var all = {};
+  cards.forEach(function(c){ scOf(c).forEach(function(s){ all[s] = 1; }); });
+  var rest = Object.keys(all).filter(function(s){ return REQUIRED_SCORES.indexOf(s) < 0; }).sort();
+  var frag = document.createDocumentFragment();
+  REQUIRED_SCORES.filter(function(s){ return all[s]; }).concat(rest).forEach(function(s){
+    var b = document.createElement("button");
+    b.className = "chip" + (REQUIRED_SCORES.indexOf(s) < 0 ? " extra" : "");
+    b.dataset.score = s; b.textContent = s;
+    frag.appendChild(b);
+  });
+  chipsBox.insertBefore(frag, chipsMore);
+}
+// Nguồn + nút "Đã học" do JS gắn (tiết kiệm ~180 B thẻ trong HTML tĩnh).
+function decorateCards(){
+  cards.forEach(function(c){
+    var a = c.querySelector(".ctitle"); if (!a) return;
+    var foot = document.createElement("div"); foot.className = "foot";
+    var src = document.createElement("a");
+    src.href = a.getAttribute("href") + "sources.md";
+    src.target = "_blank"; src.rel = "noopener"; src.textContent = "Nguồn";
+    var b = document.createElement("button");
+    b.className = "learn"; b.dataset.learn = c.dataset.id;
+    b.title = "Đánh dấu bài này đã học (lưu trong trình duyệt của bạn)";
+    b.textContent = "✓ Đã học";
+    foot.appendChild(src); foot.appendChild(b);
+    c.appendChild(foot);
+  });
+}
 // ── Tabs gọn (icon + tên + số bài) & chips chỉ hiện theo chuyên mục ──
 var tabsBox = document.getElementById("tabs"), chipsBox = document.getElementById("chips"),
     chipsHint = document.getElementById("chipsHint"), chipsMore = document.getElementById("chipsMore"),
@@ -176,7 +229,7 @@ function refreshChips(){
   var allowed = {};
   cards.forEach(function(c){
     if (c.dataset.spec !== spec) return;
-    (c.dataset.scores || "").split(/\s+/).forEach(function(s){ if (s) allowed[s] = 1; });
+    scOf(c).forEach(function(s){ allowed[s] = 1; });
   });
   var shown = [];
   Array.prototype.forEach.call(chipsBox.querySelectorAll(".chip"), function(ch){
@@ -264,10 +317,10 @@ function clearLearn(){
 function filt(){
   var s = norm(q.value.trim()), n = 0;
   cards.forEach(function(c){
-    var okS = !s || norm(c.dataset.search).indexOf(s) >= 0;
+    var okS = !s || stext(c).indexOf(s) >= 0;
     var okP = !spec || c.dataset.spec === spec;
-    var okR = !score || (" " + c.dataset.scores + " ").indexOf(" " + score + " ") >= 0;
-    var okC = !chieu || c.dataset.tags.split(" ").some(function(t){ return t.indexOf(chieu + ":") === 0; });
+    var okR = !score || scOf(c).indexOf(score) >= 0;
+    var okC = !chieu || (c.dataset.t || "").split(" ").some(function(t){ return t.indexOf(CHIEU_PFX[chieu] + ":") === 0; });
     var okL = !learnState || (learnState === "yes") === isLearned(c.dataset.id);
     var show = okS && okP && okR && okC && okL;
     c.style.display = show ? "" : "none";
@@ -321,12 +374,14 @@ document.getElementById("expLearn").addEventListener("click", exportLearn);
 document.getElementById("impLearn").addEventListener("click", importLearn);
 document.getElementById("clearLearn").addEventListener("click", clearLearn);
 function buildTable(){
-  var h = '<table class="tview"><tr><th>ID</th><th>Bài học</th><th>Tags</th><th>Chắc chắn</th><th>Tiến độ</th><th>Link</th></tr>';
+  var h = '<table class="tview"><tr><th>ID</th><th>Bài học</th><th>Tag lọc</th><th>Chắc chắn</th><th>Tiến độ</th><th>Link</th></tr>';
   cards.forEach(function(c){
     if (c.style.display === "none") return;
-    var a = c.querySelector(".ctitle"), on = isLearned(c.dataset.id);
-    h += "<tr><td>" + c.dataset.id + "</td><td>" + a.textContent + "</td><td>" + c.dataset.tags +
-         '</td><td><span class="cert">' + c.querySelector(".cert").textContent + "</span></td>" +
+    var a = c.querySelector(".ctitle"), on = isLearned(c.dataset.id),
+        meta = c.querySelector(".meta"),
+        cert = meta ? meta.textContent.split(" · ").pop() : "";
+    h += "<tr><td>" + c.dataset.id + "</td><td>" + a.textContent + "</td><td>" + tlabel(c) +
+         '</td><td><span class="cert">' + cert + "</span></td>" +
          '<td><button class="learn' + (on ? " on" : "") + '" data-learn="' + c.dataset.id + '">' + (on ? "✅ Đã học" : "✓ Đã học") + "</button></td>" +
          '<td><a href="' + a.getAttribute("href") + '">Bài học</a></td></tr>';
   });
@@ -351,6 +406,8 @@ document.getElementById("theme").addEventListener("click", function(){
   root.setAttribute("data-theme", nxt);
   try { localStorage.setItem("rad-theme", nxt); } catch(e){}
 });
+buildChips();
+decorateCards();
 cards.forEach(applyLearn);
 updateProgress();
 refreshTabs();
