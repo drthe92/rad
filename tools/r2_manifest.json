@@ -31175,7 +31175,12 @@
    "sha256": "921409bd96bf1b3a1673f09d3fb9e112355316daf70eb8a0f9ec466f882845a0",
    "size": 248374,
    "etag": "ec36caf460f9ff8d40df13de2f15d00a"
+  },
+  "3173-ung-thu-ong-hau-mon-mri-phan-do-t/images/composite_3173_phan-do-T-va-u-that.jpg": {
+   "sha256": "4c8acb97d5a3e8f9b16c845332a27cb4cbabf2c5e8b6f854531aaa7a4b33b2d2",
+   "size": 136548,
+   "etag": "b643f319dbd3b7a3c6213f44373eea16"
   }
  },
- "generated_at": "2026-11-15T08:05:46Z"
+ "generated_at": "2026-11-15T08:56:22Z"
 }
