@@ -223,6 +223,26 @@
   var imgs=[], idx=-1;
   function tf(){ im.style.transform='translate('+(tx?tx+'px':'0')+','+(ty?ty+'px':'0')+') scale('+sc+')'; }
   function reset(){ sc=1; tx=0; ty=0; tf(); }
+  function r2(v){ return Math.round(v*100)/100; }
+  // tâm ảnh khi CHƯA transform (đo theo layout: không phụ thuộc scale/transition)
+  function ctr(){
+    var w=im.offsetWidth, h=im.offsetHeight;
+    if(w&&h){ var b=lb.getBoundingClientRect();
+      return {x:b.left+lb.clientLeft+im.offsetLeft+w/2, y:b.top+lb.clientTop+im.offsetTop+h/2};
+    }
+    var q=im.getBoundingClientRect();
+    return {x:q.left+q.width/2-tx, y:q.top+q.height/2-ty};
+  }
+  // zoom neo ĐIỂM DƯỚI CON TRỎ: chi tiết đang trỏ đứng yên tại chỗ, không trôi về giữa ảnh
+  function zoomAt(s2,mx,my){
+    if(s2===sc) return;
+    var c=ctr(), k=s2/sc;
+    tx=r2((mx-c.x)*(1-k)+k*tx);
+    ty=r2((my-c.y)*(1-k)+k*ty);
+    sc=s2;
+    if(sc===1){ tx=0; ty=0; }
+    tf();
+  }
   function close(){ lb.classList.remove('open'); reset(); idx=-1; }
   // hiển thị ảnh thứ i trong danh sách ảnh của #noi-dung (thứ tự DOM);
   // src + caption + nút "Mở ảnh gốc" đổi cùng lúc, zoom/pan về 1×
@@ -262,9 +282,7 @@
   });
   im.addEventListener('wheel',function(e){
     e.preventDefault(); e.stopPropagation();
-    sc=Math.min(4,Math.max(1,sc+(e.deltaY<0?0.25:-0.25)));
-    if(sc===1){ tx=0; ty=0; }
-    tf();
+    zoomAt(Math.min(4,Math.max(1,sc+(e.deltaY<0?0.25:-0.25))),e.clientX,e.clientY);
   },{passive:false});
   function down(x,y){ if(sc<=1) return; drag={x:x,y:y,tx:tx,ty:ty}; im.classList.add('drag'); }
   function moveT(x,y){ if(!drag) return; tx=drag.tx+(x-drag.x); ty=drag.ty+(y-drag.y); tf(); }
