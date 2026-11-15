@@ -7,6 +7,7 @@ Chạy: python3 tools/build_index.py   (từ thư mục gốc repo)
 Idempotent: chạy lại vẫn cho kết quả như nhau.
 """
 import html
+import json
 import os
 import re
 import sys
@@ -17,6 +18,23 @@ try:
     import cdn
 except Exception:
     cdn = None
+
+# Ảnh thumbnail đã biên tập cho từng bài: `{unit_id: tên_file_trong_<slug>/images/}`.
+# Chép 1 lần từ các thẻ hub cũ (bản 2,58 MB trước commit 47f6e4d5) — hub KHÔNG nạp
+# lại ảnh từ lesson.md nên bảng này là nguồn duy nhất giữ đúng "ảnh cũ" của bài.
+# Bài chưa có trong bảng (worker vừa thêm) → fallback ảnh đầu tiên của lesson.md.
+HUB_THUMBS_FILE = Path(__file__).resolve().parent / "hub_thumbs.json"
+
+
+def load_thumbs():
+    try:
+        data = json.loads(HUB_THUMBS_FILE.read_text(encoding="utf-8"))
+        return {str(k): str(v) for k, v in data.items()}
+    except Exception:
+        return {}
+
+
+HUB_THUMBS = load_thumbs()
 
 # Mô tả đã chuẩn hoá cho 26 bài `primary_pattern` (rad-desc-fix-002) nằm trong
 # build_lesson_pages.PATTERN_DESC — dùng lại nguyên câu để hub KHỚP meta trang bài,
@@ -570,6 +588,34 @@ def frontmatter(path):
     return out
 
 
+def cdn_base():
+    if cdn is not None:
+        b = (cdn.load().get("base") or "").rstrip("/")
+        if b:
+            return b
+    return "https://img.matcauvong.com"
+
+
+def thumb_of(uid, slug, fm):
+    """Tên file thumbnail trong `<slug>/images/` (chỉ ảnh ĐÃ lên CDN), '' nếu không có.
+
+    Ưu tiên ảnh đã biên tập (hub_thumbs.json), thiếu thì lấy ảnh đầu của lesson.md.
+    Hub không bao giờ dùng src tương đối → ảnh chưa upload R2 thì bỏ (không có thumb).
+    """
+    def ok(fn):
+        return bool(fn) and "/" not in fn and (cdn is None or bool(cdn.public_url(f"{slug}/images/{fn}")))
+
+    fn = HUB_THUMBS.get(uid, "")
+    if ok(fn):
+        return fn
+    t = (fm.get("thumb") or "").strip()
+    if t.startswith("images/") and t.count("/") == 1:
+        cand = t[len("images/"):]
+        if ok(cand):
+            return cand
+    return ""
+
+
 def curated_copy(index_text):
     """Tiêu đề/mô tả đã biên tập trong các thẻ hiện có (neo bằng class ctitle).
 
@@ -613,6 +659,7 @@ def build_page():
     keep = curated_copy(old)
 
     recs, card_html, overviews, unclassified = [], [], [], []
+    thumbs = {}
     for d in dirs:
         fm = frontmatter(f"{d}/lesson.md")
         tags = [t.strip() for t in fm["tags"].strip("[]").split(",") if t.strip()]
@@ -637,6 +684,11 @@ def build_page():
             f'<div class="meta">{html.escape(uid)} · {spec.upper()} · {html.escape(cert)}</div>'
             f'<p>{desc}</p></li>')
         recs.append((uid, tags))
+        # Thumbnail: KHÔNG nhúng <img> vào HTML tĩnh (~262 B/thẻ); chỉ ghi tên file
+        # vào bản đồ uid→file (JSON gọn, ~65 KB) để JS chèn ảnh khi thẻ tới gần viewport.
+        th = thumb_of(uid, d, fm)
+        if th:
+            thumbs[uid] = th
         if "tong-quan" in d or "overview" in d:
             vi = fm["h1"].split(" / ")[0].strip()
             vi = re.sub(r"^\d{3}\s*[—–-]\s*", "", vi)
@@ -663,8 +715,12 @@ def build_page():
                    for v, lab in TABS)
 
     page = Path("tools/hub_template.html").read_text(encoding="utf-8")
+    # JSON nhúng trong <script>: escape `<` để không thể đóng thẻ sớm.
+    thumbs_json = json.dumps(thumbs, ensure_ascii=False, separators=(",", ":"),
+                             sort_keys=True).replace("<", "\\u003c")
     page = (page.replace("__TABS__", tabs)
                 .replace("__OVSELECT__", ov_select).replace("__CARDS__", "\n".join(card_html))
+                .replace("__THUMBS__", thumbs_json).replace("__CDNBASE__", cdn_base())
                 .replace("__N__", str(len(card_html))))
     return page, len(card_html), len(present), present
 

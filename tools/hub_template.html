@@ -51,7 +51,7 @@ select{padding:8px;font-size:14px;border:1px solid var(--line);border-radius:8px
 #count{font-size:13px;color:var(--muted)}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,380px),1fr));gap:8px;margin-top:8px;list-style:none;padding:0}
 .card{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--card);min-width:0}
-.card img{width:100%;height:140px;object-fit:cover;background:#111;border-radius:6px}
+.card img,.card .thumb{display:block;width:100%;height:140px;object-fit:cover;background:#111;border-radius:6px}
 .cid,.meta{font-size:11.5px;color:var(--muted);margin-top:2px}
 .ctitle{font-weight:600;overflow-wrap:anywhere;font-size:14.5px}
 .tag{font-size:12px;background:var(--chip);padding:2px 6px;border-radius:20px;margin:2px 4px 2px 0;display:inline-block;max-width:100%;overflow-wrap:anywhere}
@@ -88,7 +88,7 @@ footer{margin-top:24px;font-size:13px;color:var(--muted)}
   .tab,.chip{flex:0 0 auto}
   .grid{grid-template-columns:1fr;gap:10px;margin-top:6px}
   .card{padding:10px}
-  .card img{height:170px}
+  .card img,.card .thumb{height:170px}
   .ctitle{font-size:15px;line-height:1.4}
   .cert{white-space:normal}
   table.tview{min-width:620px;font-size:13px}
@@ -172,6 +172,40 @@ function buildChips(){
     frag.appendChild(b);
   });
   chipsBox.insertBefore(frag, chipsMore);
+}
+// ── Thumbnail lazy: HTML tĩnh chỉ có bản đồ uid→tên file (~65 KB), KHÔNG có
+//    1.300 thẻ ảnh (~340 KB). JS đặt ô giữ chỗ rồi chèn thẻ ảnh (loading=lazy,
+//    decoding=async) khi thẻ tới gần viewport (IntersectionObserver, lề 600 px). ──
+var THUMBS = __THUMBS__, CDNBASE = "__CDNBASE__";
+function thumbURL(c){
+  var f = THUMBS[c.dataset.id]; if (!f) return "";
+  var a = c.querySelector(".ctitle"); if (!a) return "";
+  var m = /^\/([^\/]+)\//.exec(a.getAttribute("href") || ""); if (!m) return "";
+  return CDNBASE + "/" + m[1] + "/images/" + f;
+}
+function fillThumb(box){
+  if (box.dataset.done) return;
+  box.dataset.done = "1";
+  var c = box.parentNode, t = c.querySelector(".ctitle");
+  var img = new Image();
+  img.className = "thumb";
+  img.setAttribute("loading", "lazy"); img.setAttribute("decoding", "async");
+  img.alt = t ? t.textContent : "";
+  img.onerror = function(){ if (img.parentNode) img.parentNode.removeChild(img); };
+  img.src = box.dataset.src;
+  box.parentNode.replaceChild(img, box);
+}
+var thumbIO = ("IntersectionObserver" in window) ? new IntersectionObserver(function(es){
+  es.forEach(function(e){ if (!e.isIntersecting) return; thumbIO.unobserve(e.target); fillThumb(e.target); });
+}, {rootMargin: "600px 0px"}) : null;
+function decorateThumbs(){
+  cards.forEach(function(c){
+    var src = thumbURL(c); if (!src) return;
+    var box = document.createElement("div");
+    box.className = "thumb"; box.dataset.src = src;
+    c.insertBefore(box, c.firstChild);          // ô giữ chỗ: không gây nhảy layout
+    if (thumbIO) thumbIO.observe(box); else fillThumb(box);
+  });
 }
 // Nguồn + nút "Đã học" do JS gắn (tiết kiệm ~180 B thẻ trong HTML tĩnh).
 function decorateCards(){
@@ -408,6 +442,7 @@ document.getElementById("theme").addEventListener("click", function(){
 });
 buildChips();
 decorateCards();
+decorateThumbs();
 cards.forEach(applyLearn);
 updateProgress();
 refreshTabs();
