@@ -109,6 +109,8 @@ CLASSIFY_4D = {
     "3139": "nhi",    # túi phình nhiễm khuẩn nội sọ ở trẻ (mạch máu não nhi)
     "3121": "nhi",    # nhiễm khuẩn mảnh ghép cột sống ở trẻ (cột sống – nhiễm nhi)
     "3127": "bung",   # chảy máu túi tinh (tiết niệu – sinh dục nam)
+    "3146": "msk",     # chấn thương ĐM khoeo sau trật khớp gối (cơ xương khớp – mạch)
+    "3124": "thankinh",  # coil lồi/di trú vào mạch mẹ sau coil hóa túi phình (can thiệp mạch não)
     "3128": "bung",   # lồng ruột non–non ở người lớn (tiêu hóa – cấp cứu bụng)
     "3153": "bung",   # huyết khối – tắc động mạch thận ghép cấp (ghép tạng – mạch máu)
     "3150": "bung",   # viêm gan E mạn sau ghép gan ở trẻ (ghép tạng – nhiễm)
