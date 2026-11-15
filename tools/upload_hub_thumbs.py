@@ -167,6 +167,7 @@ def main(argv=None):
     ap.add_argument("--limit", type=int)
     ap.add_argument("--jobs", type=int, default=8)
     ap.add_argument("--sample", type=int)
+    r2.load_env()  # r2_upload.py only calls load_env() in its own main(); importers must call it
     args = ap.parse_args(argv)
     if args.plan:
         return cmd_plan(args)
