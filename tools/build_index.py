@@ -60,12 +60,97 @@ try:
     import build_lesson_pages as _blp
     PATTERN_DESC = getattr(_blp, "PATTERN_DESC", {}) or {}
 except Exception:
+    _blp = None
     PATTERN_DESC = {}
 
 CERT_LABEL = {"tong-hop-y-van": "Tổng hợp y văn",
               "ca-nguyen-van": "Ca nguyên văn",
               "suy-luan": "Suy luận"}
 OV_DESC = "📚 Bài tổng quan hệ: bảng DDx bắt buộc + bài liên quan chéo."
+
+# ── Mô tả thẻ hub: câu đầy đủ từ describe() (cùng nguồn với meta trang bài) ──
+# Hub trước đây hiện "mẩu biên tập" cũ đọc từ index.html (nhiều câu vô nghĩa, vd 010
+# chỉ là tiêu đề mục 5). Nay mỗi thẻ lấy đúng câu mô tả mà `build_lesson_pages.describe()`
+# dùng cho meta description, làm sạch markdown rồi CẮT NGẮN để hub gọn:
+#   • nguồn: describe() trên thân bài TRƯỚC mục tự lượng giá (## 6 / Tự lượng giá /
+#     Bài liên quan) — câu quiz ("Ca 1 — … trước khi mở đáp án") không phải mô tả;
+#   • cắt tối đa DESC_LIMIT ký tự, TẠI RANH GIỚI TỪ (không cắt giữa từ);
+#   • ưu tiên dừng ở cuối câu (giữ dấu "." "!" "?" cuối) nếu câu đó ≥ 55 % giới hạn,
+#     còn lại cắt ở khoảng trắng cuối và thêm "…" (bỏ dấu lửng ",;:–-" trước đó).
+DESC_LIMIT = 120
+QUIZ_DESC = re.compile(r"^(?:Ca|Câu|Case|CASE)\s*\d|^Câu hỏi|trước khi mở đáp án|"
+                       r"Bấm để hiện|Ảnh trơn", re.I)
+# dòng chú thích nguồn/caption ảnh lọt vào describe() — không dùng làm mô tả thẻ
+BAD_DESC = re.compile(r"^Nguồn|Wikimedia Commons|CC BY|CC0|^\(?PMC\d|^Fig\.|"
+                      r"Wikimedia-|CCBYSA", re.I)
+LEARN_END = re.compile(r"^##\s*6\b.*$|^##\s*Tự lượng giá.*$|^##\s*Bài liên quan.*$", re.M)
+
+
+def _desc_clean(t):
+    """Bỏ markdown (đậm/nghiêng/link/ảnh/HTML) mà KHÔNG chèn khoảng trắng thừa."""
+    t = t or ""
+    t = re.sub(r"!\[[^\]]*\]\([^)]*\)", " ", t)
+    t = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", t)
+    t = re.sub(r"<[^>]+>", " ", t)
+    t = re.sub(r"\*\*(.+?)\*\*", r"\1", t)
+    t = re.sub(r"__(.+?)__", r"\1", t)
+    t = re.sub(r"\*(.+?)\*", r"\1", t)
+    t = re.sub(r"`(.+?)`", r"\1", t)
+    t = re.sub(r"\*\*|\*|`", "", t)
+    t = re.sub(r"&[a-z]+;", " ", t)
+    t = re.sub(r"[\[\]]", "", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    t = re.sub(r"\s+([,;:.!?…])", r"\1", t)
+    t = re.sub(r"([(\[])\s+", r"\1", t)
+    return t
+
+
+def cut_desc(text, limit=DESC_LIMIT):
+    """Câu mô tả hub ≤ limit ký tự, cắt ở ranh giới từ, ưu tiên giữ dấu cuối câu."""
+    t = _desc_clean(text)
+    if len(t) <= limit:
+        return t
+    best = -1
+    for mark in (". ", "! ", "? "):
+        i = t.rfind(mark, 0, limit)
+        if i > best:
+            best = i
+    if best >= int(limit * 0.55):
+        return t[:best + 1].strip()
+    head = t[:limit + 1]          # +1 để không cắt đúng giữa từ ở ký tự giới hạn
+    sp = head.rfind(" ")
+    if sp >= 40:
+        head = head[:sp]
+    head = head.rstrip()
+    if head[-1:] in ".!?":        # tình cờ dừng đúng cuối câu → giữ nguyên
+        return head
+    return head.rstrip(" ,;:–—-") + "…"
+
+
+def hub_desc(body):
+    """Mô tả thẻ hub cho một lesson.md (plain text, chưa escape HTML)."""
+    if _blp is None:
+        return ""
+    body = body or ""
+    m = LEARN_END.search(body)
+    learn = body[:m.start()] if m else body   # mục 1–5, bỏ khung tự lượng giá
+    bad = lambda t: bool(QUIZ_DESC.search(t) or BAD_DESC.search(t))
+    para, _ = _blp.describe(learn)
+    text = _blp._tidy_desc(para) if para else ""
+    if not text or bad(text):                 # câu quiz / caption nguồn → ứng viên kế
+        for c in _blp.desc_candidates(learn):
+            c2 = _blp._tidy_desc(c)
+            if c2 and not bad(c2) and len(_blp._plain_cmp(c2)) >= 55:
+                text = c2
+                break
+    if not text:
+        return ""
+    # describe() chỉ còn câu mô tả CHUNG (SITE_DESC) → để caller dùng mô tả biên tập cũ
+    if text == _blp.SITE_DESC:
+        return ""
+    return cut_desc(text)
+
+
 # Thứ tự chip RADS (LI-RADS, Lung-RADS, …) nay do JS trong tools/hub_template.html
 # dựng từ data-t — một nguồn duy nhất, không nhân đôi danh sách ở đây.
 # Tag lọc lưu trong data-t bằng prefix 1 ký tự (tiết kiệm ~1/4 dung lượng data-t).
@@ -600,6 +685,7 @@ def frontmatter(path):
         out[key] = (mm.group(1).strip().strip('"') if mm else "")
     h1 = re.search(r"^#\s+(.+)$", body, re.M)
     out["h1"] = h1.group(1).strip() if h1 else Path(path).parent.name
+    out["body"] = body  # để dựng mô tả thẻ bằng describe() (hub_desc)
     imgs = re.findall(r"!\[.*?\]\((images/[^)\s]+)\)", body)
     out["thumb"] = next((i for i in imgs if (Path(path).parent / i).exists()), "")
     return out
@@ -687,7 +773,12 @@ def build_page():
         if not spec:
             unclassified.append(uid)
         cert = CERT_LABEL.get(fm["certainty"], fm["certainty"])
-        desc = PATTERN_DESC.get(d) or k.get("desc") or OV_DESC
+        # Mô tả: 26 bài primary_pattern giữ câu PATTERN_DESC (khớp meta); 1.274 bài còn
+        # lại lấy câu describe() của trang bài, cắt ≤120 ký tự (xem hub_desc).
+        if d in PATTERN_DESC:
+            desc = html.escape(PATTERN_DESC[d])
+        else:
+            desc = html.escape(hub_desc(fm["body"])) or k.get("desc") or OV_DESC
         # Chỉ giữ tag dùng để LỌC (chiều 1–4 + điểm/RADS); vung:* không lọc nên bỏ
         # khỏi HTML — tra cứu vẫn khớp qua tiêu đề/mô tả. Prefix 1 ký tự
         # (p:/a:/t:/s:) để HTML nhẹ hơn; JS giải mã lại trong hub.
