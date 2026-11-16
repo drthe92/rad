@@ -1,0 +1,24 @@
+# Nguồn — 1491 Nang bì và đường rò bẩm sinh sống mũi ở trẻ
+
+## Nguồn dùng cho nội dung (đã đọc toàn văn)
+
+| # | Tài liệu | Dùng cho | Link |
+|---|---|---|---|
+| 1 | Quan S, He L, Geng J, Wang J. *Pediatric nasal dermoid sinus cysts: advances in pathogenesis, management strategies, and translational research — a multidisciplinary management perspective.* Front Pediatr 2025;13:1708853. **PMID 41585020 · PMC12827512 · CC BY 4.0** | Ba giả thuyết phôi thai; **~10%** lan nội sọ; **MRI độ nhạy 100%/độ đặc hiệu 95,7%** cho lan nội sọ so với CT; MRI kém nhạy khuyết xương **< 1–2 mm** → cần CT bổ sung; chuỗi xung và giới hạn (trẻ **< 6 tuổi** cần an thần); phân loại ngoài da/đường rò/lan nội sọ; vai trò MDT + định vị trong mổ; **3 ảnh (Fig. 1–3)** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12827512/ |
+| 2 | Kotowski M. *The Differential Diagnosis of Congenital Developmental Midline Nasal Masses: Histopathological, Clinical, and Radiological Aspects.* Diagnostics 2023;13(17):2796. **PMID 37685334 · PMC10486988 · CC BY 4.0** | Nang bì **≥ 60%** khối đường giữa mũi; lông ở lỗ rò **gần như đặc hiệu**; **30%** sờ thấy khối ở mốc xương–sụn; một nửa có **hypertelorism/sống mũi bè**; nhiễm **7%/năm**, **50% trước 4 tuổi**, **> 90% trước 9 tuổi**; lan nội sọ **~20% (4–57%)**, **không tương quan với vị trí lỗ rò**; **foramen caecum rộng + crista galli chẻ đôi**; **Furstenberg** dương ở EPHC; NGH **ngoài mũi 60/trong mũi 30/hỗn hợp 10%**, đường kính **1–7 cm (TB 2,4 cm)**, dải xơ tới màng não **15–20%**; **2 ảnh (Fig. 1, Fig. 4–5)** | https://pmc.ncbi.nlm.nih.gov/articles/PMC10486988/ |
+| 3 | Kotowski M, Adamczyk P, Szydlowski J. *Nasal Dermoids in Children: Factors Influencing the Distant Result.* Indian J Otolaryngol Head Neck Surg 2022;74(Suppl 2):1412–1419. **PMID 36452575 · PMC9702314 · CC BY 4.0** | Dịch tễ **1/20.000–40.000 trẻ sinh sống**, nang bì **~60%**; bất thường sọ mặt kèm **0–41%**; lan nội sọ **4–57%**; tái phát **5,5–12%**, cắt không trọn **50–100%**; loạt **24 trẻ**: Hartley I **11**/II **7**/III **6**, lan nội sọ **25%**, rò dịch não tủy trong mổ **8,3% (2/24)**, cắt xương chỉnh hình **37,5% (9/24)**, tái phát **8,3% (2/24)** trong **12–18 tháng** | https://pmc.ncbi.nlm.nih.gov/articles/PMC9702314/ |
+| 4 | Yılmaz Topçuoğlu MS, Plinkert PK, Seitz A, El Damaty A, Bächli H, Baumann I. *A Retrospective Single-Center Study in 20 Patients With Midline Nasal Masses: Which Site Has the Highest Risk of Intracranial Extension?* Ann Otol Rhinol Laryngol 2025;134(3):218–224. **PMID 39610364 · PMC11806645 · CC BY 4.0** | **20 bệnh nhân/22 khối**: NDSC **80%**, hamartoma **10%**, u quái **5%**, nang biểu bì **5%**; lan nội sọ **23%** (4 ngoài màng não/1 trong màng não), trong xương **50%**, ngoài da **27%**; **mổ lại 20% (4/20)**, trung vị **6 tháng** (3–45); MRI trước mổ **80%**; u quái trưởng thành **< 1%** ác tính | https://pmc.ncbi.nlm.nih.gov/articles/PMC11806645/ |
+| 5 | Ni K, Li X, Zhao L, Wu J, Liu X, Shi H. *Diagnosis and treatment of congenital nasal dermoid and sinus cysts in 11 infants: A consort compliant study.* Medicine (Baltimore) 2020;99(21):e19435. **PMID 32481248 · PMC7249947 · CC BY 4.0** | **11 nhũ nhi**, tuổi trung bình **19 tháng** (nhỏ nhất **10 tháng**); thể I **3**/II **5**/III **2**/IV **1**; chọn đường mổ theo 4 thể | https://pmc.ncbi.nlm.nih.gov/articles/PMC7249947/ |
+| 6 | Bishop R, Sheehan C, Walz P, Kern C, Elmaraghy C. *Management of infected nasal dermoid cysts and sinuses.* J Surg Case Rep 2021;2021(4):rjab041. **PMID 33854757 · PMC8024045 · CC BY 4.0** | **14 ca nhi** có tiền sử nhiễm: **28,5% (4/14)** nhiễm tái phát phải mổ thêm; **3/7** ca nhiễm cần **rạch dẫn lưu** trước khi cắt trọn; nhiễm trước mổ **không làm tăng** tỉ lệ tái phát | https://pmc.ncbi.nlm.nih.gov/articles/PMC8024045/ |
+
+## Nguồn tham khảo thêm (không tải ảnh, không dùng số liệu trực tiếp)
+
+- Phân loại **Hartley** (ngoài da – trong xương – nội sọ ngoài màng não – nội sọ trong màng não) và mốc **foramen caecum/fonticulus frontalis** — đọc qua phần dẫn của nguồn 1, 3, 5; bản gốc không mở trong lượt này.
+- Số liệu **Furstenberg** và **dấu hiệu lâm sàng EPHC/NGH** — trích lại trong nguồn 2; không đọc bản gốc.
+
+## Ghi chú về độ chắc chắn
+
+- **Tỉ lệ lan nội sọ không thống nhất:** **~10%** (nguồn 1) vs **~20%** và dải **4–57%** (nguồn 2, 3) vs **25%** (loạt 24 trẻ, nguồn 3) vs **23%** (loạt 20 bệnh nhân, nguồn 4). Bài giữ **dải 4–57%, thường gặp ~10–25%** và nêu rõ nguồn; **không** dùng một con số duy nhất để quyết định mổ.
+- **Không có thử nghiệm ngẫu nhiên** so sánh các đường mổ; các ngưỡng "cắt trọn + màng xương" là **thực hành tổng hợp** từ các loạt quan sát.
+- Các loạt đều **hồi cứu, đơn trung tâm**, cỡ mẫu **11–24** → khoảng tin cậy rộng; bài đã ghi bối cảnh từng con số.
+- **Ảnh:** chỉ dùng hình của bài **mở truy cập** có giấy phép ghi rõ (**CC BY 4.0**); xem `images/CREDITS.md`.

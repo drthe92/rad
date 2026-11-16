@@ -2532,3 +2532,5 @@
 ## 2026-11-16 — worker (bài 1878)
 - **1878 MHRD** (bong võng mạc do lỗ hoàng điểm mắt cận thị nặng): RCT 49 mắt thất bại **4,00% đai vs 25,00% PPV** (p = 0,04), đóng lỗ **64,00% vs 58,33%** (p = 0,45), thị lực không khác; vạt ILM đảo **95,24% vs 41,67%** + gliosis **42,9%**; gộp 373 BN RR đóng **1,71**/áp **1,19**; MSS **20/12/3 tháng**; 5 ảnh (4 CC BY + 1 CC BY-NC), không composite (hình nhiều ô có nhãn nội bộ).
 - Flip #9450 → xong; append **#2213 (ID 1493)** — biến chứng đai hoàng điểm & khi nào tháo. Verify 7/7 PASS, 1315 bài / 1315 card.
+- 2026-11-16 · bài **1491** (nang bì/đường rò bẩm sinh sống mũi ở trẻ) — 5 ảnh + 1 composite CC BY 4.0; lan nội sọ 4–57%, tái phát 5,5–12% vs cắt không trọn 50–100%; verify PASS 7/7.
+- 2026-11-16 · backlog: flip #2203 → xong (1491); append #2214 (ID 1494, CVI) đã check_duplicates.
