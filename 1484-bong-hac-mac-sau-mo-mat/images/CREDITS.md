@@ -1,0 +1,20 @@
+# CREDITS — ảnh bài 1484 (Bong hắc mạc thanh dịch & xuất huyết dưới hắc mạc sau mổ mắt)
+
+Mỗi ảnh ghi rõ: file trong repo, hình gốc, bài gốc (PMCID), giấy phép, phái sinh (nếu có).
+
+| File | Hình gốc | Bài gốc | Giấy phép | Phái sinh |
+|---|---|---|---|---|
+| `1484_bong-hac-mac_US-UBM_PMC11208247.jpg` | Fig. 1 — "Ciliochoroidal detachment in an 83-year-old patient 3 months after Ahmad glaucoma valve surgery, as demonstrated by B-scan ultrasonography (a) and ultrasound biomicroscopy (b). C = choroidal detachment. Arrows indicate the ciliary body detachment" | *Int Ophthalmol* 2024, PMCID **PMC11208247** — https://pmc.ncbi.nlm.nih.gov/articles/PMC11208247/ | **CC BY 4.0** | Nguyên bản (giữ nhãn a/b, chữ C và mũi tên), không crop, không ghép |
+| `1484_bong-hac-mac_US-Bscan-serous-vs-SCH_PMC11766375.jpg` | Fig. 1 — "Choroidal detachment, (A) serous choroidal detachment (red arrow), (B) Suprachoroidal Hemorrhage (red arrow)" | *Clin Ophthalmol* 2025, PMCID **PMC11766375** — https://pmc.ncbi.nlm.nih.gov/articles/PMC11766375/ | **CC BY-NC 4.0** | Nguyên bản (giữ nhãn A/B và mũi tên đỏ), không crop, không ghép |
+| `1484_bong-hac-mac_US-Bscan-triangle_PMC11766375.jpg` | Fig. 5 — "'Triangle' sign differentiates between total RD & CD, (A) total serous CD shows a small 'Triangle' sign (left arrow), (B) total RD does not shows 'Triangle' sign (right arrow)" | *Clin Ophthalmol* 2025, PMCID **PMC11766375** — https://pmc.ncbi.nlm.nih.gov/articles/PMC11766375/ | **CC BY-NC 4.0** | Nguyên bản (giữ nhãn A/B và mũi tên), không crop, không ghép |
+| `1484_bong-hac-mac_US-Bscan-kissing_PMC12542795.jpg` | Fig. 3 — "(A) POD 9 slit-lamp image showing large serous choroidals… and B-scan suggesting non-resolved kissing choroidals. (B) POD 13 showing regression… (C) POD 20, showing further resolution. (D) POD 32, showing no visible choroidals on slit lamp and only peripheral choroidals on B-scan…" | *Am J Case Rep* 2025, PMCID **PMC12542795** — https://pmc.ncbi.nlm.nih.gov/articles/PMC12542795/ | **CC BY-NC-ND 4.0** | Nguyên bản, **không phái sinh** (giấy phép ND: không crop/ghép/chỉnh sửa), giữ nguyên nhãn A–D |
+| `1484_bong-hac-mac_US-Bscan_PMC12041713.jpg` | Fig. 1 — "B-mode ultrasound imaging indicates the recovery process after SCH through vitrectomy combined with scleral drainage… (a) first day after surgery… (b) seventh day… (c) seventh day, vitrectomy was performed in combination with scleral drainage… (d) three weeks after surgery, the residual subretinal and choroidal hemorrhages were completely absorbed" | *J Int Med Res* 2025, PMCID **PMC12041713** — https://pmc.ncbi.nlm.nih.gov/articles/PMC12041713/ | **CC BY-NC 4.0** | Nguyên bản (giữ nhãn a–d), không crop, không ghép |
+| `1484_bong-hac-mac_US-Bscan-Tsign_PMC9302307.jpg` | Fig. 5 — "Presence of T-sign. The fluid distends the tenon capsule and space with peri-optic edema because of severe inflammation of the sclera" | *Medicine (Baltimore)* 2022, PMCID **PMC9302307** — https://pmc.ncbi.nlm.nih.gov/articles/PMC9302307/ | **CC BY 4.0** | Nguyên bản (giữ nguyên thang đo trên ảnh), không crop, không ghép |
+
+## Ghi chú
+- **6 ảnh tải được**, tất cả là **siêu âm B-scan/UBM** — đúng modality chốt của bài; **không có ảnh CT/MRI** vì nguồn mở tìm được chỉ có B-scan (bài ghi rõ chỗ thiếu thay vì dùng ảnh không rõ giấy phép).
+- **4 ảnh CC BY 4.0 / CC BY-NC 4.0** (PMC11208247, PMC11766375 ×2, PMC12041713, PMC9302307): dùng cho học tập, ghi nguồn đầy đủ, giữ nguyên nhãn và chú giải.
+- **1 ảnh CC BY-NC-ND 4.0** (PMC12542795): dùng **phi thương mại**, **giữ nguyên bản** — không crop, không ghép composite.
+- **Không tạo ảnh ghép (composite)**: 6 ảnh thuộc **6 bệnh nhân khác nhau**, 2 giấy phép khác nhau và có 1 ảnh **ND** (cấm phái sinh) → ghép sẽ **vi phạm giấy phép** và làm mất chú giải gốc.
+- **Tên tác giả KHÔNG ghi**: attribution dùng **tạp chí + năm + PMCID** (đối chiếu Europe PMC ngày 2026-11-16), đúng quy tắc trung thực nguồn của repo.
+- Ảnh tải từ **PMC CDN** (`cdn.ncbi.nlm.nih.gov/pmc/blobs/...`), đúng file figure gốc; không chỉnh nội dung.
