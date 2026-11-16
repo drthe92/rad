@@ -272,6 +272,7 @@ CLASSIFY_4D = {
     "1893": "nguc",      # thoát vị hoành sau cắt thực quản (PEHH / paraconduit hernia)
     "1868": "thankinh",  # động kinh sau xuất huyết não & sau nhồi máu não
     "1460": "mat",       # viêm giác mạc do nấm (Fusarium/Aspergillus/Candida)
+    "1991": "mat",       # rò bọng lọc muộn & viêm nội nhãn liên quan bọng (glôcôm – bọng)
     "1461": "mat",       # áp-xe dưới màng xương hốc mắt ở trẻ (Chandler III)
     "1462": "mat",       # sinh trắc & công suất IOL ở mắt đã ghép giác mạc
     "1853": "bung",      # rò – hoại tử tá tràng mảnh ghép sau ghép tụy
