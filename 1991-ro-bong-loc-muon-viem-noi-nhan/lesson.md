@@ -223,7 +223,7 @@ flowchart TD
 
 - **Dấu hiệu:** (a) **Seidel dương** ở một điểm nhỏ, dòng xanh mảnh; (b) **nhuộm kết mạc bằng bút dạ phẫu thuật** (màu hồng) làm lộ **HAI lỗ sát nhau** (mũi tên vàng); (c) hình fluorescein xác nhận dòng rò; (d) sau khâu: **bọng căng trở lại**.
 - **Vì sao khó thấy:** lỗ rò nằm ở **đường vào kim phía sau bọng**, không ở đỉnh bọng; bọng vẫn cao nên **che khuất**; rò chậm nên **không thành tia**.
-- **Chẩn đoán:** **rò ở điểm vào kim sau needling** — biến chứng của chính thủ thuật needling (kỹ thuật needling sẽ bàn ở mục hàng chờ 1992, chưa viết).
+- **Chẩn đoán:** **rò ở điểm vào kim sau needling** — biến chứng của chính thủ thuật needling (kỹ thuật needling đã có bài riêng: [1992 — Needling bọng lọc + 5-FU/MMC](../1992-needling-bong-loc-sau-trabeculectomy/lesson.md)).
 - **Xử trí:** **khâu chính xác hai lỗ** (10-0 nylon); sau đó bọng căng lại, IOP hồi phục. Trước khi khâu: **loại trừ nhiễm** và **đánh giá tiền phòng**.
 - **Nguồn ảnh:** Lambat SP et al., *Indian J Ophthalmol* 2025 (PMC12507186), Fig. 1, **CC BY-NC-SA 4.0** — nguyên bản.
 </details>
