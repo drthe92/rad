@@ -2494,3 +2494,6 @@
 - Viết **1879** (màng đứt hoàng điểm sau mổ bong võng mạc: theo dõi vs mổ): tự đóng **5–18%**, MLD **128–162 vs 387–589 µm**, tái mở **71%**, PFCL **16% vs 0%**, CME **75,9% vs 9,1%**; 3 ảnh (CC BY / BY-NC-ND), flip #2120 → xong, append **#9450 (1878 — MHRD mắt cận thị nặng)**.
 - **2026-11-16** — bài **1483** (nang túi lệ bẩm sinh & tắc lệ đạo ở trẻ): bộ ba CT, 0,02–0,2% sơ sinh, nhiễm 50,85% (nang mũi aOR 5,07), tự khỏi 76%/2 tuần, nong 100%, mở nang mũi tái phát 9%; 6 ảnh + 1 composite (CC BY 4.0/3.0, CC BY-NC 3.0).
 - Flip #2104; append 1 mục mới (#2203, ID 1491 — nang bì/đường rò vùng mũi–hốc mắt). Verify PASS 7/7 (1304 bài/1304 card).
+## 2026-11-16 — bài 1478 (dự phòng phù hoàng điểm sau phaco bằng NSAID)
+- Nguồn: Cochrane 2016 (34 RCT, RR 0,40; thị lực RR 0,41, bằng chứng thấp) + RCT 1.000 mắt (8,77% vs 2,17%, lợi ích chỉ ở nhóm nguy cơ) + PREMED 1–2 + 1.325/226 mắt + ca tan giác mạc ngày 5 (PMC8772489). 3 ảnh: CC BY 4.0 (ghép 2 biểu đồ), CC BY-NC 3.0, CC BY-NC-SA 4.0.
+- Flip #2075 → xong; thêm hàng #2205 (1484 bong/xuất huyết trên hắc mạc). R2 SKIP (thiếu r2.env) → ảnh giữ local.
