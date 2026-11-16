@@ -275,6 +275,7 @@ CLASSIFY_4D = {
     "1991": "mat",       # rò bọng lọc muộn & viêm nội nhãn liên quan bọng (glôcôm – bọng)
     "1992": "mat",       # needling bọng lọc + 5-FU/MMC sau trabeculectomy (glôcôm – bọng)
     "1993": "mat",       # thất bại needling: repeat trab vs van dẫn lưu (Ahmed/Baerveldt)
+    "1996": "mat",       # tắc & tụt ống van dẫn lưu glôcôm (tube occlusion/retraction)
     "1461": "mat",       # áp-xe dưới màng xương hốc mắt ở trẻ (Chandler III)
     "1462": "mat",       # sinh trắc & công suất IOL ở mắt đã ghép giác mạc
     "1853": "bung",      # rò – hoại tử tá tràng mảnh ghép sau ghép tụy

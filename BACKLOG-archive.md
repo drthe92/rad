@@ -2542,3 +2542,6 @@
 ## 2026-11-16 — worker (bài 1485)
 - **1485 viêm túi lệ cấp & áp-xe túi lệ ở người lớn**: vách hốc mắt là mốc (ra sau vách → áp-xe ngoài nón **4,7 × 2,0 × 2,1 cm**, nhãn áp **50 mmHg**, mù); **DCR nội soi ≤ 3 ngày 87,8%/82,9%**, viện **4,6 vs 7,0 ngày**; bẫy u lan trên dây chằng **8/9**, ADR, mucor; 6 ảnh (4 CC BY, 2 CC BY-NC-ND). R2 SKIP.
 - Flip #2206 → xong; append **#2216 (ID 1496)** — tắc lệ đạo mắc phải sau chấn thương/mổ xoang (đã check_duplicates). Verify PASS 7/7, 1318 bài/1318 card.
+## 2026-11-16 — worker (bài 1996)
+- **1996 tắc & tụt ống van dẫn lưu glôcôm**: biến cố ống **16/144 (11,1%)**, bít **11/81 (13,6%)** với **10/11 đầu ống**; AS-OCT/UBM định vị; YAG mống mắt **36 → 12** vs dịch kính **32 → 28 mmHg**; tái định vị khi **ECD < 1.000/mm² + mất > 50%** (12,66% vs 0%).
+- Flip #2207 → xong; append **#2217 (ID 3206)** — bọng căng sau van (encapsulated bleb/pha tăng áp), đã check_duplicates.
