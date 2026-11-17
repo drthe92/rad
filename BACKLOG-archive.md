@@ -2569,3 +2569,5 @@
 - 2026-11-17 — verify PASS 7/7 (1325 bài / 1325 card, parity 0, selfcheck warn 15 legacy); flip #2212 → xong; append #2223 (ID 1498 — B-scan trước phaco).
 - **2026-11-17 — bài 1493** (biến chứng đai hoàng điểm): viết mới, 4 ảnh CC BY 4.0 (MRI/ B-scan / implant / OCT); chốt ngưỡng tháo đai: nhiễm tháo ngay, không nhiễm chờ ≥ 3 tháng (tái bong 11%, 3/4 ca khi tháo < 1 tháng), song thị > 6 tháng mới cân nhắc.
 - **2026-11-17 — BACKLOG**: flip #2213/1493 → xong; append #2118/1499 (song thị–lác sau mổ bong võng mạc không do đai) đã check_duplicates.
+- 2026-11-17 — bài **1494** (CVI/mù vỏ não ở trẻ): 72 trẻ bại não+PVL (cố định 71%, liếc nhanh 80,5%, thị lực 65,3%); PVL độ 3 → 74% vs độ 2 15%; TZM vs PVL; fMRI 4/24 không hoạt hóa; 4 ảnh CC BY-NC-SA 4.0/BY-NC 3.0.
+- 2026-11-17 — BACKLOG: flip #2214/1494 → xong; append #2224/1500 (viêm mô tế bào hốc mắt & SPA ở trẻ) đã check_duplicates.
