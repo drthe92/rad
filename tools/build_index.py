@@ -188,6 +188,7 @@ CLASSIFY_4D = {
     "3115": "vuspk",   # FNAIT – xuất huyết nội sọ thai nhi (sản khoa – thai)
     "1466": "nhi",     # phù bạch huyết bẩm sinh ở trẻ (Milroy–Meige)
     "1467": "mat",     # màng trước võng mạc (ERM) – 4 giai đoạn Govetto
+    "1492": "mat",     # PCO sau phacovitrectomy – YAG, năng lượng và nguy cơ bong võng mạc
     "1469": "mat",     # bong võng mạc có lỗ sau tiêm nội nhãn (IVARD)
     "3138": "dauco",   # hoại tử xương hàm dưới sau xạ trị (hàm mặt – đầu cổ)
     "3143": "vuspk",   # mất xương do ức chế buồng trứng + AI ở phụ nữ tiền mãn kinh (DXA/AIBL)

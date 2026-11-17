@@ -2558,3 +2558,4 @@
 ## 2026-11-17 — worker (bài 6211)
 - **6211 đục trục quang (VAO) sau mổ TTT bẩm sinh**: bao sau nguyên = gần như chắc chắn đục, **cắt bao sau không cắt dịch kính trước → 60%**; nhũ nhi < 4 tháng có IOL mổ lại **72% vs 16%**, màng đồng tử **40% vs 7%**; IOL < 2 tuổi **~40%**; hình thái **tăng sinh 54,5 / xơ 33,3 / hỗn hợp 12,1%**, trung vị **6 tháng (1–22)**; YAG trẻ **78 xung × 1,0–2,0 mJ (~115 mJ)**, tái phát **23–30%**, IOP **15%**; 8 ảnh + 1 composite (5 CC BY + 3 CC BY-NC-SA).
 - Flip #2219 → xong; append **#2220 (ID 6213)** — đục thể thủy tinh do chấn thương ở trẻ (CT, dị vật, thời điểm mổ), đã check_duplicates; **6211 vào CLASSIFY_4D = mat**; R2 SKIP (chưa có r2.env) nên ảnh giữ local.
+- 2026-11-17: bài **1492** (PCO sau phacovitrectomy, YAG: 27,41%/6 năm; khe IOL–bao 25,4 vs 112,1 µm → 14,20 vs 5,75 mJ/mm²; < 1,8 mJ/nhát; bong VM p = 0,95) — 6 ảnh CC BY/CC BY-NC-SA/ND.
