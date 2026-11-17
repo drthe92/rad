@@ -2572,3 +2572,5 @@
 - **2026-11-17 — BACKLOG**: flip #2213/1493 → xong; append #2118/1499 (song thị–lác sau mổ bong võng mạc không do đai) đã check_duplicates.
 - 2026-11-17 — bài **1494** (CVI/mù vỏ não ở trẻ): 72 trẻ bại não+PVL (cố định 71%, liếc nhanh 80,5%, thị lực 65,3%); PVL độ 3 → 74% vs độ 2 15%; TZM vs PVL; fMRI 4/24 không hoạt hóa; 4 ảnh CC BY-NC-SA 4.0/BY-NC 3.0.
 - 2026-11-17 — BACKLOG: flip #2214/1494 → xong; append #2224/1500 (viêm mô tế bào hốc mắt & SPA ở trẻ) đã check_duplicates.
+- 2026-11-17 — **nâng cấp 449** (chấn thương hở nhãn cầu trên CT): thêm BETT + Zone I–III, sens/spec gộp 77%/94% (AUC 0,91; 917 mắt), 20% ca chỉ một dấu, thang CT A+P+G 0–10, 7 ảnh CT mới (CC BY / BY-NC / BY-NC-SA).
+- 2026-11-17 — BACKLOG: flip #2215/1495 → gộp (trùng 449); append #2225/1501 (chấn thương thị thần kinh) đã check_duplicates.

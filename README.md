@@ -135,7 +135,7 @@ Xem `AGENTS.md`. ID folder không bao giờ đánh lại số. Mỗi bài ghi nh
 | 446 | [Phù hoàng điểm viêm](446-phu-hoang-diem-viem/lesson.md) | `pattern:phu-hoang-diem-viem` `vung:hoang-diem` `protocol:OCT-hoang-diem` |
 | 447 | [Hội chứng đốm trắng](447-dom-trang-vong-mac/lesson.md) | `pattern:dom-trang-vong-mac` `vung:vong-mac-hac-mac` `protocol:FAF-OCT` |
 | 448 | [U hắc mạc](448-u-hac-mac/lesson.md) | `pattern:u-hac-mac` `vung:hac-mac` `protocol:US-MRI-hac-mac` |
-| 449 | [Chấn thương mắt & IOFB](449-chan-thuong-mat-dich-vat/lesson.md) | `pattern:chan-thuong-mat` `vung:nhan-cau-hoc-mat` `protocol:CT-1mm` |
+| 449 | [Chấn thương hở nhãn cầu trên CT: BETT, 5 dấu chốt, thang CT 0–10 & OTS](449-chan-thuong-mat-dich-vat/lesson.md) | `pattern:vo-nhan-cau` `pattern:mat-the-tich` `pattern:khi-noi-nhan` `pattern:di-vat-noi-nhan` `vung:mat` `protocol:CT-hoc-mat-1mm` `score:CT-OGI` `score:OTS` |
 | 450 | [Mắt nhi](450-mat-nhi/lesson.md) | `pattern:xuat-tiet-nhi` |
 | 451 | [Biểu hiện mắt của bệnh hệ thống (sarcoid/GPA/IgG4/lymphoma)](451-he-thong-mat/lesson.md) | `pattern:toan-than-mat` `vung:hoc-mat` `score:IgG4` `protocol:CT-MRI-hoc-mat` `protocol:sinh-thiet` |
 | 452 | [Hoại tử võng mạc cấp (ARN) & CMV retinitis](452-hoai-tu-vong-mac-ARN-CMV/lesson.md) | `pattern:hoai-tu-vong-mac` `vung:vong-mac` `protocol:PCR-dich-thuy` `protocol:widefield` |
