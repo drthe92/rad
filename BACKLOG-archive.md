@@ -2566,3 +2566,6 @@
 - 2026-11-17 · flip #2211 → xong; append #2222 (ID 3208 band keratopathy, đã check_duplicates).
 - 2026-11-17 — bài **429** (Đo AL bằng MRI/CT khi sinh trắc quang và A-scan thất bại): nguồn BMC 2022 (PMC8817515), PLoS One 2026 (PMC13327317), BJO 2002 (PMC1770965), BMC 2025 (PMC11883950), FRSS (PMID 33619690); 1 sơ đồ CC0 "bốn con số" + composite Fig1+Fig2 + 1 ảnh CT nguyên bản (CC BY-NC-ND).
 - 2026-11-17 — verify PASS 7/7 (1325 bài / 1325 card, parity 0, selfcheck warn 15 legacy); flip #2212 → xong; append #2223 (ID 1498 — B-scan trước phaco).
+
+- **2026-11-17 — bài 1493** (biến chứng đai hoàng điểm): viết mới, 4 ảnh CC BY 4.0 (MRI/ B-scan / implant / OCT); chốt ngưỡng tháo đai: nhiễm tháo ngay, không nhiễm chờ ≥ 3 tháng (tái bong 11%, 3/4 ca khi tháo < 1 tháng), song thị > 6 tháng mới cân nhắc.
+- **2026-11-17 — BACKLOG**: flip #2213/1493 → xong; append #2118/1499 (song thị–lác sau mổ bong võng mạc không do đai) đã check_duplicates.
