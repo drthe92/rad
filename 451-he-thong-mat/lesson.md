@@ -148,6 +148,7 @@ flowchart TD
 - [424 – Tuyến lệ: viêm vs u](../424-tuyen-le/lesson.md) (IgG4, sarcoid dacryoadenitis)
 - [421 – Lồi mắt Graves](../421-loi-mat-Graves/lesson.md) (TED — chừa gân)
 - [435 – GCA & AAION vs NAION](../435-gca-va-naion-aion/lesson.md) (viêm mạch lớn người già)
+- [429 – Đo AL bằng MRI/CT khi sinh trắc thất bại](../429-do-truc-nhan-cau-bang-mri-ct/lesson.md) (khi mắt đục dày/bơm dầu, khí: đo bằng mm hình học)
 
 ## Ảnh
 - `451_sarcoid-lacrimal-gland_CT_PMC10696406-Fig2-CCBY.jpg`, `451_sarcoid-hach-trung-that_CT_PMC10696406-Fig3-CCBY.jpg` — Saifi M et al., Cureus 2023 (PMCID: PMC10696406), CC BY 4.0.
