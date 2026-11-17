@@ -206,6 +206,7 @@ CLASSIFY_4D = {
     "6194": "mat",    # IIH ở trẻ — thần kinh–nhãn khoa, xếp tab Mắt theo AGENTS
     "6210": "mat",    # bong võng mạc sau mổ đục thể thủy tinh bẩm sinh ở trẻ — mắt (nhi–võng mạc)
     "6211": "mat",    # đục trục quang (VAO) sau mổ đục thể thủy tinh bẩm sinh — mắt (thể thủy tinh nhi)
+    "6213": "mat",    # đục thể thủy tinh do chấn thương ở trẻ — mắt (chấn thương nhi)
     "6185": "msk",    # vỡ chuôi khớp háng nhân tạo — thất bại mỏi của implant
     "3145": "nhi",    # chấn thương tụy kín ở trẻ (chấn thương – tiêu hóa nhi)
     "1940": "bung",   # sỏi sót/tái phát & sỏi rơi sau cắt túi mật (gan mật)
