@@ -19,10 +19,10 @@ certainty: tong-hop-y-van
 
 ### 1.1 Ống XEN là gì — và vì sao lòng 45 µm là con dao hai lưỡi
 
-- XEN45 Gel Stent: **dài 6 mm**, đường kính lòng **45 µm**, làm bằng **gelatin chiết từ lợn** (hydrophilic, mềm, phân hủy sinh học rất chậm); XEN63 có lòng **63 µm**; loại **140 µm** từng thử nhưng không còn dùng rộng (Wy 2023; Millá Griñó 2026).
+- XEN45 Gel Stent: **dài 6 mm**, đường kính lòng **45 µm**, làm bằng **gelatin chiết từ lợn liên kết ngang bằng glutaraldehyde để chống phân hủy sau cấy**; XEN63 có lòng **63 µm**; loại **140 µm** từng thử nhưng không còn dùng rộng (Wy 2023; Millá Griñó 2026).
 - Ống đi từ **góc tiền phòng**, xuyên củng mạc, ra **khoảng dưới kết mạc**. Đầu trong nằm **trước bè củng mạc**, đầu ngoài **3 mm sau rìa giác mạc** (kỹ thuật ab interno) — vì vậy trên AS-OCT phải tìm ống **trong củng mạc và dưới kết mạc**, không chỉ trong tiền phòng.
 - **Vật lý quyết định thiết kế:** trở lực lòng ống theo **Poiseuille R = 8µL/(πr⁴)**. Giảm đường kính từ 63 xuống 45 µm (tỉ lệ bán kính **1,4**) làm trở lực tăng **1,4⁴ ≈ 3,8 lần** (**suy luận** từ công thức, không phải số đo). Đó là lý do XEN45 được thiết kế để **tự hạn chế lưu lượng** và tránh hạ áp quá mức, còn XEN63 hạ áp sâu hơn nhưng **nguy cơ hạ áp cao hơn** (Millá Griñó 2026).
-- **Hệ quả lâm sàng:** cùng một cục fibrin, một sợi máu hay một mảnh vỏ thể thủy tinh có thể bít **hoàn toàn** lòng 45 µm — trong khi với ống van 0,30 mm của [1996](../1996-tac-tut-ong-van-dan-luu-glaucoma/lesson.md) phải có **màng fibrin dày** mới đủ tăng trở lực. Ống càng nhỏ, **ngưỡng bít càng thấp**.
+- **Hệ quả lâm sàng:** một cục fibrin, một sợi máu hay một mảnh vỏ thể thủy tinh có thể bít **hoàn toàn** lòng 45 µm. Ống càng nhỏ, **ngưỡng bít càng thấp** — lòng 45 µm gần như không có "dư địa" cho một lớp fibrin mỏng.
 
 ### 1.2 Ba điện trở nối tiếp — và vì sao phải định vị đúng tầng
 
@@ -162,7 +162,8 @@ flowchart TD
 | Đường kính lòng | **45 µm** | **63 µm** |
 | Trở lực (theo Poiseuille, r⁴) | Cao hơn | **Thấp hơn ~3,8 lần** (suy luận từ công thức) |
 | Hạ áp | Ít sâu hơn | **Sâu hơn** |
-| Nguy cơ hạ áp / rò quanh ống | Thấp hơn | **Cao hơn** (tổng quan) |
+| Hạ áp quá mức | Thấp hơn (lòng nhỏ, trở lực cao) | **Cao hơn** |
+| Rò quanh ống (peritubular leak) | Cao hơn | **Thấp hơn** (tổng quan) |
 | Needling / sửa bọng | **53,9%** needling, **17,8%** mổ mở (đoàn hệ XEN45) | Báo cáo **10–41%** needling/revision (XEN63, 20 mắt) |
 
 - **Vì sao phải biết cỡ lòng khi đọc AS-OCT:** cùng một "bọng dẹt", XEN63 có thể vẫn đủ lưu lượng qua lòng rộng hơn trong khi XEN45 đã bị bít hoàn toàn bởi cục fibrin nhỏ. **Không suy ra mức tắc từ hình ảnh bọng** — phải soi góc và đo IOP.
