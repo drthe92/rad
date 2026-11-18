@@ -1,7 +1,8 @@
 # Mục 7 — Câu hỏi nghiên cứu & điểm chưa đồng thuận (bản nháp Pha 0–1)
 
-> **Chưa bắt buộc.** Chỉ dùng cho 5 bài thử; chưa đưa vào `verify_all` hay prompt cron
-> cho đến khi được duyệt.
+> **Đã chốt (Pha 1):** bắt buộc cho **bài mới**; `verify_all` có cổng `research`.
+> Bài cũ chỉ kiểm khi đã có mục 7 (không bắt buộc backfill). Không đặt ngân sách
+> thời gian cứng, nhưng không được bịa tranh cãi.
 
 ## Vị trí
 

@@ -7,7 +7,7 @@ Vì sao: worker chạy 4 script rời (selfcheck / lint / mermaid / author) như
 lưu lại "lượt này đã chạy cổng nào, kết quả gì" → không đo được độ lệch giữa các
 lượt (bài tăng mà card index không tăng, PMCID không tra được, cổng bị bỏ qua).
 
-Script này KHÔNG thêm luật nội dung: nó gọi đúng 4 cổng sẵn có + kiểm parity hub
+Script này KHÔNG thêm luật nội dung: nó gọi đúng 8 cổng sẵn có + kiểm parity hub
 (folder ↔ card index), cộng vài chỉ số đối chiếu (BACKLOG, ảnh) để theo dõi xu hướng.
 `--only` chạy một phần → in PARTIAL PASS và ghi `partial: true` vào log.
 
@@ -40,6 +40,9 @@ GATES = {
     "hub": ["tools/build_index.py", "--check"],
     # trang tĩnh SEO/GEO: index.html từng bài, canonical, JSON-LD, sitemap
     "static": ["tools/check_static_pages.py", "--quiet"],
+    # mục 7: câu hỏi nghiên cứu/điểm chưa đồng thuận (chỉ kiểm bài đã có mục;
+    # worker chạy --strict cho bài mới)
+    "research": ["tools/check_research_questions.py"],
 }
 ALL_CHECKS = list(GATES) + ["index"]
 

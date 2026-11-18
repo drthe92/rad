@@ -10,6 +10,7 @@ anatomical_location: "phổi (lung)"
 primary_pattern: "nốt (nodule)"
 tags: [pattern:not, vung:phoi, score:Lung-RADS, protocol:Fleischner, incidentaloma:not-phoi]
 certainty: tong-hop-y-van  # ca-nguyen-van / tong-hop-y-van / suy-luan + ghi vì sao ở đầu bài
+research_asof: "2026-11"  # tháng rà soát mục 7; cập nhật khi rà lại
 sources: [Radiopaedia, RadiologyAssistant, Eurorad]
 ---
 ```
@@ -66,6 +67,21 @@ flowchart TD
 </details>
 
 **Ca 2–3:** lặp lại khung trên. Ảnh ghép đối chiếu (`images/composite_*.jpg`) cũng bọc quiz tương tự: hiện lưới ảnh ngoài, giấu nhãn bệnh trong `<details>`.
+
+## 7. Câu hỏi nghiên cứu & điểm chưa đồng thuận (tính đến 11/2026)
+
+1. **[Tranh cãi] <câu hỏi có quần thể + can thiệp + outcome>?**
+   - **Đã biết:** ...
+   - **Chưa rõ:** ...
+   - **Hướng nghiên cứu:** ...
+   - **Nguồn:** PMCxxxxxxx (năm); PMCyyyyyyy (năm).
+
+2. **[Khoảng trống] ...**
+3. **[Khác biệt thực hành] ...**
+
+> 2–3 mục; **mỗi mục bắt buộc có Nguồn:** (PMCID/DOI), kể cả “Khác biệt thực hành”.
+> Không dùng câu rỗng (“cần thêm nghiên cứu”) nếu không kèm nguồn. Mẫu đầy đủ:
+> `templates/research-questions.md`.
 
 ## Bài liên quan chéo
 - [NNN – Tên](../NNN-slug/lesson.md)

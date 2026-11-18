@@ -2,14 +2,14 @@
 name: Rad Verify
 description: >-
   Cổng kiểm chứng repo Rad: chọn cổng nào chạy cho lesson.md, images/,
-  index.html, README.md, BACKLOG.md hoặc tools/, đọc VERIFY PASS 7/7, và quyết
+  index.html, README.md, BACKLOG.md hoặc tools/, đọc VERIFY PASS 8/8, và quyết
   định commit hay dừng. Dùng trước commit/báo "xong", sau pull/merge, hoặc khi
   verify_all báo FAIL/PARTIAL.
 ---
 
-# Rad Verify — 7/7
+# Rad Verify — 8/8
 
-Chạy đúng cổng, đọc đúng số, chỉ commit khi `VERIFY PASS 7/7`.
+Chạy đúng cổng, đọc đúng số, chỉ commit khi `VERIFY PASS 8/8`.
 
 Ngoài phạm vi: nội dung y khoa (6 mục, nguồn, ảnh) → `medical-lesson-library`;
 audit chỉ đọc → `verify_all.py --dry-run`; tranh luận chuyên môn → người thật.
@@ -23,6 +23,7 @@ Phạm vi thay đổi: `git status --short` + `git diff --name-only`.
 | `*/lesson.md` mới/sửa | `check_duplicates.py` trước → `verify_all.py` |
 | `*/images/**`, `*/sources.md` | `verify_all.py` + đọc CREDITS của bài |
 | `*/index.html`, `sitemap.xml`, `llms.txt` | `verify_all.py` (cổng `static`); sinh bằng `build_lesson_pages.py`, không sửa tay |
+| Mục 7 research trong `lesson.md` | `check_research_questions.py --strict <ID>` + `verify_all.py` (cổng `research`) |
 | `index.html` / `tools/hub_template.html` | `verify_all.py` (cổng `hub` = `build_index.py --check`); xem `index_cards`, `lessons_missing_card` |
 | `README.md`, `BACKLOG.md` | `verify_all.py`; xem `lessons_total`, `backlog_*` |
 | `tools/**` | chạy script trên ≥5 bài mẫu + `verify_all.py` |
@@ -46,7 +47,7 @@ Bằng chứng: `tools/verify_report.json` (lượt gần nhất) và
 
 ## Điều kiện PASS
 
-1. Exit 0 và dòng `VERIFY PASS` **7/7**: selfcheck, lint, mermaid, authors, hub, static, index.
+1. Exit 0 và dòng `VERIFY PASS` **8/8**: selfcheck, lint, mermaid, authors, hub, static, research, index.
 2. `index_parity_delta = 0`, `lessons_missing_card = 0`, `images_referenced_uncredited = 0`.
 3. Mọi số trong báo cáo lấy từ report/log; ghi cả `selfcheck_warnings` (hiện 15 legacy).
 4. `--only` chỉ được báo `PARTIAL PASS`, không được gọi là PASS toàn phần.
@@ -62,9 +63,10 @@ Bằng chứng: `tools/verify_report.json` (lượt gần nhất) và
 | authors | Sửa theo `authorString` của PMCID; không chắc thì `Tạp chí Năm (PMCID)` không kèm tên |
 | index | Thêm/sửa card + thumbnail; không sửa folder cho khớp card |
 | static | Chạy `build_lesson_pages.py --all --sitemap`; kiểm sha/canonical/description/sitemap |
+| research | 2–3 mục, nhãn loại, mỗi mục có `Nguồn:` PMCID/DOI; không dùng câu rỗng |
 | mạng | `--offline`, ghi rõ số PMCID chưa xác minh |
 
-Luật cứng: commit chỉ khi 7/7; sửa ngưỡng test chỉ khi test sai và có lý do;
+Luật cứng: commit chỉ khi 8/8; sửa ngưỡng test chỉ khi test sai và có lý do;
 `--offline` chỉ khi mất mạng thật.
 
 ## Chỉ số cần theo dõi (không tự chặn)
@@ -76,7 +78,7 @@ Luật cứng: commit chỉ khi 7/7; sửa ngưỡng test chỉ khi test sai và
 ## Mẫu báo cáo
 
 ```text
-verify: PASS 7/7 (selfcheck 0.4s · lint 0.7s · mermaid 0.3s · authors 0.6s · hub 0.4s · static 0.6s · index 0.0s)
+verify: PASS 8/8 (selfcheck 0.4s · lint 0.7s · mermaid 0.3s · authors 0.6s · hub 0.4s · static 0.6s · research 0.5s · index 0.0s)
 parity index +0 · 515 bài / 515 card · chờ viết 112 · ID trùng 3
 selfcheck warn: 15 bài legacy thiếu ma trận 2 cột
 lệch so lượt trước: +2 bài (kỳ vọng +2), parity 0
