@@ -201,13 +201,13 @@ flowchart TD
    - **Đã biết:** oomycete không có ergosterol nên kháng nấm kém; azithromycin/linezolid có hoạt tính; các loạt Ấn Độ dùng phối hợp nhưng kết quả khác nhau.
    - **Chưa rõ:** thời gian, liều, vai trò kháng nấm và tiêu chí ngừng thuốc.
    - **Hướng nghiên cứu:** registry đa trung tâm kèm PK/PD; thử nghiệm thích ứng.
-   - **Nguồn:** PMC12722410 (2025).
+   - **Nguồn:** PMC12722410 (2025); PMC12722454.
 
 2. **[Tranh cãi] Ghép giác mạc sớm khi tổn thương lan rìa có tốt hơn tiếp tục nội khoa?**
    - **Đã biết:** TPK cứu được nhãn cầu nhưng tái phát trong mảnh ghép cao với Pythium; ghép lớp (DALK) có thể dùng khi tổn thương nông.
    - **Chưa rõ:** ngưỡng lan rìa/kích thước, thời điểm và loại ghép.
    - **Hướng nghiên cứu:** cohort so sánh có propensity score; Delphi thống nhất chỉ định.
-   - **Nguồn:** PMC13579407 (2026); PMC12722410 (2025).
+   - **Nguồn:** PMC13579407 (2026); PMC11451789 (2024); PMC12722410 (2025).
 
 3. **[Khoảng trống] Xét nghiệm nào thay đổi thời gian chẩn đoán và kết cục: PCR ITS tại chỗ, cấy thạch máu hay IVCM?**
    - **Đã biết:** cấy Sabouraud thường âm giả; thạch máu/PCR/ITS giúp xác định; IVCM có dấu hiệu gợi ý.

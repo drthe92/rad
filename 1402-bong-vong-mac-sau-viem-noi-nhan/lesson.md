@@ -172,7 +172,7 @@ flowchart TD
    - **Đã biết:** B-scan là phương thức chốt khi không soi được đáy mắt; màng dính đĩa/aftermovement có giá trị phân biệt.
    - **Chưa rõ:** tần suất tối ưu, tiêu chuẩn “màng đáng mổ” và tác động lên thời điểm can thiệp.
    - **Hướng nghiên cứu:** cohort so sánh lịch siêu âm; nghiên cứu diagnostic accuracy.
-   - **Nguồn:** PMC12968533 (2026); PMC12405197 (2025).
+   - **Nguồn:** PMC13672910 (2026); PMC12968533 (2026).
 
 
 ## Bài liên quan chéo

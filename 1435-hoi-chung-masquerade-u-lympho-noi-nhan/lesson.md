@@ -167,20 +167,20 @@ flowchart TD
 
 ## 7. Câu hỏi nghiên cứu & điểm chưa đồng thuận (tính đến 11/2026)
 
-1. **[Tranh cãi] Sinh thiết dịch kính, tiền phòng hay mẫu dưới võng mạc: chiến lược nào tăng tỷ lệ chẩn đoán?**
+1. **[Tranh cãi] Sinh thiết dịch kính hay chọc hút tiền phòng (khi pseudohypopyon): chiến lược nào tăng tỷ lệ chẩn đoán?**
    - **Đã biết:** tế bào học vẫn là chuẩn xác nhận; IL-10/IL-6 và MYD88/CD79B tăng tỷ lệ; tế bào ít và dễ hỏng.
    - **Chưa rõ:** thứ tự, số lần lấy mẫu, vai trò cell block/liquid-based.
    - **Hướng nghiên cứu:** cohort so sánh quy trình; RCT khó.
    - **Nguồn:** PMC13453111 (2026); PMC13702290 (2026).
 
 2. **[Tranh cãi] Corticoid trước sinh thiết có làm giảm tỷ lệ chẩn đoán?**
-   - **Đã biết:** tổng quan nêu tế bào dễ hỏng sau corticoid; thực hành vẫn dùng để kiểm soát viêm.
+   - **Đã biết:** corticoid có thể làm chậm chẩn đoán; tế bào dễ hỏng sau phơi nhiễm corticoid; thực hành vẫn dùng để kiểm soát viêm.
    - **Chưa rõ:** thời gian/phác đồ corticoid nào ảnh hưởng và có phục hồi được tỷ lệ không.
    - **Hướng nghiên cứu:** cohort tiến cứu ghi thời gian corticoid.
    - **Nguồn:** PMC13702290 (2026); PMC13453111 (2026).
 
 3. **[Khoảng trống] IL-10/IL-6 cutoff và MYD88 có giá trị theo dõi tái phát/tiên lượng?**
-   - **Đã biết:** hỗ trợ chẩn đoán nhưng chưa chuẩn hóa cutoff.
+   - **Đã biết:** hỗ trợ chẩn đoán nhưng cutoff tối ưu chưa được xác lập.
    - **Chưa rõ:** giá trị tiên lượng, theo dõi và phân biệt tái phát với viêm.
    - **Hướng nghiên cứu:** nghiên cứu tiên lượng đa trung tâm.
    - **Nguồn:** PMC13453111 (2026); PMC12703111 (2025).
