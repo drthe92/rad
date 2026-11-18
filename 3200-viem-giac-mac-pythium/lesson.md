@@ -195,6 +195,27 @@ flowchart TD
 - **Nguồn ảnh:** *Oman J Ophthalmol* 2026, Fig. 1, **PMC13404707** — CC BY-NC-ND 4.0 (nguyên bản, không cắt/ghép).
 </details>
 
+## 7. Câu hỏi nghiên cứu & điểm chưa đồng thuận (tính đến 11/2026)
+
+1. **[Tranh cãi] Phác đồ nội khoa tối ưu cho viêm giác mạc do Pythium (azithromycin + linezolid ± kháng nấm) và thời gian điều trị là bao lâu?**
+   - **Đã biết:** oomycete không có ergosterol nên kháng nấm kém; azithromycin/linezolid có hoạt tính; các loạt Ấn Độ dùng phối hợp nhưng kết quả khác nhau.
+   - **Chưa rõ:** thời gian, liều, vai trò kháng nấm và tiêu chí ngừng thuốc.
+   - **Hướng nghiên cứu:** registry đa trung tâm kèm PK/PD; thử nghiệm thích ứng.
+   - **Nguồn:** PMC12722410 (2025).
+
+2. **[Tranh cãi] Ghép giác mạc sớm khi tổn thương lan rìa có tốt hơn tiếp tục nội khoa?**
+   - **Đã biết:** TPK cứu được nhãn cầu nhưng tái phát trong mảnh ghép cao với Pythium; ghép lớp (DALK) có thể dùng khi tổn thương nông.
+   - **Chưa rõ:** ngưỡng lan rìa/kích thước, thời điểm và loại ghép.
+   - **Hướng nghiên cứu:** cohort so sánh có propensity score; Delphi thống nhất chỉ định.
+   - **Nguồn:** PMC13579407 (2026); PMC12722410 (2025).
+
+3. **[Khoảng trống] Xét nghiệm nào thay đổi thời gian chẩn đoán và kết cục: PCR ITS tại chỗ, cấy thạch máu hay IVCM?**
+   - **Đã biết:** cấy Sabouraud thường âm giả; thạch máu/PCR/ITS giúp xác định; IVCM có dấu hiệu gợi ý.
+   - **Chưa rõ:** độ chính xác và tác động lên thời gian điều trị/giá thành.
+   - **Hướng nghiên cứu:** diagnostic accuracy + implementation study.
+   - **Nguồn:** PMC12722410 (2025).
+
+
 ## Bài liên quan chéo
 - [400 – Tổng quan Mắt & thị giác](../400-tong-quan-mat-thi-giac/lesson.md)
 - [1460 – Viêm giác mạc do nấm](../1460-viem-giac-mac-do-nam/lesson.md) (bờ lông vũ, vệ tinh, natamycin)

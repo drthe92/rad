@@ -184,6 +184,27 @@ flowchart TD
 - **Nguồn:** Pambayi STL et al., *Orthop Surg* 2026, PMC13327051, CC BY 4.0 (Hình 4).
 </details>
 
+## 7. Câu hỏi nghiên cứu & điểm chưa đồng thuận (tính đến 11/2026)
+
+1. **[Tranh cãi] Ngưỡng cobalt/chromium huyết thanh nào đủ chẩn đoán ARMD và dự báo tiến triển?**
+   - **Đã biết:** ARMD xảy ra cả với dual mobility/ceramic head; ion tăng; ngưỡng cũ từ MoM đường kính lớn không chắc áp dụng cho cấu hình mới.
+   - **Chưa rõ:** ngưỡng theo từng cấu hình implant, tương quan với MRI và mô học.
+   - **Hướng nghiên cứu:** cohort tiến cứu ion + MRI + mô học; xây ngưỡng theo thiết bị.
+   - **Nguồn:** PMC13476736 (2026); PMC13325570 (2026).
+
+2. **[Khoảng trống] Mắt không triệu chứng nhưng ion tăng/MRI có tổn thương: theo dõi định kỳ hay chỉ theo triệu chứng?**
+   - **Đã biết:** ca loạt khuyến cáo surveillance ion + MRI; chưa có RCT.
+   - **Chưa rõ:** khoảng cách theo dõi, lợi ích/chi phí và ngưỡng can thiệp.
+   - **Hướng nghiên cứu:** mô hình quyết định + registry.
+   - **Nguồn:** PMC13476736 (2026); PMC13668027 (2026) — bằng chứng kim loại cấy ghép nói chung còn yếu.
+
+3. **[Khác biệt thực hành] Tiêu chuẩn mổ lại: đau, tổn thương tiến triển, ion tăng hay di lệch?**
+   - **Đã biết:** thực hành khác nhau; ca loạt mổ lại khi có tổn thương mô mềm.
+   - **Chưa rõ:** thời điểm, loại revision và tiên lượng.
+   - **Hướng nghiên cứu:** Delphi đồng thuận + registry.
+   - **Nguồn:** PMC13325570 (2026); PMC13476736 (2026).
+
+
 ## Bài liên quan chéo
 - [300 – Tổng quan hệ Cơ – Xương – Khớp](../300-tong-quan-he-co-xuong-khop/lesson.md)
 - [6140 – Lỏng khớp quanh khớp háng nhân tạo](../6140-long-vo-khuan-quanh-khop-hang-nhan-tao/lesson.md) (mặt cơ học; cùng bộ phân độ Paprosky/Gruen)

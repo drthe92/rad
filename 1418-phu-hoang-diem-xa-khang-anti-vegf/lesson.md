@@ -206,6 +206,27 @@ flowchart TD
 - Nguồn ảnh: *Ocul Oncol Pathol* 2026 (PMC13363278) Fig. 3, **CC BY-NC 4.0 — nguyên bản**.
 </details>
 
+## 7. Câu hỏi nghiên cứu & điểm chưa đồng thuận (tính đến 11/2026)
+
+1. **[Tranh cãi] Ở phù hoàng điểm do xạ kháng anti-VEGF, implant dexamethasone 0,7 mg hay fluocinolone acetonide 0,19 mg nên là lựa chọn đầu tay?**
+   - **Đã biết:** cả hai đều giảm phù; DEX tác dụng nhanh nhưng phải lặp lại 4–6 tháng, FAc kéo dài ~36 tháng nhưng tăng nguy cơ tăng nhãn áp/đục thể thủy tinh. Loạt FAc 5 năm trên 8 mắt cho kết quả thị lực không đồng nhất.
+   - **Chưa rõ:** so sánh đầu tay, thứ tự tối ưu và yếu tố dự đoán đáp ứng chức năng (không chỉ độ dày hoàng điểm).
+   - **Hướng nghiên cứu:** RCT so sánh thời gian sống của thị lực, số lần điều trị và biến cố tăng nhãn áp; hoặc registry có propensity score.
+   - **Nguồn:** PMC13363278 (2026); PMC13047022 (2026).
+
+2. **[Tranh cãi] Phân loại CEA trên OCT có đủ dự đoán cải thiện thị lực sau DEX để chọn bệnh nhân?**
+   - **Đã biết:** DEX giảm nang đáng kể ở hầu hết mắt, nhưng cải thiện thị lực rất khác nhau; CEA (nang/EZ/RPE) liên quan đáp ứng chức năng trong một loạt 50 mắt.
+   - **Chưa rõ:** ngưỡng CEA nào nên ngừng điều trị, giá trị tiên lượng ngoài 12 tháng và ở mắt đã xạ proton/plaque.
+   - **Hướng nghiên cứu:** cohort tiến cứu xác nhận, phân tích decision-curve; so sánh với OCT-A/vi mạch.
+   - **Nguồn:** PMC13608844 (2026).
+
+3. **[Khác biệt thực hành] Sau DEX đầu tiên tái phát, lặp DEX hay chuyển FAc?**
+   - **Đã biết:** cả hai chiến lược đều được dùng; chưa có thử nghiệm so sánh trực tiếp.
+   - **Chưa rõ:** ảnh hưởng của thời gian tái phát, tiền sử tăng nhãn áp và tình trạng thể thủy tinh lên lựa chọn.
+   - **Hướng nghiên cứu:** registry quốc tế ghi nhận chiến lược và kết cục; mô hình dự đoán cá thể hóa.
+   - **Nguồn:** PMC13363278 (2026); PMC13608844 (2026).
+
+
 ## Bài liên quan chéo
 - [1409 – Bệnh võng mạc do xạ sau xạ trị u nội nhãn/hốc mắt](../1409-benh-vong-mac-do-xa-sau-xa-tri/lesson.md) (liều, thời gian ủ bệnh, phân biệt với tái phát u)
 - [1411 – Tăng nhãn áp do corticoid nội nhãn](../1411-tang-nhan-ap-do-corticoid-noi-nhan/lesson.md) (biến chứng của chính implant)

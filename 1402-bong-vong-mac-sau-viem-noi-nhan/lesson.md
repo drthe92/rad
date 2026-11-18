@@ -154,6 +154,27 @@ flowchart TD
 - Nguồn ảnh: Raharja A et al., Eur J Ophthalmol 2026 (PMC13672910) Fig. 6, **CC BY 4.0**.
 </details>
 
+## 7. Câu hỏi nghiên cứu & điểm chưa đồng thuận (tính đến 11/2026)
+
+1. **[Tranh cãi] Ở viêm nội nhãn ngoại sinh sau phẫu thuật, PPV sớm trong 48–96 giờ có tốt hơn kháng sinh nội nhãn lặp lại rồi PPV trì hoãn?**
+   - **Đã biết:** EVS chỉ chứng minh cho viêm nội nhãn sau phaco; EVIAN là RCT khả thi đầu tiên cho các phẫu thuật khác, so sánh PPV sớm với chăm sóc chuẩn; tổng quan 2026 vẫn xếp nhiều quyết định vào vùng chưa chắc chắn.
+   - **Chưa rõ:** lợi ích thị lực thực sự, tiêu chí chọn bệnh nhân và thời điểm tối ưu.
+   - **Hướng nghiên cứu:** RCT đa trung tâm đủ lực với outcome BCVA chuẩn hóa; phân tích theo mức độ viêm.
+   - **Nguồn:** PMC13421665 (2026); PMC12968533 (2026).
+
+2. **[Khoảng trống] Bong võng mạc sau viêm nội nhãn: mổ ngay khi phát hiện hay kiểm soát viêm trước, và chọn dầu hay khí?**
+   - **Đã biết:** RRD liên quan viêm nội nhãn có tiên lượng kém; PPV ban đầu, aphakia, viêm nội nhãn nội sinh và dính đồng tử là yếu tố nguy cơ; dữ liệu chủ yếu hồi cứu.
+   - **Chưa rõ:** tamponade tối ưu, thời điểm mổ và vai trò laser bổ sung.
+   - **Hướng nghiên cứu:** registry tiến cứu phân theo cơ chế lỗ (hoại tử vs co kéo).
+   - **Nguồn:** PMC10924589 (2024); PMC12968533 (2026).
+
+3. **[Khác biệt thực hành] Ở mắt đục sau viêm nội nhãn, siêu âm B-scan lặp lại bao lâu một lần để phát hiện bong võng mạc sớm?**
+   - **Đã biết:** B-scan là phương thức chốt khi không soi được đáy mắt; màng dính đĩa/aftermovement có giá trị phân biệt.
+   - **Chưa rõ:** tần suất tối ưu, tiêu chuẩn “màng đáng mổ” và tác động lên thời điểm can thiệp.
+   - **Hướng nghiên cứu:** cohort so sánh lịch siêu âm; nghiên cứu diagnostic accuracy.
+   - **Nguồn:** PMC12968533 (2026); PMC12405197 (2025).
+
+
 ## Bài liên quan chéo
 - [400 – Tổng quan Mắt & thị giác](../400-tong-quan-mat-thi-giac/lesson.md)
 - [411 – Siêu âm nhãn cầu: bong võng mạc vs xuất huyết dịch kính](../411-sieu-am-nhan-cau/lesson.md)
