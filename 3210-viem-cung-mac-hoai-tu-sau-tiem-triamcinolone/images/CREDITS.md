@@ -1,0 +1,16 @@
+# Ảnh — 3210 (giấy phép từng file)
+
+| File | Nguồn | Giấy phép | Ghi chú |
+|---|---|---|---|
+| `3210_hoai-tu-cung-mac_Anh-mau_PMC6983460-Fig1.jpg` | Agarwal M, Ranjan R, Mathur U, *J Ophthalmic Inflamm Infect* 2020 (PMID 31984430, PMC6983460), Fig. 1 | **CC BY 4.0** | Bệnh nhân nữ **62 tuổi**, sau cắt dịch kính + dầu silicone và tiêm **0,5 mL triamcinolone 40 mg/mL** dưới bao Tenon vùng trên–mũi. (A) khuyết biểu mô giác mạc **3 × 4 mm** (mũi tên đỏ), thâm nhiễm/mỏng nhu mô **3 × 4 mm** (xanh lá), **mủ tiền phòng 2 mm** (xanh dương); (B) mảnh ghép giác mạc, bọt dầu silicone, lỗ mở chu biên, **áp-xe củng mạc** (vàng); (C–D) trong mổ: **gỡ khối tinh thể** (đen) và **củng mạc hoại tử rộng** (viền đen). **Nguyên bản** |
+| `3210_day-cung-mac-GPA_Anh-mau_PMC6983460-Fig3.jpg` | Agarwal M, Ranjan R, Mathur U, *J Ophthalmic Inflamm Infect* 2020 (PMC6983460), Fig. 3 | **CC BY 4.0** | Bệnh nhân nữ **46 tuổi**, GPA, sau **3 mũi** triamcinolone dưới bao Tenon: (A) củng mạc mỏng + nốt viêm vùng thái dương (mũi tên đỏ); (B) vùng hoại tử **lành sau 1 tháng** điều trị toàn thân (mũi tên xanh). **Nguyên bản** |
+| `3210_lan-vung-moi_Anh-mau_PMC6983460-Fig4.jpg` | Agarwal M, Ranjan R, Mathur U, *J Ophthalmic Inflamm Infect* 2020 (PMC6983460), Fig. 4 | **CC BY 4.0** | Cùng bệnh nhân GPA: sau khi **tự bỏ methotrexate 4 tháng**, xuất hiện **vùng hoại tử mới** (mũi tên vàng) ngoài vị trí tiêm, bên cạnh ổ cũ (mũi tên đen). **Nguyên bản** |
+| `3210_tre-em-hai-mat_Anh-mau_PMC13093260-Fig1.jpg` | Amir MM, Mateen M, Aslam B, Rahman SU, Bibi F, El Abdi K, Sadat SH, *Clin Case Rep* 2026 (PMID 42016651, PMC13093260), Fig. 1 | **CC BY 4.0** | Trẻ trai **3 tuổi**, đục thể thủy tinh bẩm sinh hai mắt, sau mổ + **20 mg triamcinolone dưới bao Tenon** mỗi mắt: **ngày 7** có hoại tử kết mạc và mỏng củng mạc vùng **trên–mũi** hai mắt. **Nguyên bản** |
+| `3210_viem-cung-mac-15-tuoi_Anh-mau_PMC3871753-Fig1.jpg` | Eslampour A, Abrishami M, Tafaghodi S, *Iran Red Crescent Med J* 2013 (PMID 24396585, PMC3871753), Fig. 1 | **CC BY 3.0** | Bệnh nhân nam **15 tuổi**, **ngày 7** sau tiêm **0,5 mL triamcinolone 40 mg/mL** dưới bao Tenon: **viêm củng mạc hoại tử + hoại tử kết mạc**, ổ **5 × 4 mm**, mạch quanh ngoằn ngoèo. **Nguyên bản** |
+| `composite_dung-vi-tri-tiem.jpg` | Ghép từ Fig. 1 của PMC13093260 + Fig. 1 của PMC3871753 + Fig. 1 của PMC6983460 bằng `tools/make_composite.py` | **CC BY 4.0 / CC BY 3.0** (cả ba ảnh nguồn) | Letterbox nền đen, **không crop/kéo giãn**, dải đen ghi tên ca + attribution. Chỉ dùng ảnh **CC BY** nên được phép phái sinh |
+
+## Ghi chú trung thực nguồn
+
+- Tác giả lấy theo **tác giả đầu tiên** đọc trực tiếp qua Europe PMC (`authorString`) và đối chiếu PMCID: **PMC6983460 = Agarwal M**; **PMC13093260 = Amir MM**; **PMC3871753 = Eslampour A**; **PMC13251303 = Lama J**; **PMC12620919 = Temkar S**; **PMC3184362 = Sohn EH**; **PMC11338418 = Magesan K**; **PMC4467755 = Dodwell DG**; **PMC4302469 = Chong YJ**; **PMC13689183 = chưa đối chiếu tên, chỉ ghi tạp chí/năm/PMCID**; **PMC13705192 = Challa NK**; **PMC11842368 = chưa đối chiếu tên, chỉ ghi tạp chí/năm/PMCID**.
+- **Không bịa tên tác giả/niên đại**: bài nào chưa đối chiếu `authorString` thì chỉ ghi **tạp chí + năm + PMCID**.
+- Ảnh **CC BY-NC/CC BY-NC-SA/CC BY-NC-ND** chỉ dùng để đọc số liệu, **không** tải và **không** đưa vào ảnh ghép.
