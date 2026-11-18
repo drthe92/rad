@@ -2616,3 +2616,5 @@
 - 2026-11-18: append **#2243 → 6217** (bong hắc mạc sau phẫu thuật: vòm dày–không di động, phân biệt bong võng mạc/máu tụ; nối 1479/1441/6214), đã check_duplicates.
 - 2026-11-18 — 3210 hoại tử củng mạc sau tiêm triamcinolone dưới kết mạc: 0/176 phải vá củng mạc trong 15 năm nhưng ca hoại tử dùng 20 mg vs liều an toàn 2–8 mg; ngày 7–30 (SINS 251 ngày); gỡ tinh thể là chốt, 5 ảnh + 1 composite CC BY; verify PASS 7/7.
 - Flip #2232 → xong; append #2244 (3214 Nocardia scleritis, đã check_duplicates).
+2026-11-18 · 3211 Schnyder (mắt/giác mạc): 13 ảnh + 1 composite; 54% có tinh thể, tổn thương 100–140 µm, UBIAD1; PTK/PK có số.
+BACKLOG: flip #2233 → xong; append #2245 (ID 3216 viêm giác mạc do nấm sợi, đã check_duplicates).
