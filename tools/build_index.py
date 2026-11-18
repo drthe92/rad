@@ -209,6 +209,7 @@ CLASSIFY_4D = {
     "6211": "mat",    # đục trục quang (VAO) sau mổ đục thể thủy tinh bẩm sinh — mắt (thể thủy tinh nhi)
     "6213": "mat",    # đục thể thủy tinh do chấn thương ở trẻ — mắt (chấn thương nhi)
     "6214": "mat",    # đục thể thủy tinh do xạ trị u nguyên bào võng mạc ở trẻ — mắt (ung thư mắt nhi)
+    "3216": "mat",    # viêm giác mạc do nấm sợi (Fusarium/Aspergillus) — mắt (giác mạc)
     "6185": "msk",    # vỡ chuôi khớp háng nhân tạo — thất bại mỏi của implant
     "3145": "nhi",    # chấn thương tụy kín ở trẻ (chấn thương – tiêu hóa nhi)
     "1940": "bung",   # sỏi sót/tái phát & sỏi rơi sau cắt túi mật (gan mật)
