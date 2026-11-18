@@ -1,0 +1,17 @@
+# CREDITS — ảnh bài 1503 (Di căn gan của melanoma hắc mạc)
+
+Mỗi ảnh ghi rõ: file trong repo, hình gốc, bài gốc (PMCID), giấy phép, phái sinh (nếu có). **Không ghi tên tác giả** — attribution dùng tạp chí + năm + PMCID (đối chiếu Europe PMC ngày 2026-11-18).
+
+| File | Hình gốc | Bài gốc | Giấy phép | Phái sinh |
+|---|---|---|---|---|
+| `1503_di-can-gan-melanoma-hac-mac_MRI-gadoxetat_PMC11534211.jpg` | Fig. 2 — "Gadoxetic acid-enhanced MRI in a 53-year-old woman with liver metastases from ocular (choroidal) melanoma. Axial gadoxetic acid-enhanced MR images show multiple hepatic metastases … only three metastases are detected (arrows) on a fat-suppressed T2-weighted image (B), and the hepatobiliary phase (D). On precontrast (A) and arterial phase T1-weighted images (C), multiple hyperintense lesions are additionally detected …" | *PLoS One* 2024 — PMCID **PMC11534211** — https://pmc.ncbi.nlm.nih.gov/articles/PMC11534211/ | **CC BY 4.0** | Nguyên bản (giữ nhãn A–D, mũi tên) |
+| `1503_di-can-gan-melanoma-hac-mac_MRI-target_PMC11534211.jpg` | Fig. 3 — "Gadoxetic acid-enhanced MRI in a 59-year-old man with a liver metastasis from non-ocular (oral mucosal) melanoma … It shows low signal intensity on a precontrast T1-weighted image (A), high signal …" | *PLoS One* 2024 — PMCID **PMC11534211** — https://pmc.ncbi.nlm.nih.gov/articles/PMC11534211/ | **CC BY 4.0** | Nguyên bản (giữ nhãn A–D) |
+| `1503_di-can-gan-melanoma-hac-mac_CT-3thi_PMC11496420.jpg` | Fig. 1 — "Abdominal Computed tomography with contrast medium: there is an enlarged liver with a pathological mass involving the entire caudate lobe and parts of the adjacent right segments, measuring up to 10 cm in maximum diameter. On contrast medium, it was characterized by inhomogeneous contrast enhancement" | *J Ultrasound* 2024 — PMCID **PMC11496420** — https://pmc.ncbi.nlm.nih.gov/articles/PMC11496420/ | **CC BY 4.0** | Nguyên bản (giữ nhãn A–C) |
+| `1503_di-can-gan-melanoma-hac-mac_CEUS_PMC11496420.jpg` | Fig. 3 — "CEUS examination focused on the liver. The red dotted line outlines the hypoechoic lesion on B-mode examination. In the arterial phase, a clear hyperenhancement of the pathological area of the liver is evident … In the portal phase, isoenhancement …" | *J Ultrasound* 2024 — PMCID **PMC11496420** — https://pmc.ncbi.nlm.nih.gov/articles/PMC11496420/ | **CC BY 4.0** | Nguyên bản (giữ mốc thời gian C 0:19 – C 2:26) |
+| `1503_di-can-gan-melanoma-hac-mac_Sinh-thiet-sieu-am_PMC11496420.jpg` | Fig. 4 — "Ultrasound-guided core biopsy on the pathological liver area of the left segments. The procedure was performed by an 18 G semi-automatic needle" | *J Ultrasound* 2024 — PMCID **PMC11496420** — https://pmc.ncbi.nlm.nih.gov/articles/PMC11496420/ | **CC BY 4.0** | Nguyên bản |
+| `composite_melanin-vs-khong-sac-to.jpg` | Fig. 2 + Fig. 3 (hai bệnh cảnh đối chiếu) | *PLoS One* 2024 — PMCID **PMC11534211** — https://pmc.ncbi.nlm.nih.gov/articles/PMC11534211/ | **CC BY 4.0** | **Ảnh ghép** bằng `tools/make_composite.py`: letterbox nền đen, giữ nguyên tỷ lệ (không crop, không kéo giãn), dải đen ghi tên bệnh cảnh + attribution |
+
+## Ghi chú
+- Cả hai bài nguồn đều **CC BY 4.0** — cho phép tái sử dụng và phái sinh khi ghi công; ảnh trong bài giữ **nguyên bản**, chỉ ảnh composite được ghép theo quy ước repo.
+- Ảnh Fig. 2 và Fig. 3 là **multipanel gốc** của bài (A–D), không cắt rời từng ô.
+- Tất cả ảnh dùng cho **học tập, phi thương mại**; ghi nguồn đầy đủ khi trích lại.

@@ -202,6 +202,7 @@ flowchart TD
 </details>
 
 ## Bài liên quan chéo
+- [1503 – Di căn gan của melanoma hắc mạc: theo dõi bằng siêu âm hay MRI, nốt ≤ 1 cm và điểm mù của pha gan mật](../1503-di-can-gan-melanoma-hac-mac/lesson.md)
 - [1486 – Khối hắc mạc trên siêu âm: hồi âm thấp = melanoma, hồi âm cao = hemangioma, MOLES](../1486-khoi-hac-mac-sieu-am/lesson.md)
 - [448 – U hắc mạc: melanoma vs nevus vs di căn — siêu âm A/B & MRI](../448-u-hac-mac/lesson.md)
 - [1409 – Bệnh võng mạc do xạ: phân biệt tổn thương do xạ với tái phát u](../1409-benh-vong-mac-do-xa-sau-xa-tri/lesson.md)
