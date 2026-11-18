@@ -1,0 +1,29 @@
+# Nguồn gốc — 6214 Đục thể thủy tinh do xạ trị u nguyên bào võng mạc ở trẻ (Radiation-induced cataract after retinoblastoma radiotherapy)
+
+> Chủ đề: đục thể thủy tinh xuất hiện nhiều tháng–nhiều năm sau xạ trị RB — cơ chế, hình thái PSC, ngưỡng liều, phân biệt với đục do hóa trị/corticoid và với tái phát u, chỉ định và kết quả mổ + IOL. Quét Europe PMC/PubMed ngày 2026-11-18; kiểm giấy phép từng bài trước khi tải ảnh.
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Adv Radiat Oncol 2026 (PMC13315199) | Critical review of cataractogenesis and lens contouring in radiation oncology — ngưỡng ICRP **0,5 Gy**, PSC là hình thái chính, tiềm tàng **2–5 năm** (liều cao) / **5–10 năm** (liều thấp), contour thấu kính trên CT, LOCS III vs Scheimpflug | https://pmc.ncbi.nlm.nih.gov/articles/PMC13315199/ | **CC BY 4.0** | `images/6214_duc-the-thuy-tinh-xa-tri_So-do_PMC13315199-f3.jpg`, `images/6214_duc-the-thuy-tinh-xa-tri_CT_PMC13315199-f5.jpg` |
+| 2 | Eur Radiol 2026 (PMC12953368) | Practical guidelines on imaging of retinoblastoma — 2025 update: **CT không còn khuyến cáo**, siêu âm tần số cao cho vôi hóa, protocol MRI (**CE-T1 oblique ≤ 2 mm / 0,3 × 0,3 mm**, DWI **≤ 4 mm**, não **1 mm**, trục sống **≤ 3 mm**) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12953368/ | **CC BY 4.0** | `images/6214_duc-the-thuy-tinh-xa-tri_MRI_PMC12953368-f5.jpg` |
+| 3 | Br J Ophthalmol 2024 (PMC10958276) | Risk factors for cataract in retinoblastoma management — **31/184 mắt (16,8%)**, follow-up trung bình **27,6 tháng**; yếu tố độc lập: **nhãn áp (p = 0,003)**, **liều melphalan/chu kỳ IAC (p = 0,001)**, **số chu kỳ IvitC (p = 0,04)** | https://pmc.ncbi.nlm.nih.gov/articles/PMC10958276/ | CC BY-NC 4.0 (không dùng ảnh) | Không tải ảnh |
+| 4 | Turk J Ophthalmol 2018 (PMC6032962) | Surgical outcomes in radiation-induced cataracts after EBRT in retinoblastoma — **6 mắt**, mổ đục trung vị **96,3 tháng** sau chẩn đoán RB, **67,2 tháng** sau điều trị cuối; **PCO 100%**, **iridocyclitis 2/6**, thị lực cuối tốt hơn nhưng giới hạn bởi u hoàng điểm | https://pmc.ncbi.nlm.nih.gov/articles/PMC6032962/ | CC BY 4.0 (bài không có figure trong PMC) | Không tải ảnh (chỉ dùng số liệu) |
+| 5 | Diagnostics 2022 (PMC9689271) | Study of the natural crystalline lens characteristics using dual-energy CT — **198 mắt**, thể thủy tinh **~74–79 HU ở 70 keV** so với dịch kính **~0 HU** | https://pmc.ncbi.nlm.nih.gov/articles/PMC9689271/ | CC BY 4.0 (chỉ dùng số đo) | Không tải ảnh |
+| 6 | Curr Oncol 2023 (PMC10378371) | Radiotherapy in uveal melanoma: a review of ocular complications — Fig. 1 **viêm da sau xạ (A)** + **đục thể thủy tinh sau xạ (B)** | https://pmc.ncbi.nlm.nih.gov/articles/PMC10378371/ | **CC BY 4.0** | `images/6214_duc-the-thuy-tinh-xa-tri_Slitlamp_PMC10378371-f1.jpg` |
+| 7 | Asia Pac J Ophthalmol 2025 (PMC12399275) | Update on pediatric cataract surgery — IOL ở trẻ **< 2 tuổi** → **~40%** mổ lại vì đục trục quang; nguyên tắc mổ đục thể thủy tinh nhi | https://pmc.ncbi.nlm.nih.gov/articles/PMC12399275/ | CC BY-NC-ND (không dùng ảnh) | Không tải ảnh |
+| 8 | Int J Radiat Oncol Biol Phys 2019;103:1143–1150  | Lens dose-response prediction and cataract incidence after lens-sparing or whole-eye RT for RB — **71,1% vs 35,3%**, tiềm tàng trung bình **51,8 tháng** (số liệu đọc qua tổng quan PMC13315199) | https://doi.org/10.1016/j.ijrobp.2018.12.004 | Không OA | Không tải ảnh |
+| 9 | Arch Ophthalmol 2009;127:1500–1504  | Risk of cataract extraction among adult retinoblastoma survivors — mổ đục **gấp 6 lần** ở liều **5–22 Gy** so với **< 2,5 Gy** (qua tổng quan PMC13315199) | https://doi.org/10.1001/archophthalmol.2009.271 | Không OA | Không tải ảnh |
+| 10 | Ophthalmology 2007;114:1363–1371 (COMS Report No. 27) | Incidence of cataract after iodine-125 brachytherapy — **20–25%** đục trong 5 năm khi liều thấu kính trung bình **7 Gy** (qua tổng quan PMC13315199) | https://doi.org/10.1016/j.ophtha.2006.10.039 | Không OA | Không tải ảnh |
+| 11 | Radiat Res 2016;185:366–374  | Childhood Cancer Survivor Study — **5-year cataract prevalence 0,9–3,8%** theo mô học (qua tổng quan PMC13315199) | https://doi.org/10.1667/RR14276.1 | Không OA | Không tải ảnh |
+| 12 | Int J Radiat Oncol Biol Phys 2002;52:1375–1380  | Cataract after total body irradiation and BMT — **6–12 Gy**: **50–90%** đục trong 10 năm; **che mắt giảm 3 lần** nguy cơ (qua tổng quan PMC13315199) | https://doi.org/10.1016/S0360-3016(01)02757-2 | Không OA | Không tải ảnh |
+| 13 | Int J Radiat Oncol Biol Phys 2019  | Proton therapy và PSC — **15%** đục, **9%** phải mổ, trung vị **1,6–2,3 năm**; LOCS III sau proton (qua tổng quan PMC13315199) | — (trích dẫn gián tiếp trong PMC13315199) | Không OA | Không tải ảnh |
+| 14 | ICRP Publication 118 (2012) | Ngưỡng **0,5 Gy** cho đục thấu kính phát hiện được (trích qua tổng quan PMC13315199) | https://www.icrp.org/publication.asp?id=ICRP%20Publication%20118 | Không áp dụng | Không tải ảnh |
+
+## Ghi chú giấy phép
+
+- Ảnh dùng trong bài: **4 ảnh CC BY 4.0** (PMC13315199 ×2, PMC12953368, PMC10378371) — ghi nguồn đầy đủ, giữ nguyên khung hình và nhãn panel.
+- **Không có ảnh NC/ND** trong bài; không cần ShareAlike.
+- **Không tạo ảnh ghép**: 4 ảnh thuộc **3 bài, 3 bệnh nhân/đối tượng khác nhau, 3 modality**; ghép sẽ làm mất nhãn panel và dễ gán sai tổn thương.
+- **Ảnh đèn khe (Ca 1) là bệnh nhân NGƯỜI LỚN sau xạ trị u hắc mạc**, không phải RB — đã ghi rõ trong chú thích bài và CREDITS; dùng để dạy **hình thái đục do xạ**, không gán cho trẻ.
+- **Không ghi tên tác giả** (quy tắc trung thực nguồn của repo): attribution dùng **tạp chí + năm + PMCID**; các bài chỉ đọc qua tổng quan ghi rõ "qua tổng quan PMC13315199".
+- Số liệu lấy từ **toàn văn** (không viết từ abstract), đối chiếu Europe PMC ngày **2026-11-18**.
