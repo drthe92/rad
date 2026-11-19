@@ -1,0 +1,21 @@
+# CREDITS — ảnh bài 3230 (Khối tuyến lệ)
+
+Mỗi ảnh ghi rõ: file trong repo, hình gốc, bài gốc (PMCID), giấy phép, phái sinh (nếu có).
+
+| File | Hình gốc | Bài gốc | Giấy phép | Phái sinh |
+|---|---|---|---|---|
+| `3230_khoi-tuyen-le_MRI_Giai-phau-PMC12819838.jpg` | Fig. 1 — "Normal MRI of the lacrimal glands (A–G) … (H–J) the lateral horn of the aponeurosis of the levator palpebrae superioris muscle (white arrow), which separates the lacrimal gland into the orbital lobe (yellow triangle) and the palpebral lobe (red star)" | *Front Ophthalmol (Lausanne)* 2025, PMCID **PMC12819838** — https://pmc.ncbi.nlm.nih.gov/articles/PMC12819838/ | **CC BY 4.0** | Nguyên bản, giữ nhãn A–J; không crop |
+| `3230_khoi-tuyen-le_MRI-U-tuyen-da-hinh-PMC12819838.jpg` | Fig. 2 — "Pleomorphic adenoma of the left lacrimal gland (A–G) … large, irregular, lobulated mass … heterogeneous with intermediate signal … no restricted diffusion on ADC (F) and eADC (G)" | *Front Ophthalmol (Lausanne)* 2025, PMCID **PMC12819838** | **CC BY 4.0** | Nguyên bản, giữ nhãn A–O; không crop |
+| `3230_khoi-tuyen-le_MRI-ACC-PMC12819838.jpg` | Fig. 3 — "Adenoid cystic carcinoma of the right lacrimal gland (A–H) … irregular, lobulated mass with … central necrosis, infiltrating the extraocular muscles … positive lateral wedge sign … axial ADC (G) and eADC (H) … partial restricted diffusion" | *Front Ophthalmol (Lausanne)* 2025, PMCID **PMC12819838** | **CC BY 4.0** | Nguyên bản, giữ nhãn A–N; không crop |
+| `3230_khoi-tuyen-le_MRI-Lymphoma-PMC12819838.jpg` | Fig. 5 — "Marginal lymphoma of the right lacrimal gland (A–H) … isointense on T1, hyperintense on T2 … lateral wedge sign (B) … posterior angle … acute (E) … restricted diffusion on axial DWI (G) and ADC (H). Mantle cell lymphoma involving the lacrimal glands (I–N)" | *Front Ophthalmol (Lausanne)* 2025, PMCID **PMC12819838** | **CC BY 4.0** | Nguyên bản, giữ nhãn A–N; không crop |
+| `3230_khoi-tuyen-le_MRI-IgG4-PMC12819838.jpg` | Fig. 7 — "IgG4-related ophthalmic disease involving the left lacrimal gland … CT axial (A) and coronal (B) demonstrates no evidence of bony changes … mild enhancement … significant restricted diffusion on axial ADC (J) and DWI (K)" | *Front Ophthalmol (Lausanne)* 2025, PMCID **PMC12819838** | **CC BY 4.0** | Nguyên bản, giữ nhãn A–L; không crop |
+| `3230_khoi-tuyen-le_MRI-ACC-giong-PA-PMC13604454.jpg` | Fig. 1 — "A 71-year-old woman … (A,B) MRI axial (A) and coronal (B), T1 post-contrast images show a round, well-circumscribed lesion of the lacrimal gland. On gross total resection, the lesion turned out to be adenoid cystic carcinoma" | *Cancers (Basel)* 2026, PMCID **PMC13604454** — https://pmc.ncbi.nlm.nih.gov/articles/PMC13604454/ | **CC BY 4.0** | Nguyên bản, giữ nhãn (A)(B); chuyển WebP→JPEG, không crop |
+| `3230_khoi-tuyen-le_MRI-PA-tai-phat-PMC13171307.jpg` | Fig. 6 — "MRI in a 29-year-old woman who had undergone resection of a pleomorphic adenoma. More than 5 years later … multifocal recurrence in the surgical bed. (A) Axial T2 MRI with fat suppression shows multiple T2 hyperintense nodules … (B) Coronal T1 postcontrast" | *Front Ophthalmol (Lausanne)* 2026, PMCID **PMC13171307** — https://pmc.ncbi.nlm.nih.gov/articles/PMC13171307/ | **CC BY 4.0** | Nguyên bản, giữ nhãn A/B; không crop |
+| `composite_PA-vs-ACC.jpg` | Ghép **Fig. 2** (PA) + **Fig. 3** (ACC) của PMC12819838, letterbox nền đen, dải nhãn `[U tuyến đa hình — T1FS+C / T2FS / ADC]` và `[UTBM tuyến dạng nang — T1FS+C / T2 / ADC]` | *Front Ophthalmol (Lausanne)* 2025, PMCID **PMC12819838** | **CC BY 4.0** (cả hai ảnh nguồn) | **Có phái sinh**: `tools/make_composite.py` — chỉ letterbox + thêm dải chữ, **không crop, không kéo giãn** |
+
+## Ghi chú
+
+- **7 ảnh gốc + 1 ảnh ghép**, tất cả từ **3 bài CC BY 4.0** → được phép tái bản và phái sinh, miễn ghi nguồn.
+- Ảnh **CC BY-NC-SA** (PMC11573044) và các bài **không OA** (JMRI 2014, Acta Radiol 2022, Orbit 2024, Am J Ophthalmol 2022) **chỉ trích số liệu** — không tái bản hình.
+- **Tên tác giả KHÔNG ghi**: attribution dùng **tạp chí + năm + PMCID**, đối chiếu Europe PMC ngày **2026-11-19**, đúng quy tắc trung thực nguồn của repo.
+- Ảnh lấy từ **gói OA của Europe PMC**, đúng file figure gốc; giữ nguyên nhãn A–O và mũi tên của tác giả.

@@ -74,5 +74,6 @@ certainty: tong-hop-y-van
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
 - [410 – Giải phẫu hốc mắt](../410-giai-phau-hoc-mat/lesson.md) (tuyến lệ trên-ngoài)
 - [422 – Giả u viêm](../422-viem-gia-u/lesson.md) (IgG4 đa cơ quan)
+- [3230 – Khối tuyến lệ: PA – ACC – lymphoma – IgG4 (MRI/ADC, wedge sign, tiêu chí giữ mắt)](../3230-khoi-tuyen-le/lesson.md)
 
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.
