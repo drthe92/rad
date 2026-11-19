@@ -2658,3 +2658,5 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 ## 2026-11-19 — bài 1509 (angioid streaks & CNV)
 - Viết **1509** từ #2248 (ưu tiên mắt): 5 nguồn CC BY/CC BY-NC-SA (PMC11834907 · PMC10976272 · PMC9288306 · PMC9026537 · PMC5424392), **6 ảnh + 1 composite**; flip #2248 → xong; append **1513** (myopic CNV — đã check_duplicates).
 - Số chốt: PXE **59–87%** ca angioid streaks / **80–90%** PXE có dải; **CNV type 2 42–86%**; anti-VEGF **+6,9 chữ ở 3 tháng**, **teo/xơ 60,7% ở 48 tháng**; flow deficit **47,6% vs 38,9%**; Europe PMC 503 → dùng NCBI E-utilities, **không ghi tên tác giả**.
+- 2026-11-19: viết **3219** (song thị/hạn chế vận nhãn sau van dẫn lưu glôcôm) — Alzein 2026 (9.614 ghép cặp), Ahmed 4,7% (10/211), Molteno 3,3%/tự hết 62,5%, MRI góc SR–LR 101,6° vs 94,7°; 2 ảnh (CT CC BY-NC-ND + Hess CC BY 2.5).
+- 2026-11-19: flip #2250 → xong; append #2257 (3224 — nhiễm/lộ bản van muộn).
