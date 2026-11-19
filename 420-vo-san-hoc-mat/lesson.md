@@ -72,6 +72,7 @@ certainty: tong-hop-y-van
 
 ## Bài liên quan chéo
 - [400 – Tổng quan Mắt](../400-tong-quan-mat-thi-giac/lesson.md)
+- [1510 – Hội chứng khoang hốc mắt cấp (OCS): **IOP không đáng tin**, co kéo thần kinh thị + PGA, canthotomy 60–120 phút, thất bại 32%](../1510-hoi-chung-khoang-hoc-mat/lesson.md)
 - [410 – Giải phẫu hốc mắt](../410-giai-phau-hoc-mat/lesson.md) (cơ thẳng dưới)
 - [421 – Lồi mắt Graves](../421-loi-mat-Graves/lesson.md) (lồi mắt không chấn thương)
 - [1413 – Tụt/mất cơ trực trong sau mổ lác: MRI/AS-OCT định vị, khi nào mổ lại](../1413-tut-mat-co-truc-trong-sau-mo-lac/lesson.md)
