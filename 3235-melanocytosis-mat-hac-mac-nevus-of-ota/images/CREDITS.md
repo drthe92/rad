@@ -1,0 +1,18 @@
+# CREDITS — ảnh bài 3235 (Melanocytosis mắt – hắc mạc / Nevus of Ota)
+
+Mỗi ảnh ghi rõ: file trong repo, hình gốc, bài gốc (PMCID/DOI), giấy phép, phái sinh. **Không ghi tên tác giả** — attribution dùng tạp chí + năm + PMCID (đối chiếu Europe PMC ngày 2026-11-20). Tất cả ảnh dùng trong bài đều **CC BY 4.0** (cho phép ghép và chỉnh sửa, kèm ghi công).
+
+| File | Hình gốc | Bài gốc | Giấy phép | Phái sinh |
+|---|---|---|---|---|
+| `3235_nevus-ota_Da-Mat_PMC9837000.jpg` | Fig. 1 — "Cutaneous involvement in patient with unilateral right oculodermal melanocytosis. Evident periocular cutaneous gray-blue pigmentation that extends from the eyebrow to beneath the lower eyelid" | *Graefes Arch Clin Exp Ophthalmol* 2023, PMCID **PMC9837000**, DOI 10.1007/s00417-022-05743-1 — https://pmc.ncbi.nlm.nih.gov/articles/PMC9837000/ | **CC BY 4.0** | Nguyên bản |
+| `3235_nevus-ota_Cung-Mac-Mong-Mat_PMC9837000.jpg` | Fig. 2 — "Slit lamp image of the anterior segment in a patient with unilateral right oculodermal melanocytosis. Episcleral and scleral pigmentation in the right eye is clearly visible" | *Graefes Arch Clin Exp Ophthalmol* 2023, PMCID **PMC9837000** | **CC BY 4.0** | Nguyên bản (giữ 2 panel mắt bệnh / mắt lành) |
+| `3235_nevus-ota_Fundus-NIR_PMC9837000.jpg` | Fig. 4 — "Bilateral fundus photographs and near infrared reflectance (NIR) images of the posterior pole… diffuse darker coloration of the right (A) with respect to the left (B)" | *Graefes Arch Clin Exp Ophthalmol* 2023, PMCID **PMC9837000** | **CC BY 4.0** | Nguyên bản (giữ 4 panel A–D) |
+| `3235_nevus-ota_OCT-EDI_PMC9837000.jpg` | Fig. 5 — "Spectral domain optical coherence tomography… In the right eye, the choroidal scleral junction is not visible due to increased choroidal thickness (A), whereas this is clearly visible in the unaffected left eye (B)" | *Graefes Arch Clin Exp Ophthalmol* 2023, PMCID **PMC9837000** | **CC BY 4.0** | Nguyên bản |
+| `3235_nevus-ota_Bscan-Ascan_PMC12747081.jpg` | Fig. 1 — "(a) Ocular sonography showing mass attached to choroid at the superior section of vitreous cavity. (b) Sagittal section of left eyeball… demonstrates an intraocular, dark tan mass" | *Case Rep Ophthalmol Med* 2025, PMCID **PMC12747081**, DOI 10.1155/crop/1434134 — https://pmc.ncbi.nlm.nih.gov/articles/PMC12747081/ | **CC BY 4.0** | Nguyên bản (giữ 2 panel siêu âm + tiêu bản đại thể) |
+| `3235_nevus-ota_SSOCT-FAF-Bscan_PMC10131401.jpg` | Fig. 1 — "Initial findings on color fundus photography (CFP), swept-source optical coherence tomography (SS-OCT), fundus autofluorescence (FAF), B-mode echography, fluorescence angiography (FA), and indocyanine green angiography (ICGA) in the present case with choroidal melanocytosis" | *BMC Ophthalmol* 2023, PMCID **PMC10131401**, DOI 10.1186/s12886-023-02933-1 — https://pmc.ncbi.nlm.nih.gov/articles/PMC10131401/ | **CC BY 4.0** | Nguyên bản (giữ 10 panel A–J) |
+| `composite_nevus-ota_mat.jpg` | Ghép 3 panel từ Fig. 1 + Fig. 2 + Fig. 4 của PMC9837000 (da quanh hốc mắt, củng mạc/mống mắt hai bên, fundus + NIR) | *Graefes Arch Clin Exp Ophthalmol* 2023, PMCID **PMC9837000** | **CC BY 4.0** | **Ảnh ghép** bằng `tools/make_composite.py` — letterbox nền đen, **không crop, không kéo giãn**, dải đen ghi tên + attribution |
+
+## Ghi chú license
+- **CC BY 4.0** cho phép tái sử dụng, phái sinh và thương mại miễn ghi công đầy đủ (tên bài, tạp chí, năm, PMCID, license, có thay đổi hay không).
+- Không dùng ảnh nào có license ND (không phái sinh) trong ảnh ghép.
+- Ảnh của bài **PMC11520808** (CC BY-NC-ND) **không** được tải vào repo này: giấy phép cấm phái sinh và bài không cần thêm ảnh; số liệu B-scan 4,5 mm / 11 mm chỉ trích trong text kèm PMCID.
