@@ -191,6 +191,7 @@ CLASSIFY_4D = {
     "1492": "mat",     # PCO sau phacovitrectomy – YAG, năng lượng và nguy cơ bong võng mạc
     "1498": "mat",     # B-scan trước phẫu thuật đục thể thủy tinh – chỉ định xem hậu đoạn
     "1516": "mat",     # bệnh lý co kéo cận thị (MTM) – tách lớp hoàng điểm
+    "1518": "mat",     # tách lớp võng mạc ngoại vi so với bong võng mạc
     "1469": "mat",     # bong võng mạc có lỗ sau tiêm nội nhãn (IVARD)
     "3138": "dauco",   # hoại tử xương hàm dưới sau xạ trị (hàm mặt – đầu cổ)
     "3143": "vuspk",   # mất xương do ức chế buồng trứng + AI ở phụ nữ tiền mãn kinh (DXA/AIBL)
