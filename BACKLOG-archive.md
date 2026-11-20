@@ -2728,3 +2728,5 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 - 2026-11-20: PESS **21/21 thiếu thể tích**, **14/21 di lệch**; DFG quá cỡ 10–20%; CAHY **+2,97 mL/10 năm**.
 - 2026-11-20 · 3236 RION: 82,5% ngấm dây thị, 17,0% (u trong nhãn cầu) / 4,7% (ngoài nhãn cầu), latency 16–30 tháng; verify PASS 8/8; push OK.
 - 2026-11-20 · flip #2280 (3236); append #2286 → 3240 ICI-ON (đã check_duplicates).
+- 2026-11-20: viết **3239** nang kết mạc khổng lồ hốc mắt sau múc nhãn cầu (2% sau 347 ca HA, 3% sau độn thì hai, 11% sau DFG; TCA 14/14; cắt trọn → PESS), 4 ảnh + 1 composite.
+- 2026-11-20: flip #2285 → xong; append #2287 (3241 mucocele hốc mắt, đã check_duplicates).
