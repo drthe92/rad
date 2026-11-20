@@ -46,6 +46,7 @@ certainty: tong-hop-y-van
 | Cơ cả gân/viêm | Hốc mắt | Giả u, cellulitis, IgG4 | Đau + cả gân + steroid 48h | [422](../422-viem-gia-u/lesson.md) |
 | Mạch xoang hang | Xoang hang | Fistula, huyết khối | Tiếng thổi + SOV giãn | [423](../423-fistula-xoang-hang/lesson.md) |
 | Khối tuyến lệ | Trên-ngoài (ngoài nón) | **PA · ACC · lymphoma · IgG4** · sarcoid · viêm túi lệ · dacryops · di căn | **Một thùy + T2 sáng + ADC > 1,14 = PA; cả hai thùy hai bên + ADC < 0,76 = lymphoma; phá xương + wedge trên = ACC; dây dưới ổ mắt dày = IgG4** | [424](../424-tuyen-le/lesson.md), [3230](../3230-khoi-tuyen-le/lesson.md) |
+| **Mô mới trong hốc mắt SAU XẠ ACC tuyến lệ** | Giường mổ – đỉnh hốc mắt – khe ổ mắt trên – xoang hang – xương | **Tái phát · sẹo xơ · pseudoprogression/RICE · hoại tử xạ · RION · bệnh võng mạc do xạ · vạt/vật liệu · u thứ phát** | **Nốt đặc + T2 trung gian + ADC < 887 + lớn dần = tái phát; T2 tối + không ngấm + ADC cao + ổn định = sẹo; ngấm đỉnh ~3 tháng rồi giảm = pseudoprogression; viền ngấm + trung tâm hoại tử > 6 tháng = hoại tử xạ; mất thị lực không khối = RION** | [3233](../3233-theo-doi-acc-tuyen-le-sau-xa-va-tai-phat/lesson.md) |
 | TK thị/giao thoa | TK-yên | Viêm, NAION, glioma/ONSM, adenoma | Đau + ngấm = viêm; tram-track = ONSM; bán manh = yên | [430](../430-duong-thi-giac/lesson.md), [431](../431-u-than-kinh-thi/lesson.md), [432](../432-vung-yen/lesson.md) |
 | **ON tái phát/phụ thuộc steroid** | Thần kinh thị (optic nerve) | **CRION · MOG-ON · AQP4-ON · MS-ON · double-negative ON** · NAION · độc–chuyển hóa | **Ngấm dài ≥ 1/2 TK thị + AQP4 âm + tái phát khi giảm steroid = CRION**; **MOG-IgG (+) + đĩa phù + perineural = MOG-ON**; **AQP4 (+) + dài/chiasm + area postrema = NMOSD**; **ổ ngắn + OCB (+) + tổn thương não = MS** | [464](../464-viem-than-kinh-thi-tai-phat-CRION/lesson.md), [430](../430-duong-thi-giac/lesson.md), [434](../434-teo-thi-than-kinh-thi-doc-va-LHON/lesson.md) |
 | Đĩa thị | Đĩa thị (disc) | Phù đĩa, drusen, IIH | Frisén 0–5; lõi tối = drusen | [433](../433-phu-dia-thi-drusen/lesson.md) |
@@ -310,6 +311,7 @@ certainty: tong-hop-y-van
 - [423 – Fistula xoang hang](../423-fistula-xoang-hang/lesson.md) *(mới)*
 - [424 – Tuyến lệ](../424-tuyen-le/lesson.md) *(mới)*
 - [3230 – Khối tuyến lệ: PA vs ACC vs lymphoma vs IgG4 — ADC, wedge sign, 4 câu hỏi trước mổ](../3230-khoi-tuyen-le/lesson.md) *(mới)*
+- [3233 – Theo dõi ACC tuyến lệ sau xạ: tái phát vs thay đổi do xạ](../3233-theo-doi-acc-tuyen-le-sau-xa-va-tai-phat/lesson.md) *(mới — tái phát 31,1%, 4–168 tháng; ADC 887; pseudoprogression/RICE 3 tháng; RION 55–60 Gy)*
 - [430 – Đường thị giác](../430-duong-thi-giac/lesson.md) *(mới)*
 - [431 – U TK thị](../431-u-than-kinh-thi/lesson.md) *(mới)*
 - [432 – Vùng yên](../432-vung-yen/lesson.md) *(mới)*
