@@ -2704,3 +2704,5 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 - **2026-11-20** — flip **#2263 → xong**; append **#2273** (theo dõi dài hạn sau UGH: nhãn áp, OCT RNFL, ngưỡng phẫu thuật glôcôm, ID 3227, đã check_duplicates).
 - **2026-11-20** — viết **1516** (MTM & tách lớp hoàng điểm): **30%** mắt cận thị cao; tiến triển **43,4%/38,2 tháng**, **26,67%/15,4 tháng**, **24,8%**, **+> 100 µm**; **bong hoàng điểm 41,67%** → lỗ trong **23 ngày–3 tháng**; PPV CFT **427→156 µm**, dính **96,7%**, lỗ thứ phát **13,1%**; **FSIP 4,25% vs 8,6%** — 5 ảnh + 1 composite.
 - **2026-11-20** — flip **#2264 → xong**; append **#2275** (tách lớp võng mạc ngoại vi vs bong võng mạc, ID 1518, đã check_duplicates).
+- **2026-11-20** — viết **3228** (lộ độn hốc mắt muộn sau múc nhãn cầu): lộ **0,9–11%**, độn xốp gộp **7,1%**; **< 3 mm** theo dõi / **≥ 3 mm** mổ; MRI **cold zone**; 5 ảnh (CC BY ×4, CC BY-NC-SA ×1).
+- **2026-11-20** — flip **#2266 → xong**; append **#2276** (hội chứng hốc mắt không nhãn cầu, ID 3229, đã check_duplicates).
