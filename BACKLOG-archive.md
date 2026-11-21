@@ -2752,3 +2752,5 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 - 2026-11-20: flip #9451/3242 → xong; append #2302/3243 (FGFR; đã check_duplicates); push OK.
 - 2026-11-20: viết **3241** (orbital mucocele xoang→hốc mắt): 4 ảnh + 1 composite CC BY/CC BY-NC 4.0; 83,3% lan hốc mắt, 96% tiêu xương, 69% đứt lamina papyracea, 1–35 năm sau chấn thương/mổ, tái phát 15,2%; verify PASS 8/8.
 - 2026-11-20: flip #2287/3241 → xong; append #2303/3248 (silent sinus syndrome; đã check_duplicates); push OK.
+- 2026-11-21: viết **3245** (glôcôm melanomalytic trên melanocytosis): 3 ảnh CC BY-NC / CC BY-NC-SA / CC BY-NC-ND; 194 ca ODM tăng nhãn áp 10,3%, sắc tố góc không tương quan nhãn áp, ring melanoma chậm chẩn đoán TB 30 tháng; UBM 35–50 MHz trước stent.
+- 2026-11-21: flip #2290/3245 → xong; append #2304/3249 (PDS & glôcôm sắc tố; đã check_duplicates).
