@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 600" width="980" height="600" role="img" aria-labelledby="t d">
+  <title id="t">Phổ quang học và nơi năng lượng dừng lại trong mắt</title>
+  <desc id="d">Sơ đồ khái niệm: UV-C và UV-B bị giác mạc hấp thụ; UV-B còn lại và UV-A bị thể thủy tinh hấp thụ gây đục vỏ; hồng ngoại IR-A bị mống mắt và thể thủy tinh hấp thụ gây đục nhân và bong bao trước; ánh sáng nhìn thấy và IR-A tới được võng mạc.</desc>
+  <rect width="980" height="600" fill="#fbfcfe"/>
+  <text x="40" y="44" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#10233b">Phổ quang học và nơi năng lượng dừng lại trong mắt</text>
+  <text x="40" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#4a5a70">Cùng một tia “sáng nóng” gây đục ở hai tầng khác nhau — tùy bước sóng bị hấp thụ ở đâu. Sơ đồ khái niệm, các dải KHÔNG theo tỷ lệ.</text>
+
+  <!-- spectrum bar -->
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <rect x="60"  y="96" width="130" height="52" fill="#6b4bb8"/>
+    <rect x="190" y="96" width="130" height="52" fill="#8a5fd6"/>
+    <rect x="320" y="96" width="130" height="52" fill="#4f7fd6"/>
+    <rect x="450" y="96" width="130" height="52" fill="#3f9e6b"/>
+    <rect x="580" y="96" width="130" height="52" fill="#c9603f"/>
+    <rect x="710" y="96" width="130" height="52" fill="#8f2f24"/>
+    <rect x="840" y="96" width="100" height="52" fill="#5c1a12"/>
+    <g font-size="16" font-weight="700" fill="#ffffff">
+      <text x="125" y="120">UV-C</text><text x="255" y="120">UV-B</text><text x="385" y="120">UV-A</text>
+      <text x="515" y="120">Ánh sáng thấy</text><text x="645" y="120">IR-A</text><text x="775" y="120">IR-B</text><text x="890" y="120">IR-C</text>
+    </g>
+    <g font-size="13" fill="#f2f4f8">
+      <text x="125" y="140">100–280 nm</text><text x="255" y="140">280–315 nm</text><text x="385" y="140">315–400 nm</text>
+      <text x="515" y="140">400–780 nm</text><text x="645" y="140">780–1400 nm</text><text x="775" y="140">1,4–3 µm</text><text x="890" y="140">3–1 mm</text>
+    </g>
+  </g>
+
+  <!-- absorption rows -->
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <!-- cornea -->
+    <path d="M60 196 H320" stroke="#6b4bb8" stroke-width="4" fill="none"/>
+    <path d="M60 196 v10 M320 196 v10" stroke="#6b4bb8" stroke-width="3"/>
+    <text x="340" y="188" font-size="17" font-weight="700" fill="#10233b">Giác mạc + màng kết</text>
+    <text x="340" y="208" font-size="14" fill="#3b4a5e">hấp thụ &lt; 300 nm (UV-C, phần lớn UV-B) → viêm giác mạc–kết mạc do hàn (“arc eye”, mắt hàn)</text>
+
+    <!-- lens UV -->
+    <path d="M190 276 H450" stroke="#4f7fd6" stroke-width="4" fill="none"/>
+    <path d="M190 276 v10 M450 276 v10" stroke="#4f7fd6" stroke-width="3"/>
+    <text x="90" y="268" font-size="17" font-weight="700" fill="#10233b">Thể thủy tinh</text>
+    <text x="90" y="288" font-size="14" fill="#3b4a5e">hấp thụ 300–400 nm (UV-A + đuôi UV-B)</text>
+    <text x="470" y="268" font-size="14" fill="#3b4a5e">→ oxy hóa crystallin, đục <tspan font-weight="700">vỏ</tspan> hình nan hoa</text>
+    <text x="470" y="288" font-size="14" fill="#3b4a5e">(người trẻ truyền UV-A nhiều hơn người già)</text>
+
+    <!-- iris + lens IR -->
+    <path d="M580 356 H710" stroke="#c9603f" stroke-width="4" fill="none"/>
+    <path d="M580 356 v10 M710 356 v10" stroke="#c9603f" stroke-width="3"/>
+    <text x="90" y="348" font-size="17" font-weight="700" fill="#10233b">Mống mắt (sắc tố) + thể thủy tinh</text>
+    <text x="90" y="368" font-size="14" fill="#3b4a5e">hấp thụ IR-A 780–1400 nm → nhiệt tại chỗ</text>
+    <text x="730" y="348" font-size="14" fill="#3b4a5e">→ đục <tspan font-weight="700">nhân</tspan> + bong lớp <tspan font-weight="700">bao trước</tspan></text>
+    <text x="730" y="368" font-size="14" fill="#3b4a5e">(“đục thợ thổi thủy tinh”, true exfoliation)</text>
+
+    <!-- retina -->
+    <path d="M450 436 H710" stroke="#3f9e6b" stroke-width="4" fill="none"/>
+    <path d="M450 436 v10 M710 436 v10" stroke="#3f9e6b" stroke-width="3"/>
+    <text x="90" y="428" font-size="17" font-weight="700" fill="#10233b">Võng mạc</text>
+    <text x="90" y="448" font-size="14" fill="#3b4a5e">nhận 400–1400 nm khi đồng tử giãn, thể thủy tinh còn trong</text>
+    <text x="730" y="428" font-size="14" fill="#3b4a5e">→ tổn thương hoàng điểm do ánh sáng</text>
+    <text x="730" y="448" font-size="14" fill="#3b4a5e">(bài 1519)</text>
+
+    <!-- IR-B note -->
+    <text x="90" y="492" font-size="14" fill="#3b4a5e">IR-B 1,4–3 µm và IR-C bị <tspan font-weight="700">nước ở giác mạc – tiền phòng</tspan> hấp thụ mạnh, nên ít tới thể thủy tinh; tổn thương chính là bỏng giác mạc – mi.</text>
+  </g>
+
+  <!-- footer -->
+  <line x1="40" y1="516" x2="940" y2="516" stroke="#d6dde7" stroke-width="1"/>
+  <text x="40" y="544" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#5a6a80">Sơ đồ gốc Thư viện Chẩn đoán hình ảnh, CC0. Ranh giới bước sóng theo phân loại CIE (UV-C 100–280, UV-B 280–315, UV-A 315–400, IR-A 780–1400 nm).</text>
+  <text x="40" y="566" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#5a6a80">Số liệu ngưỡng &amp; bằng chứng dịch tễ: xem mục 1 và 4 của bài 1520.</text>
+</svg>
