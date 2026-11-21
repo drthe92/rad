@@ -2776,3 +2776,4 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 - 2026-11-21 — **3249 PDS/glôcôm sắc tố**: thang 5 giai đoạn, bộ ba theo sắc tộc (TID 0% ở người Nhật), AS-OCT bowing; 4 ảnh + 1 composite CC BY. Flip #2304 → xong; append #2310 (3257 Posner–Schlossman).
 - 2026-11-21 — viết **3250** CVM hốc mắt (T2 sáng + ngấm tiến triển; ADC 1,26/tỷ lệ 1,8; 116 ca giãn/không giãn AUC 0,869; 4 ảnh + 1 composite CC BY/NC-ND); flip #2305 → xong, append #2311 (3858 — dị dạng tĩnh mạch trong cơ, đã check_duplicates).
 - Verify PASS 8/8 (1396 bài/1396 card, parity 0, 15 legacy warn); R2 SKIP (chưa có r2.env).
+- 2026-11-21 — viết **3251** UZS sau ICL/pIOL (IOP 32–64 mmHg ngày 1 → 4/4 giãn cố định; hạ < 24 giờ + pilocarpin → 6→3,5 mm; vault 690/650 µm vẫn quá cỡ; PAS 4/4 vs 0/5 TASS; 6 ảnh + 1 composite CC BY/NC-ND); flip #2306 → xong, append #2312 (3256 — pupilloplasty sau UZS, đã check_duplicates).
