@@ -214,6 +214,7 @@ CLASSIFY_4D = {
     "3216": "mat",    # viêm giác mạc do nấm sợi (Fusarium/Aspergillus) — mắt (giác mạc)
     "3239": "mat",    # nang kết mạc khổng lồ trong hốc mắt sau múc nhãn cầu
     "3247": "mat",    # đục bao trước sau ICL phakic — mắt (đoạn trước – thể thủy tinh)
+    "3252": "mat",    # hội chứng bao chết (dead bag syndrome) — mắt (thể thủy tinh – bao)
     "6185": "msk",    # vỡ chuôi khớp háng nhân tạo — thất bại mỏi của implant
     "3145": "nhi",    # chấn thương tụy kín ở trẻ (chấn thương – tiêu hóa nhi)
     "1940": "bung",   # sỏi sót/tái phát & sỏi rơi sau cắt túi mật (gan mật)

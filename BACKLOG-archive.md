@@ -2764,3 +2764,4 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 - 2026-11-21 — flip #2295 → xong; append #2306 (ID 3251, Urrets–Zavalia sau ICL, đã check_duplicates).
 - 2026-11-21 — viết **1520** (đục thể thủy tinh do IR/UV): thợ hàn OR 2,95 (1,68–5,19) LMIC vs 1,22 (0,79–1,90) HIC; mặt trời OR 1,15; true exfoliation 2,2% (6/278), tuổi TB 85; AS-OCT + LOCS III; 3 ảnh + 1 sơ đồ CC0; verify PASS 8/8; push OK.
 - 2026-11-21 — flip #2301 → xong (bài 1520); append #9450 (ID 3252, dead bag syndrome, đã check_duplicates).
+- 2026-11-21: viết **3252** (dead bag syndrome) — 46+50 mắt, Soemmering 71,7%, dụi mắt 68%, IOP OR 10,9; 3 ảnh (CC BY-NC-ND + CC BY); flip #9450, thêm #2307 (3253 IOL calcification).
