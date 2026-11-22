@@ -34620,7 +34620,32 @@
    "sha256": "7a93501ed128249d0c6ed4903cf308043ff67af4061385795bbdded5fe6a2091",
    "size": 235512,
    "etag": "94432bdb8ff54b6ce1cf51b1fc2c270d"
+  },
+  "3275-iol-cao-cap-mat-da-cat-dich-kinh/images/3275_iol-cao-cap_Do-thi-defocus-ERM_PMC11989836-Fig2.jpg": {
+   "sha256": "f097e4ceaea71dcfa67594f3df45a6e6323385a06e2c2d4cb3d9a595de62bdf2",
+   "size": 28284,
+   "etag": "887b23add679370a3d3ab4abb1e05e80"
+  },
+  "3275-iol-cao-cap-mat-da-cat-dich-kinh/images/3275_iol-cao-cap_Do-thi-tilt-decentration_PMC13200907-Fig1.jpg": {
+   "sha256": "39cb603d0abff1a6f63251195ca8756cf34ec435e5e930ecb317caaa4bfa24d4",
+   "size": 124947,
+   "etag": "453cafca2da410c109d1c20636ca47de"
+  },
+  "3275-iol-cao-cap-mat-da-cat-dich-kinh/images/3275_iol-cao-cap_Bieu-do-thi-luc_PMC13518711-Fig2.jpg": {
+   "sha256": "9c559a1eab9b1a26f7076593a13a23be7767c5376dffe649f21df28f103847dc",
+   "size": 196636,
+   "etag": "c71c0af0494ab69554328e3688174407"
+  },
+  "3275-iol-cao-cap-mat-da-cat-dich-kinh/images/composite_defocus-EDOF.jpg": {
+   "sha256": "cc2ec9826179a8ca5b06dc06a7dc55f7d739818d55d7a7b2cd3eec8ec29257ef",
+   "size": 143767,
+   "etag": "a1dd5f0675be62d139726aa9abd923a0"
+  },
+  "3275-iol-cao-cap-mat-da-cat-dich-kinh/images/3275_iol-cao-cap_Do-thi-defocus_PMC13518711-Fig3.jpg": {
+   "sha256": "8d1018ff03088b62b08115db209d6cf8e66d0c1b8df85fcc555e1c1413d9b408",
+   "size": 122082,
+   "etag": "f368b4ce6c070d112869491066aabd33"
   }
  },
- "generated_at": "2026-11-22T17:28:01Z"
+ "generated_at": "2026-11-22T18:24:24Z"
 }
