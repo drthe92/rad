@@ -2816,3 +2816,6 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 - Flip **2322 → xong**; append **2323 (3269) Demodex blepharitis** (đã check_duplicates).
 ## 2026-11-22 — bài 3269 (Viêm bờ mi do Demodex)
 - Viết 3269: collarette **54% (409/754)** người khám mắt châu Âu, **>10/mi 32%**; lotilaner 0,25%×6 tuần **0–2 collarette 49,8% vs 9,9%**, diệt mite **60,2% vs 16,1%**; **TTO không khác sham** (9 RCT/1.513 ca). 5 ảnh + 1 composite CC BY-NC-SA. Verify PASS 8/8.
+## 2026-11-22 — bài 3262 (Rách chân mống mắt do chấn thương / iridodialysis)
+- Viết 3262: ngưỡng khâu **>2 giờ cung** (1 giờ = 30°), khâu củng mạc **1,5–2 mm** sau rìa; **9,3%** đụng dập – **0,2%** sau phaco (thứ cấp); **UBM đứt zonule 55,2%**; nhãn áp không ổn định **6,3–8,6%**, bong võng mạc **7,4–8,3%**. 4 ảnh + 1 composite CC BY/CC BY-NC. Verify PASS 8/8.
+- Flip **2317 → xong**; append **2325 (3271 iridodialysis ở trẻ)** đã check_duplicates; R2 SKIP (chưa có r2.env).
