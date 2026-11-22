@@ -34515,7 +34515,47 @@
    "sha256": "3e4ab42db1f3f7d61ac8737c82deaaa3c386482f8fa8a865a7c6283d66b6c6f1",
    "size": 169925,
    "etag": "cfbec40a582ee1117e33cdd7c65f6173"
+  },
+  "3270-rung-long-mi-madarosis-trichiasis/images/3270_trichiasis_SlitLamp_PMC5793455-Fig1.jpg": {
+   "sha256": "f67779686d33544e40a510d0a3dc85b5442bb829d95752ce733379e1a17ca999",
+   "size": 133348,
+   "etag": "21ede8c5d52866005884467bab08c841"
+  },
+  "3270-rung-long-mi-madarosis-trichiasis/images/composite_madarosis_nguyen_nhan.jpg": {
+   "sha256": "313ef19954909ebb94a54dae4a07090b4da5a147fbfbf0ee265d080fa269ed83",
+   "size": 110189,
+   "etag": "9ee05523414eeebc4fbdeb48547f652c"
+  },
+  "3270-rung-long-mi-madarosis-trichiasis/images/3270_trichiasis_SJS_PMC10157599-Fig2.jpg": {
+   "sha256": "487389fdcadb4eefb96189c8887d162495d8ff5fd5c282b15742f185f6b8583d",
+   "size": 287077,
+   "etag": "ad8ccfadcaac0530963bbd4c47f3ab8b"
+  },
+  "3270-rung-long-mi-madarosis-trichiasis/images/3270_madarosis_BrowAA_PMC3358936-Fig2.jpg": {
+   "sha256": "e08cd186b9d44c0c6660e357b6c0199d85140a2c206b02ef709655fa70510d9b",
+   "size": 122032,
+   "etag": "089fa91178ab2161f732e7a66765d97a"
+  },
+  "3270-rung-long-mi-madarosis-trichiasis/images/3270_madarosis_EyelashAA_PMC12693123-Fig1.jpg": {
+   "sha256": "c4e2dd7efb29936763c92d09bf737b65a5189a75843aa4760f6dca79c6e77057",
+   "size": 102023,
+   "etag": "d123dd0e6f50bd7b02ffe95a8dd314f4"
+  },
+  "3270-rung-long-mi-madarosis-trichiasis/images/3270_trichiasis_TrachomaScarring_PMC12539719-Fig2.jpg": {
+   "sha256": "b4223bbd35a1689e681e1071071cd6493fbcdbeedc2e7f5c518e4297d5550007",
+   "size": 298517,
+   "etag": "e3287796a4f6d98be90e4f11e445e7d4"
+  },
+  "3270-rung-long-mi-madarosis-trichiasis/images/3270_madarosis_BrowLeprosy_PMC3358936-Fig4.jpg": {
+   "sha256": "43e66a5aeba32336ffd3d3568c739dd8cde38919e2c75ec7bc2d07a467f7b3b5",
+   "size": 98670,
+   "etag": "48d54a73dbdb9b6779ace7f2cb8e38f2"
+  },
+  "3270-rung-long-mi-madarosis-trichiasis/images/3270_madarosis_BrowDLE_PMC3358936-Fig3.jpg": {
+   "sha256": "214169e42667ecc4ae0afc544ba013a71f39428de852ecd27d35b8e66bd53133",
+   "size": 111300,
+   "etag": "cb0abc9fc7ec91c6e424bdcb00fcbcdc"
   }
  },
- "generated_at": "2026-11-22T13:11:17Z"
+ "generated_at": "2026-11-22T15:53:52Z"
 }
