@@ -2803,3 +2803,5 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 2026-11-22: flip 2319 → xong; append 2320 (3265 mảnh thể thủy tinh sót sau phaco — đã check_duplicates); R2 SKIP (chưa có r2.env).
 2026-11-22: viết **3261** (RCES/EBMD) — CST 49/58 mắt + 34 trợt ẩn; phaco 48,2%; CET ≥60 µm lớn hơn fluorescein 9,26 mm²; PTK 18% (≥15 µm: 85%), burr 4,1%, ASP 29,4%; ĐTĐ aHR 1,35; 5 ảnh + 1 composite (CC BY 4.0 ×2, BY-NC-ND ×2, BY-NC ×1); verify PASS 8/8, push OK, 1.406 bài; R2 SKIP (chưa có r2.env).
 2026-11-22: flip 2316 → xong; **2320 (3265) gộp — trùng bài 1442** (đã đọc lại); append 2319 (3266 vỡ bao sau trong phaco — đã check_duplicates).
+2026-11-22: viết **3260** (limbal VKC) — thể rìa **59,09–61,5%** ở châu Á; **LSCD 5,29%, KC 18,43%, glôcôm 10,95%, đục TTT do corticoid 11,41%** (1.096 ca); tacrolimus 0,1% SMD −1,09; PEH vs OSSN; 7 ảnh CC BY/BY-NC-ND; verify PASS 8/8, push OK.
+2026-11-22: flip 2315 → xong; append 2321 (3267 SLK — đã check_duplicates); R2 SKIP (chưa có r2.env).
