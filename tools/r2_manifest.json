@@ -34455,7 +34455,47 @@
    "sha256": "9f71021262baa3bca81e99c27bf73c5d888c3a9eaa868fd34ae0a7d146f40e74",
    "size": 307704,
    "etag": "2fec9bf1c79e459b731e898faeac4f6b"
+  },
+  "3273-rach-bao-truoc-phaco/images/3273_rach-duoi-xich-dao_Mo-phaco_PMC10941923-Fig10.jpg": {
+   "sha256": "a03b32f89b158ff3a79f5b09def1ee7893b95da2ed215db808fde4aa47d4feba",
+   "size": 84950,
+   "etag": "d140319089392a37284e1cf63e568ad9"
+  },
+  "3273-rach-bao-truoc-phaco/images/3273_intumescent-van-sector_Mo-phaco_PMC10941923-Fig2.jpg": {
+   "sha256": "690181f9d38c44376de8cf82b815e26d461f182b1559f4f4c32682e58124879c",
+   "size": 44173,
+   "etag": "ac1ee27c8aa29994a70ba4e86af1e2e3"
+  },
+  "3273-rach-bao-truoc-phaco/images/composite_afs-vs-xu-tri.jpg": {
+   "sha256": "d148adf5781305898555988c3662e0ada9134aef460375422440655f2b8633f0",
+   "size": 80817,
+   "etag": "95895f702e94160aca01d8e0f374ebbd"
+  },
+  "3273-rach-bao-truoc-phaco/images/3273_rach-bao-truoc-mat-slitlamp_Mo-phaco_PMC10538828-Fig1.jpg": {
+   "sha256": "2755f36992df2aab50f01c4d533c876e26fdfd746a4c987ebf2bd14ca59523a8",
+   "size": 113407,
+   "etag": "21f0a4713adc6b7aed8828a7517a1f52"
+  },
+  "3273-rach-bao-truoc-phaco/images/3273_afs-bao-trang-xanh_Mo-phaco_PMC10941923-Fig1.jpg": {
+   "sha256": "52ad6edcff81079cd06d0c50bf129335135eb0929dc9ae4182f415a532a46882",
+   "size": 29561,
+   "etag": "45ea4d221db88b98b3b711df66a26931"
+  },
+  "3273-rach-bao-truoc-phaco/images/3273_two-y-crushing_Mo-phaco_PMC13052674-Fig2.jpg": {
+   "sha256": "3cdafbcafea5ca2c7ed2920a0c5468a816d439b0ec65792558dc841b95ec8128",
+   "size": 171726,
+   "etag": "4d82fec8392afa0983e39b627ff6bd9e"
+  },
+  "3273-rach-bao-truoc-phaco/images/3273_hinh-thai-rach_So-do_PMC5558569-Fig2.jpg": {
+   "sha256": "8ef8ca4fbe192d08585da701cc6183922cd3ae8cdd78b943f98ba448126b0b0e",
+   "size": 125712,
+   "etag": "502a7f0e9256685eac641060f6d38cfb"
+  },
+  "3273-rach-bao-truoc-phaco/images/3273_ubm-luoi-liem_UBM_PMC13363134-Fig1.jpg": {
+   "sha256": "21501486ee15a48c73ac81f2b0ce8bd22144fa7c28f6676c5c9de0a5238f94e8",
+   "size": 115186,
+   "etag": "1703b0d1e4c74b76f04225895e1886d9"
   }
  },
- "generated_at": "2026-11-22T10:47:34Z"
+ "generated_at": "2026-11-22T11:36:44Z"
 }
