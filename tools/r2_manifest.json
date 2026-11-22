@@ -34710,7 +34710,27 @@
    "sha256": "d4774049befb577d2011ef290b2c758930de18aeba95ed67ed8aee3233ddb6ea",
    "size": 440839,
    "etag": "aa33d85e101046894043247b7de8ac41"
+  },
+  "3278-duc-the-thuy-tinh-bam-sinh-mot-ben-iol-hay-aphakia/images/3278_duc-the-thuy-tinh-mot-ben_BieuDo_PMC13600075-f1.jpg": {
+   "sha256": "740f1cee54d7111db3e2ec26add9814dccbedc8d89252720e94185bcf12e505e",
+   "size": 137489,
+   "etag": "3377a492e8588ea951650b78432cc8b7"
+  },
+  "3278-duc-the-thuy-tinh-bam-sinh-mot-ben-iol-hay-aphakia/images/3278_duc-the-thuy-tinh-mot-ben_Slitlamp_PMC13713874-f1.jpg": {
+   "sha256": "91969b37c271f878ee72621c4ab137f9f6fc8e145aaa8a35bb2bf5424ec0d16a",
+   "size": 114601,
+   "etag": "be3af214f654903371b06ca6510b11c7"
+  },
+  "3278-duc-the-thuy-tinh-bam-sinh-mot-ben-iol-hay-aphakia/images/3278_duc-the-thuy-tinh-mot-ben_Bscan_PMC13713874-f2.jpg": {
+   "sha256": "e9bb92dff019307edb786d4a44a7e2450f99ff6db8846e7e7e9288ea4ef1d842",
+   "size": 110143,
+   "etag": "156fe8bec3d3ee1b6ae5d68862aaae86"
+  },
+  "3278-duc-the-thuy-tinh-bam-sinh-mot-ben-iol-hay-aphakia/images/3278_duc-the-thuy-tinh-mot-ben_UBM_PMC13713874-f7.jpg": {
+   "sha256": "660454cf6e17d3d3326c0dc91a2b1337f9997a4c1ac44611a0fada137adf7a72",
+   "size": 241000,
+   "etag": "7d3e8590dd5954c1994260cea802d31e"
   }
  },
- "generated_at": "2026-11-22T20:22:35Z"
+ "generated_at": "2026-11-22T21:22:09Z"
 }
