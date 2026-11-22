@@ -34365,7 +34365,52 @@
    "sha256": "ddbdb36f71dda36445a86d91792c99120033414828f479218fb7f69d81323687",
    "size": 65244,
    "etag": "0e29d7ba6a2bec5d837b042148c438e6"
+  },
+  "3262-rach-chan-mong-mat-iridodialysis/images/3262_iridodialysis_SlitLamp_PMC7949672-Fig1.jpg": {
+   "sha256": "10631768a88a2be171c8afcf56344f4e89759124a9d5946d71c3dec093ed369e",
+   "size": 149646,
+   "etag": "6a9fa494053a65ceb48eedc0ec0f3497"
+  },
+  "3263-benh-than-kinh-thi-dau-silicone/images/3263_benh-than-kinh-thi-dau-silicone_OCT_BMC-2023.jpg": {
+   "sha256": "d22d12cc0bab56b87fe6ab2c7fb95c06e41d13144fc8382c5e534353e362bd2e",
+   "size": 90612,
+   "etag": "1f807f923bfe2bb27afa09ee2a36933e"
+  },
+  "3262-rach-chan-mong-mat-iridodialysis/images/3262_iridodialysis_UBM_PMC8357616-Fig2.jpg": {
+   "sha256": "513195c41cc5994a7626911c5e84f80768e5b2286fb1fee68d70be917b7b4bc3",
+   "size": 68922,
+   "etag": "b6e9ea011e64ca3a7552395e8f8208da"
+  },
+  "3262-rach-chan-mong-mat-iridodialysis/images/composite_iridodialysis_khu-tru_vs_lan-rong.jpg": {
+   "sha256": "ed79a4201e4ca6d1cd9dc707224f6236ab8150debee7edb8523b07860d9e32f4",
+   "size": 151275,
+   "etag": "35786b7f182d093f51b326fef0a57abb"
+  },
+  "3262-rach-chan-mong-mat-iridodialysis/images/3262_iridodialysis_Technique_PMC9011996-Fig1.jpg": {
+   "sha256": "dd374ccdc9a5f2aa3abf9c9ffbd8b41a9433963c68de09181cbb6a60aa200509",
+   "size": 111007,
+   "etag": "a0d2045a24a1cb6b64b0269b37ee3099"
+  },
+  "3263-benh-than-kinh-thi-dau-silicone/images/3263_benh-than-kinh-thi-dau-silicone_SoDo_CC0.png": {
+   "sha256": "f34a307ab459267044b60a7d5364d93b877a0e11fffa703b016f6eff7cc6b4ba",
+   "size": 140336,
+   "etag": "e9ce93a6745324f46a1b6fee305aed38"
+  },
+  "3263-benh-than-kinh-thi-dau-silicone/images/3263_benh-than-kinh-thi-dau-silicone_OCT_JCM-2021.jpg": {
+   "sha256": "aeffc3a4dfbe0437a93849d4d54bdc534686fb6639bb717f99709bd332991832",
+   "size": 126254,
+   "etag": "deca2a2619cbb03695948793ae1f7238"
+  },
+  "3262-rach-chan-mong-mat-iridodialysis/images/3262_iridodialysis_SlitLamp_PMC6286550-Fig3.jpg": {
+   "sha256": "2fb361306bccb82be41ab21f8e01b4923ae0ea1982bc7a4ac2fc8d118ba2172f",
+   "size": 50012,
+   "etag": "d3b0c7891addfb8520980df6003828f1"
+  },
+  "3263-benh-than-kinh-thi-dau-silicone/images/3263_benh-than-kinh-thi-dau-silicone_SoDo_IJRV-2026.jpg": {
+   "sha256": "5d1a901f94ca1b700a459d69bcf9895b172f0a77522d7bce791a3c2b5f4c1a8a",
+   "size": 89560,
+   "etag": "41165f7ba10add493968bd9d990a6ecc"
   }
  },
- "generated_at": "2026-11-22T07:56:00Z"
+ "generated_at": "2026-11-22T09:44:30Z"
 }
