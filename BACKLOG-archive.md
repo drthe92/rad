@@ -2807,3 +2807,7 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 2026-11-22: flip 2315 → xong; append 2321 (3267 SLK — đã check_duplicates); R2 SKIP (chưa có r2.env).
 2026-11-22: viết **3267** (SLK) — SCS **98%**, sụn mi trên **85,2%**, cương tụ **80,8%**, nhão kết mạc **41,6%** (459 mắt); SLK **31,0% (198/638 mắt TED)**, hút thuốc **OR 1,785**, Graefe **OR 2,912**; rebamipide **84,8%**, cắt kết mạc **15/16/46 tháng**, áp lạnh **3/7 tái phát**; 4 ảnh (1 CC BY 2.0 + 3 CC BY-NC).
 2026-11-22: flip 2321 → xong; append **2322 (3268 medicamentosa — đã check_duplicates)**; R2 SKIP (chưa có r2.env).
+
+## 2026-11-22 — worker: 3268 (medicamentosa)
+- Viết **3268** (viêm kết mạc do thuốc nhỏ mắt): 5 ảnh + 1 composite (CC BY / CC BY-NC), 7 mục + mục 7 đủ nguồn; nguồn chính PMC12129204/PMC8294862/PMC10403269/PMC13078932.
+- Flip **2322 → xong**; append **2323 (3269) Demodex blepharitis** (đã check_duplicates).

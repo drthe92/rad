@@ -31250,7 +31250,3092 @@
    "sha256": "5a406b25c0bc0df72c5e26aa9dba2bf98ed974e8125f1802689b03508ab72a9b",
    "size": 232998,
    "etag": "7c2976c2a5dd30dec54d8117c863b002"
+  },
+  "1478-du-phong-phu-hoang-diem-sau-phaco/images/1478_du-phong-CME_Giac-mac-melt_PMC8772489-Fig1-CCBYNCSA.jpg": {
+   "sha256": "4f38a926e4df75b4fe64b8985bcd212061e10ea2a61f8dea1ebba36d8cf305fe",
+   "size": 44625,
+   "etag": "625dc098a5152d9f27776445f853c83d"
+  },
+  "1479-bong-vong-mac-thanh-dich/images/1479_bong-vong-mac-thanh-dich_Fundus-OCT_PMC13630659.jpg": {
+   "sha256": "0eac5b4bc827e197a991286eea269cebb16e595a6eeee96c481bcd199b0c06d8",
+   "size": 189215,
+   "etag": "cd5004bd71b7d60a12d172ff0ef941c4"
+  },
+  "1479-bong-vong-mac-thanh-dich/images/1479_bong-vong-mac-thanh-dich_Fundus-OCT_PMC12507074.jpg": {
+   "sha256": "1f4fc47b26313cd8186b6472fc6780ebf2b8024dc8d58073eed1950f35f92a34",
+   "size": 185441,
+   "etag": "60b9dbde6c45f11f6471640b9dbe11bf"
+  },
+  "1480-duc-the-thuy-tinh-sau-boc-mang-erm/images/1480_duc-ttt-sau-boc-mang_Fundus-OCT_PMC11989836-Fig1.jpg": {
+   "sha256": "71cdc0f936b3403eb77b3934437881f8ae3f673a75c92cd90010f41ec4e9745f",
+   "size": 65779,
+   "etag": "4c73a2866176630924ab21d1d299b3f6"
+  },
+  "1478-du-phong-phu-hoang-diem-sau-phaco/images/1478_du-phong-CME_OCT_PMC5636715-Fig2-CCBYNC.jpg": {
+   "sha256": "575273e8cc1c306a99b5e9f83757d6f9ae33c6318bb7dc136c0598faec03b596",
+   "size": 175766,
+   "etag": "b0084d35229b79703260a5ba772cdb6a"
+  },
+  "1479-bong-vong-mac-thanh-dich/images/1479_bong-vong-mac-thanh-dich_OCT_PMC9918243.jpg": {
+   "sha256": "90aaeaa8c32ac6736b02030130a61a4556a6f298e64df515f97a87507180fa7d",
+   "size": 211675,
+   "etag": "e0297aa99c3049d1bc2e4a036f6af559"
+  },
+  "1480-duc-the-thuy-tinh-sau-boc-mang-erm/images/1480_elp_SoDo_PMC7692585-Fig3.jpg": {
+   "sha256": "44c8d83fbf47276221a15e442a8363e09a555bc6ac2e5e9aeab9cb6abdc0f371",
+   "size": 37098,
+   "etag": "291496fb102b5d01c4012355f1b8c193"
+  },
+  "1478-du-phong-phu-hoang-diem-sau-phaco/images/composite_the-tich-hoang-diem-theo-nguy-co.jpg": {
+   "sha256": "7171f6b07115b5822e9c81ad24cfb4a7a5cd9a19fb8db17a8ed75ddc984ca544",
+   "size": 97339,
+   "etag": "17c07e10a932c7550e64227f2452d1ba"
+  },
+  "1480-duc-the-thuy-tinh-sau-boc-mang-erm/images/1480_myopic-shift_Bieu-do_PMC11246384-Fig1.jpg": {
+   "sha256": "5ed6dfd76e371811b273eba5a7a3da3480363391663f990ee43b012f38b2cb56",
+   "size": 37646,
+   "etag": "e8f1659a474fb3f5a4d8df85bdea7e0b"
+  },
+  "1480-duc-the-thuy-tinh-sau-boc-mang-erm/images/1480_oct-duc-ttt_OCT_PMC11624595-Fig1.jpg": {
+   "sha256": "990dcc61f882d63fb27397b26986cf865501f0df554abc4f3074395176c6951a",
+   "size": 223937,
+   "etag": "28adaec1772ce6728719c2525945ddf5"
+  },
+  "1479-bong-vong-mac-thanh-dich/images/1479_bong-vong-mac-thanh-dich_OCT_PMC5731175.jpg": {
+   "sha256": "70660f8bc1e152a2d79b9f8bf96c1926cfb0848f173fce6e103b4e58549a2970",
+   "size": 184338,
+   "etag": "8809a986ca0d10cd108ba7f455b48df5"
+  },
+  "1481-lo-rach-vong-mac-laser-du-phong/images/1481_lo-rach_FundusWide_PMC13378882-f1.jpg": {
+   "sha256": "a81cd86e167423c3d67e56fd4dda2c65582ee18e850a4a06ee6ec19bae343491",
+   "size": 82766,
+   "etag": "faa2b467b03866a2c3c9de3615b55c84"
+  },
+  "1481-lo-rach-vong-mac-laser-du-phong/images/1481_lo-rach_FundusLaser_PMC13216110-f1.jpg": {
+   "sha256": "5627749fed9beb44c52532274ff7f72f2ee48809f41e0aa0fffff032d91a0a88",
+   "size": 92747,
+   "etag": "eae0047d947ac21ae9d34dfd72283277"
+  },
+  "1481-lo-rach-vong-mac-laser-du-phong/images/1481_lo-rach_Fundus_PMC13378882-f4.jpg": {
+   "sha256": "a5dd20eed3cd9c8c42323d468b9a098fdaa145a5bdb87f5458e225edfc210d16",
+   "size": 90857,
+   "etag": "e70fd5ea8e5bfc0c1441dea3cf32795e"
+  },
+  "1481-lo-rach-vong-mac-laser-du-phong/images/1481_lo-rach_Fundus_PMC6961077-f1.jpg": {
+   "sha256": "c7072dbbe7c6b46c751c452b7480d7e5482f4435824b6331bb28ce95adf4cfc9",
+   "size": 44755,
+   "etag": "b41ce3b164b4d06a64654e0b4ddf65cf"
+  },
+  "1483-nang-tui-le-va-tac-le-dao-o-tre/images/1483_nang-tui-le_Anh-lam-sang_ClinOphth2014-F1.jpg": {
+   "sha256": "b96dce766cc85affa76e91c175de582d0a60e952abf24cc1dd9a79dfc1a07df9",
+   "size": 74373,
+   "etag": "e10ed9d98b19a8fc4e95af09113bd522"
+  },
+  "1483-nang-tui-le-va-tac-le-dao-o-tre/images/1483_nang-tui-le_CT_JBSR2017-F1.jpg": {
+   "sha256": "57833f6355c6033585e92b65ec154f541ad2dae6c730934b354e45da60534b99",
+   "size": 31390,
+   "etag": "204db0a5701acac827001040823c0c41"
+  },
+  "1483-nang-tui-le-va-tac-le-dao-o-tre/images/1483_nang-tui-le_CT_JBSR2017-F3.jpg": {
+   "sha256": "810a0c538e984b5a41032a9e8e5b7bce59800de2a01f37b83354b9b154ff1dc0",
+   "size": 27860,
+   "etag": "a22eb086b37303e742d4909eaf7ad253"
+  },
+  "1483-nang-tui-le-va-tac-le-dao-o-tre/images/1483_nang-tui-le_CT_Cureus2020-F2.jpg": {
+   "sha256": "7a0828d75230c9a948fb1f0a5beeecb1a32733c1aca9f8020e7d9d249d22b314",
+   "size": 186058,
+   "etag": "5d7b208c1e768b8c5f9bdbf17c9d87fb"
+  },
+  "1483-nang-tui-le-va-tac-le-dao-o-tre/images/composite_bo-ba-nang-tui-le.jpg": {
+   "sha256": "76815462d923342b0f86fb235c6864ff83b1251c40f7aa698dce38c63b937ea5",
+   "size": 110633,
+   "etag": "7ee2245f36e3337794090c947d709849"
+  },
+  "1483-nang-tui-le-va-tac-le-dao-o-tre/images/1483_nang-tui-le_US_KJR2015-F1.jpg": {
+   "sha256": "5860156d5fa50f305181e3ef74ecc9f96417b7bfaf56b044a0a5ebf89ea33f7b",
+   "size": 48737,
+   "etag": "010a4fdee34df4fd03a260a9ae050d6a"
+  },
+  "1483-nang-tui-le-va-tac-le-dao-o-tre/images/1483_nang-tui-le_CT_JBSR2017-F2.jpg": {
+   "sha256": "6636dc96d17b5b8a390bc610b604c25b4e6ada62eec5a92d7a4bec0d4c4b445c",
+   "size": 13359,
+   "etag": "e0546be7c623ed9bb8b0970233e557b9"
+  },
+  "1484-bong-hac-mac-sau-mo-mat/images/1484_bong-hac-mac_US-Bscan-Tsign_PMC9302307.jpg": {
+   "sha256": "12d4ae4cd89131230572ea6cbf77599cf2ae85baa4751a3859d9d95703f90af1",
+   "size": 90253,
+   "etag": "d1de647db127bb561db252c4a9f97f6b"
+  },
+  "1484-bong-hac-mac-sau-mo-mat/images/1484_bong-hac-mac_US-Bscan-kissing_PMC12542795.jpg": {
+   "sha256": "3d787d3e84feb731e72b9cc078c264b3486a6b0132237ba931b01f1de9669ff7",
+   "size": 142211,
+   "etag": "7f3d32e42271879a21719a6822667fc5"
+  },
+  "1484-bong-hac-mac-sau-mo-mat/images/1484_bong-hac-mac_US-Bscan-serous-vs-SCH_PMC11766375.jpg": {
+   "sha256": "1096f7eb936f157ea852684118647c0c27f62bc995b4a0bfa33557218f5511eb",
+   "size": 100386,
+   "etag": "94d9243c616c1b9c16c8d3757e4d9df7"
+  },
+  "1484-bong-hac-mac-sau-mo-mat/images/1484_bong-hac-mac_US-Bscan-triangle_PMC11766375.jpg": {
+   "sha256": "c87f57fdf9e2ec98e7cf0e04a64641d6c8c06002ec2ef82bab4a8ea3dd07699f",
+   "size": 91254,
+   "etag": "be641d4fc7732c440bbf1f057d510163"
+  },
+  "1484-bong-hac-mac-sau-mo-mat/images/1484_bong-hac-mac_US-UBM_PMC11208247.jpg": {
+   "sha256": "698052311d53962b0014fecda6361668c3d4adcbddd7a21436c2d7dbd9071d71",
+   "size": 127218,
+   "etag": "0a7ad2f27cf8157cb5e4ccfe832ed542"
+  },
+  "1485-viem-tui-le-cap-va-ap-xe-tui-le/images/1485_ap-xe-hoc-mat_CT_IJSCaseRep2018-F1.jpg": {
+   "sha256": "038e84c04fa82599bb6eefc26713a095d87c6b6650960ee72b687ab88ccb384e",
+   "size": 129570,
+   "etag": "8633f76d613c625f2f0a5a6a3fb52a52"
+  },
+  "1485-viem-tui-le-cap-va-ap-xe-tui-le/images/1485_ap-xe-tui-le_Anh-lam-sang_JOII2013-F1.jpg": {
+   "sha256": "823e3335be913ec50e87387b3b52c90335f45bfe2a24f7b34253dca3a5ad39f4",
+   "size": 135033,
+   "etag": "6013536310d0cc6268f2985d12e32293"
+  },
+  "1484-bong-hac-mac-sau-mo-mat/images/1484_bong-hac-mac_US-Bscan_PMC12041713.jpg": {
+   "sha256": "8950c52c82e2b6b08ca999bcb828bef4cad06e89d5fe60c742d29b42e309d577",
+   "size": 62374,
+   "etag": "b059038b2d1f55c1ca684af29a10e670"
+  },
+  "1485-viem-tui-le-cap-va-ap-xe-tui-le/images/1485_ap-xe-tui-le_US_ItalJPediatr2020-F1.jpg": {
+   "sha256": "6729d90b9f6b3fc1de3ed68b7261b49fb83375e85a21b76fc9e1866f5a38e3bd",
+   "size": 77070,
+   "etag": "e22acc33da73b083cced36b691d666d3"
+  },
+  "1485-viem-tui-le-cap-va-ap-xe-tui-le/images/1485_u-tui-le_MRI_QIMS2026-F2.jpg": {
+   "sha256": "26f39c958ef26de13c51d1380476b42c21acd1141c812885ed7d76be70fe51b7",
+   "size": 123121,
+   "etag": "61c371f25868cb4f08ded7471d446dfa"
+  },
+  "1485-viem-tui-le-cap-va-ap-xe-tui-le/images/1485_viem-tui-le_CT_ArqBrasOftalmol2022-F1.jpg": {
+   "sha256": "79295c8560716023ea854e99000b9ed690473768872639fbd0760a52aa40c9d0",
+   "size": 146747,
+   "etag": "5553ea66a21f7a6fa811c87f9527afa4"
+  },
+  "1485-viem-tui-le-cap-va-ap-xe-tui-le/images/1485_viem-tui-le_CT_JClinMed2021-F1.jpg": {
+   "sha256": "925111da7066204508a6c653a79d0e8e41e6ca9926a90a58c3ef50ed454473a1",
+   "size": 50259,
+   "etag": "9308034a08c67d7b0848b5991d5bbb68"
+  },
+  "1486-khoi-hac-mac-sieu-am/images/1486_khoi-hac-mac_B-scan-A-scan_PMC12997589.jpg": {
+   "sha256": "b375c8092061379afb6962d56a98b178ab48ffbe0f341407bf3f3b8673d8458f",
+   "size": 43221,
+   "etag": "b94022dac5d78cfa03e528e9af4f1f08"
+  },
+  "1486-khoi-hac-mac-sieu-am/images/1486_khoi-hac-mac_B-scan_PMC13505472.jpg": {
+   "sha256": "89fce035b4016eed75c853cd9ab6e89bccc72191d66b2ae610157d5e139e74d0",
+   "size": 165580,
+   "etag": "b986693f8373ca8f9bfcecd59eb09191"
+  },
+  "1486-khoi-hac-mac-sieu-am/images/1486_khoi-hac-mac_US_PMC13082809.jpg": {
+   "sha256": "0831064704f673249d5896ce36e12c7cfe99d1fd202ed0dabadc64885ef792c1",
+   "size": 60744,
+   "etag": "b3c62db052b50552f120a4c88b5bf3ff"
+  },
+  "1486-khoi-hac-mac-sieu-am/images/1486_khoi-hac-mac_MRI_PMC13505472.jpg": {
+   "sha256": "5f06435f65cf3f9e7f6108749b2bb9c14f1e6c1cd0e86a9f18ed38d58ae5aa4e",
+   "size": 164221,
+   "etag": "f025e53f09ad8085b525d67982e64ad1"
+  },
+  "1486-khoi-hac-mac-sieu-am/images/1486_khoi-hac-mac_B-scan-CT_PMC13380033.jpg": {
+   "sha256": "025be09cf25ec4f18d8671fef7f7f679b5d00baa099815cc7300621b023f95c9",
+   "size": 133901,
+   "etag": "6654da136a94f8f0ae6fd413a5f3d044"
+  },
+  "1487-bong-vong-mac-gia-the-thuy-tinh/images/1487_prd_Bscan_PMC13672910-f4.jpg": {
+   "sha256": "89eaa295f064cbc2430c84cffdae5cc73c6745f68ae6a28a58a7b8251e47f222",
+   "size": 238584,
+   "etag": "dc4b74343f11025605384901968625e4"
+  },
+  "1487-bong-vong-mac-gia-the-thuy-tinh/images/1487_prd_UWFOCT_PMC12950224-f2.jpg": {
+   "sha256": "c43b66bfa7f3fd14a923562e3e69959ea776f31797dea7222901ba45cecef14a",
+   "size": 50937,
+   "etag": "08926fde1976af538ba90dfdd82fc632"
+  },
+  "1487-bong-vong-mac-gia-the-thuy-tinh/images/1487_prd_OraBscan_PMC13672910-f11.jpg": {
+   "sha256": "d6de40f0c5828557df7ee20f2efe2b00d23650b88472a54479df729ab8216749",
+   "size": 234573,
+   "etag": "4853503b5c60df16cb158ae08d60de08"
+  },
+  "1487-bong-vong-mac-gia-the-thuy-tinh/images/1487_prd_BreakBscan_PMC13672910-f6.jpg": {
+   "sha256": "6294306f3844819ed8e241c533bc3dbdff1cbf4bc6c7879474419efa0d8372bc",
+   "size": 219452,
+   "etag": "9aa973b3dba416cdef6b0f13ae88e4c1"
+  },
+  "1490-sinh-trac-iol-mat-bom-khi/images/1490_bom-khi_OCT_Day1-4-may_IJRetinaVitreous2026-F3.jpg": {
+   "sha256": "7943efeb4b3df399477c896293a193c383456c25c8c4a6957c1946956942b7ab",
+   "size": 44393,
+   "etag": "44423830c945a0065f4f9bb0ee7bf1c0"
+  },
+  "1490-sinh-trac-iol-mat-bom-khi/images/1490_bom-khi_ASOCT_ACD-IOL_ClinOphthalmol2025-F1.jpg": {
+   "sha256": "ec216e69dbd231d90b0da29f778b7023118dff5f872733f5d7c831c130079925",
+   "size": 131787,
+   "etag": "b1b25080da6000ad238e000dec7a7d08"
+  },
+  "1490-sinh-trac-iol-mat-bom-khi/images/1490_bom-khi_Slitlamp_Khi-tien-phong_Diagnostics2026-F2.jpg": {
+   "sha256": "d75ce70881f92d33aef04dddb24a55a8deb887400c3b159e9a30ac86d4a9e3e4",
+   "size": 60192,
+   "etag": "567161229d3b6326497e5eba6bc8bcd9"
+  },
+  "1490-sinh-trac-iol-mat-bom-khi/images/1490_bom-khi_Scatter_Duration-AL_ArqBrasOftalmol2025-F1.jpg": {
+   "sha256": "10ddd95d2701610b3521277e21a0cb74709b5a7cfb319e26ece2d6001455b411",
+   "size": 75829,
+   "etag": "ab5eb364c2fc3b69669b4eca8b5823d9"
+  },
+  "1490-sinh-trac-iol-mat-bom-khi/images/composite_1490_hai-vi-tri-bong-khi.jpg": {
+   "sha256": "56d802dc0659d65baa0005da101022755a29145a36dd6db0f68755633a971154",
+   "size": 110761,
+   "etag": "d7944c3bcc61620163048cfea822efb2"
+  },
+  "1491-nang-bi-mui-duong-ro-bam-sinh-o-tre/images/1491_nang-bi-mui_Anh-lam-sang_FrontPediatr2025-F1.jpg": {
+   "sha256": "aee003d1870ad3da1d7f682c07eed40538685e4a2122c5bbbc9fe8879c27ef1b",
+   "size": 184606,
+   "etag": "8897f6637e767f4a6609941aa5699ed7"
+  },
+  "1491-nang-bi-mui-duong-ro-bam-sinh-o-tre/images/1491_nang-bi-mui_CT_Diagnostics2023-F4.jpg": {
+   "sha256": "3a20465af4b3aa7407a1c26641ada84924837af0e13d73aa2ff1a7c7837c8f74",
+   "size": 48210,
+   "etag": "48718f00ae7d465ac5448074898ed5d2"
+  },
+  "1491-nang-bi-mui-duong-ro-bam-sinh-o-tre/images/1491_nang-bi-mui_CT_FrontPediatr2025-F2.jpg": {
+   "sha256": "4967a7970148e03a07393c31fae50f5e3c0768cf66e1b407528aa53741558ea5",
+   "size": 86100,
+   "etag": "a5a5a6e24845b1fbf3f387c2c10e0ba4"
+  },
+  "1491-nang-bi-mui-duong-ro-bam-sinh-o-tre/images/1491_nang-bi-mui_MRI_Diagnostics2023-F5.jpg": {
+   "sha256": "8918234f672c798d8296dec6cb092ccd01cea0365d577f24ae1581e06f416134",
+   "size": 70414,
+   "etag": "85462349f2a8dccf9092f2b23a84b777"
+  },
+  "1491-nang-bi-mui-duong-ro-bam-sinh-o-tre/images/1491_nang-bi-mui_MRI_FrontPediatr2025-F3.jpg": {
+   "sha256": "0ad54e1a144b6ae19e41295feabee59ada3dfddde64fd0c91e884a1d7ab2992a",
+   "size": 88167,
+   "etag": "c4e08b482c4aabd0f874d3f51ab69fc0"
+  },
+  "1492-duc-bao-sau-iol-yag-sau-cat-dich-kinh/images/1492_bong-vong-mac-sau-yag_Fundus-OCT_PMC7168856-Fig3.jpg": {
+   "sha256": "19b20a2a23a899c7bb82a1625e99968462b7d2dd88e11c4266a83b87ccba804e",
+   "size": 27414,
+   "etag": "4c3919f0d267408a57c8ad2f20e032cd"
+  },
+  "1491-nang-bi-mui-duong-ro-bam-sinh-o-tre/images/composite_khuyet-xuong-vs-duong-ro.jpg": {
+   "sha256": "a288565a422a5c42e53b7cd6413ae406995d3c758e764ecd8063bc45f864fa1f",
+   "size": 110895,
+   "etag": "dbb004d495ce336e833880238316875a"
+  },
+  "1492-duc-bao-sau-iol-yag-sau-cat-dich-kinh/images/1492_loi-lech-iol-sau-yag_Den-khe_PMC3959091-Fig4.jpg": {
+   "sha256": "3ef4d1a89c77f78ee64ec96af3362dd7ab5393c7f63818517f48426452649e36",
+   "size": 28205,
+   "etag": "f9818ede56c91d39b48c65fca2420d5b"
+  },
+  "1492-duc-bao-sau-iol-yag-sau-cat-dich-kinh/images/1492_mo-bao-sau-thi-dau_Den-khe_PMC6407776-Fig2.jpg": {
+   "sha256": "f7723325e0f7287c25fa041cb6dccd4ea9b0dfe0ceb8ee4a371189dd8635429d",
+   "size": 65225,
+   "etag": "39edba3cf78a9c0ee50d3566f65dd889"
+  },
+  "1492-duc-bao-sau-iol-yag-sau-cat-dich-kinh/images/1492_pco-cac-do-day_Den-khe_PMC10229945-Fig1.jpg": {
+   "sha256": "3b359fb905edc2ecac2f6ac45d94255915a339f95b5f39ae7d602e4ac0eee70f",
+   "size": 104365,
+   "etag": "a318dd8b8f876c792297e45b16f477fc"
+  },
+  "1492-duc-bao-sau-iol-yag-sau-cat-dich-kinh/images/1492_tai-duc-truc-quang_Den-khe_PMC5161819-Fig2.jpg": {
+   "sha256": "632998547ae18539874467a5a9b60cc9854b309d5c2fbe9f295e1d79223a12e3",
+   "size": 54527,
+   "etag": "b96df18502247c64b77b09f446689c84"
+  },
+  "1492-duc-bao-sau-iol-yag-sau-cat-dich-kinh/images/1492_pco-sau-phacovitrectomy_OCT-PLUS_PMC4273457-Fig1.jpg": {
+   "sha256": "a778e3bcd1e93e1ea17dac45bb50d9ffa2bd1a54e5359cf8103d2bc0b16e79c6",
+   "size": 156427,
+   "etag": "7cf712d0a46c2f779b9c16d9c6f32ae8"
+  },
+  "1493-bien-chung-dai-hoang-diem-khi-nao-thao/images/1493_dai-hoang-diem_MRI_PMC11270332.jpg": {
+   "sha256": "9107a0b0d2235efdad4c22bc4254b966c2496be9fa51946ae9efa805f2072618",
+   "size": 79015,
+   "etag": "51a881b3dae85347d7b88c0391be36cc"
+  },
+  "1493-bien-chung-dai-hoang-diem-khi-nao-thao/images/1493_dai-hoang-diem_Anh-mo-phong_PMC7216842.jpg": {
+   "sha256": "eb9170988238e59f8cb87740dc8b1e471a868e0013904057a48d07eb06cad80d",
+   "size": 120420,
+   "etag": "98b9bb7727be06dd36f46ac143abd85a"
+  },
+  "1493-bien-chung-dai-hoang-diem-khi-nao-thao/images/1493_dai-hoang-diem_Sieu-am_PMC11350928.jpg": {
+   "sha256": "ea5291f89c64f4bad9b473caa5c54d6e817b994a4b5c129f3d6038a68c1e5c4b",
+   "size": 57299,
+   "etag": "e7dc26db7f7aeadbece65ef3056c9fd0"
+  },
+  "1493-bien-chung-dai-hoang-diem-khi-nao-thao/images/1493_dai-hoang-diem_OCT_PMC7216842.jpg": {
+   "sha256": "4af7ab7495a6cd990d1dc881a7b6b79fff40339637d587cdfdb6bfe78643ddfe",
+   "size": 96440,
+   "etag": "ad470305b4cdc3c2d3452c737679f4aa"
+  },
+  "1494-mu-vo-nao-cvi-o-tre/images/1494_PVL-cuoi_T2_PMC5036328-F5.jpg": {
+   "sha256": "54b11f91d200a4424be8e5b3cad0c95faad70b5baf0f6cf60b2ecc22b179a354",
+   "size": 37850,
+   "etag": "cd607b606300b4d40b8a207eab102f14"
+  },
+  "1494-mu-vo-nao-cvi-o-tre/images/1494_PVL-peritrigonal_T2-FLAIR_PMC5036328-F7.jpg": {
+   "sha256": "78de9f3fa753e481de18fb1da31bce34257cc5466edab5b7693f4be6dfc5ff0c",
+   "size": 93518,
+   "etag": "580590c72d55ecb9bef88d8f00afeb0b"
+  },
+  "1496-tac-le-dao-sau-chan-thuong-va-mo-xoang/images/1496_tac-le-dao_CT-DCG_ClinOphthalmol2025-F1.jpg": {
+   "sha256": "3a27f5dbbcc9dba02c283cd228435c4e8a1b7b5c25c807513df105b468f70ddd",
+   "size": 60180,
+   "etag": "e951f89951811f8c928157670cb2c9c4"
+  },
+  "1494-mu-vo-nao-cvi-o-tre/images/1494_fMRI-vo-cham_PVL_PMC3150674-F4.jpg": {
+   "sha256": "c5f2bdc188ee71aa2c776073e9ae91a9be4b4fa08cabd48c3bf4e742f973cec4",
+   "size": 303037,
+   "etag": "be7f3108b9aa8115556c4ffcc8fb8078"
+  },
+  "1496-tac-le-dao-sau-chan-thuong-va-mo-xoang/images/1496_tac-le-dao_CT-DCG_BMCOphthalmol2026-F3.jpg": {
+   "sha256": "6514e00bdc389b44a3ef863dad39197df6b520a48680f439b45bbc1dee42da74",
+   "size": 296482,
+   "etag": "6b2677be3d9160dc130e7f34adc4df5d"
+  },
+  "1496-tac-le-dao-sau-chan-thuong-va-mo-xoang/images/1496_tac-le-dao_CT_AmJRhinolAllergy2026-F1.jpg": {
+   "sha256": "99830ec6ad5fe2b9b644ebfa86346990f6b6128cafd7ac498150eb63f7cc5869",
+   "size": 44345,
+   "etag": "807b59b9f15c70fbf648792448e21e80"
+  },
+  "1496-tac-le-dao-sau-chan-thuong-va-mo-xoang/images/1496_tac-le-dao_CT_Cureus2024-F3.jpg": {
+   "sha256": "f8d6af5b909a1bd771c653e55d2f0c5035adb7ea3ff4bfe76e9173e802545eaf",
+   "size": 68598,
+   "etag": "89da5f7f07db4bc0827981787aaf2bbf"
+  },
+  "1496-tac-le-dao-sau-chan-thuong-va-mo-xoang/images/1496_tac-le-dao_CT_Cureus2024-F4.jpg": {
+   "sha256": "33726d9fb0da4a68ad62e2a36788c63d3a147037d2c962743445518c25675e1d",
+   "size": 68749,
+   "etag": "c002cadf5197fd5a7d43d35d8c0060ab"
+  },
+  "1496-tac-le-dao-sau-chan-thuong-va-mo-xoang/images/composite_ong-le-dao-xuong-chan-thuong.jpg": {
+   "sha256": "4e9104d3bb067c4aa4bf32f7e584193e50bac2d1dd4901a1e80d5c0fb3a5bedf",
+   "size": 90146,
+   "etag": "39791e5230250f6e0004a4bc7c949897"
+  },
+  "1494-mu-vo-nao-cvi-o-tre/images/1494_vung-myelin-tan-cung_T2-FLAIR_PMC5036328-F8.jpg": {
+   "sha256": "781a1fc05b4c23cf8fa60672105f1402c1b23e9a39701f346d0985683d86b5ca",
+   "size": 38934,
+   "etag": "e086374be5f4b0b2bebf93823bdbbe8f"
+  },
+  "1498-sieu-am-bscan-truoc-phaco-hau-doan/images/1498_bao-sau-PPC_Sieu-am-25MHz_PMC5896256-Fig1.jpg": {
+   "sha256": "011ccbe404cc7259ec8907f2b968efe71e9ef296816e25a48c4a9749a6b0c132",
+   "size": 98623,
+   "etag": "f5c569b9dad5e156b3435c9514621b15"
+  },
+  "1497-tai-phat-bo-sau-xa-ban-mach-melanoma-hac-mac/images/1497_melanoma-hac-mac_Benh-hoang-diem-xa_OCT_PMC13662462.jpg": {
+   "sha256": "a4cb77011687bf97287b9a85cbc0a152e02c1987467ed16e4af5371d7ca7eb03",
+   "size": 28045,
+   "etag": "3b7f3b89b420064918ca5ec38aa4ce69"
+  },
+  "1497-tai-phat-bo-sau-xa-ban-mach-melanoma-hac-mac/images/1497_melanoma-hac-mac_thoai-trien_Fundus-Bscan-FA-OCT_PMC8867240.jpg": {
+   "sha256": "3554e9f440cc4e9b5a14c3c061a3fa2cdc4f6e190577062cb5a8bf22574178ab",
+   "size": 151217,
+   "etag": "069e134c79f0b96f57f7c29d629f8193"
+  },
+  "1498-sieu-am-bscan-truoc-phaco-hau-doan/images/1498_bscan-bong-vong-mac_Hau-doa_PMC13672910-Fig6.jpg": {
+   "sha256": "7339587469fd7d61328344f2895eee0fa6cec1606da1b8211e1c0068bb10347f",
+   "size": 165733,
+   "etag": "bfe9741c459e0f1716686e7e96a210c5"
+  },
+  "1498-sieu-am-bscan-truoc-phaco-hau-doan/images/1498_bscan-dialysis_Hau-doa_PMC13672910-Fig11.jpg": {
+   "sha256": "b79b8413eae23707644eca7bf23bd2620b1f77702bf778f72dd7e51efc80a6d4",
+   "size": 180167,
+   "etag": "ae8b729c48c8d4f6258a40d40e680136"
+  },
+  "1498-sieu-am-bscan-truoc-phaco-hau-doan/images/1498_bscan-gia-bong-retinoschisis_Hau-doa_PMC13672910-Fig10.jpg": {
+   "sha256": "e2970c98dc2ced84bc3829753de0b2f534ac70fe41ea22a9616c474b2e1c91cf",
+   "size": 199027,
+   "etag": "f7deae2294ae280d5a862ddcdcbd08f9"
+  },
+  "1498-sieu-am-bscan-truoc-phaco-hau-doan/images/1498_bscan-hypermature-phacolytic_Hau-doa_PMC13672910-Fig14.jpg": {
+   "sha256": "9437effb8655906d5141542cfb98db11d504bf2e53272bee1bf8e8fcd8184cdd",
+   "size": 160722,
+   "etag": "6255510203697343e93f6334013000d2"
+  },
+  "1497-tai-phat-bo-sau-xa-ban-mach-melanoma-hac-mac/images/1497_melanoma-hac-mac_tai-phat-bo_Fundus-Bscan-OCT_PMC13254904.jpg": {
+   "sha256": "25b83905362e97112e4054de3a2cbd881dab738cf00884113e772d35d5cca70b",
+   "size": 250869,
+   "etag": "8b28b826135500864bfaddecc75fa70e"
+  },
+  "1499-song-thi-lac-sau-mo-bong-vong-mac/images/1499_aniseikonia_Bieu-do_PMC6690871.jpg": {
+   "sha256": "4cf0eb48136895e764d6c7db4bbc241967fa77bf3eb233574447cc0ba3a30153",
+   "size": 26327,
+   "etag": "f4d8cdc2331e80e8fe39b87baed771ac"
+  },
+  "1499-song-thi-lac-sau-mo-bong-vong-mac/images/1499_dau-silicone_Anh-mo_PMC10369194.jpg": {
+   "sha256": "9ba9d32986f46eaf5660310fc97954b879d300d70aa1ed6e495aa9edbe010647",
+   "size": 137857,
+   "etag": "ad194e468e7324cc5978a6ebd4c1e729"
+  },
+  "1498-sieu-am-bscan-truoc-phaco-hau-doan/images/1498_double-peak_A-scan-PMC11338405-Fig1.jpg": {
+   "sha256": "a1d2fd4769bb88153b984f54646656947de2f213f39053c1682580e99b5c1e7d",
+   "size": 75877,
+   "etag": "ee6b44aee89df8a8b6037477af3d60f3"
+  },
+  "1499-song-thi-lac-sau-mo-bong-vong-mac/images/1499_song-thi_Retina-displacement-OCT_PMC7209121.jpg": {
+   "sha256": "5c2a5312a7794a0766bd4b02bd12924dab0a85d416cc1a52ac16aba75030f0a4",
+   "size": 130603,
+   "etag": "3f6782a490279a344400a27162a46f56"
+  },
+  "1501-chan-thuong-thi-than-kinh-ton/images/1501_ton-dut-day-thi_MRI_PMC11722660-Fig5.jpg": {
+   "sha256": "2793aada4e4ac78a0b62808bb852012a697f402f2c054a468be69e2699965db6",
+   "size": 58240,
+   "etag": "21dc2b42dd3333ed1eff3e5b2a5631d8"
+  },
+  "1499-song-thi-lac-sau-mo-bong-vong-mac/images/1499_dau-silicone_CT-hoc-mat_PMC8238605.jpg": {
+   "sha256": "c7f69e8709c6e6bb074fdda5cd99a8a36e0d703fea871bc148065c352423ae1a",
+   "size": 139774,
+   "etag": "914c3f078e342a5313db59230f47571a"
+  },
+  "1501-chan-thuong-thi-than-kinh-ton/images/1501_ton-dwi_MRI_PMC11722660-Fig3.jpg": {
+   "sha256": "7ff0f5fcec678f68b131250103465382bebfdfe325f90fc758df56c0d12aa3b9",
+   "size": 59910,
+   "etag": "b4539d1ed40f67d9c7901aca4be82767"
+  },
+  "1501-chan-thuong-thi-than-kinh-ton/images/1501_ton-gay-ong-thi_CT_PMC11722660-Fig1.jpg": {
+   "sha256": "28283b276770fbc383dd00d9835785dda447f636d064a15d75a8ba75aaa1d4fd",
+   "size": 46269,
+   "etag": "1151dc1275295c36183d216bda72ff51"
+  },
+  "1501-chan-thuong-thi-than-kinh-ton/images/1501_ton-khong-gay-ong-thi_CT_PMC11722660-Fig4.jpg": {
+   "sha256": "b419e049c867ed8d1eb4c1484e1a8a1157f3f30033f41ea0aa99f3caf872cb1f",
+   "size": 39703,
+   "etag": "7b9591c11f13f6b5947cb6ea897b411c"
+  },
+  "1501-chan-thuong-thi-than-kinh-ton/images/1501_ton-stir_MRI_PMC11722660-Fig2.jpg": {
+   "sha256": "b9d4ae8396937afbab76fbff8d7ddfb69b95fd350f4b717884cda7f24022006c",
+   "size": 66026,
+   "etag": "c2cc666de1650d880ccbc12ed55b4380"
+  },
+  "1502-ong-silicon-le-dao/images/1502_ong-silicon_le-dao_Clinical_PMC12448500-Fig1.jpg": {
+   "sha256": "57924d04f0abaeee54be99cd3bbe66dad14711e7bb4c6373a9bf18eedd076512",
+   "size": 87575,
+   "etag": "f864758fba038fb1320bb89b72bca844"
+  },
+  "1502-ong-silicon-le-dao/images/1502_ong-silicon_le-dao_Clinical_PMC11063663-Fig1.jpg": {
+   "sha256": "bc3ccf7c7df93b3eaa64003ed936a9e2e86a69c9f53fab42a1f628323492118a",
+   "size": 162013,
+   "etag": "8877e968959e6d1d0f756694260f75c8"
+  },
+  "1502-ong-silicon-le-dao/images/1502_ong-silicon_le-dao_Endoscopy_PMC9367212-Fig2.jpg": {
+   "sha256": "f582034950d27626ceb00c545edaae238149c703c7f1ac32af6128aef7be374c",
+   "size": 139807,
+   "etag": "f615276ade870ee901496c918066c393"
+  },
+  "1503-di-can-gan-melanoma-hac-mac/images/1503_di-can-gan-melanoma-hac-mac_MRI-gadoxetat_PMC11534211.jpg": {
+   "sha256": "1f057cfbb4e8fe704a74614cb8602bf4c1666c86100c96ad3934d595f5d979db",
+   "size": 104573,
+   "etag": "b6ddac1c25fc3d785997da8ed3f49194"
+  },
+  "1503-di-can-gan-melanoma-hac-mac/images/1503_di-can-gan-melanoma-hac-mac_CEUS_PMC11496420.jpg": {
+   "sha256": "204e40c120a5fa2e9d1d4ca069260516bcda80b2bb6ca495a3075bf7a467177d",
+   "size": 235054,
+   "etag": "f37c2cf3344d0abf522233f67906ac81"
+  },
+  "1503-di-can-gan-melanoma-hac-mac/images/1503_di-can-gan-melanoma-hac-mac_MRI-target_PMC11534211.jpg": {
+   "sha256": "5083728b1bed4ac201df4ad231f361afe6a4d131d0b6566cb75200505988b888",
+   "size": 118135,
+   "etag": "c5495751c44f4b4fe3060f726c49345a"
+  },
+  "1503-di-can-gan-melanoma-hac-mac/images/1503_di-can-gan-melanoma-hac-mac_Sinh-thiet-sieu-am_PMC11496420.jpg": {
+   "sha256": "5201090ef4d31f4671e003a0329402471dc4f3ed3477522f246c2c83e7f0d03b",
+   "size": 78367,
+   "etag": "740f4ca49025e62f8d39c39d209f65a9"
+  },
+  "1503-di-can-gan-melanoma-hac-mac/images/composite_melanin-vs-khong-sac-to.jpg": {
+   "sha256": "1faf8b8af93c3b8da2f88b53f3cb0074947480767cc819710b5f9d09d178044e",
+   "size": 79179,
+   "etag": "2091f7436b6b9a51dbae7635fe7bdb48"
+  },
+  "1503-di-can-gan-melanoma-hac-mac/images/1503_di-can-gan-melanoma-hac-mac_CT-3thi_PMC11496420.jpg": {
+   "sha256": "002dc930e754200306edf2714205fcbb00c43bcf0bc732ccbd8d0d0afdb60091",
+   "size": 56327,
+   "etag": "682cfcdea883e7ffb1a9697efae23ce4"
+  },
+  "1504-duc-the-thuy-tinh-cuc-sau/images/1504_bao-sau-AS-OCT_PMC10391387-Fig1.jpg": {
+   "sha256": "b11a2db1157c80fd418003ee002cb41fe922c770ae6ed44d8879a931674711cc",
+   "size": 40096,
+   "etag": "500a6f627caa7a630f8133a994a51435"
+  },
+  "1504-duc-the-thuy-tinh-cuc-sau/images/1504_ho-bao-sau-nucleus-drop_AS-OCT_PMC10433076-Fig5.jpg": {
+   "sha256": "e2cd76f9d86683520c157a9c4baaa77c72459c4236a8d67b46d866393b4a70e7",
+   "size": 59060,
+   "etag": "a3617f8fec0c5c6ecfd886bddc147eb9"
+  },
+  "1502-ong-silicon-le-dao/images/1502_ong-silicon_le-dao_Clinical_PMC12258858-Fig3.jpg": {
+   "sha256": "3c723eb21f69770d0446279272850b54ae9610f069404e2a51f9a55376f16698",
+   "size": 59266,
+   "etag": "7236f4c755f95891d3ad3c685c139fec"
+  },
+  "1504-duc-the-thuy-tinh-cuc-sau/images/1504_ppc-type1-4_Den-khe_PMC9426121-Fig1.jpg": {
+   "sha256": "8b6ffee4c336dbd41466e97c8e90cf09b239fa3197e10924e1df4f25ab34de76",
+   "size": 60919,
+   "etag": "8916809d4052cf6fa4c7fe38bf0b92ca"
+  },
+  "1505-rach-hac-mac-chan-thuong/images/1505_rach-hac-mac_Fundus-cap_PMC13440916.jpg": {
+   "sha256": "9d1aa03c62d3fbd687454c48743dceb5a67b5fff96284f78c838ae80e752757c",
+   "size": 129772,
+   "etag": "456c0e8be334a5f9e4e4cf95f1df0a88"
+  },
+  "1505-rach-hac-mac-chan-thuong/images/1505_rach-hac-mac_Fundus-OCT_PMC9983613.jpg": {
+   "sha256": "cf6533993cbbf94e084a29931a8acf470c99f45097fa02ef107f25db041d0d7d",
+   "size": 70175,
+   "etag": "6b60e2acd26d8ceb5738ce2c759f8486"
+  },
+  "1504-duc-the-thuy-tinh-cuc-sau/images/1504_pseudohole_Den-khe_PMC5742963-Fig6.jpg": {
+   "sha256": "e9859d6ec9c183e7f94348041594fdace8132cae95f80d0af319551858bbe830",
+   "size": 49661,
+   "etag": "bdd9bb3d060cae9bc52ca4dc55c3a445"
+  },
+  "1504-duc-the-thuy-tinh-cuc-sau/images/1504_flacs-loi-cau_AS-OCT_PMC11377625-Fig2.jpg": {
+   "sha256": "1e44e17d14311d889673d0b7fe054117e95d703ca2b47e33d5127f2417b0de46",
+   "size": 219620,
+   "etag": "441ca52f3d44fda7de11e25a1dc2c50d"
+  },
+  "1505-rach-hac-mac-chan-thuong/images/1505_rach-hac-mac_OCT-cap_PMC13440916.jpg": {
+   "sha256": "519fff03c93c7bf688711ec40237bc7ee5775f9dcc73f9924a9c62605e4f18ad",
+   "size": 122567,
+   "etag": "0b3e78203e5f5397b320853822f8577e"
+  },
+  "1505-rach-hac-mac-chan-thuong/images/1505_rach-hac-mac_OCTA-CNV_PMC8493985.jpg": {
+   "sha256": "41ebfb47f9e89b2591276647031d466074467823c239a95ee8a29991394b3683",
+   "size": 87996,
+   "etag": "63e8a040f483d7990b61fa411fc039a6"
+  },
+  "1505-rach-hac-mac-chan-thuong/images/1505_rach-hac-mac_OCT-2tuan_PMC13440916.jpg": {
+   "sha256": "5d649c034fc7fc54c7e72574df7d59666c0e70fd328b7442a1742f9b182c07f8",
+   "size": 103320,
+   "etag": "4215a4aab3349d495458fcc191b62aa3"
+  },
+  "1505-rach-hac-mac-chan-thuong/images/1505_rach-hac-mac_Type1-OCT_PMC3726522.jpg": {
+   "sha256": "30231927b01cf656e32a0804f7f2db58035224a0875f1891b7d1f37f86af065d",
+   "size": 169133,
+   "etag": "b13d3e54cfde77466d9f1952e9103cb6"
+  },
+  "1505-rach-hac-mac-chan-thuong/images/1505_rach-hac-mac_Type2-OCT_PMC3726522.jpg": {
+   "sha256": "a9ce6bfbc9fcdd54fa5b7040e56d8c9e29f216184266748a2c51fdd1ee894a83",
+   "size": 194761,
+   "etag": "8ee667b52991bc67a2b03c8da808e5e0"
+  },
+  "1506-di-vat-hoc-mat-ton-luu/images/1506_di-vat-hoc-mat_CT-4panel_PMC10902474.jpg": {
+   "sha256": "fb768742c8420d88426af025baa15e0f9b2b4647b97c7f80b5e8a58d67ed1c05",
+   "size": 185073,
+   "etag": "da08486feec21049edc850a6e53de38d"
+  },
+  "1505-rach-hac-mac-chan-thuong/images/composite_type1-vs-type2.jpg": {
+   "sha256": "b74e7a0b9bf3341e8161a47764b4d2d60d7d2168c50db75e6920d9d5b7d05820",
+   "size": 144146,
+   "etag": "a7437d463ad0edbd7a2cdfa1f35fdd41"
+  },
+  "1506-di-vat-hoc-mat-ton-luu/images/1506_di-vat-hoc-mat_CT-MRI_PMC7884531.jpg": {
+   "sha256": "879eace62d3fca22d16dcae345c691d2312fd73c49b9cd50434acf500b336a0f",
+   "size": 95127,
+   "etag": "282e503cc6eeef544a0da89a925950c7"
+  },
+  "1506-di-vat-hoc-mat-ton-luu/images/1506_di-vat-hoc-mat_CT-kim-loai_PMC7884531.jpg": {
+   "sha256": "f0a0d3ef9af338a72da1a0d1956dede6f890410871c19dd5589642dcf6d97c7f",
+   "size": 71936,
+   "etag": "a0c5c3f7bd132e0c5ad710b25cb3ed7a"
+  },
+  "1506-di-vat-hoc-mat-ton-luu/images/composite_vat-lieu-CT.jpg": {
+   "sha256": "bf4600dfc3881c4d773f7ab972eac613056b88beabae0765c39980a3cdb327d7",
+   "size": 73544,
+   "etag": "5c27e6362e0a1a5c6e1a9f3616aab273"
+  },
+  "1506-di-vat-hoc-mat-ton-luu/images/1506_di-vat-hoc-mat_MRI_PMC13499104.jpg": {
+   "sha256": "c99d914c2c7b0162a30b3975a1ba75f955e89e3f71341bab219fb557cf32b85c",
+   "size": 140593,
+   "etag": "beb7cffe3560e2c9ba380f097c25f77d"
+  },
+  "1506-di-vat-hoc-mat-ton-luu/images/1506_di-vat-hoc-mat_CT-thuy-tinh_PMC7884531.jpg": {
+   "sha256": "9f89ff817d9b648b3c1f25c77e60242c5e7d22c9c2a72b80cc696017c6ef358b",
+   "size": 64110,
+   "etag": "58c860403944778e1179bedbef73bdc9"
+  },
+  "1507-melanoma-hac-mac-lan-toa/images/1507_melanoma-hac-mac-lan-toa_Bscan_PMC13399952.jpg": {
+   "sha256": "2e5626169631086397b680523024f388693f70f26b99084af7d3410b64d92ebe",
+   "size": 84632,
+   "etag": "3f619c19d8fed9f390afa4e3bd54a07b"
+  },
+  "1507-melanoma-hac-mac-lan-toa/images/1507_melanoma-hac-mac-lan-toa_FAF_PMC13399952.jpg": {
+   "sha256": "368215d387551942e32e6e6545847147904b89156f42ad11d16ddb735ec797f3",
+   "size": 92970,
+   "etag": "6b309794160f078cfd25ad82a44081ea"
+  },
+  "1507-melanoma-hac-mac-lan-toa/images/1507_melanoma-hac-mac-lan-toa_Fundus-Optos_PMC13399952.jpg": {
+   "sha256": "0bf30011ff0ee7c66df7b1a0f34599b2e3f71b3c11ed5b42de5c94b6eca31cf4",
+   "size": 113620,
+   "etag": "5334dac50cd9e12177ffd37b37bbe085"
+  },
+  "1507-melanoma-hac-mac-lan-toa/images/1507_melanoma-hac-mac-lan-toa_Fundus_PMC5051521.jpg": {
+   "sha256": "18ac51f3a7fe19dc495f8cd71090c0d035ebdb2b53ae2bf194f383095af25581",
+   "size": 82738,
+   "etag": "452a57e1673bf2de16aaa4e413bef3bc"
+  },
+  "1507-melanoma-hac-mac-lan-toa/images/1507_melanoma-hac-mac-lan-toa_OCT_PMC13399952.jpg": {
+   "sha256": "2d49215a172489078d01c7916c5b026b8938585c64727550838b8a53e060de31",
+   "size": 136860,
+   "etag": "b92b77d956d25bf9d1fccf6b2e21a814"
+  },
+  "1508-hoi-chung-mong-mat-dan-hoi-ifis/images/1508_buckling-mo-hinh_So-do_PMC7784872-Fig3.jpg": {
+   "sha256": "161ad73146b12c596b96f9e78e37a935ce39a984c9025257f4d9283416824db5",
+   "size": 108806,
+   "etag": "1d439dc5d8258d6aa8f8629e8a7b8dfa"
+  },
+  "1508-hoi-chung-mong-mat-dan-hoi-ifis/images/1508_ROC-PL-ratio_Do-thi_PMC6317099-Fig3.jpg": {
+   "sha256": "78e060de6c125617ec66e50f432b07e20565abc790e615775ca7c89e8ce8f5dc",
+   "size": 74107,
+   "etag": "d8ccde1f99822c567e597e092eed16ac"
+  },
+  "1508-hoi-chung-mong-mat-dan-hoi-ifis/images/1508_DMR-SMR-AS-OCT_Anh-mau_PMC11451146-Fig2.jpg": {
+   "sha256": "b8d8cb87724f3175bc0329fadef32141e0ea38fd92193d3ac605c95f0c09f647",
+   "size": 179056,
+   "etag": "b3741438fd12043f47bfab16765b30b8"
+  },
+  "1508-hoi-chung-mong-mat-dan-hoi-ifis/images/1508_ong-Malyugin_Anh-mau_PMC7187865-Fig3.jpg": {
+   "sha256": "d2d6d8f66878d190dc415fefce197721d96b434e637f7079d2139127fbf697ca",
+   "size": 79056,
+   "etag": "822b697985aff725fd38026b390723eb"
+  },
+  "1508-hoi-chung-mong-mat-dan-hoi-ifis/images/1508_iris-sa-ra-vet-mo_Anh-mau_PMC5141300-Fig1.jpg": {
+   "sha256": "b31f9f7c6b080b27764c173ba3020451abaa034b1dc910cabf345579cd49455d",
+   "size": 120301,
+   "etag": "601db7d99aa0df1942840ab59a024fb5"
+  },
+  "1509-angioid-streaks-pxe/images/1509_angioid_FAF-FA_PMC11834907.jpg": {
+   "sha256": "11ef28cc1c7af281cb51d1ec6cf6568953e8b7f51b798daa6016678bbc0b0597",
+   "size": 91961,
+   "etag": "1b4f6a0f924978f2bfa28225121a4e1d"
+  },
+  "1508-hoi-chung-mong-mat-dan-hoi-ifis/images/1508_forest-RR-alpha1_Do-thi_PMC9468244-Fig3.jpg": {
+   "sha256": "6d643dc7851af0a6baa62437d0ee7204b77655891bba4ba4bf3625dbab57a658",
+   "size": 147708,
+   "etag": "2750596699ecd4e7721e7dc068d644a5"
+  },
+  "1509-angioid-streaks-pxe/images/1509_angioid_Fundus-PXE_PMC11834907.jpg": {
+   "sha256": "fe32e982f5231e0ef7f72bfd7943599cd026850f222d19a7f8ec183fb7bb72bb",
+   "size": 48411,
+   "etag": "e5c8bcdca2258556bf323f094048c303"
+  },
+  "1509-angioid-streaks-pxe/images/1509_angioid_Multicolor-IR-OCT_PMC11834907.jpg": {
+   "sha256": "c45a4c63bf9073d0b7b8dc8008d54f3c9bf645f6520c2b9155b27aa370d4dc4d",
+   "size": 119240,
+   "etag": "eb24efeb24ca87716c1c09ed00b2b31b"
+  },
+  "1509-angioid-streaks-pxe/images/1509_angioid_Fundus-UW-OCT-FAF_PMC11834907.jpg": {
+   "sha256": "ef6cc3a33585a4d394550f768f7381cf910288bec985e4d5fde10f9657266229",
+   "size": 97553,
+   "etag": "30a409119d35e5465056a6e2bd4859a4"
+  },
+  "1509-angioid-streaks-pxe/images/1509_angioid_NIR-FAF_PMC10976272.jpg": {
+   "sha256": "15c83356e245618c70f1cb09baa35c682dd54dfc88f605a209113fa1db7ef3d5",
+   "size": 100709,
+   "etag": "06d056a278c03a20577924d798db8f38"
+  },
+  "1509-angioid-streaks-pxe/images/1509_angioid_OCTA-Choriocap_PMC9026537.jpg": {
+   "sha256": "b41d509e4e8efc7b99c67d67c84a371e1ef4465e3b085e3c19c86f947e41c6bb",
+   "size": 176181,
+   "etag": "71a21b30a443a9f3d3b260054e9acb45"
+  },
+  "1510-hoi-chung-khoang-hoc-mat/images/1510_hoi-chung-khoang-hoc-mat_CT-SpA_PMC3032247-f2.jpg": {
+   "sha256": "05aaa647a13ee264b0eef0ba81ca26ea32d7caf64626b85742e6a3975a17a3ce",
+   "size": 174791,
+   "etag": "1686391dc22a3b0ca6573a387cb449a3"
+  },
+  "1509-angioid-streaks-pxe/images/1509_angioid_OCTA-CNV_PMC10976272.jpg": {
+   "sha256": "ea19ef3aa766e29f7c4fa66a9411e8d04e45bb550e739dde61b4d21b9e3b428a",
+   "size": 232312,
+   "etag": "1a2d754f51af1d80c9982efbc5b67717"
+  },
+  "1509-angioid-streaks-pxe/images/composite_pxe-faf-fa.jpg": {
+   "sha256": "f66a2f89613283acfa0df6af9e8ee05be707a87952c0777c04a19d5576699e90",
+   "size": 167995,
+   "etag": "bdc972dda20d98720cde156e56730291"
+  },
+  "1510-hoi-chung-khoang-hoc-mat/images/1510_hoi-chung-khoang-hoc-mat_CT-khi_PMC12718517-f2.jpg": {
+   "sha256": "f99876aa6677b344daf7f22388fcc8d75bbd1f95aebe5abcb4377f1e37f3b21d",
+   "size": 113007,
+   "etag": "f21d1a893e1d23d1c8e8609770f90ee8"
+  },
+  "1510-hoi-chung-khoang-hoc-mat/images/1510_hoi-chung-khoang-hoc-mat_CT-khong-mau_PMC12594235.jpg": {
+   "sha256": "7b02651776303cbcaf0e71fa738253a8b1ae23966fea6ec7a80aabf482126967",
+   "size": 31614,
+   "etag": "3b242034660cdda9e1fb87823b04abe6"
+  },
+  "1510-hoi-chung-khoang-hoc-mat/images/1510_hoi-chung-khoang-hoc-mat_CT-loi-mat_PMC12718517-f3.jpg": {
+   "sha256": "1dc4ceff03c0a509dea1341af6cc5167199c74ba619c4119b07a7cd3451d8135",
+   "size": 130297,
+   "etag": "e69c90b06474ba42087dee51b0dd7925"
+  },
+  "1510-hoi-chung-khoang-hoc-mat/images/1510_hoi-chung-khoang-hoc-mat_CT-trong-non_PMC5965122.jpg": {
+   "sha256": "7b0f32621e69b173c8fe243ec2a0e7761d20f4896feb31a409747178354d3e93",
+   "size": 112271,
+   "etag": "e7149ddf825b5357e6f71acb488ef3dd"
+  },
+  "1510-hoi-chung-khoang-hoc-mat/images/1510_hoi-chung-khoang-hoc-mat_CT_PMC6075486.jpg": {
+   "sha256": "7e44179a5905f8165b44dab699e43d16cfef3637cf1bd42856e6752eccb312d1",
+   "size": 96987,
+   "etag": "7eb0c8f75b7c44951174f0a3f45b6b1b"
+  },
+  "1510-hoi-chung-khoang-hoc-mat/images/composite_OCS-CT.jpg": {
+   "sha256": "6305c21df3893de00eee52034e286989bad2ba44fc640bfb7aee7d5224feb980",
+   "size": 140582,
+   "etag": "41a8abe7c66031040f847d551ed6e773"
+  },
+  "1511-lan-ngoai-cung-mac-melanoma-hac-mac/images/1511_lan-ngoai-cung-mac_Bscan_PMC6291956.jpg": {
+   "sha256": "65ebc352da90a194962a1084cff917e8f64be11e8eb8286b839e2ce40f1190e8",
+   "size": 69279,
+   "etag": "36b866f1ab8244ec79f381f89b7915d8"
+  },
+  "1510-hoi-chung-khoang-hoc-mat/images/1510_hoi-chung-khoang-hoc-mat_Sodo_PMC13517972.jpg": {
+   "sha256": "1a912cd7baf29c9b9e3ec2946081f5e62cc7db2485ef34a623658b129d9902dc",
+   "size": 62902,
+   "etag": "0dfd181f490231b177827cc5d7650754"
+  },
+  "1511-lan-ngoai-cung-mac-melanoma-hac-mac/images/1511_lan-ngoai-cung-mac_Fundus-Macro_PMC13583686.jpg": {
+   "sha256": "d2eabe259d8228b867ca055efab7f516d364dad8d7389246124bb406700f73fa",
+   "size": 118337,
+   "etag": "3608e10c6d8744cf44b02ffd3a7b049c"
+  },
+  "1511-lan-ngoai-cung-mac-melanoma-hac-mac/images/1511_lan-ngoai-cung-mac_Histo_PMC6291956.jpg": {
+   "sha256": "6e86542e699ba49d50c6127c8bd0dfa7f5db4395a298917885232e164bd99f57",
+   "size": 132919,
+   "etag": "9a2e23610e75b57fb9a4180f41f934d3"
+  },
+  "1511-lan-ngoai-cung-mac-melanoma-hac-mac/images/1511_lan-ngoai-cung-mac_MRI-FP_PMC6291956.jpg": {
+   "sha256": "11a0f34d12c4f67069b3bf1f27a73ac686a87342c98808a06ec5e6ccb18c8b3b",
+   "size": 56369,
+   "etag": "548e91179e83633e228bff0985c60b4a"
+  },
+  "1511-lan-ngoai-cung-mac-melanoma-hac-mac/images/1511_lan-ngoai-cung-mac_MRI-ON_PMC8724164.jpg": {
+   "sha256": "e9d2d71892d7c4742e3f6ef86806818e95db82f6fb1ab1ff2f7ab2d7b1f71836",
+   "size": 135041,
+   "etag": "100f6b858e89349f8fbaaa8f8e104c0a"
+  },
+  "1511-lan-ngoai-cung-mac-melanoma-hac-mac/images/1511_lan-ngoai-cung-mac_MRI-Path_PMC8724164.jpg": {
+   "sha256": "331ce21f9ca7511b5165b6d1a7f3ced1ec5787cd68d4f3136f2b2c32aab1f57e",
+   "size": 119302,
+   "etag": "4910005f711dc800d5c1bd3e824b4ab6"
+  },
+  "1511-lan-ngoai-cung-mac-melanoma-hac-mac/images/composite_lan-ngoai-cung-mac_gia-duong-tinh.jpg": {
+   "sha256": "fa64ca6ebce83c190a9b1ff97753020a05bf300d766d6cb158c90391421bc063",
+   "size": 140726,
+   "etag": "54ad80ed06d4ce6d413d1a7a90a90ac8"
+  },
+  "1511-lan-ngoai-cung-mac-melanoma-hac-mac/images/1511_lan-ngoai-cung-mac_SlitLamp-UBM_PMC10646849.jpg": {
+   "sha256": "bfc9d93a0668f37f48ecd7ec55ebf16af20d37f9604cb849deb7bd05b8e163bc",
+   "size": 246598,
+   "etag": "e8eff44ea7c199557c55a235308a09cd"
+  },
+  "1512-pseudoexfoliation-truoc-phaco/images/1512_CTR-dut-day-chang_Anh-mo_PMC11428797-Fig1.jpg": {
+   "sha256": "d792723a8dfdede3d93057715241320e95251ad4c6de0b47c06e65798f3e2d35",
+   "size": 111056,
+   "etag": "fc9dc190db5e3a0fefec3a8ac735fc7c"
+  },
+  "1512-pseudoexfoliation-truoc-phaco/images/1512_PEX-zonule-yeu-sublux_Slit-lamp_PMC10442753-Fig7.jpg": {
+   "sha256": "a8ed4aff1fe33adde5a06c4bb0234fbc75b5bf219f0607ac7552b2a920f582fd",
+   "size": 120256,
+   "etag": "8c5f4e8279e10683e0ac23462e72f0f1"
+  },
+  "1512-pseudoexfoliation-truoc-phaco/images/1512_PEX-bao-truoc-ba-vung_Slit-lamp_PMC10442753-Fig5.jpg": {
+   "sha256": "56e6fc05c4ae18464113df71f872a598546c984725940ead8f24d19e30149f57",
+   "size": 110642,
+   "etag": "ad424c780a4c26a8f2e3346ff7e0808e"
+  },
+  "1512-pseudoexfoliation-truoc-phaco/images/1512_PEX-bong-vay-bao-truoc_Slit-lamp_PMC13429168-Fig1.jpg": {
+   "sha256": "dbcd272c5a3911723522026cf89411a2eea2aa897b4e70cd694fc0d44c0e28b5",
+   "size": 63614,
+   "etag": "13e4f149e0a8b220af20fcf8b9014cd0"
+  },
+  "1512-pseudoexfoliation-truoc-phaco/images/1512_RR-bien-chung_Do-thi_PMC12935656-Fig2.jpg": {
+   "sha256": "ac8d18beb3a197d5ea06d7e1be532ba27a3d455f1f11cca8f2d1ad54496e23ec",
+   "size": 90875,
+   "etag": "3bb535bfba41555cab29def57c515935"
+  },
+  "1513-lacquer-cracks-cnv-can-thi/images/1513_CNV-can-thi-type2_OCT-FA_PMC12637130-Fig3.jpg": {
+   "sha256": "a38f3af14eb346bfd18a51b12df2a13f035dc2d380e4114cc8ee3efd8d255fdf",
+   "size": 128248,
+   "etag": "71238b49f1f992a2ee4f97107b45381c"
+  },
+  "1512-pseudoexfoliation-truoc-phaco/images/composite_1512_PEX-nhan-dien-xu-tri.jpg": {
+   "sha256": "f28c448a6dbff44a83827a50ba188ea9d6a252259e252d1946757f5252509eaa",
+   "size": 114702,
+   "etag": "1cf9b2488a5fdec06623ab9182997f30"
+  },
+  "1513-lacquer-cracks-cnv-can-thi/images/1513_vet-nut-hac-mac_ICGA-OCT_PMC3551908-Fig1.jpg": {
+   "sha256": "1dc6e11fe66c04d948422f86ec13565b9307534f16560c639b2caedbd15710b7",
+   "size": 167107,
+   "etag": "c6315f4dac5b7223c08e5922a759d430"
+  },
+  "1513-lacquer-cracks-cnv-can-thi/images/1513_vet-nut-hong-ngoai_IR-ICGA_PMC12686903-Fig1.jpg": {
+   "sha256": "3ff0fe7c294d6a28bb8ab3e111c0822dd2272db89122eb74001ffcb2307c1aa6",
+   "size": 102460,
+   "etag": "3cbf86e5b3b90c3189487aa69f6f64cf"
+  },
+  "1514-mau-tu-duoi-gale-va-loi-mat-hai-ben/images/1514_mau-tu-duoi-gale_CT_PMC12454389.jpg": {
+   "sha256": "0e7adc9ce984950f941fa153cdca532238cb4f0fc67f8b0d91ffbbfe31817e9b",
+   "size": 92545,
+   "etag": "9394494d32d6e8df64c59229b606a208"
+  },
+  "1514-mau-tu-duoi-gale-va-loi-mat-hai-ben/images/1514_mau-tu-duoi-gale_CT_PMC12719712.jpg": {
+   "sha256": "edd3e88a2c835810cd526e67d1b0c92d086e3f3c8ee7082600f116d547a970b7",
+   "size": 39679,
+   "etag": "0c0ed748030ee7f2a913a3cf766656fc"
+  },
+  "1513-lacquer-cracks-cnv-can-thi/images/composite_1513_vet-nut-va-CNV.jpg": {
+   "sha256": "bb527b85300081743fae7b3bc93455b8893ebb0d4a68f49e3d8ba00c3d023926",
+   "size": 265471,
+   "etag": "a76791957e2d26bf150f6274ead7f21c"
+  },
+  "1514-mau-tu-duoi-gale-va-loi-mat-hai-ben/images/composite_1514_gale-vs-hoc-mat.jpg": {
+   "sha256": "636c541c2179ffb596ecffd0d1ff1c01d4e5018449abad83f4fa5a20af09b39a",
+   "size": 156091,
+   "etag": "559b9bbce3db70629db97eb9533e55e1"
+  },
+  "1514-mau-tu-duoi-gale-va-loi-mat-hai-ben/images/1514_mau-tu-duoi-gale_CT_PMC8558023.jpg": {
+   "sha256": "6315e6d494734bcf05dd2042f427a370776aea71dc47d2b477536a4a2cf211a6",
+   "size": 201395,
+   "etag": "94447a6cef1fbdb6c2b665748b4bf94e"
+  },
+  "1515-theo-doi-hoc-mat-sau-muc-nhan-cau/images/1515_theo-doi-hoc-mat_MRI-T1STIR_PMC6808609.jpg": {
+   "sha256": "716b85b5f075df50ca87769d3f6179a5bd44ca91e2dd8996a009b1b6da689fd9",
+   "size": 105438,
+   "etag": "14e87b17284fbff33fd46a175e6a19a7"
+  },
+  "1515-theo-doi-hoc-mat-sau-muc-nhan-cau/images/1515_theo-doi-hoc-mat_MRI-DWIADC_PMC13171307.jpg": {
+   "sha256": "e4f923491f4fc471ab87bd3241aa94bb31284a767128f471427cc4a0e5e684f2",
+   "size": 138619,
+   "etag": "4b3fa1e08feec3f6075c58c082678d5a"
+  },
+  "1516-co-keo-can-thi-foveoschisis/images/1516_co-keo-can-thi_OCT_PMC7646438-Fig1.jpg": {
+   "sha256": "d57970969ac3f2da154efbd9fe9e2030d0d2bd5b0d7276fed3e0ccf393177a78",
+   "size": 79880,
+   "etag": "d63fd94330f31de5608f27af1413226d"
+  },
+  "1516-co-keo-can-thi-foveoschisis/images/1516_bong-hoang-diem_OCT_PMC8777019-Fig3.jpg": {
+   "sha256": "dec606dd95e20eb4a5690fea877564a8240cc122889d31fa1f4d82b1305c3627",
+   "size": 90302,
+   "etag": "c0d99bec5e8b8dc5e2c8f9922dc9d2ff"
+  },
+  "1515-theo-doi-hoc-mat-sau-muc-nhan-cau/images/1515_theo-doi-hoc-mat_MRI-T1T2CE_PMC9552018.jpg": {
+   "sha256": "5d65c538a509b1c009334f53a640bd30296b465e54aea5dcf1fa0122c9da4695",
+   "size": 390025,
+   "etag": "bff7f89fd3374674c252057baf4728e8"
+  },
+  "1516-co-keo-can-thi-foveoschisis/images/1516_dai-hoang-diem_USG-OCT_PMC11350928-Fig3.jpg": {
+   "sha256": "ea5291f89c64f4bad9b473caa5c54d6e817b994a4b5c129f3d6038a68c1e5c4b",
+   "size": 57299,
+   "etag": "e7dc26db7f7aeadbece65ef3056c9fd0"
+  },
+  "1513-lacquer-cracks-cnv-can-thi/images/1513_CNV-mach-xuyen-cung-mac_OCTA_PMC10848438-Fig1.jpg": {
+   "sha256": "25e83f1366bcc2b26b753c3fe08382b60b7771ff5108a5881ea7bec508f5d709",
+   "size": 641577,
+   "etag": "952cdbe157f2bdcee81e87c0343b1474"
+  },
+  "1516-co-keo-can-thi-foveoschisis/images/1516_do-chieu-cao-fovea_OCT_PMC12942102-Fig1.jpg": {
+   "sha256": "5edab7961f657037f3e29335531810c70c21c84b479e4f7be7687a4c5318ba05",
+   "size": 54025,
+   "etag": "d2d808923b3cf9505aee7756e6f2c41a"
+  },
+  "1516-co-keo-can-thi-foveoschisis/images/composite_1516_tien-trien-vs-on-dinh.jpg": {
+   "sha256": "50b5f2ab5574120f79ac3a37241841608c31dc2272369353b3e1d32866ab3f16",
+   "size": 115628,
+   "etag": "9d7408fae7df390b6ed60b6be328da69"
+  },
+  "1516-co-keo-can-thi-foveoschisis/images/1516_on-dinh_OCT_PMC8465690-Fig3.jpg": {
+   "sha256": "726805253ee30a534a4c3e80d4185712825640e9179c726e2df3daeec5a1aac6",
+   "size": 215770,
+   "etag": "df79fc4b6360119a6b197b9aa1506632"
+  },
+  "1518-tach-lop-vong-mac-ngoai-vi/images/1518_tach-lop-ngoai-vi_Algorithm_PMC13028219-Fig1.jpg": {
+   "sha256": "e5b3f1c13e027730e532648e3b7062773ce7d52047103fafaef238841f984fe8",
+   "size": 64593,
+   "etag": "01aadb8de00b36acf205c4cad3dfd002"
+  },
+  "1516-co-keo-can-thi-foveoschisis/images/1516_tien-trien_OCT_PMC8465690-Fig2.jpg": {
+   "sha256": "4c014f8e241bf95949099804b3fe0d71ca71db2bf22090fd9992a92a88b33e58",
+   "size": 188532,
+   "etag": "b9138adb015df795af6b19d8a5ef7b6f"
+  },
+  "1518-tach-lop-vong-mac-ngoai-vi/images/1518_tach-lop-ngoai-vi_FAF-IR-OCT_PMC7125323-Fig3.jpg": {
+   "sha256": "c63feadf98e553556d2fb65ec914537ded5bbb6f869177055ebc44772e9bd55c",
+   "size": 183518,
+   "etag": "88d9fb8ad81c7b5f9ba098bb661c3cba"
+  },
+  "1515-theo-doi-hoc-mat-sau-muc-nhan-cau/images/1515_theo-doi-hoc-mat_MRI-T2-CT_PMC12664425.jpg": {
+   "sha256": "1bfb1c789ae12756ca569b7eb3221990503d2e9ff0c7590ff21bfe3174c8bf41",
+   "size": 371775,
+   "etag": "53abab8a4370c6c0ea0eef78688bd10c"
+  },
+  "1518-tach-lop-vong-mac-ngoai-vi/images/1518_tach-lop-ngoai-vi_Fundus_PMC8130636-Fig1.jpg": {
+   "sha256": "01ee52a6874e9d5fc886d412119a7615193874c6a3144e22c75471412a5f9a8f",
+   "size": 81970,
+   "etag": "104a704e99a917d1184353a5cec0d89c"
+  },
+  "1518-tach-lop-vong-mac-ngoai-vi/images/1518_tach-lop-ngoai-vi_OCT_PMC8130636-Fig2.jpg": {
+   "sha256": "d51cb666f6d7dc1ae38031fde8fcf16f30d48b762e0f556c0e3d9eb8c4866328",
+   "size": 217764,
+   "etag": "d9d09247d40835ba16929b457874e9f9"
+  },
+  "1518-tach-lop-vong-mac-ngoai-vi/images/composite_1518_fundus-va-oct.jpg": {
+   "sha256": "8a687ac760ecad1ae371ac6aa37c040edd8e0dc3989af24f40b6e3230e90bdca",
+   "size": 132746,
+   "etag": "907d0a85f967289ce79a3b552e1e99da"
+  },
+  "1518-tach-lop-vong-mac-ngoai-vi/images/1518_tach-lop-ngoai-vi_XLRS-OCT_PMC10687576-Fig2.jpg": {
+   "sha256": "092d2682f3e4a7782558b5e098f87fde74d935c0f0f19a422d4eb5ab995eed43",
+   "size": 218529,
+   "etag": "4b074cfa6b774f61b96aaaa754890359"
+  },
+  "1519-benh-vong-mac-do-anh-sang/images/1519_photic-retinopathy_OCT_PMC12597123.jpg": {
+   "sha256": "e8fa44c6f12c03d0c1421868a7eb366106f012aa61ef097e3e05bfc4f0d5b42a",
+   "size": 66060,
+   "etag": "ca8d9da94027f12e5618892b5337ab3b"
+  },
+  "1519-benh-vong-mac-do-anh-sang/images/1519_photic-maculopathy_Electric-Shock-OCT_PMC5700614.jpg": {
+   "sha256": "83112baf1ed1f14fe381e18dbdb1f28eaf8d01d4ca04bccf2986e72582dcc4ed",
+   "size": 40034,
+   "etag": "648bbc0eb0137e4e5bb689c012d7411f"
+  },
+  "1518-tach-lop-vong-mac-ngoai-vi/images/1518_tach-lop-ngoai-vi_UWF-OCT_PMC13316662-Fig1.jpg": {
+   "sha256": "85704adf3de0cf593a3e710027b43c8447631e58db15702003924608a1703df4",
+   "size": 275269,
+   "etag": "14c4bf658967143b25a4814d8a03c5db"
+  },
+  "1519-benh-vong-mac-do-anh-sang/images/1519_photic-retinopathy_Fundus_PMC12597123.jpg": {
+   "sha256": "76de10be967ce678dc2c2161e1191eff6e6bee9bf391c175d9a5199b8f63e2f1",
+   "size": 63052,
+   "etag": "16063303394245da6873fa9f9df488ca"
+  },
+  "1519-benh-vong-mac-do-anh-sang/images/1519_photic-maculopathy_Microscope-FAF-OCT_PMC6498908.jpg": {
+   "sha256": "1dd526cfce9747288991288f45d15924d9b8567d398cdadf9bed3e01c2d1688f",
+   "size": 47931,
+   "etag": "718fa107c92498f99875af5c8f93955f"
+  },
+  "1520-duc-the-thuy-tinh-tia-hong-ngoai-uv/images/1520_pho-hap-thu_So-do_CC0.svg": {
+   "sha256": "c824113df75e856df1065b61b681c6c37fed0fc176ce759b3bad3fa4d182e6e7",
+   "size": 5676,
+   "etag": "3df2613a593bb2325c7c351078ad313e"
+  },
+  "1520-duc-the-thuy-tinh-tia-hong-ngoai-uv/images/1520_true-exfoliation_SlitLamp_PMC7350437-Fig1.jpg": {
+   "sha256": "86e0c535f2a7ab5390134bd5dd4ee127bd21dffaa067050357da02b3260ecca8",
+   "size": 46890,
+   "etag": "ea9aae5fb4a4b1a88932d983f0d5e8e7"
+  },
+  "1519-benh-vong-mac-do-anh-sang/images/1519_photic-retinopathy_OuterHole-OCT_PMC12139189.jpg": {
+   "sha256": "5316b316b0c4d6eb10b0405b96530a999d3cffca0a161391cb53fe0c24d1d7ec",
+   "size": 2412224,
+   "etag": "509f7827945b6d9710a8f1b7a7ec661a"
+  },
+  "1520-duc-the-thuy-tinh-tia-hong-ngoai-uv/images/1520_true-exfoliation_AS-OCT_PMC12863414-Fig3.jpg": {
+   "sha256": "07e0d100e3967ced49be8fb84fb754bf1da04ff14d8c74bdebcc022a5d6b9ed4",
+   "size": 42657,
+   "etag": "39d281a50ee8d0c5c72e7c389a8283b6"
+  },
+  "1519-benh-vong-mac-do-anh-sang/images/composite_1519_laser-vs-solar.jpg": {
+   "sha256": "88d05a297403cbe2cfbeafe07538be2faa7f3a1505b0b16592fe3bedc91fc250",
+   "size": 90385,
+   "etag": "5b559b82365fa32d035d2cedc5b34805"
+  },
+  "1520-duc-the-thuy-tinh-tia-hong-ngoai-uv/images/1520_nuclear-cataract_SlitLamp_PMC6380153-Fig1.jpg": {
+   "sha256": "6d18c4e0711dbd76a74a19bdf76c583c327dbc7f52df771d0d7267c35618b088",
+   "size": 45333,
+   "etag": "a9c2581f2f79745ed35616710e929b23"
+  },
+  "1519-benh-vong-mac-do-anh-sang/images/1519_solar-retinopathy_OuterHole-OCT_PMC6749640.jpg": {
+   "sha256": "cd8be23d12292f1b12aef696303e1580e3789eda6231b252f9e9b9c330e073c8",
+   "size": 105687,
+   "etag": "f9284cf39456fb768f2b4daa4d3b7808"
+  },
+  "1520-duc-the-thuy-tinh-tia-hong-ngoai-uv/images/1520_welding-cataract_Forest-PMC13353749-Fig3.jpg": {
+   "sha256": "5be7a84a1e9e124b7088cfea74294aa2bfe05279508eb6bf4eeec52e64934ab3",
+   "size": 55772,
+   "etag": "a877156e60f4d597050f67ac8b9bcf22"
+  },
+  "1878-bong-vong-mac-lo-hoang-diem-can-thi-nang/images/1878_buckle-vs-ppv_OCT-PMC8961764-Fig3.jpg": {
+   "sha256": "4c5b76f78889c0c77fa8f1167c09c21e897ef65e281c822015715d10d0026537",
+   "size": 161845,
+   "etag": "16b587a87fddde37f615c2070f4d7396"
+  },
+  "1878-bong-vong-mac-lo-hoang-diem-can-thi-nang/images/1878_meta-ilm_Forest-PMC4906693-Fig3.jpg": {
+   "sha256": "0155b4bee3ed1276f26338d14a5d5ada7834e2b3153fc8f5f264244aa48acd05",
+   "size": 24742,
+   "etag": "1b02c29938f1b2ef66fb76ea1d79e8d1"
+  },
+  "1878-bong-vong-mac-lo-hoang-diem-can-thi-nang/images/1878_ilm-flap_OCT-PMC8733330-Fig3.jpg": {
+   "sha256": "1362e685ee3fb04ecd4ebd0bf55a52e49d6c659f8c7432ec6cc3d43313216179",
+   "size": 84395,
+   "etag": "4aa1ca83678912b5299eb4c4f4814b13"
+  },
+  "1519-benh-vong-mac-do-anh-sang/images/1519_solar-retinopathy_Fundus-FAF-FA_PMC6749640.jpg": {
+   "sha256": "4e5a7257b9f26073db6414bef1987fe9712f22c3a5cd9692aa3c58517ee81657",
+   "size": 117821,
+   "etag": "b144de6316ff9a12166c62ddcd3a0851"
+  },
+  "1878-bong-vong-mac-lo-hoang-diem-can-thi-nang/images/1878_mhrd-truoc-sau_FundusOCT-PMC5376471-Fig4.jpg": {
+   "sha256": "43744583de2f5f7be98afef7f295de3d92c26b78b39db37a78eaacb63e8fd343",
+   "size": 86467,
+   "etag": "ce2c690376e146a55f6400de31212e91"
+  },
+  "1879-mang-dut-hoang-diem-sau-mo-bong-vong-mac/images/1879_foveal-crack_OCT-PMC9173914-Fig4.jpg": {
+   "sha256": "0bc7a666d1eaded8994fc2140a17adcedcf99a095669d12fede248f472135623",
+   "size": 113438,
+   "etag": "a5540a11d1a2250dbfa54b937a700573"
+  },
+  "1991-ro-bong-loc-muon-viem-noi-nhan/images/1991_ro-bong-loc_Slitlamp_PMC12507186-Fig1.jpg": {
+   "sha256": "d672e487865ab1253f3b07a3379127c421f6515c91322e19cc703d35dd3eb969",
+   "size": 121241,
+   "etag": "3314ec33417926f6e0fa9a81131fbbe9"
+  },
+  "1991-ro-bong-loc-muon-viem-noi-nhan/images/1991_ro-bong-loc_Slitlamp_PMC12013292-Fig8.jpg": {
+   "sha256": "f27d639bab94b86a548062755ec63920dc00ae3b8cc33c06ddd09161764e66bb",
+   "size": 136589,
+   "etag": "4db50fba32177c7d16d5427b026f4a39"
+  },
+  "1991-ro-bong-loc-muon-viem-noi-nhan/images/1991_ro-bong-loc_Slitlamp_PMC4606135-Fig1.jpg": {
+   "sha256": "8d7f25137afb4012c87ef277231f4842937deb94261f86f903b8be4ece8ea58a",
+   "size": 65790,
+   "etag": "0f68c8d610f3f156149fb4fa755a23ad"
+  },
+  "1878-bong-vong-mac-lo-hoang-diem-can-thi-nang/images/1878_staphyloma_USG-PMC11350928-Fig3.jpg": {
+   "sha256": "ea5291f89c64f4bad9b473caa5c54d6e817b994a4b5c129f3d6038a68c1e5c4b",
+   "size": 57299,
+   "etag": "e7dc26db7f7aeadbece65ef3056c9fd0"
+  },
+  "1991-ro-bong-loc-muon-viem-noi-nhan/images/1991_ro-bong-loc_Mo_PMC4606135-Fig2.jpg": {
+   "sha256": "085a0d254f2b8ea04e41268c6e03a40fe1b0cac7bbb154ebb18cb1e49fffcc93",
+   "size": 99641,
+   "etag": "26a7d7f8e96e9b81e65dd01a3da60b80"
+  },
+  "1879-mang-dut-hoang-diem-sau-mo-bong-vong-mac/images/1879_large-mh_OCT-PMC9885593-Fig5.jpg": {
+   "sha256": "0e58abc28ffdb2b88708d8bd215e9a78c7299bd5cbc67a3fb13fcb6756d1ddb9",
+   "size": 1792878,
+   "etag": "3a2fd9579c9d2e923612aa259cb5ee79"
+  },
+  "1992-needling-bong-loc-sau-trabeculectomy/images/1992_bong-xo-tenon_AS-OCT_PMC12740067-Fig2.jpg": {
+   "sha256": "9cd570bfa2a045a76f41500be7c1293f3393d358e76ebb611ef0fa7ef97b566e",
+   "size": 145633,
+   "etag": "996ff38c3770968c33cd1939c766e09f"
+  },
+  "1992-needling-bong-loc-sau-trabeculectomy/images/1992_bong-xo-tenon_Slitlamp_PMC12740067-Fig1.jpg": {
+   "sha256": "0cccf8b463d4bc75c9027a65f97c3da4c5bb0a5bd5a862c2584c7e2217b7e88c",
+   "size": 46499,
+   "etag": "9364206191a2ea6a3e5cd80ef12181dd"
+  },
+  "1992-needling-bong-loc-sau-trabeculectomy/images/1992_bong-xo-tenon_Slitlamp_PMC12013292-Fig2.jpg": {
+   "sha256": "398a88bf34ca7fa0e2f706d5ee15479cb5fdc5859557c71af749f69f3ff84410",
+   "size": 36635,
+   "etag": "6df85191df76bb83655476045e9c2ee6"
+  },
+  "1992-needling-bong-loc-sau-trabeculectomy/images/1992_forest-MMC-5FU_Forest_PMC7722638-Fig4.jpg": {
+   "sha256": "8291205c541c1fbaeb144fd2e3f965882b35141726b2f258c1e3a384e4b8ecf8",
+   "size": 137755,
+   "etag": "b58f4d89d693144c776a5dc4ff6f5e8b"
+  },
+  "1992-needling-bong-loc-sau-trabeculectomy/images/1992_needling-bong-loc_Mo_PMC9940510-Fig1.jpg": {
+   "sha256": "97707e4c962488fe316b268927ed673ec9b9434184e718be12fd7b78a7b927a9",
+   "size": 55085,
+   "etag": "ced48ff34c95d96dad25eccf7cec91f4"
+  },
+  "1991-ro-bong-loc-muon-viem-noi-nhan/images/1991_ro-bong-loc_Slitlamp_PMC8544101-Fig1.jpg": {
+   "sha256": "8a63eabb99dcc33fd1045113858bdd3f2d354c909aa88a57f4d653bee48324d0",
+   "size": 91195,
+   "etag": "5f7eeacb174d2fc408ed7e5fede4c945"
+  },
+  "1879-mang-dut-hoang-diem-sau-mo-bong-vong-mac/images/1879_sftmh_OCT-PMC13464826-Fig1.jpg": {
+   "sha256": "d9f37bba24633fd472d73dbfe48ca7e699cefb67e8ed1eb49bde65ded6746083",
+   "size": 1635721,
+   "etag": "a78fe3b886382233c7b9cf48a8581bc9"
+  },
+  "1991-ro-bong-loc-muon-viem-noi-nhan/images/composite_viem-noi-nhan-bong.jpg": {
+   "sha256": "a87f860d74dd3299fc4cdacac7a9e681168f15a40c18031f7f2aa798df8d0f1c",
+   "size": 89348,
+   "etag": "cc066c6949c41345cbf5159dffec1dcd"
+  },
+  "1993-that-bai-needling-van-dan-luu/images/1993_khoang-cach-ong-giac-mac_AS-OCT_PMC5298043-Fig2.jpg": {
+   "sha256": "434c82cc1dc4fbd46e1cf7aaa3848386eaa30f7b879a7bf278f3a3a58503b36a",
+   "size": 153329,
+   "etag": "de8fc26f9e7bb05a05784401d020de18"
+  },
+  "1993-that-bai-needling-van-dan-luu/images/1993_lo-ong_Anh-mau_PMC4820194-Fig1.jpg": {
+   "sha256": "adf0313caa26e2517bd334fed04f45ce6e4962fdacd449406d519889905868f3",
+   "size": 79689,
+   "etag": "39a391d2ab4bac581bbae43fd8d2ea78"
+  },
+  "1993-that-bai-needling-van-dan-luu/images/1993_van-dan-luu_MRI_PMC4671622-Fig2.jpg": {
+   "sha256": "735355c41d4f9e528609a239a6bf7c86a7006196550ddfe63ecc32f6968caa37",
+   "size": 71415,
+   "etag": "60057031f7d24db79deb23734a345a89"
+  },
+  "1993-that-bai-needling-van-dan-luu/images/composite_van-dan-luu.jpg": {
+   "sha256": "dba12646e7a6931c4e4805f91a2934c918b2042736b0be98d6ea5484b1de6b67",
+   "size": 100867,
+   "etag": "ab4085c50e77c452044580bf3a0af909"
+  },
+  "1996-tac-tut-ong-van-dan-luu-glaucoma/images/1996_bit-ong-mau-cuc_Anh-mau_PMC5815717-Fig1.jpg": {
+   "sha256": "a52752b7328ce1bd79fe9982be562c985ee480fb851b5311aaac8b976a885298",
+   "size": 64825,
+   "etag": "ec9e42ca1d98159e254f85f526fecebb"
+  },
+  "1996-tac-tut-ong-van-dan-luu-glaucoma/images/1996_bit-ong-mong-mat_Anh-mau-UBM_PMC13543376-Fig1.jpg": {
+   "sha256": "7a17be98f8a696648c0bff5fe82009cc1f57027418e58bb7980dcb7c2253d183",
+   "size": 408056,
+   "etag": "7581deffed832d5ffc6748237b0ccbed"
+  },
+  "1996-tac-tut-ong-van-dan-luu-glaucoma/images/1996_bit-ong-do-IOL-lac_Anh-mau_PMC12247232-Fig2.jpg": {
+   "sha256": "e43950ca98c47ed7feeff111635994b3671bd28da982ef75912d246d52f49c38",
+   "size": 82054,
+   "etag": "53803a99b86d4d015de19465aabc7fb6"
+  },
+  "1996-tac-tut-ong-van-dan-luu-glaucoma/images/1996_hut-long-ong_Anh-mau_PMC13571464-Fig2.jpg": {
+   "sha256": "c59fed217b768c78be75cda65ddf476f8d59cf0314ba0c8cf46ec00b2f76463d",
+   "size": 135192,
+   "etag": "16ac646dd073c2034b742c6dd9320450"
+  },
+  "1996-tac-tut-ong-van-dan-luu-glaucoma/images/1996_vi-tri-ong-tien-phong_AS-OCT_PMC12532363-Fig1.jpg": {
+   "sha256": "48b8e6eaec75092309dd35637e6658896442adc03efb7686d5a3b9e25908fb21",
+   "size": 66835,
+   "etag": "5068455805ab5968462939b1b80ffb4d"
+  },
+  "3204-loet-giac-mac-than-kinh/images/3204_loet-giac-mac-than-kinh_AS-OCT_PMC13114379.jpg": {
+   "sha256": "8e8b2ec03be6942f1239edb56614c347bb505d093027921a1010326e6b5a4e4d",
+   "size": 116304,
+   "etag": "0b9c0b3cb0c0291c1941948367f67837"
+  },
+  "3204-loet-giac-mac-than-kinh/images/3204_loet-giac-mac-than-kinh_AS-OCT-Serial_PMC13114379.jpg": {
+   "sha256": "5fb86bb3c7aeafb4e0aac3e1173b8ed33545608e0e4fa5e8d7834168d183c9c1",
+   "size": 186618,
+   "etag": "5a5ae0a55ffa86066fc8d8385b23d8a7"
+  },
+  "3204-loet-giac-mac-than-kinh/images/3204_loet-giac-mac-than-kinh_SlitLamp-Cenegermin_PMC12258841.jpg": {
+   "sha256": "9f31a0260152fc4dd018fffb761770b87f3014da607d4b9b3d7252df7096024a",
+   "size": 91657,
+   "etag": "0b4090e5a55560fe92301ee7babb3bbf"
+  },
+  "3204-loet-giac-mac-than-kinh/images/3204_loet-giac-mac-than-kinh_IVCM_PMC12097415.jpg": {
+   "sha256": "d4dd974412c5a07e8a2b2ed1d83c7dfec745500b66fcfa069130f4f3fd124c43",
+   "size": 50862,
+   "etag": "a0fd53140e20866ede5de68225f89e76"
+  },
+  "3204-loet-giac-mac-than-kinh/images/3204_loet-giac-mac-than-kinh_SlitLamp-Mackie_PMC12535708.jpg": {
+   "sha256": "b158c2a732e8db35a5fb50a3fb467fd59668cf26a11e875bfad67b358ed26edf",
+   "size": 234314,
+   "etag": "5d2932d993a85cffb77c0185cf8bee48"
+  },
+  "3205-loet-giac-mac-do-thuoc-te-bak/images/3205_loet-giac-mac-thuoc-te-bak_SlitLamp-Haze-Neovascular_PMC3484722.jpg": {
+   "sha256": "3d29f89d7b06fa71cb14c32e6a3c50b65a7e65115cb94e43b31d68ee120b6e4f",
+   "size": 79643,
+   "etag": "2f8daaad2c205f17623090db038f0849"
+  },
+  "3205-loet-giac-mac-do-thuoc-te-bak/images/3205_loet-giac-mac-thuoc-te-bak_SlitLamp-Ring-PMC2924861.jpg": {
+   "sha256": "03f96e52c26069f34025ef9727302df1c17b78f93f33c6cf99a0a8ed1fc5432b",
+   "size": 79181,
+   "etag": "2865ec07fac8d949f0aafcc7167d772b"
+  },
+  "3205-loet-giac-mac-do-thuoc-te-bak/images/3205_loet-giac-mac-thuoc-te-bak_IVCM_PMC8431974.jpg": {
+   "sha256": "e0496237a591c3b04072a6b92dcd5e5fed75a397f0de9829e91c39aee082ba57",
+   "size": 212135,
+   "etag": "a87c2494e173ff39bff2bc30a3622a53"
+  },
+  "3205-loet-giac-mac-do-thuoc-te-bak/images/3205_loet-giac-mac-thuoc-te-bak_SlitLamp-4KieuHinh_PMC8431974.jpg": {
+   "sha256": "69040dc8f65e1b7c1557935e37b3f02aaa3f760c7bf3f067eadd5642945e23ee",
+   "size": 94971,
+   "etag": "241c29822ca8e7930627af61bb65615e"
+  },
+  "3206-bong-cang-sau-van-dan-luu-glaucoma/images/3206_AS-OCT-cang_PMC7603617-Fig5.jpg": {
+   "sha256": "fd5f2a552a5340e2aff886eb0767a794fdea6f79cee3376a145197916dccba5a",
+   "size": 46329,
+   "etag": "529e116a1b1db10e08a3271a9ef7ff05"
+  },
+  "3205-loet-giac-mac-do-thuoc-te-bak/images/3205_loet-giac-mac-thuoc-te-bak_SlitLamp-RingInfiltrate_PMC12801944.jpg": {
+   "sha256": "88238d7999fd3ddc9a3460ceccd9712447a53b2a15681ea716166014cd43fc23",
+   "size": 47709,
+   "etag": "09846c14ad471b50ef8a6bec683d858b"
+  },
+  "3206-bong-cang-sau-van-dan-luu-glaucoma/images/3206_AS-OCT-diffuse_PMC7603617-Fig4.jpg": {
+   "sha256": "3cfb448fd24b97d86e675cec6fa8fd67754c5a1df7d6ee7edd153fb7057ad506",
+   "size": 31164,
+   "etag": "c814257c36f853c7aae0158cdd42e87a"
+  },
+  "3206-bong-cang-sau-van-dan-luu-glaucoma/images/3206_bong-cang_Anh-mau_PMC7603617-Fig3.jpg": {
+   "sha256": "fc4dcb3eafb3b2af2aaa33f5c70006198f7d98f6e9804eb252b6e95da3e68f75",
+   "size": 123994,
+   "etag": "d8b30d5c4939c07b65410b69996e617a"
+  },
+  "3206-bong-cang-sau-van-dan-luu-glaucoma/images/3206_thao-vo-xo_Anh-mo_PMC6557799-Fig1.jpg": {
+   "sha256": "9c59fca7883a1c1f692489fcaaccf5e3b7936c998807b90c0d112f5b457e1ac1",
+   "size": 242915,
+   "etag": "3e4800b28a425c8b8898e2119693b988"
+  },
+  "3206-bong-cang-sau-van-dan-luu-glaucoma/images/3206_vo-xo-day_Anh-mau_PMC3408531-Fig1.jpg": {
+   "sha256": "f16e31c92aad27631e1f72689fae6739a5ec2ee0d4a93606b66edbedad2d42f1",
+   "size": 93559,
+   "etag": "3de0806b81979879b52ad1802c16b774"
+  },
+  "3206-bong-cang-sau-van-dan-luu-glaucoma/images/3206_hai-lop_Mo_PMC3408531-Fig5.jpg": {
+   "sha256": "8319905fb237367db74238d8ce5e27ad6367eec60c597327c66071fc1fcd93f9",
+   "size": 78499,
+   "etag": "f52232b4e1bd2636dc3f5f6cc2dfe818"
+  },
+  "3206-bong-cang-sau-van-dan-luu-glaucoma/images/composite_AS-OCT_bong-cang-vs-bong-chuc-nang.jpg": {
+   "sha256": "d74e9c9e33e1d8ebde4096edc8d6e1b7d1e450eb32c7bdb07eed2a61b2257b66",
+   "size": 90279,
+   "etag": "8727ca081c777a24b0e6a90c1f215190"
+  },
+  "3207-viem-cung-mac-scleritis/images/3207_AS-OCT-diffuse_PMC12258829-Fig3.jpg": {
+   "sha256": "b4fdc27baa9c27108f87f87107f54ceaf8391fc51135e70d16cc6e44cb367cf4",
+   "size": 85356,
+   "etag": "cdb3eb7f8991be4b7e69543dc66012d8"
+  },
+  "3207-viem-cung-mac-scleritis/images/3207_AS-OCT-tim-bam_PMC12373549-Fig2.jpg": {
+   "sha256": "cdf75efce7a91742c7b9be114f18e1e09ab254dfca2702cc7b1ea046c0d38032",
+   "size": 78835,
+   "etag": "948688e6ff6c365780a1b2339297cbe1"
+  },
+  "3207-viem-cung-mac-scleritis/images/3207_MRI-hau-cung_PMC11283761-Fig2.jpg": {
+   "sha256": "072e31cc2dab30a3892162d034ed8d364472e5ef639dac881c6e1ca818904dde",
+   "size": 48994,
+   "etag": "1d98af085aca0a26e3755111af2790f0"
+  },
+  "3207-viem-cung-mac-scleritis/images/3207_T-sign_Sieu-am_PMC11283761-Fig3.jpg": {
+   "sha256": "d7edf34c3320a48dcbb4764e3ecc943156fbf228c5c0e920f5f38cc749b32f73",
+   "size": 43488,
+   "etag": "24e6cee87b26a9fd785f85ed7f7ded65"
+  },
+  "3207-viem-cung-mac-scleritis/images/3207_not-hoc-giang-mai_Anh-mau_PMC13201893-Fig1.jpg": {
+   "sha256": "473ca085aad7d967e4b9e85733f1f2d52c78ec6bfd1a1db90f09e34f039e4f1b",
+   "size": 82922,
+   "etag": "1c67bdbcf9021e8df452476c8f1b8c52"
+  },
+  "3207-viem-cung-mac-scleritis/images/3207_hoai-tu_Anh-mau_PMC13319907-Fig1.jpg": {
+   "sha256": "a3de0a8b775697c33f23c742f351502697f09a59bcb116dff89c084a7b249d9d",
+   "size": 44230,
+   "etag": "fe7e6a12d927f621662d486a3067dfac"
+  },
+  "3207-viem-cung-mac-scleritis/images/3207_viem-cung-mac_Anh-mau_PMC12258829-Fig1.jpg": {
+   "sha256": "5717d2d5a4dd372639daf2e986ecf5beaa34a14a89d81402afd31be3d09d544d",
+   "size": 55118,
+   "etag": "0df792d0e4ed601551ed996ebc4e7c75"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_AS-OCT-1-nam-sau_PMC11844240-Fig4.jpg": {
+   "sha256": "5d135a08078858fb6e0da8dbf236796329db74f5153ebc76ce079cd0a616b65d",
+   "size": 60636,
+   "etag": "1b5ace744335ed990623a45d8cf61e0d"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_AS-OCT-day-canxi_PMC11844240-Fig2.jpg": {
+   "sha256": "a6ca14b5055060e9a829afc2ce2fc16008bbe3766004a8cdebdb35309069051b",
+   "size": 53515,
+   "etag": "e8218155c7ed354122375ed9a3e1b99e"
+  },
+  "3207-viem-cung-mac-scleritis/images/composite_anh-mau_hoai-tu-vs-not.jpg": {
+   "sha256": "968e80b5670b81ed7a12b6bd541078d97444099ecb9be936cfac45de66a51d9a",
+   "size": 121439,
+   "etag": "db478fa362ea0253c864d2b97b3571dd"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_EDTA-truoc-sau_Anh-mau_PMC8423137-Fig1.jpg": {
+   "sha256": "4d778ae57e0d4a29fdb6094edbe3653a228d3cae7c5ffc4b0e6be1910203b92d",
+   "size": 73924,
+   "etag": "08ad7086eb26275e979bdf5723f1cfb8"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_PTK-sau_Anh-mau_PMC4654727-Fig2.jpg": {
+   "sha256": "4745073a69b3ef63f37518a33a2598ac0a3177cf68fd5ecab22e085552ba914d",
+   "size": 32520,
+   "etag": "be3e7aad82e38044b545d263fc6aec84"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_PTK-truoc_Anh-mau_PMC4654727-Fig1.jpg": {
+   "sha256": "b7ee2c205a8387426fd79f6bc0130fa9ebebb258593e28a8a7f05e004a5ab806",
+   "size": 21961,
+   "etag": "d2fe777d1c499852fc5438a0b4e5e041"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_co-che-hai-don_So-do_PMC12997402-Fig1.jpg": {
+   "sha256": "4d2c4b1d1603e6bac83c51afb68e1a8cd09826122c4c9155a2a2c585f10a1732",
+   "size": 86763,
+   "etag": "94c3cd77e0f122f73aff513e5f6f7536"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_dai-canxi-kinh-dien_Anh-mau_PMC12818042-Fig.jpg": {
+   "sha256": "5e9bcbc1695f46211b9621d99c5c353c4a423ad28e6d84ede84dd05bc90f7e6d",
+   "size": 115766,
+   "etag": "4af9c10fb3935914f7d492e9e92e2194"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_dai-canxi_Anh-mau_PMC8342885-Fig1.jpg": {
+   "sha256": "a97e543844cdb7bb52136fb16716f83ae0d1bb9190f672d95db276a2bfa67cbd",
+   "size": 78983,
+   "etag": "2aed8d8534ce56f40ddd42ce5c3beeac"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_diamond-burr_Anh-mau_PMC6171751-Fig1.jpg": {
+   "sha256": "dfa5c8aaad3e61333d9f7f06ed993a07f94f803b88c00ea320d5ada33a8dd238",
+   "size": 105867,
+   "etag": "5b44bddbe8522e3d6e20b8280c1f1627"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_NSAID-melting_Anh-mau_PMC11719203-Fig1.jpg": {
+   "sha256": "35a5e71e1677b9f4f31aba33840de8c62663337b4b16d5c9661b6ede74e3679e",
+   "size": 489298,
+   "etag": "97ecbb53702de8ba101e0f9be402503d"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_AS-OCT-truoc-sau-PTK_PMC8423897-Fig3.jpg": {
+   "sha256": "d994ae31cbc2e9df5f56b6b5c98071911cdc2d2b23baa8b293a00d231c178242",
+   "size": 249853,
+   "etag": "dd5df67c6e0ffbb9293f1eed063f6ba8"
+  },
+  "3208-benh-giac-mac-dang-dai/images/3208_phan-do-nhe-vua-nang_Anh-mau_PMC11476468-Fig1.jpg": {
+   "sha256": "90732db5d1fcc4bbfe60e9c8a662710bd66daf400bba72f352e2259a592dd7cd",
+   "size": 51642,
+   "etag": "368775b40a059d37b671292297dc4926"
+  },
+  "3208-benh-giac-mac-dang-dai/images/composite_truoc-sau-PTK.jpg": {
+   "sha256": "1b1930f2b0d2444a948682668bac325aa630b1b918e0897c5c0bc514def7a800",
+   "size": 94923,
+   "etag": "f7f93836086c69a9a9d57d8004cc26c4"
+  },
+  "3209-bong-loc-sau-xen-gel-stent/images/3209_xen-stent-gel_AS-OCT_PMC10648008-Fig1.jpg": {
+   "sha256": "af67bf0ee7cbcf28ba528dc0c91d223e12c610b6660a2a8190704c4a1564c5fb",
+   "size": 32287,
+   "etag": "b6653ee0be4f4156e2f0bd905e240895"
+  },
+  "3209-bong-loc-sau-xen-gel-stent/images/3209_xen-stent-gel_AS-OCT_PMC10648008-Fig2.jpg": {
+   "sha256": "0656681c891abea8d950030a5c638ff79275e49175ee294b7a95c35a01cdd890",
+   "size": 29445,
+   "etag": "a12fcdb47afe6daaf18fb1daf357269c"
+  },
+  "3209-bong-loc-sau-xen-gel-stent/images/3209_xen-stent-gel_AS-OCT_PMC12901802-Fig4.jpg": {
+   "sha256": "4eda3a6b8958fba49c71fe234bd8e3802a8a25bdc88936e8c6d37e16e3d00418",
+   "size": 97544,
+   "etag": "7e9de82bfc1bbd32d8e33826efa36cce"
+  },
+  "3209-bong-loc-sau-xen-gel-stent/images/3209_xen-stent-gel_AS-OCT_PMC12901802-Fig5.jpg": {
+   "sha256": "e20715d8441cc15db54e99b3fee3cd324fbb3410429e247f67d770d87c64b9bb",
+   "size": 104901,
+   "etag": "01d7248f574f0b7706203e092c2d4137"
+  },
+  "3210-viem-cung-mac-hoai-tu-sau-tiem-triamcinolone/images/3210_day-cung-mac-GPA_Anh-mau_PMC6983460-Fig3.jpg": {
+   "sha256": "d6ced203fb7e5b8e4efeb147bf665442697b6c4658e2a70681a418dffaa31fed",
+   "size": 50195,
+   "etag": "b19c871b126f1ebeffcd98df29fc8bfc"
+  },
+  "3210-viem-cung-mac-hoai-tu-sau-tiem-triamcinolone/images/3210_lan-vung-moi_Anh-mau_PMC6983460-Fig4.jpg": {
+   "sha256": "8ff151faeb6676a2821003bcd70a2803d7bdb034855eb021435f04698ce4aa0a",
+   "size": 49890,
+   "etag": "e61f36de5782025119876f8af9cef9fc"
+  },
+  "3210-viem-cung-mac-hoai-tu-sau-tiem-triamcinolone/images/3210_tre-em-hai-mat_Anh-mau_PMC13093260-Fig1.jpg": {
+   "sha256": "221256f508a9053a9a5658603a263eafe988989c78270ffd3c812d7ccf76ca72",
+   "size": 89056,
+   "etag": "2c60e7ed106a6da7224364653ccf8990"
+  },
+  "3210-viem-cung-mac-hoai-tu-sau-tiem-triamcinolone/images/3210_viem-cung-mac-15-tuoi_Anh-mau_PMC3871753-Fig1.jpg": {
+   "sha256": "74fb759d43fe1aed5013e2f6a4f269023416ecc60fcb96bc29e2b1e203785e78",
+   "size": 85376,
+   "etag": "0735554c24606a041c08a0b53fb6e7b6"
+  },
+  "3210-viem-cung-mac-hoai-tu-sau-tiem-triamcinolone/images/3210_hoai-tu-cung-mac_Anh-mau_PMC6983460-Fig1.jpg": {
+   "sha256": "77c964ff4094aa6faf75a9156c93fe3ef855b4c7b819a4ed4a6509cac9568a28",
+   "size": 97712,
+   "etag": "c269ee19d71dbb93d60c1272d49fdee0"
+  },
+  "3210-viem-cung-mac-hoai-tu-sau-tiem-triamcinolone/images/composite_dung-vi-tri-tiem.jpg": {
+   "sha256": "507413b4ef1a18c24480274ff8ca2a23fea30bad5d339ec303cedeeb031ae2ae",
+   "size": 134662,
+   "etag": "e0d19905f5e13537f9343d03c000f11e"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_khong-phai-schnyder_PPK-ngoai-vi_PMC12219982-Fig1.jpg": {
+   "sha256": "f638490a6f18940fa7ef89858510d2cff955278052baaca6f4c39132fa7e603a",
+   "size": 74530,
+   "etag": "65ac7ff7c7eaa805842aa898ae1ef4b9"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_khong-phai-schnyder_Tinh-the-oxalate_PMC8831483-Fig2.jpg": {
+   "sha256": "dcf5c7912db3f69c69c432d282d908f058b275fa58a03dc87725dda069909996",
+   "size": 142958,
+   "etag": "969d4b20cc949696098d502f2dbb2094"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_schnyder_AS-OCT-truoc-sau-PTK_PMC10361439-Fig2.jpg": {
+   "sha256": "369064d23cd3092eea8c6572d23ba23d2ce79c1530c8aff631c998a0f6faf259",
+   "size": 80519,
+   "etag": "23f9f12cb80e73ec4ec2678804743edd"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_schnyder_Anh-den-khe-17-tuoi_PMC12421702-Fig1.jpg": {
+   "sha256": "9e6a2702007aba5792cd6edf2210321eed20c77b9088f71326b0fe5289eaa5e5",
+   "size": 34914,
+   "etag": "cccc51ed51071f5d4441569684435544"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_schnyder_AS-OCT-17-tuoi_PMC12421702-Fig3.jpg": {
+   "sha256": "c764e5315ecaa6af12514082568a373a627b4756803106ddcc5680683dde9925",
+   "size": 47829,
+   "etag": "0864838869e36cc588af2d0144c71cc5"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_schnyder_Anh-den-khe-bong-tuyet_PMC11943904-Fig2.jpg": {
+   "sha256": "2dcaa51ab14bd85ab1a6ba05d4b18dbe89fec6a3521f03af4a8470bb6f617b67",
+   "size": 55133,
+   "etag": "3b6666a27521fb2e5c9a9efb72162381"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_schnyder_Anh-den-khe_PMC7125492-Fig1.jpg": {
+   "sha256": "ec405b9048c765d4e2456320b62b6a76d03d82bfd78f2786df2c844e0feae138",
+   "size": 108607,
+   "etag": "1665da23b46926e08a749f9d1f0a489a"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_schnyder_Giai-doan-theo-tuoi_PMC10906208-Fig15.jpg": {
+   "sha256": "715311d5890700f26fe0c387804805e12bc0b693263e70b3a75655858398bf12",
+   "size": 118678,
+   "etag": "2d0d9116b7dcf8169d8a2d43f2b742cd"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_schnyder_AS-OCT_PMC7125492-Fig2.jpg": {
+   "sha256": "3e91ed05a5d232d18181d42fcf8e5acff78f4ed13af8b5a38f38cca6e8012e80",
+   "size": 152841,
+   "etag": "b6653b20604467664ba2d542d6169e5c"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_schnyder_IVCM-17-tuoi_PMC12421702-Fig2.jpg": {
+   "sha256": "da77be6f27fd99f211289bb24b3f2eb0c4cc84ba4b37a27de6ae78758b85dc73",
+   "size": 88632,
+   "etag": "7e4a4d19ab6264041cf54fe9104f2d9c"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_schnyder_IVCM_PMC7125492-Fig3.jpg": {
+   "sha256": "256cb6bcd33635828739ac31a9b31c1952b65f30ea8db6dc93a74306ea9208fd",
+   "size": 145243,
+   "etag": "fc07caa4aee19e6aa4f9e91b26f3659e"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_schnyder_PTK-truoc-sau_PMC10361439-Fig1.jpg": {
+   "sha256": "94e8e241e09e11170134f5dad635a650e7709f92949d78676b7907a1ee08f19d",
+   "size": 93211,
+   "etag": "35f8670d22a394e2431f224ba275f217"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/3211_schnyder_Mo-hoc_PMC7125492-Fig5.jpg": {
+   "sha256": "4eaf46c59bfde55659b6fa0e5c31e4b01a51813555411551beaf69a8190955c4",
+   "size": 118802,
+   "etag": "c304fcb9e5563ff9f963aa6eadb682c1"
+  },
+  "3211-loan-duong-giac-mac-schnyder/images/composite_tinh-the-vs-khong-tinh-the.jpg": {
+   "sha256": "6dd8c7a9fabb4a60a79babe4a831c55b4e3aa1da1d5bd12c2c3aaf2d675c414e",
+   "size": 137454,
+   "etag": "c2bcad310b87b3413172209b55334957"
+  },
+  "3212-hoi-chung-mat-nang-can-thi-cao/images/3212_lac-co-dinh_Anh-mau_PMC11090074-Fig1.jpg": {
+   "sha256": "8b4912fda4cf26f189e4acdc62a9beddefab7c35b611644d51aa7963b13742cc",
+   "size": 60684,
+   "etag": "518404c703613a37f2a1369f4bcd8591"
+  },
+  "3212-hoi-chung-mat-nang-can-thi-cao/images/3212_di-lech-co_MRI_PMC8858879-Fig2.jpg": {
+   "sha256": "4f94cc0c6f9efe3200742852c3f710a485d3917400d0cd3f2f8e470afb515eb0",
+   "size": 264851,
+   "etag": "06b8f45b1135166b2a8a8cd3d3a98676"
+  },
+  "3212-hoi-chung-mat-nang-can-thi-cao/images/3212_yokoyama-sau-mo_MRI_PMC11090074-Fig5.jpg": {
+   "sha256": "cfdf556763a1c1b5299178ab1fad22e7a30f8960e5253e195b9d1633eb5203f2",
+   "size": 34090,
+   "etag": "cf7d508a7dd1e0762c02b17da37cb8a7"
+  },
+  "3212-hoi-chung-mat-nang-can-thi-cao/images/3212_tien-trien-7-nam_MRI_PMC12392025-Fig3.jpg": {
+   "sha256": "dc84b272d98fb493bfbe809100d3a9e79444e815041f049d1f4a5db791440012",
+   "size": 166748,
+   "etag": "db78f7f314fdd4966af8ba894430ace0"
+  },
+  "3212-hoi-chung-mat-nang-can-thi-cao/images/composite_yokoyama-truoc-sau_MRI.jpg": {
+   "sha256": "d081660fbecb09b875e4a4ab7cc411ddd6bc0eedc84d6b20b0e0050a75d6c1df",
+   "size": 131024,
+   "etag": "94f19f6ffa56827c7aeb0c5c4190cd46"
+  },
+  "3213-bong-loc-sau-preserflo-microshunt/images/3213_preserflo-microshunt_AS-OCT_PMC10377986-Fig1.jpg": {
+   "sha256": "f34bbddbdb26f7c13c8f6f5b334898ac5a646f2bf5b80559ab510f123b7bc272",
+   "size": 160421,
+   "etag": "a13267bb62edc86ebe2e3cc5bbda2421"
+  },
+  "3213-bong-loc-sau-preserflo-microshunt/images/3213_preserflo-microshunt_AS-OCT_PMC10377986-Fig2.jpg": {
+   "sha256": "4a68650210bbc7faced7e6c13e2976445d3f461986ce12e3ec5fd785ed20f724",
+   "size": 81743,
+   "etag": "3279460c8b3ad9d2f6f44cf3dc3ff4a8"
+  },
+  "3212-hoi-chung-mat-nang-can-thi-cao/images/3212_lac-trong-lon_Anh-mau_PMC8858879-Fig1.jpg": {
+   "sha256": "a9fe6477fe0bd4abc80b7b1bff0fd70393ae267b06b27332b83c84d1701956fd",
+   "size": 421992,
+   "etag": "b14111c332b826aba94664d0faf24400"
+  },
+  "3212-hoi-chung-mat-nang-can-thi-cao/images/3212_yokoyama-truoc-mo_MRI_PMC11090074-Fig3.jpg": {
+   "sha256": "9770bb9101434d54999ff771afbfd922bc56845ca9143d3019ff65f0477644b6",
+   "size": 38521,
+   "etag": "1405a798f5a6907e7a847c89eefb4a50"
+  },
+  "3213-bong-loc-sau-preserflo-microshunt/images/3213_preserflo-microshunt_AS-OCT_PMC13619755-Fig1.webp": {
+   "sha256": "f96f05b1dffb85564ab43209a073bdbc3661f2bdf4aba89e6f767d2d6a60aa9d",
+   "size": 76172,
+   "etag": "14aafe9bea52a555f2ad318ce69a8038"
+  },
+  "3213-bong-loc-sau-preserflo-microshunt/images/3213_preserflo-microshunt_AS-OCT_PMC13294646-Fig3.jpg": {
+   "sha256": "7b20fd855b4d283dfa8c8ff231890f4982e892b9166bb6a9ec6589298946fcc0",
+   "size": 33444,
+   "etag": "a955a7f831753dd187da26d4db940022"
+  },
+  "3213-bong-loc-sau-preserflo-microshunt/images/3213_preserflo-microshunt_Phauthuat_PMC13294646-Fig6.jpg": {
+   "sha256": "3989b3149927593623c83cda3789117d15fe7be3fa4f43b138697dec07611194",
+   "size": 86166,
+   "etag": "ee5be94f8a839c487d047bbe5f54dbd0"
+  },
+  "3213-bong-loc-sau-preserflo-microshunt/images/3213_preserflo-microshunt_AS-OCT_PMC13722969-Fig1.webp": {
+   "sha256": "5ac24585f8842c2c9295b44541d8ef973d749edc87ed8d504e11f045a8d9e74b",
+   "size": 37570,
+   "etag": "8aa9afa17f17856050faffdd71c1bc6b"
+  },
+  "3214-nocardia-viem-cung-mac/images/3214_PMC3303001-12348_2011_43_Fig1_HTML.jpg": {
+   "sha256": "10c09b338fc0f66b0439bbcc6c9943edac9d83306632c861d0012743061e7d6f",
+   "size": 162826,
+   "etag": "5943ee19af0086688cadd4539099a2a1"
+  },
+  "3214-nocardia-viem-cung-mac/images/3214_ap-xe-cung-mac_Anh-mau_PMC4225828-Fig1.jpg": {
+   "sha256": "22fe9d18971e523ab919a24314f180084c994b1fd59e522f440c34feded5dd33",
+   "size": 86124,
+   "etag": "988dd074ac386d7ae13e5ba19b0b3531"
+  },
+  "3214-nocardia-viem-cung-mac/images/3214_hoai-tu-cung-mac_Anh-mau_PMC4225828-Fig2.jpg": {
+   "sha256": "3d92cdfa646f989ff03b7982e46fc39f8559aa3be9c0267c40ad94841e5adb9a",
+   "size": 51130,
+   "etag": "eaa175c470b582d686f0e6acef235480"
+  },
+  "3214-nocardia-viem-cung-mac/images/3214_dien-tien-dieu-tri_Anh-mau_PMC9666110-Fig2.jpg": {
+   "sha256": "b7ef4ba12fd6207285fddbe83aacf725cec67b58213e31a33e5074e3631aeae7",
+   "size": 123614,
+   "etag": "a7b9a45bbc34f3647648a8a707ae560b"
+  },
+  "3214-nocardia-viem-cung-mac/images/3214_sieu-am-AS-OCT_PMC9666110-Fig1.jpg": {
+   "sha256": "e3d4f4a99361990b348c513437a81b058a16558ef23a96df0ad8e5b9155e9ef6",
+   "size": 74052,
+   "etag": "c7b4d934323fcdd318ce484acb4b302c"
+  },
+  "3214-nocardia-viem-cung-mac/images/3214_PMC9851874-gr1.jpg": {
+   "sha256": "75f3e025f4e83b5b32313b700835f49fb51cb23aeec8e216e5d85ad3f4337aba",
+   "size": 265330,
+   "etag": "14283c826ffa0eaec4c6ffb7bccd4d8a"
+  },
+  "3214-nocardia-viem-cung-mac/images/3214_bong-cung-mac-lanh_Anh-mau_PMC9851874-Fig2.jpg": {
+   "sha256": "139efd0f4bcf1bfce6160a0186fc1fdfe68f83cb851ea537545c02fb357e4d9d",
+   "size": 250098,
+   "etag": "f020e2660f185e2e875ba476013e9fef"
+  },
+  "3214-nocardia-viem-cung-mac/images/3214_va-ghep-cung-mac_Anh-mau_PMC11842368-Fig4.jpg": {
+   "sha256": "d3c6d9a52c3c03b06187c2540601a98815b6df3bb206f530ec4d9f2299ce4985",
+   "size": 139164,
+   "etag": "dce4685fddab77fd1722f0d252d06366"
+  },
+  "3215-ntm-viem-cung-mac-sau-pterygium/images/3215_ap-xe-sau-pterygium_Anh-mau_PMC8491957-Fig1.jpg": {
+   "sha256": "f4d02697de6353e4ebdf6d7d71e56b48d63d6efe245f3f2ccc04105ec8e41560",
+   "size": 120571,
+   "etag": "183bf5a7f5ee7bb6b2721832e48fa3cf"
+  },
+  "3215-ntm-viem-cung-mac-sau-pterygium/images/3215_hoai-tu-sau-pterygium_Anh-mau_PMC9979078-Fig1.jpg": {
+   "sha256": "c55910ce4389f9e8d949ee325bffcc3e18df508eb3a3a3ef45588865c6068978",
+   "size": 52701,
+   "etag": "51b643087e69cf4de6aaaad324efe7c3"
+  },
+  "3214-nocardia-viem-cung-mac/images/composite_ap-xe-den-lanh.jpg": {
+   "sha256": "e139f8bbdfdd10de293df9107ad652070f7a9926a6b90380389dad6560983b43",
+   "size": 241136,
+   "etag": "b4416645da72fd8ad037e1fe39e8a9c5"
+  },
+  "3215-ntm-viem-cung-mac-sau-pterygium/images/3215_ntm-cung-mac_Anh-mau_PMC7513486-Fig1.jpg": {
+   "sha256": "9d1cc2e9689c6c85a1de4bc06380aacf8f7216cbac33dd3f6501d4797869556f",
+   "size": 52921,
+   "etag": "9dc2fdee6e443cf16ce1622a636a2ccb"
+  },
+  "3215-ntm-viem-cung-mac-sau-pterygium/images/3215_mong-cung-mac_Anh-mau_PMC3345049-Fig1.jpg": {
+   "sha256": "3660b88cca6f9b9107c8fcef5212f990e0b20d75f20d53404fef0b7908a0d5a5",
+   "size": 113638,
+   "etag": "de0c3b7433695199ae6d0f7b5cb9c531"
+  },
+  "3215-ntm-viem-cung-mac-sau-pterygium/images/3215_lo-hac-mac_Anh-mau_PMC9979078-Fig2.jpg": {
+   "sha256": "f3a07e544683fe88895ba61b05d5ded9bce9074ee90125cb979e453a42fbdead",
+   "size": 49429,
+   "etag": "c086976fc04126b421fc51f0dd361e15"
+  },
+  "3215-ntm-viem-cung-mac-sau-pterygium/images/3215_tai-phat_Anh-mau_PMC7513486-Fig3.jpg": {
+   "sha256": "e1f0376e0bbb52eca56f3e6428521f20893d08e78139c38998b4481ed4a98a4f",
+   "size": 136916,
+   "etag": "1fa746d6c933c4a1c78aede7799ec981"
+  },
+  "3215-ntm-viem-cung-mac-sau-pterygium/images/composite_ntm-cung-mac.jpg": {
+   "sha256": "7517a99354cf1dbd0f972f2035cdc235a32120e657d8e169c53ed9f34f6d69b1",
+   "size": 189436,
+   "etag": "837e796636d3c3408495efe216d869cf"
+  },
+  "3216-viem-giac-mac-nam-soi/images/3216_viem-giac-mac-nam-soi_IVCM_PMC5537506.jpg": {
+   "sha256": "97986fe4d4acf8092761ef54a5b6ccd554ec0a9b162ce5194c87037bde1d52a6",
+   "size": 161246,
+   "etag": "4dc0499c5651bb09447e54d6ad774b1d"
+  },
+  "3217-viem-cung-mac-nam-soi-sau-pterygium/images/3217_Scedosporium-keratoscleritis_Anh-mau_PMC6635299-Fig1.jpg": {
+   "sha256": "0893806bf62888cae09383e42906c931e58086f05e5756f8043e44e40ca558eb",
+   "size": 80477,
+   "etag": "3b3fd2d17661fde0f8f15d5bf6ce7086"
+  },
+  "3216-viem-giac-mac-nam-soi/images/3216_viem-giac-mac-nam-soi_So-sanh_PMC10788054.jpg": {
+   "sha256": "db469ade58d5d055d9ec653859db010579b519518143fee6a544dcc7a5c5d276",
+   "size": 75746,
+   "etag": "293e94ec0c020608c9a4988aeba53313"
+  },
+  "3216-viem-giac-mac-nam-soi/images/3216_viem-giac-mac-nam-soi_Tien-trien_PMC9605596.jpg": {
+   "sha256": "31087e52857f1ab5f456acfcade3cf930b816c2db271205b9b8227dfbef8c649",
+   "size": 61180,
+   "etag": "ad28590d4f930a08ed5340e88c2f90f3"
+  },
+  "3216-viem-giac-mac-nam-soi/images/3216_viem-giac-mac-nam-soi_Sinh-hien_PMC10788054.jpg": {
+   "sha256": "a0e5df99013a15d29e35ee729cdfea5e2b9a5dc5718f34f61eea2f8017ffba09",
+   "size": 68389,
+   "etag": "05a39950b54adcdb3429061d1ba135ec"
+  },
+  "3217-viem-cung-mac-nam-soi-sau-pterygium/images/3217_ap-xe-duoi-tenon_Anh-mau_PMC5809823-Fig1.jpg": {
+   "sha256": "8eaa4491f0a1f8e70af714c47bea847d2e827f9bf37f8d6ef78e495ce389f56f",
+   "size": 105548,
+   "etag": "0aff285c589aae23307dc7b671152ab8"
+  },
+  "3215-ntm-viem-cung-mac-sau-pterygium/images/3215_not-cung-mac_Anh-mau_PMC7513486-Fig2.jpg": {
+   "sha256": "8459f45c91dacc132c5ee44fde3dd25b5e82d516141b0d90287989ca57bfb909",
+   "size": 59183,
+   "etag": "efa3314508f0a601adb27b2504e17b61"
+  },
+  "3217-viem-cung-mac-nam-soi-sau-pterygium/images/3217_bien-chung-thung-giac-mac_Anh-mau_PMC6635299-Fig2.jpg": {
+   "sha256": "ad37526fbe771bd76c98ef17d13665c587ee3284ede6a44e3d4067b2daa3a482",
+   "size": 147814,
+   "etag": "8b25e70ea6f688108ada96fbaf9ce1c8"
+  },
+  "3217-viem-cung-mac-nam-soi-sau-pterygium/images/3217_ghep-cung-mac_Anh-mau_PMC5151160-Fig3.jpg": {
+   "sha256": "a9ae18836017424a554978474a01f2ceb6e88ed6f2832f00016d297dea3514c4",
+   "size": 46762,
+   "etag": "66eb66c9e181e639ab90a3490e7b1cc9"
+  },
+  "3217-viem-cung-mac-nam-soi-sau-pterygium/images/3217_hoai-tu-duong-ham_Anh-mau_PMC3917516-Fig1.jpg": {
+   "sha256": "e6db6d29e910d40e062b0c784ed3ca9d2db78a6048fd3e05a2ad5c20741d6e92",
+   "size": 85031,
+   "etag": "efa752f9922aa9003fea8c51252c0f53"
+  },
+  "3217-viem-cung-mac-nam-soi-sau-pterygium/images/3217_mu-tren-mang-xo_Anh-mau_PMC5151160-Fig1.jpg": {
+   "sha256": "8833d8b3c6761f81475cf5cebde1779edbe3da658910c0a1975626dabf5fd285",
+   "size": 51042,
+   "etag": "8ca0d4e3be70f007f9a2c7f3e9282de8"
+  },
+  "3217-viem-cung-mac-nam-soi-sau-pterygium/images/3217_hoai-tu-sau-pterygium_Anh-mau_PMC11842368-Fig2.jpg": {
+   "sha256": "4b76d371359008c814b244bf67b7b3c20658da1fd3a0554b8ec2cc6531f4f165",
+   "size": 160575,
+   "etag": "7553238b428386b6068bb6fd6b2ad167"
+  },
+  "3217-viem-cung-mac-nam-soi-sau-pterygium/images/3217_soi-nam-GMS_PMC5151160-Fig2.jpg": {
+   "sha256": "5ef586be9162aeb167fead55ff2b3aef28e74880e0a0f9012749d31d61590737",
+   "size": 185428,
+   "etag": "75cc2533672dca0557385f40e85c4c4b"
+  },
+  "3217-viem-cung-mac-nam-soi-sau-pterygium/images/3217_khuan-lac_PMC5809823-Fig3.jpg": {
+   "sha256": "401b4be80b02d5829b483f1b7a0f548f20ffd299e3a1be5e268b2cd3831c9356",
+   "size": 85193,
+   "etag": "a83a4e182df0a33d2fd3285613f7da03"
+  },
+  "3218-lac-trong-do-dai-vong-cung-mac/images/3218_PMC9750093-Fig1.jpg": {
+   "sha256": "6f5e7649091bdac452e8f3944db707e39091cdd1f70dcf6aae6373ce1c19ba92",
+   "size": 100936,
+   "etag": "2f6a0ddfc050643afa6f1b4e1dc1e095"
+  },
+  "3218-lac-trong-do-dai-vong-cung-mac/images/3218_PMC6611860-Fig1.jpg": {
+   "sha256": "894ae0f92605764000502d86d349c3f9a219274eb3d3b3d304d5b6f00e912013",
+   "size": 211619,
+   "etag": "5083687d4fe8994658beb6d31fc890d6"
+  },
+  "3220-viem-giac-mac-nam-men-candida/images/3220_viem-giac-mac-nam-men-candida_IVCM-bao-tu_PMC10476318.jpg": {
+   "sha256": "d6865660cbffc7078d746f2be0b2819496e2726e4d26777176fd7cb0bf5b9c3e",
+   "size": 32893,
+   "etag": "ddfb82a0fb4f18d862ee1e2376de9cac"
+  },
+  "3219-song-thi-han-che-van-nhan-sau-van-loc-glocom/images/3219_song-thi-han-che-van-nhan_Hess_PMC7931660-Fig1.jpg": {
+   "sha256": "f846fe1685d644e435c636f6b52364965cc2d242b8c245983e76b772ac098b63",
+   "size": 148073,
+   "etag": "510e806895571f85030bbd701caa90d9"
+  },
+  "3220-viem-giac-mac-nam-men-candida/images/3220_viem-giac-mac-nam-men-candida_Lam-sang-sau-ghep_PMC10476318.jpg": {
+   "sha256": "7d4f63ecd6246be4db4a3b2fbc9f521324167143ed7b39e93011192713a065b0",
+   "size": 78020,
+   "etag": "20175903f68c23c920402d0960b9a0ae"
+  },
+  "3219-song-thi-han-che-van-nhan-sau-van-loc-glocom/images/3219_song-thi-han-che-van-nhan_CT_PMC13182783-Fig1.jpg": {
+   "sha256": "c9b7d03a2acee97cc056a4788b33f67d4df08cf27a95949d07d010eb1482be22",
+   "size": 251496,
+   "etag": "ca447ef655dcf063933296c2001f494e"
+  },
+  "3220-viem-giac-mac-nam-men-candida/images/3220_viem-giac-mac-nam-men-candida_Lam-sang_PMC11760754.jpg": {
+   "sha256": "1f0592121a0efdfd751a0a89925b9dc0dfd4a0498dc727b50663ad4fa39c9a86",
+   "size": 179177,
+   "etag": "6cecbdb9d626affc88361044af221cc8"
+  },
+  "3220-viem-giac-mac-nam-men-candida/images/3220_viem-giac-mac-nam-men-candida_IVCM-EVCM_PMC11760754.jpg": {
+   "sha256": "0268ffd1299090c2f4c9e9b7dc9225a1fd595a1d6968cbf465ce2c2337c5e62e",
+   "size": 325250,
+   "etag": "4a9f3b2a4c41c62aa4431614d2555304"
+  },
+  "3220-viem-giac-mac-nam-men-candida/images/3220_viem-giac-mac-nam-men-candida_Mo-hoc-khu-tru_PMC12471080.jpg": {
+   "sha256": "ccf0b24cd57b6e8befff20a9d3443000748a8c7f07bfc8c75a180a8b5d738c5f",
+   "size": 201732,
+   "etag": "f99c15acde9cf9442cf86606bd3ae673"
+  },
+  "3221-viem-cung-mac-nam-sau-buckle/images/3221_buckle-lo-khong-nhiem_PMC4738662.jpg": {
+   "sha256": "3c427eb891b934fc7b9bbfe1cb70a006d96c927f68d975e9367d62289074f7c7",
+   "size": 99303,
+   "etag": "5f4c8b35bf895ef9b207ddde6b9bcc9a"
+  },
+  "3221-viem-cung-mac-nam-sau-buckle/images/3221_buckle-lo-nhiem_PMC4738662.jpg": {
+   "sha256": "1dbecbab38498cf02cd7f5aeca641977081e6b4b00fc924a32bb3145f2a54798",
+   "size": 76223,
+   "etag": "313d15230acd88160e181d85de32109b"
+  },
+  "3221-viem-cung-mac-nam-sau-buckle/images/3221_curvularia-buckle_Cay_PMC5807820.jpg": {
+   "sha256": "33c4224ef321c23513b4c68ff67b725000f78172e1f045938e437b1bfe188694",
+   "size": 28699,
+   "etag": "ce8859168d5da533ffcff71d545e18c9"
+  },
+  "3221-viem-cung-mac-nam-sau-buckle/images/3221_curvularia-buckle_Lam-sang_PMC5807820.jpg": {
+   "sha256": "7c08d5f3ee10d5f9cd02dd3c32ecdae07a5bcb1c2a0157b55960a38314abcf25",
+   "size": 64224,
+   "etag": "3b366b8d82b15c678e1d11f03586a5f5"
+  },
+  "3221-viem-cung-mac-nam-sau-buckle/images/composite_buckle-lo-nhiem.jpg": {
+   "sha256": "6deaabdf8304a6896939d9f31d89ab2fd55c5a0e9a3571b3c4db868e4e3d3608",
+   "size": 71625,
+   "etag": "b84cadb6295ee105df894610d56e38b2"
+  },
+  "3221-viem-cung-mac-nam-sau-buckle/images/3221_nam-soi-cung-mac_GMS_PMC4411618.jpg": {
+   "sha256": "53aeaec961c03f88657144e0fc2d1d0410195f9c78f89bd15a546d1ae86b435e",
+   "size": 114820,
+   "etag": "7a5ec424008569ce5c78dfd9799cb3c9"
+  },
+  "3221-viem-cung-mac-nam-sau-buckle/images/3221_hoai-tu-cung-mac-sau-mo_PMC12104689.jpg": {
+   "sha256": "e019e31478fb9324a0af58266b7ac572666ba8bd428b16f25442b66108267776",
+   "size": 190528,
+   "etag": "62648e5b12aff5a6bf5083b1af276313"
+  },
+  "3222-thieu-mau-doan-truoc-sau-mo-co-truc-dai-vong/images/3222_asi-doan-truoc_SlitLamp_PMC5282541-Fig3.jpg": {
+   "sha256": "7c466ccb3444b35714762dbe26559aac9c27cfbd68af103e9333a2a73b2d4a74",
+   "size": 53675,
+   "etag": "ceb7d7cd3f08948dc87f9c15a29e3fab"
+  },
+  "3222-thieu-mau-doan-truoc-sau-mo-co-truc-dai-vong/images/3222_asi-doan-truoc_SlitLamp_PMC11620293-Fig3.jpg": {
+   "sha256": "d6b368de0a846d0af1097d6c389c43620a32bc977178c660893619dbed998667",
+   "size": 146803,
+   "etag": "b91441ad304e0a7af55744d46149be90"
+  },
+  "3222-thieu-mau-doan-truoc-sau-mo-co-truc-dai-vong/images/3222_asi-doan-truoc_SlitLamp_PMC5282541-Fig2.jpg": {
+   "sha256": "f0c07462c16629c202cb706cfa8a7cb4de55a42a0d905c5868a7197a4d36ab60",
+   "size": 39350,
+   "etag": "65afa9da4b668f9b048e71541ae9a04e"
+  },
+  "3222-thieu-mau-doan-truoc-sau-mo-co-truc-dai-vong/images/3222_asi-doan-truoc_SlitLamp_PMC11620293-Fig2.jpg": {
+   "sha256": "c57519e8c3aed059eeec06fb6e02cd567f0e6b71b5264af368b308b2a2cb8581",
+   "size": 172748,
+   "etag": "63cc6415cfbc7b900fc5685aa2995023"
+  },
+  "3222-thieu-mau-doan-truoc-sau-mo-co-truc-dai-vong/images/3222_asi-doan-truoc_So-do-cap-mau_CC0.png": {
+   "sha256": "1682ecf4a23f1c46a2b965877bf3a74b7d7ad340f5ec2577c6d519270be12e22",
+   "size": 173965,
+   "etag": "c9b15d6f9a73af94f57b012d8cb5814a"
+  },
+  "3223-pex-glaucoma-phaco-migs-trab/images/3223_pex-glaucoma_Anh-mau_PMC13355278-Fig2.jpg": {
+   "sha256": "c3971075e38ab309cf0339dc0a5353665a43fc38a6acb244922932d49fa48318",
+   "size": 107578,
+   "etag": "146c7ed272f86eb9fd3ac7533e52149e"
+  },
+  "3223-pex-glaucoma-phaco-migs-trab/images/3223_pex-glaucoma_Anh-mau_PMC13355278-Fig1.jpg": {
+   "sha256": "7ba082452d20ccf42384a939271b0afd130082aa1142804023ebc0e28f539bd4",
+   "size": 96403,
+   "etag": "f730e4a7f2b0374f77e75121c96aa570"
+  },
+  "3223-pex-glaucoma-phaco-migs-trab/images/3223_pex-glaucoma_Do-thi_PMC12775301-Fig1.jpg": {
+   "sha256": "8c1a1d01ea354423c7054bb9a8f3032e10e83da8f3bf7aa2b8d11a47a6312461",
+   "size": 45761,
+   "etag": "2b2a59b7cbf6a7ba2ff4af1977d93b38"
+  },
+  "3223-pex-glaucoma-phaco-migs-trab/images/3223_pex-glaucoma_Den-khe_PMC10442753-Fig5.jpg": {
+   "sha256": "56e6fc05c4ae18464113df71f872a598546c984725940ead8f24d19e30149f57",
+   "size": 110642,
+   "etag": "ad424c780a4c26a8f2e3346ff7e0808e"
+  },
+  "3223-pex-glaucoma-phaco-migs-trab/images/composite_3223_PEX-lam-sang.jpg": {
+   "sha256": "67e7429b8317978471c25034b9f94b9d03c6afb5be9a7bea4de16afc2df65306",
+   "size": 104854,
+   "etag": "5273aad8282c0ea0d14e43b739361c7d"
+  },
+  "3223-pex-glaucoma-phaco-migs-trab/images/3223_pex-glaucoma_Do-thi_PMC10141576-Fig1.jpg": {
+   "sha256": "2e07e1ea7c54a329672d3a89eac12fc498c5c9e1e192e05859629970c44c3660",
+   "size": 59594,
+   "etag": "e9c0c1bf33478f2b6b6073a3d336f27d"
+  },
+  "3223-pex-glaucoma-phaco-migs-trab/images/3223_pex-glaucoma_Forest_PMC13283822-Fig4.jpg": {
+   "sha256": "71c87c5cd5a686a8915a01db689c410aeaa98f3e370e333b5c40934d58a5dab7",
+   "size": 256136,
+   "etag": "62f176f6424dd551326efc4353057c2d"
+  },
+  "3224-lo-ong-van-dan-luu-glaucoma/images/3224_lo-ong-van_Anh-mo_IJO2023-PMC10683691.jpg": {
+   "sha256": "2861420ef2425b474abec426baba26b3663752a47915b28f82c130d2996a240d",
+   "size": 130934,
+   "etag": "a969a6af686237f65f42d01e676016b3"
+  },
+  "3224-lo-ong-van-dan-luu-glaucoma/images/3224_lo-ong-van_AS-OCT_JJO2026-PMC13616009.jpg": {
+   "sha256": "5da0dcd6483a0fd65866a60cc164171b1600bbb803082e976dd7feff65cbb8ce",
+   "size": 185617,
+   "etag": "a46e9ba5f6d8af1a6080b7e330715068"
+  },
+  "3224-lo-ong-van-dan-luu-glaucoma/images/3224_lo-ong-van_CT_AmJCaseRep2026-PMC13270879.jpg": {
+   "sha256": "dc50c64c90ec7069d23bbe621c2b801a8e574598fff6c469c00df21baf631cc5",
+   "size": 102666,
+   "etag": "42d6db68bf7e62909c2d0fcb53e2126c"
+  },
+  "3224-lo-ong-van-dan-luu-glaucoma/images/3224_lo-ong-van_Slitlamp_RomJOphthalmol2024-PMC11007568.jpg": {
+   "sha256": "2a4a5e151535b41103ae816526f4bc253e6f6ec1276e8270116571bdf990dd6d",
+   "size": 43524,
+   "etag": "8fb1204a6380c05d9b704e6c7ec373ea"
+  },
+  "3225-hoi-chung-ugh-sau-dat-dai-ong-silicon/images/3225_ugh_AS-OCT_PMC13241279-Fig3.jpg": {
+   "sha256": "72921ff06b2f6f3a96c73ad768d1cd42502acd9d07005593b27871fb076e1f49",
+   "size": 87811,
+   "etag": "8b7a8f946391712d942de792620fe319"
+  },
+  "3225-hoi-chung-ugh-sau-dat-dai-ong-silicon/images/3225_ugh_Gonioscopy_PMC13241279-Fig2.jpg": {
+   "sha256": "65de749d67c14382ab8f97f0b1b9bfdf2883dddebbac46a853e136b536b21f62",
+   "size": 64285,
+   "etag": "c4360523d4cb849aa0b0de5725accc2d"
+  },
+  "3225-hoi-chung-ugh-sau-dat-dai-ong-silicon/images/3225_ugh_Hyphema_PMC13335230-Fig1.jpg": {
+   "sha256": "b44fc22720efd07649d14b7e9637d0b8b64c60ce47c5d249d88826657c2676ad",
+   "size": 87956,
+   "etag": "d74d24e8bac1d15a8f13dbc4294f54a8"
+  },
+  "3225-hoi-chung-ugh-sau-dat-dai-ong-silicon/images/3225_ugh_SlitLamp-ASOCT_PMC13335230-Fig2.jpg": {
+   "sha256": "0f4ad45b526cd6838181c60cafc738e2182d15896eba78b5610ba28312e1e0ee",
+   "size": 53952,
+   "etag": "c04fa002a5e105e650fc699fe73b5478"
+  },
+  "3225-hoi-chung-ugh-sau-dat-dai-ong-silicon/images/3225_ugh_SlitLamp_PMC13241279-Fig1.jpg": {
+   "sha256": "500a6a000219152e2ee4ee0678e5d3b565f67cd5b99faa773afe906f127975cf",
+   "size": 77266,
+   "etag": "883ef65ad27546d2a1a08eda58f51e7e"
+  },
+  "3224-lo-ong-van-dan-luu-glaucoma/images/3224_lo-ong-van_Slitlamp_Medicine2024-PMC11688080.jpg": {
+   "sha256": "0b47c8c81ce86e1d22fdea6af5e0c4ae54a8d38b62e4adf817998fc18d60eff6",
+   "size": 220836,
+   "etag": "93b2c448f0e37db6025da67916716143"
+  },
+  "3225-hoi-chung-ugh-sau-dat-dai-ong-silicon/images/3225_ugh_Transillumination_PMC13241279-Fig4.jpg": {
+   "sha256": "1b54c5169b28a8ffbbf174f32bea8164a503a7e6d2bfea9a59ffd90d31b281db",
+   "size": 62419,
+   "etag": "082a5316e57a7c97b041f057e1dffbe6"
+  },
+  "3225-hoi-chung-ugh-sau-dat-dai-ong-silicon/images/3225_ugh_UBM_PMC10715750-Fig2.jpg": {
+   "sha256": "ad7b24ceb3124e9d41865a494b2df3147ec4a6f3e2e46262f68bfad87e204317",
+   "size": 85165,
+   "etag": "67a52bf46cddad58e4bbe6c7334c7f85"
+  },
+  "3225-hoi-chung-ugh-sau-dat-dai-ong-silicon/images/composite_ugh_den-khe_AS-OCT.jpg": {
+   "sha256": "dbfcd66eb18e3c4d1b1a413ab3b4006a5365e8a667e6a988e96db55c71890cc7",
+   "size": 79653,
+   "etag": "6f1067c0f53a8a6841b8e833729d8e81"
+  },
+  "3226-nam-ghep-giac-mac-tu-nguoi-hien/images/3226_nam-ghep-giac-mac_AS-OCT-interface_PMC6579547.jpg": {
+   "sha256": "2fa8bb72ab830bfc2c0d52985ff3fb42555f4731122ec2032d3f1226b392ef06",
+   "size": 147959,
+   "etag": "07020cc431e8e70da6b9d4013d68b406"
+  },
+  "3226-nam-ghep-giac-mac-tu-nguoi-hien/images/3226_nam-ghep-giac-mac_B-scan_PMC2891680.jpg": {
+   "sha256": "eb513a69559345c1728e7738662cfa2a566e948b75f43c868609682140ed0abc",
+   "size": 67228,
+   "etag": "68059ba8bbb477f6a3f980a99642ccb6"
+  },
+  "3226-nam-ghep-giac-mac-tu-nguoi-hien/images/3226_nam-ghep-giac-mac_Cay-am-tinh-mam_PMC2891680.jpg": {
+   "sha256": "667a86dd734eaed428b42c11af81327ec083a45089e538a20b44c37f1c7cb6d3",
+   "size": 53285,
+   "etag": "6d888959f3174833b692ffe3a91663d1"
+  },
+  "3226-nam-ghep-giac-mac-tu-nguoi-hien/images/3226_nam-ghep-giac-mac_Interface-28-ngay_PMC6579547.jpg": {
+   "sha256": "6f3d17b4c65847001b038aabeec1be121c1faf03ba151c7a91c4af770fb3adb8",
+   "size": 28496,
+   "etag": "beebb8d0597adff6fa54c5da6a1546ec"
+  },
+  "3226-nam-ghep-giac-mac-tu-nguoi-hien/images/3226_nam-ghep-giac-mac_Interface-muon-1-nam_PMC7184523.jpg": {
+   "sha256": "48375498b8e5a42bf1d7ea2ae59b216f5dad7028a189c5fd2541bef3d2efc88f",
+   "size": 58392,
+   "etag": "4889dccd878323566bc17f22ef3c51b2"
+  },
+  "3227-theo-doi-sau-ugh-da-giai-quyet/images/3227_ugh-theo-doi_OCT-RNFL_PMC10931771-Fig3.jpg": {
+   "sha256": "03e9a7d6cb54f0788f227bd2f6faddb1e5cbf000b7a965f9d2b1fb29e7c0f8d3",
+   "size": 139226,
+   "etag": "0c19c4e2fc0abb262e0ef2f8c6b241b6"
+  },
+  "3226-nam-ghep-giac-mac-tu-nguoi-hien/images/3226_nam-ghep-giac-mac_Lam-sang-17-ngay_PMC13524929.jpg": {
+   "sha256": "6d98ce55ee90cf586376dbb52a1078e1299ef723b24b24ebe6f2214f776e0ce9",
+   "size": 227286,
+   "etag": "1cb12c7e0b072d2e054ed15f5903dc9a"
+  },
+  "3227-theo-doi-sau-ugh-da-giai-quyet/images/3227_ugh-theo-doi_IOP-meds_PMC6323086-Fig1.jpg": {
+   "sha256": "2fe73570ba4d1ad09e9461637ca4f23f30aac7b6d42a972be0051b41da0ec33e",
+   "size": 49017,
+   "etag": "9f97942b34510382cde2a67c1925cd70"
+  },
+  "3227-theo-doi-sau-ugh-da-giai-quyet/images/3227_ugh-theo-doi_SlitLamp_PMC8789600-Fig1.jpg": {
+   "sha256": "197da227a6d73610e5caadb01309dea03960dc582e8470e654c1908787d812ad",
+   "size": 301488,
+   "etag": "5a2e30fd4606ea423ae2b7c4fca21774"
+  },
+  "3227-theo-doi-sau-ugh-da-giai-quyet/images/composite_ugh_theo-doi_TID-truoc-sau.jpg": {
+   "sha256": "a1279de9e80e537bd3aa667dfa2a45cc37acd5dd248a32d29927582703fcd895",
+   "size": 77148,
+   "etag": "0abf3288707d84bf245e84b5283dd37b"
+  },
+  "3227-theo-doi-sau-ugh-da-giai-quyet/images/3227_ugh-theo-doi_SlitLamp_PMC8789600-Fig3.jpg": {
+   "sha256": "ebd2ea242fd6929df8e61adda3445e9ee4509e8ccc258fca27f8fa3ebae02d7f",
+   "size": 275879,
+   "etag": "57762ebbcd65d543c8f04ae0565c8a8f"
+  },
+  "3228-lo-don-hoc-mat-sau-muc-nhan-cau/images/3228_lo-don-hoc-mat_Algorithm_PMC3783467.jpg": {
+   "sha256": "a5946d474526f98ab50e1c49e13575a84dee7bef7a71459af60df601f8a39938",
+   "size": 72970,
+   "etag": "ffcb4565268757faf247405c096a66ee"
+  },
+  "3227-theo-doi-sau-ugh-da-giai-quyet/images/3227_ugh-theo-doi_Structure-Function_PMC8465069-Fig1.jpg": {
+   "sha256": "d8e4bbe3f461158008183eec651c86fc5bd295126a37d9edb20200c0a3db0c05",
+   "size": 67555,
+   "etag": "b4db0e99c7580efc97931b68fe27d22e"
+  },
+  "3228-lo-don-hoc-mat-sau-muc-nhan-cau/images/3228_lo-don-hoc-mat_Clinical_PMC12020655.jpg": {
+   "sha256": "4d4c3f3ea624e28e6fadaabcfce2e18ed20d32021ffff0a7c07bc6400956a8ee",
+   "size": 82329,
+   "etag": "d68f9aa174894e2bc81e5c2587617b23"
+  },
+  "3228-lo-don-hoc-mat-sau-muc-nhan-cau/images/3228_lo-don-hoc-mat_Clinical_PMC7442098.jpg": {
+   "sha256": "81d30ae8d7c8344c6ec09d7d197b2a4fe3b8124bb90612fb4cb77b7649dbfaa9",
+   "size": 42509,
+   "etag": "01f5ea9ab32c5914af8d1b79a540fda1"
+  },
+  "3228-lo-don-hoc-mat-sau-muc-nhan-cau/images/3228_lo-don-hoc-mat_Clinical_PMC12608243.jpg": {
+   "sha256": "e28d07514deac2c5e9c7de40e559b7de246db1be6c6fe2007be5fc05d0806618",
+   "size": 62419,
+   "etag": "fefc78bd54919e021cb51b49afdcf976"
+  },
+  "3229-hoi-chung-hoc-mat-sau-muc-nhan-cau/images/3229_pess-co-che_Minh-hoa_PMC9325822-Fig2.jpg": {
+   "sha256": "dd7145bafe4ee3b91716592c9274acb07da7c80ef42165dc6ea11e28badb377f",
+   "size": 50756,
+   "etag": "d9110271ff67ee2bc0d99a91e3488577"
+  },
+  "3228-lo-don-hoc-mat-sau-muc-nhan-cau/images/3228_lo-don-hoc-mat_Diagram_PMC3783467.jpg": {
+   "sha256": "d504686a5a9203b325eefc1f2c6af05a90043ebef3e27e47268494a57f70c7bc",
+   "size": 111653,
+   "etag": "4bb75d1fb4e5f2b9d218bf96ab59b6bf"
+  },
+  "3229-hoi-chung-hoc-mat-sau-muc-nhan-cau/images/3229_dfg-truoc-sau_Anh-mau_PMC11984438-Fig3.jpg": {
+   "sha256": "9ff2c570c64139d5008c405f28b080f3153ff5f582d1339f2a65991f7bcca364",
+   "size": 95107,
+   "etag": "ca96a9f2e657817842378226f28953f0"
+  },
+  "3229-hoi-chung-hoc-mat-sau-muc-nhan-cau/images/3229_pess-kinh-gia_Minh-hoa_PMC9325822-Fig3.jpg": {
+   "sha256": "21251d46849604a456a07d0e1b70ccf8cefab221023b709f1502c8eed8f1cf4d",
+   "size": 63033,
+   "etag": "5205c603d64c62579912fec1445a3f26"
+  },
+  "3229-hoi-chung-hoc-mat-sau-muc-nhan-cau/images/3229_pess-lam-sang_Anh-mau_PMC9325822-Fig1.jpg": {
+   "sha256": "0eac5715b0dd93ac69dc872648c33394441079ca38460b43a19ce8180ad62813",
+   "size": 56771,
+   "etag": "ce9716f03afaae875a8b2eaf0f720936"
+  },
+  "3230-khoi-tuyen-le/images/3230_khoi-tuyen-le_MRI-ACC-PMC12819838.jpg": {
+   "sha256": "6b941c1e191314b41ae0a4030c125158e6422a7c9d5ff0f8a7cae5e947f5fc55",
+   "size": 126131,
+   "etag": "07ade3c84fd1860c385231da16840015"
+  },
+  "3230-khoi-tuyen-le/images/3230_khoi-tuyen-le_MRI-ACC-giong-PA-PMC13604454.jpg": {
+   "sha256": "f5358c7a73c5299e22b6e888cabc5b990193a0348c9816d0524c31bf24fd0497",
+   "size": 182627,
+   "etag": "64a51ae474a274ba25c428794db05991"
+  },
+  "3230-khoi-tuyen-le/images/3230_khoi-tuyen-le_MRI-Lymphoma-PMC12819838.jpg": {
+   "sha256": "bba4cca3106ab596d41a2e5a4e41a1e73bd63c0d6e791d034bea733fea1c55a1",
+   "size": 125799,
+   "etag": "37ff676d4adc0b34136f069303272882"
+  },
+  "3230-khoi-tuyen-le/images/3230_khoi-tuyen-le_MRI-IgG4-PMC12819838.jpg": {
+   "sha256": "89f2664f47eb71eb75b0133d4e6cc2d3ba6cd7e427d82784ea00e25e882959b2",
+   "size": 127611,
+   "etag": "a7622484c6bbd99e75cb863fc1303529"
+  },
+  "3230-khoi-tuyen-le/images/3230_khoi-tuyen-le_MRI-PA-tai-phat-PMC13171307.jpg": {
+   "sha256": "34e28d4996d6eb2871296dd13795b8eb146714cca47f8045f4cbcc67b14846c2",
+   "size": 69451,
+   "etag": "f9330c9355478c7c6c9ce24a5c29ba30"
+  },
+  "3230-khoi-tuyen-le/images/3230_khoi-tuyen-le_MRI-U-tuyen-da-hinh-PMC12819838.jpg": {
+   "sha256": "f3bec994933d6819f8776e7d14b872b27e992497acdf3561647400d18657b129",
+   "size": 141520,
+   "etag": "98f2037565cd54de1602275ddc219be7"
+  },
+  "3230-khoi-tuyen-le/images/3230_khoi-tuyen-le_MRI_Giai-phau-PMC12819838.jpg": {
+   "sha256": "81fa8ad28d6680a56103dd6028601f08fd720a258d0cd07bf793ca0c5e1ed83b",
+   "size": 123631,
+   "etag": "11484c1f67adfc7e7ebbd3c2dce7a17b"
+  },
+  "3231-u-mong-mat-melanoma-nevus-nang/images/3231_u-mong-mat_AS-OCT_PMC5991049.jpg": {
+   "sha256": "a72844182cc665c3c53ab50cc259d39378056c2db2426069bfe9dcbade4b2656",
+   "size": 47323,
+   "etag": "e5c7f87b16cbcd7b4639b496079c5043"
+  },
+  "3230-khoi-tuyen-le/images/composite_PA-vs-ACC.jpg": {
+   "sha256": "531780b663b24f57de4d36c830d24357a7c5632224fc00fb3e27640770a1a1c2",
+   "size": 159106,
+   "etag": "f7a9d334ec46ebe63969e0dcc89d142c"
+  },
+  "3231-u-mong-mat-melanoma-nevus-nang/images/3231_u-mong-mat_Melanoma-lam-sang_PMC7952409.jpg": {
+   "sha256": "603181175824e94ea354b5ee98a3a42e029dc7e1b693d42f97f9cea666516aec",
+   "size": 288371,
+   "etag": "b1b33fe54581ef00b8b21ef9769ac1f1"
+  },
+  "3231-u-mong-mat-melanoma-nevus-nang/images/3231_u-mong-mat_Nevus-slitlamp_PMC5075749.jpg": {
+   "sha256": "161fb9c5b298700265503a9c85906d02a1eec2e983d288392a4ba55058f8db92",
+   "size": 66877,
+   "etag": "166acecf223418521a60874ab1a14f87"
+  },
+  "3231-u-mong-mat-melanoma-nevus-nang/images/3231_u-mong-mat_Slitlamp-UBM_PMC13171844.jpg": {
+   "sha256": "278e1d82521c83796e3119644c87bbf270eded53b3d0594ca00b5d7b0439ee59",
+   "size": 101237,
+   "etag": "98a36b73d637a4a2d8f11d5ce357684c"
+  },
+  "3231-u-mong-mat-melanoma-nevus-nang/images/3231_u-mong-mat_Slitlamp-truoc-gian-dong-tu_PMC5991049.jpg": {
+   "sha256": "c20537e1d0af327d8b05612f6decda203dc792cfa911b4526d50e747900d3c24",
+   "size": 52147,
+   "etag": "772ac56065676c3b9f46544d3b51835c"
+  },
+  "3231-u-mong-mat-melanoma-nevus-nang/images/3231_u-mong-mat_UBM-sau-gian-dong-tu_PMC5991049.jpg": {
+   "sha256": "77a22fa9507c69444b27ce5091fb95f3ec3b04973c8bfe9eeb5d49e45ed53a07",
+   "size": 19223,
+   "etag": "6588cb6b03c22a1c82a483b8865e6553"
+  },
+  "3231-u-mong-mat-melanoma-nevus-nang/images/3231_u-mong-mat_Nevus-OCTA_PMC5075749.jpg": {
+   "sha256": "50e046fbfba11b80bfb9d00cd055c6fbbfd5e24d05361518032e00c0cbbda3e1",
+   "size": 181907,
+   "etag": "59f6e91649813d1652e3648bb3d11d2b"
+  },
+  "3233-theo-doi-acc-tuyen-le-sau-xa-va-tai-phat/images/3233_theo-doi-acc-tuyen-le_MRI-tai-phat-3-thang_PMC11301145.jpg": {
+   "sha256": "aa04a91494daf3c4ad1ccd2b709f33d5ccb46d89cc337325ec9513caad5ffff3",
+   "size": 311506,
+   "etag": "b4b02953738da4f1424339acfa9969d3"
+  },
+  "3233-theo-doi-acc-tuyen-le-sau-xa-va-tai-phat/images/3233_theo-doi-acc-tuyen-le_MRI_RIBI-photon-proton_PMC13115542.jpg": {
+   "sha256": "958fa21a3178390fe191e0313698ef24633c00dcf7e6b5f6e28969543b11e790",
+   "size": 113193,
+   "etag": "3629cd8baf6e59e05f13a0695b2fc9ce"
+  },
+  "3233-theo-doi-acc-tuyen-le-sau-xa-va-tai-phat/images/composite_tai-phat-vs-seo.jpg": {
+   "sha256": "a40e7d1c179c823f06807fa2682f66d0d45582bff5b6bfdddbb6ea3a849fc018",
+   "size": 125519,
+   "etag": "51cee072a09456fb8be79df2a4d90564"
+  },
+  "3233-theo-doi-acc-tuyen-le-sau-xa-va-tai-phat/images/3233_theo-doi-acc-tuyen-le_PET-dien-tien_PMC13756941.webp": {
+   "sha256": "de2550992947be28c33cb76ab17323b84afa5123c43540679e340635c3e8ae4d",
+   "size": 79330,
+   "etag": "82e417616ab66f641589e8575ec8182e"
+  },
+  "3233-theo-doi-acc-tuyen-le-sau-xa-va-tai-phat/images/src_seo-xo_PMC12041163.jpg": {
+   "sha256": "4e89db4981d3e1cbbbda87ed5d2401b61e8791f2a441c4d9ea96ba75d0a6ccb1",
+   "size": 146992,
+   "etag": "aa19a8c729005fb4f2b26183372d9eb5"
+  },
+  "3233-theo-doi-acc-tuyen-le-sau-xa-va-tai-phat/images/3233_theo-doi-acc-tuyen-le_MRI_RICE-pseudoprogression_PMC13115542.jpg": {
+   "sha256": "df8fe621e54db198481287a169298c2a359a6dbc19572a9244f5aab90f5b137e",
+   "size": 111322,
+   "etag": "4c81472aeba350f7764ab6cb58fa0a48"
+  },
+  "3234-pex-khong-glaucoma-theo-doi-slt-phaco-som/images/3234_PXF-be-mat-noi-mo_PMC10442753-Fig2.jpg": {
+   "sha256": "e3ed77717a32bd27bd9e17707878cba636020eb1e09ee7daa3a07e3217b620fb",
+   "size": 57237,
+   "etag": "73c1e489f9ba39c72f82fcf1ea455491"
+  },
+  "3233-theo-doi-acc-tuyen-le-sau-xa-va-tai-phat/images/src_tai-phat_PMC12041163.jpg": {
+   "sha256": "a141a08eea3f7d5298afddb54484974b4f9a0cd873c2a81c203b52acb54fac22",
+   "size": 127818,
+   "etag": "98d224bf7ea366fab7e415cb5cce319b"
+  },
+  "3234-pex-khong-glaucoma-theo-doi-slt-phaco-som/images/3234_PXF-bo-dong-tu_PMC10442753-Fig3.jpg": {
+   "sha256": "f64b07dddd9db172e925443686cd49cbccf664d6b64d1e49bc796fa203f5be66",
+   "size": 52879,
+   "etag": "b4c245e7a70e1b7c0bd2326f71878318"
+  },
+  "3234-pex-khong-glaucoma-theo-doi-slt-phaco-som/images/3234_PXF-mat-sac-to-mong-mat_PMC10442753-Fig4.jpg": {
+   "sha256": "6f71a6579168ac84818dd682c39ce387e5e656e28d1aef60f1643a9fd48700ca",
+   "size": 62329,
+   "etag": "59387b4f40264181c2f51f55b710a12f"
+  },
+  "3234-pex-khong-glaucoma-theo-doi-slt-phaco-som/images/3234_PXF-gonioscopy-sac-to-goc_PMC10442753-Fig6.jpg": {
+   "sha256": "b5456560133c89c60e3236d89a51658d71ecbbeceaac0b9605a5e83f1b9e6e61",
+   "size": 50427,
+   "etag": "8b668bdf6e00e17b1174c57a30a6a6d7"
+  },
+  "3234-pex-khong-glaucoma-theo-doi-slt-phaco-som/images/3234_PXF-RNFL-OCT_PMC12983886-Fig3.jpg": {
+   "sha256": "984583ee1b9f612a572bc2cb1da4ba53a0a2e40254d3f7ce4ddbaa5ad1e69877",
+   "size": 188495,
+   "etag": "3d6794cacd20bfa467ffd6ba86e8eb45"
+  },
+  "3235-melanocytosis-mat-hac-mac-nevus-of-ota/images/3235_nevus-ota_Bscan-Ascan_PMC12747081.jpg": {
+   "sha256": "253b07e42ef62c0254f5e523045b09b71f69af28b2306417aa0dc6ee40cb0801",
+   "size": 45284,
+   "etag": "8982c7d26f834008121845d9dd8a5a27"
+  },
+  "3235-melanocytosis-mat-hac-mac-nevus-of-ota/images/3235_nevus-ota_Cung-Mac-Mong-Mat_PMC9837000.jpg": {
+   "sha256": "0734303218239391b7ef5df5cf2ea8738e4e8a4beb1c8fc57d3b5b9f6f7f792a",
+   "size": 88022,
+   "etag": "301c16d4dc2ae77a35ce8c6e7a59844b"
+  },
+  "3235-melanocytosis-mat-hac-mac-nevus-of-ota/images/3235_nevus-ota_Fundus-NIR_PMC9837000.jpg": {
+   "sha256": "e096ae9c203c9cf0dc718f98eeaa96ba7789355a50f195928bcc63840a402139",
+   "size": 157126,
+   "etag": "20f034756d66ed679b7275bffc44fcd1"
+  },
+  "3235-melanocytosis-mat-hac-mac-nevus-of-ota/images/3235_nevus-ota_OCT-EDI_PMC9837000.jpg": {
+   "sha256": "4bfe7cbcb742b004cad29671917c8789b7b3eb2846d716b3b203abecf68cf0b9",
+   "size": 24088,
+   "etag": "5725f34d1334f40c7740cf4933b92bfc"
+  },
+  "3235-melanocytosis-mat-hac-mac-nevus-of-ota/images/3235_nevus-ota_SSOCT-FAF-Bscan_PMC10131401.jpg": {
+   "sha256": "766717cbb7c5633cb1aadd54df067c12e6559d294d1723199dc8fedbe69c1c2b",
+   "size": 65977,
+   "etag": "ab127671d557a7222f205a33d9992562"
+  },
+  "3235-melanocytosis-mat-hac-mac-nevus-of-ota/images/3235_nevus-ota_Da-Mat_PMC9837000.jpg": {
+   "sha256": "427c1199a81bc00e72115718bee23e8d3e8aaf97eb0e0332720f0308190c0402",
+   "size": 135178,
+   "etag": "7d9f52a10180248f5dfc75ac6f493d96"
+  },
+  "3235-melanocytosis-mat-hac-mac-nevus-of-ota/images/composite_nevus-ota_mat.jpg": {
+   "sha256": "73a88ca589cdd6d6eebc56022ba63ddae7591251af6cd3ff7414047c2a4ae04c",
+   "size": 170743,
+   "etag": "94d561fcae6b4e2463610de3146a6b7a"
+  },
+  "3236-benh-than-kinh-thi-do-xa-rion/images/3236_benh-than-kinh-thi-do-xa-rion_MRI-giao-thoa_PMC13453118.jpg": {
+   "sha256": "b373fc376f6368a0528f357631dcae71e508e806d5aeeb331b987e2a1a99684a",
+   "size": 104468,
+   "etag": "474873b869e9bacb569e30e806b6ff85"
+  },
+  "3236-benh-than-kinh-thi-do-xa-rion/images/3236_benh-than-kinh-thi-do-xa-rion_MRI-RION-doan_PMC10577828.jpg": {
+   "sha256": "d541f19f45e24468c52ed92a0518e770e5e6251736eb39f549bb9aba7ccd8f7c",
+   "size": 311220,
+   "etag": "21061d008af12268dddd85c7601c787c"
+  },
+  "3236-benh-than-kinh-thi-do-xa-rion/images/3236_benh-than-kinh-thi-do-xa-rion_bieu-do-lieu_PMC10093581.jpg": {
+   "sha256": "f84ef49593d217a5a0fcc30743e7a6676e1f59488ef8b9df720ad2cff479010b",
+   "size": 50850,
+   "etag": "f91f598bd67daf4392cb16ab501898dc"
+  },
+  "3236-benh-than-kinh-thi-do-xa-rion/images/3236_benh-than-kinh-thi-do-xa-rion_OCT-RNFL_PMC13453118.jpg": {
+   "sha256": "239b5304902716ed8cdd247209d4f740ca78c5a4906ed70de96e845e706490d6",
+   "size": 143350,
+   "etag": "59cddf6fc0a16406a93d82e13784aaeb"
+  },
+  "3237-pxf-goc-dong-lpi-hay-lay-the-thuy-tinh/images/3237_dong-tu-gian-kem_SlitLamp_PMC13355278-Fig2.jpg": {
+   "sha256": "c3971075e38ab309cf0339dc0a5353665a43fc38a6acb244922932d49fa48318",
+   "size": 107578,
+   "etag": "146c7ed272f86eb9fd3ac7533e52149e"
+  },
+  "3237-pxf-goc-dong-lpi-hay-lay-the-thuy-tinh/images/3237_goc-dong_AS-OCT_PMC12967798-Fig3.jpg": {
+   "sha256": "2cebd9d2e2bfb5a427ea4520b728a8d2a5dfd8565fe5428f78d4639d0b93eb15",
+   "size": 65578,
+   "etag": "7ad8800f8ac1eb4a89d7c868b0630797"
+  },
+  "3233-theo-doi-acc-tuyen-le-sau-xa-va-tai-phat/images/3233_theo-doi-acc-tuyen-le_MRI-xam-lan-noi-so_PMC13683437.webp": {
+   "sha256": "9e0008f5bf972822b27791971ce30bab32d5d29a7ae1567ec278dc3a36d1fd86",
+   "size": 130402,
+   "etag": "6d2a7c0fa680f7eb1d55cdb4247556b1"
+  },
+  "3237-pxf-goc-dong-lpi-hay-lay-the-thuy-tinh/images/3237_pxf-bo-dong-tu_SlitLamp_PMC12967798-Fig1.jpg": {
+   "sha256": "44937aedfb8329877a3b30802b31b471b0bc7275306f1a28938558507907f4bd",
+   "size": 66647,
+   "etag": "17f08c36e19b24d73f5b697475f778c2"
+  },
+  "3237-pxf-goc-dong-lpi-hay-lay-the-thuy-tinh/images/3237_pxf-bao-truoc_AnteriorSegment_PMC13355278-Fig1.jpg": {
+   "sha256": "7ba082452d20ccf42384a939271b0afd130082aa1142804023ebc0e28f539bd4",
+   "size": 96403,
+   "etag": "f730e4a7f2b0374f77e75121c96aa570"
+  },
+  "3237-pxf-goc-dong-lpi-hay-lay-the-thuy-tinh/images/3237_sau-LPI-tien-phong-nong_SlitLamp_PMC12967798-Fig2.jpg": {
+   "sha256": "8c7b749b0d4eca251714162db67f7410c6f09214a729ebe4b4b7c7d4d3ed0e89",
+   "size": 40128,
+   "etag": "90b360570998b22cfe8db2bfdd139990"
+  },
+  "3237-pxf-goc-dong-lpi-hay-lay-the-thuy-tinh/images/3237_soemmering-UBM_PMC12967798-Fig4.jpg": {
+   "sha256": "4dc936029d8db788239cc973dbb43cf951616e6bdbf06f3059df2e1dfa84b6b5",
+   "size": 67535,
+   "etag": "c176630a91d7fd450b5c93f56f165a03"
+  },
+  "3238-ugh-sau-icl-phakic-iol/images/3238_ugh-icl_ciliary-cyst-UBM_PMC11452535-Fig4.jpg": {
+   "sha256": "7cae91a67486b835e573389087957d3d23f2fefc6ebee9853e0fe7501dbc0777",
+   "size": 104838,
+   "etag": "395ae96d00cdc15ead726151fbed3020"
+  },
+  "3238-ugh-sau-icl-phakic-iol/images/3238_ugh-icl_hyphema-SlitLamp_PMC11420483-Fig1.jpg": {
+   "sha256": "55f70933763b20c506d2f5a43e0519277948e07ea158a85d992dee10399416ae",
+   "size": 341620,
+   "etag": "8b1271d912e1c3b67757b0f6a7b746eb"
+  },
+  "3238-ugh-sau-icl-phakic-iol/images/3238_ugh-icl_blood-jet-Intraop_PMC11420483-Fig6.jpg": {
+   "sha256": "176b56e070aa108f77bf55284dca5e38955a956dc080af981d926fdb94921552",
+   "size": 303469,
+   "etag": "72f9f346a871e7e4d04bedd5732c3b6e"
+  },
+  "3238-ugh-sau-icl-phakic-iol/images/3238_ugh-icl_slitlamp-UBM_PMC11853702-Fig1.jpg": {
+   "sha256": "09c41969627dce1990922f94a790aa25914c73d9c3579bd86988d31eba4a214d",
+   "size": 44269,
+   "etag": "e2866168ccbf8530bf2a77d08416f7f3"
+  },
+  "3239-nang-ket-mac-khong-lo-hoc-mat-sau-muc-nhan-cau/images/3239_nang-ket-mac-khong-lo_CT-mo-benh_PMC8136331.jpg": {
+   "sha256": "bb40ce5029afba3dfc3c2c79bd82dfd8e4e21bf9676c85efa0a020fc4ab794b7",
+   "size": 83918,
+   "etag": "c8a02552b0213ca1e21a97a0e6a0618c"
+  },
+  "3238-ugh-sau-icl-phakic-iol/images/3238_ugh-icl_ubm-gonioscopy_PMC12263071-Fig1.jpg": {
+   "sha256": "27b2fcc74003240d3beb83f4c50f16e528203193fe8f027f8f1d550b3a67cde4",
+   "size": 170705,
+   "etag": "623059165906c31d6c5b9de6c68a1880"
+  },
+  "3238-ugh-sau-icl-phakic-iol/images/3238_ugh-icl_hyphema-UBM_PMC11420483-Fig4.jpg": {
+   "sha256": "5024e9dec96bf9db282d00683e0b2a6b2a5bae042f6d7806545e02eb3713353c",
+   "size": 173206,
+   "etag": "d4ce96a904a4b52cddd260f3c7bddbb1"
+  },
+  "3239-nang-ket-mac-khong-lo-hoc-mat-sau-muc-nhan-cau/images/3239_nang-ket-mac-khong-lo_CT_PMC10959544.jpg": {
+   "sha256": "1cd4d600a17005e70b1e4bd3a65b980b4f5ec2038c4d6d8f6e596ee73f76bbc9",
+   "size": 90022,
+   "etag": "9e50aacd4088c29a30664755e3824186"
+  },
+  "3239-nang-ket-mac-khong-lo-hoc-mat-sau-muc-nhan-cau/images/3239_nang-ket-mac-khong-lo_Clinical_PMC10959544.jpg": {
+   "sha256": "25bc030435b8c3397370707efaf0cb8f130c4ef247df95c8228e8b46f8b19c2f",
+   "size": 114150,
+   "etag": "303452971e85e4c8dfbca8fc7cbbe521"
+  },
+  "3239-nang-ket-mac-khong-lo-hoc-mat-sau-muc-nhan-cau/images/3239_nang-ket-mac-khong-lo_US_PMC12025870.jpg": {
+   "sha256": "873bd9787d0573407702477086259e7a17afd09f3a8057d984adbd8452012ca5",
+   "size": 46287,
+   "etag": "0630e59a6856127a8d34f7cc33743f9a"
+  },
+  "3239-nang-ket-mac-khong-lo-hoc-mat-sau-muc-nhan-cau/images/composite_nang-ket-mac-khong-lo_CT.jpg": {
+   "sha256": "1b9fd06749b29f4f2c98fb3e5e1bf8e45c1878e40418c74ddb9c1f9f89d5bdc3",
+   "size": 114341,
+   "etag": "87bcaf8c61d6f9d4cf06dfc6af135f45"
+  },
+  "3240-viem-than-kinh-thi-do-thuoc-uc-che-mien-dich/images/3240_viem-than-kinh-thi-do-thuoc-uc-che-mien-dich_MRI-khong-ngam_PMC12517236.jpg": {
+   "sha256": "cf94b7bd3a4d4c45b5e1deb41e76b28ae6e5a422dc5f1944b04b161a5e18a689",
+   "size": 40411,
+   "etag": "50c232fba39afccc03c82d444a0c90d3"
+  },
+  "3240-viem-than-kinh-thi-do-thuoc-uc-che-mien-dich/images/3240_viem-than-kinh-thi-do-thuoc-uc-che-mien-dich_MRI-thi-than-kinh_PMC6262382.jpg": {
+   "sha256": "70979ee1eba2ba3155d4a462c0aae73a47a866afa185d767a3c82f4c19c2cf21",
+   "size": 48899,
+   "etag": "c906f1457cf33b71b3f9de86c7d1b1bb"
+  },
+  "3240-viem-than-kinh-thi-do-thuoc-uc-che-mien-dich/images/3240_viem-than-kinh-thi-do-thuoc-uc-che-mien-dich_FAERS-tin-hieu_PMC13547466.webp": {
+   "sha256": "221a25b90cf3882f00ed1f8c51ad448fcf6a2ae93a5dd8ae4c964430535af348",
+   "size": 22040,
+   "etag": "c7da550d51dd1424e485d49271bd068c"
+  },
+  "3240-viem-than-kinh-thi-do-thuoc-uc-che-mien-dich/images/3240_viem-than-kinh-thi-do-thuoc-uc-che-mien-dich_FAERS-thoi-diem-khoi-phat_PMC13547466.webp": {
+   "sha256": "b3788859db4b45b6bc15d88fe4a836637be8fdd8d589e2a49a3e819a4bc3c85d",
+   "size": 23252,
+   "etag": "9ff74f2291f3585dd1a2592d6bf82efe"
+  },
+  "3240-viem-than-kinh-thi-do-thuoc-uc-che-mien-dich/images/3240_viem-than-kinh-thi-do-thuoc-uc-che-mien-dich_thi-truong_PMC12517236.jpg": {
+   "sha256": "adafe41c0ec8c799d9006247273175c4b60f379ef81acb43c1c5f9d65f7d4605",
+   "size": 118234,
+   "etag": "991f30a7072c5f0b363c82e3a6588f54"
+  },
+  "3240-viem-than-kinh-thi-do-thuoc-uc-che-mien-dich/images/3240_viem-than-kinh-thi-do-thuoc-uc-che-mien-dich_day-mat-truoc-sau_PMC12517236.jpg": {
+   "sha256": "d95a6abcd87277c42b062b12eef05a7dd1ffa3341a5e553ed79f4f88e7c39a3b",
+   "size": 90914,
+   "etag": "e9c020025d8af10c14164584c10f1cba"
+  },
+  "3240-viem-than-kinh-thi-do-thuoc-uc-che-mien-dich/images/composite_MRI-ngam-vs-am-tinh.jpg": {
+   "sha256": "d8e79a6bdb400702497cbfe111dbba47122b90b0ff52f38697fec9dd2a42b72e",
+   "size": 64929,
+   "etag": "86ac93156e15db869b1e00a5b2aedcd6"
+  },
+  "3241-nang-nhay-xoang-hoc-mat/images/3241_nang-nhay-xoang-hoc-mat_CT-MRI_PMC12342703.jpg": {
+   "sha256": "507c114eac9af21a07b603cba28e70120d165de32871c3d4fd9add5daf4caab0",
+   "size": 143915,
+   "etag": "87e34f0faf62353d0a851ef0b7fccb49"
+  },
+  "3241-nang-nhay-xoang-hoc-mat/images/3241_nang-nhay-xoang-hoc-mat_CT_PMC11191023.jpg": {
+   "sha256": "d0a5f31ed98da2ff72142f891dc2632f676cdc20d998dc404880c5801e2f4aa6",
+   "size": 134787,
+   "etag": "3925138337b67e846a06010908c9469c"
+  },
+  "3241-nang-nhay-xoang-hoc-mat/images/3241_nang-nhay-xoang-hoc-mat_CT_PMC7054188.jpg": {
+   "sha256": "93362b47ab910cd70b35f40ddbfc847904c318606c6232e4db8a96710ad5212a",
+   "size": 49187,
+   "etag": "f35f14f5a03efeef0ef3376143f8968e"
+  },
+  "3241-nang-nhay-xoang-hoc-mat/images/3241_nang-nhay-xoang-hoc-mat_MRI_PMC10009821.jpg": {
+   "sha256": "6bac14b5902b79053614fb3ec7810b9256bfadfbd4ddb43b07ea6eef64a56243",
+   "size": 62302,
+   "etag": "af12f8b2d1cd015d437591fa09739674"
+  },
+  "3242-benh-vong-mac-do-thuoc-uc-che-mek/images/3242_benh-vong-mac-MEK_OCT-FA_PMC9918243.jpg": {
+   "sha256": "90aaeaa8c32ac6736b02030130a61a4556a6f298e64df515f97a87507180fa7d",
+   "size": 211675,
+   "etag": "e0297aa99c3049d1bc2e4a036f6af559"
+  },
+  "3242-benh-vong-mac-do-thuoc-uc-che-mek/images/3242_benh-vong-mac-MEK_OCT-case1_PMC12574812.jpg": {
+   "sha256": "46958d7f81192ea73399f425c8b2218457393ebe12b718a68751681b272a9a0e",
+   "size": 46002,
+   "etag": "b08862ab6a353d0ce243122f25d44f34"
+  },
+  "3241-nang-nhay-xoang-hoc-mat/images/composite_orbital-mucocele_CT.jpg": {
+   "sha256": "99b2cf59ca438418c1bfda7ded545b83fbc35ee366e7861db6a60e97d4aac919",
+   "size": 205578,
+   "etag": "86d6f3a04830b8803886867a008d005a"
+  },
+  "3242-benh-vong-mac-do-thuoc-uc-che-mek/images/3242_benh-vong-mac-MEK_OCT-enface_PMC8078124.jpg": {
+   "sha256": "d48ca69ef5a0cf381cc1f828d77bb522fd6f9fcd9bf0327e524ff6ee4936e1ba",
+   "size": 225526,
+   "etag": "63ea0ed2f375428655f17e0deb956991"
+  },
+  "3243-doc-tinh-mat-thuoc-uc-che-fgfr/images/3243_doc-tinh-mat-FGFR_Giac-mac-PUK_PMC11152229.jpg": {
+   "sha256": "04c867e1189712a24c76dd01056aeffff403bde24e8409def81703376c311d2c",
+   "size": 107758,
+   "etag": "a5cf05ecd75336bca38033fd702c6b6b"
+  },
+  "3242-benh-vong-mac-do-thuoc-uc-che-mek/images/3242_benh-vong-mac-MEK_OCT-tai-phat-case3_PMC12574812.jpg": {
+   "sha256": "9d36f5a5367e89e15a327737ef536434ba1648edc4e6c2bdb52c4f224394d1a1",
+   "size": 70761,
+   "etag": "a56c29f67cb5ab609ca0f6a4a0714c3f"
+  },
+  "3243-doc-tinh-mat-thuoc-uc-che-fgfr/images/3243_doc-tinh-mat-FGFR_OCT-dien-tien_PMC11152229.jpg": {
+   "sha256": "ca36b3f4639ec191e97f79a4e1afa5f5450f54e65a66180ddeb54d00eb878e14",
+   "size": 137355,
+   "etag": "7550e4be49de19e8baebcfa95b9ed687"
+  },
+  "3245-glaucoma-melanocytosis-mat/images/3245_glaucoma-melanocytosis_SlitLamp-Gonio_PMC12083371.jpg": {
+   "sha256": "bfb0e15462283b23b1e49a0871edc9c215ee02b6a68a90576f6ddc09f01a8685",
+   "size": 119509,
+   "etag": "da0306913ca8ad06c97ba22c8b8cd160"
+  },
+  "3243-doc-tinh-mat-thuoc-uc-che-fgfr/images/3243_doc-tinh-mat-FGFR_OCT-som_PMC11401776.jpg": {
+   "sha256": "bae19347ecd1c5261532e2ec7e795b2c5cdef0bb7ffb7880d622c44c3422f4fc",
+   "size": 140515,
+   "etag": "6bcdcdd5c7fc8d9875ea980b7fa5b73f"
+  },
+  "3243-doc-tinh-mat-thuoc-uc-che-fgfr/images/3243_doc-tinh-mat-FGFR_Duc-the-thuy-tinh_PMC10987836.jpg": {
+   "sha256": "f796578bab4b92af28b6cb53a33f764684bdc39daa61edcabec3d18ee31dbd57",
+   "size": 266427,
+   "etag": "d764a4573af1dda01ca354821be835ec"
+  },
+  "3245-glaucoma-melanocytosis-mat/images/3245_glaucoma-melanocytosis_UBM_PMC12082992.jpg": {
+   "sha256": "e54aba26305fb95d38835de4bb7981704f6acfed55fa03d84dcfcab6e099cec2",
+   "size": 28665,
+   "etag": "efca289ce632cc90740c6c64a8877ac4"
+  },
+  "3245-glaucoma-melanocytosis-mat/images/3245_glaucoma-melanocytosis_SlitLamp-UBM-Cytology_PMC11981570.jpg": {
+   "sha256": "2816c6cc2425a7c1e1811b798d7c1ee780f94efa6ee495a90a1dbb9bb25549f2",
+   "size": 192346,
+   "etag": "620f96f721cd44e8bd4184b002a49fd1"
+  },
+  "3246-goc-dong-cap-hai-ben-do-thuoc/images/3246_as-oct-case2_AS-OCT_PMC13058677-Fig4.jpg": {
+   "sha256": "307fb4eedd7569a7928e939f89df7a8cc6538bbfc08af48268f8262334ab768e",
+   "size": 59507,
+   "etag": "d42f26d2b03a42bab829072b6474e2ca"
+  },
+  "3246-goc-dong-cap-hai-ben-do-thuoc/images/3246_as-oct-tien-phong_AS-OCT_PMC13058677-Fig2.jpg": {
+   "sha256": "a493d79a871e1dd31813f92ebce72cb398117cb0ad4a21d81a458ef65982f1ac",
+   "size": 56733,
+   "etag": "919308193d7b2320c3e6e299ca62ce47"
+  },
+  "3246-goc-dong-cap-hai-ben-do-thuoc/images/3246_goc-dong-do-thuoc_SlitLamp_PMC13058677-Fig1.jpg": {
+   "sha256": "88a4edc104def84815b1c613d6db7729359118660f050d1e08ff5516b0c97c42",
+   "size": 79378,
+   "etag": "0c05a875c968a89b1bcee0b34aa3df6f"
+  },
+  "3246-goc-dong-cap-hai-ben-do-thuoc/images/3246_tran-dich-hac-mac-case2_UWF-OCT_PMC13058677-Fig5.jpg": {
+   "sha256": "7c75d3c49011606b2ae626f269e80f820d2866a6b3499bf8d658e3f56b5e7421",
+   "size": 57503,
+   "etag": "4a45f4acde88ca92eb4dd9e9b430fc51"
+  },
+  "3246-goc-dong-cap-hai-ben-do-thuoc/images/composite_goc-dong-do-thuoc_AS-OCT.jpg": {
+   "sha256": "8236cb39548eea976c38659130e56d8cef4bb33529bc55f9f19f1e5757501240",
+   "size": 85338,
+   "etag": "dc7a66eafd7b194fd00467312f6dbf6f"
+  },
+  "3246-goc-dong-cap-hai-ben-do-thuoc/images/3246_tran-dich-hac-mac_UWF-OCT_PMC13058677-Fig3.jpg": {
+   "sha256": "c52f89c2f338ce3e8ad31a4a5e3cbdba1325dca430065834b555ae7409f780a2",
+   "size": 60607,
+   "etag": "092ff95427723c5b6591e0e65edc8ff6"
+  },
+  "3247-duc-bao-truoc-sau-icl-phakic/images/3247_asc-ngoai-vi_SlitLamp_PMC7730447-Fig1.jpg": {
+   "sha256": "8d5c6979118ec2313de11fad94236b87569abda490dbc29d3adf079acd2e88bc",
+   "size": 212073,
+   "etag": "0e904856e27e1ec218d2cac72d72e726"
+  },
+  "3247-duc-bao-truoc-sau-icl-phakic/images/3247_asc-bieu-mo_TEM_PMC13572004-Fig5.webp": {
+   "sha256": "ef2eae67f2bf874737b0350456272307837f1ae26fe2b7209270441ce8e12059",
+   "size": 248212,
+   "etag": "74e656c7aedb0b53a607af3d2bedae91"
+  },
+  "3247-duc-bao-truoc-sau-icl-phakic/images/3247_asc-hoa-tuyet_SlitLamp_PMC12486667-Fig1.jpg": {
+   "sha256": "b9a76cc4833a752638afe1a8255003dfbb773cc2535bef2d96bf40b789c02eb9",
+   "size": 75481,
+   "etag": "3ce5be2b40249c7e02dec78fb508b066"
+  },
+  "3247-duc-bao-truoc-sau-icl-phakic/images/3247_type-cataract-icl_Bar_PMC11312979-FigA1.jpg": {
+   "sha256": "e6508326e7f630202a346e0f6ff797453714753dae279c655e4bfd2aecdda5b1",
+   "size": 45889,
+   "etag": "2efae1999f2cd92b4d51ede6215458d0"
+  },
+  "3247-duc-bao-truoc-sau-icl-phakic/images/3247_thao-icl-phaco_Intraop_PMC12057150-Fig3.jpg": {
+   "sha256": "a0ecf59d8e09f37ae2fb858c23afa9f2162c722407bc5915ef90e0b54e9e0eb8",
+   "size": 121518,
+   "etag": "b85a31d0ab7814d5520e33c6d6947962"
+  },
+  "3248-hoi-chung-xoang-cam/images/3248_hoi-chung-xoang-cam_CT_PMC12955829.jpg": {
+   "sha256": "63b6c41bc5033ca6194ee6f8dbf8569138de22e7921c9162733d22297e2c8529",
+   "size": 33536,
+   "etag": "7100a513211ebd89921e1417a0814501"
+  },
+  "3248-hoi-chung-xoang-cam/images/3248_hoi-chung-xoang-cam_CT_PMC12098178-fig2.jpg": {
+   "sha256": "84353d76281a1d1c36aeb93d021524088ea500656e63453cdcf121542b16e4f0",
+   "size": 63861,
+   "etag": "a4af0f48e3acde466bdc60d9701a537e"
+  },
+  "3248-hoi-chung-xoang-cam/images/3248_hoi-chung-xoang-cam_CT_PMC12098178.jpg": {
+   "sha256": "e5782d4864fdb3239ee7d46e6c492dbacdc223c2ab1df7e956e352cc9822477e",
+   "size": 241700,
+   "etag": "c83146a5c1307a6a00a7c850a09cc5fa"
+  },
+  "3248-hoi-chung-xoang-cam/images/3248_hoi-chung-xoang-cam_CT_PMC13399144.jpg": {
+   "sha256": "bd96b597be1bf2fcd3b34f8a7de819e67e522fb7cd352a802c2b6d531fbbb477",
+   "size": 64302,
+   "etag": "032e5ac3dd365fe00d5cf274aca3d4f1"
+  },
+  "3248-hoi-chung-xoang-cam/images/3248_hoi-chung-xoang-cam_CT_PMC7302533.jpg": {
+   "sha256": "39657bd77b65208d91a21a2ccc04fe5aaab93106dff8cb76bb01e4606da4070e",
+   "size": 87333,
+   "etag": "75f1c0fe7b3ea77856f5fc32f5c6ab72"
+  },
+  "3248-hoi-chung-xoang-cam/images/3248_hoi-chung-xoang-cam_MRI_PMC10062103.jpg": {
+   "sha256": "b2354afcd0f74d1683328564b890dd808b09cb480256f4249d1e8b5c8f3c4d77",
+   "size": 50160,
+   "etag": "49a49b274607fcdb05a0cadd9c843778"
+  },
+  "3249-pds-glaucoma-sac-to/images/3249_pds-glaucoma_AS-OCT-Schema_PMC3379916.jpg": {
+   "sha256": "f4b0b9255ac6de6394919036ce7dd04eabe95fdb7e176e8eb7cc64520bf9f6b6",
+   "size": 39797,
+   "etag": "118625d45f546fc6685795ddad83310f"
+  },
+  "3248-hoi-chung-xoang-cam/images/composite_xoang-cam_CT.jpg": {
+   "sha256": "a2a8b833156291e5028b41b0519ef71a194001a7a22f8ec06a6ab50e799b23b7",
+   "size": 126753,
+   "etag": "37aa384a17bf6b4568f771f00e5afa1d"
+  },
+  "3249-pds-glaucoma-sac-to/images/3249_pds-glaucoma_Gonio_PMC2886225.jpg": {
+   "sha256": "4c253d25eadc19e06324dddbd06275e81c2a50fdebdcc63f14b97c1621f3af6e",
+   "size": 111426,
+   "etag": "8cc9e6f9d5f6f29f14e9de2e11bdd75a"
+  },
+  "3249-pds-glaucoma-sac-to/images/3249_pds-glaucoma_SlitLamp-Gonio-OCT_PMC9223319.jpg": {
+   "sha256": "0321ecb107863ddcd66e966929b1d74db7b63e811301ed501ff43f609658347f",
+   "size": 275001,
+   "etag": "b015777738b22b34b81d9fa279402bb1"
+  },
+  "3249-pds-glaucoma-sac-to/images/composite_bo-ba-dau-hieu.jpg": {
+   "sha256": "6cf8f165abd3227723a6d02cab11c46acb2b833ec56445e56dd0d0d95c14e50d",
+   "size": 65783,
+   "etag": "9988af7c293cbc8187c1e2fdb7d1f87d"
+  },
+  "3249-pds-glaucoma-sac-to/images/3249_pds-glaucoma_SlitLamp_PMC2886225.jpg": {
+   "sha256": "3454e8bfc3976a9d90019f8aa25dd82bde8ba27c40c27976972e3cb5c1f7d730",
+   "size": 120618,
+   "etag": "119a87b386fa3e5149981a4c138471ea"
+  },
+  "3250-u-mach-mau-the-hang-hoc-mat/images/3250_cvm-hoc-mat_CEUS_ngam-tien-trien-PMC12131292.jpg": {
+   "sha256": "a443b9ec8c2614052f8336bcdd88bd88b89a549d545c789f793e144200e08f08",
+   "size": 51621,
+   "etag": "0c520510a56f64e87549550f49f9d34f"
+  },
+  "3250-u-mach-mau-the-hang-hoc-mat/images/3250_cvm-hoc-mat_MRI-T2-DCE-ADC-PMC12615646.jpg": {
+   "sha256": "aa13bd954fdc0370016df0d9a72504e75226bc12304ec5c46c06d301c0e7eeab",
+   "size": 116144,
+   "etag": "d17e5994fe9b0c18b169272c4223a6dc"
+  },
+  "3250-u-mach-mau-the-hang-hoc-mat/images/3250_cvm-hoc-mat_MRI-Tre-chay-mau-PMC13037030.jpg": {
+   "sha256": "af2ed0d2bfe7904349365bb2c9b9758813dbe5084580d2656a54f4bb8ee01f8b",
+   "size": 171428,
+   "etag": "63f6889d04de08ae6b6289324614b346"
+  },
+  "3250-u-mach-mau-the-hang-hoc-mat/images/3250_cvm-hoc-mat_MRI_CT-T2-ngam-thuoc-PMC12515354.jpg": {
+   "sha256": "91be97e21e3ad1b1ee5635b8df887bcb815980349e58ab0681e0276a590e0da7",
+   "size": 88324,
+   "etag": "570b821ae76c8dfb457716019706df3d"
+  },
+  "3250-u-mach-mau-the-hang-hoc-mat/images/composite_CVM-tien-trien-13-nam.jpg": {
+   "sha256": "07a5be7f19048028e9f14e50d24338b4ab669f8d3449d13bc3a70a00149ef545",
+   "size": 83075,
+   "etag": "d0c40459987f4036bb795d848a2309b1"
+  },
+  "3251-urrets-zavalia-sau-icl-phakic-iol/images/3251_uzs-icl_SlitLamp-3thang_PMC12070703.jpg": {
+   "sha256": "505af2afa1d6f692a3f53cee202ec4ac00467cbdd3da56114babd5eb80bde277",
+   "size": 79038,
+   "etag": "3e8bee988ce13b3c4fe82b5fbf80c8da"
+  },
+  "3251-urrets-zavalia-sau-icl-phakic-iol/images/3251_uzs-icl_AS-OCT-Vault_PMC12070703.jpg": {
+   "sha256": "0c66ef740691a1028379c2962923a41a136adcc0b4482d5c3078ab824d0108e7",
+   "size": 49193,
+   "etag": "ec7c9d2fc7e6adf9dfdba4df7abba9c8"
+  },
+  "3251-urrets-zavalia-sau-icl-phakic-iol/images/3251_uzs-icl_SlitLamp-Day1_PMC12070703.jpg": {
+   "sha256": "2f87e8acc55d487441b96364dfb820c48e5f98b242753943dec4ca4b5d208b07",
+   "size": 526108,
+   "etag": "1409991689ced7d1729fcba0f9d70f76"
+  },
+  "3251-urrets-zavalia-sau-icl-phakic-iol/images/composite_dong-tu-gian-tien-trien.jpg": {
+   "sha256": "b0e645fe7b064e1ef26505f8eb33ea6135114c3fdd99452e29b05c8fdb70cb49",
+   "size": 64814,
+   "etag": "bd6890d40a137dd21b348aeb0db80819"
+  },
+  "3252-hoi-chung-bao-chet-dead-bag-syndrome/images/3252_bao-chet_Histology_PMC13393839-Fig4.jpg": {
+   "sha256": "6271037a7b4fbcbaa6eaa8db3c1d8577a87765d9d1e0ed5b3465081406f1dfa0",
+   "size": 53303,
+   "etag": "ce8e8b91be1716eafe2ba34e426f4116"
+  },
+  "3251-urrets-zavalia-sau-icl-phakic-iol/images/3251_uzs-icl_SlitLamp-Day6_PMC12070703.jpg": {
+   "sha256": "2bbe87382d028aeab113567000eaa5d5e42964d50f113176a19b68b46d3bf369",
+   "size": 461626,
+   "etag": "378da9e9651d24feecfb21f25b7afb7f"
+  },
+  "3251-urrets-zavalia-sau-icl-phakic-iol/images/3251_uzs-icl_SlitLamp-IrisAtrophy_PMC12372556.jpg": {
+   "sha256": "77655a03e55e01f8066e193ea38410d504546e2a78de16c58da97bfa58f05ef7",
+   "size": 65231,
+   "etag": "921afd5381563ae1ecce71ad9f0597aa"
+  },
+  "3252-hoi-chung-bao-chet-dead-bag-syndrome/images/3252_so-do-bao_PMC13694961-Fig2.webp": {
+   "sha256": "c098d68b650fd06d4d735af0474372b832abb799d960a623f0d7cca2acc4de6e",
+   "size": 97800,
+   "etag": "9f393921c5c292cc227f5dd32bf063b9"
+  },
+  "3252-hoi-chung-bao-chet-dead-bag-syndrome/images/3252_bao-chet_SlitLamp_PMC13393839-Fig2.jpg": {
+   "sha256": "600023720e66b86546f37599a036adcc8f0e17c871dd219bdeb4953d96600957",
+   "size": 31822,
+   "etag": "dfe19bba5468701aec794f88f86cee06"
+  },
+  "3253-iol-canxi-hoa-sau-phaco/images/3253_alizarin_Micro_PMC10252848-Fig3.jpg": {
+   "sha256": "28b3469ebbf7d201c5c21c2ec37d4a68a7ecb20bb3994701c58264a572ef2ab3",
+   "size": 99760,
+   "etag": "181f0d008ba453b5a835e98fb9fc3d3d"
+  },
+  "3253-iol-canxi-hoa-sau-phaco/images/3253_co-che_Ky-thuat_PMC12745019-Fig1.jpg": {
+   "sha256": "c2891605f7f4082718f1d5237e5e6dac8f49d40b71d4629659483843b459314c",
+   "size": 71899,
+   "etag": "4b61c9445d53601d3611f7bad529443e"
+  },
+  "3253-iol-canxi-hoa-sau-phaco/images/3253_dong-nhat_SlitLamp_PMC11610101-Fig1.jpg": {
+   "sha256": "4aa71737a1fc458dfae710f0acb3e1d94b81245b3946097d0589f6f0a0934545",
+   "size": 81572,
+   "etag": "46e4ccc64683dbff0380c7537bc03817"
+  },
+  "3251-urrets-zavalia-sau-icl-phakic-iol/images/3251_uzs-icl_SlitLamp-Pilocarpine_PMC8456705.jpg": {
+   "sha256": "aad24fdf7a25d0716713cb93a84b9d7ede921e7a6926c4120faf240f780556e8",
+   "size": 377708,
+   "etag": "8306e250a1433c6ea8c8488a7eb1b141"
+  },
+  "3253-iol-canxi-hoa-sau-phaco/images/3253_hat-min_SlitLamp_PMC7880112-Fig2.jpg": {
+   "sha256": "da9a3a6253f8fde5dc850f1751fa17aa9e0823715d77561c30d93fac904ecbdb",
+   "size": 240473,
+   "etag": "ae78790b37fae34ed1c2d6469c193f9c"
+  },
+  "3253-iol-canxi-hoa-sau-phaco/images/3253_vay-cung_Macro_PMC7880112-Fig4.jpg": {
+   "sha256": "ca00d375b6c7d6f822998e1aa1291def119db31424d94943d7abc9fb78ced576",
+   "size": 150377,
+   "etag": "67443901a6565a0b13cc66fa7116639e"
+  },
+  "3253-iol-canxi-hoa-sau-phaco/images/3253_rosette_SlitLamp_PMC13670496-Fig1.webp": {
+   "sha256": "f5ae49e620c4d58f7a291c73bbbb338613bf282a3a1564fb3515892f3e38d44f",
+   "size": 312416,
+   "etag": "b7a964960123336758a5879ae5c2dd18"
+  },
+  "3253-iol-canxi-hoa-sau-phaco/images/3253_sau-PPV_SlitLamp_PMC10252848-Fig1.jpg": {
+   "sha256": "4a2e3b1d42f9474579a16ada188893e41ab02d60001686cef2d392cfaeaa7c68",
+   "size": 121951,
+   "etag": "3db8f970d45fd67862943230d2345f26"
+  },
+  "3254-dai-canxi-hoa-giac-mac/images/3254_dai-canxi_SlitLamp_PMC12818042-Fig1.jpg": {
+   "sha256": "5e9bcbc1695f46211b9621d99c5c353c4a423ad28e6d84ede84dd05bc90f7e6d",
+   "size": 115766,
+   "etag": "4af9c10fb3935914f7d492e9e92e2194"
+  },
+  "3253-iol-canxi-hoa-sau-phaco/images/composite_hat-min_vay-cung.jpg": {
+   "sha256": "7addfdce5b52a0e37b3496b1226977e057523e7e70d6c76f238936f531525c41",
+   "size": 262696,
+   "etag": "51280a0478fa708bb42fd4a4b8f68361"
+  },
+  "3254-dai-canxi-hoa-giac-mac/images/3254_AS-OCT_PMC10925011-Fig2.jpg": {
+   "sha256": "04be0136315fd905dbd13545b473ed459daab9ce6e665c4d250ff49837bcc8aa",
+   "size": 390033,
+   "etag": "092143195c22ce0e1ba6873137fe67b8"
+  },
+  "3254-dai-canxi-hoa-giac-mac/images/3254_truoc-PTK_SlitLamp_PMC4654727-Fig1.jpg": {
+   "sha256": "b7ee2c205a8387426fd79f6bc0130fa9ebebb258593e28a8a7f05e004a5ab806",
+   "size": 21961,
+   "etag": "d2fe777d1c499852fc5438a0b4e5e041"
+  },
+  "3254-dai-canxi-hoa-giac-mac/images/3254_gia-dinh_SlitLamp_PMC10925011-Fig1.jpg": {
+   "sha256": "627b162f8379506116b95a87ab11612072e6e52e2276383700b866e1b933a026",
+   "size": 694835,
+   "etag": "25a3ecdd9e5092b49090df7542696e0c"
+  },
+  "3254-dai-canxi-hoa-giac-mac/images/3254_so-do-xu-tri_Ky-thuat_PMC12997402-Fig2.jpg": {
+   "sha256": "92c6826432012083e05e594d17c246d85b8f6b0d280f14fef71991293846f06a",
+   "size": 84332,
+   "etag": "3f202250976e9eaccd84ad6519837e47"
+  },
+  "3255-vkc-loet-giac-mac-hinh-khien/images/3255_AS-OCT_PMC12286868-Fig8.jpg": {
+   "sha256": "8d1689f6f4e06e58c34e42c2fd22ebcbd7c80c1ac43cb2cf85c2bb31af704f12",
+   "size": 50877,
+   "etag": "64057013c5ec38786cf5c5e4f6ee6595"
+  },
+  "3255-vkc-loet-giac-mac-hinh-khien/images/3255_loet-khien-canxi_SlitLamp_PMC12286868-Fig1.jpg": {
+   "sha256": "025e9cf46660bf80db61eed2477352b9a52000fca251d87fdb3acecb016c52a4",
+   "size": 206420,
+   "etag": "fb5ec4f76cd092ed49b6b40f2e1e40ed"
+  },
+  "3255-vkc-loet-giac-mac-hinh-khien/images/3255_loet-khien-dien-tien_SlitLamp_PMC7298766-Fig1.jpg": {
+   "sha256": "b89875d1bef622ac4c193670b173d21998fe33be61ee5f3d30531374cfef51e9",
+   "size": 88799,
+   "etag": "a9f2ee2def5218bc7bd08ae69d4c545d"
+  },
+  "3255-vkc-loet-giac-mac-hinh-khien/images/3255_loet-khien-plaque_SlitLamp_PMC7298766-Fig2.jpg": {
+   "sha256": "39cba7a2be53b5e77243a8fa94a242986e7e2937f48bdf3f428efc08c1a6caee",
+   "size": 72744,
+   "etag": "2f3b4aced9e087e146da96a00fbbe7b6"
+  },
+  "3255-vkc-loet-giac-mac-hinh-khien/images/3255_loet-khien_SlitLamp_PMC11319060-Fig1.jpg": {
+   "sha256": "693e244042a1486c7c162b4d36eebc9914b8dee6e5393ea0940954869b89acf7",
+   "size": 76279,
+   "etag": "5610a308a70dfc25d56b1cfc12ac131b"
+  },
+  "3255-vkc-loet-giac-mac-hinh-khien/images/3255_nhu-gai_SlitLamp_PMC11319060-Fig4.jpg": {
+   "sha256": "5feeb835028cf2dbae9440a5e0fc039aeaa3ffa642d27b3f4cad21850e8ce47d",
+   "size": 113967,
+   "etag": "8cbdfb2486f9535ac2263af2b8510895"
+  },
+  "3255-vkc-loet-giac-mac-hinh-khien/images/3255_sau-debridement_SlitLamp_PMC5989504-Fig4.jpg": {
+   "sha256": "58b41f9b2bfe9204a87e2dc24c748e9c077bf6ebf504b0f5ee8543f7c693644e",
+   "size": 59460,
+   "etag": "9df730b2d630e2f3e13014d870425298"
+  },
+  "3256-pupilloplasty-sau-uzs/images/3256_cerclage-sau_PMC8186584-Fig2.jpg": {
+   "sha256": "31a81ca7deb20f66489bae15fb876d7142626ae117d62952aacd80bd3acd6c85",
+   "size": 43240,
+   "etag": "fb1de3fcaff286cd2f95d11eef363999"
+  },
+  "3256-pupilloplasty-sau-uzs/images/3256_cosmetic-implant_PMC10956980-Fig1.jpg": {
+   "sha256": "a1f0cae675faac416267706a288bd1002b384c3398ed3a4e7cd5f41a0a191007",
+   "size": 131708,
+   "etag": "945924888ca2d691b331fbf60a3e1f9b"
+  },
+  "3256-pupilloplasty-sau-uzs/images/3256_uzs-sau-khau_PMC5657167-Fig3.jpg": {
+   "sha256": "d9f6e7ca420d978f7420ae6e60f2795a7e0737246e6e96e8561f635ec69e9480",
+   "size": 92138,
+   "etag": "9f7996d6999c1bcc85f97bb54c0a5615"
+  },
+  "3257-posner-schlossman/images/3257_AS-OCT-cung-giac-mac_PMC12475334-Fig1.jpg": {
+   "sha256": "086368ac17e900b3f72d5560ee0484e9a6713da3ce3602d32ee23b2b982648da",
+   "size": 53596,
+   "etag": "cf922afed159da26ba597a5e7b9eba46"
+  },
+  "3256-pupilloplasty-sau-uzs/images/3256_uzs-truoc-khau_PMC5657167-Fig1.jpg": {
+   "sha256": "e1a84af7f4b22254b427f341c0964f9e7dd5734c0d388734857b45af4a629176",
+   "size": 66863,
+   "etag": "9f513ca8f11db221f988ef1fddae6db3"
+  },
+  "3257-posner-schlossman/images/3257_KP-mo-dong_SlitLamp_PMC5575237-Fig5.jpg": {
+   "sha256": "96eb50bac26c6ab2b809ed97217f4ec39c178e73599f4073c04a9f18b5007d9c",
+   "size": 187983,
+   "etag": "d7788821174a85e1dc876e4af636baa3"
+  },
+  "3257-posner-schlossman/images/3257_KP-dong-xu_SlitLamp_PMC8189808-Fig1.jpg": {
+   "sha256": "de5e844a3e0195ce7b24a391f76c2a4b3de5f7ce364fb854c239d76bf429994c",
+   "size": 35605,
+   "etag": "0c6a81e92a9f0e1a321bf6d8b6e0a0c1"
+  },
+  "3257-posner-schlossman/images/3257_KP-sac-to_SlitLamp_PMC8189808-Fig3.jpg": {
+   "sha256": "477eecb7d2f8220379cdf33addfc303ebded9b6158c01fbdc9432e2eed7eda20",
+   "size": 39770,
+   "etag": "0e8fc18e0dcca3326c21d382b5fb7243"
+  },
+  "3256-pupilloplasty-sau-uzs/images/3256_sft-truoc-sau_PMC13235860-Fig1.jpg": {
+   "sha256": "1026ebc8a6593da2479837dc688c571977d46c2072ba4bc313419e46f6756cf2",
+   "size": 39443,
+   "etag": "98890c2ba55fc4b79704fe6050ecddec"
+  },
+  "3257-posner-schlossman/images/3257_RNFL-OCT_PMC5602734-Fig1.jpg": {
+   "sha256": "dda5138fb6290f4cc5d930a2fa32a7d1bcad00c995e24b5e9201bbf52bc30fc5",
+   "size": 117751,
+   "etag": "17f73ef453349ca44e38d1bc1b503c22"
+  },
+  "3258-nhu-tuong-hoa-dau-silicone/images/3258_hat-dau-giac-mac_AS-OCT_PMC11232747-Fig2.jpg": {
+   "sha256": "bc131c4b132d1ef17ba48d3af029435c7e52861505971ee54481f6046af1aa3e",
+   "size": 40081,
+   "etag": "9cd77763df89b41d1670c123ed4eb2ca"
+  },
+  "3257-posner-schlossman/images/3257_ton-thuong-thi-truong_PMC11001245-Fig2.jpg": {
+   "sha256": "1bb4501ff5f7cf4e04d72ab6455c6e4956db5ac7b01d4df9eacf357816e4a295",
+   "size": 59351,
+   "etag": "1f0a28e2092f2bd73abe985f57407da4"
+  },
+  "3257-posner-schlossman/images/3257_thi-truong_PMC5602734-Fig3.jpg": {
+   "sha256": "0af94fb9dfe905ab0d86efabcd1d9e0de310a8d50432bc9b8a4ce66cb96b7ab4",
+   "size": 95875,
+   "etag": "e53438512cb67c3f9ef3fe9273fac5db"
+  },
+  "3258-nhu-tuong-hoa-dau-silicone/images/3258_hat-dau-vong-mac_OCT_PMC11051299-Fig2.jpg": {
+   "sha256": "dcc26773516f667757efc48d9368d485e9616e11b61f73fa07e2a15e453f2a25",
+   "size": 138450,
+   "etag": "06825e3fe9ef69bc129f9f25538d84a4"
+  },
+  "3258-nhu-tuong-hoa-dau-silicone/images/3258_hat-dau-tien-phong_UBM_PMC8793062-Fig1.jpg": {
+   "sha256": "0600bb48b0b931472197328f756fc08716f4454d241f6438504e8bff5c09c96f",
+   "size": 107359,
+   "etag": "7042c4f2b3b743918899e39071663823"
+  },
+  "3258-nhu-tuong-hoa-dau-silicone/images/composite_ba-mat-cat.jpg": {
+   "sha256": "8222c64b9b20db8189b587b7ad44505f44f6a8e24ee1412747375a2df8bcc384",
+   "size": 137339,
+   "etag": "c3151948ed79f4eba16f86ac2a47f926"
+  },
+  "3259-phu-cap-giac-mac-hydrops/images/3259_hydrops_SlitLamp_PMC12383977-Fig3.jpg": {
+   "sha256": "73bfe3c6d4cf8c035c25de3c061788f76fce26337dfe73a3c02e046eb4b35eef",
+   "size": 39273,
+   "etag": "6cbb2abbdb16d772f75c2dc76f58663a"
+  },
+  "3258-nhu-tuong-hoa-dau-silicone/images/3258_hat-dau-goc-AS-OCT_PMC11543845-Fig1.jpg": {
+   "sha256": "27326fa4f2cfb3df803e6f8412723bb271c03735ca99382bcfbf7efc2b1760c6",
+   "size": 74685,
+   "etag": "76ff046cd2ed050434cede0e43a8ebcb"
+  },
+  "3259-phu-cap-giac-mac-hydrops/images/3259_pachymetry_Topography_PMC12383977-Fig2.jpg": {
+   "sha256": "1ade7c9b18013b4f4ed0f1259e927cda0094fe50b02dbfe557152cca67fe6b7c",
+   "size": 216554,
+   "etag": "a5d249b6668f929970d13cf7eb672a5a"
+  },
+  "3259-phu-cap-giac-mac-hydrops/images/3259_bom-khi_SlitLamp_PMC11149508-Fig2.jpg": {
+   "sha256": "1eca2dea4e420736395b750e51cb902779b97e11a591374a61ba5757406cc5c4",
+   "size": 79806,
+   "etag": "e50ac5138da7018c065d11b89eedaa2f"
+  },
+  "3259-phu-cap-giac-mac-hydrops/images/3259_nhiem-kem_SlitLamp_PMC11952767-Fig3.jpg": {
+   "sha256": "89b7e8bcb089b58e3698bc5769704c408193421554ae649a0903315073be518e",
+   "size": 219537,
+   "etag": "ffe8a78f3fad00354290f762c618cb93"
+  },
+  "3259-phu-cap-giac-mac-hydrops/images/3259_sau-4-tuan_SlitLamp_PMC12383977-Fig5.jpg": {
+   "sha256": "83b308992e06c733ad8ecc0fbf1de6afa6c63d4c2c0358ee24246c78c124dbfa",
+   "size": 56772,
+   "etag": "6822968beec0e41ce68174cc0e50b96f"
+  },
+  "3260-viem-ket-mac-mua-xuan-the-ria/images/3260_ba-the_Schema_PMC12110089-Fig1.jpg": {
+   "sha256": "4dda75b96c939cc2da2c014b6846dbce3e344c12491850af6ef96dcf3909fab8",
+   "size": 68956,
+   "etag": "72324a9a6913aeff914cfc0e1f135483"
+  },
+  "3260-viem-ket-mac-mua-xuan-the-ria/images/3260_limbal-mass_SlitLamp_PMC8961886-Fig1.jpg": {
+   "sha256": "031a0885585d1165a57d964ca1a9d0a618ef9aeab696491e34a9194ac8920c18",
+   "size": 88808,
+   "etag": "20816198b6245597a9a8a6564d111597"
+  },
+  "3260-viem-ket-mac-mua-xuan-the-ria/images/3260_limbal-mass_Histology_PMC8961886-Fig2.jpg": {
+   "sha256": "315f2b5f430d68d35d2c1bf617860b5df0a7f28d246fc206943ead188a390ec9",
+   "size": 253395,
+   "etag": "c46e2f87c6d4ad3518f6c291bf6c509a"
+  },
+  "3260-viem-ket-mac-mua-xuan-the-ria/images/3260_limbal-vkc_SlitLamp_PMC10577227-Fig1.jpg": {
+   "sha256": "c085bd07158875800e1a508de6c07ee05ede2afaa2874cf7c637588089deaed0",
+   "size": 143127,
+   "etag": "7a63c2b93eaf1e3ef7eda3973ca20f96"
+  },
+  "3260-viem-ket-mac-mua-xuan-the-ria/images/3260_limbal-vkc_SlitLamp_PMC10577227-Fig2.jpg": {
+   "sha256": "f77816afcfe7da21810d12fc75e7a8b589977714742ef8aa56619e1bf3e277e2",
+   "size": 123603,
+   "etag": "7ad91990aecbdaafeeb695b5f2f4ddf4"
+  },
+  "3261-bong-bieu-mo-giac-mac-tai-dien/images/3261_rce_ASOCT-CET_PMC13077718-Fig2.jpg": {
+   "sha256": "76a8147165241020d8e874bc385dc0c6543afdf24d5535e9b091281106b7f81f",
+   "size": 62815,
+   "etag": "0b9655840af4b07e980c616e17a07c0f"
+  },
+  "3260-viem-ket-mac-mua-xuan-the-ria/images/3260_vkc-gia-LSCD_SlitLamp_PMC13154496-Fig1.jpg": {
+   "sha256": "1c5870c71663b861c6b89d8d42177fdbb3c2cca8aecb00d4276edece2efd770e",
+   "size": 110934,
+   "etag": "15c78ef11584614127516cd7e2000148"
+  },
+  "3261-bong-bieu-mo-giac-mac-tai-dien/images/3261_rce_EBMD_SlitLamp-ASOCT_PMC13703213-Fig1.jpg": {
+   "sha256": "d1ba3b9f2f17e3e9eefaf708d22b3a8e3c12518ecc4e7b786a42098e5a66d43c",
+   "size": 179487,
+   "etag": "2c107e18b6b322db2d7af71ca46ca9c9"
+  },
+  "3261-bong-bieu-mo-giac-mac-tai-dien/images/3261_rce_SlitLamp_PMC6494251-Fig4.jpg": {
+   "sha256": "8b8e50825368520877c078c939c2ba78f3b687c565d6a90f6254999bc0617fef",
+   "size": 31510,
+   "etag": "d7c808945d457a710bcfd244117a445c"
+  },
+  "3260-viem-ket-mac-mua-xuan-the-ria/images/3260_osnn-gia-PEH_SlitLamp-UBM_PMC10880557-Fig1.jpg": {
+   "sha256": "a6128d9c675cf87ef063b315d90ce1e03936ecc1b6896a41e78825a7a2065fc3",
+   "size": 111399,
+   "etag": "83450fa86b3b55ab348d94808eb7f438"
+  },
+  "3261-bong-bieu-mo-giac-mac-tai-dien/images/3261_rce_IVCM-ASP_PMC10711589-Fig2.jpg": {
+   "sha256": "b8b30fd8df70500606aab35753cd539443e123f383138c10b6d6ac3d2238ef55",
+   "size": 112399,
+   "etag": "53b6bf12c1dd7cfb572faa1c81df0cb5"
+  },
+  "3264-bong-mang-descemet-sau-phaco/images/3264_dmd-80phan-tram_AS-OCT_PMC8421232-Fig1.jpg": {
+   "sha256": "66e100ea28985b5b1aad8010c97b781c6d914b0eb7be01bc359feb798411c18f",
+   "size": 73174,
+   "etag": "faedc1dbd97e5159c85f8cb3939470f5"
+  },
+  "3261-bong-bieu-mo-giac-mac-tai-dien/images/composite_3261_co-che-va-thu-thuat.jpg": {
+   "sha256": "10636433a221d2b88cd71defb66dfeb03c4d787f59a0f3065aa4ee0db71ca0f6",
+   "size": 288241,
+   "etag": "24851b1720a6458dc9b8b0cf9fe4ace4"
+  },
+  "3264-bong-mang-descemet-sau-phaco/images/3264_dmd-hoan-toan_AS-OCT_PMC6097261-Fig6.jpg": {
+   "sha256": "cddc6635ddfd78a32abae86b832c1a0afbf58bbc60165629e0b4c80e0110c899",
+   "size": 90485,
+   "etag": "5df41b05f1d001b7d0b946cce16c0fd2"
+  },
+  "3264-bong-mang-descemet-sau-phaco/images/3264_dmd_AS-OCT_PMC11462704-Fig2.jpg": {
+   "sha256": "d41190cc4359dff37f2c4dda87b76151de905ac8a327d3bea4ae59ab806fbadf",
+   "size": 32451,
+   "etag": "8545ac352bf790a22da9fca9e5eb380e"
+  },
+  "3267-viem-ket-mac-ria-tren/images/3267_osnn-gia-slk_SlitLamp_PMC3085160-Fig1a.jpg": {
+   "sha256": "b9a67d2e49a8735ac9d727e11abea4406f5a478e0b97cd34921585bda6508120",
+   "size": 121168,
+   "etag": "657ba22802380576fc68810d6cb18b60"
+  },
+  "3264-bong-mang-descemet-sau-phaco/images/composite_phan-do-dmd.jpg": {
+   "sha256": "1ee38d8008de937640e85e6ffdf87d4c53047f9148f43a836c22160c044146e7",
+   "size": 120667,
+   "etag": "5c8dd109ec2a63b456e9c08c70322e6e"
+  },
+  "3264-bong-mang-descemet-sau-phaco/images/3264_dmd-don-thuan_AS-OCT_PMC6097261-Fig4.jpg": {
+   "sha256": "ea859ed617cf6dddd2182e4e75b4d460f792fceaf541caa54a06fe2b3a8982b8",
+   "size": 231113,
+   "etag": "366b23dd889ec3798a3ea337742dd8b3"
+  },
+  "3267-viem-ket-mac-ria-tren/images/3267_slk_RedundantFolds_PMC10124569-Fig1.jpg": {
+   "sha256": "3fc6854ac8fe8e4363271f99117c50f3bda84fa5a69a6d6079bf5640da0ef358",
+   "size": 84427,
+   "etag": "d7fd764b8560c03ab20ad92c67331321"
+  },
+  "3267-viem-ket-mac-ria-tren/images/3267_slk_LissamineGreen_PMC12271041-Fig2.jpg": {
+   "sha256": "1c472ea06b4b69559768b95b9ebe0842b68128620bfc31d07a3079f92aab34eb",
+   "size": 138033,
+   "etag": "7e6588ba13e0fae52d2c2207e06bf939"
+  },
+  "3267-viem-ket-mac-ria-tren/images/3267_slk_SlitLamp-Pannus_PMC4362972-Fig1.jpg": {
+   "sha256": "41f4e760508eaa7bc5ca83f865ba8e6951f72d139f05c5967ba7900b2d1cd354",
+   "size": 81740,
+   "etag": "2e7a5fb6eafa5fd96d7521f8bb60d86f"
+  },
+  "3264-bong-mang-descemet-sau-phaco/images/3264_bom-khi_AS-OCT_PMC11836178-Fig3.jpg": {
+   "sha256": "3e3c50b17b504ef8da4baac8704452d9982a727324ba2bd86eee199f3b420010",
+   "size": 196138,
+   "etag": "8950ab4bfe7d97e4540b7fd89854db97"
+  },
+  "3268-vien-ket-mac-do-thuoc-nho-mat/images/3268_medicamentosa_Clinical_PMC10403269-Fig3.jpg": {
+   "sha256": "e0545e7b2df2ecaaec8e099302c8ecc859ee43958e2d83721970446b73dd0777",
+   "size": 93937,
+   "etag": "5e36ab4364fb9355fa1a823a72378947"
+  },
+  "3268-vien-ket-mac-do-thuoc-nho-mat/images/3268_medicamentosa_External_PMC10403269-Fig4.jpg": {
+   "sha256": "8ddb0114165fa2d382b2ac64aa9f8007bf7cc15cc0cafd896560ddf1b7ffe964",
+   "size": 76839,
+   "etag": "f650bd9d2e5f223fd79053ee8b00ded5"
+  },
+  "3268-vien-ket-mac-do-thuoc-nho-mat/images/3268_medicamentosa_SlitLamp_PMC10403269-Fig6.jpg": {
+   "sha256": "7a6533cd62d1138c0930234c3280b0beb39ecbf64b09f5b1a9be1ed23ca49a06",
+   "size": 74310,
+   "etag": "8e77fc92b05f1495bdcfdede7336393a"
+  },
+  "429-do-truc-nhan-cau-bang-mri-ct/images/429_do-truc-nhan-cau_MRI_BMC2022-Fig1.jpg": {
+   "sha256": "b57c475447d36b2fce9c7e6064f6d984e09af8ab4c68a6658a9d1768244e625a",
+   "size": 62439,
+   "etag": "320c2387a48b249b506b8d4d90550ef5"
+  },
+  "429-do-truc-nhan-cau-bang-mri-ct/images/429_do-truc-nhan-cau_CT_BMC2025-Fig1.jpg": {
+   "sha256": "1574bd4adfab157047ee66d68e10385bed4c8c0abb28710058076989f6c4c27f",
+   "size": 142159,
+   "etag": "cffadc4368abc9dfbe1146bff58b21d2"
+  },
+  "3268-vien-ket-mac-do-thuoc-nho-mat/images/composite_medicamentosa_follicle_vs_stain.jpg": {
+   "sha256": "dadba3f6fe18d3c3df61006b0ab142f52a5d3c4a4d9c2c98854d3c407322fb96",
+   "size": 124926,
+   "etag": "8e30119b2df614494f32996ed7269ee5"
+  },
+  "3268-vien-ket-mac-do-thuoc-nho-mat/images/3268_medicamentosa_SlitLamp_PMC8294862-Fig1.jpg": {
+   "sha256": "bb268d74ebc481367e56d33dd9aadaf5512b4fe0f65fb28293a874e0b4003cbe",
+   "size": 28012,
+   "etag": "050ed19bde77a58a0fd216bde0706f55"
+  },
+  "3268-vien-ket-mac-do-thuoc-nho-mat/images/3268_medicamentosa_SlitLamp_PMC13078932-Fig1.jpg": {
+   "sha256": "b892651124b1f4e346ab062fd6fdd2ae7f776f29f6c83ee05538f2b61f2ca072",
+   "size": 172708,
+   "etag": "f54d994b18ecaadc879c33b39a624bcb"
+  },
+  "429-do-truc-nhan-cau-bang-mri-ct/images/429_do-truc-nhan-cau_MRI_BMC2022-Fig2.jpg": {
+   "sha256": "4e4aee94fd5c3c0dc5c7d865f882fbd079819b8b3d6da9150a093a70a0ff1792",
+   "size": 119043,
+   "etag": "b3788927f76a26aa226c3dd561f178c5"
+  },
+  "429-do-truc-nhan-cau-bang-mri-ct/images/429_do-truc-nhan-cau_Sodo_CC0.png": {
+   "sha256": "3226bf35d3278aea6b879d5f689f39022f80433f82ee517b11d633221945e79b",
+   "size": 101291,
+   "etag": "694c293b435e4339fe4eae7229980502"
+  },
+  "429-do-truc-nhan-cau-bang-mri-ct/images/composite_429_cua-so-do-va-dong-thuan.jpg": {
+   "sha256": "03846564928f7d18ee79751da61f6163e0b353895422d23c8641d252026b5a48",
+   "size": 111377,
+   "etag": "ef6142d14961f60e092066bb99d1945b"
+  },
+  "449-chan-thuong-mat-dich-vat/images/449_BETT-so-do_PMC9379121.jpg": {
+   "sha256": "e22ec4aac7ce1083dd807960ce0d1dcb82b189ec3b0965a1a9e5593673159332",
+   "size": 155677,
+   "etag": "f68a75fb5dc61fb39c80bc19ab7b6412"
+  },
+  "449-chan-thuong-mat-dich-vat/images/449_CT_bon-dau-hieu_PMC9379121.jpg": {
+   "sha256": "61c43c92fbd43cde69589c308a93ae4a1ffb5e8c061353e3adae5576a225c543",
+   "size": 90431,
+   "etag": "a69c49b44a80676860f4821544956e2b"
+  },
+  "449-chan-thuong-mat-dich-vat/images/449_CT_gia-khi_PMC12240278.jpg": {
+   "sha256": "90301aeadff97945b1ca57140b8fa4d5f58eb720a8c58ef398e8d1636713cc85",
+   "size": 47494,
+   "etag": "b648749b7c9840001ce9ef5fa27b5265"
+  },
+  "449-chan-thuong-mat-dich-vat/images/449_CT_diem-APG_PMC10759343.jpg": {
+   "sha256": "aba8dea7b36b3a10fe5c816932e3ab46f989d37cf091bac1cf735adde2a537a0",
+   "size": 64654,
+   "etag": "754cff69c613043717b6757c6d786203"
+  },
+  "449-chan-thuong-mat-dich-vat/images/449_CT_cung-mac-gian-doan_PMC8755868.jpg": {
+   "sha256": "71deaf39709b5b9fefff6ca150d10798d23fda5d67a8952fd3b601e9065ab5b3",
+   "size": 66332,
+   "etag": "2dec2d7a2ebc05d0f72ef1d027d9be82"
+  },
+  "449-chan-thuong-mat-dich-vat/images/449_CT_IOFB-va-gia-vat_PMC8755868.jpg": {
+   "sha256": "0972ab78c3dd632acf6aca9153bc1b7077129b2e307d8f837ccedf6dfc8af9bb",
+   "size": 101928,
+   "etag": "35fcc154e95d3a460519676beab372ec"
+  },
+  "449-chan-thuong-mat-dich-vat/images/449_CT_mat-the-tich_PMC12240278.jpg": {
+   "sha256": "35fb800a651edd2bd393b4660ceff6bf713e10c90f3662c6505a4099e4beb3ca",
+   "size": 44975,
+   "etag": "4f8ff7853b3e276843c2991a2d9bf3e9"
+  },
+  "6210-bong-vong-mac-sau-mo-duc-thuy-tinh-bam-sinh/images/6210_bong-vong-mac_MRI_PMC12687664-f1.jpg": {
+   "sha256": "1cfd48c3b880cd13c9f91e422a8c184055ca41b698db06c3937420db5bfe2e17",
+   "size": 48602,
+   "etag": "a79b401261760d74aa7c9e4e12fe486f"
+  },
+  "6210-bong-vong-mac-sau-mo-duc-thuy-tinh-bam-sinh/images/6210_bong-vong-mac_PPV-SO_PMC12659836-f1.jpg": {
+   "sha256": "978873b5aa6ccace1d61e3e9f4a60190a8de166fcbc13f694d4d5641564a36fe",
+   "size": 32263,
+   "etag": "6721f566021173998e3e52eb62f17dec"
+  },
+  "6210-bong-vong-mac-sau-mo-duc-thuy-tinh-bam-sinh/images/6210_bong-vong-mac_Fundus_PMC12481467-f2.jpg": {
+   "sha256": "ec7f64727214815a8ae36f5ace31bc2cac9842e87761ff77453a03ea8ff20ee3",
+   "size": 73375,
+   "etag": "c4cd8787c4ef44fad398d705978fb944"
+  },
+  "6211-duc-truc-quang-vao-sau-mo-duc-thuy-tinh-bam-sinh/images/6211_vao_Slitlamp_PMC11338403-f2.jpg": {
+   "sha256": "9acc4a2cedbcae6e62dc5ae5a407a37eff0707415ae6710c40512e5673cc5a9b",
+   "size": 102432,
+   "etag": "1c889586993b0ef2778c5b7cc71071cd"
+  },
+  "6211-duc-truc-quang-vao-sau-mo-duc-thuy-tinh-bam-sinh/images/6211_vao_Slitlamp_PMC11338403-f1.jpg": {
+   "sha256": "5c378ecd35c9489f2d3040d21dd6bf3984ce1611c470646ba46e4da2e3116f86",
+   "size": 77898,
+   "etag": "c469aadebbf7fad7974b2c2f69d79ff6"
+  },
+  "6211-duc-truc-quang-vao-sau-mo-duc-thuy-tinh-bam-sinh/images/6211_vao_Slitlamp_PMC10667373-f1.jpg": {
+   "sha256": "1122e2ddad83d2c0b684048ec754af3a2f01ae9005cd44756c9e7befcb986448",
+   "size": 166929,
+   "etag": "91ee410043f7b0438c9e26b4759e249a"
+  },
+  "6211-duc-truc-quang-vao-sau-mo-duc-thuy-tinh-bam-sinh/images/6211_vao_Slitlamp_PMC11338403-f3.jpg": {
+   "sha256": "3cfa7c559914622a8129dc04cd43acb9490e3eb39d085e758ed9a52ba5c30cb3",
+   "size": 58107,
+   "etag": "6f981aa385064b903e298b3847d901ba"
+  },
+  "6211-duc-truc-quang-vao-sau-mo-duc-thuy-tinh-bam-sinh/images/6211_vao_UBM_PMC7428953-f1.jpg": {
+   "sha256": "3b64af5fe6c4510e0bf3d2bcfacbb08a6f213ecc8a841f48c3023a820913f601",
+   "size": 50252,
+   "etag": "04a31a61cc57bfdec94db773b6cb36f8"
+  },
+  "6211-duc-truc-quang-vao-sau-mo-duc-thuy-tinh-bam-sinh/images/6211_vao_AnteriorSegment_PMC10130455-f2.jpg": {
+   "sha256": "b08b7106a063592f144a86903b36a5baa7fb88ab639629ce3203251bff9109fc",
+   "size": 111829,
+   "etag": "2aba5d6add4aa1d69d5384edab6561dd"
+  },
+  "6211-duc-truc-quang-vao-sau-mo-duc-thuy-tinh-bam-sinh/images/6211_vao_UBM_PMC7428953-f2.jpg": {
+   "sha256": "3b52e9b4a7f71681407d40ead3e8a62c08e547adc4e2717498bb6ef1437d9b2f",
+   "size": 57307,
+   "etag": "aadf0392f6e977bf586daa3d75b120c0"
+  },
+  "6211-duc-truc-quang-vao-sau-mo-duc-thuy-tinh-bam-sinh/images/6211_vao_UBM_PMC7428953-f3.jpg": {
+   "sha256": "a3d89d5f6e5edfb52fd02ebd99de35072b98436fcfc3d6b21065f6668a37d2bd",
+   "size": 59830,
+   "etag": "f1dc3942404729361eecec9f5792005e"
+  },
+  "6213-duc-thuy-tinh-chan-thuong-tre/images/6213_duc-thuy-tinh-chan-thuong_CT_PMC8123265-f5.jpg": {
+   "sha256": "9bcd7dda439e80a400a2f018fe909fc03479bfaba1f1e86e35d910afd72003e6",
+   "size": 97613,
+   "etag": "cfdaed7e4ab7a5f13b035daa8d69efe1"
+  },
+  "6213-duc-thuy-tinh-chan-thuong-tre/images/6213_duc-thuy-tinh-chan-thuong_CT_PMC8755868-f16.jpg": {
+   "sha256": "caed33b37c929c3251bb446a42312c3b8d60356d2d3510e65452c8e1a7f0cd03",
+   "size": 65864,
+   "etag": "d4830f5656a563b79f2ecac70003bcdd"
+  },
+  "6211-duc-truc-quang-vao-sau-mo-duc-thuy-tinh-bam-sinh/images/composite_vao_ubm.jpg": {
+   "sha256": "58b6251face9e662a644eb3d3d0e8b15218dabde046d35e949a73468b12d6494",
+   "size": 55896,
+   "etag": "4c0d5d40b5712468db54d9aa2576b9aa"
+  },
+  "6213-duc-thuy-tinh-chan-thuong-tre/images/6213_duc-thuy-tinh-chan-thuong_Scheimpflug_PMC8837344-f2.jpg": {
+   "sha256": "1ff40631adb52e3d2ec0dbce4526ad917a4a89463c83cd1bf7a367bfafef962d",
+   "size": 25474,
+   "etag": "4bd0f12a7c8f709616aaf87100aca3a4"
+  },
+  "6213-duc-thuy-tinh-chan-thuong-tre/images/6213_duc-thuy-tinh-chan-thuong_CT_PMC8755868-f21.jpg": {
+   "sha256": "0972ab78c3dd632acf6aca9153bc1b7077129b2e307d8f837ccedf6dfc8af9bb",
+   "size": 101928,
+   "etag": "35fcc154e95d3a460519676beab372ec"
+  },
+  "6213-duc-thuy-tinh-chan-thuong-tre/images/6213_duc-thuy-tinh-chan-thuong_Slitlamp_PMC13298824-f1.jpg": {
+   "sha256": "8d567ca33158e821a9092dcb21af8b4a5338e6a58cb921b4c23231817b980666",
+   "size": 89457,
+   "etag": "4a61030a952268972c1295223be25eac"
+  },
+  "6214-duc-the-thuy-tinh-xa-tri-retinoblastoma/images/6214_duc-the-thuy-tinh-xa-tri_CT_PMC13315199-f5.jpg": {
+   "sha256": "50281c7946d6658dab6337dc5b93e91393c1e917fbf3b66945280cddeb548c5e",
+   "size": 59853,
+   "etag": "778df5c19c98aaddc0d6159e1ebc9301"
+  },
+  "6214-duc-the-thuy-tinh-xa-tri-retinoblastoma/images/6214_duc-the-thuy-tinh-xa-tri_MRI_PMC12953368-f5.jpg": {
+   "sha256": "a5068a2470c384dda30b506a4388cde10ccce93ef988c4bb1d7d40becfed2054",
+   "size": 131182,
+   "etag": "776dcafc349e691a2da71a8e00b53394"
+  },
+  "6214-duc-the-thuy-tinh-xa-tri-retinoblastoma/images/6214_duc-the-thuy-tinh-xa-tri_Slitlamp_PMC10378371-f1.jpg": {
+   "sha256": "44aa224f6df5af2f95fe9a74c35ea268c4d39c748ba66209debd9ff288973b71",
+   "size": 62020,
+   "etag": "286bae31c3df9e3a2ae5964f84f7b104"
+  },
+  "6214-duc-the-thuy-tinh-xa-tri-retinoblastoma/images/6214_duc-the-thuy-tinh-xa-tri_So-do_PMC13315199-f3.jpg": {
+   "sha256": "26e3c1ef0eae4e97dac2bd2b6b19071df5ad0369aa0259dae0aea97df4686611",
+   "size": 90031,
+   "etag": "fcece9bec8c407a744eb97ee4a85c6b8"
   }
  },
- "generated_at": "2026-11-15T22:40:39Z"
+ "generated_at": "2026-11-22T06:47:10Z"
 }
