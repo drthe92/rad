@@ -34730,7 +34730,37 @@
    "sha256": "660454cf6e17d3d3326c0dc91a2b1337f9997a4c1ac44611a0fada137adf7a72",
    "size": 241000,
    "etag": "7d3e8590dd5954c1994260cea802d31e"
+  },
+  "3279-doi-iol-cao-cap-muon/images/3279_doi-iol-cao-cap_Anh-sang_IOL-duc-truoc-sau_PMC11610101-Fig1.jpg": {
+   "sha256": "4aa71737a1fc458dfae710f0acb3e1d94b81245b3946097d0589f6f0a0934545",
+   "size": 81572,
+   "etag": "46e4ccc64683dbff0380c7537bc03817"
+  },
+  "3279-doi-iol-cao-cap-muon/images/3279_doi-iol-cao-cap_IOL-lech-haptic_PMC8988965-Fig1.jpg": {
+   "sha256": "5b6268028999c82bd0bf1c55fceabb7cf1f4848b0e99e2b55a2ede8f5bf39cda",
+   "size": 33966,
+   "etag": "5cfd72b5eec22ed7c8871aac13c550fc"
+  },
+  "3279-doi-iol-cao-cap-muon/images/3279_doi-iol-cao-cap_Thi-luc-vs-straylight_PMC11610101-Fig4.jpg": {
+   "sha256": "35a99ec6aa45aab4cf89bc747996a03532d5f533d32d314915269dbf636cafc0",
+   "size": 40457,
+   "etag": "90e6b6be60f84297ba16826704e32ebe"
+  },
+  "3279-doi-iol-cao-cap-muon/images/3279_doi-iol-cao-cap_Straylight-nguong_PMC11610101-Fig2.jpg": {
+   "sha256": "7c11ebba16b90ee3dae1c3894dbafdd4a59959aa38ee941b322881529dd4eae8",
+   "size": 35409,
+   "etag": "1c8f10ba713b08de180e586f3cd2f66c"
+  },
+  "3279-doi-iol-cao-cap-muon/images/composite_hai-co-che-that-bai.jpg": {
+   "sha256": "aea8c8cd1d32f8ae0135945e932660fb7b2fe6b748bfd42373112ddd2504028b",
+   "size": 100477,
+   "etag": "857c9da9f1095015fe4d99306097e9ee"
+  },
+  "3279-doi-iol-cao-cap-muon/images/3279_doi-iol-cao-cap_Phimosis-optic-capture_PMC8988965-Fig2.jpg": {
+   "sha256": "ad005c0f17567fa9f234d4f3152c7c37e111d3383f24498cb8e26d479a0d108b",
+   "size": 37849,
+   "etag": "9f10fa2a5c536b1ac790a5fc26df4dd4"
   }
  },
- "generated_at": "2026-11-22T21:22:09Z"
+ "generated_at": "2026-11-22T22:22:17Z"
 }
