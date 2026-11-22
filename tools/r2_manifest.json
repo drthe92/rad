@@ -34670,7 +34670,47 @@
    "sha256": "a9dd2ee5d9bb8970ed172c124690a6b0f1e5ae69420c4dd976f3867f37291b71",
    "size": 467135,
    "etag": "9cd2a53eec2bc56f12900dc7dda45424"
+  },
+  "3277-rach-hac-mac-chan-thuong-tre/images/3277_rach-hac-mac_OCT-6monthAtrophy_PMC13440916-Fig6.jpg": {
+   "sha256": "4b93794ff11e95c13c4e05f2a5d8fb81c0697e9c7d24c4aa04d557e9193f6cd4",
+   "size": 86452,
+   "etag": "989cbeb5931b17f1a6967d6263cb1fde"
+  },
+  "3277-rach-hac-mac-chan-thuong-tre/images/3277_rach-hac-mac_OCT-AcuteRPE-Bruch_PMC13440916-Fig3.jpg": {
+   "sha256": "519fff03c93c7bf688711ec40237bc7ee5775f9dcc73f9924a9c62605e4f18ad",
+   "size": 122567,
+   "etag": "0b3e78203e5f5397b320853822f8577e"
+  },
+  "3277-rach-hac-mac-chan-thuong-tre/images/3277_rach-hac-mac_OCT_Type2_PMC3726522-Fig3.jpg": {
+   "sha256": "f47b065a7deb6f1c0ba44f8166d2051ecae7f39e8060b47d51e7589a290e51f1",
+   "size": 161140,
+   "etag": "e804dde0dde2f31a9c56d241da79a73c"
+  },
+  "3277-rach-hac-mac-chan-thuong-tre/images/3277_rach-hac-mac_Fundus-AcuteCommotioSubmacular_PMC13440916-Fig2.jpg": {
+   "sha256": "9d1aa03c62d3fbd687454c48743dceb5a67b5fff96284f78c838ae80e752757c",
+   "size": 129772,
+   "etag": "456c0e8be334a5f9e4e4cf95f1df0a88"
+  },
+  "3277-rach-hac-mac-chan-thuong-tre/images/3277_rach-hac-mac_Fundus-FFA_ArcuateRupture_PMC6878647-Fig1.jpg": {
+   "sha256": "832787403dbaae2646bb005b934267eeaba5397e189e26b6138bbdbe38bc7acc",
+   "size": 94737,
+   "etag": "0b2b882c6ec93abbd7c52765440fa69b"
+  },
+  "3277-rach-hac-mac-chan-thuong-tre/images/3277_rach-hac-mac_OCT_Type1_PMC3726522-Fig1.jpg": {
+   "sha256": "30231927b01cf656e32a0804f7f2db58035224a0875f1891b7d1f37f86af065d",
+   "size": 169133,
+   "etag": "b13d3e54cfde77466d9f1952e9103cb6"
+  },
+  "3277-rach-hac-mac-chan-thuong-tre/images/composite_rach-hac-mac_type1_vs_type2.jpg": {
+   "sha256": "73be663d2445d47dfed41efc60c345030b0ea8d9374d8dcf0ec706e1752a6201",
+   "size": 191868,
+   "etag": "92eaa7021a36bf23854d810688f31043"
+  },
+  "3277-rach-hac-mac-chan-thuong-tre/images/3277_rach-hac-mac_Fundus-FA-OCT_CNV_PMC6537082-Fig2.jpg": {
+   "sha256": "d4774049befb577d2011ef290b2c758930de18aeba95ed67ed8aee3233ddb6ea",
+   "size": 440839,
+   "etag": "aa33d85e101046894043247b7de8ac41"
   }
  },
- "generated_at": "2026-11-22T19:23:14Z"
+ "generated_at": "2026-11-22T20:22:35Z"
 }
