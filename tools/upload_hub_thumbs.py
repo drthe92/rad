@@ -100,7 +100,9 @@ def cmd_upload(args):
     c = r2.cfg()
     if not r2.have_creds(c):
         print("SKIP: thiếu R2_ACCOUNT_ID / R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY.")
-        print(f"  → tạo {r2.ENV_FILE} trên máy có ảnh (xem docs/R2-SETUP.md).")
+        print("  Đã thử các file cấu hình sau (thứ tự ưu tiên):")
+        print(r2.env_paths_text())
+        print("  → xem docs/R2-SETUP.md (hoặc set R2_ENV_FILE trỏ tới file có thật).")
         return 2
     d = load_variants()
     todo = [x for x in pending(d) if x[2].exists()]

@@ -50,26 +50,57 @@ build: nếu file có trong tools/r2_manifest.json → HTML dùng URL CDN
    `dash.cloudflare.com/<account_id>/r2`).
 
 ### 4. Lưu khóa trên máy chạy build (không commit)
+
+Có **2 vị trí "bên"** cùng trỏ vào **một file** khoá (mode 600) mà cả host lẫn container
+đều thấy — dùng một trong hai, không tạo bản sao trong container:
+
+| Nhìn từ | Đường dẫn |
+|---|---|
+| Host | `~/openchamber/workspace/.secrets/rad/r2.env` |
+| Container | `/home/openchamber/workspaces/.secrets/rad/r2.env` |
+
+Uploader lấy **file đầu tiên TỒN TẠI** theo thứ tự:
+
+1. `$R2_ENV_FILE` (nếu có set)
+2. `~/.config/rad/r2.env`
+3. `/home/openchamber/workspaces/.secrets/rad/r2.env` — đường dẫn trong container
+4. `/home/thebom/openchamber/workspace/.secrets/rad/r2.env` — đường dẫn trên host
+
+Lý do phải thử nhiều chỗ: `~/.config` trong container nằm trên overlay trong và **không
+tồn tại**, nên trước 22/11/2026 session trong container luôn in `SKIP` dù file khoá có
+sẵn ở đường bên. Khi `SKIP`, uploader liệt kê **tất cả** đường dẫn đã thử kèm
+`[có file]` / `[không tồn tại]` (không bao giờ in nội dung file).
+
+Nội dung file (dán tay, không qua chat):
+
 ```sh
-mkdir -p ~/.config/rad
-cat > ~/.config/rad/r2.env <<'ENV'
 R2_ACCOUNT_ID=...
 R2_ACCESS_KEY_ID=...
 R2_SECRET_ACCESS_KEY=...
 R2_BUCKET=rad-img
 R2_PUBLIC_BASE=https://img.matcauvong.com
-ENV
-chmod 600 ~/.config/rad/r2.env
 ```
-Script tự đọc file này; biến môi trường có sẵn được ưu tiên hơn.
+
+`chmod 600`. Biến môi trường có sẵn được ưu tiên hơn nội dung file (uploader dùng
+`setdefault`, không ghi đè env).
 
 ### 5. Kiểm tra và upload
 ```sh
-python3 tools/r2_upload.py --selftest     # ký đúng chuẩn AWS
-python3 tools/r2_upload.py --plan         # xem bao nhiêu ảnh cần đưa lên
-python3 tools/r2_upload.py --upload       # ~5.970 ảnh / ~730 MB
-python3 tools/r2_upload.py --verify --sample 50 --public
+python3 tools/r2_upload.py --plan                          # còn bao nhiêu ảnh chưa lên
+python3 tools/r2_upload.py --verify --sample 5 --public    # cổng THẬT: 5/5 HEAD 200
+python3 tools/r2_upload.py --upload                        # upload ảnh mới/đổi
 ```
+
+- **Quy tắc kiểm chứng cấu hình:** `--verify --sample N --public` là cổng đúng — HEAD
+  có chữ ký trả **200** mới chứng minh khoá thật đã được nạp từ file bên. Thiếu khoá thì
+  uploader in `SKIP` + danh sách đường dẫn đã thử (và `--verify` dừng, không HEAD); khoá
+  sai thì `403` / `SignatureDoesNotMatch`.
+- **KHÔNG dùng `--selftest` để kết luận env đã sẵn.** Nó chỉ đối chiếu vector ký SigV4
+  mẫu của AWS (`get-vanilla`) và in `SELFTEST OK` — hoàn toàn không đọc file khoá, nên
+  vẫn OK dù không nạp được credential nào.
+- `upload_hub_thumbs.py` import `r2_upload` và gọi `r2.load_env()` trong `main()` nên
+  dùng chung danh sách đường dẫn trên; `--plan` ở đó cũng không cần khoá.
+
 Upload chạy song song 8 luồng, lưu manifest dần nên có thể dừng/chạy lại.
 Ước tính 10–30 phút tùy đường truyền. R2 miễn phí 10 GB lưu trữ, egress 0 đồng.
 

@@ -12,7 +12,13 @@ sang `img.matcauvong.com` (R2 + custom domain) để site nhẹ và tải nhanh 
   - Chạy lại chỉ upload ảnh mới/đổi (so sha256), có resume.
   - Không in khóa bí mật.
 
-Cấu hình: biến môi trường hoặc file `~/.config/rad/r2.env` (ưu tiên file, không ghi đè env):
+Cấu hình: biến môi trường hoặc file r2.env (ưu tiên file, không ghi đè env). File được
+lấy theo đường dẫn ĐẦU TIÊN TỒN TẠI trong thứ tự:
+    1. $R2_ENV_FILE (nếu có set)
+    2. ~/.config/rad/r2.env
+    3. /home/openchamber/workspaces/.secrets/rad/r2.env   (đường dẫn trong container)
+    4. /home/thebom/openchamber/workspace/.secrets/rad/r2.env  (đường dẫn trên host)
+Nội dung:
     R2_ACCOUNT_ID=...
     R2_ACCESS_KEY_ID=...
     R2_SECRET_ACCESS_KEY=...
@@ -25,6 +31,9 @@ Dùng:
     python3 tools/r2_upload.py --upload --limit 5
     python3 tools/r2_upload.py --verify        # HEAD kiểm ảnh đã có
     python3 tools/r2_upload.py --verify --sample 50
+
+`--selftest` chỉ đối chiếu vector ký SigV4 mẫu — KHÔNG chứng minh đã nạp được khoá thật;
+muốn kiểm cấu hình thì dùng `--verify --sample N` (HEAD 200 mới là khoá đúng).
 
 Exit: 0 OK/SKIP; 1 lỗi; 2 thiếu cấu hình khi cần.
 """
@@ -46,22 +55,66 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 MANIFEST = ROOT / "tools" / "r2_manifest.json"
-ENV_FILE = Path(os.environ.get("R2_ENV_FILE", Path.home() / ".config" / "rad" / "r2.env"))
 UA = "rad-r2-uploader/1.0"
 CACHE_CONTROL = "public, max-age=31536000, immutable"
 MIME = {".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".png": "image/png",
         ".webp": "image/webp", ".gif": "image/gif", ".svg": "image/svg+xml"}
 
 
+# ── file cấu hình ───────────────────────────────────────────────────────────
+# File khoá R2 nằm ở vị trí "bên" mà cả host lẫn container đều thấy. Trước đây chỉ
+# thử đúng 1 đường dẫn nên session trong container luôn SKIP upload dù file có đó.
+ENV_CANDIDATES = []
+ENV_FILE = None
+
+
+def env_candidates():
+    """Các đường dẫn r2.env sẽ thử, theo thứ tự ưu tiên."""
+    out = []
+    override = os.environ.get("R2_ENV_FILE", "").strip()
+    if override:
+        out.append(Path(override).expanduser())
+    out += [
+        Path.home() / ".config" / "rad" / "r2.env",
+        Path("/home/openchamber/workspaces/.secrets/rad/r2.env"),          # container
+        Path("/home/thebom/openchamber/workspace/.secrets/rad/r2.env"),    # host
+    ]
+    return out
+
+
+def resolve_env_file():
+    """Chọn r2.env ĐẦU TIÊN TỒN TẠI; trả None nếu không có file nào."""
+    global ENV_CANDIDATES, ENV_FILE
+    ENV_CANDIDATES = env_candidates()
+    ENV_FILE = next((p for p in ENV_CANDIDATES if p.exists()), None)
+    return ENV_FILE
+
+
+def env_paths_text(indent="    "):
+    """Liệt kê đường dẫn đã thử + có tồn tại hay không (KHÔNG bao giờ in nội dung)."""
+    if not ENV_CANDIDATES:
+        resolve_env_file()
+    return "\n".join(
+        f"{indent}· {p} [{('có file' if p.exists() else 'không tồn tại')}]"
+        for p in ENV_CANDIDATES
+    )
+
+
+resolve_env_file()
+
+
 def load_env():
-    if ENV_FILE.exists():
-        for line in ENV_FILE.read_text(encoding="utf-8").splitlines():
-            line = line.strip()
-            if not line or line.startswith("#") or "=" not in line:
-                continue
-            k, v = line.split("=", 1)
-            k, v = k.strip(), v.strip().strip('"').strip("'")
-            os.environ.setdefault(k, v)
+    path = resolve_env_file()
+    if path is None:
+        return False
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        k, v = line.split("=", 1)
+        k, v = k.strip(), v.strip().strip('"').strip("'")
+        os.environ.setdefault(k, v)
+    return True
 
 
 def cfg():
@@ -244,7 +297,9 @@ def cmd_upload(args):
     c = cfg()
     if not have_creds(c):
         print("SKIP: thiếu R2_ACCOUNT_ID / R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY.")
-        print(f"  → tạo {ENV_FILE} (xem hướng dẫn trong AGENTS.md / README-R2).")
+        print("  Đã thử các file cấu hình sau (thứ tự ưu tiên):")
+        print(env_paths_text())
+        print("  → xem docs/R2-SETUP.md (hoặc set R2_ENV_FILE trỏ tới file có thật).")
         return 2 if args.strict else 0
     todo, skip, total, nbytes = plan(args.limit)
     if not todo:
@@ -275,6 +330,12 @@ def cmd_upload(args):
 
 
 def cmd_verify(args):
+    c = cfg()
+    if not have_creds(c):
+        print("SKIP: thiếu thông tin R2 → chưa kiểm được (HEAD sẽ trả 403 vô nghĩa).")
+        print("  Đã thử các file cấu hình sau (thứ tự ưu tiên):")
+        print(env_paths_text())
+        return 2
     m = load_manifest()
     keys = sorted(m.get("files", {}).keys())
     if not keys:
@@ -283,7 +344,6 @@ def cmd_verify(args):
     sample = args.sample or len(keys)
     if sample < len(keys):
         keys = random.sample(keys, sample)
-    c = cfg()
     bad = 0
     for key in keys:
         status, hdrs, _ = s3_request("HEAD", key)
