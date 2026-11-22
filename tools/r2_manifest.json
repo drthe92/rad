@@ -34760,7 +34760,32 @@
    "sha256": "ad005c0f17567fa9f234d4f3152c7c37e111d3383f24498cb8e26d479a0d108b",
    "size": 37849,
    "etag": "9f10fa2a5c536b1ac790a5fc26df4dd4"
+  },
+  "3280-melanoma-ket-mac-mi/images/3280_melanoma-ket-mac_Histology_PMC11429624-Fig2.jpg": {
+   "sha256": "1e35466990837868fa30532090d9d21a29927cc8f1b9fdf8d2d3108920f0c9fb",
+   "size": 181157,
+   "etag": "f6abc78cd5ebac22627a34d202b60038"
+  },
+  "3280-melanoma-ket-mac-mi/images/3280_melanoma-ket-mac_SpectrumClinical_PMC11429624-Fig1.jpg": {
+   "sha256": "64283683c1afbda5f6493091b5361d2dfd3dbcec4384061c03891e8f1c74be2c",
+   "size": 128796,
+   "etag": "cc796e556df4ccbf1557d02aa69712a9"
+  },
+  "3280-melanoma-ket-mac-mi/images/3280_melanoma-ket-mac_ASOCT-Melanoma_PMC13408978-Fig5.jpg": {
+   "sha256": "5e9732b9dbfef8cb4cefff64bc8a1f0c5cac82c72be6dbb591608286fa815b67",
+   "size": 609710,
+   "etag": "f5b13038c0952bb435fb6605f0981121"
+  },
+  "3280-melanoma-ket-mac-mi/images/3280_melanoma-ket-mac_ASOCT-Nevus_PMC13408978-Fig7.jpg": {
+   "sha256": "e0524bae6100cb05023c5821d23c18d020c06a5242e34195c886d09955a4159d",
+   "size": 510396,
+   "etag": "41b2e8e85c3029f52902593c6e1be64a"
+  },
+  "3280-melanoma-ket-mac-mi/images/3280_melanoma-ket-mac_ASOCT-Melanosis_PMC13408978-Fig6.jpg": {
+   "sha256": "4fd7ecccee7ec1506970e792519694a8189bd13f9397eaf66f4cd0b56c31489c",
+   "size": 520470,
+   "etag": "75418919411cceaf2577f92fa5a23f13"
   }
  },
- "generated_at": "2026-11-22T22:22:17Z"
+ "generated_at": "2026-11-22T23:19:20Z"
 }
