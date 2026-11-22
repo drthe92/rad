@@ -34495,7 +34495,27 @@
    "sha256": "21501486ee15a48c73ac81f2b0ce8bd22144fa7c28f6676c5c9de0a5238f94e8",
    "size": 115186,
    "etag": "1703b0d1e4c74b76f04225895e1886d9"
+  },
+  "3274-phaco-mat-da-cat-dich-kinh/images/3274_lidrs-co-che_So-do_PMC10058855-Fig1.jpg": {
+   "sha256": "83e851a10ae566e40a74555df4df3510514a8bddc28d7e0dbe616cf014c79dd4",
+   "size": 69432,
+   "etag": "0ed70aa9940e14d97519ee466a20e5e1"
+  },
+  "3274-phaco-mat-da-cat-dich-kinh/images/3274_nang-mong-mat-nuoc_Phuong-chieu_PMC4834173-Fig3.jpg": {
+   "sha256": "f9fe96210df77377cb1f5d47f80670153208ad87c9fd6feb0c0b5e314bf96e5f",
+   "size": 79136,
+   "etag": "0c7aedcb304df07089a4dcb1122f16df"
+  },
+  "3274-phaco-mat-da-cat-dich-kinh/images/3274_mat-da-cat-dich-kinh_So-do_PMC4834173-Fig1.jpg": {
+   "sha256": "f53e371f7e7d91ae9428ee870625d7f9a0e44a4cf40109d0bbac6e417e1e3ed9",
+   "size": 36435,
+   "etag": "33a4f97b278974bf683b441c9e8aeb64"
+  },
+  "3274-phaco-mat-da-cat-dich-kinh/images/3274_lidrs-bom-va-hut_Mo-phaco_PMC10058855-Fig2.jpg": {
+   "sha256": "3e4ab42db1f3f7d61ac8737c82deaaa3c386482f8fa8a865a7c6283d66b6c6f1",
+   "size": 169925,
+   "etag": "cfbec40a582ee1117e33cdd7c65f6173"
   }
  },
- "generated_at": "2026-11-22T11:36:44Z"
+ "generated_at": "2026-11-22T13:11:17Z"
 }
