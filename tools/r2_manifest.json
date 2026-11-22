@@ -34585,7 +34585,42 @@
    "sha256": "1318dfb11a41e919c8ca9c4dc008f8ea9a95d81737a5536dfb1825e990b01131",
    "size": 71403,
    "etag": "f2ef2ff9e482095747d4f783128411d1"
+  },
+  "3272-dau-silicone-tre-em/images/composite_ca-15-tuoi.jpg": {
+   "sha256": "a82c74ca41dcf6f4fbecad6f1a958a20dd544a5ad47ab9bf4bfdb084296d5e6d",
+   "size": 108416,
+   "etag": "cf43c56f67aef4f3e0a84b5ee2db32bb"
+  },
+  "3272-dau-silicone-tre-em/images/3272_dau-silicone-tre-em_OCT-PMC13479887-Fig1-CCBY.jpg": {
+   "sha256": "39574fb1b58ed7c855477acb250cb65b9e2255cb301af69bb1ee06315fafd487",
+   "size": 115244,
+   "etag": "a7da9f3a79dea0e7039cd81b3a3d42e5"
+  },
+  "3272-dau-silicone-tre-em/images/3272_dau-silicone-tre-em_KM_Hinh-PMC12366033-Fig2-CCBY.jpg": {
+   "sha256": "d7c56c85cc0c9956080c78774bea6b104b3810d4cac061618e32ca761d5bef05",
+   "size": 61292,
+   "etag": "056ba1f42a15499e1fdf2e3e058d5857"
+  },
+  "3272-dau-silicone-tre-em/images/3272_dau-silicone-tre-em_Day-mat-PMC12077865-Fig2-CCBYNC.jpg": {
+   "sha256": "84309334cf8e9b3943e148d6f5645a74ac4ed0c83b9eba1a85f27bba95f31617",
+   "size": 100878,
+   "etag": "ddd9eff039d20df455b6e5f13c3953d9"
+  },
+  "3272-dau-silicone-tre-em/images/3272_dau-silicone-tre-em_SoDo_CC0.png": {
+   "sha256": "a14f34f45cd805371ae8fe5c8112b8ab9710fa4c04401b96cac4ee5312d11ede",
+   "size": 142651,
+   "etag": "652ebd5790509cfbc0ead6fcc107dcc1"
+  },
+  "3272-dau-silicone-tre-em/images/3272_dau-silicone-tre-em_Day-mat-ROP-PMC6552571-Fig3-CCBYNCSA.jpg": {
+   "sha256": "d92c699327de1829d9a261f68472a2ea5a791b00f95cad527c5529ff20a4fc52",
+   "size": 34089,
+   "etag": "c7962703ad7dea325f87367912f1aefb"
+  },
+  "3272-dau-silicone-tre-em/images/3272_dau-silicone-tre-em_OCT-duoi-vong-mac-PMC12077865-Fig1-CCBYNC.jpg": {
+   "sha256": "7a93501ed128249d0c6ed4903cf308043ff67af4061385795bbdded5fe6a2091",
+   "size": 235512,
+   "etag": "94432bdb8ff54b6ce1cf51b1fc2c270d"
   }
  },
- "generated_at": "2026-11-22T16:36:47Z"
+ "generated_at": "2026-11-22T17:28:01Z"
 }

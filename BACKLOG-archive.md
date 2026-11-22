@@ -2841,3 +2841,7 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 ## 2026-11-22 — bài 3271 (Iridodialysis ở trẻ em)
 - Viết 3271: **10,3%** mắt pháo hoa (**12/117**, trung vị 9 tuổi), **36,4%** tên lửa chai (**4/11**), airsoft **6,3%**; nhược thị sau đục thể thủy tinh **51–57,6%**, **OR 2,4**; **iridodialysis → tăng nhãn áp MUỘN p = 0,007**; góc rẽ **20–94%**, glôcôm **5–20%**; 5 ảnh + 1 composite (CC BY 3.0 / CC BY-NC 4.0).
 - Flip **2325 (3271) → xong**; append **2333 (3277 rách hắc mạc do chấn thương ở trẻ)** đã check_duplicates; R2 upload 6 ảnh; verify PASS 8/8.
+
+## 2026-11-22 — bài 3272 (dầu silicon ở trẻ em)
+- Nguồn: PMID 10406629 (211 mắt), PMID 40122281 (HR 1,52), PMC12366033 (242 mắt), PMC13479887 (≤ 60 ngày), PMC13019722 (RCT 2 vs 6 tháng), PMC12077865 (ca 15 tuổi), PMC6552571 (ROP), PMC13617769 (trục nhãn cầu), PMID 20162296 (IOL nhũ nhi).
+- Ảnh: 3 CC (CC BY/NC/NC-SA) + 1 composite + sơ đồ CC0; flip #2326 → xong; append #3278 (đục TTT bẩm sinh một bên: IOL vs aphakia).
