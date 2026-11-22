@@ -34555,7 +34555,37 @@
    "sha256": "214169e42667ecc4ae0afc544ba013a71f39428de852ecd27d35b8e66bd53133",
    "size": 111300,
    "etag": "cb0abc9fc7ec91c6e424bdcb00fcbcdc"
+  },
+  "3271-iridodialysis-tre-em-khi-nao-khau/images/composite_iridodialysis_tre-em_dung-dap_vs_xuyen-thau.jpg": {
+   "sha256": "4a6ae37f55e706d00197b2313a2dd8f66c7e487eff9baeb5249e84b40c165020",
+   "size": 106589,
+   "etag": "518da77cdfd8a75c6545fcc03405a080"
+  },
+  "3271-iridodialysis-tre-em-khi-nao-khau/images/3271_hyphema_BloodStaining_PMC4741166-Fig3.jpg": {
+   "sha256": "8378d3cd4ae498c2af26b4bc38f1678cdf6f8e21654f6e39b10f077419615ad0",
+   "size": 90344,
+   "etag": "a3f76eb4a4b78833b0649118d8ad0229"
+  },
+  "3271-iridodialysis-tre-em-khi-nao-khau/images/3271_angle-recession_Gonioscopy_PMC4741166-Fig4.jpg": {
+   "sha256": "a332fa70962b459af55921b6a13419bd3ef951b74bfca11042e4dc8a83f13894",
+   "size": 56928,
+   "etag": "b13ee9ac5d614722989150f27743d3e9"
+  },
+  "3271-iridodialysis-tre-em-khi-nao-khau/images/3271_cataract_RosetteChild_PMC4741166-Fig1.jpg": {
+   "sha256": "5dca9bfd53db7aa785b7c3d1acb9fea7b9b4150382ab70c68f0004e7f222570f",
+   "size": 80733,
+   "etag": "e073aa0151a0dfe44fb43d153d5b3334"
+  },
+  "3271-iridodialysis-tre-em-khi-nao-khau/images/3271_iridodialysis_CataractChild_PMC4741166-Fig2.jpg": {
+   "sha256": "761ab8e230c5d82fc9d366171c5b158afc7d36921521aaaa46d5dd216056b0d8",
+   "size": 91089,
+   "etag": "76bd73dfefa2ef3240455d6040d8a05c"
+  },
+  "3271-iridodialysis-tre-em-khi-nao-khau/images/3271_iridodialysis_CorneoscleralChild_PMC10442986-Fig6.jpg": {
+   "sha256": "1318dfb11a41e919c8ca9c4dc008f8ea9a95d81737a5536dfb1825e990b01131",
+   "size": 71403,
+   "etag": "f2ef2ff9e482095747d4f783128411d1"
   }
  },
- "generated_at": "2026-11-22T15:53:52Z"
+ "generated_at": "2026-11-22T16:36:47Z"
 }
