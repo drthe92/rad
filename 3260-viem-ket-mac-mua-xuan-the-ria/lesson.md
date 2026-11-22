@@ -107,7 +107,7 @@ sources: [Europe PMC, PubMed, PMC]
 |---|---|---|
 | 1 | **Tránh dị nguyên, nước mắt nhân tạo không bảo quản, chườm lạnh** | Nền tảng; không đủ kiểm soát viêm rìa |
 | 2 | **Kháng histamine + ổn định mast cell** (ketotifen, olopatadine, epinastine) | Giảm ngứa; **không đủ** khi có **nốt Trantas/khối rìa** |
-| 3 | **Corticoid nhẹ–trung bình, nhịp ngắn** (loteprednol, fluorometholone; prednisolone khi nặng) | **Theo dõi IOP mỗi lần khám**: **glôcôm do corticoid 8,89%** (PMC9773114) và **10,95%** (PMID 39880668); **đục thể thủy tinh 11,41%** |
+| 3 | **Corticoid nhẹ–trung bình, nhịp ngắn** (loteprednol, fluorometholone; prednisolone khi nặng) | **Theo dõi IOP mỗi lần khám**: **glôcôm do corticoid 8,89%** (PMC9773114), **glôcôm 10,95%** và **đục thể thủy tinh do corticoid 11,41%** (PMID 39880668) |
 | 4 | **Tacrolimus 0,1% nhỏ (hoặc mỡ 0,03%)** | Phân tích gộp **17 nghiên cứu/832 bệnh nhân**: **dấu khách quan SMD −0,70** (95% CI −1,28…−0,13); **nhỏ 0,1%: SMD −1,09** (−1,59…−0,59); **triệu chứng SMD −0,86**; **mỡ 0,03%: RR biến cố 0,16** (PMC12343550) |
 | 4b | **Cyclosporine A 0,1% nhũ tương cation (hoặc 1% galenic)** | **101 trẻ**: **17,8%** phải chuyển lên **1%** sau **0,91 ± 0,82 năm**; **tổng điểm ≥ 15** hoặc **điểm dấu ≥ 7** → nguy cơ đáp ứng kém **> 4 lần** (PMC12534624) |
 | 5 | **Corticoid tiêm dưới bao Tenon/sụn mi, corticoid uống ngắn ngày, omalizumab** khi kháng trị | Cân nhắc **theo ca**, kiểm soát IOP/đường huyết; **chưa có thử nghiệm so sánh trực tiếp** ở thể rìa |
