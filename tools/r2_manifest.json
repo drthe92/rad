@@ -34410,7 +34410,52 @@
    "sha256": "5d1a901f94ca1b700a459d69bcf9895b172f0a77522d7bce791a3c2b5f4c1a8a",
    "size": 89560,
    "etag": "41165f7ba10add493968bd9d990a6ecc"
+  },
+  "3266-vo-bao-sau-phaco-iol-ranh-mi/images/3266_ubm-iol-nghieng_UBM_PMC12707385-Fig4.jpg": {
+   "sha256": "b1f9579a75d1f7807f7e0dbe0cfa200e847675332f31f4d6a85b2ad05720447d",
+   "size": 34143,
+   "etag": "4c622bad11c0b53aea139ba64b18f325"
+  },
+  "3266-vo-bao-sau-phaco-iol-ranh-mi/images/3266_ubm-ranh-mi-vs-capture_UBM_PMC12707385-Fig2.jpg": {
+   "sha256": "397c4cdbaab9088f53f10f7da4d788d9b168de16051ff7e35a22cc193e533cfb",
+   "size": 76677,
+   "etag": "433487b2ceb08c1d888e6e89933e59e1"
+  },
+  "3266-vo-bao-sau-phaco-iol-ranh-mi/images/3266_vo-bao-sau-truoc-dat-iol_Mo-phaco_PMC13166750-Fig1.jpg": {
+   "sha256": "7849b0bb07ce6488287eae2da3116fdb8131fb8d90193128e8374c3b4435f6d5",
+   "size": 133183,
+   "etag": "7542a954f4e98729b394b817f5e55779"
+  },
+  "3266-vo-bao-sau-phaco-iol-ranh-mi/images/3266_khong-flutter-mat-hyaloid_Mo-phaco_PMC12665237-Fig2.jpg": {
+   "sha256": "126df3e8d422ad2dfcd19aa034144f863354402685efc3e22920e6e34c27f298",
+   "size": 115639,
+   "etag": "6999a39e76a88af15f6cfbf83aeb9735"
+  },
+  "3266-vo-bao-sau-phaco-iol-ranh-mi/images/3266_flutter-con-hyaloid_Mo-phaco_PMC12665237-Fig1.jpg": {
+   "sha256": "ba6f8b01b7fead8600b18d465be5c792abd85eac5b6392e8568f4ffe23963226",
+   "size": 133550,
+   "etag": "1ab66afc51ea5d1d288cae5def6804a8"
+  },
+  "3266-vo-bao-sau-phaco-iol-ranh-mi/images/3266_iol-trong-tui-tuan6_Mo-phaco_PMC13166750-Fig2.jpg": {
+   "sha256": "f3697b95075ce2ec909b21d16d5a4d3be084788e23c3f093f83fd987041bc579",
+   "size": 181744,
+   "etag": "01f39874d928460162fb416adc2c1f91"
+  },
+  "3266-vo-bao-sau-phaco-iol-ranh-mi/images/3266_vo-bao-sau_Mo-phaco_PMC13738256-Fig2.jpg": {
+   "sha256": "98a6c8d4db1fa385cb650ff2d096c449ac53595e6ee990cbf7a9903abbb50319",
+   "size": 253910,
+   "etag": "00abd87f67562863e7c514639ba64d2f"
+  },
+  "3266-vo-bao-sau-phaco-iol-ranh-mi/images/composite_flutter-vs-khong-flutter.jpg": {
+   "sha256": "3c03cab62dc888d52dc4eeb598c00c75c66acc11979d970b0a6b0224987befb6",
+   "size": 89749,
+   "etag": "decc9316c92023917f6d136b5f8da6e2"
+  },
+  "3266-vo-bao-sau-phaco-iol-ranh-mi/images/3266_zonule-nhan-roi_Mo-phaco_PMC13738256-Fig1.jpg": {
+   "sha256": "9f71021262baa3bca81e99c27bf73c5d888c3a9eaa868fd34ae0a7d146f40e74",
+   "size": 307704,
+   "etag": "2fec9bf1c79e459b731e898faeac4f6b"
   }
  },
- "generated_at": "2026-11-22T09:44:30Z"
+ "generated_at": "2026-11-22T10:47:34Z"
 }
