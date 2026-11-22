@@ -34335,7 +34335,37 @@
    "sha256": "26e3c1ef0eae4e97dac2bd2b6b19071df5ad0369aa0259dae0aea97df4686611",
    "size": 90031,
    "etag": "fcece9bec8c407a744eb97ee4a85c6b8"
+  },
+  "3269-vien-bo-mi-demodex/images/3269_demodex_Meibography_PMC11831939-Fig6.jpg": {
+   "sha256": "44fc8034da21b3f62c31b857edf1e89487666c8929c56b6eff9dd23931adc9c9",
+   "size": 40318,
+   "etag": "7cb79cbde8f12181fc9d27c127fc57f4"
+  },
+  "3269-vien-bo-mi-demodex/images/composite_collarette_chan_vs_dau.jpg": {
+   "sha256": "98e8c1bc00d3d46ed402c20cd8838ddd61699302310ecad6f0d75157cf8a4e3e",
+   "size": 62345,
+   "etag": "0380ea57388d8f60eb27bf65f7dffacc"
+  },
+  "3269-vien-bo-mi-demodex/images/3269_demodex_Microscopy_PMC11329816-Fig2.jpg": {
+   "sha256": "4fdfcb4a754a5990167adc7a057d0a0cf6b167719b678acbc0ea0586e3f5ddd4",
+   "size": 43266,
+   "etag": "73e35810c5e3dbd73aebe9fc0e3ea90e"
+  },
+  "3269-vien-bo-mi-demodex/images/3269_demodex_Collarette_PMC11831939-Fig1.jpg": {
+   "sha256": "5b76765d3b34a5c081b466cf17d2d57a87a4f740da30cb674b0a02b64d5dc444",
+   "size": 43195,
+   "etag": "aa072915e51c17b1186d74539067c510"
+  },
+  "3269-vien-bo-mi-demodex/images/3269_demodex_SlitLamp_PMC11329816-Fig1.jpg": {
+   "sha256": "18cdc66cb24013e79e3dc0d7a49a14a5084031ad75649656fd906076671a9045",
+   "size": 118644,
+   "etag": "1e9a8c821e29c165e9d239fa6b10292b"
+  },
+  "3269-vien-bo-mi-demodex/images/3269_demodex_StaphCollarette_PMC11831939-Fig5.jpg": {
+   "sha256": "ddbdb36f71dda36445a86d91792c99120033414828f479218fb7f69d81323687",
+   "size": 65244,
+   "etag": "0e29d7ba6a2bec5d837b042148c438e6"
   }
  },
- "generated_at": "2026-11-22T06:47:10Z"
+ "generated_at": "2026-11-22T07:56:00Z"
 }
