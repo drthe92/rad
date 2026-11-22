@@ -34645,7 +34645,32 @@
    "sha256": "8d1018ff03088b62b08115db209d6cf8e66d0c1b8df85fcc555e1c1413d9b408",
    "size": 122082,
    "etag": "f368b4ce6c070d112869491066aabd33"
+  },
+  "3276-carcinoma-tuyen-ba-mi/images/3276_carcinoma-tuyen-ba_ConjunctivitisMimic_PMC12473728-Fig1.jpg": {
+   "sha256": "771da53ebbbd62d44f984464d75da5fd2b4ead08f7e56f611edc61791ed6ad6b",
+   "size": 141242,
+   "etag": "d495d72bb2e8dd484c0ba9c911bf695a"
+  },
+  "3276-carcinoma-tuyen-ba-mi/images/3276_carcinoma-tuyen-ba_ClinicalVaried_PMC5848342-Fig1.jpg": {
+   "sha256": "d7f412ce8ec9ce0a48d222f8449630ec81232e6e7dc83dda3ee16f8bc090e6fa",
+   "size": 102680,
+   "etag": "e2a08ec99830d91d8609887071e2199e"
+  },
+  "3276-carcinoma-tuyen-ba-mi/images/3276_carcinoma-tuyen-ba_Histology_PMC5848342-Fig3.jpg": {
+   "sha256": "087c80d4a6b369898b66d3da587ee0a95328cfbddefd492fd2173e792e6a8dc6",
+   "size": 117791,
+   "etag": "b9355a319be8317c48741c864a755923"
+  },
+  "3276-carcinoma-tuyen-ba-mi/images/3276_carcinoma-tuyen-ba_PagetoidHistology_PMC12473728-Fig3.jpg": {
+   "sha256": "7f3e0172c6fc3ad7c123d59360562b61d7b1068a3d2c927f6c3d3bfa36ee6276",
+   "size": 82219,
+   "etag": "2c78c0d3c409405e95127acd24284241"
+  },
+  "3276-carcinoma-tuyen-ba-mi/images/3276_carcinoma-tuyen-ba_ClinicalLowerLid_PMC11962923-Fig1.jpg": {
+   "sha256": "a9dd2ee5d9bb8970ed172c124690a6b0f1e5ae69420c4dd976f3867f37291b71",
+   "size": 467135,
+   "etag": "9cd2a53eec2bc56f12900dc7dda45424"
   }
  },
- "generated_at": "2026-11-22T18:24:24Z"
+ "generated_at": "2026-11-22T19:23:14Z"
 }
