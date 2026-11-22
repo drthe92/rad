@@ -2798,3 +2798,5 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 - 2026-11-21 · BACKLOG: flip **3258** → xong; append **3263** (silicone oil optic neuropathy — đã check_duplicates); chờ viết **111**.
 2026-11-21: viết 3259 (phù cấp giác mạc / acute corneal hydrops) — 5 ảnh CC BY/CC BY-NC-SA/CC BY-NC-ND; verify PASS 8/8, push OK.
 2026-11-21: flip 2314 → xong; thêm 2319 (3264 DMD sau phẫu thuật thể thủy tinh).
+2026-11-22: viết 3264 (bong màng Descemet sau phaco) — 0,044–0,5% phaco vs 60,9% iOCT; 14% C3F8 áp 71,6% (planar 100% vs non-planar 53,7%); HELP; 5 ảnh + 1 composite CC BY/CC BY-NC; verify PASS 8/8, push OK, 1.405 bài.
+2026-11-22: flip 2319 → xong; append 2320 (3265 mảnh thể thủy tinh sót sau phaco — đã check_duplicates); R2 SKIP (chưa có r2.env).
