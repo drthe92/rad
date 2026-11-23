@@ -35255,7 +35255,32 @@
    "sha256": "3ecd38e7cb5abafa61e5097e7205f4dd2465de00e5e713c03940e4bcc07203f8",
    "size": 260987,
    "etag": "566b9b3ad6e41ec38006c7959b9e36fa"
+  },
+  "6202-viem-mo-duoi-da-viem-khop-do-tuy-tre/images/6202_viem-mo-tuy_MRI_PMC11785366-Fig4.jpg": {
+   "sha256": "adb622f8edb04d49495e9e09570107c7d9266751bcf6ac513ccd8f1f52f64d6a",
+   "size": 139767,
+   "etag": "eed00415178ed650a0a77457ffaf7ce7"
+  },
+  "6202-viem-mo-duoi-da-viem-khop-do-tuy-tre/images/6202_viem-mo-tuy_GhostCells_PMC2887527-Fig4.jpg": {
+   "sha256": "fe353338eeaaacea98bc5da2a9052323ec7e1a9f54d7e14682df4942e8b01121",
+   "size": 220455,
+   "etag": "f77be32881d59ae42c77992bc9a131e9"
+  },
+  "6202-viem-mo-duoi-da-viem-khop-do-tuy-tre/images/6202_viem-mo-tuy_CT_PMC12047867-Fig2.jpg": {
+   "sha256": "17a2e52dc9479d612ff9ced647ce0d05c5b485fb0e318bbc02967ce8a8d15260",
+   "size": 79536,
+   "etag": "878101cac17f11eda4e2e9d051b9f3e7"
+  },
+  "6202-viem-mo-duoi-da-viem-khop-do-tuy-tre/images/composite_6202_sieu-am-mri.jpg": {
+   "sha256": "f9ddba753f9dce5e58178ac39f72206e08cacb30dd9c6932b3f5857f8257e7c4",
+   "size": 96785,
+   "etag": "70a4f60dd138a5906e9f116b3efe1e2e"
+  },
+  "6202-viem-mo-duoi-da-viem-khop-do-tuy-tre/images/6202_viem-mo-tuy_SieuAm_PMC11785366-Fig3.jpg": {
+   "sha256": "7cc00125b5a4776ddb5b32e4ef3c1bba735d73ce433a9417d07032413d16ff0c",
+   "size": 168736,
+   "etag": "e3a4e7ed09f3ae58617390d757897817"
   }
  },
- "generated_at": "2026-11-23T19:22:40Z"
+ "generated_at": "2026-11-23T20:40:46Z"
 }
