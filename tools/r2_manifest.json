@@ -35165,7 +35165,37 @@
    "sha256": "90374b7ed19edc5cbaa1858ef14302a6ee9cc8d02e2f3001d4df50be633d5c5c",
    "size": 103102,
    "etag": "e9d85093a924dac04477ffe88e8babbc"
+  },
+  "3296-bat-giu-dong-tu-sau-co-dinh-iol-cung-mac-tre/images/3296_bat-giu-dong-tu_AS-OCT_PMC11921500-Fig2.jpg": {
+   "sha256": "74304032cfc96e5e5626777b0be536916db0ac6a4f9751aabe8c015b34020710",
+   "size": 53226,
+   "etag": "e57203ddb03a6366ed46d73e6e274447"
+  },
+  "3296-bat-giu-dong-tu-sau-co-dinh-iol-cung-mac-tre/images/3296_bat-giu-dong-tu_Slitlamp_PMC5369920-Fig3.jpg": {
+   "sha256": "f2cb870e9f9f3f45fd87c50e5f5e1597ad7aa9c7181db4d481e71a4a76b34534",
+   "size": 121634,
+   "etag": "35b51aa59421ac0cf7e04d5ad3df971f"
+  },
+  "3296-bat-giu-dong-tu-sau-co-dinh-iol-cung-mac-tre/images/3296_bat-giu-dong-tu_Slitlamp_PMC4943309-Fig2.jpg": {
+   "sha256": "53a5595a406a73f8ca60c13538342d774bec8dcb0925f1493939ba9c50929f15",
+   "size": 51934,
+   "etag": "6d203c67f2324e3cc2214a40097e91aa"
+  },
+  "3296-bat-giu-dong-tu-sau-co-dinh-iol-cung-mac-tre/images/3296_bat-giu-dong-tu_Scheimpflug_PMC5369920-Fig2.jpg": {
+   "sha256": "1c744bffecb61a319fa41d61bc5232f043938dc7f744b60c010faec5abc38dad",
+   "size": 83085,
+   "etag": "f5fbb71e5a14ee50c3c96cab1234a9b3"
+  },
+  "3296-bat-giu-dong-tu-sau-co-dinh-iol-cung-mac-tre/images/3296_bat-giu-dong-tu_Slitlamp_PMC8819374-Fig1.jpg": {
+   "sha256": "484134065aa43fc261babe9e53ce79135e43ff1571d90f22979ff3e281081c40",
+   "size": 85729,
+   "etag": "9e0d1aae5b68cfbd3e57169543cdc40f"
+  },
+  "3296-bat-giu-dong-tu-sau-co-dinh-iol-cung-mac-tre/images/composite_3296_as-oct.jpg": {
+   "sha256": "37811293b5ab71d500278c0260d361d24a3417080f6add19193135f9b8fcf018",
+   "size": 97212,
+   "etag": "14663f977c2f241f1b219b8250b80df0"
   }
  },
- "generated_at": "2026-11-23T13:29:17Z"
+ "generated_at": "2026-11-23T16:05:59Z"
 }
