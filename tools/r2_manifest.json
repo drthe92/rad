@@ -35115,7 +35115,32 @@
    "sha256": "328c335996a6698273f80a15798976ee196c7d3b110d52a14a58e99e3a9816c5",
    "size": 96596,
    "etag": "ff7da37576c3f00ec5d949eb75700fa7"
+  },
+  "3294-tre-aphakia-danh-gia-ho-tro-bao-ubm-as-oct/images/3294_ho-tro-bao_UBM_PMC12707385-Fig4.jpg": {
+   "sha256": "b1f9579a75d1f7807f7e0dbe0cfa200e847675332f31f4d6a85b2ad05720447d",
+   "size": 34143,
+   "etag": "4c622bad11c0b53aea139ba64b18f325"
+  },
+  "3294-tre-aphakia-danh-gia-ho-tro-bao-ubm-as-oct/images/3294_ho-tro-bao_UBM_PMC13077139-Fig1.jpg": {
+   "sha256": "d255ebe6a721f4d074faa39b8a352cf6d5d429daae0a1a63b27095c6f725adbd",
+   "size": 51605,
+   "etag": "5a809a39e3375b18a8494ab4d78d2e80"
+  },
+  "3294-tre-aphakia-danh-gia-ho-tro-bao-ubm-as-oct/images/3294_ho-tro-bao_Schematic_PMC13033519-Fig1.jpg": {
+   "sha256": "768dc8095a8d9920a1374b6241e2f0b3bbe7bf5c7da6a3bf776ab189f8c0fbcc",
+   "size": 65997,
+   "etag": "91c4746cbcb35e0251019b0c88a1a069"
+  },
+  "3294-tre-aphakia-danh-gia-ho-tro-bao-ubm-as-oct/images/3294_ho-tro-bao_UBM_PMC12707385-Fig2.jpg": {
+   "sha256": "397c4cdbaab9088f53f10f7da4d788d9b168de16051ff7e35a22cc193e533cfb",
+   "size": 76677,
+   "etag": "433487b2ceb08c1d888e6e89933e59e1"
+  },
+  "3294-tre-aphakia-danh-gia-ho-tro-bao-ubm-as-oct/images/3294_ho-tro-bao_UBM_PMC5354427-Fig1.jpg": {
+   "sha256": "988cf68e4f4a0225784069e603d77a72293a72b7c0baa47387b7aa74ab5a7412",
+   "size": 59622,
+   "etag": "11231998c98b38b220db292a54cc52eb"
   }
  },
- "generated_at": "2026-11-23T10:49:54Z"
+ "generated_at": "2026-11-23T11:52:52Z"
 }
