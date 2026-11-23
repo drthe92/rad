@@ -34785,7 +34785,22 @@
    "sha256": "4fd7ecccee7ec1506970e792519694a8189bd13f9397eaf66f4cd0b56c31489c",
    "size": 520470,
    "etag": "75418919411cceaf2577f92fa5a23f13"
+  },
+  "3281-benh-than-kinh-thi-chan-thuong-tre/images/3281_benh-than-kinh-thi-chan-thuong-tre_OCT-RNFL-GCL_PMC12041581-Fig1.jpg": {
+   "sha256": "1481bf322387064becb5c08a9cab7cf43d37ad445ce6eaea71c9fac339b2f5de",
+   "size": 81177,
+   "etag": "daa1c265fcba537de301f2cdb9c1e760"
+  },
+  "3281-benh-than-kinh-thi-chan-thuong-tre/images/3281_benh-than-kinh-thi-chan-thuong-tre_CT-MRI_PMC12021382-Fig1.jpg": {
+   "sha256": "f714c46110dac94d55911fc9b6934b44dbab4181cc111e45f2798ba05f1436a4",
+   "size": 102229,
+   "etag": "c2fc2336343ab45d65f7d1943b941bd0"
+  },
+  "3281-benh-than-kinh-thi-chan-thuong-tre/images/3281_benh-than-kinh-thi-chan-thuong-tre_Fundus-OCT-VF_PMC13668188-Fig4.webp": {
+   "sha256": "e1738ebac7cebc52c40fa50914bc68d6882b381a8fdc1af6736466d8151a3fc2",
+   "size": 138202,
+   "etag": "c8f9d39a42f29c3a71d17fe8a25eea31"
   }
  },
- "generated_at": "2026-11-22T23:19:20Z"
+ "generated_at": "2026-11-23T00:20:37Z"
 }
