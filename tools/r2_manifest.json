@@ -35065,7 +35065,32 @@
    "sha256": "764eb4e8d35786530d70372144e7e46e238bdc0e0f8a09ddabba32f2988ddb0d",
    "size": 144014,
    "etag": "a527cd53621b63c835496a2d3e006f2a"
+  },
+  "3289-theo-doi-dai-han-sau-viem-noi-nhan-chan-thuong-tre/images/3289_theo-doi-sau-viem-noi-nhan_AS-OCT-synechia_PMC13589642-Fig5.jpg": {
+   "sha256": "208261de6b23e841ff70b0b9fe4bad3d0c4bddd47d2cf05d6534372a517810c1",
+   "size": 110546,
+   "etag": "87a945a57c349e1fe77738bf4724a83c"
+  },
+  "3289-theo-doi-dai-han-sau-viem-noi-nhan-chan-thuong-tre/images/3289_theo-doi-sau-viem-noi-nhan_OCT-hoang-diem-5nam_PMC13589642-Fig6.jpg": {
+   "sha256": "3fa1a33ed8a1638fededba3f0af095063f1a1712236bf5cc5f590229c5d226ce",
+   "size": 149917,
+   "etag": "5e16bf3e1f1b2db48478d164f44c69f1"
+  },
+  "3289-theo-doi-dai-han-sau-viem-noi-nhan-chan-thuong-tre/images/3289_theo-doi-sau-viem-noi-nhan_DenKhe-rach-giac-mac_PMC13589642-Fig1.jpg": {
+   "sha256": "5697c6dcfa58255e44d3bf26e0e49c392938b47132d32b0951da69edfdc4688a",
+   "size": 117611,
+   "etag": "8d7b139aa6a5bda880065f009afb1c79"
+  },
+  "3289-theo-doi-dai-han-sau-viem-noi-nhan-chan-thuong-tre/images/3289_theo-doi-sau-viem-noi-nhan_DenKhe-IOL-Carlevale-5nam_PMC13589642-Fig4.jpg": {
+   "sha256": "dee8bf8fb50d8e7eba4a332e1df05815147e04925effee602fc9df867a6238af",
+   "size": 109445,
+   "etag": "df3f95e1ec5a45cbf58a8e16f1f14368"
+  },
+  "3289-theo-doi-dai-han-sau-viem-noi-nhan-chan-thuong-tre/images/3289_theo-doi-sau-viem-noi-nhan_DenKhe-IOL-Carlevale-8thang_PMC13589642-Fig2.jpg": {
+   "sha256": "1a6ff4ec6056f5e3d5dab4422bcd0ec63ed3a673287679c4903f2f24bae4a9c6",
+   "size": 189919,
+   "etag": "2dd8fa8690bb50a4b232f74f9ee7eece"
   }
  },
- "generated_at": "2026-11-23T08:34:38Z"
+ "generated_at": "2026-11-23T09:34:30Z"
 }
