@@ -35030,7 +35030,42 @@
    "sha256": "6928dca210a645367d2b08dd303185cd5299d9581d73135164e751cc852c5f13",
    "size": 404763,
    "etag": "bc87240d6c57b75e16ebbd6a21f301d2"
+  },
+  "3288-ekc-viem-giac-mac-ket-mac-adenovirus/images/3288_ekc-giac-mac-ket-mac_DenKhe_PMC13274197-Fig3.jpg": {
+   "sha256": "e34ec15ea19c6c6442d479566b72acb629081f6af3b7f107f40d4dca402b611d",
+   "size": 73447,
+   "etag": "7a73a1ff7799664c35c8b4e089fd1cd9"
+  },
+  "3288-ekc-viem-giac-mac-ket-mac-adenovirus/images/3288_ekc-giac-mac-ket-mac_IVCM_PMC6330670-Fig4.jpg": {
+   "sha256": "3edf70f209104cae5fcef09d9e82dac475635ec8f6721ecc54fca1466ddafd27",
+   "size": 86291,
+   "etag": "884ec3c5ea4a19c72c1e127094de54a6"
+  },
+  "3288-ekc-viem-giac-mac-ket-mac-adenovirus/images/3288_ekc-giac-mac-ket-mac_DenKhe_PMC13274197-Fig1.jpg": {
+   "sha256": "7d3c6467b02572f1b0f0f5d98977850b3bf66e5ca1caeea7457bc8a6cba9e78b",
+   "size": 128101,
+   "etag": "cad96970ba5bd5aa35abb029e0f018fd"
+  },
+  "3288-ekc-viem-giac-mac-ket-mac-adenovirus/images/3288_ekc-giac-mac-ket-mac_IVCM_PMC6330670-Fig1.jpg": {
+   "sha256": "c13bf626fd6e7db64bcd736597b0abeda8b3aa70661f16a47a3e1a4244ef2c5e",
+   "size": 47498,
+   "etag": "29e545f3d33a453797e473ea676da2ec"
+  },
+  "3288-ekc-viem-giac-mac-ket-mac-adenovirus/images/3288_ekc-giac-mac-ket-mac_DenKhe_PMC13707637-Fig1.jpg": {
+   "sha256": "cb5c34be0f645a4d24c721497f6c4b8d1bb570872273b2e2dfb372c11524035b",
+   "size": 327156,
+   "etag": "c78fb7af326be24869956666244d7063"
+  },
+  "3288-ekc-viem-giac-mac-ket-mac-adenovirus/images/3288_ekc-giac-mac-ket-mac_DenKhe_PMC13274197-Fig2.jpg": {
+   "sha256": "602dccb0b8dce89e8aa1f53f6c80566d4ee56a828c18889a92e3aaf76524f2b1",
+   "size": 56857,
+   "etag": "fa5ea03aaa9fa18ae9119fa38ef963c0"
+  },
+  "3288-ekc-viem-giac-mac-ket-mac-adenovirus/images/composite_ekc-truoc-sau-corticoid.jpg": {
+   "sha256": "764eb4e8d35786530d70372144e7e46e238bdc0e0f8a09ddabba32f2988ddb0d",
+   "size": 144014,
+   "etag": "a527cd53621b63c835496a2d3e006f2a"
   }
  },
- "generated_at": "2026-11-23T07:44:16Z"
+ "generated_at": "2026-11-23T08:34:38Z"
 }
