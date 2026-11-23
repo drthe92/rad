@@ -2907,3 +2907,5 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 - 2026-11-23 — flip **#2353 (3298)** → xong; append **#2354 (3299)** haptic IOL trong khoang trên hắc mạc (đã check_duplicates).
 - 2026-11-23 **3299** (haptic IOL trong khoang trên hắc mạc sau cố định xuyên củng mạc): 130 haptic — 57,69% rãnh / 20% thể mi / 20% sau thể mi, 50,77% bất đối xứng, nghiêng dọc β = 1,72; CCD 80% ngày 1 → 8% ở 1 tháng; SCH 0,52%, bong võng mạc 1,7%; 3 ảnh CC BY/ND/SA.
 - 2026-11-23 — flip **#2354 (3299)** → xong; append **#2355 (3300)** haptic lộ dưới kết mạc (đã check_duplicates).
+- 2026-11-23 **3300** (haptic lộ/ăn mòn qua kết mạc sau cố định IOL xuyên củng mạc): 14,0% flange lộ dưới kết mạc trên AS-OCT vs 2,1–3,3% có triệu chứng; 278 ± 437 ngày, 43% trên/47% dưới; flange to OR 1,012, WWD OR 0,082; 18/19 (95%) ổn định sau sửa; 4 ảnh + 1 composite CC BY/CC BY-NC-ND.
+- 2026-11-23 — flip **#2355 (3300)** → xong; append **#2356 (3301)** đầu ống dẫn lưu glôcôm lộ qua kết mạc (đã check_duplicates).

@@ -35230,7 +35230,32 @@
    "sha256": "2fc052714baa518a6fa7d4a93d9972478e7655fd0a4e6c162bc6f467c377b913",
    "size": 41985,
    "etag": "e66479e9afd875e150c5f1fef5430634"
+  },
+  "3300-haptic-lo-ket-mac-sau-co-dinh-iol/images/3300_haptic-lo_SoDo_PMC4535536-Fig2.jpg": {
+   "sha256": "27287ea28d71a9cab6a6d6c6c0bab9fae2e5d69eb45cf1791023c6f97b0bbe44",
+   "size": 23884,
+   "etag": "389076af0509dd1043b4fe2e484db843"
+  },
+  "3300-haptic-lo-ket-mac-sau-co-dinh-iol/images/composite_3300_haptic-lo_co-che.jpg": {
+   "sha256": "a03f3a663e41a41d98eceb048ccb80525cc467abd80f122d29a6dc683b9c4670",
+   "size": 87187,
+   "etag": "91452e37781d53436e1b4267ce0825af"
+  },
+  "3300-haptic-lo-ket-mac-sau-co-dinh-iol/images/3300_haptic-lo_Slitlamp_PMC4535536-Fig1.jpg": {
+   "sha256": "c96af5e767c16906ce358e66fa28a06385390d704ac4cee0587b18fec1cc6761",
+   "size": 73006,
+   "etag": "17d68afcfd85286d2194c9d66d506afa"
+  },
+  "3300-haptic-lo-ket-mac-sau-co-dinh-iol/images/3300_haptic-lo_Slitlamp_PMC6461564-Fig4.jpg": {
+   "sha256": "0cccf2c9b1e475f9c60092d6f3ebe991a0de91fe0f78f7d945b73c2088939b4a",
+   "size": 287454,
+   "etag": "b8c541163cc3356a75d7c12a2869b00d"
+  },
+  "3300-haptic-lo-ket-mac-sau-co-dinh-iol/images/3300_haptic-lo_Slitlamp_PMC6461564-Fig7.jpg": {
+   "sha256": "3ecd38e7cb5abafa61e5097e7205f4dd2465de00e5e713c03940e4bcc07203f8",
+   "size": 260987,
+   "etag": "566b9b3ad6e41ec38006c7959b9e36fa"
   }
  },
- "generated_at": "2026-11-23T18:32:23Z"
+ "generated_at": "2026-11-23T19:22:40Z"
 }
