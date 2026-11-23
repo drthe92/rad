@@ -34925,7 +34925,47 @@
    "sha256": "4efd1cdff3aa5bfac0247762d7d22ded8d6758e6cea5fa2bd1c701eebbf228c8",
    "size": 61423,
    "etag": "5ff40f3e2edb97b2ee9b989b8f10b3b7"
+  },
+  "3285-ossn-be-mat-nhan-cau/images/3285_ossn-be-mat-nhan-cau_DenKhe-AS-OCT_PMC12786677-Fig2.jpg": {
+   "sha256": "945067d36852989dbca626a4777dbf06702dd5686a1945a743d854b30e45e013",
+   "size": 53586,
+   "etag": "5e00e7ee1d7dce14384cb8ac302b7255"
+  },
+  "3285-ossn-be-mat-nhan-cau/images/3285_ossn-be-mat-nhan-cau_DenKhe-AS-OCT_PMC12786677-Fig1.jpg": {
+   "sha256": "5e069b1efcfa4f9dcfa93f3ef3152d694f47c7d78fc87b5878cc200853c5c8ad",
+   "size": 49953,
+   "etag": "916795d61d569434accf18326478eac1"
+  },
+  "3285-ossn-be-mat-nhan-cau/images/3285_ossn-be-mat-nhan-cau_Quy-trinh_PMC13017243-Fig1.jpg": {
+   "sha256": "1587c859ce0e47eb65a9ebe36e9bba9e6df171effc14598db44ee87822c90adc",
+   "size": 102887,
+   "etag": "5b5d7664d23dd106f5288527ec985cda"
+  },
+  "3285-ossn-be-mat-nhan-cau/images/3285_ossn-be-mat-nhan-cau_UBM-xam-lan_PMC12786677-Fig6.jpg": {
+   "sha256": "429a1f0d0d417b7c9438610fdc054be0affe5f92aea1a7643b5449e75a26a131",
+   "size": 61313,
+   "etag": "b293eab1f52b3dc089344ecb429c93df"
+  },
+  "3285-ossn-be-mat-nhan-cau/images/composite_ossn-vs-mong-thit.jpg": {
+   "sha256": "c538b31f28dcacfeb383d175a36cfaf90dac9919c4846dc64cb5d81804af08bf",
+   "size": 128259,
+   "etag": "89bcdd2c6a94b9a51d24b867c19e120f"
+  },
+  "3285-ossn-be-mat-nhan-cau/images/3285_ossn-be-mat-nhan-cau_AS-OCT_PMC13017243-Fig3.jpg": {
+   "sha256": "5e0c5061308d5020496547d28e48c22c9e08b4ceb6a4b19362bbf010e09801ed",
+   "size": 102663,
+   "etag": "060d6d008147b8fc051ab6f50b3ba06e"
+  },
+  "3285-ossn-be-mat-nhan-cau/images/3285_ossn-be-mat-nhan-cau_AS-OCT-UBM_PMC13017243-Fig4.jpg": {
+   "sha256": "f295f8b824d513ff9bd354bc9d3d552462032c689a65dede637f747d9b64d7e7",
+   "size": 103701,
+   "etag": "191eb6f75e53bea32c51184ac050027e"
+  },
+  "3285-ossn-be-mat-nhan-cau/images/3285_ossn-be-mat-nhan-cau_IVCM_PMC12786677-Fig7.jpg": {
+   "sha256": "2131779553a44cf41f1f9f21ad70783e12274b52a596a32f307fa29dc4e5afef",
+   "size": 120145,
+   "etag": "67dc155279aefb340bb35b1cc2d991cb"
   }
  },
- "generated_at": "2026-11-23T04:32:18Z"
+ "generated_at": "2026-11-23T05:53:14Z"
 }
