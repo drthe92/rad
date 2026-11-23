@@ -217,6 +217,7 @@ CLASSIFY_4D = {
     "3248": "mat",    # hội chứng xoang câm (silent sinus syndrome) — mắt (hốc mắt – xoang)
     "3252": "mat",    # hội chứng bao chết (dead bag syndrome) — mắt (thể thủy tinh – bao)
     "3294": "mat",    # trẻ aphakia — UBM/AS-OCT đánh giá hỗ trợ bao trước IOL thứ phát
+    "3299": "mat",    # haptic IOL trong khoang trên hắc mạc sau cố định xuyên củng mạc
     "6185": "msk",    # vỡ chuôi khớp háng nhân tạo — thất bại mỏi của implant
     "3145": "nhi",    # chấn thương tụy kín ở trẻ (chấn thương – tiêu hóa nhi)
     "1940": "bung",   # sỏi sót/tái phát & sỏi rơi sau cắt túi mật (gan mật)

@@ -2904,3 +2904,5 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 - 2026-11-23 — flip **#2351 (3296)** → xong; append **#2353 (3298)** hạ nhãn áp sau cố định xuyên củng mạc ở trẻ (đã check_duplicates).
 - 2026-11-23 **3298** (hạ nhãn áp & bệnh hoàng điểm sau cố định IOL xuyên củng mạc ở trẻ): trục nhãn cầu giảm ≥ 2% → OR 11,67; Seidel âm không loại trừ (khe thể mi 12 → 2 giờ, haptic trong khoang trên hắc mạc); C3F8 + nằm ngửa 2–4 → 6 mmHg; laser thể mi 5–6 → 20 mmHg; 4 ảnh CC BY/CC BY-NC-ND.
 - 2026-11-23 — flip **#2353 (3298)** → xong; append **#2354 (3299)** haptic IOL trong khoang trên hắc mạc (đã check_duplicates).
+- 2026-11-23 **3299** (haptic IOL trong khoang trên hắc mạc sau cố định xuyên củng mạc): 130 haptic — 57,69% rãnh / 20% thể mi / 20% sau thể mi, 50,77% bất đối xứng, nghiêng dọc β = 1,72; CCD 80% ngày 1 → 8% ở 1 tháng; SCH 0,52%, bong võng mạc 1,7%; 3 ảnh CC BY/ND/SA.
+- 2026-11-23 — flip **#2354 (3299)** → xong; append **#2355 (3300)** haptic lộ dưới kết mạc (đã check_duplicates).

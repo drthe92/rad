@@ -35215,7 +35215,22 @@
    "sha256": "917c38f88bf0e4a7aa7b79ee7268cf00b1ac82f50dea01089f585fc561904ed7",
    "size": 332824,
    "etag": "849bd236d88e593aaf04355d46f5e1f9"
+  },
+  "3299-haptic-iol-khoang-tren-hac-mac/images/3299_haptic-iol_Bscan_PMC10032286-Fig1.jpg": {
+   "sha256": "1506e94ef4fdc5ccb5fddcef4ecd921f625c7e6b8ed2c1c185935e1b428aff26",
+   "size": 33619,
+   "etag": "4e8fc094e0155b79da72fa50f4cd2ccf"
+  },
+  "3299-haptic-iol-khoang-tren-hac-mac/images/3299_haptic-iol_UBM_PMC12752167-Fig2.jpg": {
+   "sha256": "3e9f8118b26bb66ba01bf07c17ba8aa01a3fa4c6149abe28b7e863804bd47549",
+   "size": 180982,
+   "etag": "a704559d22eb6f5f8d276695468dc7e9"
+  },
+  "3299-haptic-iol-khoang-tren-hac-mac/images/3299_haptic-iol_AS-OCT_PMC11316275-Fig1.jpg": {
+   "sha256": "2fc052714baa518a6fa7d4a93d9972478e7655fd0a4e6c162bc6f467c377b913",
+   "size": 41985,
+   "etag": "e66479e9afd875e150c5f1fef5430634"
   }
  },
- "generated_at": "2026-11-23T17:32:51Z"
+ "generated_at": "2026-11-23T18:32:23Z"
 }
