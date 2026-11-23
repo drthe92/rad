@@ -35280,7 +35280,32 @@
    "sha256": "7cc00125b5a4776ddb5b32e4ef3c1bba735d73ce433a9417d07032413d16ff0c",
    "size": 168736,
    "etag": "e3a4e7ed09f3ae58617390d757897817"
+  },
+  "1974-lac-noi-mac-thanh-bung/images/1974_desmoid-thanh-bung_MRI_PMC6757074.jpg": {
+   "sha256": "8609ede949c8956845a227c6358f6bca3ded097f131feaad8d7992a72a74e48c",
+   "size": 76254,
+   "etag": "90eec841df960d93e556f5b88aa5bcdd"
+  },
+  "1974-lac-noi-mac-thanh-bung/images/composite_lac-noi-mac-vs-desmoid.jpg": {
+   "sha256": "6c60d3e6aa12d4de039f855b2f063a88304f42102278fe13356ea4a5fc998c66",
+   "size": 147218,
+   "etag": "518d67137c7e937ee259ca41fdeb6cd6"
+  },
+  "1974-lac-noi-mac-thanh-bung/images/1974_lac-noi-mac-thanh-bung_MRI-dong-hoc_PMC6757074.jpg": {
+   "sha256": "0efee8f88c90b729b12c5e5f202945e9490c861dc71c3df4b61366d03b67aca3",
+   "size": 60675,
+   "etag": "e4406c6f311c43a80dbedd4c67d7d8d6"
+  },
+  "1974-lac-noi-mac-thanh-bung/images/1974_lac-noi-mac-thanh-bung_MRI-T1-T2_PMC6757074.jpg": {
+   "sha256": "68d6fd2ce6cd874d213a875e73ad36a32a292017c7dbcbede65031c9bd9ebded",
+   "size": 95687,
+   "etag": "e82073bea9a3e966ea565a50bf8e8baf"
+  },
+  "1974-lac-noi-mac-thanh-bung/images/1974_lac-noi-mac-thanh-bung_US-xam-doppler_PMC13754834.webp": {
+   "sha256": "e11edf1c324a99206420c3f7ad4fe49f3031a07ca22c3447c0817dec4918e882",
+   "size": 149924,
+   "etag": "21158989cffec2a388ee95a9aae2897f"
   }
  },
- "generated_at": "2026-11-23T20:40:46Z"
+ "generated_at": "2026-11-23T21:25:09Z"
 }
