@@ -35140,7 +35140,32 @@
    "sha256": "988cf68e4f4a0225784069e603d77a72293a72b7c0baa47387b7aa74ab5a7412",
    "size": 59622,
    "etag": "11231998c98b38b220db292a54cc52eb"
+  },
+  "3295-yag-bao-sau-can-thi-cao-cat-dich-kinh/images/3295_yag-bao-sau-can-thi-cao_Bong-vong-mac_PMC7168856-Fig3.jpg": {
+   "sha256": "19b20a2a23a899c7bb82a1625e99968462b7d2dd88e11c4266a83b87ccba804e",
+   "size": 27414,
+   "etag": "4c3919f0d267408a57c8ad2f20e032cd"
+  },
+  "3295-yag-bao-sau-can-thi-cao-cat-dich-kinh/images/3295_yag-bao-sau-can-thi-cao_PCO-hat-Elschnig_PMC7168856-Fig1.jpg": {
+   "sha256": "9e348e8d740fb787b42bdc476ff139ef60f82cbe5fbbea130a73a16eb5419369",
+   "size": 27122,
+   "etag": "233adf6686c56449f4c6b90b576c0807"
+  },
+  "3295-yag-bao-sau-can-thi-cao-cat-dich-kinh/images/3295_yag-bao-sau-can-thi-cao_PCO-truoc-sau_PMC13676808-Fig1.jpg": {
+   "sha256": "0aff9ab0e023f2f036bb22d06c9b5199fcc7a45ed9b9ba870cad107874675672",
+   "size": 274892,
+   "etag": "2074893e54c1ae9d3bbc24faf6190958"
+  },
+  "3295-yag-bao-sau-can-thi-cao-cat-dich-kinh/images/3295_yag-bao-sau-can-thi-cao_So-do-co-che_PMC13212168-Fig2.jpg": {
+   "sha256": "ccf7202b23c7a37a3c78bebfd4b67597cdedadefddb5e469c22cdcde41de2526",
+   "size": 107371,
+   "etag": "f41ae42ac487fd8bfadffb79d6ae6b70"
+  },
+  "3295-yag-bao-sau-can-thi-cao-cat-dich-kinh/images/3295_yag-bao-sau-can-thi-cao_Lattice-UWF-OCT_PMC12650825-Fig1.jpg": {
+   "sha256": "90374b7ed19edc5cbaa1858ef14302a6ee9cc8d02e2f3001d4df50be633d5c5c",
+   "size": 103102,
+   "etag": "e9d85093a924dac04477ffe88e8babbc"
   }
  },
- "generated_at": "2026-11-23T11:52:52Z"
+ "generated_at": "2026-11-23T13:29:17Z"
 }

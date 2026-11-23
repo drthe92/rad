@@ -2896,3 +2896,4 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 - 2026-11-23 — flip **#2347 (3292)** → xong; append **#2350 (3295)** YAG bao sau ở mắt cận thị cao/đã cắt dịch kính (đã check_duplicates).
 - 2026-11-23 — bài **3294** (trẻ aphakia — UBM/AS-OCT đánh giá hỗ trợ bao trước IOL thứ phát): rãnh vs bao nghiêng dọc 7,08 vs 4,75°, lệch 0,43 vs 0,25 mm, ACD 3,75 vs 4,28 mm, glôcôm 28,6% vs 10,5%; capture cần mở bao nhỏ hơn quang học ≥ 1 mm; 5 ảnh CC BY/BY-NC.
 - 2026-11-23 — flip **#2349 (3294)** → xong; gộp **#2348 (3293)** vào bài 3202 (microsporidia); append **#2351 (3296)** bắt giữ đồng tử sau cố định củng mạc (đã check_duplicates).
+- 2026-11-23 **3295** (YAG bao sau ở mắt cận thị cao): rách 0,21%/bong 0,60% trong 90 ngày, tích lũy 1,39%/12 tháng, nguy cơ tập trung 5 tháng đầu; cận thị cao aOR 12,04, lattice aOR 12,78; 5 ảnh CC BY/CC BY-NC. Flip #2350, mở gap 3297 (gallstone ileus).
