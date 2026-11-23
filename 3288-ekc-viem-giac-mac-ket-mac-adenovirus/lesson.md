@@ -294,7 +294,7 @@ flowchart TD
 - [400 – Tổng quan Mắt & thị giác](../400-tong-quan-mat-thi-giac/lesson.md)
 
 ## Ảnh
-- **5 ảnh nguồn + 1 ảnh ghép**, tải từ **PubMed Central (open access)**, **nguyên bản — không crop, không đổi màu**; ảnh ghép tạo bằng `tools/make_composite.py` (letterbox nền đen, giữ tỉ lệ). Giấy phép: PMC13274197 và PMC13707637 **CC BY 4.0**; PMC6330670 **CC BY 2.5**. Chi tiết trong `images/CREDITS.md`.
+- **6 ảnh nguồn + 1 ảnh ghép**, tải từ **PubMed Central (open access)**, **nguyên bản — không crop, không đổi màu**; ảnh ghép tạo bằng `tools/make_composite.py` (letterbox nền đen, giữ tỉ lệ). Giấy phép: PMC13274197 và PMC13707637 **CC BY 4.0**; PMC6330670 **CC BY 2.5**. Chi tiết trong `images/CREDITS.md`.
 - Tên file: `3288_ekc-giac-mac-ket-mac_<Modality>_<PMCID>-Fig<N>.jpg`.
 - **Không dùng ảnh** từ bài CC BY-NC/CC BY-NC-SA/CC BY-NC-ND (chỉ dùng số liệu: PMC12388293, PMC12024548, PMC8763748, PMC8772485, PMC6329482 là public domain/CC BY nhưng không có hình phù hợp — chỉ dùng số liệu).
 - Không tải ảnh từ nguồn không rõ giấy phép hoặc trang có bản quyền (AuntMinnie, atlas sách).
