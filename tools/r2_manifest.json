@@ -34830,7 +34830,52 @@
    "sha256": "93ddc95e29ba7ddf5e6dcdffcf0c7ece004494b29b69782005b18e855bcb1b69",
    "size": 590640,
    "etag": "790afa273ac3b22bfd22f1469f2a381f"
+  },
+  "3282-melanoma-ket-mac-khong-sac-to/images/3282_melanoma-ket-mac-khong-sac-to_Clinical-TwoNodules_DenKhe_PMC13163445-Fig1.jpg": {
+   "sha256": "5f10f8623d9098eb5ff1d799b5ec55853d72bc05d13ebcb9ec6a8462eb3a7cbf",
+   "size": 60692,
+   "etag": "9b1be6b45c96198c3695123b2fec5edc"
+  },
+  "3282-melanoma-ket-mac-khong-sac-to/images/3282_melanoma-ket-mac-khong-sac-to_MimicPyogenicGranuloma_Clinical_PMC8425498-Fig1.jpg": {
+   "sha256": "ad908ff043d615c25585d26b12d3565fb9d318f02f36bdfaafa9215339f346d2",
+   "size": 149807,
+   "etag": "1e2d065ea403b76a061159b413a47635"
+  },
+  "3282-melanoma-ket-mac-khong-sac-to/images/3282_melanoma-ket-mac-khong-sac-to_Clinical_DenKhe_PMC11826533-Fig1.jpg": {
+   "sha256": "2c0bfc0af9b893fef509eae9f3d00db235b8fca568a89b021d07300a5df76603",
+   "size": 84191,
+   "etag": "a05895ff2406195228d5ff8f25b4a280"
+  },
+  "3282-melanoma-ket-mac-khong-sac-to/images/3282_melanoma-ket-mac-khong-sac-to_EyelidMetastasis_Clinical_PMC13163445-Fig6.jpg": {
+   "sha256": "d21808427ef6393b7330b18e76643f91536a2d39ba27ea423fd829ce0a03aed2",
+   "size": 115401,
+   "etag": "54b2b42407d63fbe274736939a1648af"
+  },
+  "3282-melanoma-ket-mac-khong-sac-to/images/3282_melanoma-ket-mac-khong-sac-to_PalpebralTumor_DenKhe_PMC11370060-Fig2.jpg": {
+   "sha256": "950aef319a9b75245c89369938de2e02c9336439425d5fdc5842faa852d65756",
+   "size": 477755,
+   "etag": "5eb2c4081d434de669d0b2fba6fd3643"
+  },
+  "3282-melanoma-ket-mac-khong-sac-to/images/3282_melanoma-ket-mac-khong-sac-to_RapidGrowth_DenKhe_PMC11370060-Fig7.jpg": {
+   "sha256": "e4ea3c2ac264c63d87942dd228e4259b5c32e137bf5d45fc4a53e443f863cfb4",
+   "size": 887857,
+   "etag": "bd974a5202d6b1f8ec8827cc9d10a6ba"
+  },
+  "3282-melanoma-ket-mac-khong-sac-to/images/3282_melanoma-ket-mac-khong-sac-to_Metastasis_MRI-PETCT_PMC7529790-Fig3.jpg": {
+   "sha256": "cd6e37325ae8424042dcdeac6d890d85ef1a5f2ed1f78b14a070466f49b4b3d3",
+   "size": 151086,
+   "etag": "9d8d5c63cf1241f6a420ee2d4e337a8e"
+  },
+  "3282-melanoma-ket-mac-khong-sac-to/images/3282_melanoma-ket-mac-khong-sac-to_Histology_HE_PMC7529790-Fig1.jpg": {
+   "sha256": "dda4d5dd74124da534994e796bb3a9d565c869721e80cecd547f48ce04cd4a2a",
+   "size": 972889,
+   "etag": "511c7eb24059154594b2ee1840fb565d"
+  },
+  "3282-melanoma-ket-mac-khong-sac-to/images/3282_melanoma-ket-mac-khong-sac-to_SerialRecurrence_DenKhe_PMC13163445-Fig3.jpg": {
+   "sha256": "9751bee623c8bb4d790e4bf691e4e2927e96dab97a9a86a5da1dc56f03abfd11",
+   "size": 148826,
+   "etag": "3f941da53d621d3e0cace90d263320bc"
   }
  },
- "generated_at": "2026-11-23T01:25:03Z"
+ "generated_at": "2026-11-23T02:30:28Z"
 }
