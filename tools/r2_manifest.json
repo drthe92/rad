@@ -34875,7 +34875,42 @@
    "sha256": "9751bee623c8bb4d790e4bf691e4e2927e96dab97a9a86a5da1dc56f03abfd11",
    "size": 148826,
    "etag": "3f941da53d621d3e0cace90d263320bc"
+  },
+  "3283-dut-thi-than-kinh-chan-thuong/images/3283_dut-thi-than-kinh-chan-thuong_CT-MRI_PMC10493133-Fig3.jpg": {
+   "sha256": "fe243874e6d365f9786b4edd927a3db7f0cd51f3a79b1a68f6a7c5194279525e",
+   "size": 67240,
+   "etag": "c58e812b6078ba0474280d2dbeca3060"
+  },
+  "3283-dut-thi-than-kinh-chan-thuong/images/3283_dut-thi-than-kinh-chan-thuong_Fundus-CRAO_PMC5525509-Fig1.jpg": {
+   "sha256": "2fbe987b0eebcbd87b159ce49aa54e87bec0729254f1388e909161a4dd3eda92",
+   "size": 36613,
+   "etag": "cfa8e5c5a99cebaff0b308a1f2d02fb7"
+  },
+  "3283-dut-thi-than-kinh-chan-thuong/images/3283_dut-thi-than-kinh-chan-thuong_Luxation-CT_PMC13078930-Fig1.jpg": {
+   "sha256": "ec504c817beb39345438efb8a288a0d90f2b0d68d2ef59b1fda9944a6d8cf028",
+   "size": 79465,
+   "etag": "edbc14badb38dfb674302a7d113b51a4"
+  },
+  "3283-dut-thi-than-kinh-chan-thuong/images/3283_dut-thi-than-kinh-chan-thuong_Fundus_PMC9249110-Fig1.jpg": {
+   "sha256": "96ea91a7c6bf5c4a3c6670d9e750efd93a47cc0625ea5c57674ff0eb8fb85f08",
+   "size": 59664,
+   "etag": "3813bd61c76d318d1f81f57abcf597fd"
+  },
+  "3283-dut-thi-than-kinh-chan-thuong/images/3283_dut-thi-than-kinh-chan-thuong_US-OCT_PMC11152889-Fig1.jpg": {
+   "sha256": "e4ab4bd315eb02f9136eeb6d9127c0b1d5dd53ca181fd704b2684b45cb7f74e2",
+   "size": 308322,
+   "etag": "da485ee834d721ea5c0871b664182dc8"
+  },
+  "3283-dut-thi-than-kinh-chan-thuong/images/3283_dut-thi-than-kinh-chan-thuong_US_PMC10493133-Fig1.jpg": {
+   "sha256": "b33af29babe7b6b47ab10e90fb975f5c030da87ace7624995ec10072ac823dd8",
+   "size": 99818,
+   "etag": "9f1643ff798b85e8bd8b4c0ccebb3cee"
+  },
+  "3283-dut-thi-than-kinh-chan-thuong/images/3283_dut-thi-than-kinh-chan-thuong_Fundus-VH_PMC8278239-Fig1.jpg": {
+   "sha256": "eec50668a68878f1059528d6fa37595044be0e519d0e2e0091d6136a12c68bcd",
+   "size": 286042,
+   "etag": "b530b71d43a94d6b20c156d5651c7cc7"
   }
  },
- "generated_at": "2026-11-23T02:30:28Z"
+ "generated_at": "2026-11-23T03:28:15Z"
 }
