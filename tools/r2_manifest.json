@@ -34800,7 +34800,37 @@
    "sha256": "e1738ebac7cebc52c40fa50914bc68d6882b381a8fdc1af6736466d8151a3fc2",
    "size": 138202,
    "etag": "c8f9d39a42f29c3a71d17fe8a25eea31"
+  },
+  "3291-doi-iol-sau-ghep-giac-mac/images/3291_doi-iol-sau-ghep-giac-mac_Slit-lamp_PMC11594376-Fig4.jpg": {
+   "sha256": "2442da709bb578f5d4fda6bfda3d579c16adf633905ffe713d406da3cd13db9b",
+   "size": 86732,
+   "etag": "2a437bbce7b7b95ef7fd00f79bc9898c"
+  },
+  "3291-doi-iol-sau-ghep-giac-mac/images/3291_doi-iol-sau-ghep-giac-mac_Slit-lamp_PMC12336521-Fig1.jpg": {
+   "sha256": "2f935671e1b63adfd259f16655f0aff09b62206f05b30463eb24a03e13de8de6",
+   "size": 303198,
+   "etag": "70000934619862ea85a4e332f7e1200e"
+  },
+  "3291-doi-iol-sau-ghep-giac-mac/images/3291_doi-iol-sau-ghep-giac-mac_Slit-lamp_PMC12336521-Fig2.jpg": {
+   "sha256": "73d237a1a02c16ebe8fa20e890c554d27682d50c35715ae4a2fff9d201915e5a",
+   "size": 320881,
+   "etag": "bca7bb889e4870d77b1e887728fee5a0"
+  },
+  "3291-doi-iol-sau-ghep-giac-mac/images/3291_doi-iol-sau-ghep-giac-mac_AS-OCT_PMC12336521-Fig3.jpg": {
+   "sha256": "b5764c726993923d91bd519df0801aba4ccec781781edc0935262e2be63e9510",
+   "size": 202711,
+   "etag": "739c271b2a124358c67b8f7448800116"
+  },
+  "3291-doi-iol-sau-ghep-giac-mac/images/3291_doi-iol-sau-ghep-giac-mac_Mo-hop_PMC12466138-Fig2.jpg": {
+   "sha256": "ea4142c6b3d95334135b37c4f37bb0eb52f0ea91f0d3cf8fcd48eb2715f59d22",
+   "size": 307154,
+   "etag": "08ad12bf270b32b572a859994a9a49d2"
+  },
+  "3291-doi-iol-sau-ghep-giac-mac/images/3291_doi-iol-sau-ghep-giac-mac_Slit-lamp_PMC10336406-Fig2.jpg": {
+   "sha256": "93ddc95e29ba7ddf5e6dcdffcf0c7ece004494b29b69782005b18e855bcb1b69",
+   "size": 590640,
+   "etag": "790afa273ac3b22bfd22f1469f2a381f"
   }
  },
- "generated_at": "2026-11-23T00:20:37Z"
+ "generated_at": "2026-11-23T01:25:03Z"
 }
