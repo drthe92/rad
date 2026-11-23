@@ -35005,7 +35005,32 @@
    "sha256": "9009af43e84e5b2d1621b4eb13b6013f3a8326b6d554af5217f1b477c77413b6",
    "size": 98768,
    "etag": "e7d54326a28c70450c0fd089bd102526"
+  },
+  "3287-phaco-sau-ghep-noi-mo-giac-mac/images/3287_phaco-sau-ghep-noi-mo_AS-OCT_PMC11377527-Fig1.jpg": {
+   "sha256": "4a101d0f4af95249aacc1cc8d8b8aae89b871ed5a9d861be1878c2a7a92a58df",
+   "size": 76189,
+   "etag": "f139f041110a34766ee7b4c744034fe9"
+  },
+  "3287-phaco-sau-ghep-noi-mo-giac-mac/images/3287_phaco-sau-ghep-noi-mo_Mo_DSAEK-PMC6336656-Fig1.jpg": {
+   "sha256": "4c29c965888102f893a2c0a478b5549a6cc632d591d4dbd2c3482ae621ac4876",
+   "size": 75507,
+   "etag": "ad2ff309400919a2fd25f4915727a3ce"
+  },
+  "3287-phaco-sau-ghep-noi-mo-giac-mac/images/3287_phaco-sau-ghep-noi-mo_DenKhe-truoc-sau_PMC6336656-Fig2.jpg": {
+   "sha256": "90b5062574a37975346de4f99ef4a57f556e0053a0df04f797fba4b590f0fab7",
+   "size": 71430,
+   "etag": "e45bc44ae5cd9d02f1eda5d211bcdf24"
+  },
+  "3287-phaco-sau-ghep-noi-mo-giac-mac/images/3287_phaco-sau-ghep-noi-mo_BanDo-bong_PMC9754956-Fig3.jpg": {
+   "sha256": "f2913adb7f40731fba19c121f17d73ba70b5ea82268b0b1db16ca2655c987b87",
+   "size": 357859,
+   "etag": "626455d4bb0bbd03269e3ae85947ff17"
+  },
+  "3287-phaco-sau-ghep-noi-mo-giac-mac/images/3287_phaco-sau-ghep-noi-mo_AS-OCT-bong_PMC12304695-Fig2.jpg": {
+   "sha256": "6928dca210a645367d2b08dd303185cd5299d9581d73135164e751cc852c5f13",
+   "size": 404763,
+   "etag": "bc87240d6c57b75e16ebbd6a21f301d2"
   }
  },
- "generated_at": "2026-11-23T06:49:55Z"
+ "generated_at": "2026-11-23T07:44:16Z"
 }
