@@ -35195,7 +35195,27 @@
    "sha256": "37811293b5ab71d500278c0260d361d24a3417080f6add19193135f9b8fcf018",
    "size": 97212,
    "etag": "14663f977c2f241f1b219b8250b80df0"
+  },
+  "3298-ha-nhan-ap-hoang-diem-sau-co-dinh-iol-tre/images/3298_ha-nhan-ap_OCT-PE_PMC8858868-Fig2.jpg": {
+   "sha256": "73d8bc3d4a914725d25a864d348758207dd1cf7af30f35daa0a3ab4ec0ba96bc",
+   "size": 195615,
+   "etag": "a15c2befa2e61182b4e6113aa78da39c"
+  },
+  "3298-ha-nhan-ap-hoang-diem-sau-co-dinh-iol-tre/images/3298_ha-nhan-ap_Bscan_PMC9396541-Fig2.jpg": {
+   "sha256": "6756b7233344a91300f478c2f4bacc81aba303717b5643e792daef0b5fcd79f7",
+   "size": 310065,
+   "etag": "5c122b455a65287e6e624f1911058048"
+  },
+  "3298-ha-nhan-ap-hoang-diem-sau-co-dinh-iol-tre/images/3298_ha-nhan-ap_Optos-FAF_PMC9396541-Fig1.jpg": {
+   "sha256": "b142aeedf15a723539064c3f137d3d32e4429b3bb3b0f29e10695600096ce9b3",
+   "size": 304825,
+   "etag": "f1c83cfa32c28a9206cbfde0702f9ece"
+  },
+  "3298-ha-nhan-ap-hoang-diem-sau-co-dinh-iol-tre/images/3298_ha-nhan-ap_OCT-UBM_PMC8889342-Fig2.jpg": {
+   "sha256": "917c38f88bf0e4a7aa7b79ee7268cf00b1ac82f50dea01089f585fc561904ed7",
+   "size": 332824,
+   "etag": "849bd236d88e593aaf04355d46f5e1f9"
   }
  },
- "generated_at": "2026-11-23T16:05:59Z"
+ "generated_at": "2026-11-23T17:32:51Z"
 }

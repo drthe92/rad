@@ -1,0 +1,23 @@
+# Nguồn gốc — 3298-ha-nhan-ap-hoang-diem-sau-co-dinh-iol-tre
+
+> Hạ nhãn áp và bệnh hoàng điểm do hạ nhãn áp sau cố định IOL xuyên củng mạc ở trẻ: cơ chế **thành mắt lún vào** (giảm trục nhãn cầu, không phải hắc mạc dày), ba cửa thoát dịch (ngoại – nội – suy thể mi), bộ ba hình ảnh **UBM – OCT hoàng điểm dọc – siêu âm B**, và trình tự xử lý **khâu – bơm khí – laser thể mi – cyclopexy**. Quét nguồn 11/2026 (Europe PMC REST + PMC full text + PubMed).
+
+| # | Nguồn | Tiêu đề / nội dung dùng | Link gốc | Giấy phép ảnh | Tải về? |
+|---|---|---|---|---|---|
+| 1 | Am J Ophthalmol Case Rep 2022 (**PMC8889342**) | **2 ca** hạ nhãn áp + nếp hằn sau **Yamane**: UBM thấy **khe thể mi 12 → 2 giờ**, **haptic trong khoang trên hắc mạc**; **laser thể mi 810 nm** (**18 điểm, 2200–2800 mW, 1500 ms**) đóng khe — ca 1 nhãn áp **5–6 → 20 mmHg** (có **tăng 50 mmHg sau 9 ngày**), ca 2 **1–4 → 9–14 mmHg** trong **8 tháng** | https://pmc.ncbi.nlm.nih.gov/articles/PMC8889342/ | **CC BY-NC-ND 4.0** | `images/3298_ha-nhan-ap_OCT-UBM_PMC8889342-Fig2.jpg` (Fig. 2) |
+| 2 | Am J Ophthalmol Case Rep 2022 (**PMC8858868**) | **Bơm C3F8 50%** (1 mL, còn **~0,5 mL = 30%** buồng dịch kính) + **nằm ngửa** cho hạ áp sau cố định xuyên củng mạc trên **VKH**: nhãn áp **2–4 → 6 mmHg** sau 6 ngày, **8 mmHg** lúc 3 tháng | https://pmc.ncbi.nlm.nih.gov/articles/PMC8858868/ | **CC BY-NC-ND 4.0** | `images/3298_ha-nhan-ap_OCT-PE_PMC8858868-Fig2.jpg` (Fig. 2) |
+| 3 | Am J Ophthalmol Case Rep 2022 (**PMC9396541**) | Trẻ **17 tuổi**, cận thị **−14 D**, ROP đã laser: **chèn ép mắt về đêm** bằng tai nghe bó sát → **bệnh hoàng điểm do hạ áp + bong hắc mạc**; nhãn áp **10 mmHg**; hắc mạc **2,3 so với 1,04 mm**; **590 → 272 µm sau 1 tuần** | https://pmc.ncbi.nlm.nih.gov/articles/PMC9396541/ | **CC BY 4.0** | `images/3298_ha-nhan-ap_Optos-FAF_PMC9396541-Fig1.jpg` (Fig. 1), `..._Bscan_PMC9396541-Fig2.jpg` (Fig. 2) |
+| 4 | Ophthalmol Ther 2015 (**PMC4675727**) | Tổng quan: hạ áp thống kê **< 6,5 mmHg** (3 SD), hạ áp lâm sàng; bệnh hoàng điểm **tới 20%** sau mổ lọc; nguy cơ **nam, tuổi trẻ, cận thị**; điều trị theo nguyên nhân | https://pmc.ncbi.nlm.nih.gov/articles/PMC4675727/ | chỉ số liệu (ảnh không dùng) | dẫn link |
+| 5 | PLoS One 2018 (**PMC5786308**) | **77 mắt** sau mổ lọc: **14 mắt** bệnh hoàng điểm; trục nhãn cầu giảm **2,8% so với 0,7%**, **≥ 2% → OR 11,67** (1,28–106,6; p = 0,03); **không khác độ dày hắc mạc** | https://pmc.ncbi.nlm.nih.gov/articles/PMC5786308/ | chỉ số liệu | dẫn link |
+| 6 | Surv Ophthalmol 2025 (**PMID 39672475**, DOI 10.1016/j.survophthal.2024.12.001) | Phân tích gộp **51 nghiên cứu** cố định IOL xuyên củng mạc không khâu: **hạ nhãn áp 5,5%** ở kỹ thuật đường hầm củng mạc; so sánh đường hầm – dán keo – flange | https://doi.org/10.1016/j.survophthal.2024.12.001 | chỉ số liệu | dẫn link |
+| 7 | Eur J Ophthalmol 2021 (**PMID 33073609**, DOI 10.1177/1120672120965493) | **45 mắt/43 trẻ** cố định củng mạc: **hạ nhãn áp thoáng qua 3 mắt (6,7%)**, xuất huyết dịch kính 7 mắt, tăng nhãn áp 4 mắt, lộ/đứt haptic **9%** | https://doi.org/10.1177/1120672120965493 | chỉ số liệu | dẫn link |
+| 8 | Br J Ophthalmol 2026 (**DOI 10.1136/bjo-2024-327028**) | Phân tích gộp **33 nghiên cứu/1.531 mắt** 1–18 tuổi: tăng nhãn áp thoáng qua **8,1%**, glôcôm **0,31%**, đứt/ăn mòn chỉ **1,19%**, mổ lại **5,3%** (dán keo); **hạ nhãn áp không thuộc bộ kết cục** | https://doi.org/10.1136/bjo-2024-327028 | chỉ số liệu | dẫn link |
+| 9 | BMC Ophthalmol 2026 (**PMC13248399**, DOI 10.1186/s12886-026-05001-6) | **36 mắt/19 trẻ** ectopia lentis, tuổi trung bình **5,1**, theo dõi **6,5 năm**: sa IOL **14%** số mắt, tích lũy **7% ở 5 năm / 16% ở 10 năm** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13248399/ | chỉ số liệu | dẫn link |
+| 10 | Am J Ophthalmol Case Rep 2021 (**PMC8044648**, DOI 10.1016/j.ajoc.2021.101076) | Bệnh hoàng điểm do hạ áp **chỉ thấy trên raster DỌC** — lý do bắt buộc dùng vertical raster | https://pmc.ncbi.nlm.nih.gov/articles/PMC8044648/ | chỉ số liệu | dẫn link |
+| 11 | Int J Ophthalmol 2023 (**PMC10626357**, DOI 10.18240/ijo.2023.11.08) | **26 mắt/15 trẻ Marfan**, cố định xuyên củng mạc không khâu: bắt giữ đồng tử **8/26**; dùng làm bối cảnh nhóm nguy cơ | https://pmc.ncbi.nlm.nih.gov/articles/PMC10626357/ | chỉ số liệu | dẫn link |
+
+## Ghi chú
+
+- Bài này **không dùng ảnh từ nguồn không OA**; các mục 4–11 chỉ lấy **số liệu từ toàn văn/abstract**.
+- **Không ghi tên tác giả** trong CREDITS/lesson: chưa đối chiếu trực tiếp danh sách tác giả trên trang bài gốc; attribution = **tạp chí + năm + PMCID/DOI**.
+- Dữ liệu **nhi** trực tiếp về hạ nhãn áp sau cố định xuyên củng mạc rất mỏng (chỉ 3/45 mắt trong một đoàn hệ); phần cơ chế và ngưỡng trục nhãn cầu là **người lớn**, đã ghi **[suy luận]** khi áp sang trẻ.
