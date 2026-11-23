@@ -34965,7 +34965,47 @@
    "sha256": "2131779553a44cf41f1f9f21ad70783e12274b52a596a32f307fa29dc4e5afef",
    "size": 120145,
    "etag": "67dc155279aefb340bb35b1cc2d991cb"
+  },
+  "3286-viem-noi-nhan-sau-chan-thuong-mat-ho/images/3286_viem-noi-nhan-sau-chan-thuong_DenKhe-BScan_PMC11347439-Fig1.jpg": {
+   "sha256": "623ef620ca7ee642bd6b42e2868bdd599c6cc2abb6e4e43d0cc6f7e510e9992b",
+   "size": 70043,
+   "etag": "678077f4db28f6ddfd1caf1b85800d26"
+  },
+  "3286-viem-noi-nhan-sau-chan-thuong-mat-ho/images/3286_viem-noi-nhan-sau-chan-thuong_DenKhe-siderosis_PMC10924439-Fig1.jpg": {
+   "sha256": "79f03b41106209cde9f88e876a356efc8b0b2810b4f67b764433bcb12bc2300a",
+   "size": 101723,
+   "etag": "93b870b6979599a6a3e3c73a2e826d14"
+  },
+  "3286-viem-noi-nhan-sau-chan-thuong-mat-ho/images/3286_viem-noi-nhan-sau-chan-thuong_DenKhe-IOFB-trong-thuy-tinh_PMC13298824-Fig1.jpg": {
+   "sha256": "8d567ca33158e821a9092dcb21af8b4a5338e6a58cb921b4c23231817b980666",
+   "size": 89457,
+   "etag": "4a61030a952268972c1295223be25eac"
+  },
+  "3286-viem-noi-nhan-sau-chan-thuong-mat-ho/images/3286_viem-noi-nhan-sau-chan-thuong_CT-IOFB-kim-loai_PMC9458393-Fig4.jpg": {
+   "sha256": "69febb006a64c7a456d353d46c762731a6dffb11b6d9b69a2c24b3f79ea0caed",
+   "size": 87258,
+   "etag": "60d28b86db3ae29d13e3cd8c10370d0b"
+  },
+  "3286-viem-noi-nhan-sau-chan-thuong-mat-ho/images/3286_viem-noi-nhan-sau-chan-thuong_CT-hai-IOFB_PMC10924439-Fig2.jpg": {
+   "sha256": "e876b356dc9500978736c7796a2da326303f4830adb16e4fcebecb8ef1cb13c1",
+   "size": 58654,
+   "etag": "24acd5a15b816c19703a0a213b111cfe"
+  },
+  "3286-viem-noi-nhan-sau-chan-thuong-mat-ho/images/3286_viem-noi-nhan-sau-chan-thuong_BScan-Bacillus_PMC4757555-Fig3.jpg": {
+   "sha256": "3f67d68f94abab8ab2883d22ff565abf792a3c81f07cedaf22aecbb42050af91",
+   "size": 44225,
+   "etag": "4d59314b21c43159c1f7d0bea2c5eb03"
+  },
+  "3286-viem-noi-nhan-sau-chan-thuong-mat-ho/images/3286_viem-noi-nhan-sau-chan-thuong_DenKhe-nam_PMC12516872-Fig4.jpg": {
+   "sha256": "25a5a20b96dc553b31607fea80a97f826ba08afca487f9cf33229dd528028d03",
+   "size": 560588,
+   "etag": "3e61d40d065a2919cabc46b4a0fe18e2"
+  },
+  "3286-viem-noi-nhan-sau-chan-thuong-mat-ho/images/3286_viem-noi-nhan-sau-chan-thuong_DenKhe-BScan_PMC5637324-Fig1.jpg": {
+   "sha256": "9009af43e84e5b2d1621b4eb13b6013f3a8326b6d554af5217f1b477c77413b6",
+   "size": 98768,
+   "etag": "e7d54326a28c70450c0fd089bd102526"
   }
  },
- "generated_at": "2026-11-23T05:53:14Z"
+ "generated_at": "2026-11-23T06:49:55Z"
 }
