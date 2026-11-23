@@ -35090,7 +35090,32 @@
    "sha256": "1a6ff4ec6056f5e3d5dab4422bcd0ec63ed3a673287679c4903f2f24bae4a9c6",
    "size": 189919,
    "etag": "2dd8fa8690bb50a4b232f74f9ee7eece"
+  },
+  "3292-duc-bao-sau-yag-sau-ghep-noi-mo/images/3292_pco-yag_AS-OCT_PMC8597509.jpg": {
+   "sha256": "c75e2e4560286171224e82944379a0e989da14250065558ee9b2d2c76d7b098a",
+   "size": 75829,
+   "etag": "35e3391efe8459ebf199fa36744d0f2c"
+  },
+  "3292-duc-bao-sau-yag-sau-ghep-noi-mo/images/composite_pco-vs-aco.jpg": {
+   "sha256": "d69651d53cfa2120b8f1f7401a6c3ec85777ac0cbe7bf3a5c561036c594cebff",
+   "size": 119906,
+   "etag": "a81fa0c1d1c4ec16d046b35341639aca"
+  },
+  "3292-duc-bao-sau-yag-sau-ghep-noi-mo/images/3292_pco-yag_Retroillumination_Wikimedia-ACO.jpg": {
+   "sha256": "cc66cda06faf13067e9b577af4045f0e6b171036fe012f8db8336078278baeba",
+   "size": 246510,
+   "etag": "95b401cb54768ba0b95d2dad69953779"
+  },
+  "3292-duc-bao-sau-yag-sau-ghep-noi-mo/images/3292_pco-yag_YAG-before-after_PMC13676808.jpg": {
+   "sha256": "ec078d7202036c5ccc9ae1eaf4e8713516481f8de6fb9adccb1e2bfa06b0aaa9",
+   "size": 204165,
+   "etag": "c2b21cce8d65566ac3f551a49e76fd9b"
+  },
+  "3292-duc-bao-sau-yag-sau-ghep-noi-mo/images/3292_pco-yag_Retroillumination_Wikimedia-Ahuja.jpg": {
+   "sha256": "328c335996a6698273f80a15798976ee196c7d3b110d52a14a58e99e3a9816c5",
+   "size": 96596,
+   "etag": "ff7da37576c3f00ec5d949eb75700fa7"
   }
  },
- "generated_at": "2026-11-23T09:34:30Z"
+ "generated_at": "2026-11-23T10:49:54Z"
 }
