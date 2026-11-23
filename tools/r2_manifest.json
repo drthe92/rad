@@ -34910,7 +34910,22 @@
    "sha256": "eec50668a68878f1059528d6fa37595044be0e519d0e2e0091d6136a12c68bcd",
    "size": 286042,
    "etag": "b530b71d43a94d6b20c156d5651c7cc7"
+  },
+  "3284-ghep-noi-mo-giac-mac-ong-dan-luu/images/3284_ghep-noi-mo-giac-mac-ong-dan-luu_Slit-lamp_PMC9007781-Fig4.jpg": {
+   "sha256": "2d02a95d324058845c9359647643ed9f5de13ef47ee2b69163f94a2dfe15a106",
+   "size": 118869,
+   "etag": "81c7745bb0b1ab656e2b26908395fcb7"
+  },
+  "3284-ghep-noi-mo-giac-mac-ong-dan-luu/images/3284_ghep-noi-mo-giac-mac-ong-dan-luu_Slit-lamp_PMC3520588-Fig1.jpg": {
+   "sha256": "bbf28e30fb464ebe6c7d8aa4ee566e191765b1b1333ba5fa95d2ccf730530d08",
+   "size": 84405,
+   "etag": "e9d9b34d69b8d3c56cb9d366caaf1326"
+  },
+  "3284-ghep-noi-mo-giac-mac-ong-dan-luu/images/3284_ghep-noi-mo-giac-mac-ong-dan-luu_AS-OCT_PMC10814678-Fig13.jpg": {
+   "sha256": "4efd1cdff3aa5bfac0247762d7d22ded8d6758e6cea5fa2bd1c701eebbf228c8",
+   "size": 61423,
+   "etag": "5ff40f3e2edb97b2ee9b989b8f10b3b7"
   }
  },
- "generated_at": "2026-11-23T03:28:15Z"
+ "generated_at": "2026-11-23T04:32:18Z"
 }

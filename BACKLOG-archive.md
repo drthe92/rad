@@ -2872,3 +2872,5 @@ BACKLOG: flip #2235 → xong; append #2247 (ID 3218 lác do đai vòng quanh, đ
 - 2026-11-23 — flip **#2343 (3282)** → xong; append **#9452 (3285)** OSSN (đã check_duplicates).
 - 2026-11-23 · **3283 đứt thị thần kinh do chấn thương** — 7 ảnh CC BY/BY-NC/ND; **44 mắt/43 ca: NLP lúc vào 77,3% → kết thúc ~79%**, **18,2% vật kim loại/16% TNGT**; CT âm tính không loại trừ → **MRI T2 fat-sat** dây giãn/mất bao, B-scan **mất chữ V**; đứt một phần **20/2400 → 20/150**.
 - 2026-11-23 — flip **#2344 (3283)** → xong; append **#2345 (3286)** viêm nội nhãn sau chấn thương hở (đã check_duplicates); verify PASS 8/8.
+- 2026-11-23 · **3284 ghép nội mô ở mắt có ống dẫn lưu** — 3 ảnh CC BY/BY-NC; bong quanh ống **18,5–31,3%**, TTE **> 150 µm**, cắt ngắn ống **−12,2 → −3,5%/năm**, sống 4 năm **27% vs 88%**, bơm khí liên tục **30 mmHg × 10 phút → bong 0% vs 33,3%**.
+- 2026-11-23 — flip **#9451 (3284)** → xong; append **#9510 (3287)** phaco sau ghép nội mô (đã check_duplicates).
