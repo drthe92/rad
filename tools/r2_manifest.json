@@ -35565,7 +35565,42 @@
    "sha256": "aa94b416cf576440c266093ea169816074fd3a92eebffb793303c9211b5326d4",
    "size": 254013,
    "etag": "a881f34ebed5ce4837244674f9382ad7"
+  },
+  "3151-stent-duong-tho-sau-ghep-phoi/images/3151_stent-phan-huy_NS_PMC11094873-Fig3.jpg": {
+   "sha256": "fa5c729ba03e0838301aaeedd79154d23b2ce52b0b44b6654e04fa4006314f06",
+   "size": 85429,
+   "etag": "590e9b3598ad104ace49fc15298ee306"
+  },
+  "3151-stent-duong-tho-sau-ghep-phoi/images/3151_stent-kim-loai-phu_FB_PMC5061944-Fig1.jpg": {
+   "sha256": "b39ab97ef53f9caf60ef9e5e1b4a33836475ca8f2fccfdf2f1d588c96d67b0b0",
+   "size": 31306,
+   "etag": "0d4a27c48f350add2a8306559b47b96a"
+  },
+  "3151-stent-duong-tho-sau-ghep-phoi/images/3151_hoa-hat_NS_PMC11094873-Fig5.jpg": {
+   "sha256": "023edcb0138b89f4528dcfadd370b19b03ddd6dcfd2c71d1598fbfda50e64e29",
+   "size": 81738,
+   "etag": "a5c5812e63e472eaf52b2882f6ce82fa"
+  },
+  "3151-stent-duong-tho-sau-ghep-phoi/images/3151_stent-silicone_NS_PMC7808444-Fig2.jpg": {
+   "sha256": "ef5004b3c13fc1e47998802d64ec6cb3de828869c604ab49b724e5b2d69f4f16",
+   "size": 102675,
+   "etag": "d8c099da01b0278f0a2947c6c30396ca"
+  },
+  "3151-stent-duong-tho-sau-ghep-phoi/images/3151_stent-phan-huy_NS_PMC11776313-Fig4.jpg": {
+   "sha256": "a3200b9ecf222d326b5e735b8d792662d6dda68eced14c8cdb5d9a3b73fd8159",
+   "size": 94661,
+   "etag": "2a8eff61c3dd38682fa8f04b8a938444"
+  },
+  "3151-stent-duong-tho-sau-ghep-phoi/images/composite_3151_ba-loai-stent.jpg": {
+   "sha256": "12efc3c7e687d7f9cc6f56af694d41de369fc2b633397cf028e2df82f5bb8d63",
+   "size": 103974,
+   "etag": "dcf16746199a2b653862a70024dc0615"
+  },
+  "3151-stent-duong-tho-sau-ghep-phoi/images/3151_stent-di-lech_CT_PMC13700277-Fig1.jpg": {
+   "sha256": "2b4ae2b47647567cb9c634eee8751a6cf2c8dc93d248c2fa495331e4ffd5c050",
+   "size": 508472,
+   "etag": "ecfe8eae02660996551d94dc573c6b6c"
   }
  },
- "generated_at": "2026-11-24T20:21:58Z"
+ "generated_at": "2026-11-24T21:23:40Z"
 }
