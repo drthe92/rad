@@ -35360,7 +35360,27 @@
    "sha256": "94e834bec0332a6fb185570c0f4fafc70d419010d03c8dbf6019c851fa9ac44b",
    "size": 189924,
    "etag": "8bbae963a2dfa2c66160491d90bebd59"
+  },
+  "754-tmt-co-thai-duong-sarcopenia/images/754_tmt-co-thai-duong_ba-chi-so_MRI_PMC13743311.webp": {
+   "sha256": "2980fa7e411b34288a8c3728bc47b36b7138fcd4a79494df023f95eb9d956e59",
+   "size": 57074,
+   "etag": "19ddafb84d80dc7b0dbafe179ffbe6f3"
+  },
+  "754-tmt-co-thai-duong-sarcopenia/images/754_tmt-co-thai-duong_thap-vs-cao_CT_PMC8492642.jpg": {
+   "sha256": "d3fe489111ed4000494d42265ab5c4dac2dc5a1fbeed99f84c64edd705cbace7",
+   "size": 221878,
+   "etag": "dd43d486466b70401f1b33d01289fcc2"
+  },
+  "754-tmt-co-thai-duong-sarcopenia/images/754_tmt-co-thai-duong_do-luong_CT-MRI_PMC8492642.jpg": {
+   "sha256": "d68f2316f01727bc6017cc6762a69e8543881204bc4c0a1d33b1d589698a65ac",
+   "size": 144552,
+   "etag": "96e6902b393754b43f579e3abc87e556"
+  },
+  "754-tmt-co-thai-duong-sarcopenia/images/754_tmt-co-thai-duong_vs-SMA-L3_CT-MRI_PMC9758090.jpg": {
+   "sha256": "57c06a2654990a29bbdcfd06783b47bf6d37e93ac29d0e028ccebfc801b8382d",
+   "size": 171189,
+   "etag": "3e823d0652b6220c8c016426d32da06a"
   }
  },
- "generated_at": "2026-11-24T06:55:55Z"
+ "generated_at": "2026-11-24T08:53:47Z"
 }
