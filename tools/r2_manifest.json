@@ -35330,7 +35330,37 @@
    "sha256": "c7f019490187778687c69dfa922610456b915cb5698bd03c35afed83f1e83f15",
    "size": 81766,
    "etag": "b1dcb687d6a1db673f39ffe420ff631a"
+  },
+  "6191-thung-ot-tieu-hoa-o-tre-khi-tu-do/images/6191_thung-ot-tieu-hoa_US_PMC13595053.jpg": {
+   "sha256": "cd2a62f7be6aa56bf21d19f1b9d3e47cd7715a8ed1b1f2e082b01aae0aa2e1b6",
+   "size": 137078,
+   "etag": "eaf7f69bc06f162e1f948640cf849c14"
+  },
+  "6191-thung-ot-tieu-hoa-o-tre-khi-tu-do/images/6191_thung-ot-tieu-hoa_CT_PMC13595053.jpg": {
+   "sha256": "771a92cf64fc5ea2a0ef6278be38d86b162fa1a717e20f1f1ca4b30685635098",
+   "size": 258180,
+   "etag": "df68f195592ba719cc21a606708df681"
+  },
+  "6191-thung-ot-tieu-hoa-o-tre-khi-tu-do/images/6191_thung-ot-tieu-hoa_XR_PMC13403010.jpg": {
+   "sha256": "ae458edb549100c17a3f3db03580dae2f908a2b3fc8550fff0808016a8fdb5ae",
+   "size": 80828,
+   "etag": "c944ea081b69773068dd5cf0e08eb64f"
+  },
+  "6191-thung-ot-tieu-hoa-o-tre-khi-tu-do/images/6191_thung-ot-tieu-hoa_XR-Rigler_PMC13595053.jpg": {
+   "sha256": "2ade54a6ef2444b9b9c10518b8834b584a77849d5210dcc7b3c66f1f6f984782",
+   "size": 217407,
+   "etag": "1cb280f2e8055af937aaba66746cebbb"
+  },
+  "6191-thung-ot-tieu-hoa-o-tre-khi-tu-do/images/6191_thung-ot-tieu-hoa_US_PMC12708678.jpg": {
+   "sha256": "9eb4922801addbc1913ff3169a606d4f03c7bb853583e1e0766febe1b613cf81",
+   "size": 100654,
+   "etag": "cd3aa61b1df387e5faea36b92ab401a8"
+  },
+  "6191-thung-ot-tieu-hoa-o-tre-khi-tu-do/images/composite_khi-tu-do_3-phuong-thuc.jpg": {
+   "sha256": "94e834bec0332a6fb185570c0f4fafc70d419010d03c8dbf6019c851fa9ac44b",
+   "size": 189924,
+   "etag": "8bbae963a2dfa2c66160491d90bebd59"
   }
  },
- "generated_at": "2026-11-24T05:13:03Z"
+ "generated_at": "2026-11-24T06:55:55Z"
 }
