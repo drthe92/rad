@@ -35540,7 +35540,32 @@
    "sha256": "02ba342743c58d98d02c3ad04ed9075a4ed5c90fb5cb7528dae0b020563e81ae",
    "size": 154275,
    "etag": "17da6fc7fb18e7e6eeb5e81eef7ab338"
+  },
+  "3199-nang-gia-tuy-va-WON-thai-ky/images/3199_nang-gia-tuy-thai_CT_PMC11577703-Fig1.jpg": {
+   "sha256": "10fceb4e0b6518a5023748a2325866242fe2ead7019c293a01bf73ec5835ffdb",
+   "size": 51079,
+   "etag": "f5a6a9adaf6827453f076fddddb8bf02"
+  },
+  "3199-nang-gia-tuy-va-WON-thai-ky/images/3199_MRCP-duct_CT-PMC13046431-Fig1.jpg": {
+   "sha256": "25019eb37b31d9afbf515d3dc6a0c643d19cb4d6cdf9a5760d8384667a9b7be8",
+   "size": 52305,
+   "etag": "e0389de6c8717332a41c7b3300ef2d8f"
+  },
+  "3199-nang-gia-tuy-va-WON-thai-ky/images/composite_3199_nang-gia-vs-WON.jpg": {
+   "sha256": "fcd332014a0d36ebc0254a73a6646e6b55c5725b29779f78accca85b94aebcea",
+   "size": 92516,
+   "etag": "af2d8296046cc99fd5dd8239b208eb80"
+  },
+  "3199-nang-gia-tuy-va-WON-thai-ky/images/3199_EUS-LAMS_EUS-PMC13046431-Fig2.jpg": {
+   "sha256": "42b2673dafaa611bdf690fce8fc02fbaad56579e45f830db2612f3a00bb81d49",
+   "size": 89647,
+   "etag": "b20a09604327b13cd443fc9ec12fc1cd"
+  },
+  "3199-nang-gia-tuy-va-WON-thai-ky/images/3199_WON-gia-nang-gia_CT_PMC13614463-Fig3.jpg": {
+   "sha256": "aa94b416cf576440c266093ea169816074fd3a92eebffb793303c9211b5326d4",
+   "size": 254013,
+   "etag": "a881f34ebed5ce4837244674f9382ad7"
   }
  },
- "generated_at": "2026-11-24T18:32:42Z"
+ "generated_at": "2026-11-24T20:21:58Z"
 }
