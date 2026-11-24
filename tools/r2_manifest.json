@@ -35460,7 +35460,32 @@
    "sha256": "b24007ea6b12f9ccecc30d403cb07eff13043e364f144fe97f346ac3d2b0eb68",
    "size": 870101,
    "etag": "a466aa0031ba61df602e11a8f190d98e"
+  },
+  "6203-bat-san-tui-mat-bam-sinh/images/6203_bat-san-tui-mat_CT_PMC6114116-F2.jpg": {
+   "sha256": "359b06b47721b8cfccae6edb0da31bbdebc26c2b97ef0dea0676e4c30169e34a",
+   "size": 94969,
+   "etag": "b96dd867dc102e73bda6f8c9b4b6f6f7"
+  },
+  "6203-bat-san-tui-mat-bam-sinh/images/6203_bat-san-tui-mat_US_PMC6114116-F1.jpg": {
+   "sha256": "6e01bbc13a97a54929735076cf500828efcc4a337e9184397268965616a78822",
+   "size": 57188,
+   "etag": "9553fe6e4d6d45109c66ccca13b83778"
+  },
+  "6203-bat-san-tui-mat-bam-sinh/images/6203_bat-san-tui-mat_US-PMC8275825-F2.jpg": {
+   "sha256": "196e6565dc3ed315425d92dcf2e3795a3b22c2bf2b7fe4ea83086b662b62205a",
+   "size": 70335,
+   "etag": "738a8956c942d9cc70ecafba23535cc8"
+  },
+  "6203-bat-san-tui-mat-bam-sinh/images/6203_bat-san-tui-mat_MRCP_PMC6114116-F4.jpg": {
+   "sha256": "7a08ab48b0c622db8e904375f12c85c8a687e92139259ab5c25416a4309fb063",
+   "size": 44113,
+   "etag": "72713c158d4981ffa25dae1731654c6d"
+  },
+  "6203-bat-san-tui-mat-bam-sinh/images/6203_bat-san-tui-mat_US-PMC8275825-F1.jpg": {
+   "sha256": "2cd1a17f9fcc369cf8387d02c16e4d9d7da6a551946f8627723f5661f61ba834",
+   "size": 102583,
+   "etag": "8f1fcfa82eaeacc878d68d77aa1f00f8"
   }
  },
- "generated_at": "2026-11-24T14:46:14Z"
+ "generated_at": "2026-11-24T16:02:51Z"
 }

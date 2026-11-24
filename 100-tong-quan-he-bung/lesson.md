@@ -208,6 +208,7 @@ certainty: tong-hop-y-van
 </details>
 
 ## Bài liên quan chéo
+- [6203 – "Không thấy túi mật" trên siêu âm: **bất sản** vs **túi mật lạc chỗ** (**54,9%** bên trái, chỉ **41,2%** chẩn đoán trước mổ) vs co/teo; **73%** bất sản chỉ chẩn đoán trong mổ, **22%** vẫn bị mổ dù đã biết; **MRCP** là chuẩn, **HIDA có thể dương tính giả**; **trẻ ứ mật: dây tam giác → teo mật PPV 96%**](../6203-bat-san-tui-mat-bam-sinh/lesson.md) *(mới — nối 107/108/1940/6172)*
 - [1475 – Xuất huyết thượng thận hai bên: **≥ 40 HU không ngấm**, **5,0%** đa chấn thương (10% hai bên, 77% phải), **APS 0,4%**/CAPS **10–26%**, **42% máu tụ một bên không được báo cáo**; hydrocortison **100 mg TM** + NaCl 0,9% **1 L** giờ đầu](../1475-xuat-huyet-thuong-than-hai-ben/lesson.md)
 - [3114 – Thoát vị thắt lưng (Grynfeltt–Lesshaft/Petit): **< 2%** thoát vị thành bụng nhưng **nghẹt ~25%**, khuyết **17 mm** đã gây **tắc ruột non hoàn toàn**; chốt = **dải mỡ liên tục từ sau phúc mạc qua khuyết cân** trên MPR, **lipoma không có cổ**; **gỡ ruột mà không đóng khuyết → hoại tử đại tràng ngày 3**](../3114-thoat-vi-that-lung/lesson.md) *(mới — nối 3106/1973/3111/160)*
 - [1974 – Lạc nội mạc thành bụng: 0,1–0,4% sau mổ lấy thai, trung vị 34 tháng tới triệu chứng / 48 tháng tới chẩn đoán; khối sờ 81,8% nhưng đau chu kỳ chỉ 46,7%; T1 có ổ máu cũ + T2 trung bình–thấp + ngấm muộn, ADC ~0,93; siêu âm NPV xâm lấn cơ–cân 44,7%; cắt trọn, khuyết ≥ 3 cm vá mesh, tái phát 1,8–5%](../1974-lac-noi-mac-thanh-bung/lesson.md) *(mới — nối 1967/1936/3061/3085)*
