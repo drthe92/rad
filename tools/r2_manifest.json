@@ -35510,7 +35510,37 @@
    "sha256": "8706f7fbb71296ec5b0ca67392aee2282aae21bb1dad94b39da0c6ac498dc172",
    "size": 178742,
    "etag": "f8c09c671835e256dc08de4841c8ee27"
+  },
+  "1943-viem-mang-nao-so-sinh-gbs-e-coli/images/1943_viem-mang-nao-so-sinh_MRI_PMC10963804-Fig1.jpg": {
+   "sha256": "7c207fc4cb49215ad2acb13467aabe337775b5f8332932d3dd3bd462c06ff41d",
+   "size": 117075,
+   "etag": "0beabdde8adeee77b242f03d3c66189b"
+  },
+  "1943-viem-mang-nao-so-sinh-gbs-e-coli/images/1943_viem-mang-nao-so-sinh_MRI-FLAIR_PMC12094273-Fig2.jpg": {
+   "sha256": "063c15db161eabe31d993abce57c8cbb01390c4dbb2cbb17a624383240d1aef1",
+   "size": 103268,
+   "etag": "58c21ba5556d6eae3b0f0c7e3b640cb5"
+  },
+  "1943-viem-mang-nao-so-sinh-gbs-e-coli/images/1943_viem-mang-nao-so-sinh_CT_PMC12094273-Fig1.jpg": {
+   "sha256": "d72ad12628ad3d558a2862c3b7cba8b83031795de4965659c90328e906434bfb",
+   "size": 114504,
+   "etag": "5e12328f9287135284e8273dd4519c1f"
+  },
+  "1943-viem-mang-nao-so-sinh-gbs-e-coli/images/1943_viem-mang-nao-so-sinh_SieuAm_PMC7666663-Fig1.jpg": {
+   "sha256": "0afda4e00262fb49c7a2f92f9eae4e2b6336ec7b550d6e32af78274bd7c0546a",
+   "size": 58050,
+   "etag": "412e0d183a8c283bc4dbb3719dcd3b81"
+  },
+  "1943-viem-mang-nao-so-sinh-gbs-e-coli/images/1943_viem-mang-nao-so-sinh_MRI-DWI_PMC12361597-Fig1.jpg": {
+   "sha256": "11c669b00378cb4ef41d8ba88fa88cbcdf017044f43971255e3ec3c51994c1c5",
+   "size": 54904,
+   "etag": "1a8649902bfa78fca80b26131cdd75c1"
+  },
+  "1943-viem-mang-nao-so-sinh-gbs-e-coli/images/composite_1943_ventriculitis-cus-ct.jpg": {
+   "sha256": "02ba342743c58d98d02c3ad04ed9075a4ed5c90fb5cb7528dae0b020563e81ae",
+   "size": 154275,
+   "etag": "17da6fc7fb18e7e6eeb5e81eef7ab338"
   }
  },
- "generated_at": "2026-11-24T17:33:59Z"
+ "generated_at": "2026-11-24T18:32:42Z"
 }
