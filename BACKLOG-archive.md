@@ -2946,3 +2946,6 @@ Viết 754: ngưỡng TMT 6,3/5,2 mm, AUC 0,779, HR 0,399, κ 0,01–0,11 (4 ả
 - 2026-11-24 · flip #2094 → xong; append 1 gap mới **1944** (viêm não enterovirus sơ sinh) đã check_duplicates; nối 1943/1965.
 - 2026-11-24 · viết **3199** nang giả tụy/WON ở thai phụ (4 ảnh CC BY PMC11577703/PMC13614463/PMC13046431 + 1 composite; **≥ 4 tuần**, WON "giả nang giả" ở 4 tháng, nang giả **187 × 85 mm**, LAMS **RR 1,07**).
 - 2026-11-24 · flip #2095 → xong; append 1 gap mới **3857** (MCN trong thai kỳ) đã check_duplicates; nối 3199/136/1938.
+- 2026-11-24 · **3151** stent đường thở sau ghép phổi: Dumon di lệch 25,0
+- 2026-11-24 · **3151** stent đường thở sau ghép phổi: Dumon di lệch 25,0%/hạt 15,7%/nhầy 23,8%; 376 FC-SEMS chỉ 2 biến chứng nặng nhưng nhầy 193; PDO 112 ngày — bn chưa từng đặt stent thoát hoàn toàn. Verify PASS 8/8 (1454 bài/1454 card).
+- Append gap 3244 (PGD/phù tái tưới máu sau ghép phổi) vào hàng chờ; đã check_duplicates.
