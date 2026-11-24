@@ -35390,7 +35390,47 @@
    "sha256": "55b0c770767bc73b6e273623a96f4270f518d1bc8e966cc076e613c3fb785aa1",
    "size": 194505,
    "etag": "1fc427395f85566c3eb2e654d7cb5b14"
+  },
+  "3114-thoat-vi-that-lung/images/3114_thoat-vi-that-lung_CT_PMC12674189-f2.jpg": {
+   "sha256": "81f90ed57ec72a961131e5619f5e5ce1efd8441e7632255efcbbd88b094765d2",
+   "size": 120952,
+   "etag": "da04d22b6b1beda5f39f75c70773032a"
+  },
+  "3114-thoat-vi-that-lung/images/3114_thoat-vi-that-lung_CT_PMC13496163-f3.jpg": {
+   "sha256": "9d98eeec12e4b64c6859c8211093ccd53bb55d652f6b3292c51b5b49ff846a01",
+   "size": 193685,
+   "etag": "8baeec218e43e69fb7a97cbbd9468104"
+  },
+  "3114-thoat-vi-that-lung/images/3114_thoat-vi-that-lung_CT_PMC12889170-f3.jpg": {
+   "sha256": "273af4ba5cefd67dd6c1e2007940a512a1260831e375452783a8caffd39ae453",
+   "size": 90192,
+   "etag": "e4f2a8ac742a4e4520751ede543fb883"
+  },
+  "3114-thoat-vi-that-lung/images/3114_thoat-vi-that-lung_US_PMC13496163-f1.jpg": {
+   "sha256": "0f0a69f4d12d863ab2bcf78885e2d2d7849ec857148a66557a0dbe3f310127ab",
+   "size": 354947,
+   "etag": "0d2bff71911d5fceddbe43444c087ac5"
+  },
+  "3114-thoat-vi-that-lung/images/3114_thoat-vi-that-lung_CT_PMC13496163-f2.jpg": {
+   "sha256": "73cf29382f859c9706ffa01122bcf4baef13564264f8bdc4c08a0bce7d44277b",
+   "size": 230956,
+   "etag": "6c6fd4755f4015cb56504f20464f217e"
+  },
+  "3114-thoat-vi-that-lung/images/3114_thoat-vi-that-lung_CT_PMC12674189-f3.jpg": {
+   "sha256": "4a3ec8a311530eec67c4fe86c231503bacd5fd35824be1d69d42da86494dc103",
+   "size": 143470,
+   "etag": "912dc60db2e9c69b3a7ad09acce4f149"
+  },
+  "3114-thoat-vi-that-lung/images/composite_chan-doan.jpg": {
+   "sha256": "4df875e5d3470e27c6033bda1c0b5940383e79348c4bee6839a95248075b4cf9",
+   "size": 143028,
+   "etag": "82711cb145524662309fd54c3fdaf65c"
+  },
+  "3114-thoat-vi-that-lung/images/3114_thoat-vi-that-lung_CT_PMC12674189-f1.jpg": {
+   "sha256": "fcec3279b2e771b3816cab4f7b41bb45050008b65d51a6a2060b8feb524b5583",
+   "size": 266223,
+   "etag": "fc17f7d5db04f074961369d5f411315a"
   }
  },
- "generated_at": "2026-11-24T09:50:56Z"
+ "generated_at": "2026-11-24T11:20:18Z"
 }
