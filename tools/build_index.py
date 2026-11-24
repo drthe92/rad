@@ -196,6 +196,7 @@ CLASSIFY_4D = {
     "1469": "mat",     # bong võng mạc có lỗ sau tiêm nội nhãn (IVARD)
     "3138": "dauco",   # hoại tử xương hàm dưới sau xạ trị (hàm mặt – đầu cổ)
     "3143": "vuspk",   # mất xương do ức chế buồng trứng + AI ở phụ nữ tiền mãn kinh (DXA/AIBL)
+    "3856": "tim",     # rò nhĩ trái – thực quản sau đốt rung nhĩ (tim – can thiệp điện sinh lý)
 
     "1972": "dauco",  # hẹp lỗ hình lê bẩm sinh (CNPAS) — mũi xoang nhi, đầu cổ
     "1958": "vuspk",  # TACO – TRALI – AFE: phù phổi sau truyền máu ở sản phụ (sản khoa – hồi sức)

@@ -35615,7 +35615,32 @@
    "sha256": "38c2f9c4a5f7167b91aad15ac431c78a438fac1cca59f2659738247c84a8f573",
    "size": 97474,
    "etag": "0d6897976ff609a0d31f6696654a0dda"
+  },
+  "3856-ro-nhi-trai-thuc-quan/images/3856_ro-nhi-trai-thuc-quan_CTA_PMC10686608-Fig1.jpg": {
+   "sha256": "a1358d857765d4da60f022156bd59c232e3372415ac46e9a6d26575ccf81036b",
+   "size": 114206,
+   "etag": "c6b4ad961a2c019860a05fe8af65353a"
+  },
+  "3856-ro-nhi-trai-thuc-quan/images/3856_ro-nhi-trai-thuc-quan_NS_PMC10686608-Fig2.jpg": {
+   "sha256": "2f055726b559f3ff0da2ad5436ecf7070644b50771790f096834f9d97ec2ed2a",
+   "size": 103387,
+   "etag": "d091a2b90315301983ae1a2f0c7bd191"
+  },
+  "3856-ro-nhi-trai-thuc-quan/images/3856_ro-nhi-trai-thuc-quan_CT_PMC12776963-Fig2.jpg": {
+   "sha256": "62aa91e774ce3fcddb2981a3f888d6377e04bbb3f17c1e8cddd6a31b708974cb",
+   "size": 55078,
+   "etag": "b8e5d4877d6cf887b9f653827da5df4f"
+  },
+  "3856-ro-nhi-trai-thuc-quan/images/3856_ro-nhi-trai-thuc-quan_CT_PMC13716589-Fig3.jpg": {
+   "sha256": "74b1bedc5ce664c9bf7163b6eb84b69be44c729971af0baac7b3d48f4a41a43c",
+   "size": 222527,
+   "etag": "3b54d302e3ac4a79e8567e41a3791f77"
+  },
+  "3856-ro-nhi-trai-thuc-quan/images/3856_ro-nhi-trai-thuc-quan_CT_PMC12559572-Fig1.jpg": {
+   "sha256": "d53d0a9491820d939ca35cebb10449c6f4f7b810f842b1ffe69012fdb8d78d1a",
+   "size": 183080,
+   "etag": "0855388c561d7c7075715e17342f1af5"
   }
  },
- "generated_at": "2026-11-24T22:22:53Z"
+ "generated_at": "2026-11-24T23:22:58Z"
 }
