@@ -23,7 +23,7 @@ research_asof: "2026-11"
 
 - **Cấu trúc mạch máu bất đối xứng:** tuyến chỉ **4–6 g** nhưng nhận **ba nguồn động mạch** — **động mạch thượng thận trên** (từ động mạch hoành dưới), **giữa** (trực tiếp từ động mạch chủ), **dưới** (từ động mạch thận) — mỗi nguồn chia **50–60 nhánh** đổ vào vỏ tuyến xốp. Trong khi đó **chỉ có MỘT tĩnh mạch trung tâm** thoát máu: bên phải đổ **trực tiếp vào tĩnh mạch chủ dưới** bằng một đoạn rất ngắn, bên trái đổ vào **tĩnh mạch thận trái**.
 - **TẠI SAO hệ thống này dễ vỡ:** lưu lượng vào lớn, lưu lượng ra qua một ống nhỏ → khoang giữa mao mạch và tĩnh mạch là "đập thủy lợi". Khi **áp lực tĩnh mạch chủ dưới tăng** (thở máy áp lực cao, suy tim phải, chèn ép), khi **tĩnh mạch thận bị huyết khối**, hoặc khi **vi huyết khối trong DIC** bịt mao mạch, máu ứ lại trong tủy → **nhồi máu xuất huyết** (hemorrhagic infarction), không phải "vỡ mạch đơn thuần".
-- **TẠI SAO bên phải nhiều hơn:** thượng thận phải **kẹp giữa gan và cột sống**, tĩnh mạch ngắn đổ thẳng vào tĩnh mạch chủ dưới → chịu **tăng áp tĩnh mạch đột ngột** và lực **cắt (shear)** khi giảm tốc rõ hơn bên trái. Loạt đa chấn thương: **77% máu tụ một bên ở bên phải** (PMC12464106); loạt xuất huyết tự phát: **4/6 ca** (PMC6383530).
+- **TẠI SAO bên phải nhiều hơn:** thượng thận phải **kẹp giữa gan và cột sống**, tĩnh mạch ngắn đổ thẳng vào tĩnh mạch chủ dưới → chịu **tăng áp tĩnh mạch đột ngột** và lực **cắt (shear)** khi giảm tốc rõ hơn bên trái. Loạt đa chấn thương: **77% máu tụ một bên ở bên phải** (PMC12464106). **Phản biện:** ưu thế phải **không áp dụng cho nhóm tự phát** — loạt 6 ca xuất huyết tự phát chia đều **3 phải/3 trái**, tất cả một bên, đường kính tới **12,2 cm**, mật độ **45–70 HU**, không ngấm thuốc, không vôi hóa (PMC6383530).
 - **TẠI SAO hai bên mới gây suy thượng thận:** vỏ thượng thận có **dự trữ chức năng rất lớn** — cắt một bên hoặc xuất huyết một bên **hầu như không gây suy**; phải phá hủy **phần lớn cả hai vỏ** mới làm cortisol tụt. Đây là lý do **hình ảnh một bên không được phép kết luận suy thượng thận**, còn **hai bên + sốc** thì phải điều trị ngay.
 
 ### 1.2 Vì sao cục máu tụ "tăng đậm độ mà không ngấm thuốc" — vật lý của HU
@@ -66,8 +66,8 @@ Mẫu hình cần nhận: **tuyến thượng thận to, giữ hình "thượng 
 | **Nhồi máu thượng thận** | Không ngấm, **< 40 HU**, hình nêm/không đều; bối cảnh APS, sốc | **Không ngấm + mật độ thấp + bối cảnh huyết khối** | **≥ 40 HU** → xuất huyết | MRI T1 (máu), CTA tĩnh mạch thận/thượng thận |
 | **Lao thượng thận** | Hai bên, **vôi hóa**, teo dần, có thể to giai đoạn đầu | **Vôi hóa hai bên + teo + bối cảnh lao** | **Máu tụ cấp ≥ 40 HU, không vôi hóa** | IGRA/PCR, MRI |
 
-![CT lúc nhập viện (trái) và MRI sau 10 tháng (phải) của cùng một ca BAH sau sinh](images/composite_1475_bah-cao-mau.jpg)
-*Trái: hai thượng thận to, không có khối rời — hình "adreniform" điển hình của xuất huyết. Phải: sau 10 tháng tuyến nhỏ lại, giảm ngấm trung tâm (còn di chứng xuất huyết). Nguồn: J Med Case Rep 2024 (PMC11515325), CC BY 4.0; ảnh ghép letterbox bằng `tools/make_composite.py`.*
+![CT lúc nhập viện (trái) và MRI sau 3 tháng (phải) của cùng một ca BAH sau sinh](images/composite_1475_bah-cao-mau.jpg)
+*Trái: hai thượng thận to, không có khối rời — hình "adreniform" điển hình của xuất huyết. Phải: sau **3 tháng** tuyến nhỏ lại/teo, còn giảm ngấm trung tâm (di chứng xuất huyết). Nguồn: J Med Case Rep 2024 (PMC11515325), CC BY 4.0; ảnh ghép letterbox bằng `tools/make_composite.py`.*
 
 - **Đọc HU đúng cách:** đặt ROI (vùng quan tâm) ở **phần đặc nhất**, tránh viền vỏ và mỡ quanh; đo **cả hai bên**, ghi **HU + kích thước 3 chiều**; nếu **10–40 HU** thì phải làm **MRI hoặc chụp lại 6–12 tuần**, không kết luận.
 - **Đọc "không ngấm" đúng cách:** so **cùng một ROI** giữa thì trước tiêm và thì cửa/muộn; **tăng < 10 HU** được coi là không ngấm; **tăng > 20 HU** là mô sống.
@@ -131,16 +131,16 @@ flowchart TD
 - Nguồn: CVIR Endovasc 2026 (PMC13469033), CC BY 4.0.
 </details>
 
-**Ca 2 — Nữ 27 tuổi, 17 ngày sau sinh, sốt và đau hông lưng, tụt áp tư thế. Nhìn CT rồi ghép với MRI sau 10 tháng.**
+**Ca 2 — Nữ 27 tuổi, 17 ngày sau sinh, sốt và đau hông lưng, tụt áp tư thế. Nhìn CT rồi ghép với MRI sau 3 tháng.**
 
-![Ca 2 — CT lúc nhập viện và MRI sau 10 tháng](images/composite_1475_bah-cao-mau.jpg)
+![Ca 2 — CT lúc nhập viện và MRI sau 3 tháng](images/composite_1475_bah-cao-mau.jpg)
 
 - Gợi ý: sau sinh, có huyết khối tĩnh mạch thận trái và thuyên tắc phổi; CT đầu tiên được đọc là "thượng thận to không rõ nguyên nhân".
 - Câu hỏi: vì sao **không có khối rời** mà vẫn là xuất huyết? Cần xét nghiệm gì trước khi truyền hydrocortison?
 
 <details><summary><b>Bấm để hiện đáp án (findings + chẩn đoán)</b></summary>
 
-- Dấu hiệu: **hai thượng thận to giữ hình tuyến, không có khối tròn**; MRI sau 10 tháng: **tuyến nhỏ lại, giảm ngấm trung tâm** — phù hợp **máu tụ tiêu dần** chứ không phải u.
+- Dấu hiệu: **hai thượng thận to giữ hình tuyến, không có khối tròn**; MRI sau 3 tháng: **tuyến nhỏ lại/teo, còn giảm ngấm trung tâm** — phù hợp **máu tụ tiêu dần** chứ không phải u.
 - Chẩn đoán: **xuất huyết thượng thận hai bên sau sinh, kèm huyết khối tĩnh mạch thận và suy thượng thận nguyên phát**.
 - Vì sao: tăng áp tĩnh mạch + tăng đông sau sinh làm **nhồi máu xuất huyết** cả hai tuyến; hình "adreniform" là dấu chốt, không cần khối.
 - Xét nghiệm: **cortisol sáng + ACTH trước liều hydrocortison** nếu huyết động cho phép; sau đó **Synacthen** xác nhận; theo dõi **3–6 tháng/lần trong 2 năm**.

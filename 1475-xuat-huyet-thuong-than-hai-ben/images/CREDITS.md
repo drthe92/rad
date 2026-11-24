@@ -15,5 +15,5 @@ Mỗi ảnh ghi rõ: file trong repo, hình gốc, bài gốc (PMCID/DOI), giấ
 - Bốn ảnh từ **PMC13469033** và **PMC11515325** là **CC BY 4.0** → được dùng và tạo phái sinh, kèm ghi công.
 - Ảnh mô học Wikimedia là **CC BY-SA 4.0** → **không** đưa vào ảnh ghép có giấy phép khác; hiển thị **nguyên bản**.
 - Ảnh CT của **PMC13469033** là ảnh **thang xám** do tạp chí xuất bản; không chuyển sang JPEG màu, không tăng tương phản.
-- Ảnh ghép dùng **cùng một bệnh nhân** ở hai thời điểm (lúc nhập viện và sau 10 tháng), không phải hai ca.
+- Ảnh ghép dùng **cùng một bệnh nhân** ở hai thời điểm (lúc nhập viện và MRI sau 3 tháng), không phải hai ca.
 - Đã đối chiếu trực tiếp trang bài gốc ngày **2026-11-24**; không bịa tên tác giả/niên đại.
