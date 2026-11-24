@@ -1,0 +1,37 @@
+# Nguồn — 1474 Bệnh cơ do corticoid ở bệnh nhân ung thư
+
+> Quét ngày **2026-11-24** qua PubMed/Europe PMC (`OPEN_ACCESS:Y` + toàn văn PMC). Kiểm giấy phép từng ảnh trước khi tải. Bài **không có bệnh nhân của nhóm**; mọi số liệu dưới đây là của nghiên cứu gốc, đọc từ toàn văn hoặc abstract.
+
+## Nguồn dùng cho nội dung
+
+| # | Tài liệu | Dùng cho | Link |
+|---|---|---|---|
+| 1 | Batchelor TT, Taylor LP, Thaler HT, Posner JB, DeAngelis LM. 1997, *Neurology* 48(5):1234–1238. **DOI: 10.1212/wnl.48.5.1234** | **15 bệnh nhân ung thư người lớn** dùng corticoid, theo dõi tiến cứu: **9/15 (60%)** yếu cơ gần rõ trên lâm sàng, **6** nặng ảnh hưởng sinh hoạt; **8/9 khởi phát trong 15 ngày**; liên quan **liều tích lũy**; **8/9 có yếu cơ** giảm chức năng hô hấp so với **2/6 không yếu**, **4 ca khó thở có triệu chứng**; **3 ca theo dõi > 3 tháng sau ngừng thuốc** đều cải thiện/khỏi | https://pubmed.ncbi.nlm.nih.gov/9153449/ |
+| 2 | Dropcho EJ, Soong SJ. 1991, *Neurology* 41(8):1235–1239. **DOI: 10.1212/wnl.41.8.1235** | **216 bệnh nhân u não nguyên phát** dùng dexamethasone ≥ 2 tuần: bệnh cơ do corticoid **23/216 (10,6%)**; **2/3 khởi phát trong tuần 9–12**; nguy cơ **thấp hơn ở người dùng phenytoin**; tương quan với **dạng mặt Cushing**; khuyến nghị **đổi sang glucocorticoid không fluor hóa** nếu không cai được | https://pubmed.ncbi.nlm.nih.gov/1866012/ |
+| 3 | He A, Koszegi B, Uzun S, và cs. 2025, *J Eur Acad Dermatol Venereol* 39(2):340–349. **PMCID: PMC11761005 · CC BY-NC-ND** | **139 bệnh nhân bệnh bọng nước tự miễn**, 462 đợt: **47,5% (66/139)** có yếu cơ lúc nào đó; **132–133 đợt** bệnh cơ (94 nhẹ/36 vừa/3 nặng); khởi phát **trung vị 97,5 ngày (28–1005)**; **30,3%** xuất hiện từ đợt 2 trở đi; **liều tích lũy > 0,75 mg/kg/ngày tăng ~3 lần** so với 0,5–0,75; tuổi 50–65 **OR 2,39** (1,45–3,91), nam **OR 2,03** (1,27–3,24), BMI > 30 **OR 2,64** (1,38–5,07); hồi phục **trung vị 107,5 ngày (45–189)**; trích Bowyer: **64%** người dùng prednison > 40 mg/ngày có yếu cơ gấp háng | https://pmc.ncbi.nlm.nih.gov/articles/PMC11761005/ |
+| 4 | Nawata T, Kubo M, Nomura T, và cs. 2018, *BMC Musculoskelet Disord* 19:93. **PMCID: PMC5872524 · CC BY 4.0** | **7 viêm cơ + 8 chứng** dùng corticoid liều cao (**> 0,7 mg/kg/ngày** prednisolon): diện tích cơ tại **L3 giảm −25,6 ± 14,4%** (viêm cơ) và **−12,6 ± 14,6%** (chứng), **p = 0,0156 / 0,0391**; tỷ lệ **mật độ cơ thấp tăng +7,3 ± 8,5%** và **+5,4 ± 6,6%**; nhóm viêm cơ **có ung thư giảm −38,1 ± 9,8%** so với **−16,3 ± 9,0%** (không ý nghĩa); ngưỡng phân đoạn **cơ −29…+150 HU**, **mật độ thấp −29…+30 HU**; đồng thuận 2 người đọc **κ 0,89–0,99** | https://pmc.ncbi.nlm.nih.gov/articles/PMC5872524/ |
+| 5 | Hu Y, Lu C, Lin H. 2022, *Front Endocrinol (Lausanne)* 13:1016687. **PMCID: PMC9585659 · CC BY 4.0** | Ca **nữ 22 tuổi pemphigus vulgaris**, methylprednisolon **tích lũy ~20 g** (14–80 mg/ngày trong 2,5 năm): yếu cơ gần chi dưới **MRC 4**, teo cơ đùi; **MRI hoại tử xương chỏm đùi hai bên, đầu dưới xương đùi và đầu trên xương chày**; sinh thiết cơ tứ đầu **teo sợi typ II, KHÔNG thâm nhiễm bạch cầu**; LDH/HBDH tăng nhẹ; kiểu gen **PAI-1 5G/5G** và **ABCB1 CC (C3435T)**; cải thiện khi giảm liều | https://pmc.ncbi.nlm.nih.gov/articles/PMC9585659/ |
+| 6 | Minetto MA, Caresio C, Salvi M, và cs. 2019, *J Endocrinol Invest* 42(7):757–768. **DOI: 10.1007/s40618-018-0979-9** | **33 bệnh nhân Cushing** (20 đang hoạt động, 13 lui bệnh): **độ hồi âm siêu âm cơ tăng** ở cơ thẳng đùi, chày trước (phần dưới) và bụng chân trong ở nhóm **đang hoạt động** (p < 0,05 mọi so sánh), **trong khi độ dày cơ và khối cơ BIA tương đương** → **chất lượng cơ đổi trước khối lượng** | https://pubmed.ncbi.nlm.nih.gov/30443856/ |
+| 7 | Minetto MA, D'Angelo V, Arvat E, Kesari S. 2018, *Endocrine* 60(2):219–223. **DOI: 10.1007/s12020-017-1472-5** | Tổng quan công cụ: **chưa có hướng dẫn riêng** cho đánh giá cơ ở Cushing/bệnh cơ do corticoid; đề xuất **đo phối hợp khối lượng + lực + chức năng**; **chưa có định nghĩa vận hành** của bệnh cơ do corticoid | https://pubmed.ncbi.nlm.nih.gov/29143179/ |
+| 8 | Wu K, Michalski A, Cortes D, Rozenberg D, Mathur S. 2022, *J Asthma* 59(7):1396–1409. **DOI: 10.1080/02770903.2021.1926488** | Tổng quan hệ thống 9 nghiên cứu ở người hen: **corticoid hít không khác biệt** về lực cơ hô hấp so với người khỏe; **11–36%** bệnh nhân đợt cấp dùng corticoid tĩnh mạch có yếu cơ chi trong/sau ICU; bằng chứng về liều–thời gian **không nhất quán** | https://pubmed.ncbi.nlm.nih.gov/33951991/ |
+| 9 | Wu M, Yu J, Zhong A, và cs. 2024, *Steroids* 207:109434. **DOI: 10.1016/j.steroids.2024.109434** | **Bệnh nhân hội chứng thận hư dùng prednison**: **độ hồi âm cơ thẳng đùi và bụng chân trong tăng**, **góc chéo cơ (pennation angle) giảm**, **cơ chày trước mỏng đi**; **tổng liều và tổng thời gian dùng prednison** ảnh hưởng mức tổn thương; CK **giảm trong giới hạn bình thường** | https://pubmed.ncbi.nlm.nih.gov/38710261/ |
+| 10 | Géfard-Gontier E, Le Quang M, Martin-Négrier ML, Violleau MH, Solé G, Mathis S. 2025, *J Neurol* 272(11):734. **DOI: 10.1007/s00415-025-13482-6** | Tổng quan 2025: bệnh cơ do corticoid **yếu gần, teo, mệt, giảm sức bền**, chủ yếu chi dưới; **thiếu biomarker nhạy**; cơ chế **dị hóa + chống đồng hóa**; tập kháng lực–hiếu khí có lợi; các liệu pháp GH/IGF-1/BCAA/creatine **chưa được chứng minh ở người** | https://pubmed.ncbi.nlm.nih.gov/41148376/ |
+| 11 | Wu M, Liu C, Sun D. 2024, *Horm Metab Res* 56(5):341–349. **DOI: 10.1055/a-2246-2900** | Tổng quan phương pháp chẩn đoán–theo dõi: tốc độ đi, lực cơ, xét nghiệm, **BIA, DXA, CT, MRI**, điện cơ, **siêu âm cơ định lượng**, mô bệnh học, di truyền; nhấn mạnh **theo dõi liên tục** để phát hiện sớm trước khi yếu rõ | https://pubmed.ncbi.nlm.nih.gov/38224966/ |
+
+## Ảnh
+
+| File | Bài gốc | Giấy phép | Ghi chú |
+|---|---|---|---|
+| `images/1474_benh-co-corticoid_CT-PMC5872524-Fig1.jpg` | Nawata T và cs. 2018, *BMC Musculoskelet Disord* 19:93, **Fig. 1** (**PMC5872524**) | **CC BY 4.0** | Mặt cắt CT tại **đuôi L3** với mặt nạ đỏ phân đoạn cơ; dùng cho Ca 1. **Không crop, không kéo giãn.** |
+| `images/1474_benh-co-corticoid_MRI-PMC9585659-Fig2.jpg` | Hu Y, Lu C, Lin H. 2022, *Front Endocrinol* 13:1016687, **Fig. 2** (**PMC9585659**) | **CC BY 4.0** | (A, B) MRI hoại tử xương hai bên; (C) H&E teo sợi cơ rải rác; (D) ATPase teo sợi **typ II**; dùng cho Ca 2. **Không crop, không kéo giãn.** |
+
+- Tên tác giả chỉ ghi khi đã đối chiếu PubMed/Europe PMC theo PMCID/PMID; không dùng ảnh từ bài **không rõ giấy phép**.
+- PMC11761005 (**CC BY-NC-ND**) chỉ đọc nội dung, **không dùng ảnh** (hạn chế biến thể).
+
+## Ghi chú độ chắc chắn và mâu thuẫn nguồn
+
+- **Không có thử nghiệm ngẫu nhiên** về ngưỡng cắt corticoid dựa trên hình ảnh; bằng chứng chủ yếu là **đoàn hệ/quan sát** và **hai đoàn hệ ung thư nhỏ** (15 và 216 bệnh nhân, 1991–1997) — cỡ mẫu nhỏ, có nguy cơ sai lệch.
+- **Tần suất rất khác nhau** (10,6% ở u não dùng dexamethasone so với 47,5–60% ở các đoàn hệ khác) do **khác định nghĩa yếu cơ, mức liều và thời gian theo dõi** — bài ghi cả hai, không chọn một.
+- **CK bình thường là quy tắc nhưng có ngoại lệ**: ca ICU dùng methylprednisolon 240 mg/ngày có **enzym cơ tăng** (BMJ Case Rep 2015, **PMC4458626**) — không dùng "CK bình thường" như tiêu chuẩn tuyệt đối.
+- **Siêu âm**: bằng chứng **chất lượng cơ đổi trước khối lượng** mới ở **2 nghiên cứu nhỏ** (33 bệnh nhân Cushing; bệnh nhân thận hư) — chưa có ngưỡng thống nhất.
+- **Liều tích lũy > 0,75 mg/kg/ngày** là ngưỡng của **một đoàn hệ** (PMC11761005), không phải khuyến cáo guideline.

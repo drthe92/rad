@@ -35380,7 +35380,17 @@
    "sha256": "57c06a2654990a29bbdcfd06783b47bf6d37e93ac29d0e028ccebfc801b8382d",
    "size": 171189,
    "etag": "3e823d0652b6220c8c016426d32da06a"
+  },
+  "1474-benh-co-do-corticoid-ung-thu/images/1474_benh-co-corticoid_CT-PMC5872524-Fig1.jpg": {
+   "sha256": "c55871a354fff132194707d487e738f8af254fd872baee51ffd827a9720867fa",
+   "size": 38832,
+   "etag": "0a52d296530c3b2431b93ee8e6e0c801"
+  },
+  "1474-benh-co-do-corticoid-ung-thu/images/1474_benh-co-corticoid_MRI-PMC9585659-Fig2.jpg": {
+   "sha256": "55b0c770767bc73b6e273623a96f4270f518d1bc8e966cc076e613c3fb785aa1",
+   "size": 194505,
+   "etag": "1fc427395f85566c3eb2e654d7cb5b14"
   }
  },
- "generated_at": "2026-11-24T08:53:47Z"
+ "generated_at": "2026-11-24T09:50:56Z"
 }
