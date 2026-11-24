@@ -219,6 +219,7 @@ CLASSIFY_4D = {
     "3294": "mat",    # trẻ aphakia — UBM/AS-OCT đánh giá hỗ trợ bao trước IOL thứ phát
     "3299": "mat",    # haptic IOL trong khoang trên hắc mạc sau cố định xuyên củng mạc
     "6185": "msk",    # vỡ chuôi khớp háng nhân tạo — thất bại mỏi của implant
+    "3147": "msk",    # rò động–tĩnh mạch do chấn thương ở chi (mạch máu – cơ xương)
     "3145": "nhi",    # chấn thương tụy kín ở trẻ (chấn thương – tiêu hóa nhi)
     "1940": "bung",   # sỏi sót/tái phát & sỏi rơi sau cắt túi mật (gan mật)
     "3097": "bung",   # hội chứng Zinner (tiết niệu – sinh dục nam)

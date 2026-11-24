@@ -1,0 +1,27 @@
+# Nguồn gốc — 3147 ro-dong-tinh-mach-chan-thuong
+
+> Rò động – tĩnh mạch do chấn thương ở chi: cơ chế luồng thông, dẫn lưu tĩnh mạch sớm, ngưỡng suy tim cung lượng cao, lựa chọn stent-graft/nút/mổ hở. Quét PubMed + Europe PMC ngày 2026-11-24 (chỉ tải ảnh từ bài có license CC BY; bài CC BY-NC/ND chỉ dùng số liệu, dẫn link).
+
+| # | Nguồn | Tiêu đề / Ca | Link gốc | Giấy phép ảnh | Tải về? (đường dẫn / lý do không tải) |
+|---|---|---|---|---|---|
+| 1 | Eur J Trauma Emerg Surg (PubMed) | **Asensio JA, Dabestani PJ, Miljkovic SS, Wenzl FA, Kessler JJ, Kalamchi LD, Kotaru TR, Agrawal DK.** Traumatic penetrating arteriovenous fistulas: a collective review. 2022;48(2):775–789. DOI 10.1007/s00068-020-01574-z | https://doi.org/10.1007/s00068-020-01574-z | không rõ (bài tổng quan, không dùng ảnh) | không tải — chỉ dùng số liệu 291 ca |
+| 2 | Exp Physiol (Europe PMC) | **Thomas KN, Jones EMW, Majumder A, Abcarian PW, McLeod PJ.** Traumatic arteriovenous fistula after ice axe injury 27 years ago: A case report. 2026. PMCID PMC13405334 | https://europepmc.org/article/PMC/PMC13405334 | **CC BY 4.0** | `images/3147_ro-dong-tinh-mach_SieuAm_PMC13405334-F4.jpg` (Hình 4) |
+| 3 | Cureus (Europe PMC) | **Tanabu T, Ohshika S, Saruga T** et al. Diagnosis and Treatment Approach for Giant Muscle Hematoma of the Thigh Due to a Post-traumatic Arteriovenous Fistula: A Case Report. 2026. PMCID PMC12844860 | https://europepmc.org/article/PMC/PMC12844860 | **CC BY 4.0** | `images/3147_ro-dong-tinh-mach_CT_PMC12844860-F2.jpg`, `images/3147_ro-dong-tinh-mach_DSA_PMC12844860-F3.jpg` |
+| 4 | Cureus (Europe PMC) | **Nagra R, Kanan MF, Martin J** et al. Delayed Discovery and Repair of a Traumatic Arteriovenous Fistula (AVF) 58 Years After a Combat Explosion. 2025. PMCID PMC12718485 | https://europepmc.org/article/PMC/PMC12718485 | **CC BY 4.0** | `images/3147_ro-dong-tinh-mach_CTA3D_PMC12718485-F1.jpg` (Hình 1) |
+| 5 | Int Med Case Rep J (Europe PMC) | **Amini SM, Hidalgo K, Huang J** et al. High-Output Heart Failure from A Decade-Old Traumatic AV Fistula: A Case Report. 2026. PMCID PMC13196796 | https://europepmc.org/article/PMC/PMC13196796 | CC BY-NC | không tải ảnh (dùng số liệu CI 14,9→8,6 L/phút) — dẫn link |
+| 6 | J Clin Med (Europe PMC) | **Tripathi A, Hanten B, Shafiq M** et al. Incidence and Outcomes of High-Output Heart Failure in Patients with Arteriovenous Fistula: A Single-Center Retrospective Cohort Study. 2025. PMCID PMC12609771 | https://europepmc.org/article/PMC/PMC12609771 | **CC BY 4.0** | không tải ảnh (dùng định nghĩa CI ≥ 4,0; 29,4%) — dẫn link |
+| 7 | J Surg Case Rep (Europe PMC) | **Shelton J, Marasinghe A.** A traumatic arteriovenous fistula causing venous insufficiency. 2024. PMCID PMC11361727 | https://europepmc.org/article/PMC/PMC11361727 | **CC BY 4.0** | không tải ảnh (dùng số liệu loét 2 năm, lành sau 6 tháng) |
+| 8 | J Med Case Rep (Europe PMC) | Chronic traumatic popliteal arteriovenous fistula presenting twenty years after shotgun injury: a case report and critical literature review. 2026. PMCID PMC13756989 | https://europepmc.org/article/PMC/PMC13756989 | CC BY-NC-ND | không tải ảnh — chỉ dùng số liệu 2,5–4% và cắt cụt 10–20% |
+| 9 | Int J Surg Case Rep (Europe PMC) | Pseudoaneurysm and arteriovenous fistula of the brachial artery presenting 25 years after elbow fracture: a case report. 2026. PMCID PMC13236230 | https://europepmc.org/article/PMC/PMC13236230 | CC BY-NC-ND | không tải ảnh — chỉ dùng mốc 25 năm, chảy máu từng đợt |
+| 10 | EJVES Vasc Forum (Europe PMC) | Delayed Diagnosis of a Traumatic Popliteal Arteriovenous Fistula After 54 Years: Case Report, Surgical Management, and Literature Review. 2026. PMCID PMC12803833 | https://europepmc.org/article/PMC/PMC12803833 | CC BY-NC-ND | không tải ảnh — chỉ dẫn mốc 54 năm |
+| 11 | Eur Heart J Imaging Methods Pract (Europe PMC) | Giant iliac vein aneurysm secondary to traumatic arteriovenous fistula. 2024. PMCID PMC11635981 | https://europepmc.org/article/PMC/PMC11635981 | CC BY-NC | không tải ảnh — dẫn link (phình giãn tĩnh mạch chậu) |
+| 12 | J Vasc Surg Cases Innov Tech (Europe PMC) | **Stafforini NA, Singh N, Vaidya S** et al. Endovascular management of a traumatic lower extremity arteriovenous fistula following a machete injury. 2026. PMCID PMC12995491 | https://europepmc.org/article/PMC/PMC12995491 | CC BY-NC-ND | không tải ảnh — dẫn link (can thiệp nội mạch) |
+| 13 | Vasc Specialist Int (Europe PMC) | **Garg A.** Endovascular N-Butyl Cyanoacrylate Embolization for Recurrent Post-Traumatic Radial Arteriovenous Fistula After Failed Surgical Ligation. 2026. PMCID PMC12775931 | https://europepmc.org/article/PMC/PMC12775931 | CC BY-NC | không tải ảnh — dẫn link (NBCA sau thất bại buộc) |
+| 14 | Radiopaedia | Tra cứu "arteriovenous fistula" (ca chấn thương) | https://radiopaedia.org/ | CC BY-NC-SA | chỉ dẫn link (không crawl) |
+| 15 | The Radiology Assistant | Tra cứu "vascular trauma" | https://radiologyassistant.nl/ | giáo dục — dẫn link | không tải |
+
+## Ghi chú giấy phép
+- **4 ảnh dùng trong bài đều CC BY 4.0** (cho phép tái sử dụng và tạo ảnh phái sinh khi ghi công).
+- Ảnh ghép `composite_3147_avf-tu-mau-va-chau.jpg` tạo bằng `tools/make_composite.py` (letterbox nền đen, **không crop/kéo giãn**), chỉ ghép hai ảnh **CC BY 4.0** (PMC12844860 + PMC12718485).
+- Bài **CC BY-NC-ND** (PMC13756989, PMC13236230, PMC12803833, PMC12995491) chỉ dùng số liệu, **không tải ảnh**, không đưa vào ảnh ghép.
+- Không dùng ảnh từ AuntMinnie/RSNA khi chưa có điều khoản cho phép.

@@ -35485,7 +35485,32 @@
    "sha256": "2cd1a17f9fcc369cf8387d02c16e4d9d7da6a551946f8627723f5661f61ba834",
    "size": 102583,
    "etag": "8f1fcfa82eaeacc878d68d77aa1f00f8"
+  },
+  "3147-ro-dong-tinh-mach-chan-thuong/images/3147_ro-dong-tinh-mach_CT_PMC12844860-F2.jpg": {
+   "sha256": "314bbfe10e76dd74e428ac01ae5f509f0dacc35776a97e8a55d86323ffd3733c",
+   "size": 60791,
+   "etag": "e6799c7baefc6f78a16256b4c08b28ea"
+  },
+  "3147-ro-dong-tinh-mach-chan-thuong/images/3147_ro-dong-tinh-mach_CTA3D_PMC12718485-F1.jpg": {
+   "sha256": "69a79a7f90c3188ac58ed7da8d14a5276330f4cb5667b737e4fde343348aa030",
+   "size": 103975,
+   "etag": "cd09c8988b77af14293120b6762af900"
+  },
+  "3147-ro-dong-tinh-mach-chan-thuong/images/3147_ro-dong-tinh-mach_SieuAm_PMC13405334-F4.jpg": {
+   "sha256": "1b5974b9f511c2e55bec2fb4144ba427bae8db642cdea6be5a54924347252463",
+   "size": 164073,
+   "etag": "6caacc5105dfa55197615a5add011770"
+  },
+  "3147-ro-dong-tinh-mach-chan-thuong/images/3147_ro-dong-tinh-mach_DSA_PMC12844860-F3.jpg": {
+   "sha256": "38e4ce68bff6da981a01838e0908bd58608610217959a128d8ad58598178ce50",
+   "size": 60346,
+   "etag": "968c3ce0b22abb6a8b4a05dbf0b1c3d3"
+  },
+  "3147-ro-dong-tinh-mach-chan-thuong/images/composite_3147_avf-tu-mau-va-chau.jpg": {
+   "sha256": "8706f7fbb71296ec5b0ca67392aee2282aae21bb1dad94b39da0c6ac498dc172",
+   "size": 178742,
+   "etag": "f8c09c671835e256dc08de4841c8ee27"
   }
  },
- "generated_at": "2026-11-24T16:02:51Z"
+ "generated_at": "2026-11-24T17:33:59Z"
 }
