@@ -35600,7 +35600,22 @@
    "sha256": "2b4ae2b47647567cb9c634eee8751a6cf2c8dc93d248c2fa495331e4ffd5c050",
    "size": 508472,
    "etag": "ecfe8eae02660996551d94dc573c6b6c"
+  },
+  "3854-ro-khi-quan-thuc-quan-mac-phai/images/3854_ro-khi-quan-thuc-quan_CT_PMC5438315-Fig19.jpg": {
+   "sha256": "59297509951775af8f56ed75dced50c3da9c1adde631fbf5ec7f7f5a0aa0f5d2",
+   "size": 35075,
+   "etag": "149c317ed7599b36833906c79c175335"
+  },
+  "3854-ro-khi-quan-thuc-quan-mac-phai/images/3854_lo-ro-va-cuff_NS_PMC10505277-Fig2.jpg": {
+   "sha256": "4b0fc610698c8dd1e67a757c921d6949440595a459a41204a238c8f449d73df9",
+   "size": 67142,
+   "etag": "e8671c9367ef2bf2301d760f96b2cccc"
+  },
+  "3854-ro-khi-quan-thuc-quan-mac-phai/images/3854_TEF-ac-tinh-stent_CT-NS_PMC10713237-Fig2.jpg": {
+   "sha256": "38c2f9c4a5f7167b91aad15ac431c78a438fac1cca59f2659738247c84a8f573",
+   "size": 97474,
+   "etag": "0d6897976ff609a0d31f6696654a0dda"
   }
  },
- "generated_at": "2026-11-24T21:23:40Z"
+ "generated_at": "2026-11-24T22:22:53Z"
 }

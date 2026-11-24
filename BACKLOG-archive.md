@@ -2949,3 +2949,6 @@ Viết 754: ngưỡng TMT 6,3/5,2 mm, AUC 0,779, HR 0,399, κ 0,01–0,11 (4 ả
 - 2026-11-24 · **3151** stent đường thở sau ghép phổi: Dumon di lệch 25,0
 - 2026-11-24 · **3151** stent đường thở sau ghép phổi: Dumon di lệch 25,0%/hạt 15,7%/nhầy 23,8%; 376 FC-SEMS chỉ 2 biến chứng nặng nhưng nhầy 193; PDO 112 ngày — bn chưa từng đặt stent thoát hoàn toàn. Verify PASS 8/8 (1454 bài/1454 card).
 - Append gap 3244 (PGD/phù tái tưới máu sau ghép phổi) vào hàng chờ; đã check_duplicates.
+
+- 2026-11-24: viết **3854** (rò khí quản – thực quản mắc phải) — 58+288+51 ca, 3 ảnh CC BY/CC BY-NC-ND; flip #2100; append #2138 (3856, rò nhĩ trái–thực quản sau đốt rung nhĩ).
+- 2026-11-24: ghi chú — độ nhạy hình ảnh (nuốt cản quang 70–97%, CT 50%) là số tổng hợp từ PMC10713237, không phải một nghiên cứu tiền cứu duy nhất.
