@@ -35430,7 +35430,37 @@
    "sha256": "fcec3279b2e771b3816cab4f7b41bb45050008b65d51a6a2060b8feb524b5583",
    "size": 266223,
    "etag": "fc17f7d5db04f074961369d5f411315a"
+  },
+  "1475-xuat-huyet-thuong-than-hai-ben/images/1475_xuat-huyet-thuong-than_Sodo-PMC13469033-F4.jpg": {
+   "sha256": "6a4226efbcb18d19f7ecbf7fae99c0c3c02ba2fde2bfbcc4b0a92a7dc6d8f454",
+   "size": 84928,
+   "etag": "3632d6fb1ad0d0effc83b6dffc0ce12a"
+  },
+  "1475-xuat-huyet-thuong-than-hai-ben/images/1475_xuat-huyet-thuong-than_CT-PMC13469033-F1.jpg": {
+   "sha256": "72abecedf10a8afd464e47c741ca541beaf1bd4d351e545bb34cbb139c8187e3",
+   "size": 84737,
+   "etag": "08b5535bbc3862be9606eac80fbda5f3"
+  },
+  "1475-xuat-huyet-thuong-than-hai-ben/images/composite_1475_bah-cao-mau.jpg": {
+   "sha256": "6a5375f03712eedbd4a8bb82e7fe63f2440f576f646f62607bc1222e06578e2a",
+   "size": 134410,
+   "etag": "1bc548bd64b178ebceb8475f12a16883"
+  },
+  "1475-xuat-huyet-thuong-than-hai-ben/images/1475_xuat-huyet-thuong-than_Mo-hoc-Wikimedia-WFS-LP.jpg": {
+   "sha256": "79301dceb8c66d850d9e8008405398dbffa94fbf2d67ad974f0605cca3ef297f",
+   "size": 2444672,
+   "etag": "35d6c6984e4a8f492c1c89382c326897"
+  },
+  "1475-xuat-huyet-thuong-than-hai-ben/images/1475_xuat-huyet-thuong-than_MRI-PMC11515325-F3.jpg": {
+   "sha256": "bacbb3cbdf6b65fd97a040c0edeab79f61a480ec93a07e8a97f4f046ce1e27d0",
+   "size": 928952,
+   "etag": "564f8cfaac23aeffdc2dddbb079b001e"
+  },
+  "1475-xuat-huyet-thuong-than-hai-ben/images/1475_xuat-huyet-thuong-than_CT-PMC11515325-F1.jpg": {
+   "sha256": "b24007ea6b12f9ccecc30d403cb07eff13043e364f144fe97f346ac3d2b0eb68",
+   "size": 870101,
+   "etag": "a466aa0031ba61df602e11a8f190d98e"
   }
  },
- "generated_at": "2026-11-24T11:20:18Z"
+ "generated_at": "2026-11-24T14:23:20Z"
 }
