@@ -35305,7 +35305,32 @@
    "sha256": "e11edf1c324a99206420c3f7ad4fe49f3031a07ca22c3447c0817dec4918e882",
    "size": 149924,
    "etag": "21158989cffec2a388ee95a9aae2897f"
+  },
+  "6190-soc-nhiem-khuan-o-tre-sieu-am-hay-ct/images/6190_soc-nhiem-khuan_XR-LUS_PMC12837357.jpg": {
+   "sha256": "559dd144f6081ab2c21b58dbb9aab60f949a67deb9a810395b7c0d01bfef50a5",
+   "size": 91350,
+   "etag": "d92c8a4628d7d6c00e8b1aa87263fa4a"
+  },
+  "6190-soc-nhiem-khuan-o-tre-sieu-am-hay-ct/images/6190_soc-nhiem-khuan_CT-LUS_PMC12837357.jpg": {
+   "sha256": "a1ebba2250b10c0cb31307ae061f7707d0459d10339752d5c7d1d9754d53a1a2",
+   "size": 72574,
+   "etag": "9c050650b06db00a75c4a8706ab95c6f"
+  },
+  "6190-soc-nhiem-khuan-o-tre-sieu-am-hay-ct/images/6190_soc-nhiem-khuan_LUS_PMC12468505.jpg": {
+   "sha256": "17371e15cb693b3a009d1773487f73d5b8758adf69578d187bba8564d377edf3",
+   "size": 59875,
+   "etag": "4fa858b238b37f76656a11368f40152e"
+  },
+  "6190-soc-nhiem-khuan-o-tre-sieu-am-hay-ct/images/6190_soc-nhiem-khuan_CT_PMC12468505.jpg": {
+   "sha256": "99a3216445b6660f20752d79edb08833c34acc440f3ee8a7d3da15634b6ac48f",
+   "size": 68687,
+   "etag": "4eddd5cdefd1b695db39da0494242ff0"
+  },
+  "6190-soc-nhiem-khuan-o-tre-sieu-am-hay-ct/images/6190_soc-nhiem-khuan_CT_PMC12281509.jpg": {
+   "sha256": "c7f019490187778687c69dfa922610456b915cb5698bd03c35afed83f1e83f15",
+   "size": 81766,
+   "etag": "b1dcb687d6a1db673f39ffe420ff631a"
   }
  },
- "generated_at": "2026-11-23T21:25:09Z"
+ "generated_at": "2026-11-24T05:13:03Z"
 }
