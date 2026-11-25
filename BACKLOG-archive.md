@@ -3017,3 +3017,6 @@ Viết 754: ngưỡng TMT 6,3/5,2 mm, AUC 0,779, HR 0,399, κ 0,01–0,11 (4 ả
 ## 2026-11-25 — 3316 viêm nội nhãn trên mắt Boston KPro
 - Viết **3316** (mắt – KPro): 9 mắt cấy dương/341 ca (2,6%), 89% đến với ≤ HM, 22% ≥ 20/200, 22% mất nhãn cầu, 44% chủng đề kháng kháng sinh dự phòng; AS-OCT khe 86% vs 33,3%; 4 ảnh CC BY/CC BY-NC/CC BY-NC-SA.
 - Flip #2404; append gap **3317** epithelial downgrowth (đã check_duplicates); verify PASS 8/8; push OK.
+## 2026-11-25 — 3317 xâm nhập biểu mô vào tiền phòng
+- Viết **3317** (mắt – giác mạc/tiền phòng): 124 ca/30 năm — màng sau giác mạc **45%**, glôcôm **43%**, phù **21%**, Seidel dương **23%**, góc đóng **87%** ở mắt múc bỏ; 0,08–0,12% sau đục TTT / 0,25% sau PK; AS-OCT 3,9–7 µm + laser argon trắng bợt; 5-FU 0,04–1 mg/mũi lặp 2–3 tuần (đơn trị 58% vs phối hợp 5/5); 8 ảnh CC BY 4.0.
+- Flip #2405/3317; append gap #2406/3318 (nang biểu mô mống mắt, đã check_duplicates); verify PASS 8/8; push OK.
