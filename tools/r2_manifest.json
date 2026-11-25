@@ -35865,7 +35865,37 @@
    "sha256": "5d534b4e98a25d5659ebf331f1a66fcac7a7a2d570978e97ddcb028eb39e8fc1",
    "size": 53544,
    "etag": "95bd1ae4ec036c9f4745b2dcad1a8f3a"
+  },
+  "3307-viem-mang-bao-dau-truoc-cmv/images/composite_PSS-vs-Fuchs.jpg": {
+   "sha256": "1c549847c33ec442d2e3fe87b26c58bf44c818df1d43a27bb7052a11b1828aa3",
+   "size": 80103,
+   "etag": "b4c022ec82882ac846b08912c515abc4"
+  },
+  "3307-viem-mang-bao-dau-truoc-cmv/images/3307_Fuchs-like_Endothelium-Iris_PMC7690545-Fig4.jpg": {
+   "sha256": "2d0ee1b7a180352a3fd4208088dd175f517cbb13722346d13416354e9029e08b",
+   "size": 44874,
+   "etag": "e8560be8ae7b407ab3c059c27810ffae"
+  },
+  "3307-viem-mang-bao-dau-truoc-cmv/images/3307_CMV-AU_Pigmented-KP_PMC12821118-Fig5.jpg": {
+   "sha256": "300db03e9bd4bf640ffd6d44d6fa23bb739be2e79eb1d888ce94f27b001c60e8",
+   "size": 38760,
+   "etag": "5fee4e9c12897c6aaad4ff297dcd1df4"
+  },
+  "3307-viem-mang-bao-dau-truoc-cmv/images/3307_CMV-AU_Coin-KP_PMC8065052-Fig1.jpg": {
+   "sha256": "7cdfc9f44a4a568e8c961807109c4e94f92a6c5d124b727313bb4a4eaef45440",
+   "size": 198043,
+   "etag": "4e62493133a8216b8006357db38e1d02"
+  },
+  "3307-viem-mang-bao-dau-truoc-cmv/images/3307_CMV-AU_Acute-IOP_PMC7690545-Fig3.jpg": {
+   "sha256": "a07501c4c19c48e679623ae5e0f220173b7fed742ce2966131b7b4f361094fe5",
+   "size": 28732,
+   "etag": "fe351b3e8f07d9d6809465d5f1cb3c8b"
+  },
+  "3307-viem-mang-bao-dau-truoc-cmv/images/3307_CMV-AU_Microgranulomatous-KP_PMC12821118-Fig3.jpg": {
+   "sha256": "349cdb6e1ee16103f61ddc8d59be75e12af3c23146944228394722936072b74b",
+   "size": 40505,
+   "etag": "954b0c12279ae063a2dea82b87ff472c"
   }
  },
- "generated_at": "2026-11-25T10:14:15Z"
+ "generated_at": "2026-11-25T11:49:02Z"
 }
