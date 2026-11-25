@@ -36065,7 +36065,27 @@
    "sha256": "fec4b5dcf09e73123a254f54cd38228e9778bcbca0dc87a3062db8da2fc9bd40",
    "size": 50516,
    "etag": "8079f19c0af953c743448129dcad4e76"
+  },
+  "3316-viem-noi-nhan-sau-giac-mac-nhan-tao-kpro/images/3316_kpro-endophthalmitis_Anh-mat-PMC5848353-Fig1.jpg": {
+   "sha256": "3bdabc789bb5fba7f317aeb152d6781f1c82971e44a1781f6e98ad76f7dac87a",
+   "size": 83040,
+   "etag": "9124bd93789514b7556b2048c1c5f156"
+  },
+  "3316-viem-noi-nhan-sau-giac-mac-nhan-tao-kpro/images/3316_kpro-endophthalmitis_Anh-mat-PMC5141631-Fig2.jpg": {
+   "sha256": "28b54db5401b66fea7bd24178a6dba4c2407c5d76f540c5365d9a8808b38aec8",
+   "size": 29740,
+   "etag": "f3966a353802691cfc795b4551154563"
+  },
+  "3316-viem-noi-nhan-sau-giac-mac-nhan-tao-kpro/images/3316_kpro-melt_Mo-PMC8495233-Fig1.jpg": {
+   "sha256": "e8184b4da888fb88d463abb8a79367d41d80b06f4646430aae13c3829f7815c0",
+   "size": 235339,
+   "etag": "bbdf818e234ce05542e0a4cc480f511f"
+  },
+  "3316-viem-noi-nhan-sau-giac-mac-nhan-tao-kpro/images/3316_kpro-endophthalmitis_Anh-mat-PMC13369110-Fig1.jpg": {
+   "sha256": "4e40b127aed5bf1a69ede5ba89bc0342ab05440bd864971a665b8fceffe29421",
+   "size": 117335,
+   "etag": "f84b205d728bd1461eba2cdd76e482a5"
   }
  },
- "generated_at": "2026-11-25T21:21:52Z"
+ "generated_at": "2026-11-25T22:22:10Z"
 }
