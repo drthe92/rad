@@ -35835,7 +35835,37 @@
    "sha256": "e72d6cfc3a3aacb571cf5fc4cbe3deb96d86f8471a5dab6b4c50baff57999f30",
    "size": 113475,
    "etag": "b52424f6b9a3f688cc237b51c402cfde"
+  },
+  "3306-viem-mang-bao-dau-truoc-hsv-vzv/images/3306_HSV-AU_Slit-lamp_PMC7690545-Fig1.jpg": {
+   "sha256": "20b08323ef4d0522e289ae1a6be75da65961d3cfa27660fd1912fdf88abf6a94",
+   "size": 38047,
+   "etag": "b631076dcf3ca6268f79bbbf94935b61"
+  },
+  "3306-viem-mang-bao-dau-truoc-hsv-vzv/images/composite_HSV-vs-VZV_teo-mong-mat.jpg": {
+   "sha256": "94dc3341139eb80fca732cb207b02fb7273b1defc3a08794b95602c6e925d0e9",
+   "size": 76872,
+   "etag": "2b7b14451231b9a1c786665574bd9abf"
+  },
+  "3306-viem-mang-bao-dau-truoc-hsv-vzv/images/3306_HSV-AU_Retroillumination_PMC9811927-Fig1.jpg": {
+   "sha256": "d06da0a7e0e21c97264a86569ea6c93e2a9ebc80e5245adc441a827539b145ae",
+   "size": 32012,
+   "etag": "e65116738f7784f97097225dd9840e80"
+  },
+  "3306-viem-mang-bao-dau-truoc-hsv-vzv/images/3306_VZV-AU_Retroillumination_PMC9811927-Fig2.jpg": {
+   "sha256": "e5ee0938f7ddec595dc437e8fdeb5da5365c51f21b74ff5150d5b365d13f902e",
+   "size": 84511,
+   "etag": "45b7117a835f4336c28bddd62fa96d7d"
+  },
+  "3306-viem-mang-bao-dau-truoc-hsv-vzv/images/3306_CMV-AU_Coin-KP_PMC9811927-Fig3.jpg": {
+   "sha256": "fa48c8ddac21e459b6d767761b1a34a6087650bc0c91fa6012af9a0fef7c18f5",
+   "size": 33756,
+   "etag": "b3abf81729c95e93bc083faa687ba7f7"
+  },
+  "3306-viem-mang-bao-dau-truoc-hsv-vzv/images/3306_VZV-AU_Slit-lamp_PMC7690545-Fig2.jpg": {
+   "sha256": "5d534b4e98a25d5659ebf331f1a66fcac7a7a2d570978e97ddcb028eb39e8fc1",
+   "size": 53544,
+   "etag": "95bd1ae4ec036c9f4745b2dcad1a8f3a"
   }
  },
- "generated_at": "2026-11-25T08:41:36Z"
+ "generated_at": "2026-11-25T10:14:15Z"
 }
