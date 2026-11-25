@@ -36035,7 +36035,22 @@
    "sha256": "701cd053ae9dd9c9c1195fae5022c754be45578da8eb6e9b1632061fe28176a0",
    "size": 25965,
    "etag": "0b4b3c8cc8125f26c57c8fdd7cab9bc8"
+  },
+  "3314-do-nhan-ap-tren-mat-ghep-giac-mac/images/3314_do-nhan-ap_AS-OCT-dich-interface-sau-DMEK_PMC10538602-F1.jpg": {
+   "sha256": "1e4fca8ccbd3df0a17f53f38a96b6c58a8794936b5a8a19d5a0ab5fcc2dc4400",
+   "size": 95098,
+   "etag": "fd4c91f9d665463222f2cbdbe09e7a4d"
+  },
+  "3314-do-nhan-ap-tren-mat-ghep-giac-mac/images/3314_do-nhan-ap_PK-GAT-iCare-Corvis_BIEU-DO_PMC11642321-F1.jpg": {
+   "sha256": "95e53c90a03081494dffe5f943d5b6cd5c7cd252fe017013f97ccc425c6054eb",
+   "size": 48170,
+   "etag": "8fb0ef3e37b2a3461f70130899f9fe96"
+  },
+  "3314-do-nhan-ap-tren-mat-ghep-giac-mac/images/3314_do-nhan-ap_PK-so-chi-khau-iCare_BIEU-DO_PMC11642321-F2.jpg": {
+   "sha256": "bad0f97b7b32bbb5e5d0462db9b2dc00b5fa538f16163a5e2734f37bc7479d56",
+   "size": 30354,
+   "etag": "5e08891026d2345c73f5955d5df80c08"
   }
  },
- "generated_at": "2026-11-25T19:24:06Z"
+ "generated_at": "2026-11-25T20:26:23Z"
 }
