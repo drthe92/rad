@@ -35820,7 +35820,22 @@
    "sha256": "5febc468f5c45573b410da34f34fed89608915d87f83608f4aa9647e7f5ccfa0",
    "size": 105273,
    "etag": "1405c53371bc1b2d03df14fc486c0c5d"
+  },
+  "3305-hoi-chung-tinu/images/3305_TINU_KP-tien-phong_PMC10895161-Fig1-CCBYNCND.jpg": {
+   "sha256": "ace9faa2282a5f8c1883297f260f69f947de33a5285e4cba95512bbdeb1ad0c0",
+   "size": 61790,
+   "etag": "e57eb379d5b95acfd6c91d93b08e34c4"
+  },
+  "3305-hoi-chung-tinu/images/3305_TINU_Sinh-thiet-than_PMC12712788-Fig2-CCBYNC.jpg": {
+   "sha256": "5203a94921a5cd439ac64e4a9cd0cf38f4f96985909b689f51ebedd587e794e7",
+   "size": 196071,
+   "etag": "e86b12661007313b9c8722ef7a0d7ce8"
+  },
+  "3305-hoi-chung-tinu/images/3305_TINU_Phac-do-dieu-tri_PMC11853424-Fig4-CCBY.jpg": {
+   "sha256": "e72d6cfc3a3aacb571cf5fc4cbe3deb96d86f8471a5dab6b4c50baff57999f30",
+   "size": 113475,
+   "etag": "b52424f6b9a3f688cc237b51c402cfde"
   }
  },
- "generated_at": "2026-11-25T08:00:22Z"
+ "generated_at": "2026-11-25T08:41:36Z"
 }
