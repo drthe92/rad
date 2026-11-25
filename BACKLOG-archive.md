@@ -2991,3 +2991,5 @@ Viết 754: ngưỡng TMT 6,3/5,2 mm, AUC 0,779, HR 0,399, κ 0,01–0,11 (4 ả
 ## 2026-11-25 — worker: bài 3307 CMV viêm màng bồ đào trước
 - Viết 3307 (mắt/tiền phòng): 5 ảnh + 1 composite (CC BY 4.0 · CC BY-NC 4.0 · CC BY-NC-SA 4.0; PMC8065052/PMC12821118/PMC7690545), mục 7 với PMC11219762/PMC10014866/PMC13357539; verify PASS 8/8, 1467 bài/1467 card, parity 0.
 - Flip #2390 → xong; append #2391 (3308 FUS do rubella, đã check_duplicates).
+- 2026-11-25: bài 3308 FUS do rubella (mắt) — 7 ảnh + 1 composite (CC BY / CC BY-NC-SA), GWC 92% vs 0%, PCR 10–20%, SUN 2021 chỉ bắt 8,4%; verify 8/8.
+- BACKLOG: flip #2391 → xong; append #2392 (3309 corticoid-induced OHT, đã check_duplicates).

@@ -35895,7 +35895,47 @@
    "sha256": "349cdb6e1ee16103f61ddc8d59be75e12af3c23146944228394722936072b74b",
    "size": 40505,
    "etag": "954b0c12279ae063a2dea82b87ff472c"
+  },
+  "3308-viem-mong-mat-the-mi-di-sac-fuchs-rubella/images/3308_FUS_Undilated-vs-Dilated_PMC12659839-Fig3.jpg": {
+   "sha256": "2ef13b294b960ad032d7917812351e1f2364e5c9848f35e9b6944270ab6a3435",
+   "size": 34523,
+   "etag": "c22e636006a9a5f836503340481e1eb2"
+  },
+  "3308-viem-mong-mat-the-mi-di-sac-fuchs-rubella/images/3308_FUS_Stellate-KP-Vitreous_PMC9811927-Fig4.jpg": {
+   "sha256": "b8e550f17fbe57bab09553d375b49ba56c9f2e942747057dfcd935811d1ae518",
+   "size": 27462,
+   "etag": "0d213ab9946b554d411bcc6ff01f23a9"
+  },
+  "3308-viem-mong-mat-the-mi-di-sac-fuchs-rubella/images/3308_FUS_Heterochromia_PMC9811927-Fig5.jpg": {
+   "sha256": "0d4afd834d6ba04b3352a00bf84f83bde64da800b05858e984c192e97a22cf4a",
+   "size": 34788,
+   "etag": "cea5e9760b9d570fd33271ad4c076ae0"
+  },
+  "3308-viem-mong-mat-the-mi-di-sac-fuchs-rubella/images/3308_FUS_Iris-Atrophy-Nodules-KP_PMC12659839-Fig4.jpg": {
+   "sha256": "3fe62b36c08f43568ae9119991ee2bfe29db296b23709b9029b3151390c7addb",
+   "size": 52037,
+   "etag": "2326e678eac4a1b0f2c47cd92811f439"
+  },
+  "3308-viem-mong-mat-the-mi-di-sac-fuchs-rubella/images/3308_FUS_Cataract-PSC_PMC5082249-Fig4.jpg": {
+   "sha256": "91ecae600368cb93650c4b62b89dbf610c2efd9cc9fe2111612ba4ea3d36cc7b",
+   "size": 45592,
+   "etag": "621fe258cb3fc077522710534b37ae82"
+  },
+  "3308-viem-mong-mat-the-mi-di-sac-fuchs-rubella/images/composite_FUS-signs.jpg": {
+   "sha256": "e274bbd96775582c17ec030646d470794d3b015a1ed2f24dc15185e573419e83",
+   "size": 76013,
+   "etag": "543a70e51713224deb5424e4bba1be6e"
+  },
+  "3308-viem-mong-mat-the-mi-di-sac-fuchs-rubella/images/3308_FUS_Diffuse-KP_PMC5082249-Fig1.jpg": {
+   "sha256": "98e640fa09bbca38472a90f8b7548af259700570c22ee61365bc38c324580c54",
+   "size": 54669,
+   "etag": "c4d15e5a86d8fd00ce7f72102507f3de"
+  },
+  "3308-viem-mong-mat-the-mi-di-sac-fuchs-rubella/images/3308_FUS_Iris-Atrophy-Pupillary-Margin_PMC5082249-Fig2.jpg": {
+   "sha256": "831575e1ba09096775db57245c9aac690cc264ae2748c112873ee7864fdb1433",
+   "size": 44055,
+   "etag": "1239d72557ddf5a5808b6e165cd31111"
   }
  },
- "generated_at": "2026-11-25T11:49:02Z"
+ "generated_at": "2026-11-25T13:04:53Z"
 }
