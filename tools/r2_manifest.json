@@ -36005,7 +36005,22 @@
    "sha256": "f2913adb7f40731fba19c121f17d73ba70b5ea82268b0b1db16ca2655c987b87",
    "size": 357859,
    "etag": "626455d4bb0bbd03269e3ae85947ff17"
+  },
+  "3312-dem-te-bao-noi-mo-giac-mac-sau-ghep/images/3312_ecd-theo-mo-kho_BIEU-DO_PMC8870504-F2.jpg": {
+   "sha256": "902332c48caa3b50889a9aeb6fb5d2dc4eefd78881ade2d8f3bd0b52c3ed4bd7",
+   "size": 91989,
+   "etag": "3c76558343e0820ed986ffa6848d7732"
+  },
+  "3312-dem-te-bao-noi-mo-giac-mac-sau-ghep/images/3312_ecd-vung_SPECULAR_PMC12669210-F3.jpg": {
+   "sha256": "e3b1482b9554db1d318297e2778a60f9cf09718bde6714e95f7272fe1717b7db",
+   "size": 242339,
+   "etag": "f2f1e8c302e4084415f713109c8c1d37"
+  },
+  "3312-dem-te-bao-noi-mo-giac-mac-sau-ghep/images/3312_vi-tri-chup_SO-DO_PMC12669210-F1.jpg": {
+   "sha256": "4be17d4b5d1fde4309b67c3ba86181ecb947c2efc6de1fc6d56d4164c77df430",
+   "size": 179424,
+   "etag": "6307586c928d8caa9cc79826ecfd181a"
   }
  },
- "generated_at": "2026-11-25T17:23:02Z"
+ "generated_at": "2026-11-25T18:19:56Z"
 }

@@ -3002,3 +3002,4 @@ Viết 754: ngưỡng TMT 6,3/5,2 mm, AUC 0,779, HR 0,399, κ 0,01–0,11 (4 ả
 - 2026-11-25: viết 3310 (tăng nhãn áp do corticoid sau DSEK/DMEK) — 4 ảnh CC BY-NC-ND; append gap 3311 (bong mảnh ghép tái phát sau rebubble, đã check_duplicates).
 - 2026-11-25: viết 3311 (bong mảnh ghép DMEK tái phát sau rebubble) — 3 ảnh (1 CC BY, 2 CC BY-NC-ND), verify PASS 8/8.
 - BACKLOG: flip #2394 → xong; append #2395 (3312 ECD sau ghép, đã check_duplicates).
+- 2026-11-25: bài **3312** (đếm ECD sau ghép/rebubble; 3 ảnh CC BY 4.0; PMC12669210/PMC8870504) — flip #2395/3312, append gap #2401/3313 (CCT sau ghép).
