@@ -35685,7 +35685,32 @@
    "sha256": "ec8d6db49eda98711a3ba6cdaa7d319f3db54446d872929de1baad901a91b4bb",
    "size": 447847,
    "etag": "cfd4775d4ffaa9e8e7e80426c831391c"
+  },
+  "703-cay-than-nao-thinh-giac/images/703_dien-cuc_MO-PMC12819425-Fig5.jpg": {
+   "sha256": "a4ee77ea4542a9ac476372f710a865bb0ffb35dc62b999a300813042a02225ab",
+   "size": 54367,
+   "etag": "acc69d5613503598439b393e0e63d31e"
+  },
+  "703-cay-than-nao-thinh-giac/images/composite_abi.jpg": {
+   "sha256": "f808ea64b1cef0a01fe1b20abf0f3fe8426070f047ad86b0abbe1074f767a4ac",
+   "size": 96203,
+   "etag": "9d58b10dd8ab4ecb86b2d9c61cd86347"
+  },
+  "703-cay-than-nao-thinh-giac/images/703_day-than-kinh_MRI-PMC12559043-Fig3.jpg": {
+   "sha256": "268dce3e585a18329432bd0ff30c914ad2c95961a52ad2d2f78b8f090cec4130",
+   "size": 28234,
+   "etag": "e76eabc4f0207ba095ace4760cb129c9"
+  },
+  "703-cay-than-nao-thinh-giac/images/703_oc-tai_MRI-PMC13374130-Fig4.jpg": {
+   "sha256": "37ef72c978d9ec66d2c70874b60518b29c20233b8e64473bec1f891827c1e7a5",
+   "size": 1303998,
+   "etag": "1d3283f6a57903b1a1c5c0fcd443d51d"
+  },
+  "703-cay-than-nao-thinh-giac/images/703_oc-tai_CT-PMC13374130-Fig2.jpg": {
+   "sha256": "9ca5640fb03dff2757dcc18bdc54f3489abfa7f9a99f3417e0d273465cff6056",
+   "size": 1150877,
+   "etag": "0e82a240ed6d531dfbea43019f3096f4"
   }
  },
- "generated_at": "2026-11-25T01:32:26Z"
+ "generated_at": "2026-11-25T02:26:13Z"
 }
