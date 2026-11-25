@@ -35795,7 +35795,32 @@
    "sha256": "201b345e96b75fc2c122621c9d392c5aa7d842b8e5cb34078f002ed5e5670d94",
    "size": 646392,
    "etag": "dffba0bf02b075593441690074d2bbba"
+  },
+  "3302-viem-mang-bao-dau-giang-mai/images/3302_giang-mai-mat_Day-mat-OCT-FAF_PMC11306553-Fig3-CCBY.jpg": {
+   "sha256": "7b9563f57e3264ad952c9d596e25da4671114eaf1dc34b129b56c00f4a68d121",
+   "size": 106367,
+   "etag": "8b90392ac0568657da20776052f26072"
+  },
+  "3302-viem-mang-bao-dau-giang-mai/images/composite_giang-mai-mat_ASPPC-vs-vong-mac-diem.jpg": {
+   "sha256": "2a6e4ae30591cf96b744d483e61ae3c01e50fad505016a2ad7e2c261102ebecc",
+   "size": 133697,
+   "etag": "40332f891cc5fc8fe8f7b4c4705dc71f"
+  },
+  "3302-viem-mang-bao-dau-giang-mai/images/3302_giang-mai-mat_Tien-phong_PMC11306553-Fig2-CCBY.jpg": {
+   "sha256": "259505d401652a199fd486d739dc330a02fdca8769b45ffd0df73f559792ae88",
+   "size": 72476,
+   "etag": "59192dcbb0ef4d7584f2ecb699ad073b"
+  },
+  "3302-viem-mang-bao-dau-giang-mai/images/3302_giang-mai-mat_FAF-mach-mau_PMC11306553-Fig6-CCBY.jpg": {
+   "sha256": "b3705fdeca17a77d4f33af5aaa920998fd7310d666513257f4b4d607eccf8f57",
+   "size": 103083,
+   "etag": "d569a6db99c048827b2f32d44198402b"
+  },
+  "3302-viem-mang-bao-dau-giang-mai/images/3302_giang-mai-mat_Vong-mac-diem_PMC11306553-Fig4-CCBY.jpg": {
+   "sha256": "5febc468f5c45573b410da34f34fed89608915d87f83608f4aa9647e7f5ccfa0",
+   "size": 105273,
+   "etag": "1405c53371bc1b2d03df14fc486c0c5d"
   }
  },
- "generated_at": "2026-11-25T06:34:38Z"
+ "generated_at": "2026-11-25T08:00:22Z"
 }
