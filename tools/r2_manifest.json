@@ -35710,7 +35710,42 @@
    "sha256": "9ca5640fb03dff2757dcc18bdc54f3489abfa7f9a99f3417e0d273465cff6056",
    "size": 1150877,
    "etag": "0e82a240ed6d531dfbea43019f3096f4"
+  },
+  "427-dut-chan-vong-mac-sau-chan-thuong/images/427_dut-chan-vong-mac_Intraop_PMC12066212-Fig2.jpg": {
+   "sha256": "08d1758a4a211cc3d440e1d8e69cfd7eafe8abd11dbfd3983d17ad6f83dd19fe",
+   "size": 48184,
+   "etag": "c5eb05d8f196cdd8b82f1fd810b6c501"
+  },
+  "427-dut-chan-vong-mac-sau-chan-thuong/images/427_dut-chan-vong-mac_UWF_PMC6727708-Fig1.jpg": {
+   "sha256": "20b0064ea9dc2820b2e11d7a9b5d2580e6f024f71a646242237ac5da9d2dc9a1",
+   "size": 27009,
+   "etag": "b2ed1ab3b1dcffb4d11bf2e850aea80f"
+  },
+  "427-dut-chan-vong-mac-sau-chan-thuong/images/427_dut-chan-vong-mac_Hau-phau_PMC12066212-Fig3.jpg": {
+   "sha256": "1e08527b6433e9259d63de8b2692f5382faf2de6e09370cc62a6b48d3f48fe56",
+   "size": 80476,
+   "etag": "cd07a0796f5ff5af792f382cd8dd1e58"
+  },
+  "427-dut-chan-vong-mac-sau-chan-thuong/images/composite_427_truoc-va-sau-mo.jpg": {
+   "sha256": "0f7c39fc3acae131a3031ecac7fe625da85c39bbb10c261cd34b65b2e8bba6b8",
+   "size": 121006,
+   "etag": "bbcbbe4b3fb333daecc73cdd73628016"
+  },
+  "427-dut-chan-vong-mac-sau-chan-thuong/images/427_dut-chan-vong-mac_UWF-SSOCT_PMC12066212-Fig1.jpg": {
+   "sha256": "cf3371dbb3278d2fb6bf0412ff60d7361732ac7da462ee12231df54789847368",
+   "size": 119234,
+   "etag": "f4af97008a4dfb20fe01b37123a6f2ff"
+  },
+  "427-dut-chan-vong-mac-sau-chan-thuong/images/427_dut-chan-vong-mac_Dai-cung-mac_PMC13688648-Fig4.jpg": {
+   "sha256": "a034fdd31143b19061a88a24064697147b7fae16c45f9156dbe246bc2e4e6330",
+   "size": 216410,
+   "etag": "5e92ec1890878215beaf59a9f111991d"
+  },
+  "427-dut-chan-vong-mac-sau-chan-thuong/images/427_dut-chan-vong-mac_Trong-mo_PMC11875825-Fig2.jpg": {
+   "sha256": "d70f25609fe70cc56c3965836d741bccfc053024fd01541d4847214ace60a2cb",
+   "size": 508982,
+   "etag": "8d623cb4d79e075483ef424137b541de"
   }
  },
- "generated_at": "2026-11-25T02:26:13Z"
+ "generated_at": "2026-11-25T03:28:41Z"
 }
