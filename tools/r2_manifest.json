@@ -35990,7 +35990,22 @@
    "sha256": "6928dca210a645367d2b08dd303185cd5299d9581d73135164e751cc852c5f13",
    "size": 404763,
    "etag": "bc87240d6c57b75e16ebbd6a21f301d2"
+  },
+  "3311-bong-manh-ghep-tai-phat-sau-rebubble/images/3311_dien-tich-the-tich_AS-OCT_PMC9754956-F2.jpg": {
+   "sha256": "6f6e239ff8e5ca84a27383fb6fb10c27c3024291f4740af19186175a83f6737c",
+   "size": 187440,
+   "etag": "66b87a5c7bd6d5fc23938ddf715f3a77"
+  },
+  "3311-bong-manh-ghep-tai-phat-sau-rebubble/images/3311_bong-tai-phat_AS-OCT_PMC10359705-F2.jpg": {
+   "sha256": "95c32df46ee1c56bdd33bb4c66877a7a3775124be40a8a69cb208830be69e002",
+   "size": 281476,
+   "etag": "1aa466fe4c4e772d651e5c902e88c950"
+  },
+  "3311-bong-manh-ghep-tai-phat-sau-rebubble/images/3311_ban-do-vi-tri_SO-DO_PMC9754956-F3.jpg": {
+   "sha256": "f2913adb7f40731fba19c121f17d73ba70b5ea82268b0b1db16ca2655c987b87",
+   "size": 357859,
+   "etag": "626455d4bb0bbd03269e3ae85947ff17"
   }
  },
- "generated_at": "2026-11-25T16:37:35Z"
+ "generated_at": "2026-11-25T17:23:02Z"
 }
