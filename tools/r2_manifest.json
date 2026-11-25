@@ -35785,7 +35785,17 @@
    "sha256": "23efc631f518f81411645af4cce4c8dc33f0837a3ce40d81fc7776cfd02e003e",
    "size": 169254,
    "etag": "1775ac496e80ac6cfd46cc299f746f57"
+  },
+  "3301-u-tang-sinh-mach-vong-mac-ngoai-vi/images/3301_vpt_Fundus-FA-OCT_JCM-2025-f1.jpg": {
+   "sha256": "3da675f858a0725d89d6b134bc3447600ce9e3f6dc836b7f7aec14e39bf4599d",
+   "size": 890118,
+   "etag": "ffe948804b44356e33315bd900ecb459"
+  },
+  "3301-u-tang-sinh-mach-vong-mac-ngoai-vi/images/3301_vpt_Widefield_JCM-2025-f2.jpg": {
+   "sha256": "201b345e96b75fc2c122621c9d392c5aa7d842b8e5cb34078f002ed5e5670d94",
+   "size": 646392,
+   "etag": "dffba0bf02b075593441690074d2bbba"
   }
  },
- "generated_at": "2026-11-25T05:47:03Z"
+ "generated_at": "2026-11-25T06:34:38Z"
 }
