@@ -35745,7 +35745,22 @@
    "sha256": "d70f25609fe70cc56c3965836d741bccfc053024fd01541d4847214ace60a2cb",
    "size": 508982,
    "etag": "8d623cb4d79e075483ef424137b541de"
+  },
+  "428-bong-vong-mac-tren-coloboma/images/428_coloboma-RD_Fundus-TJO-PMC12456910-f1.jpg": {
+   "sha256": "f8ed8aa05a102a960a1c51a16604c799bb59abf4f5e6cc92c71c6aecd48cd3d8",
+   "size": 136779,
+   "etag": "1dc95c91a9e67ecd9e225554f5fef191"
+  },
+  "428-bong-vong-mac-tren-coloboma/images/428_coloboma-RD_SoDo_CC0.png": {
+   "sha256": "392bced31702b90256ce512b855a0f39dd0a0093bdfec85d33f0bceeaa34a1ea",
+   "size": 59883,
+   "etag": "98a62786baf83d8bcda5400046e4bbc6"
+  },
+  "428-bong-vong-mac-tren-coloboma/images/428_coloboma-RD_Fundus-TJO-PMC12456910-f2.jpg": {
+   "sha256": "2ef1cb20c2419d1945925493780c7f6201c0ee1cbb0a2a45fac0e4385b8280e5",
+   "size": 171839,
+   "etag": "923834a6bf34727f0cf08fa7fc5b3b96"
   }
  },
- "generated_at": "2026-11-25T03:28:41Z"
+ "generated_at": "2026-11-25T04:33:37Z"
 }

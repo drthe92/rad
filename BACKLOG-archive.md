@@ -2968,3 +2968,5 @@ Viết 754: ngưỡng TMT 6,3/5,2 mm, AUC 0,779, HR 0,399, κ 0,01–0,11 (4 ả
 ## 2026-11-25 — worker: bài 427 (đứt chân võng mạc sau chấn thương đụng dập)
 - Viết 427 (dialysis): 8–17% RRD, tuổi TB 20,77, 71,7% chấn thương, 31,5% chẩn đoán > 1 năm, 77,4% macula-off; đai 84,9% một mổ, PVR 5,6%; 5 ảnh + 1 composite (PMC12066212/PMC6727708/PMC11875825/PMC13688648); verify PASS 8/8; push OK.
 - Flip #2321; append #2322 (ID 428, coloboma-related RD, đã check_duplicates).
+- 2026-11-25: viết 428 (bong võng mạc trên coloboma hắc–võng mạc) — 2 ảnh TJO CC BY-NC-SA + 1 sơ đồ CC0; mục 7 có 3 câu hỏi kèm PMCID/DOI.
+- 2026-11-25: flip #2322; append #9452 (3232 Coats người lớn, đã check_duplicates).
