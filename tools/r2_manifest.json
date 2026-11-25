@@ -36050,7 +36050,22 @@
    "sha256": "bad0f97b7b32bbb5e5d0462db9b2dc00b5fa538f16163a5e2734f37bc7479d56",
    "size": 30354,
    "etag": "5e08891026d2345c73f5955d5df80c08"
+  },
+  "3315-do-nhan-ap-glocom-mat-giac-mac-nhan-tao-kpro/images/3315_kpro_den-khe-truoc-sau_PMC10889181-F3.jpg": {
+   "sha256": "e2041f85cfc95857fb7b11d85516d756f81a24cc954765175a613779cd4e76fb",
+   "size": 64912,
+   "etag": "9bf638a736f7d01af1dc5ee4cfed21de"
+  },
+  "3315-do-nhan-ap-glocom-mat-giac-mac-nhan-tao-kpro/images/3315_kpro_OCT-dia-thi-RNFL_PMC6727947-F4.jpg": {
+   "sha256": "17d9922c0a2001d6e0c1ec9f9ec84951a991297cbf1bf99d82d7d1ba86778ab6",
+   "size": 120692,
+   "etag": "83a5a43bbca798f1f2defcf37be89d68"
+  },
+  "3315-do-nhan-ap-glocom-mat-giac-mac-nhan-tao-kpro/images/3315_kpro_UBM-xuyen-mat_PMC12585069-F2.jpg": {
+   "sha256": "fec4b5dcf09e73123a254f54cd38228e9778bcbca0dc87a3062db8da2fc9bd40",
+   "size": 50516,
+   "etag": "8079f19c0af953c743448129dcad4e76"
   }
  },
- "generated_at": "2026-11-25T20:26:23Z"
+ "generated_at": "2026-11-25T21:21:52Z"
 }
