@@ -35935,7 +35935,42 @@
    "sha256": "831575e1ba09096775db57245c9aac690cc264ae2748c112873ee7864fdb1433",
    "size": 44055,
    "etag": "1239d72557ddf5a5808b6e165cd31111"
+  },
+  "3309-tang-nhan-ap-corticoid-vien-mang-bao-dau/images/3309_tang-nhan-ap-corticoid_Slitlamp-het-phu_PMC10224573-Fig2.jpg": {
+   "sha256": "9100ce3c2d2b7550d0c9dccefbe7a1160a4dbe6963a537811abb61ce811392a6",
+   "size": 69694,
+   "etag": "feb785694866d1ad649ca8b1ebd50dd5"
+  },
+  "3309-tang-nhan-ap-corticoid-vien-mang-bao-dau/images/3309_tang-nhan-ap-corticoid_Slitlamp-phu-giac-mac_PMC10224573-Fig1.jpg": {
+   "sha256": "c812a0107c90adc0e86bd23ea090eda14f2ddaceb081b3840020f0345c802ccf",
+   "size": 68602,
+   "etag": "309059e0ac430f921e1396590482cb5e"
+  },
+  "3309-tang-nhan-ap-corticoid-vien-mang-bao-dau/images/3309_tang-nhan-ap-corticoid_AS-OCT-TM_PMC10241928-Fig1.jpg": {
+   "sha256": "acd25659634922b616250b94e10f67395962237445856cb5b4bff283c865ca40",
+   "size": 121932,
+   "etag": "d7e8fc42a61db07abd69a6c2ec7ef993"
+  },
+  "3309-tang-nhan-ap-corticoid-vien-mang-bao-dau/images/3309_tang-nhan-ap-corticoid_Thi-truong-khuyet_PMC10224573-Fig4.jpg": {
+   "sha256": "b182c43fd78cb582d9d1a1a6b32873c321bc6ff15621285c4a3b14e0f7f415ee",
+   "size": 155663,
+   "etag": "a595288e97bcdf5a22d37c7e94b48c2d"
+  },
+  "3309-tang-nhan-ap-corticoid-vien-mang-bao-dau/images/composite_corticoid-truoc-sau.jpg": {
+   "sha256": "7f2876db8f29ffe8727bdbaed0feea9fd97d7ec7d8a33afaa378581c81ae4721",
+   "size": 93286,
+   "etag": "ab4e36c0a4d686d8e7e675859fe8d6ab"
+  },
+  "3309-tang-nhan-ap-corticoid-vien-mang-bao-dau/images/3309_tang-nhan-ap-corticoid_Fundus-xuat-huyet-dia-thi_PMC10224573-Fig3.jpg": {
+   "sha256": "a590ac8056198e7b32d7ebb4aedc8021657ada5bedda1f7713028a9bec07faba",
+   "size": 68599,
+   "etag": "2099bd7bea9773c78a457282ccc9b410"
+  },
+  "3309-tang-nhan-ap-corticoid-vien-mang-bao-dau/images/3309_tang-nhan-ap-corticoid_Slitlamp-KP_PMC8113719-Fig3.jpg": {
+   "sha256": "d02e5da99d49f48f12e8f5e959f5bbd1eee8536b1e9de817b16897edb0cee5f4",
+   "size": 251097,
+   "etag": "0c50a1d036ae14878401e6495535244e"
   }
  },
- "generated_at": "2026-11-25T13:04:53Z"
+ "generated_at": "2026-11-25T15:35:45Z"
 }
