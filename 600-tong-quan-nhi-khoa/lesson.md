@@ -635,4 +635,7 @@ certainty: tong-hop-y-van
 **Sốc nhiễm khuẩn – chọn hình ảnh (mới)**
 - 6190 – Sốc nhiễm khuẩn ở trẻ với ổ kín: **siêu âm 3 cửa sổ tại giường trước, CT chỉ khi đổi điều trị**; LUS **12 vùng/0–36 điểm**, **> 8** phân biệt viêm phổi có biến chứng (**AUC 0,881**, Se **79,02%**), **dày màng phổi > 2,2 mm** dự báo cần mổ (Se 73,5%/Sp 50%); **LUS bỏ sót áp-xe phổi (Se 33,3%/0%)**, siêu âm ruột thừa chỉ **Se 54,9%** cho thể phức hợp; **CT đổi đường đi rõ nhất ở áp-xe gan: 52% còn trong bao chỉ cần kháng sinh, 18% vỡ lồng ngực / 16% dưới hoành / 14% phúc mạc tự do**; **51,4% lượt vận chuyển sơ sinh có biến cố, 89% ở lượt về** → ổn định trước khi đi CT *(mới — [bài học](../6190-soc-nhiem-khuan-o-tre-sieu-am-hay-ct/lesson.md))* *(nối 031/040/088/1986/6179)*
 
+**Tiết niệu nhi – theo dõi sau cắt van (mới)**
+- 3157 – Hẹp niệu đạo sau cắt van niệu đạo sau: **can thiệp lại 7–25%** (van tồn tại **hoặc** hẹp niệu đạo), khoảng **2–50%** trong y văn, **32,7% (18/55)** còn lá van gây tắc khi soi lại, **10–30%** cần thủ thuật thứ hai; kỹ thuật quyết định: toàn bộ hẹp trong loạt 61 bệnh nhân theo dõi **7 năm** thuộc nhóm **resectoscope + đốt điện**; siêu âm niệu đạo **C 3,0 → 5,7 mm**, **E/C 1,8 → 0,9**, **PAR > 2,2** = còn tắc, **MCUG lặp 3 tháng** sau cắt van; phân biệt **van tồn tại – hẹp – tắc cổ bàng quang thứ phát – DSD** *(mới — [bài học](../3157-hep-nieu-dao-sau-cat-van-o-tre/lesson.md))* *(nối 3154/3010/3086/671)*
+
 > Không dùng để chẩn đoán độc lập khi chưa có người hướng dẫn.

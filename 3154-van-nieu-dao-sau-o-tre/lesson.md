@@ -158,6 +158,7 @@ flowchart TD
 </details>
 
 ## Bài liên quan chéo
+- [3157 – Hẹp niệu đạo sau cắt van ở trẻ: tia yếu trở lại, đo mm/PAR, phân biệt van tồn tại – hẹp – cổ bàng quang](../3157-hep-nieu-dao-sau-cat-van-o-tre/lesson.md) (theo dõi sau cắt van và can thiệp lại)
 - [3086 – Nhiễm khuẩn tiểu và ứ mủ ở trẻ](../3086-cauti-o-tre/lesson.md) (biểu hiện hay gặp của PUV)
 - [3010 – Hẹp miệng nối niệu quản–bàng quang ở trẻ](../3010-hep-mien-noi-nieu-quan-bang-quang-o-tre/lesson.md) (tắc nghẽn cao hơn)
 - [6112 – Xuất huyết thượng thận ở sơ sinh](../6112-xuat-huyet-thuong-than-so-sinh/lesson.md) (khối thượng thận sơ sinh)
