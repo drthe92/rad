@@ -1,0 +1,22 @@
+# CREDITS — ảnh bài 3317 (Xâm nhập biểu mô vào tiền phòng / epithelial downgrowth)
+
+Mỗi ảnh ghi nguồn, giấy phép, link gốc và ghi chú phái sinh. **Không tải** ảnh nào không rõ giấy phép; bài không dẫn ảnh AuntMinnie/paywall. Tên tác giả chỉ ghi trong `sources.md` (đã đối chiếu qua PubMed/Europe PMC); ở đây ghi tạp chí/năm/PMCID để tránh gán sai tác giả cho từng hình.
+
+| Tệp | Nội dung | Nguồn (bài gốc) | Giấy phép | Link gốc | Phái sinh |
+|---|---|---|---|---|---|
+| `3317_epithelial-downgrowth_Anh-mat-PMC12064144-Fig1.jpg` | (A) Màng biểu mô **2,8 mm** bờ cuộn ở mặt sau giác mạc trên; (B, C) AS-OCT: **lớp tăng hồi âm mỏng**, bờ cuộn; (D) tái phát lan **360°**; (E) AS-OCT vùng dưới | *Cureus* 2025;17(4):e81948. Fig. 1. PMCID: PMC12064144 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12064144/ | Không chỉnh sửa nội dung; đổi tên tệp; dùng cả 5 ô trong một ảnh gốc của bài |
+| `3317_epithelial-downgrowth_Histo-PMC12064144-Fig2.jpg` | Mô bệnh H&E: **biểu mô lát tầng không sừng hóa** (mũi tên trắng) của EDG | *Cureus* 2025;17(4):e81948. Fig. 2. PMCID: PMC12064144 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12064144/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `3317_fibrous-downgrowth_Anh-mat-PMC12064144-Fig3.jpg` | Xâm nhập xơ: (A) màng **dày, bờ không đều**; (B) AS-OCT màng dưới nội mô; (C, D) sau bóc 8 tháng | *Cureus* 2025;17(4):e81948. Fig. 3. PMCID: PMC12064144 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12064144/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `composite_edg-vs-fibrous-downgrowth.jpg` | Ảnh ghép đối chiếu **EDG (trái)** và **xâm nhập xơ (phải)**; letterbox nền đen, **không crop/kéo giãn**; dải đen ghi tên bệnh + nguồn | Tổng hợp từ 2 tệp trên (PMC12064144 Fig. 1 + Fig. 3) | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12064144/ | Tạo bằng `tools/make_composite.py`; **chỉ thêm nhãn/dải attribution**, không thay đổi nội dung ảnh |
+| `3317_epithelial-downgrowth_Anh-mat-PMC11476867-Fig1.jpg` | Màng biểu mô **trong như sương** trên mống mắt, từ **10 đến 5 giờ**; kèm **rách mống mắt 11–1 giờ** | *BMC Ophthalmol* 2024;24:450. Fig. 1. PMCID: PMC11476867 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC11476867/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `3317_epithelial-downgrowth_AS-OCT-PMC11476867-Fig2.jpg` | (A) AS-OCT: **màng tăng hồi âm trên mặt trước mống mắt** (mũi tên); (B) mặt sau giác mạc **không có màng** | *BMC Ophthalmol* 2024;24:450. Fig. 2. PMCID: PMC11476867 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC11476867/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `3317_epithelial-downgrowth_Histo-PMC11476867-Fig4.jpg` | Mô bệnh H&E ×200: **biểu mô lát tầng** (mũi tên xanh) trên **sắc tố mống mắt** (mũi tên vàng) | *BMC Ophthalmol* 2024;24:450. Fig. 4. PMCID: PMC11476867 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC11476867/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `3317_epithelial-downgrowth_Anh-mat-PMC13778635-Fig2.jpg` | (a) Màng dạng tấm **1 tháng sau phaco + rạch chỉnh loạn thị**; (b) lan rộng thêm **1 tháng**; (c) màng **nằm sâu trong nhu mô** (thể trước Descemet) | *J Ophthalmic Vis Res* 2026;21:16915. Fig. 2. PMCID: PMC13778635 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13778635/ | Chuyển **WebP → JPEG** (giữ nguyên nội dung, không crop); đổi tên tệp |
+| `3317_epithelial-downgrowth_Anh-mat-PMC13103524-Fig2.jpg` | (a) Màng lan **70% mảnh ghép**, corectopia, ectropion uveae; (b) sau mũi **5-FU** thứ hai: màng thoái triển, còn phù + PAS mũi; (c) AS-OCT: **PAS mũi tồn tại** | *GMS Ophthalmol Cases* 2026;16:Doc04. Fig. 2. PMCID: PMC13103524 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13103524/ | Không chỉnh sửa nội dung; đổi tên tệp |
+
+## Ghi chú giấy phép
+
+- Tất cả ảnh đều **CC BY 4.0** (riêng ảnh ghép cũng CC BY 4.0 vì nguồn CC BY 4.0): được chia sẻ và chỉnh sửa nếu **ghi công đầy đủ**; bài này **không crop**, chỉ **đổi tên tệp**, **đổi định dạng** (một ảnh WebP → JPEG) và **ghép + thêm dải attribution** cho ảnh composite.
+- Ảnh tải trực tiếp từ **PMC CDN** (`cdn.ncbi.nlm.nih.gov/pmc/blobs/...`) lấy trong trang bài gốc, không qua nguồn thứ cấp.
+- Các bài chỉ dùng **số liệu**, không dùng ảnh: PMID 2920156, PMID 32644422, PMC8800354, PMC4464587, PMID 23928949, PMID 27261941, PMID 19034128, PMC11462678.
+- Không dùng ảnh của **AuntMinnie/paywall**; không dùng ảnh có giấy phép mơ hồ.

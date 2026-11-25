@@ -36085,7 +36085,52 @@
    "sha256": "4e40b127aed5bf1a69ede5ba89bc0342ab05440bd864971a665b8fceffe29421",
    "size": 117335,
    "etag": "f84b205d728bd1461eba2cdd76e482a5"
+  },
+  "3317-xam-nhap-bieu-mo-vao-tien-phong/images/3317_epithelial-downgrowth_Anh-mat-PMC13103524-Fig2.jpg": {
+   "sha256": "9d69b2695a2133ef8d753ec4554014ece78bb16bae7dd166cf2592a0c14b5e56",
+   "size": 98303,
+   "etag": "b85ea304bcca038b3d9e1414d71eb078"
+  },
+  "3317-xam-nhap-bieu-mo-vao-tien-phong/images/3317_fibrous-downgrowth_Anh-mat-PMC12064144-Fig3.jpg": {
+   "sha256": "3bd70dddd4c504c7d5ed7081d03db48beda637c56de433d1d80ad3a9d43e3702",
+   "size": 87944,
+   "etag": "34267ce73ed0309f0eedcad8dbad715a"
+  },
+  "3317-xam-nhap-bieu-mo-vao-tien-phong/images/3317_epithelial-downgrowth_Histo-PMC12064144-Fig2.jpg": {
+   "sha256": "e5a346895cf133256096d10df01532e675f51c7e314aa8a9e5992968717f0769",
+   "size": 89634,
+   "etag": "82713e5b21c899a387a0ef0b30bf1835"
+  },
+  "3317-xam-nhap-bieu-mo-vao-tien-phong/images/3317_epithelial-downgrowth_AS-OCT-PMC11476867-Fig2.jpg": {
+   "sha256": "d341e20e32fee79166d5caab6c38a229f999b1009df94a6adc6c692e6100a151",
+   "size": 65046,
+   "etag": "a2baf96451bb823d56b0e55d589ec1f0"
+  },
+  "3317-xam-nhap-bieu-mo-vao-tien-phong/images/3317_epithelial-downgrowth_Histo-PMC11476867-Fig4.jpg": {
+   "sha256": "ec60abf25b536096f44d60208dd3b6b405e53cae022c18a1fc19b25606e0f7fd",
+   "size": 101487,
+   "etag": "b8de7346aaed37ab23eebee30058dc19"
+  },
+  "3317-xam-nhap-bieu-mo-vao-tien-phong/images/3317_epithelial-downgrowth_Anh-mat-PMC13778635-Fig2.jpg": {
+   "sha256": "a1fdd22ba7101ad67a52525b36b19bb8685d3bb6f5ec7efe82225e68f156fd84",
+   "size": 85759,
+   "etag": "99fe3cd6bf83d9f31335dfa6c322e883"
+  },
+  "3317-xam-nhap-bieu-mo-vao-tien-phong/images/3317_epithelial-downgrowth_Anh-mat-PMC12064144-Fig1.jpg": {
+   "sha256": "496b2561da1056ff78a1d97e3614c22e4d8abbfa9bb6eb895ef6631b1106818e",
+   "size": 109765,
+   "etag": "d3d49649681e66f990583e980240637c"
+  },
+  "3317-xam-nhap-bieu-mo-vao-tien-phong/images/3317_epithelial-downgrowth_Anh-mat-PMC11476867-Fig1.jpg": {
+   "sha256": "2692507245215f47d377b835e49e146b96e0d5a4a2999352d8546cd3459ad5ec",
+   "size": 43312,
+   "etag": "94fb983fca156cfa4d9145cc9a1b7927"
+  },
+  "3317-xam-nhap-bieu-mo-vao-tien-phong/images/composite_edg-vs-fibrous-downgrowth.jpg": {
+   "sha256": "47ef5a428f25e0ad8adaaf4faa132fc9c762b28362ba0fa6e10a39d274a16537",
+   "size": 98299,
+   "etag": "ce9c5f04fdb7024327bc27c960e81a27"
   }
  },
- "generated_at": "2026-11-25T22:22:10Z"
+ "generated_at": "2026-11-25T23:18:18Z"
 }
