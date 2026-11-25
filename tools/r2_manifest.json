@@ -35970,7 +35970,27 @@
    "sha256": "d02e5da99d49f48f12e8f5e959f5bbd1eee8536b1e9de817b16897edb0cee5f4",
    "size": 251097,
    "etag": "0c50a1d036ae14878401e6495535244e"
+  },
+  "3310-tang-nhan-ap-corticoid-sau-ghep-noi-mo-giac-mac/images/3310_PMC12917340-Fig2-bong-manh-ghep-GATT.jpg": {
+   "sha256": "7b68045370b3820e606058059e940d474059a85a0089e059a12f622424f2e383",
+   "size": 91311,
+   "etag": "6e270b48fee83e03ec7461570b6ba00d"
+  },
+  "3310-tang-nhan-ap-corticoid-sau-ghep-noi-mo-giac-mac/images/3310_PMC11492462-Fig2-IOP-graft-failure.jpg": {
+   "sha256": "75872a8669176529c215ff2d42b62662c0c51b6578104c3bf108de10eb24664f",
+   "size": 66645,
+   "etag": "bc026c406465b79c8c4eb80a3606eecc"
+  },
+  "3310-tang-nhan-ap-corticoid-sau-ghep-noi-mo-giac-mac/images/3310_PMC12917340-Fig3-AS-OCT-dinh-lai.jpg": {
+   "sha256": "2ff26d0dcd8c7ea197a32af85d6a007452ff0e9a44939125a02df4b6f9bfde64",
+   "size": 72343,
+   "etag": "6dc2e42157f7bb6aef85bb6984963606"
+  },
+  "3310-tang-nhan-ap-corticoid-sau-ghep-noi-mo-giac-mac/images/3310_PMC12304695-gr2.jpg": {
+   "sha256": "6928dca210a645367d2b08dd303185cd5299d9581d73135164e751cc852c5f13",
+   "size": 404763,
+   "etag": "bc87240d6c57b75e16ebbd6a21f301d2"
   }
  },
- "generated_at": "2026-11-25T15:35:45Z"
+ "generated_at": "2026-11-25T16:37:35Z"
 }

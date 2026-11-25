@@ -2997,3 +2997,5 @@ Viết 754: ngưỡng TMT 6,3/5,2 mm, AUC 0,779, HR 0,399, κ 0,01–0,11 (4 ả
 - BACKLOG: flip #2391 → xong; append #2392 (3309 corticoid-induced OHT, đã check_duplicates).
 ## 2026-11-25 — bài 3309
 - Viết 3309 (tăng nhãn áp do corticoid trên mắt viêm màng bồ đào): 14,8–29,2% steroid responder, TM < 646,75 µm, 7 ảnh CC BY/CC BY-NC-ND; verify PASS 8/8; push OK. Flip #2392; append #2393 (3310 — corticoid sau DSEK/DMEK).
+
+- 2026-11-25: viết 3310 (tăng nhãn áp do corticoid sau DSEK/DMEK) — 4 ảnh CC BY-NC-ND; append gap 3311 (bong mảnh ghép tái phát sau rebubble, đã check_duplicates).
