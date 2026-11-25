@@ -35640,7 +35640,27 @@
    "sha256": "d53d0a9491820d939ca35cebb10449c6f4f7b810f842b1ffe69012fdb8d78d1a",
    "size": 183080,
    "etag": "0855388c561d7c7075715e17342f1af5"
+  },
+  "6205-lao-ruot-va-lao-phuc-mac-o-tre/images/6205_lao-ruot_CT_PMC9997595-Fig2.jpg": {
+   "sha256": "9c49677a656e0406831440a5004f8595ffb88b1e16293bc625f155f4f3e326a9",
+   "size": 47948,
+   "etag": "c27a8c0744fcf84949c68be40b25097b"
+  },
+  "6205-lao-ruot-va-lao-phuc-mac-o-tre/images/composite_day-thanh-ruot-va-hach-hoai-tu.jpg": {
+   "sha256": "5fc33ee6ea8163f08987e547c8c4a6bae2775f0b8948da04be1b1278bc177db9",
+   "size": 103158,
+   "etag": "9e4a0683167847340e300360d75370cc"
+  },
+  "6205-lao-ruot-va-lao-phuc-mac-o-tre/images/6205_lao-ruot_CT_PMC9806801-Fig4.jpg": {
+   "sha256": "48e24f9a979cd212c63299497958f9e88692adf0079a1b96976dc9f3cce96102",
+   "size": 77870,
+   "etag": "d79b8678cfe1f35a691f8298c011b511"
+  },
+  "6205-lao-ruot-va-lao-phuc-mac-o-tre/images/6205_lao-ruot_CT_PMC9806801-Fig11.jpg": {
+   "sha256": "3d3f2d0bbe65bf6cd6022319715866c99e0505c0c37139a6af7a162d4c44aa78",
+   "size": 71489,
+   "etag": "ca15ca8f03551062d41dedb69e67843c"
   }
  },
- "generated_at": "2026-11-24T23:22:58Z"
+ "generated_at": "2026-11-25T00:18:40Z"
 }

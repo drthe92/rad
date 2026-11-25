@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://rad.matcauvong.com/</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://rad.matcauvong.com/about.html</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://rad.matcauvong.com/</loc><lastmod>2026-11-25</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://rad.matcauvong.com/about.html</loc><lastmod>2026-11-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://rad.matcauvong.com/001-tong-quan-he-nguc/</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/010-giai-phau-nguc-cat-lop/</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/011-tieu-thuy-phoi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -1306,6 +1306,7 @@
   <url><loc>https://rad.matcauvong.com/620-cap-cuu-tieu-hoa-so-sinh-nhu-nhi/</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/6202-viem-mo-duoi-da-viem-khop-do-tuy-tre/</loc><lastmod>2026-11-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/6203-bat-san-tui-mat-bam-sinh/</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rad.matcauvong.com/6205-lao-ruot-va-lao-phuc-mac-o-tre/</loc><lastmod>2026-11-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/621-nang-san-la-phoi-o-tre/</loc><lastmod>2026-10-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/6210-bong-vong-mac-sau-mo-duc-thuy-tinh-bam-sinh/</loc><lastmod>2026-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/6211-duc-truc-quang-vao-sau-mo-duc-thuy-tinh-bam-sinh/</loc><lastmod>2026-11-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -1419,7 +1420,7 @@
   <url><loc>https://rad.matcauvong.com/752-thieu-san-men-turner-rang-vinh-vien/</loc><lastmod>2026-11-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/753-loan-san-xo-xuong-ham/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/754-tmt-co-thai-duong-sarcopenia/</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rad.matcauvong.com/800-cardiovascular-overview/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rad.matcauvong.com/800-cardiovascular-overview/</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/810-coronary-cta-cadrads/</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/820-cardiac-mri-lge-mapping/</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/830-tavi-structural-heart/</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
