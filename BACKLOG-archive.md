@@ -2971,3 +2971,5 @@ Viết 754: ngưỡng TMT 6,3/5,2 mm, AUC 0,779, HR 0,399, κ 0,01–0,11 (4 ả
 - Flip #2321; append #2322 (ID 428, coloboma-related RD, đã check_duplicates).
 - 2026-11-25: viết 428 (bong võng mạc trên coloboma hắc–võng mạc) — 2 ảnh TJO CC BY-NC-SA + 1 sơ đồ CC0; mục 7 có 3 câu hỏi kèm PMCID/DOI.
 - 2026-11-25: flip #2322; append #9452 (3232 Coats người lớn, đã check_duplicates).
+- 2026-11-25: viết **3232** (Coats người lớn) — 240 BN/250 mắt, giải phẫu 44,6%, tái phát 19,3%; 5 ảnh CC BY/CC BY-NC-ND; verify PASS 8/8.
+- 2026-11-25: flip 9452 → xong; append #9453 (3301 VPT, mắt); sửa ID trùng 3232 của #2180 → 3244.

@@ -220,6 +220,7 @@ CLASSIFY_4D = {
     "3252": "mat",    # hội chứng bao chết (dead bag syndrome) — mắt (thể thủy tinh – bao)
     "3294": "mat",    # trẻ aphakia — UBM/AS-OCT đánh giá hỗ trợ bao trước IOL thứ phát
     "3299": "mat",    # haptic IOL trong khoang trên hắc mạc sau cố định xuyên củng mạc
+    "3232": "mat",    # bệnh Coats ở người lớn (võng mạc – mạch máu, bong tiết dịch)
     "6185": "msk",    # vỡ chuôi khớp háng nhân tạo — thất bại mỏi của implant
     "3147": "msk",    # rò động–tĩnh mạch do chấn thương ở chi (mạch máu – cơ xương)
     "3145": "nhi",    # chấn thương tụy kín ở trẻ (chấn thương – tiêu hóa nhi)

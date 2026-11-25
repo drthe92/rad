@@ -35760,7 +35760,32 @@
    "sha256": "2ef1cb20c2419d1945925493780c7f6201c0ee1cbb0a2a45fac0e4385b8280e5",
    "size": 171839,
    "etag": "923834a6bf34727f0cf08fa7fc5b3b96"
+  },
+  "3232-coats-nguoi-lon/images/3232_coats-nguoi-lon_Fundus_BMCO-2025-f2.jpg": {
+   "sha256": "c383770cab9da9e9af8adb8373f5bd94a864350d01a993b281dfa1b91bbda63f",
+   "size": 71010,
+   "etag": "ba501be1c5d8293aa94df6b9195f85df"
+  },
+  "3232-coats-nguoi-lon/images/3232_coats-nguoi-lon_Fundus-FA-OCT_AOS-2026-f5.jpg": {
+   "sha256": "d7103e705d8f03f9a7ead0f7d04a58d7438fa4551745ef9dfe22988fc1e312c4",
+   "size": 193509,
+   "etag": "9056d0282317c46d43f81928932bb4db"
+  },
+  "3232-coats-nguoi-lon/images/3232_coats-nguoi-lon_OCT-FTMH_Cureus-2026-f4.jpg": {
+   "sha256": "7f726b7cef39ab3030f2511e77a90388b4085d4bd1d8bd9a51d3e0474fc89c77",
+   "size": 143752,
+   "etag": "340655bd700da47223bd564b61c3a604"
+  },
+  "3232-coats-nguoi-lon/images/3232_coats-nguoi-lon_FA_BMCO-2025-f3.jpg": {
+   "sha256": "957966f3bf6d5da8ed7ca26c0031cd26e756c2e60200752eacd795f8dc5dd130",
+   "size": 55475,
+   "etag": "2f487e47496d39462653fc704c930e02"
+  },
+  "3232-coats-nguoi-lon/images/3232_coats-nguoi-lon_Fundus-FA-OCT_JCM-2021-f3.jpg": {
+   "sha256": "23efc631f518f81411645af4cce4c8dc33f0837a3ce40d81fc7776cfd02e003e",
+   "size": 169254,
+   "etag": "1775ac496e80ac6cfd46cc299f746f57"
   }
  },
- "generated_at": "2026-11-25T04:33:37Z"
+ "generated_at": "2026-11-25T05:47:03Z"
 }
