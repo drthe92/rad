@@ -36220,7 +36220,42 @@
    "sha256": "017acebdebc3cce633ae91bb8e6bb5194f5baf7d10fbaa46f3c0f4ebe02163ed",
    "size": 100904,
    "etag": "79ba0ab0b86c7fb0da828c04c77268df"
+  },
+  "3320-nang-bi-hoc-mat-vo-viem/images/3320_nang-bi-hoc-mat_CT_Cureus-PMC12925083-F1.jpg": {
+   "sha256": "7b6b556c29a82d3a9b634630d85f760008d7a5ce30593c5f7e495d96490cfac6",
+   "size": 71573,
+   "etag": "82e514ef7e6021ad71fca7f13d621c8d"
+  },
+  "3320-nang-bi-hoc-mat-vo-viem/images/3320_nang-bi-hoc-mat-vo_CT_Cureus-PMC10154989-F2.jpg": {
+   "sha256": "7678f10afeefecafb402c90cbee4c4450f761273de3ed1d9ebf9ecf0b0369700",
+   "size": 21220,
+   "etag": "d7fd2201325c4ed33b61fea535e287af"
+  },
+  "3320-nang-bi-hoc-mat-vo-viem/images/3320_nang-bi-hoc-mat_MRI-T1_Cureus-PMC12925083-F2.jpg": {
+   "sha256": "e66fc295c41c5c3945e7c197e913288ae0a689dbee4b459670660e69563005e3",
+   "size": 84857,
+   "etag": "f55f3d4966328def282be26fa40132cc"
+  },
+  "3320-nang-bi-hoc-mat-vo-viem/images/3320_nang-bi-hoc-mat_MRI-T1C-FS_Cureus-PMC12925083-F6.jpg": {
+   "sha256": "0acc5c34dedee100952be2e5157b7c07a3f5bbe405ee0292857de6239756f87f",
+   "size": 90777,
+   "etag": "7fc87d65d4766727aff3d00bfccc1cd7"
+  },
+  "3320-nang-bi-hoc-mat-vo-viem/images/3320_nang-bi-hoc-mat-vo_Histo_Cureus-PMC10154989-F3.jpg": {
+   "sha256": "d444d2548bffdf12a3ef5509e47fa9dcff18d734ff1a012f84c095431a653eab",
+   "size": 111903,
+   "etag": "9882108afb2d45145718851f37306fb9"
+  },
+  "3320-nang-bi-hoc-mat-vo-viem/images/3320_nang-bi-hoc-mat_MRI-T1FS_Cureus-PMC12925083-F5.jpg": {
+   "sha256": "84be01366569d5bb9bc3624710249ae740f0f08213f28dec6f633f7f8ad91b6e",
+   "size": 77887,
+   "etag": "6f17ac4d2c237923eaea5e26a480f4ff"
+  },
+  "3320-nang-bi-hoc-mat-vo-viem/images/composite_nang-bi_mo-T1-T1FS.jpg": {
+   "sha256": "69d6d69d5a8eea361e5c3e1ee996b02b52d9379a1e05f15a389024678dff49f7",
+   "size": 112651,
+   "etag": "726e147167e59d3ace6ad0b82e7574a8"
   }
  },
- "generated_at": "2026-11-26T01:22:35Z"
+ "generated_at": "2026-11-26T02:27:50Z"
 }
