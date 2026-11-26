@@ -36130,7 +36130,52 @@
    "sha256": "47ef5a428f25e0ad8adaaf4faa132fc9c762b28362ba0fa6e10a39d274a16537",
    "size": 98299,
    "etag": "ce9c5f04fdb7024327bc27c960e81a27"
+  },
+  "3318-nang-bieu-mo-mong-mat-tien-phong/images/3318_iris-cyst_Anh-mat-PMC4745941-Fig1.jpg": {
+   "sha256": "89650f69b2eb48a1d973807a1d6d23c2a2b9a52dea2d46a22797d8abc358fa4a",
+   "size": 61360,
+   "etag": "765a017d7c4454279c5bff0b1a1736da"
+  },
+  "3318-nang-bieu-mo-mong-mat-tien-phong/images/3318_iris-cyst_AS-OCT-PMC13030350-Fig3.jpg": {
+   "sha256": "76c4daa7295eefabe5fbfba1c5dc793e380f10d8e10b7fbc403772d46446547e",
+   "size": 76005,
+   "etag": "c7066b658200a46df392674ee97879ee"
+  },
+  "3318-nang-bieu-mo-mong-mat-tien-phong/images/3318_iris-cyst_Anh-mat-UBM-PMC13171844-Fig1.jpg": {
+   "sha256": "278e1d82521c83796e3119644c87bbf270eded53b3d0594ca00b5d7b0439ee59",
+   "size": 101237,
+   "etag": "98a36b73d637a4a2d8f11d5ce357684c"
+  },
+  "3318-nang-bieu-mo-mong-mat-tien-phong/images/3318_iris-cyst_Anh-mat-PMC13030350-Fig2.jpg": {
+   "sha256": "cebdc9e5b092cd5dbfee01ded4e0d3eb67b20baa16aad14fe5594a9958001d6e",
+   "size": 100297,
+   "etag": "b494baa2567c0827602606c30621bdb9"
+  },
+  "3318-nang-bieu-mo-mong-mat-tien-phong/images/3318_iris-cyst_Anh-mat-PMC9710453-Fig1.jpg": {
+   "sha256": "d0e05118a10b027a196c561d3b0d71ad03fbc7630637f05ea8f811762598f57a",
+   "size": 92170,
+   "etag": "108e001f74448843f73851d416195eab"
+  },
+  "3318-nang-bieu-mo-mong-mat-tien-phong/images/3318_iris-cyst_Sieu-am-B-PMC9710453-Fig2.jpg": {
+   "sha256": "f944813d6572728e6639b954693d59ba91d3cbe8734211f9355bdf13098eb8fa",
+   "size": 61610,
+   "etag": "b394bd599e3aaa873264ae007850ebaf"
+  },
+  "3318-nang-bieu-mo-mong-mat-tien-phong/images/3318_iris-cyst_Anh-mat-PMC11891596-Fig1.jpg": {
+   "sha256": "a0eafa3507a40b0cecb3aedcbaea9b67ace8abdbd5e5a1b2cfd13e7819d65f5b",
+   "size": 241439,
+   "etag": "c2c7987c847f35cdffa81b49d900fc1d"
+  },
+  "3318-nang-bieu-mo-mong-mat-tien-phong/images/3318_iris-cyst_Histo-PMC11891596-Fig3.jpg": {
+   "sha256": "f915b1bb4640c5d27b2537939b33df56ec503edba97101ee6a19e37c00428fea",
+   "size": 399214,
+   "etag": "38440f5da6e6db3f0b453d9a98bd0ff4"
+  },
+  "3318-nang-bieu-mo-mong-mat-tien-phong/images/composite_nang-nho-vs-nang-lon.jpg": {
+   "sha256": "92fb3f382ce7328799da7bb78a3b7645e88f1a6b230e30e0253f662f24a54065",
+   "size": 131680,
+   "etag": "9491ccee44a7bc0fc29aa8fc720f31a5"
   }
  },
- "generated_at": "2026-11-25T23:18:18Z"
+ "generated_at": "2026-11-26T00:18:52Z"
 }

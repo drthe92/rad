@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://rad.matcauvong.com/</loc><lastmod>2026-11-25</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://rad.matcauvong.com/about.html</loc><lastmod>2026-11-25</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://rad.matcauvong.com/</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://rad.matcauvong.com/about.html</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://rad.matcauvong.com/001-tong-quan-he-nguc/</loc><lastmod>2026-11-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/010-giai-phau-nguc-cat-lop/</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/011-tieu-thuy-phoi/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -1008,6 +1008,7 @@
   <url><loc>https://rad.matcauvong.com/3315-do-nhan-ap-glocom-mat-giac-mac-nhan-tao-kpro/</loc><lastmod>2026-11-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/3316-viem-noi-nhan-sau-giac-mac-nhan-tao-kpro/</loc><lastmod>2026-11-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/3317-xam-nhap-bieu-mo-vao-tien-phong/</loc><lastmod>2026-11-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rad.matcauvong.com/3318-nang-bieu-mo-mong-mat-tien-phong/</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/332-u-nguyen-phat/</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/340-viem-khop-va-thoai-hoa-khop/</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rad.matcauvong.com/341-khop-cot-song/</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
