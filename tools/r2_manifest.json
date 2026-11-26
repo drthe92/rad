@@ -36290,7 +36290,22 @@
    "sha256": "4cd2d94715056d0ba2c8b1e99effc150fa242cb6d0b370e372079f7ddd504681",
    "size": 256125,
    "etag": "89bc0e4973dcde93c5afb8a1fedb06f1"
+  },
+  "3158-hep-mieng-noi-tinh-mach-than-ghep/images/3158_hep-mieng-noi-tm-than-ghep_Venography_PMC11366437.jpg": {
+   "sha256": "180a503844435a6c27e9bbb18f19470798d03f094ab157dba9dc876ffe3599c7",
+   "size": 109242,
+   "etag": "d5cfc306267c897bba9bee61861ecbf2"
+  },
+  "3158-hep-mieng-noi-tinh-mach-than-ghep/images/3158_hep-mieng-noi-tm-than-ghep_CT-DSA-Doppler_PMC11883305.jpg": {
+   "sha256": "29d1786584fef2fbac3cd135c1644581daa3bb4343b3a994ae55e5f106fb88c3",
+   "size": 98090,
+   "etag": "bd2130532083646da293f0c1b4f3fa58"
+  },
+  "3158-hep-mieng-noi-tinh-mach-than-ghep/images/3158_hep-mieng-noi-tm-than-ghep_Venography-chau_PMC12602614.jpg": {
+   "sha256": "6d1681d7026acd32bffacda195754668220628c69bacfa44c3716f1ee3f754d2",
+   "size": 122088,
+   "etag": "68d484a32f91f9f146b3d4e0e93d5a07"
   }
  },
- "generated_at": "2026-11-26T05:51:56Z"
+ "generated_at": "2026-11-26T06:39:42Z"
 }
