@@ -36255,7 +36255,17 @@
    "sha256": "69d6d69d5a8eea361e5c3e1ee996b02b52d9379a1e05f15a389024678dff49f7",
    "size": 112651,
    "etag": "726e147167e59d3ace6ad0b82e7574a8"
+  },
+  "1995-thieu-mau-thieu-sat-sau-bang-huyet-hau-san/images/1995_thieu-mau-sau-sinh_SA_PMC13351678-F8.jpg": {
+   "sha256": "76982bd5cd53b97450c96cb39b8468b3394bfd85bebb9f9ff2f36637dceffbc5",
+   "size": 44722,
+   "etag": "09beb466a04492252db7fd70d6c2e05a"
+  },
+  "1995-thieu-mau-thieu-sat-sau-bang-huyet-hau-san/images/1995_thieu-mau-sau-sinh_CT_PMC13351678-F3.jpg": {
+   "sha256": "7332ec44dd92a9597e209a4466ae28ed281bed089311c57d7425ab7bb24fb98c",
+   "size": 30955,
+   "etag": "d798b78de4deb8eb859fac48366a796f"
   }
  },
- "generated_at": "2026-11-26T02:27:50Z"
+ "generated_at": "2026-11-26T04:20:30Z"
 }
