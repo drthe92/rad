@@ -36325,7 +36325,37 @@
    "sha256": "a2c93eea39abc4c1360e8bfc3c7e6674f8b6ac2277e46b8205639787bf795c8e",
    "size": 57627,
    "etag": "7ff695dcea5d0febba24f2fa8ebd76fe"
+  },
+  "3156-bang-quang-than-kinh-o-tre/images/3156_bang-quang-than-kinh_MRI-doi-day-tuy_PMC12924690.jpg": {
+   "sha256": "abe0fe551e75205fcb348e13980e3ec3b5aecde0251732e73d45cd9022cae1d3",
+   "size": 35668,
+   "etag": "670613ebec5a06719de781fa18e0939f"
+  },
+  "3156-bang-quang-than-kinh-o-tre/images/3156_bang-quang-than-kinh_CT-u-nuoc_PMC11089924.jpg": {
+   "sha256": "26f1c020ea298cbc2c4824d6c42867950a1e6021f90b23275ecabaaba5ebf3f2",
+   "size": 55313,
+   "etag": "c55ecbc242a8708bcc4083484284d868"
+  },
+  "3156-bang-quang-than-kinh-o-tre/images/composite_3156_MRI-cot-song.jpg": {
+   "sha256": "7d8b4aa1805d7fcb28a478641b87a4b4660aa4f8c126832d1cf1004d61f70dfa",
+   "size": 54574,
+   "etag": "6863e92197940566beb43e791cbf4586"
+  },
+  "3156-bang-quang-than-kinh-o-tre/images/3156_bang-quang-than-kinh_US-thanh-day_PMC11089924.jpg": {
+   "sha256": "96531165e75c23003ca3b314dc42c8c6154913b13b3eba52791dfffd9ed7ac40",
+   "size": 44333,
+   "etag": "7ad0cb28b1d8500d8fffd5bb55f280fe"
+  },
+  "3156-bang-quang-than-kinh-o-tre/images/3156_bang-quang-than-kinh_MRI-cot-song-binh-thuong_PMC11089924.jpg": {
+   "sha256": "de7efe978ccdc35a3345a9411dab8886d08d40f675601bcb7b844178de9321de",
+   "size": 40291,
+   "etag": "b4181d8aec59d64be62189edebeea80a"
+  },
+  "3156-bang-quang-than-kinh-o-tre/images/3156_bang-quang-than-kinh_VCUG-Christmas-tree_PMC12933896.jpg": {
+   "sha256": "adae2c880f79a884ee42ecec75930b0004b0a9f28450c05c8a6be1bbe2982908",
+   "size": 70155,
+   "etag": "e021f34e11c12afd8cd437ce22a117cd"
   }
  },
- "generated_at": "2026-11-26T07:32:19Z"
+ "generated_at": "2026-11-26T08:35:50Z"
 }
