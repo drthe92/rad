@@ -35,6 +35,30 @@
    - Dùng cho: trẻ **10 tuổi**, sưng hốc mắt trái **3 tuần**, **không tiền sử chấn thương**; MRI lần đầu: **khối ngoài nón viền ngấm thuốc, trung tâm không ngấm** → đọc là **u/schwannoma**; **5 tháng sau** rò mủ, MRI lại thấy **ổ khuyết tín hiệu rõ + đường rò**; mổ lấy **nhiều mảnh gỗ**.
    - Ảnh: Fig. 1 (MRI T2 axial + T1 sau tiêm coronal) → **1 ảnh**.
 
+7. **Song C, Li J, Wang T, Jiang T, Zhang M, Gao A, Cui S, Zhao X, Hao D.** CT and MRI findings of intraorbital wooden foreign bodies. *Clin Radiol* 2025;84:106859.
+   - DOI **10.1016/j.crad.2025.106859** · PMID **40112530** · không có toàn văn mở — dùng số trong abstract
+   - Dùng cho: **10 ca có mổ xác nhận**, **5 ca MRI**; gỗ **cấp −252,77 HU**, **ngày 15 +97,28 HU so với cơ**, **mạn 79,08 và 212,95 HU** (kèm mô hạt); **MRI T1 và T2/T2 fat-sat giảm tín hiệu ở 5/5 ca**; kích thước **8 × 6,4 mm – 46 × 5,5 mm** (trung bình **26,6 × 5,4 mm**).
+
+8. **Taş S, Top H.** Intraorbital wooden foreign body: clinical analysis of 32 cases, a 10-year experience. *Ulus Travma Acil Cerrahi Derg* 2014;20(1):51–55.
+   - DOI **10.5505/tjtes.2014.93876** · PMID **24639316** · không có toàn văn mở — dùng số trong abstract
+   - Dùng cho: **32 ca**; CT **khẳng định 72%**, **gợi ý 28%**; thị lực cải thiện sau mổ **69%**; phân bố vị trí **trên 28%, trong 25%, ngoài 22%, dưới 16%, sau 9%**.
+
+9. **Shelsta HN, Bilyk JR, Rubin PA, Penne RB, Carrasco JR.** Wooden intraorbital foreign body injuries: clinical characteristics and outcomes of 23 patients. *Ophthalmic Plast Reconstr Surg* 2010;26(4):238–244.
+   - DOI **10.1097/IOP.0b013e3181bd7509** · PMID **20523259** · không có toàn văn mở — dùng số trong abstract
+   - Dùng cho: **23 ca**; đọc phim đầu **khẳng định 61%**, **"có thể" 22%**, **không thấy 13%**; **43%** đến trong 24 giờ; thời gian **24 giờ – 17 tháng** (trung vị **3 ngày**); **52%** có thị lực vào viện **20/20–20/40**.
+
+10. **Ayalon A, Fanadka F, Levov D, Saabni R, Moisseiev E.** Detection of Intraorbital Foreign Bodies Using Magnetic Resonance Imaging and Computed Tomography. *Curr Eye Res* 2021;46(12):1917–1922.
+    - DOI **10.1080/02713683.2021.1945108** · PMID **34325598** · không có toàn văn mở — dùng số trong abstract
+    - Dùng cho: mô hình **hốc mắt cừu + 3 T**, 4 vật liệu × 3 kích thước; **CT đồng thuận 94,4%**; MRI **T1 MPRAGE 66,7%**, **T1 TSE 50%**, **T2 TSE 88,9%**, **T2 TSE fat-sat 72,2%**; **vật nhỏ khó thấy hơn**, **nhựa khó nhất**.
+
+11. **Voss JO, Doll C, Raguse JD, Beck-Broichsitter B, Walter-Rittel T, Kahn J, Böning G, Maier C, Thieme N.** Detectability of foreign body materials using X-ray, computed tomography and magnetic resonance imaging: a phantom study. *Eur J Radiol* 2021;135:109505.
+    - DOI **10.1016/j.ejrad.2020.109505** · PMID **33421828** · không có toàn văn mở — dùng số trong abstract
+    - Dùng cho: **34 vật thể** trong phantom gelatin; phát hiện **MR 97,1% > CT 86,0% > X-quang 61,8%**; **nhận đúng vật liệu** **MR 33,3%, CT 25,5%, XR 16,7%**.
+
+12. **Yang D, Peng SX, Li J, Yi MT, Liang H.** Foreign body removal from nasal cavity in transorbital injury of long bamboo stick penetrating nasopharyngeal region: a case report. *Front Surg* 2026;13:1779911.
+    - PMCID **PMC13008974** · Giấy phép **CC BY 4.0** · https://doi.org/10.3389/fsurg.2026.1779911
+    - Dùng cho: nam **67 tuổi**, tre dài **~10 cm** xuyên hốc mắt – mũi hầu; **CT đầu đọc là "khí"**; **CT đa bình diện ngày 5** lộ toàn bộ đường đi; đường vào **nội soi mũi**; thị lực **1,3 → 0,5 logMAR** sau 3 tháng.
+
 ## 2. Nguồn đã đọc, không trích số
 
 - Ba nhóm nghiên cứu thực nghiệm về dị vật gỗ (khô/ướt, mảnh **< 3 mm**) — **chỉ đọc qua phần trích dẫn** của bài tổng quan *Insights Imaging* 2021: siêu âm/MRI tốt hơn X-quang/CT nhưng kết quả **không đồng nhất**; gỗ khô nhỏ **có thể không thấy trên MRI**.

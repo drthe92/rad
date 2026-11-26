@@ -5,6 +5,7 @@ anatomical_location: "hốc mắt (orbit): khoang ngoài nón – trong nón, th
 primary_pattern: "dị vật cản quang hoặc giảm đậm độ trong hốc mắt ± khí – kính mờ mô mềm (radiopaque or hypodense intraorbital foreign body)"
 tags: [pattern:di-vat, pattern:giam-dam-do, pattern:gia-anh-dai, pattern:khi-mo-mem, vung:hoc-mat, vung:mat, vung:non-co, vung:dinh-hoc-mat, anatomy:thanh-o-mat, protocol:CT-1mm, protocol:MRI-hoc-mat, protocol:sieu-am-hoc-mat, score:khong, incidentaloma:khong]
 certainty: tong-hop-y-van
+research_asof: "2026-11"
 ---
 
 # 1506 — Dị vật hốc mắt tồn lưu: gỗ giả khí, thủy tinh cản quang, kim loại giả ảnh — và khi nào TUYỆT ĐỐI không chụp MRI / Retained intraorbital foreign body
@@ -28,7 +29,7 @@ certainty: tong-hop-y-van
 ### 1.2 Vật lý đậm độ: vì sao "gỗ" không phải một con số HU
 
 - **Gỗ = cellulose + khí + nước.** Tỷ trọng gỗ khô **0,35–0,9 g/cm³**, tức **dưới 1 g/cm³ ≈ dưới 0 HU** — chỉ một số gỗ rất cứng (lignum vitae, ebony) mới **> 0 HU** (PMC7884531). Vì thế **gỗ khô nằm trong hốc mắt có thể có đậm độ gần khí (−1.000 HU) hoặc mỡ (−40…−120 HU)** và **bị đọc là khí trong mô (emphysema)**.
-- **Gỗ tươi hoặc gỗ đã nằm lâu trong cơ thể** hút dịch, viêm xơ quanh → **đậm độ tăng dần lên mô mềm (+20…+80 HU)**, thậm chí **thành "bóng tăng đậm độ không đều"** sau nhiều tháng (PMC5377438, PMC7884531). **[suy luận]** Đây là lý do cùng một miếng gỗ có thể **âm tính lúc cấp** và **dương tính giả u lúc mạn**.
+- **Gỗ tươi hoặc gỗ đã nằm lâu trong cơ thể** hút dịch, viêm xơ quanh → **đậm độ tăng dần lên mô mềm (+20…+80 HU)**, thậm chí **thành "bóng tăng đậm độ không đều"** sau nhiều tháng (PMC5377438, PMC7884531). **Loạt 10 ca có mổ xác nhận (2025)** định lượng đúng diễn tiến này: giai đoạn **cấp** gỗ có đậm độ **−252,77 HU** (giữa mỡ và khí); **ngày 15** đậm độ **cao hơn cơ 97,28 HU**; giai đoạn **mạn** gỗ **+ viền mô hạt** đo **79,08 HU** và **212,95 HU**, và **5/5 ca chụp MRI đều giảm tín hiệu trên T1 và T2/T2 fat-sat** (DOI 10.1016/j.crad.2025.106859). **[suy luận]** Đây là lý do cùng một miếng gỗ có thể **âm tính lúc cấp** (bị đọc là khí) và **dương tính giả u lúc mạn** — nên **thời điểm chụp** là một biến số chẩn đoán, không chỉ vật liệu.
 - **Thủy tinh** cản quang mạnh: **+300 đến +600 HU**, bờ rõ (PMC5377438). **Kim loại** thường **> 1.000 HU**, gây **giả ảnh dải do beam hardening + photon starvation** — càng dày càng nhiều dải, và **dải có thể che một mảnh thứ hai nhỏ hơn** (PMC7884531).
 - **Nhựa (plastic)** là nhóm **không đồng nhất**: từ **giảm đậm độ như mỡ** đến **cản quang nhẹ**, có loại **không thấy được trên CT** (PMC7884531). **Đá/sỏi** cản quang, đậm độ **tương đương hoặc hơn xương**. **Mảnh xương** cùng đậm độ xương nhưng **bờ thẳng, khớp với ổ khuyết xương**; **răng/mão răng** rất cản quang, dễ nhầm kim loại.
 
@@ -36,6 +37,9 @@ certainty: tong-hop-y-van
 |---|---|---|---|
 | Gỗ khô | **≈ 0 HU hoặc âm** (tỷ trọng < 1 g/cm³) | **Ổ giảm đậm độ "hình học"**, bờ phẳng, có thể có cấu trúc bên trong | PMC7884531 |
 | Gỗ tươi / gỗ nằm lâu | **+20…+80 HU**, có thể cao hơn | Tăng đậm độ không đều + viêm xơ quanh | PMC5377438 |
+| Gỗ **cấp** (loạt 10 ca) | **−252,77 HU** (trung bình) | Nằm giữa mỡ và khí → dễ bị đọc là **khí** | DOI 10.1016/j.crad.2025.106859 |
+| Gỗ **ngày 15** | **+97,28 HU so với cơ** | Đậm độ tăng nhanh sau khi hút dịch | DOI 10.1016/j.crad.2025.106859 |
+| Gỗ **mạn** + mô hạt | **79,08 HU** và **212,95 HU** | Bóng tăng đậm độ không đều, giả u | DOI 10.1016/j.crad.2025.106859 |
 | Thủy tinh | **+300…+600 HU** | Mảnh sắc cạnh, bờ rõ, không giả ảnh | PMC5377438 |
 | Kim loại | **> 1.000 HU** | **Giả ảnh dải (streak)**, ảnh hưởng cả lát cắt lân cận | PMC7884531 |
 | Nhựa | **Rất thay đổi: âm → dương** | Có thể **không thấy** trên CT; dựa vào gián tiếp | PMC7884531 |
@@ -47,11 +51,13 @@ certainty: tong-hop-y-van
 1. **Hiệu ứng thể tích riêng phần (partial volume averaging):** mảnh gỗ **1–3 mm** nằm cạnh khí/xương/mỡ bị "pha loãng" đậm độ; trên lát **2–3 mm** nó gần như biến mất. Lát **≤ 1 mm** làm giảm hiệu ứng này (PMC7884531, PMC10902474).
 2. **Chọn sai cửa sổ:** ban đầu đọc trên **cửa sổ mô mềm**, nơi **khí và gỗ cùng đen**; **cửa sổ phổi (W 1.500 / L −600)** cho thấy **cấu trúc bên trong của gỗ**, phân biệt với **bóng khí đồng nhất** — đây chính là mẹo của ca "near miss" (PMC7884531 Case 1; PMC10902474).
 3. **Bỏ qua dấu hiệu gián tiếp:** **khí hình học (geometric air pocket)**, **khí – dịch**, **dày mô mềm không giải thích**, **viêm xơ quanh một "hạt" nhỏ"**. Trong ca near miss, **ổ khí hình chữ nhật** nằm **dọc thành trong** chính là **hình dạng của miếng tre** — không phải bóng khí tự do (PMC10902474).
+4. **Người đọc và cách đọc:** trong **23 ca** gỗ hốc mắt (Wills Eye + Mass Eye and Ear), lần đọc phim đầu **khẳng định** dị vật chỉ **61%**, **"có thể" 22%**, **không thấy 13%**; **43%** bệnh nhân đến trong 24 giờ đầu, thời gian đến khám **24 giờ – 17 tháng** (trung vị **3 ngày**) (PMID 20523259). Đây là lý do phải **ghi rõ nghi ngờ dị vật hữu cơ lên phiếu chỉ định** và **đọc lại trên MPR + cửa sổ phổi**, không chỉ dựa vào báo cáo đầu.
 
 ### 1.4 Vì sao MRI thấy gỗ nhưng lại NGUY HIỂM
 
 - Gỗ **không có proton linh động** → **giảm tín hiệu trên T1 và T2** ("signal void"); mô hạt/áp-xe quanh **ngấm thuốc viền** → hình **"ổ khuyết tín hiệu trong khối ngấm thuốc"** (PMC7884531 Case 3, PMC13499104).
 - Nhưng **MRI không phân biệt được gỗ với mảnh xương, khí, hay vôi hóa**, và **một miếng gỗ khô nhỏ có thể "tàng hình"** trên MRI (nghiên cứu thực nghiệm: gỗ **< 3 mm** khó thấy) (PMC7884531).
+- **Số liệu thực nghiệm mâu thuẫn nhau — đừng coi "MRI nhạy hơn CT" là chân lý:** mô hình **hốc mắt cừu + 3 T** cho **CT đồng thuận 94,4%** giữa 3 phẫu thuật viên, còn MRI chỉ **66,7% (T1 MPRAGE)**, **50% (T1 TSE)**, **88,9% (T2 TSE)** và **72,2% (T2 TSE fat-sat)**; **vật càng nhỏ càng khó thấy**, và **nhựa** khó nhất (DOI 10.1080/02713683.2021.1945108). Ngược lại, phantom gelatin đầu–cổ cho **MR 97,1% > CT 86,0% > X-quang 61,8%**, nhưng **nhận đúng vật liệu** chỉ **33,3% (MR) / 25,5% (CT) / 16,7% (XR)** (DOI 10.1016/j.ejrad.2020.109505). **[suy luận]** Khác biệt do **vị trí (mô mỡ hốc mắt vs gelatin), kích thước mảnh, chuỗi xung và người đọc** — vì vậy **hai modality bổ sung nhau**, không thay thế nhau.
 - **Chống chỉ định tuyệt đối khi chưa loại trừ dị vật kim loại/nhiễm từ:** từ trường có thể **kéo lệch vật** trong hốc mắt gây **mù, xuất huyết, rách nhãn cầu**. Vì vậy **CT luôn đứng trước MRI** trong chấn thương hốc mắt cấp (PMC11765369).
 - **Cạm bẫy đã được báo cáo:** ở trẻ **không có tiền sử chấn thương**, MRI cho **khối ngoài nón ngấm thuốc viền, trung tâm không ngấm** → **đọc thành u (schwannoma hốc mắt)**; 5 tháng sau mới lộ **dị vật gỗ + áp-xe + rò** (PMC13499104).
 
@@ -67,8 +73,11 @@ certainty: tong-hop-y-van
 | Giới / tuổi | Nam:nữ **4:1**; đỉnh **3–9 tuổi** | PMC11765369 |
 | CT phát hiện dị vật gỗ | **42–72%** (các loạt khác nhau) | PMC10902474 |
 | Dị vật **không kim loại** bỏ sót ở CT đầu | tới **42%** | PMC11765369 |
-| Loạt 30 ca gỗ: CT thấy / đọc sai | **17/30** thấy; **10 ca** chẩn đoán sai; MRI **13 ca** | PMC42241355 |
-| Loạt 30 ca gỗ: biến chứng khi đến | viêm mô tế bào **14/30 (47%)**, rò **7/30 (23%)**; **8/30** mổ nhiều lần | PMC42241355 |
+| Loạt 30 ca gỗ: CT thấy / đọc sai | **17/30 (56,6%)** thấy; **10 ca** chẩn đoán sai (đọc là **khí**); MRI **13 ca** | PMC42241355 |
+| Loạt 30 ca gỗ: biến chứng khi đến | viêm mô tế bào **14/30 (47%)**, rò **7/30 (23%)**; **8/30** mổ nhiều lần (**2 ca 3 lần, 5 ca 2 lần**) | PMC42241355 |
+| Loạt 32 ca gỗ: CT đọc | **khẳng định 72%**, **gợi ý 28%**; thị lực cải thiện sau mổ **69%** | PMID 24639316 |
+| Loạt 23 ca gỗ: đọc phim đầu | **khẳng định 61%**, **"có thể" 22%**, **không thấy 13%**; **43%** đến trong 24 giờ | PMID 20523259 |
+| Gỗ cấp / ngày 15 / mạn (10 ca) | **−252,77 HU** / **+97,28 HU so với cơ** / **79,08 & 212,95 HU** | DOI 10.1016/j.crad.2025.106859 |
 | Thời gian chấn thương → khám | **1 ngày – 7 năm**; **16/30 trong tuần đầu** | PMC42241355 |
 | Thủy tinh trên CT | **+300…+600 HU** | PMC5377438 |
 | Gỗ khô | tỷ trọng **< 1 g/cm³ ≈ 0 HU** | PMC7884531 |
@@ -249,6 +258,26 @@ flowchart TD
 - **Chốt:** **cản quang mạnh, nhiều mảnh, không giả ảnh** = thủy tinh; **giả ảnh dải** mới là kim loại. Mảnh thủy tinh **trơ** nhưng **nhiều mảnh + gần cơ vận nhãn** → **lấy** để tránh viêm/xơ và hạn chế vận nhãn; kết hợp **sửa sàn ổ mắt**.
 - **Nguồn ảnh:** Voss JO và cs., *Insights Imaging* 2021 (PMC7884531), **CC BY 4.0**.
 </details>
+
+## 7. Câu hỏi nghiên cứu & điểm chưa đồng thuận (tính đến 11/2026)
+
+1. **[Tranh cãi] Ở bệnh nhân nghi dị vật hữu cơ hốc mắt, CT hay MRI là khảo sát đầu tay tốt hơn để phát hiện và định vị dị vật?**
+   - **Đã biết:** mô hình hốc mắt cừu 3 T: **CT đồng thuận 94,4%** vs MRI **50–88,9%** tùy chuỗi xung (DOI 10.1080/02713683.2021.1945108); phantom đầu–cổ lại cho **MR 97,1% > CT 86,0%** (DOI 10.1016/j.ejrad.2020.109505); loạt bệnh nhân: CT chỉ thấy **56,6–72%** (PMC13674916; PMID 24639316).
+   - **Chưa rõ:** chưa có so sánh trực tiếp trên bệnh nhân với **chuẩn mổ**; kết quả phụ thuộc **kích thước mảnh, thời điểm chụp, loại gỗ và người đọc**.
+   - **Hướng nghiên cứu:** nghiên cứu **diagnostic accuracy tiền cứu, đọc mù**, phân tầng theo kích thước/vật liệu/thời gian, so CT đa năng lượng với các chuỗi MRI.
+   - **Nguồn:** DOI 10.1080/02713683.2021.1945108; DOI 10.1016/j.ejrad.2020.109505; PMC13674916.
+
+2. **[Khác biệt thực hành] Sau khi lấy dị vật gỗ, có nên chụp CT/MRI kiểm tra thường quy hay chỉ chụp khi có triệu chứng?**
+   - **Đã biết:** **8/30 ca** phải mổ lại vì sót mảnh (**2 ca mổ 3 lần, 5 ca mổ 2 lần**) (PMC13674916); ca tre ở mũi hầu chỉ lộ đủ đường đi nhờ **CT đa bình diện lặp lại ngày 5** (PMC13008974).
+   - **Chưa rõ:** không có lịch thống nhất (**24–48 giờ, 1–2 tuần hay 6 tuần**), không rõ CT hay MRI, và **không có ngưỡng "mảnh còn lại đủ nhỏ để theo dõi"**.
+   - **Hướng nghiên cứu:** đoàn hệ có **protocol chụp lại cố định**, kết cục **mổ lại, nhiễm, rò, thị lực**; so sánh chiến lược "chụp tất cả" với "chụp theo triệu chứng".
+   - **Nguồn:** PMC13674916; PMC13008974.
+
+3. **[Khoảng trống] Có ngưỡng HU/kích thước nào đủ tin cậy để phân biệt gỗ với khí hoặc mỡ trong hốc mắt không?**
+   - **Đã biết:** gỗ **cấp** trung bình **−252,77 HU**, **ngày 15** cao hơn cơ **97,28 HU**, **mạn** **79,08–212,95 HU**; MRI **giảm tín hiệu T1 và T2 ở 5/5 ca** nhưng không đặc hiệu (DOI 10.1016/j.crad.2025.106859).
+   - **Chưa rõ:** chưa có **ROC/ngưỡng tiền cứu**; chưa rõ ảnh hưởng của **loài gỗ, độ ẩm, thời gian lưu** và của **thuật toán giảm giả ảnh** lên đậm độ.
+   - **Hướng nghiên cứu:** phantom đa loại gỗ + đo HU theo thời gian, đối chiếu mô học; kiểm chứng **CT đa năng lượng** và **cửa sổ phổi** trong nghiên cứu lâm sàng.
+   - **Nguồn:** DOI 10.1016/j.crad.2025.106859; DOI 10.1080/02713683.2021.1945108.
 
 ## Bài liên quan chéo
 - [449 – Chấn thương mắt & dị vật nội nhãn: BETT, 5 dấu CT, chống chỉ định MRI](../449-chan-thuong-mat-dich-vat/lesson.md)
