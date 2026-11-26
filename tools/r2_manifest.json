@@ -36265,7 +36265,32 @@
    "sha256": "7332ec44dd92a9597e209a4466ae28ed281bed089311c57d7425ab7bb24fb98c",
    "size": 30955,
    "etag": "d798b78de4deb8eb859fac48366a796f"
+  },
+  "114-ro-mat-sau-cat-gan-va-mieng-noi-mat-ruot/images/114_ro-mat_MRI-HBP_AnnGastroenterol2020-PMC7599347-Fig1.jpg": {
+   "sha256": "ccfdba8aaec39449b2619c7e2e92ae3ff7488a8eea96549cb9301fe532e8c767",
+   "size": 64885,
+   "etag": "ae18d9d93e67457e97ce73b59b9ae8ea"
+  },
+  "114-ro-mat-sau-cat-gan-va-mieng-noi-mat-ruot/images/114_ro-mat_ERCP-DICCT_DENOpen2026-PMC13687923-Fig2.jpg": {
+   "sha256": "d1b0025c3964cc618eb00847f6a799c70221e175fc9a52082c5ef94bbcbd800c",
+   "size": 77061,
+   "etag": "af791040cd05fcf9aeb913c937272548"
+  },
+  "114-ro-mat-sau-cat-gan-va-mieng-noi-mat-ruot/images/114_ro-mat_Cholangiography_AnnGastroenterol2020-PMC7599347-Fig5.jpg": {
+   "sha256": "42406f2adbdd1e85e676ad8e8361631f1ad7831f421430834be817e46f2218e1",
+   "size": 55394,
+   "etag": "47c3c30a59b0b74f4781498dff34ceb3"
+  },
+  "114-ro-mat-sau-cat-gan-va-mieng-noi-mat-ruot/images/114_ro-mat_Flow-quan-ly_Langenbecks2026-PMC13782112-Fig1.jpg": {
+   "sha256": "05db39595e584f57ed425e21bf61bcec9a760008cf3299996c96ec82edf9c507",
+   "size": 108738,
+   "etag": "21a330246d0e36d89af0701a530bf240"
+  },
+  "114-ro-mat-sau-cat-gan-va-mieng-noi-mat-ruot/images/114_ro-mat_ERCP-PTBD_IntervRadiol2025-PMC12643787-Fig4.jpg": {
+   "sha256": "4cd2d94715056d0ba2c8b1e99effc150fa242cb6d0b370e372079f7ddd504681",
+   "size": 256125,
+   "etag": "89bc0e4973dcde93c5afb8a1fedb06f1"
   }
  },
- "generated_at": "2026-11-26T04:20:30Z"
+ "generated_at": "2026-11-26T05:51:56Z"
 }
