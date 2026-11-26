@@ -36305,7 +36305,27 @@
    "sha256": "6d1681d7026acd32bffacda195754668220628c69bacfa44c3716f1ee3f754d2",
    "size": 122088,
    "etag": "68d484a32f91f9f146b3d4e0e93d5a07"
+  },
+  "3159-tac-mach-khi-tinh-mach-luong-lon/images/composite_tac-mach-khi-tim-phai.jpg": {
+   "sha256": "7db1a9c56011d0e6eac24b35af6d11bd12b877df0b5d8f603acbb82c831ab5ba",
+   "size": 92704,
+   "etag": "b40a46374f26baba46fd5d405c47ed55"
+  },
+  "3159-tac-mach-khi-tinh-mach-luong-lon/images/3159_tac-mach-khi-tm_CT-sagittal_PMC9503891.jpg": {
+   "sha256": "006b1338e3b5786780b5bc2a69b40d70549327c57f7fd5c27be971355aca6d7b",
+   "size": 73594,
+   "etag": "4789ccc45f8d85937f6915598772e757"
+  },
+  "3159-tac-mach-khi-tinh-mach-luong-lon/images/3159_tac-mach-khi-tm_CT-axial_PMC9503891.jpg": {
+   "sha256": "1f22177d2fadd82c2d57d814da48c63a14c8075d17cc0c0636e91b66e84b5fd5",
+   "size": 57300,
+   "etag": "fb725811e31d100b6404ed55cf9c7ed4"
+  },
+  "3159-tac-mach-khi-tinh-mach-luong-lon/images/3159_tac-mach-khi-tm_TTE_PMC12826233.jpg": {
+   "sha256": "a2c93eea39abc4c1360e8bfc3c7e6674f8b6ac2277e46b8205639787bf795c8e",
+   "size": 57627,
+   "etag": "7ff695dcea5d0febba24f2fa8ebd76fe"
   }
  },
- "generated_at": "2026-11-26T06:39:42Z"
+ "generated_at": "2026-11-26T07:32:19Z"
 }

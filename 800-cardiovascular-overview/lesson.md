@@ -51,6 +51,7 @@ certainty: tong-hop-y-van
 - [3094 – U nhầy tim thể gia đình & Carney complex: **u nhầy 20–40% CNC**, tái phát **tới 22%** vs **< 3%**, u đồng thời **tới 53%**; **57%** tử vong do tim; **PRKAR1A**; TTE **suốt đời**, kể cả sau ghép tim (ca tái phát **26 năm**)](../3094-u-nhay-tim-gia-dinh-carney-complex/lesson.md) *(mới — nối 3093/810/820)*
 - [1693 – Thrombophlebitis migrans (Trousseau) & SVT không giãn tĩnh mạch: ngưỡng 3 cm/5 cm, kiểm soát u ẩn](../1693-thrombophlebitis-migrans-trousseau/lesson.md) *(mới)*
 - [3856 – Rò nhĩ trái – thực quản sau đốt rung nhĩ: **0,025%** thủ thuật (RF **0,038%** vs cryo **0,0015%**), triệu chứng trung vị **18 ngày** (0–60), tử vong **65,8%** (nội khoa **89,5%**); **khí trong nhĩ trái** là dấu chốt, **24,2%** CT đầu bình thường, **cấm nội soi thực quản**; mổ CPB sống **71,9%** vs **11%** không mổ](../3856-ro-nhi-trai-thuc-quan/lesson.md) *(mới — nối 810/820/1852/3854)*
+- [3159 – Tắc mạch khí tĩnh mạch lượng lớn & bọt khí trong tim phải: **ETCO₂ 35→10 mmHg** trước khi SpO₂ tụt; **VAE 16,1%** mổ nửa ngồi, **86%** không đổi ETCO₂; **Durant + hút qua catheter > 5 Fr**, khí **−1.000 HU** phía trước thất phải](../3159-tac-mach-khi-tinh-mach-luong-lon/lesson.md) *(mới — nối 3123/070/098/3856)*
 
 ## Quy hoạch Master Curriculum Tim mạch (800–899)
 > Đã viết có link; chưa viết là text dự kiến. ID ổn định, không đánh lại số.
