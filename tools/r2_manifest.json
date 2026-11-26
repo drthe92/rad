@@ -36175,7 +36175,52 @@
    "sha256": "92fb3f382ce7328799da7bb78a3b7645e88f1a6b230e30e0253f662f24a54065",
    "size": 131680,
    "etag": "9491ccee44a7bc0fc29aa8fc720f31a5"
+  },
+  "3319-nang-tuyen-le-dacryops/images/3319_dermoid_MRI-PMC13322739-Fig2.jpg": {
+   "sha256": "8b678d2b2c8bda8004f8367964269eb4996973321f9194c2161a058ea32d90a0",
+   "size": 53576,
+   "etag": "725aa7b80dc2f4d2a7151c7ceb308c6b"
+  },
+  "3319-nang-tuyen-le-dacryops/images/3319_u-tuyen-da-hinh_MRI-PMC12819838-Fig2.jpg": {
+   "sha256": "f3bec994933d6819f8776e7d14b872b27e992497acdf3561647400d18657b129",
+   "size": 141520,
+   "etag": "98f2037565cd54de1602275ddc219be7"
+  },
+  "3319-nang-tuyen-le-dacryops/images/3319_dacryops_MRI-PMC12819838-Fig13.jpg": {
+   "sha256": "6f8f16980a4cf059d074101dd41e3bd9bfec03bda24652cdb49dfe6446873e25",
+   "size": 119504,
+   "etag": "fa12c25d521ba830ec4009160f2a12ed"
+  },
+  "3319-nang-tuyen-le-dacryops/images/3319_dacryops_MRI-PMC7513315-Fig2.jpg": {
+   "sha256": "f95d6510658d5a04e201ead361ecc20ccab6968153e74b0a7d2f4b30c37d8e24",
+   "size": 70800,
+   "etag": "be34a60bb73fa19c47f73980916b1c07"
+  },
+  "3319-nang-tuyen-le-dacryops/images/3319_dacryops_Histo-PMC7513315-Fig3.jpg": {
+   "sha256": "c574776a611b09440c10a3c9b0fc38782a07769be1be3e7a2e19a42ce374561c",
+   "size": 232271,
+   "etag": "ca362591d1a727526d1059d24a4e1633"
+  },
+  "3319-nang-tuyen-le-dacryops/images/3319_dermoid_Sieu-am-PMC13322739-Fig1.jpg": {
+   "sha256": "b6b4ce7e7d9761a83b2d94ece8b1990586e2a8639104c8b0746922b06353dddd",
+   "size": 36329,
+   "etag": "f8a59bf98c371e6dc9f5a59c90991ece"
+  },
+  "3319-nang-tuyen-le-dacryops/images/3319_dacryops_MRI-PMC3867892-Fig1.jpg": {
+   "sha256": "22525fe9873da12903b86ac96f8599f3eb6b6fc592a9c5885afc091d7db28b40",
+   "size": 60561,
+   "etag": "912fef13a0af1a493394f23c4a20b66e"
+  },
+  "3319-nang-tuyen-le-dacryops/images/3319_dacryops_Lam-sang-PMC11020823-Fig3.jpg": {
+   "sha256": "a47ffadd0aaaf03f6577be84540a4001f3923b51c81a54cf24e213000190830a",
+   "size": 247150,
+   "etag": "ed876e41eba09cda95f185e73667e992"
+  },
+  "3319-nang-tuyen-le-dacryops/images/composite_dacryops-vs-dermoid.jpg": {
+   "sha256": "017acebdebc3cce633ae91bb8e6bb5194f5baf7d10fbaa46f3c0f4ebe02163ed",
+   "size": 100904,
+   "etag": "79ba0ab0b86c7fb0da828c04c77268df"
   }
  },
- "generated_at": "2026-11-26T00:18:52Z"
+ "generated_at": "2026-11-26T01:22:35Z"
 }

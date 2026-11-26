@@ -1,0 +1,23 @@
+# CREDITS — ảnh bài 3319 (Nang tuyến lệ / dacryops)
+
+Mỗi ảnh ghi nguồn, giấy phép, link gốc và ghi chú phái sinh. **Không tải** ảnh nào không rõ giấy phép; bài không dẫn ảnh AuntMinnie/paywall. Tên tác giả chỉ ghi trong `sources.md` (đã đối chiếu qua PubMed/Europe PMC); ở đây ghi tạp chí/năm/PMCID để tránh gán sai tác giả cho từng hình.
+
+| Tệp | Nội dung | Nguồn (bài gốc) | Giấy phép | Link gốc | Phái sinh |
+|---|---|---|---|---|---|
+| `3319_dacryops_MRI-PMC12819838-Fig13.jpg` | Dacryops **thùy mi phải**: T1 fat-sat, T1 fat-sat sau tiêm, T2 fat-sat, 3D sau tiêm, T1/T1 sau tiêm coronal — **nang dịch, không ngấm thuốc, không chèn ép** | *Front Ophthalmol (Lausanne)* 2025;5:1724513. Fig. 13. PMCID: PMC12819838 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12819838/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `3319_dacryops_MRI-PMC7513315-Fig2.jpg` | Dacryops **hốc mắt trên–trong phải**, **16,2 × 13,7 mm**: (a) sagittal, (b) coronal, (c) T1 axial, (d) T2 axial — **T1 trung gian, T2 cao** | *BMC Ophthalmol* 2020;20:380. Fig. 2. PMCID: PMC7513315 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC7513315/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `3319_dacryops_Histo-PMC7513315-Fig3.jpg` | Mô bệnh dacryops: (a) **khoang nang lớn, biểu mô lập phương 2 lớp**, không tế bào hình đài; (b) mô tuyến lệ; (c) viêm mạn quanh thành; (d) **snout bào tương/apocrine** | *BMC Ophthalmol* 2020;20:380. Fig. 3. PMCID: PMC7513315 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC7513315/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `3319_dacryops_MRI-PMC3867892-Fig1.jpg` | Dacryops **11 × 6,5 mm** sát cơ trực ngoài, T2 axial — nang **tăng tín hiệu**, bờ rõ | *Case Rep Ophthalmol Med* 2013;2013:549487. Figure 1. PMCID: PMC3867892 | **CC BY 3.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC3867892/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `3319_dacryops_Lam-sang-PMC11020823-Fig3.jpg` | Lâm sàng + mô bệnh nang **tuyến Wolfring**: (A) khối mi trên; (B) nang **xanh xám dưới kết mạc**; (C) **dải xơ bờ tarsus**; (D) sẹo trachoma; (E–F) nang mi dưới; (G) **biểu mô 2 lớp, lòng ngoằn ngoèo**; (H) mô tuyến lệ; (I) viêm quanh ống | *BMC Ophthalmol* 2024;24:164. Fig. 3. PMCID: PMC11020823 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC11020823/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `3319_dermoid_MRI-PMC13322739-Fig2.jpg` | Nang bì **11,4 × 8,3 × 10,2 mm**: T2 CUBE fat-sat axial/coronal/sagittal — tổn thương **tối (mỡ)**, bờ rõ, **không lan sau vách** | *Cureus* 2026;18(5):e110013. Figure 2. PMCID: PMC13322739 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13322739/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `3319_dermoid_Sieu-am-PMC13322739-Fig1.jpg` | Siêu âm nang bì: B-mode axial/sagittal **hồi âm không đồng nhất, hạt hồi âm mịn** ("sack of marbles"); Doppler màu **không có mạch trong nang** | *Cureus* 2026;18(5):e110013. Figure 1. PMCID: PMC13322739 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC13322739/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `3319_u-tuyen-da-hinh_MRI-PMC12819838-Fig2.jpg` | U tuyến đa dạng tuyến lệ trái: T1, T1 fat-sat sau tiêm, T2, ADC/eADC, CT xương — khối **đặc, không đồng nhất, ngấm thuốc**, có ca **tạo xương/hủy xương**, **không hạn chế khuếch tán** | *Front Ophthalmol (Lausanne)* 2025;5:1724513. Fig. 2. PMCID: PMC12819838 | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12819838/ | Không chỉnh sửa nội dung; đổi tên tệp |
+| `composite_dacryops-vs-dermoid.jpg` | Ảnh ghép đối chiếu **dacryops (T2 fat-sat sáng)** và **nang bì (T2 fat-sat tối)**; letterbox nền đen, **không crop/kéo giãn**; dải đen ghi tên + nguồn | Tổng hợp từ `3319_dacryops_MRI-PMC12819838-Fig13.jpg` + `3319_dermoid_MRI-PMC13322739-Fig2.jpg` | **CC BY 4.0** | https://pmc.ncbi.nlm.nih.gov/articles/PMC12819838/ ; https://pmc.ncbi.nlm.nih.gov/articles/PMC13322739/ | Tạo bằng `tools/make_composite.py`; **chỉ thêm nhãn/dải attribution**, không thay đổi nội dung ảnh |
+
+## Ghi chú giấy phép
+
+- Ảnh **CC BY 4.0** và **CC BY 3.0**: được chia sẻ và chỉnh sửa nếu **ghi công đầy đủ**; bài này **không crop**, chỉ **đổi tên tệp**.
+- Ảnh ghép chỉ dùng nguồn **CC BY**; giữ nguyên nội dung, thêm dải attribution; xuất bản theo **CC BY 4.0**.
+- Ảnh tải trực tiếp từ **PMC CDN** (`cdn.ncbi.nlm.nih.gov/pmc/blobs/...`) lấy trong trang bài gốc, không qua nguồn thứ cấp.
+- Các bài chỉ dùng **số liệu**, không dùng ảnh: PMID 34324876, PMC6074379, PMID 21956544, PMID 31512543, PMC7619048, PMC8355906, PMC10391419, PMID 10445458, PMC12660082, PMC13539507.
+- Không dùng ảnh của **AuntMinnie/paywall**; không dùng ảnh có giấy phép mơ hồ.
