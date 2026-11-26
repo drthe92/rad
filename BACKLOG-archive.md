@@ -3031,3 +3031,6 @@ Viết 754: ngưỡng TMT 6,3/5,2 mm, AUC 0,779, HR 0,399, κ 0,01–0,11 (4 ả
 ## 2026-11-26 — 3320 nang bì hốc mắt vỡ
 - Viết **3320** (mắt – hốc mắt/mi): **1/638** trẻ sinh sống, **60,4–81,5%** góc trên–thái dương; vỡ tự phát có phản ứng hạt **61,9% (26/42)**, viêm mạn ở trẻ **16,5% (16/97)**, **29 ca vỡ rõ (93% do mổ)**; viêm dai dẳng **50%** vs **3,7%**; vỡ trong mổ **10,4–18%**, tái phát **4,2–6,3%**; 6 ảnh + 1 composite CC BY 4.0.
 - Flip #2408/3320; append gap **#9460/3321** (dị vật hữu cơ hốc mắt, đã check_duplicates); verify PASS 8/8; push OK.
+## 2026-11-26 — nâng cấp 1506 dị vật hốc mắt tồn lưu
+- Phát hiện **#9460/3321 trùng bài 1506** (cùng PMC13674916/PMC13499104) → không viết trùng; **nâng cấp 1506**: gỗ cấp **−252,77 HU** → ngày 15 **+97,28 HU** → mạn **79–213 HU** (10 ca), 32 ca CT khẳng định **72%**, 23 ca đọc đầu **61/22/13%**, CT **94,4%** vs MRI **50–88,9%**, thêm **mục 7**; verify PASS 8/8.
+- Flip #9460/3321 → gộp; append gap **#9461/3862 thoát vị đĩa đệm ngực** (đã check_duplicates); push OK.
